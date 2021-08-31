@@ -1,4 +1,4 @@
-# amp-auden-musulin-papers
+# amp-data
 
 ## folder structure
 
