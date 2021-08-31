@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:id="amp-transkript__0001.xml"
+   xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Audene Musulin Papers: A digital Edition</title>
+            <title level="a">Letter W. H. Auden to Stella Musulin 1963-05-12</title>
+            <author>H. W. Auden</author>
+            <editor>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>AMP</edition>
+            <respStmt>
+               <resp>Transkription und Kommentierung</resp>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium
+                     vervielfältigen und weiterverbreiten Bearbeiten — das Material remixen,
+                     verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar
+                     kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+                     Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen
+                     Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese
+                     Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings
+                     nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie
+                     oder Ihre Nutzung besonders. Keine weiteren Einschränkungen — Sie dürfen keine
+                     zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen
+                     rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+                     Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch
+                     Ausnahmen und Schranken des Urheberrechts gedeckt sind. Es werden keine
+                     Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen
+                     möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung
+                     brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und
+                     Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
+                     beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>St. Pölten</settlement>
+                        <repository>Landessammlungen Niederösterreich</repository>
+                        <collection>Stella Musulin (Depot)</collection>
+                        <idno>folder 1, 7</idno>
+                     </msIdentifier>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">english</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#hwa">H. W. Auden</persName>
+               <placeName ref="#"></placeName>
+               <date></date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#sm">Stella Musulin</persName>
+               <placeName ref="#"></placeName>
+               <date></date>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2021-08-30">template populated with script "create_templates.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="4564" lry="3450">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4568" lry="3442">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0002/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="7746" lry="5688">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0003/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="7740" lry="5688">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0004/"/>
+      </surface>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div xml:id="transcription">
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0002/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0003/" type="letter"/>
+            <p>Sunday</p>
+            <p>
+               KIRCHSTETTEN (WESTBAHN)<lb/>
+               HINTERHOLZ 6<lb/>
+               N.-Ö., Austria               
+            </p>
+            <p>
+               Dear Stella:<lb/>
+               Delighted to hear you are zu Haus.<lb/>
+            </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0004/" type="letter"/>
+         </div>
+      </body>
+   </text>
+</TEI>
