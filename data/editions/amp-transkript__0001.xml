@@ -105,6 +105,7 @@
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-08-30">template populated with script "create_templates.py"</change>
+         <change who="#tf sm" when-iso="2021-09-06">finalized collation</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -144,7 +145,7 @@
                Chester is at the moment in Florence, but<lb/>
                I expect him back on Tuesday.<lb/>
                love<lb/>
-               <hi rend="underline">Wystan</hi>
+               Wystan
             </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0004/" type="letter"/>
          </div>
