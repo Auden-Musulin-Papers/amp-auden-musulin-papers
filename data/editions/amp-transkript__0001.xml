@@ -124,6 +124,9 @@
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0002/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0003/" type="letter"/>
+            <p>hallo<lb/>
+               wie geht<unclear>s</unclear>?<lb/>
+            </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0004/" type="letter"/>
          </div>
       </body>
