@@ -112,7 +112,23 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope"/>
+            <p>Chester in Florence.</p>
+            <p>Die Baronin<lb/>
+               Stella <unclear>Mussulin</unclear><lb/>
+               <del>Wien III</del><lb/>
+               <del>Neulinggasse 26</del>
+            </p>
+            <p>Fridau,<lb/>
+               Obergrafendorf,<lb/>
+               bei ST.PÖLTEN,<lb/>
+               NÖ
+                     </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0002/" type="envelope"/>
+            <p>W.H.Auden.<lb/>
+            KIRCHSTETTEN (WESTBAHN)<lb/>
+            HINTERHOLZ 6<lb/>
+            N.-Ö., AUSTRIA
+            </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0003/" type="letter"/>
             <p>Sunday.</p>
             <p>
