@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="amp-transcript__0006.xml"
+   xml:id="amp-transcript__0021.xml"
    xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-02-06</title>
+            <title level="a">Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</title>
             <author>Auden, W. H.</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -61,10 +61,10 @@ for any purpose, even commercially.</p>
                         <settlement>St. Pölten</settlement>
                         <repository>State Collections of Lower Austria</repository>
                         <collection>Stella Musulin (Depot)</collection>
-                        <idno>1, 15</idno>
+                        <idno>1, 2</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1968-02-06" >1968-02-06</origDate></origin>
+                        <origin><origDate when-iso="1961-10-13" >1961-10-13</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -80,7 +80,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <persName ref="#auden-w-h">Auden, W. H.</persName>
                <placeName ref="#"></placeName>
-               <date  when-iso="1968-02-06" >1968-02-06</date>
+               <date  when-iso="1961-10-13" >1961-10-13</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#musulin-stella">Musulin, Stella</persName>
@@ -95,26 +95,26 @@ for any purpose, even commercially.</p>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="6446" lry="3224">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0027/"/>
+      <surface ulx="0" uly="0" lrx="4552" lry="3472">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="6452" lry="3226">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0028/"/>
+      <surface ulx="0" uly="0" lrx="4550" lry="3472">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0114/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5844" lry="7342">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0029/"/>
+      <surface ulx="0" uly="0" lrx="4268" lry="5694">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0115/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5840" lry="7344">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0030/"/>
+      <surface ulx="0" uly="0" lrx="4272" lry="5688">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0116/"/>
       </surface>
    </facsimile>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0027/" type="envelope"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0028/" type="envelope"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0029/" type="sheet"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0030/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0114/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0115/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0116/" type="sheet"/>
          </div>
       </body>
    </text>

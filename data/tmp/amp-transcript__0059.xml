@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="amp-transcript__0006.xml"
+   xml:id="amp-transcript__0059.xml"
    xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-02-06</title>
+            <title level="a">Envelope W. H. Auden to Stella Musulin 1962-04-30</title>
             <author>Auden, W. H.</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -61,10 +61,10 @@ for any purpose, even commercially.</p>
                         <settlement>St. Pölten</settlement>
                         <repository>State Collections of Lower Austria</repository>
                         <collection>Stella Musulin (Depot)</collection>
-                        <idno>1, 15</idno>
+                        <idno>1, 16</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1968-02-06" >1968-02-06</origDate></origin>
+                        <origin><origDate when-iso="1962-04-30" >1962-04-30</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -76,45 +76,24 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
          </langUsage>
          
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"></placeName>
-               <date  when-iso="1968-02-06" >1968-02-06</date>
-            </correspAction>
-            <correspAction type="received">
-                <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
-            </correspAction>
-         </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="6446" lry="3224">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0027/"/>
+      <surface ulx="0" uly="0" lrx="4558" lry="3452">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0031/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="6452" lry="3226">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0028/"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5844" lry="7342">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0029/"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5840" lry="7344">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0030/"/>
+      <surface ulx="0" uly="0" lrx="4556" lry="3454">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0032/"/>
       </surface>
    </facsimile>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0027/" type="envelope"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0028/" type="envelope"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0029/" type="sheet"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0030/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0031/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0032/" type="envelope"/>
          </div>
       </body>
    </text>
