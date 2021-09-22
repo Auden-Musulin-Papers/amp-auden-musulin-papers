@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-17">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-09-21">text transcribed</change>
+         <change who="smayer" when="2021-09-22">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-09-22">transcription collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -129,23 +132,23 @@ for any purpose, even commercially.</p>
                   N.-Ö., AUSTRIA
                </p>
                <p>
-                  <unclear>Buch</unclear> Neulinggasse<lb/>
+                  <unclear>1. Buch</unclear> Neulinggasse<lb/>
                   26/14<lb/>
                   27.9.<lb/>
                   beigefügter Brief<lb/>
-                  schlamperte Post<lb/>
+                  schlamp<unclear>e</unclear>rte Post<lb/>
                   feste Adresse
                </p>
                <p>
-                  aus <unclear>Müncheneen</unclear><lb/>
-                  4.5.6. <unclear>nicht</unclear><lb/>
+                  aus München a<unclear>n</unclear><lb/>
+                  4:5:6: <unclear>nicht</unclear><lb/>
                   da
                </p>
                <p>
                   no mail saturday
                </p>
                <p>
-                  <unclear>2E</unclear>
+                  2<unclear>6</unclear>/
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0017/" type="sheet"/>
                <p>
@@ -167,14 +170,14 @@ for any purpose, even commercially.</p>
                   Tuesday? I have to go to a reception at<lb/>
                   Amerika Haus 6-8. If you were free, it<lb/>
                   would be fun to have dinner to-gether. I<lb/>
-                  certainly shan't stay at <unclear>the do</unclear> after <unclear>7</unclear>:30.<lb/>
-                  I <unclear>XXX about the cutting</unclear>. Will keep it till<lb/>
+                  certainly shan't stay at the do after <unclear>7</unclear>.30.<lb/>
+                  I <unclear>agree</unclear> about the cutting. Will keep it till<lb/>
                   you come or bring it with me next week.<lb/>
                   love<lb/>
                   Wystan
                </p>
                <p>
-                  P. S. The N.D.R <unclear>arrived</unclear>. Translation quite good,<lb/>
+                  P. S. The N.D.R arrived. Translation quite good,<lb/>
                   but why turn bars into Theke?
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0018/" type="sheet"/>
