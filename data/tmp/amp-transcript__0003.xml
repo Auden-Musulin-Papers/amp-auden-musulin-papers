@@ -113,14 +113,14 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0015/" type="envelope"/>
                <p>
-                 Eil-Post 
+                  Eil-Post
                </p>
-            <p>
-               Die Baronin<lb/>
-               Stella Musulin<lb/>
-               Wien III<lb/>
-               Neulinggasse 26
-            </p>
+               <p>
+                  Die Baronin<lb/>
+                  Stella Musulin<lb/>
+                  Wien III<lb/>
+                  Neulinggasse 26 .
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0016/" type="envelope"/>
                <p>
                   W. H. AUDEN<lb/>
@@ -129,26 +129,32 @@ for any purpose, even commercially.</p>
                   N.-Ö., AUSTRIA
                </p>
                <p>
-                  <unclear>I.</unclear>Buch Neulinggasse<lb/>
-                  26/4<lb/>
-                  27. 9.<lb/>
+                  <unclear>1. Buch</unclear> Neulinggasse<lb/>
+                  26/14<lb/>
+                  27.9.<lb/>
                   beigefügter Brief<lb/>
                   schlamp<unclear>e</unclear>rte Post<lb/>
                   feste Adresse
                </p>
                <p>
-                  aus München am<lb/>
+                  aus München a<unclear>n</unclear><lb/>
                   4:5:6: <unclear>nicht</unclear><lb/>
-                  da<lb/>
-                  no m<unclear>ai</unclear>l Saturday
+                  da
                </p>
-               <p>26/</p>
+               <p>
+                  no mail saturday
+               </p>
+               <p>
+                  2<unclear>6</unclear>/
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0017/" type="sheet"/>
                <p>
-                 W. H. AUDEN 
+                  Mittwoch
                </p>
                <p>
-                  Mittwoch<lb/>
+                  W. H. AUDEN
+               </p>
+               <p>
                   KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
                   N.-Ö., AUSTRIA
@@ -161,14 +167,14 @@ for any purpose, even commercially.</p>
                   Tuesday? I have to go to a reception at<lb/>
                   Amerika Haus 6-8. If you were free, it<lb/>
                   would be fun to have dinner to-gether. I<lb/>
-                  certainly shan't stay at the do after 2.30.<lb/>
-                  I agree about the cutting. Will keep it till<lb/>
+                  certainly shan't stay at the do after <unclear>7</unclear>.30.<lb/>
+                  I <unclear>agree</unclear> about the cutting. Will keep it till<lb/>
                   you come or bring it with me next week.<lb/>
                   love<lb/>
                   Wystan
                </p>
                <p>
-                  P. S. the N.D.R. arrived. Translation quite good,<lb/>
+                  P. S. The N.D.R arrived. Translation quite good,<lb/>
                   but why turn bars into Theke?
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0018/" type="sheet"/>
