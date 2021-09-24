@@ -4,28 +4,40 @@
     version="2.0">
     <xsl:output exclude-result-prefixes="#all"/>
     
-    <xsl:import href="nav_bar.xsl"/>
-    
+    <xsl:import href="./partials/html_navbar.xsl"/>
+    <xsl:import href="./partials/html_head.xsl"/>
+    <xsl:import href="partials/html_footer.xsl"/>
     <xsl:template match="/">
+        <xsl:variable name="doc_title">
+            <xsl:value-of select=".//tei:title[@level='a'][1]/text()"/>
+        </xsl:variable>
         <html xmlns="http://www.w3.org/1999/xhtml">
-            <head>
-                <title>Auden Musulin Papers</title>
-                <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>	
-                <link rel="stylesheet" type="text/css" href="css/aratea.css"/>
-                <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
-            </head>
-            <body>
+            <xsl:call-template name="html_head">
+                <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
+            </xsl:call-template>
+            
+            <body class="page">
+                <div class="hfeed site" id="page">
                 <xsl:call-template name="nav_bar"/>
-                <div class="container">
-                    <xsl:for-each select="//tei:body//tei:div">
-                        <div id="{generate-id()}">
-                            <xsl:apply-templates/>
+                
+                <div class="wrapper" id="wrapper-hero" style="
+                    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('dist/fundament/images/acdh_building.jpg'); 
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    position: relative; ">
+                    <div class="wrapper" id="wrapper-hero-content" >
+                        <div class="container hero-dark" id="wrapper-hero-inner" tabindex="-1">
+                            <h1>Auden Musulin Papers</h1>
+                            <h2>A digital edition of W. H. Auden's Letters to Stella Musulin</h2>
+                            <p>Early version of a once to become Project-Website and Digital Edition of the <strong>Auden Musulin Papers</strong></p>
+                            <button class="btn btn-round">Read More</button>
                         </div>
-                    </xsl:for-each>
+                    </div>
                 </div>
-                <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"  />
-                <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"  />
-                <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"  />
+                    
+                <xsl:call-template name="html_footer"/>
+                </div>
             </body>
         </html>
     </xsl:template>
