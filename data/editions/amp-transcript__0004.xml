@@ -93,6 +93,8 @@ for any purpose, even commercially.</p>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="tfruehwirth" when="2021-09-22">text transcribed</change>
+         <change who="smayer" when="2021-09-23">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-09-24">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -128,17 +130,18 @@ for any purpose, even commercially.</p>
                   Stella Musulin<lb/>
                   Fridau<lb/>
                   3200 Obergrafendorf<lb/>
-                  N.O.<lb/>
+                  N.<unclear>Ö</unclear>.<lb/>
                   Austria
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0020/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0021/" type="sheet"/>
-               <p>77 St Mark's Place<lb/>
-                  New York City 3<lb/>
+               <p>
+                  77 St Mark's Place<lb/>
+                  New  York City 3<lb/>
                   New York I0003
                </p>
                <p>
-                  Feb 3rd,196<del>5</del>6
+                  Feb 3rd,I96<del>5</del>6
                </p>
                <p>
                   Dear Stella:<lb/>
@@ -147,29 +150,29 @@ for any purpose, even commercially.</p>
                   telescopes two <del>cnvictions</del>distinct convictions of mine,falsifying both.<lb/>
                   I) I believe it to be a serious moral error when an artist overestimates<lb/>
                   the importance of art and, by implication,of himself. One must admit<lb/>
-                  that the <del>plotical</del> political history of Eur<del>i</del>ope,with <del>all its</del>the same horrors,<lb/>
-                  would be what it has been,if Dante,Shakespeare,Goethe,Titian,
+                  that the <del>plotical</del> political history of Eur<del>i</del>ope, with <del>all its</del>the same horrors,<lb/>
+                  would be what it has been,if Dante,Shakespeare,Goethe,Titian,<lb/>
                   Mo<del>x</del>zart,et al,had never existed.<lb/>
                   2) I believe that the only way in which, to-day at any rate,one can<lb/>
-                  speak <del>seroiu</del> <del>s eriously</del> seriously about serious matters( the alternati<del>c</del>ve<lb/>
-                  is silence) is comically. I am surprised to hear from you that<lb/>
+                  speak <del>seroiu</del> <del>s eriously</del>  seriously about serious matters( the alternati<del>c</del>ve<lb/>
+                  is silence) is comically. I am surprised to hear from you  that<lb/>
                   Jews find this hard to accept. I have enormously admired - and been<lb/>
                   influenced by - the tradition of Jewish humor. More than any other<lb/>
                   people,surely,they have seen in serious matters,that is to say,human<lb/>
                   suffering,<del>and</del> the contradictions of human existence,and the relation<lb/>
                   between man and God,occasions for humorous expression.<lb/>
                   e.g,: "If the rich could hire other people to die for them,the poor<lb/>
-                  could make a wonderful living", or "Truth rests with God alone,and<lb/>
+                  cou<del>o</del>ld make a wonderful living", or "Truth rests with God alone,and<lb/>
                   a little bit with me",or "God will provide - ah,if only He wou<del>o</del>ld till<lb/>
                   He does so."<lb/>
-                  So! you encountered the one-whose-name-we-never-mention. Why Chester should<lb/>
-                  have been so foolish as to invite him to a party,I cannot imagine. If he<lb/>
+                  So! you encountered the one-whose-name-we-never-mention. Why Chest<del>r</del>er should<lb/>
+                  have been so foolish as  to invite him to a p<del>e</del>arty,I cannot imagine. If he<lb/>
                   is to be seen at all,he <del>yy</del>must be seen alone. Incidentally,next time you see<lb/>
                   Chester,scold him a) for not writing to me b) for not answering Harrison's<lb/>
                   cable.<lb/>
                   All well here.except for a leaking kit<del>v</del>chen roof. No doubt you read about<lb/>
                   our Black-Out and Transit Strike.(My typewriter is on the blink,hence the<lb/>
-                  hiatuses.) A <del>firen</del> friend of mine who teaches schyzophrenics,has a seventeen<lb/>
+                  hiatuses.)  A <del>firen</del> friend of mine who teaches schyzophrenics,has a seventeen<lb/>
                   year old girl who is interested in poetry. Asked what poets she liked,she<lb/>
                   mentioned me. "I happen to know him quite well",said my friend. To which the<lb/>
                   girl in astonishment:"You mean to say,he's still alive!".<lb/>
