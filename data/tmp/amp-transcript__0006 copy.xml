@@ -112,8 +112,55 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0027/" type="envelope"/>
+               <p>
+                  W.H.Auden<lb/>
+                  77 St Mark's Place<lb/>
+                  New York City<lb/>
+                  New York 10003<lb/>
+                  U.S.A
+               </p>
+               <p>
+                  Air-Mail
+               </p>
+               <p>
+                  Die Baronin<lb/>
+                  Stella M<unclear>u</unclear>sulin<lb/><!-- or: o corrected to u? -->
+                  Vienna III<lb/>
+                  26 Neulingasse<lb/>
+                  Austria
+               </p>
+               <p>
+                  Re <unclear>arrived</unclear> interview<lb/>
+                  Strobl.
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0028/" type="envelope"/>
+               <p>
+                  52 6320<lb/>
+                  Wandl:<lb/>
+                  <unclear></unclear>.<lb/><!-- Shy or Sky ...? -->
+                  Austia.
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0029/" type="sheet"/>
+               <p>
+                  77 St Mark's Place<lb/>
+                  N.Y.C 3.
+               </p>
+               <p>
+                  Feb 6th.
+               </p>
+               <p>
+                  Dear Stella.
+                  I shall be arriving in Vienna next<lb/>
+                  Monday morning (12th) and staying till<lb/>
+                  the 16th in order to interview a<lb/>
+                  prospective couple to take the Eiermanns place.<lb/>
+                  Expect to be staying at the Hotel<lb/>
+                  Königin von Hungarn .<lb/>
+                  Will phone you. Do hope you are<lb/>
+                  around.<lb/>
+                  love<lb/>
+                  Wystan
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0030/" type="sheet"/>
          </div>
       </body>
