@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-09-24">text transcribed</change>
+         <change who="smayer" when="2021-09-27">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-09-27">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -117,7 +120,7 @@ for any purpose, even commercially.</p>
                   77 St Mark's Place<lb/>
                   New York City<lb/>
                   New York 10003<lb/>
-                  U.<unclear>S</unclear>A
+                  U.<unclear>S.</unclear>A
                </p>
                <p>
                   Air-Mail
@@ -128,8 +131,8 @@ for any purpose, even commercially.</p>
                <p>
                   Die Baronin<lb/>
                   Stella Musulin<lb/>
-                  Wien III
-                  <unclear></unclear> Neulingasse 26<lb/>
+                  Wien III<lb/>
+                  <del><unclear></unclear></del>Neulingasse 26<lb/>
                   Austria
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0024/" type="envelope"/>
@@ -137,7 +140,7 @@ for any purpose, even commercially.</p>
                <p>
                   77 St Mark's Place<lb/>
                   New York City<lb/>
-                  New York 1000 3
+                  New York 10003
                </p>
                <p>
                   Nov 8th
@@ -146,14 +149,14 @@ for any purpose, even commercially.</p>
                   Dear Stella.<lb/>
                   A disaster has happened. Frau Eiermann<lb/>
                   died of a heart-attack on Nov 4th.<lb/>
-                  (Have just heard this from my lawyer.).<lb/>
+                  (Have just hea<unclear>rd</unclear> this from my lawyer.)<unclear>.</unclear><lb/>
                   A minor worry connected with this is what<lb/>
                   is happening to her cats and ours. I suppose<lb/>
                   they will probably have to be destroyed.<lb/>
                   Next time you are travelling between Fridau<lb/>
                   and Wien, could you be a dear and stop<lb/>
                   in Kirchstetten to see what is happening.<lb/>
-                  Incidentally, in case you should need it my lawyers<lb/>
+                  Incedentally, in case you should need it my lawyers<lb/>
                   name and address is Dr Walter Redlich. Wien I.<lb/>
                   Wipplingerstrasse. 24-26.<lb/>
                   Canterbury was quite fun. The Archbishop came<lb/>
