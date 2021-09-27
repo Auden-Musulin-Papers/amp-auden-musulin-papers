@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-09-24">text transcribed</change>
+         <change who="smayer" when="2021-09-27">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-09-27">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -117,7 +120,7 @@ for any purpose, even commercially.</p>
                   77 St Mark's Place<lb/>
                   New York City<lb/>
                   New York 10003<lb/>
-                  U.S.A
+                  U.<unclear>S.</unclear>A
                </p>
                <p>
                   Air-Mail
@@ -146,7 +149,7 @@ for any purpose, even commercially.</p>
                   Dear Stella.<lb/>
                   A disaster has happened. Frau Eiermann<lb/>
                   died of a heart-attack on Nov 4th.<lb/>
-                  (Have just hear this from my lawyer.)<lb/>
+                  (Have just hea<unclear>rd</unclear> this from my lawyer.)<unclear>.</unclear><lb/>
                   A minor worry connected with this is what<lb/>
                   is happening to her cats and ours. I suppose<lb/>
                   they will probably have to be destroyed.<lb/>
