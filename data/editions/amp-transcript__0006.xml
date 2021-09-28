@@ -92,9 +92,6 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
-         <change who="tfruehwirth" when="2021-09-27">text transcribed</change>
-         <change who="smayer" when="2021-09-28">text transcribed</change>
-         <change who="smayer tfruehwirth" when="2021-09-28">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -127,21 +124,21 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Die Baronin<lb/>
-                  Stella M<unclear>u</unclear>sulin<lb/><!-- or: o corrected to u? -->
+                  Stella M<del><unclear></unclear></del>usulin<lb/>
                   Vienna III<lb/>
                   26 Neulingasse<lb/>
                   Austria
                </p>
                <p>
-                  Re <unclear>arrived</unclear> interview<lb/>
+                  Re arrival interview<lb/>
                   Strobl.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0028/" type="envelope"/>
                <p>
                   52 6320<lb/>
-                  Wandl:<lb/>
-                  <unclear></unclear>.<lb/><!-- Shy or Sky ...? -->
-                  Austia.
+                  W<unclear>en</unclear>dl:<lb/>
+                  Eli<unclear>s</unclear>abeth<unclear>:</unclear><lb/>
+                  Austria. 
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0029/" type="sheet"/>
                <p>
@@ -152,7 +149,7 @@ for any purpose, even commercially.</p>
                   Feb 6th.
                </p>
                <p>
-                  Dear Stella.
+                  Dear Stella.<lb/>
                   I shall be arriving in Vienna next<lb/>
                   Monday morning (12th) and staying till<lb/>
                   the 16th in order to interview a<lb/>
