@@ -112,8 +112,45 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0035/" type="envelope"/>
+               <p>
+                  Eil-Brief
+               </p>
+               <p>
+                  Die Baronin<lb/>
+                  Stella Musulin<lb/>
+                  1030 Wien <del>IV</del><lb/>
+                  Neulingasse 26
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0036/" type="envelope"/>
+               <p>KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  <unclear></unclear>, Christiane<!-- Aim...? -->
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0037/" type="sheet"/>
+               <p>
+                  KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  Sunday.
+               </p>
+               <p>
+                  Dear Stella:<lb/>
+                  I got your telegram yesterday just before<lb/>
+                  lunch. Tried twice in the afternoon and once<lb/>
+                  this morning to reach you, but umsonst.<lb/>
+                  Am off to England to-morrow, so don't see how<lb/>
+                  anything can now be arranged.<lb/>
+                  If you think these can, please write me<lb/><!-- really 'these can'? -->
+                  &#x2105; Faber and Faber, 24 Russell Square,W.C. I<lb/>
+                  So sorry<lb/>
+                  love<lb/>
+                  Wystan.
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0038/" type="sheet"/>
          </div>
       </body>
