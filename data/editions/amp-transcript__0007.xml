@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-09-28">text transcribed</change>
+         <change who="smayer" when="2021-09-29">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-09-29">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -128,7 +131,7 @@ for any purpose, even commercially.</p>
                   N.-Ö., AUSTRIA
                </p>
                <p>
-                  <unclear></unclear>, Christiane<!-- Aim...? -->
+                  <unclear>Arrival</unclear>, Christiane
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0037/" type="sheet"/>
                <p>
@@ -143,11 +146,11 @@ for any purpose, even commercially.</p>
                   Dear Stella:<lb/>
                   I got your telegram yesterday just before<lb/>
                   lunch. Tried twice in the afternoon and once<lb/>
-                  this morning to reach you, but umsonst.<lb/>
+                  this morning to reach you , but umsonst.<lb/>
                   Am off to England to-morrow, so don't see how<lb/>
                   anything can now be arranged.<lb/>
-                  If you think these can, please write me<lb/><!-- really 'these can'? -->
-                  &#x2105; Faber and Faber, 24 Russell Square,W.C. I<lb/>
+                  If you think these can, please write me<lb/>
+                  &#x2105; Faber and Faber, 24 Russell Square , W.C. I<lb/>
                   So sorry<lb/>
                   love<lb/>
                   Wystan.
