@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-09-30">text transcribed</change>
+         <change who="smayer" when="2021-10-01">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-01">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -102,7 +105,7 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0044/"/>
       </surface>
       <surface ulx="0" uly="0" lrx="5674" lry="7758">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0013/"/>
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0045/"/>
       </surface>
       <surface ulx="0" uly="0" lrx="5676" lry="7758">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0046/"/>
@@ -120,23 +123,23 @@ for any purpose, even commercially.</p>
                   England
                </p>
                <p>
-                  <del><unclear></unclear></del>Air-Mail
+                  <del><unclear></unclear></del>Air-M<unclear>ai</unclear>l
                </p>
                <p>
                   Die Baronin<lb/>
                   Stella Musulin<lb/>
                   Wien <del>IV</del>III<lb/>
                   Neulinggasse 26<lb/>
-                  Austria.
+                  Austria .
                </p>
                <p>
-                  Re Czech refugees.
+                  Re Czech refugees .
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0044/" type="envelope"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0013/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0045/" type="sheet"/>
                <p>
                   &#x2105; Heyworth<lb/>
-                  32 BRYANSTON SQUARE LONDON W1 &#00B7; AMBASSADOR 8906
+                  32 BRYANSTON SQUARE LONDON W1 &#x00B7; AMBASSADOR 8906
                </p>
                <p>
                   Tuesday
@@ -145,14 +148,14 @@ for any purpose, even commercially.</p>
                   Dear Stella:<lb/>
                   Got back from Oxford yesterday and found your<lb/>
                   letter waiting.<lb/>
-                  1) I think I ought to take the couple in, but<lb/>
+                  1) I think I ought to take the couple in , but<lb/>
                   I must leave it to you to decide whether<lb/>
-                  they are O.K. If they are, all rooms, including<lb/>
-                  my study (which can't be heated  are open to them.<lb/>
+                  they are O.K. If they are , all rooms, including<lb/>
+                  my study ( which can't be heated are open to them.<lb/>
                   2). How much money will they need to keep going?<lb/>
                   And how shall I make the arrangements for payment.<lb/>
                   3) Will they be able to find work or emigrate before<lb/>
-                  I return in April,when I'm afraid there will<lb/>
+                  I return in April , when <unclear>I</unclear>'m afraid there will<lb/>
                   not be room for them.?<lb/>
                   4) I'm worried about how they will get gas-cylinders<lb/>
                   for cooking from Neulengbach, since, presumably, they<lb/>
@@ -161,8 +164,8 @@ for any purpose, even commercially.</p>
                   5). If and when they come, I must know in advance<lb/>
                   so that I can write a note to the<lb/>
                   Burgomeister.<lb/>
-                  Shall be here in my xxx until Oct 31st. After that<lb/>
-                  77 St Mark's Place.N.Y.C. N.Y 10003.<lb/>
+                  Shall be here <unclear>in</unclear> my <unclear>address</unclear> until O<unclear>ct</unclear> 31.st After that<lb/>
+                  77 St Mark's Place .N.Y.C<unclear>.</unclear> N.Y 10003 .<lb/>
                   love<lb/>
                   Wystan
                </p>

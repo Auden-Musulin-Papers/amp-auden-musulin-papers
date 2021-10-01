@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-09-29">text transcribed</change>
+         <change who="smayer" when="2021-10-01">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-01">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -117,10 +120,10 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Left US driving<lb/>
-                  licence behind.
+                  licence behind .
                </p>
                <p>
-                  Die Baronin<unclear>in</unclear><lb/>
+                  Die Baroninin<lb/>
                   Stella Musulin<lb/>
                   <del>Vi</del> Wien I<del>V</del>II<lb/>
                   Neulinggasse 26<lb/>
@@ -128,10 +131,10 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0040/" type="envelope"/>
                <p>
-                  W.H. Auden<lb/>
+                  WH.Auden<lb/>
                   &#x2105; Heyworth<lb/>
                   32 Bryanston  Square<lb/>
-                  London. <del>N.</del> W.I<lb/>
+                  London. <del><unclear>N.</unclear></del> W.I<lb/>
                   England
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0041/" type="sheet"/>
@@ -140,12 +143,12 @@ for any purpose, even commercially.</p>
                   OXFORD.
                </p>
                <p>
-                  Oct 12th
+                  Oct 12 th
                </p>
                <p>
-                  Dear Stella.<lb/>
+                  Dear Stella<unclear>.</unclear><lb/>
                   Like an idiot, Ive<del><unclear></unclear></del> gone and<lb/>
-                  left my American Dr<unclear>i</unclear>ving Licence<lb/>
+                  left my American Dr<del><unclear></unclear></del>iving Licence<lb/>
                   behind.<lb/>
                   It should be in an envelope in<lb/>
                   the drawer of my bed-table upstairs.<lb/>
