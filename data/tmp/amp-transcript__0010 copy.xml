@@ -112,8 +112,42 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0047/" type="envelope"/>
+               <p>
+                  WH Auden<lb/>
+                  77 St Mark's Place<lb/>
+                  New York City<lb/>
+                  N.Y. 1000 3<lb/>
+                  U.S.A
+               </p>
+               <p>
+                  Air-Mail
+               </p>
+               <p>
+                  Die Baronin<lb/>
+                  Stella Musulin<lb/>
+                  Wien A-1030<lb/>
+                  Neulinggasse 26/14<lb/>
+                  Austria
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0048/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0049/" type="sheet"/>
+               <p>
+                  77 St Mark's Place<lb/>
+                  N.Y.C.<lb/>
+                  N.Y. 1003
+               </p>
+               <p>
+                  Nov 6 <unclear>th</unclear>.
+               </p>
+               <p>
+                  Dear Stella:<lb/>
+                  Many thanks for your letter. Of course,<lb/>
+                  selfishly, I'm rather reli<del><unclear></unclear></del>eved. How horrid<lb/>
+                  one is !<lb/>
+                  The U.S. is grim.<lb/>
+                  love<lb/>
+                  Wystan.
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0050/" type="sheet"/>
          </div>
       </body>
