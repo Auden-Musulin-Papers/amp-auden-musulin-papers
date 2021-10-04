@@ -9,15 +9,9 @@ $('#OSD-images').css({
 var tileSources =[];
 document.body.querySelectorAll('.tei-xml-images').forEach(function (node) {
     var imageURL = node.getAttribute('src');
-    if (imageURL.includes('Grundbuch')) {
-        tileSources.push(
-            imageURL
-            );
-   } else {
-        tileSources.push({
-            type: 'image', url: imageURL
-            });
-    }
+    tileSources.push({
+        type: 'image', url: imageURL
+    });
 });
 var viewer = OpenSeadragon({
     id: 'OSD-images',
