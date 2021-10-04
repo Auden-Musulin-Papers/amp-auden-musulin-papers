@@ -42,38 +42,46 @@
                         <h6 class="font-weight-bold">PROJECT PARTNERS</h6>
                         <div class="container">
                             <div class="row">
+                                <!--<div class="col-lg-6 col-md-6 col-sm-12">
+                                    <div class="card flex-md-row mb-4 align-items-center">
+                                        <a href="https://acdh.oeaw.ac.at"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a>
+                                        <!-\-<div class="card-body d-flex flex-column align-items-start">
+                                            <p class="card-text mb-auto">Austrian Center for Digital Humanities and Cultural Heritage</p>
+                                        </div>-\->
+                                    </div>
+                                </div>-->  
                                 <div class="col-lg-6 col-md-6 col-sm-12">
                                     <div class="card flex-md-row mb-4 align-items-center">
-                                        <a href="/"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a>
-                                        <div class="card-body d-flex flex-column align-items-start">
+                                        <a href="https://www.fwf.ac.at/en/"><img class="card-img-right flex-auto d-md-block" src="https://www.fwf.ac.at/fileadmin/files/Images/News_Presse/Presse/Logo/fwf-logo_var2.jpg" alt="FWF Der Wissenschaftsfond Logo" style="max-width: 140px; height: auto; margin-top:1em;" title="FWF Der Wissenschaftsfond" /></a>
+                                        <!--<div class="card-body d-flex flex-column align-items-start">
                                             <p class="card-text mb-auto">Project partner</p>
-                                        </div>
+                                        </div>-->
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12">
                                     <div class="card flex-md-row mb-4 align-items-center">
-                                        <a href="/"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a>
-                                        <div class="card-body d-flex flex-column align-items-start">
+                                        <a href="https://www.univie.ac.at/en/"><img class="card-img-right flex-auto d-md-block" src="https://communications.univie.ac.at/fileadmin/user_upload/d_oeffentlichkeitsarbeit/Logos/2016-02/Uni_Logo_2016.jpg" alt="Universität Wien Logo" style="max-width: 160px; height: auto; vertical-align: middle;" title="Universität Wien" /></a>
+                                        <!--<div class="card-body d-flex flex-column align-items-start">
                                             <p class="card-text mb-auto">Project partner</p>
-                                        </div>
+                                        </div>-->
                                     </div>
-                                </div>
+                                </div>                                
                             </div>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 col-sm-12">
                                     <div class="card flex-md-row mb-4 align-items-center">
-                                        <a href="/"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a>
-                                        <div class="card-body d-flex flex-column align-items-start">
+                                        <a href="https://www.donau-uni.ac.at/en.html"><img class="card-img-right flex-auto d-md-block" src="https://upload.wikimedia.org/wikipedia/de/2/2f/Donau_Universit%C3%A4t_Krems.svg" alt="Donau Universität Krems Logo" style="max-width: 120px; height: auto; vertical-align: middle;" title="Donau Universität Krems " /></a>
+                                        <!--<div class="card-body d-flex flex-column align-items-start">
                                             <p class="card-text mb-auto">Project partner</p>
-                                        </div>
+                                        </div>-->
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12">
                                     <div class="card flex-md-row mb-4 align-items-center">
-                                        <a href="/"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a>
-                                        <div class="card-body d-flex flex-column align-items-start">
+                                        <a href="https://cvl.tuwien.ac.at/"><img class="card-img-right flex-auto d-md-block" src="https://www.oeaw.ac.at/fileadmin/Institute/ACDH/img/logo/cvl_logo.png" alt="Computer Vision Lab Logo" style="max-width: 140px; height: auto; padding: .5em;" title="Computer Vision Lab"/></a>
+                                        <!--<div class="card-body d-flex flex-column align-items-start">
                                             <p class="card-text mb-auto">Project partner</p>
-                                        </div>
+                                        </div>-->
                                     </div>
                                 </div>
                             </div>
@@ -101,6 +109,8 @@
         <script type="text/javascript" src="dist/fundament/js/fundament.min.js"></script>
         <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
         <script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.js"></script>
-        
+        <script type="text/javascript" src="js/dt.js"></script>        
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.2/openseadragon.min.js"></script>
+        <script type="text/javascript" src="js/osd.js"></script>
     </xsl:template>
 </xsl:stylesheet>
