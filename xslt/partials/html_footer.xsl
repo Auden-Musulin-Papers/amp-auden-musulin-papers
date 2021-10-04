@@ -42,38 +42,46 @@
                         <h6 class="font-weight-bold">PROJECT PARTNERS</h6>
                         <div class="container">
                             <div class="row">
+                                <!--<div class="col-lg-6 col-md-6 col-sm-12">
+                                    <div class="card flex-md-row mb-4 align-items-center">
+                                        <a href="https://acdh.oeaw.ac.at"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a>
+                                        <!-\-<div class="card-body d-flex flex-column align-items-start">
+                                            <p class="card-text mb-auto">Austrian Center for Digital Humanities and Cultural Heritage</p>
+                                        </div>-\->
+                                    </div>
+                                </div>-->                                
                                 <div class="col-lg-6 col-md-6 col-sm-12">
                                     <div class="card flex-md-row mb-4 align-items-center">
-                                        <a href="/"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a>
-                                        <div class="card-body d-flex flex-column align-items-start">
+                                        <a href="https://anglistik.univie.ac.at/"><img class="card-img-right flex-auto d-md-block" src="https://communications.univie.ac.at/fileadmin/user_upload/d_oeffentlichkeitsarbeit/Logos/2016-02/Uni_Logo_2016.jpg" alt="Universität Wien Logo" style="max-width: 160px; height: auto; vertical-align: middle;" title="Universität Wien" /></a>
+                                        <!--<div class="card-body d-flex flex-column align-items-start">
                                             <p class="card-text mb-auto">Project partner</p>
-                                        </div>
+                                        </div>-->
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12">
                                     <div class="card flex-md-row mb-4 align-items-center">
-                                        <a href="/"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a>
-                                        <div class="card-body d-flex flex-column align-items-start">
+                                        <a href="https://www.landessammlungen-noe.at/"><img class="card-img-right flex-auto d-md-block" src="img/landessammlungen-noe-logo.jpg" alt="Landessammlungen Niederösterreich Logo" style="max-width: 140px; height: auto; vertical-align: middle;" title="Landessammlungen Niederösterreich" /></a>
+                                        <!--<div class="card-body d-flex flex-column align-items-start">
                                             <p class="card-text mb-auto">Project partner</p>
-                                        </div>
+                                        </div>-->
                                     </div>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 col-sm-12">
                                     <div class="card flex-md-row mb-4 align-items-center">
-                                        <a href="/"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a>
-                                        <div class="card-body d-flex flex-column align-items-start">
+                                        <a href="https://www.fwf.ac.at/"><img class="card-img-right flex-auto d-md-block" src="https://www.fwf.ac.at/fileadmin/files/Images/News_Presse/Presse/Logo/fwf-logo_var2.jpg" alt="FWF Der Wissenschaftsfond Logo" style="max-width: 140px; height: auto; margin-top:1em;" title="FWF Der Wissenschaftsfond" /></a>
+                                        <!--<div class="card-body d-flex flex-column align-items-start">
                                             <p class="card-text mb-auto">Project partner</p>
-                                        </div>
+                                        </div>-->
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12">
                                     <div class="card flex-md-row mb-4 align-items-center">
-                                        <a href="/"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a>
-                                        <div class="card-body d-flex flex-column align-items-start">
+                                        <a href="https://english.columbia.edu/"><img class="card-img-right flex-auto d-md-block" src="img/columbia-university-transparent-logo-hd.jpg" alt="Columbia University Logo" style="max-width: 140px; height: auto;" title="Columbia University" /></a>
+                                        <!--<div class="card-body d-flex flex-column align-items-start">
                                             <p class="card-text mb-auto">Project partner</p>
-                                        </div>
+                                        </div>-->
                                     </div>
                                 </div>
                             </div>
