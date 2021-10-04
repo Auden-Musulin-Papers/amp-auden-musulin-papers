@@ -7,6 +7,8 @@
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
     <xsl:import href="partials/html_footer.xsl"/>
+    <xsl:import href="partials/osd-container.xsl"/>
+    <xsl:import href="partials/tei-facsimile.xsl"/>
     <xsl:template match="/">
         <xsl:variable name="doc_title">
             <xsl:value-of select=".//tei:title[@level='a'][1]/text()"/>
@@ -27,6 +29,14 @@
                             </div>
                             <div class="card card-body">
                                 <xsl:apply-templates select="//tei:text"/>
+                            </div>
+                        </div>
+                        <div class="card" style="margin: 1em 0 5em 0;">
+                            <div class="card card-header">
+                                <h1>Facsimile</h1>
+                            </div>
+                            <div class="card card-body">
+                                <xsl:call-template name="osd-container"/>
                             </div>
                         </div>
                     </div>
