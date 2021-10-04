@@ -112,9 +112,61 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0051/" type="envelope"/>
+               <p>
+                  WH.Auden<lb/>
+                  77 St Mark's Place<lb/>
+                  New York City<lb/>
+                  New York 10003<lb/>
+                  U.S.A.
+               </p>
+               <p>
+                  Air-Mail
+               </p>
+               <p>
+                  Death Jean Boras
+               </p>
+               <p>
+                  Die Baronin<lb/>
+                  Stella Musulin<lb/>
+                  Wien <del>IV</del>
+                  Neulinggasse 26/14<lb/>
+                  Austria
+               </p>
+               <p>
+                  1030
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0052/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0053/" type="sheet"/>
+               <p>
+                  7 St Mark's Place<lb/>
+                  New York City<lb/>
+                  N.Y. 10003<lb/>
+                  <del>U</del>
+               </p>
+               <p>
+                  Dec 13th <unclear>'</unclear>
+               </p>
+               <p>
+                  Dear Stella:<lb/>
+                  Chester has just telephoned me from Athens to say<lb/>
+                  that his Greek friend Jean Boras, whom I<lb/>
+                  think you have met, while driving my car<lb/><!-- we need a protocol for dealing with commas: compare 10/11 and retro-apply to docs 1-11 -->
+                  between Vienna and Kirchstetten colleded with<lb/>
+                  a Lastwagen and was killed.<lb/>
+                  Chester is going to Vienna, but he was too<lb/>
+                  upset for <del><unclear></unclear></del>me to find out where he would<lb/>
+                  stay. I presume in Kirchstetten<lb/>
+                  If you can get in touch him and help him<lb/>
+                  in any way (there are purely practical matters to<lb/>
+                  be considered , like the car-papers and insurance policy)<lb/>
+                  I should be most grateful<unclear>,</unclear><lb/>
+                  love<lb/>
+                  Wystan<unclear>.</unclear>
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0054/" type="sheet"/>
+               <p>
+                  7
+               </p>
          </div>
       </body>
    </text>
