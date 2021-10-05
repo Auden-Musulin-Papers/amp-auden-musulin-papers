@@ -36,38 +36,7 @@ jobs:
     - name: Install Ant-Contrib
       run: |
         wget https://repo1.maven.org/maven2/ant-contrib/ant-contrib/1.0b3/ant-contrib-1.0b3.jar
-        mv ant-contrib-1.0b3.jar ./static-search/lib
-    - name: Create Files
-      run: |
-        touch words.txt
-        touch stopwords.txt
-        rm -f ss_config.xml
-        touch ss_config.xml
-        echo '<?xml version="1.0" encoding="UTF-8"?>
-              <config xmlns="http://hcmc.uvic.ca/ns/staticSearch">
-                <params>
-                    <searchFile>./html/search.html</searchFile>
-                    <recurse>false</recurse>
-                    <linkToFragmentId>true</linkToFragmentId>
-                    <scrollToTextFragment>false</scrollToTextFragment>
-                    <phrasalSearch>true</phrasalSearch>
-                    <wildcardSearch>true</wildcardSearch>
-                    <createContexts>true</createContexts>
-                    <resultsPerPage>5</resultsPerPage>
-                    <minWordLength>3</minWordLength>
-                    <!--NOTE: If phrasalSearch is set to TRUE, then
-                    maxContexts prop will be ignored-->
-                    <maxKwicsToHarvest>5</maxKwicsToHarvest>
-                    <maxKwicsToShow>5</maxKwicsToShow>
-                    <totalKwicLength>15</totalKwicLength>
-                    <kwicTruncateString>...</kwicTruncateString>
-                    <verbose>false</verbose>
-                    <stopwordsFile>stopwords.txt</stopwordsFile>
-                    <dictionaryFile>words.txt</dictionaryFile>
-                    <indentJSON>false</indentJSON>
-                    <outputFolder>staticSearch</outputFolder>
-                </params>
-              </config' | tee -a ss_config.xml
+        mv ant-contrib-1.0b3.jar /usr/share/ant/lib
     - name: Build Index
       run: |
         ant -f ./static-search/build.xml -DssConfigFile=${PWD}/ss_config.xml
