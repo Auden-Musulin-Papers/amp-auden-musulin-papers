@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="amp-transcript__0010.xml"
+   xml:id="amp-transcript__0011.xml"
    xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-11-06</title>
+            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-13</title>
             <author>Auden, W. H.</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -61,10 +61,10 @@ for any purpose, even commercially.</p>
                         <settlement>St. Pölten</settlement>
                         <repository>State Collections of Lower Austria</repository>
                         <collection>Stella Musulin (Depot)</collection>
-                        <idno>1, 21</idno>
+                        <idno>1, 22</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1968-11-06" >1968-11-06</origDate></origin>
+                        <origin><origDate when-iso="1968-12-13" >1968-12-13</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -80,7 +80,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <persName ref="#auden-w-h">Auden, W. H.</persName>
                <placeName ref="#"></placeName>
-               <date  when-iso="1968-11-06" >1968-11-06</date>
+               <date  when-iso="1968-12-13" >1968-12-13</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#musulin-stella">Musulin, Stella</persName>
@@ -92,63 +92,84 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-10-01">text transcribed</change>
+         <change who="smayer" when="2021-10-05">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-05">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="4114" lry="3058">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0047/"/>
+      <surface ulx="0" uly="0" lrx="6442" lry="3256">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0051/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4112" lry="3072">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0048/"/>
+      <surface ulx="0" uly="0" lrx="6440" lry="3256">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0052/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5602" lry="7344">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0049/"/>
+      <surface ulx="0" uly="0" lrx="5466" lry="7350">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0053/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5600" lry="7340">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0050/"/>
+      <surface ulx="0" uly="0" lrx="5466" lry="7344">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0054/"/>
       </surface>
    </facsimile>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0047/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0051/" type="envelope"/>
                <p>
-                  WH Auden<lb/>
+                  WH.Auden<lb/>
                   77 St Mark's Place<lb/>
                   New York City<lb/>
-                  N.Y. 10003<lb/>
-                  U.S.A<unclear>.</unclear>
+                  New York 10003<lb/>
+                  U.S.A.
                </p>
                <p>
                   Air-Mail
                </p>
                <p>
+                  Death Jean Boras
+               </p>
+               <p>
                   Die Baronin<lb/>
                   Stella Musulin<lb/>
-                  Wien A-1030<lb/>
-                  Neulinggasse 26/14<lb/>
+                  Wien <del>IV .</del><lb/>
+                  Neulin<unclear>g</unclear>gasse 26/14<lb/>
                   Austria
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0048/" type="envelope"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0049/" type="sheet"/>
                <p>
-                  77 St Mark's Place<lb/>
-                  N.Y.C.<lb/>
-                  N.Y. 1003
+                  1030
+               </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0052/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0053/" type="sheet"/>
+               <p>
+                  7 St Mark's Place<lb/>
+                  New York City<lb/>
+                  N.Y. 10003<lb/>
+                  <del>U.</del>
                </p>
                <p>
-                  Nov 6 th .
+                  Dec 13th <unclear>'</unclear>
                </p>
                <p>
                   Dear Stella:<lb/>
-                  Many thanks for your letter. Of course,<lb/>
-                  selfishly, I'm rather reli<del>v</del>eved. How horrid<lb/>
-                  one is !<lb/>
-                  The U.S. is grim.<lb/>
+                  Chester has just telephoned me from Athens to say<lb/>
+                  that his Greek fr<unclear>i</unclear>end Jean Boras,whom I<lb/>
+                  think you have met, while driving my car<lb/>
+                  between Vienna and Kirchstetten coll<unclear>e</unclear>ded with<lb/>
+                  a Lastwagen and was killed.<lb/>
+                  Chester is going to Vienna,but he was too<lb/>
+                  upset for <del><unclear></unclear></del>me to find out where he would<lb/>
+                  stay. I presume in Kirchstetten.<lb/>
+                  If you can get in touch him and help him<lb/>
+                  in any way (there are purely practical matters to<lb/>
+                  be cons<unclear>i</unclear>de<unclear>re</unclear>d,like the car-papers and insurance policy)<lb/>
+                  I should be most grateful<unclear>.</unclear><lb/>
                   love<lb/>
                   Wystan<unclear>.</unclear>
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0050/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0054/" type="sheet"/>
+               <p>
+                  7
+               </p>
          </div>
       </body>
    </text>
