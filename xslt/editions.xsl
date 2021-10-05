@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:html="http://www.w3.org/1999/xhtml"
     version="2.0">
-    <xsl:output exclude-result-prefixes="#all" method="xhtml"/>
+    <xsl:output exclude-result-prefixes="#all" encoding="UTF-8" media-type="text/html" method="html" version="5.0" indent="yes"/>
     
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
@@ -40,7 +40,6 @@
                             </div>
                         </div>
                     </div>
-
                     <xsl:call-template name="html_footer"/>
                 </div>
             </body>
