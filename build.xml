@@ -26,4 +26,5 @@
         <include name="*.html"/>
         <replacetoken> xmlns=""</replacetoken>
     </replace>
+    <move file="search.html" tofile="html/search.html"/>
 </project>
