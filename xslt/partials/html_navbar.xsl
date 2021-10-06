@@ -32,12 +32,12 @@
                             </li>-->
                             <li class="nav-item"><a title="GitHub" href="https://github.com/Auden-Musulin-Papers/amp-data" class="nav-link">GitHub</a></li>
                         </ul>
-                        <!--<form class="form-inline my-2 my-lg-0 navbar-search-form" method="get" action="/" role="search">
-                            <input class="form-control navbar-search" id="s" name="s" type="text" placeholder="Search" value="" autocomplete="off" />
-                                <button type="submit" class="navbar-search-icon">
-                                    <i data-feather="search"></i>
-                                </button>
-                        </form>-->
+                        <form class="form-inline my-2 my-lg-0 navbar-search-form" method="get" action="https://auden-musulin-papers.github.io/amp-data/search.html" role="search">
+                            <input class="form-control navbar-search" id="s" name="q" type="text" placeholder="Search" value="" autocomplete="off" />
+                            <button type="submit" class="navbar-search-icon">
+                                <i data-feather="search"></i>
+                            </button>
+                        </form>
                     </div>
                     <!-- .collapse navbar-collapse -->
                 </div>
