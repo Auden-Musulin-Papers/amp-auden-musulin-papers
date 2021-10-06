@@ -32,7 +32,7 @@ font-family: "Font Awesome 5 Free" !important;
 }
 
 span.ssQueryAndButton {
-    margin: 1em auto !important;
+    margin: 2em auto 0.25em auto !important;
     max-width: 50% !important;
     width: 50% !important;
 }
@@ -42,7 +42,7 @@ input#ssQuery {
     border-radius: 30px !important;
     padding: .3rem 1.75rem .3rem .75rem !important;
     border: 1px solid rgba(0,0,0,.075) !important;
-    background-color: rgba(255,255,255,.1) !important;
+    background-color: #fff !important;
     color: rgba(0,0,0,.9) !important;
 }
 
@@ -52,7 +52,6 @@ button#ssDoSearch {
     background: 0 0 !important;
     cursor: pointer !important;
     color: rgba(0,0,0,.6) !important;
-    position: absolute !important;
-    left: 8.75rem !important;
-    top: .25rem !important;
+    margin-left: -4.1em !important;
+    margin-top: .1em !important;
 }
