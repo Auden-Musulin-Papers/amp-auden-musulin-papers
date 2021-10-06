@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="smayer" when="2021-10-06">text transcribed</change>
+         <change who="tfruehwirth" when="2021-10-06">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-06">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -112,8 +115,52 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0055/" type="envelope"/>
+               <p>
+                  W.H.Auden<lb/>
+                  77 St Mark's Place<lb/>
+                  New York City<lb/>
+                  New York I0003<lb/>
+                  U.S.A.
+               </p>
+               <p>
+                  Air-Mail
+               </p>
+               <p>
+                  Die Baronin<lb/>
+                  Stella Musulin<lb/>
+                  Wien <del>IV</del>III<lb/>
+                  Neulinggasse 26/I4<lb/>
+                  Austria
+               </p>
+               <p>
+                  <unclear>Death</unclear> <unclear>-</unclear>Boras
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0056/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0057/" type="sheet"/>
+               <p>
+                  77 St Mark's Place<lb/>
+                  New York City<lb/>
+                  New York 10003
+               </p>
+               <p>
+                  Dec 29th
+               </p>
+               <p>
+                  Dear Stella:<lb/>
+                  I am in despair. I wrote to my lawyer<lb/>
+                  and to our factotum,Otto Ho<unclear>l</unclear>fmann to find<lb/>
+                  out details about the accident and the<lb/>
+                  whereabouts and c<unclear>ondition</unclear> of the car,but have<lb/>
+                  not heard a word. Chester postpones h<unclear>is</unclear><lb/>
+                  visit to Vienna and I d<unclear>ont</unclear> know his plans.<lb/>
+                  Could you possibly ring Ho<unclear>l</unclear>fmann to see if<lb/>
+                  he knows anything .<lb/>
+                  Adress. <unclear>W</unclear>ien VII, Schweighofergasse 4/21<lb/>
+                  Tel : 93/88/155. .<lb/>
+                  The Registration Number of my car is W. 618-948.<lb/>
+                  love<lb/>
+                  Wystan.
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0058/" type="sheet"/>
          </div>
       </body>
