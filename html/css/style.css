@@ -31,28 +31,28 @@ div.dataTables_filter {
 font-family: "Font Awesome 5 Free" !important;
 }
 
-#ssQueryAndButton {
-    margin: 1em auto;
-    max-width: 50%;
-    width: 50%;
+span.ssQueryAndButton {
+    margin: 1em auto !important;
+    max-width: 50% !important;
+    width: 50% !important;
 }
 
-#ssQuery {
-    font-size: .9rem;
-    border-radius: 30px;
-    padding: .3rem 1.75rem .3rem .75rem;
-    border: 1px solid rgba(0,0,0,.075);
-    background-color: rgba(255,255,255,.1);
-    color: rgba(0,0,0,.9);
+input#ssQuery {
+    font-size: .9rem !important;
+    border-radius: 30px !important;
+    padding: .3rem 1.75rem .3rem .75rem !important;
+    border: 1px solid rgba(0,0,0,.075) !important;
+    background-color: rgba(255,255,255,.1) !important;
+    color: rgba(0,0,0,.9) !important;
 }
 
-#ssDoSearch {
-    border: 0;
-    padding: 0;
-    background: 0 0;
-    cursor: pointer;
-    color: rgba(0,0,0,.6);
-    position: absolute;
-    left: 8.75rem;
-    top: .25rem;
+button#ssDoSearch {
+    border: 0 !important;
+    padding: 0 !important;
+    background: 0 0 !important;
+    cursor: pointer !important;
+    color: rgba(0,0,0,.6) !important;
+    position: absolute !important;
+    left: 8.75rem !important;
+    top: .25rem !important;
 }
