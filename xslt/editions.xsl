@@ -54,8 +54,6 @@
                                                     <div id="{$osd_container_id}" style="padding:.5em;">
                                                         <!-- image container accessed by OSD script -->
                                                         <div id="{$osd_container_id2}">
-                                                            <!-- #non-OSD-images is removed with openSeaDragon script -->
-                                                            <!-- if no script is available it holds the images from tei/xml -->
                                                             <xsl:if test="@facs">    
                                                                 <xsl:variable name="iiif-ext" select="'full/full/0/default.jpg'"/> 
                                                                 <xsl:variable name="facs_id" select="concat(@type, '_img_', generate-id())"/>
@@ -64,7 +62,7 @@
                                                                         <xsl:value-of select="concat(@facs , $iiif-ext)"/>
                                                                     </xsl:attribute>
                                                                 </img>
-                                                                <script type="text/javascript" src="../html/js/osd_single.js"></script>
+                                                                <script type="text/javascript" src="js/osd_single.js"></script>
                                                             </xsl:if>                                
                                                         </div>                                
                                                     </div>
