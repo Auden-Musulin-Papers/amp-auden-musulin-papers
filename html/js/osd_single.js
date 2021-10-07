@@ -5,7 +5,6 @@ function load_image(facs_id, osd_container_id, osd_container_id2){
     // OpenSeaDragon Image Viewer
     var image = $('#' + facs_id);
     var image = image.attr('src');
-    console.log(image);
     var imageURL = {type: 'image', url: image};
     var viewer = OpenSeadragon({
         id: osd_container_id,
