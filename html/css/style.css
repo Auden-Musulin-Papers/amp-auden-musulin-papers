@@ -12,6 +12,10 @@ div.dataTables_filter {
   text-align: right;
 }
 
+.navbar {
+    border-bottom: 5px solid #615a60 !important;
+}
+
 .dataTables_info {
   text-align: center;
 }
@@ -31,8 +35,35 @@ div.dataTables_filter {
     font-family: "Font Awesome 5 Free" !important;
 }
 
+.img-fluid {
+    max-width: 160% !important;
+    max-height: 160% !important;
+}
+
 .card {
+    margin-top: 1em;
     box-shadow: 4px 4px 9px 0 rgba(0, 0, 0, .1);
+}
+
+.index-card {
+    border-top: 5px solid #615a60; 
+    transition: transform .2s;
+}
+
+.index-card:hover {
+    transform: scale(1.05);
+}
+
+.index-link:hover {
+    text-decoration: none !important;
+}
+
+.btn-round {
+    border: 1px solid white;
+}
+
+.btn-round a {
+    color: white;
 }
 
 p {

@@ -13,7 +13,7 @@
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container" >
                     <!-- Your site title as branding in the menu -->
-                    <a href="index.html" class="navbar-brand custom-logo-link" rel="home" itemprop="url"><img src="dist/fundament/images/fundament_logo.svg" class="img-fluid" alt="Fundament Logo" itemprop="logo" /></a><!-- end custom logo -->
+                    <a href="index.html" class="navbar-brand custom-logo-link" rel="home" itemprop="url"><img src="images/auden_logo.png" class="img-fluid" alt="Auden Musulin Papers Logo" itemprop="logo" /></a><!-- end custom logo -->
                     <a class="navbar-brand site-title-with-logo" rel="home" href="index.html" title="{$site_title}" itemprop="url"><xsl:value-of select="$site_title"/></a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
