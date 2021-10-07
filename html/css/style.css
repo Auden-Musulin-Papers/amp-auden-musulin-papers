@@ -28,7 +28,15 @@ div.dataTables_filter {
 
 /**** Font Aweseome ***/
 .far {
-font-family: "Font Awesome 5 Free" !important;
+    font-family: "Font Awesome 5 Free" !important;
+}
+
+.card {
+    box-shadow: 4px 4px 9px 0 rgba(0, 0, 0, .1);
+}
+
+.container-fluid {
+    max-width: 1024px;
 }
 
 span.ssQueryAndButton {

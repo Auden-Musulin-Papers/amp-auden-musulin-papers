@@ -25,23 +25,57 @@
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
                     
-                    <div class="container-fluid">
+                    <div class="container-fluid">                        
                         <div class="card" style="margin-top: 1em;">
-                            <div class="card card-header">
+                            <div class="card-header">
                                 <h1><xsl:value-of select="$doc_title"/></h1>
                             </div>
-                            <div class="card card-body">
-                                <xsl:apply-templates select="//tei:text"/>
+                            <div class="card-body">                                
+                                <xsl:for-each select="//tei:div[@xml:id='transcription']">
+                                    <div class="row">
+                                        <xsl:for-each-group select="*" group-starting-with="tei:pb">
+                                            <div class="col-md-6">
+                                                <div class="card-header">
+                                                    <h2 style="text-transform:capitalize;"><xsl:value-of select="concat(@type, ' Transcript')"/></h2>
+                                                </div>
+                                                <div class="card-body">                                                                                       
+                                                    <xsl:for-each select="current-group()[self::tei:p]">
+                                                        <xsl:copy-of select="."/>
+                                                    </xsl:for-each>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="card-header">
+                                                    <h2>Facsimile</h2>
+                                                </div>
+                                                <div class="card-body">
+                                                    <xsl:variable name="osd_container_id" select="concat(@type, '_container_', generate-id())"/>
+                                                    <xsl:variable name="osd_container_id2" select="concat(@type, '_container2_', generate-id())"/>
+                                                    <div id="{$osd_container_id}" style="padding:.5em;">
+                                                        <!-- image container accessed by OSD script -->
+                                                        <div id="{$osd_container_id2}">
+                                                            <!-- #non-OSD-images is removed with openSeaDragon script -->
+                                                            <!-- if no script is available it holds the images from tei/xml -->
+                                                            <xsl:if test="@facs">    
+                                                                <xsl:variable name="iiif-ext" select="'full/full/0/default.jpg'"/> 
+                                                                <xsl:variable name="facs_id" select="concat(@type, '_img_', generate-id())"/>
+                                                                <img id="{$facs_id}" onload="load_image('{$facs_id}','{$osd_container_id}','{$osd_container_id2}')">
+                                                                    <xsl:attribute name="src">
+                                                                        <xsl:value-of select="concat(@facs , $iiif-ext)"/>
+                                                                    </xsl:attribute>
+                                                                </img>
+                                                                <script type="text/javascript" src="../html/js/osd_single.js"></script>
+                                                            </xsl:if>                                
+                                                        </div>                                
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                        </xsl:for-each-group>
+                                    </div>
+                                </xsl:for-each>
                             </div>
-                        </div>
-                        <div class="card" style="margin: 1em 0 5em 0;">
-                            <div class="card card-header">
-                                <h1>Facsimile</h1>
-                            </div>
-                            <div class="card card-body">
-                                <xsl:call-template name="osd-container"/>
-                            </div>
-                        </div>
+                        </div>                       
                     </div>
                     <xsl:call-template name="html_footer"/>
                 </div>
@@ -51,15 +85,12 @@
                     
     
     <xsl:template match="tei:lb">
-        <xsl:apply-templates/><br/>
+        <br/>
     </xsl:template>
     <xsl:template match="tei:unclear">
         <abbr title="unclear"><xsl:apply-templates/></abbr>
     </xsl:template>
     <xsl:template match="tei:del">
         <del><xsl:apply-templates/></del>
-    </xsl:template>
-    <xsl:template match="tei:pb">
-        <hr />
-    </xsl:template>
+    </xsl:template>    
 </xsl:stylesheet>

@@ -23,10 +23,10 @@
                     
                     <div class="container-fluid">
                         <div class="card">
-                            <div class="card card-header">
+                            <div class="card-header">
                                 <h1>Table of Contents</h1>
                             </div>
-                            <div class="card card-body">
+                            <div class="card-body">
                                 <table class="table table-striped display" id="tocTable" style="width:100%">
                                     <thead>
                                         <tr>
