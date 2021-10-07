@@ -32,22 +32,18 @@
                             </div>
                             <div class="card-body">                                
                                 <xsl:for-each select="//tei:div[@xml:id='transcription']">
-                                    <div class="row">
-                                        <xsl:for-each-group select="*" group-starting-with="tei:pb">
-                                            <div class="col-md-6">
-                                                <div class="card-header">
-                                                    <h2 style="text-transform:capitalize;"><xsl:value-of select="concat(@type, ' Transcript')"/></h2>
-                                                </div>
+                                    <xsl:for-each-group select="*" group-starting-with="tei:pb">
+                                        <div class="transcript row">
+                                            <div class="col-md-6">     
+                                                <hr/>                                                
                                                 <div class="card-body">                                                                                       
                                                     <xsl:for-each select="current-group()[self::tei:p]">
-                                                        <xsl:copy-of select="."/>
+                                                        <p><xsl:apply-templates/></p>
                                                     </xsl:for-each>
                                                 </div>
                                             </div>
                                             <div class="col-md-6">
-                                                <div class="card-header">
-                                                    <h2>Facsimile</h2>
-                                                </div>
+                                                <hr/>                                                
                                                 <div class="card-body">
                                                     <xsl:variable name="osd_container_id" select="concat(@type, '_container_', generate-id())"/>
                                                     <xsl:variable name="osd_container_id2" select="concat(@type, '_container2_', generate-id())"/>
@@ -68,9 +64,9 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            
-                                        </xsl:for-each-group>
-                                    </div>
+                                        </div>
+                                    </xsl:for-each-group>
+                                    
                                 </xsl:for-each>
                             </div>
                         </div>                       

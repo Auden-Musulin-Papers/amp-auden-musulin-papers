@@ -35,6 +35,10 @@ div.dataTables_filter {
     box-shadow: 4px 4px 9px 0 rgba(0, 0, 0, .1);
 }
 
+p {
+    display: block;
+}
+
 .container-fluid {
     max-width: 1024px;
 }
