@@ -26,7 +26,7 @@
                     <xsl:call-template name="nav_bar"/>
                     
                     <div class="container-fluid">                        
-                        <div class="card" style="margin-top: 1em;">
+                        <div class="card">
                             <div class="card-header">
                                 <h1><xsl:value-of select="$doc_title"/></h1>
                             </div>
@@ -49,6 +49,7 @@
                                                     <xsl:variable name="osd_container_id2" select="concat(@type, '_container2_', generate-id())"/>
                                                     <div id="{$osd_container_id}" style="padding:.5em;">
                                                         <!-- image container accessed by OSD script -->
+                                                        <script type="text/javascript" src="js/osd_single.js"></script>
                                                         <div id="{$osd_container_id2}">
                                                             <xsl:if test="@facs">    
                                                                 <xsl:variable name="iiif-ext" select="'full/full/0/default.jpg'"/> 
@@ -57,8 +58,7 @@
                                                                     <xsl:attribute name="src">
                                                                         <xsl:value-of select="concat(@facs , $iiif-ext)"/>
                                                                     </xsl:attribute>
-                                                                </img>
-                                                                <script type="text/javascript" src="js/osd_single.js"></script>
+                                                                </img>                                                                
                                                             </xsl:if>                                
                                                         </div>                                
                                                     </div>

@@ -41,7 +41,7 @@
                                             <xsl:variable name="full_path">
                                                 <xsl:value-of select="document-uri(/)"/>
                                             </xsl:variable>
-                                            <tr>
+                                            <!--<tr>
                                                 <td>                                        
                                                     <a>
                                                         <xsl:attribute name="href">                                                
@@ -52,22 +52,30 @@
                                                 </td>
                                                 <td>
                                                     <xsl:value-of select="data(.//tei:origDate/@when-iso)"/>
-                                                </td>
-                                                <td>
-                                                    <ul>
-                                                        <xsl:for-each select="//tei:revisionDesc/tei:change">
-                                                            <li><xsl:value-of select="concat(@when/name(), ': ' ,@when, ' ', @who/name(), ': ', @who)"/></li>
-                                                        </xsl:for-each>     
-                                                    </ul>                                                                                                
-                                                </td>
-                                                <td>
-                                                    <ul>
-                                                        <xsl:for-each select="//tei:revisionDesc/tei:change">
-                                                            <li><xsl:apply-templates/></li>
-                                                        </xsl:for-each>     
-                                                    </ul>                                                                                                
-                                                </td>
-                                            </tr>
+                                                </td>  
+                                            </tr>-->
+                                            <xsl:for-each select=".//tei:revisionDesc/tei:change">
+                                                <tr>
+                                                    <td>
+                                                        <a>
+                                                            <xsl:attribute name="href">                                                
+                                                                <xsl:value-of select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"/>
+                                                            </xsl:attribute>
+                                                            <xsl:value-of select="//tei:title[@level='a'][1]/text()"/>
+                                                        </a>
+                                                    </td>
+                                                    <td><xsl:value-of select="data(//tei:origDate/@when-iso)"/></td>
+                                                    <td>
+                                                        <ul>
+                                                            <li><xsl:value-of select="concat(@when/name(), ': ' ,@when)"/></li>
+                                                            <li><xsl:value-of select="concat(@who/name(), ': ', @who)"/></li>
+                                                        </ul>                                                                                                                                            
+                                                    </td>
+                                                    <td>
+                                                        <xsl:apply-templates/>                                                                                             
+                                                    </td>  
+                                                </tr>                                            
+                                            </xsl:for-each>  
                                         </xsl:for-each>
                                     </tbody>
                                 </table>
