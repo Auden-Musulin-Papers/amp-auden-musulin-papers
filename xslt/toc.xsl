@@ -54,7 +54,7 @@
                                                     <xsl:value-of select="data(.//tei:origDate/@when-iso)"/>
                                                 </td>  
                                             </tr>-->
-                                            <xsl:for-each select=".//tei:revisionDesc/tei:change">
+                                            <xsl:for-each select=".//tei:revisionDesc/tei:change[position()=last()]/self::tei:change">                                                
                                                 <tr>
                                                     <td>
                                                         <a>
@@ -74,7 +74,7 @@
                                                     <td>
                                                         <xsl:apply-templates/>                                                                                             
                                                     </td>  
-                                                </tr>                                            
+                                                </tr>                                                                                                                                             
                                             </xsl:for-each>  
                                         </xsl:for-each>
                                     </tbody>

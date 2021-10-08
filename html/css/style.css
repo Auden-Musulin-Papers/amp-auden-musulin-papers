@@ -74,6 +74,10 @@ p {
     display: block;
 }
 
+.carousel-indicators {
+    cursor: pointer;
+}
+
 .container-fluid {
     max-width: 1024px;
 }
