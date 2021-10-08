@@ -16,6 +16,19 @@ div.dataTables_filter {
     border-bottom: 5px solid #615a60 !important;
 }
 
+#navBarLetters {
+    margin: 1em auto;
+    border: 0 !important;
+}
+
+.nav-tabs {
+    border: 0;
+}
+
+.nav-link {
+    border-color: transparent !important;
+}
+
 .dataTables_info {
   text-align: center;
 }
@@ -70,6 +83,10 @@ div.dataTables_filter {
     color: white;
 }
 
+.btn-round.active {
+    background-color: #b59890 !important;
+}
+
 p {
     display: block;
 }
@@ -117,4 +134,18 @@ button#ssDoSearch {
 
 #github-logo:hover {
     transform: scale(1.05);
+}
+
+.grid {
+    margin-top: 1em;
+}
+.grid-item,
+.grid-sizer {
+    width: 31.5%;
+}
+.grid-item {
+  float: left;
+  margin: .5em;
+  background: #fff;
+  height: auto;
 }

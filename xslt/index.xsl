@@ -117,7 +117,7 @@
                                         </div>
                                     </div>                                    
                                 </a>
-                            </div>
+                            </div>                            
                         </div>
                     </div>
                     <xsl:call-template name="html_footer"/>
