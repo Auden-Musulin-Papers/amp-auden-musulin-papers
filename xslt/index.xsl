@@ -73,7 +73,7 @@
                                 <a href="toc.html" class="index-link">                                   
                                     <div class="card index-card">
                                         <div class="card-body">
-                                            <img src="images/auden_logo.png" class="d-block w-100" alt="..."/>
+                                            <img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="d-block w-100" alt="..."/>
                                         </div>
                                         <div class="card-header">                                            
                                             <p>
@@ -87,7 +87,7 @@
                                 <a href="toc.html" class="index-link">                                                     
                                     <div class="card index-card">
                                         <div class="card-body">
-                                            <img src="images/auden_logo.png" class="d-block w-100" alt="..."/>
+                                            <img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="d-block w-100" alt="..."/>
                                         </div>
                                         <div class="card-header">                                            
                                             <p>
@@ -101,7 +101,7 @@
                                 <a href="toc.html" class="index-link">  
                                     <div class="card index-card">
                                         <div class="card-body">
-                                            <img src="images/auden_logo.png" class="d-block w-100" alt="..."/>
+                                            <img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="d-block w-100" alt="..."/>
                                         </div>
                                         <div class="card-header">                                            
                                             <p>

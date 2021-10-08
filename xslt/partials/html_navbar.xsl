@@ -13,7 +13,7 @@
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container" >
                     <!-- Your site title as branding in the menu -->
-                    <a href="index.html" class="navbar-brand custom-logo-link" rel="home" itemprop="url"><img src="images/auden_logo.png" class="img-fluid" alt="Auden Musulin Papers Logo" itemprop="logo" /></a><!-- end custom logo -->
+                    <a href="index.html" class="navbar-brand custom-logo-link" rel="home" itemprop="url"><img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="img-fluid" alt="Auden Musulin Papers Logo" itemprop="logo" /></a><!-- end custom logo -->
                     <a class="navbar-brand site-title-with-logo" rel="home" href="index.html" title="{$site_title}" itemprop="url"><xsl:value-of select="$site_title"/></a>
                     <span style="margin-left:-1.7em;" class="badge bg-light text-dark">in development</span>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -22,17 +22,73 @@
                     <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                         <!-- Your menu goes here -->
                         <ul id="main-menu" class="navbar-nav">
-                            <li class="nav-item active"><a title="Table of Contents" href="toc.html" class="nav-link">Table of Contents</a></li>
-                            <!--<li class="nav-item dropdown">
-                                <a title="Dropdown" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Dropdown <span class="caret"></span></a>
+                            <li class="nav-item dropdown">
+                                <a title="Dropdown" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Papers <span class="caret"></span></a>
                                 <ul class=" dropdown-menu" role="menu">
                                     <li class="nav-item dropdown-submenu">
-                                        <a title="Level 1" href="#" class="nav-link">Level 1</a>
+                                        <a title="Level 1" href="toc.html" class="nav-link">Auden-Musulin Correspondence</a>
                                     </li>
-                                </ul>
+                                    <li class="nav-item dropdown-submenu">
+                                        <a title="Level 1" href="#" class="nav-link">Musulin typescripts</a>
+                                    </li>
+                                    <li class="nav-item dropdown-submenu">
+                                        <a title="Level 1" href="#" class="nav-link">Photos</a>
+                                    </li>
+                                    <li class="nav-item dropdown-submenu">
+                                        <a title="Level 1" href="#" class="nav-link">CVL visualizations</a>
+                                    </li>
+                                </ul>                                
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a title="Dropdown" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Indexes <span class="caret"></span></a>
+                                <ul class=" dropdown-menu" role="menu">
+                                    <li class="nav-item dropdown-submenu">
+                                        <a title="Level 1" href="#" class="nav-link">Persons</a>
+                                    </li>
+                                    <li class="nav-item dropdown-submenu">
+                                        <a title="Level 1" href="#" class="nav-link">Institutions</a>
+                                    </li>
+                                    <li class="nav-item dropdown-submenu">
+                                        <a title="Level 1" href="#" class="nav-link">Works</a>
+                                    </li>
+                                    <li class="nav-item dropdown-submenu">
+                                        <a title="Level 1" href="#" class="nav-link">Places</a>
+                                    </li>
+                                    <li class="nav-item dropdown-submenu">
+                                        <a title="Level 1" href="#" class="nav-link">Events</a>
+                                    </li>
+                                </ul>                                
+                            </li>                            
+                            <li class="nav-item"><a title="Relations" href="#" class="nav-link">Relations</a></li>
+                            <!--<li class="nav-item dropdown">
+                                <a title="Dropdown" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Biographies <span class="caret"></span></a>
+                                <ul class=" dropdown-menu" role="menu">
+                                    <li class="nav-item dropdown-submenu">
+                                        <a title="Level 1" href="#" class="nav-link">In Progress</a>
+                                    </li>
+                                    <li class="nav-item dropdown-submenu">
+                                        <a title="Level 1" href="#" class="nav-link">In Progress</a>
+                                    </li>
+                                </ul>                                
                             </li>-->
-                            <li class="nav-item"><a title="GitHub" href="https://github.com/Auden-Musulin-Papers/amp-data" class="nav-link">GitHub</a></li>
-                        </ul>
+                            <li class="nav-item dropdown">
+                                <a title="Dropdown" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Project <span class="caret"></span></a>
+                                <ul class=" dropdown-menu" role="menu">
+                                    <li class="nav-item dropdown-submenu">
+                                        <a title="Level 1" href="#" class="nav-link">Description</a>
+                                    </li>
+                                    <li class="nav-item dropdown-submenu">
+                                        <a title="Level 1" href="#" class="nav-link">Team</a>
+                                    </li>
+                                    <li class="nav-item dropdown-submenu">
+                                        <a title="Level 1" href="#" class="nav-link">Editorial Declaration</a>
+                                    </li>
+                                    <li class="nav-item dropdown-submenu">
+                                        <a title="Level 1" href="#" class="nav-link">Technical Documentation</a>
+                                    </li>
+                                </ul>                                
+                            </li>                            
+                        </ul>                        
                         <form class="form-inline my-2 my-lg-0 navbar-search-form" method="get" action="https://auden-musulin-papers.github.io/amp-data/search.html" role="search">
                             <input class="form-control navbar-search" id="s" name="q" type="text" placeholder="Search" value="" autocomplete="off" />
                             <button type="submit" class="navbar-search-icon">

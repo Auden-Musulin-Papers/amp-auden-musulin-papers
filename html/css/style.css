@@ -98,3 +98,15 @@ button#ssDoSearch {
     margin-left: -4.1em !important;
     margin-top: .1em !important;
 }
+
+#github-logo {
+    width: 10%;
+    height: auto;
+    padding: 10px 0 10px 0;
+    transition: transform .2s;
+    margin-left: 1em;
+}
+
+#github-logo:hover {
+    transform: scale(1.05);
+}
