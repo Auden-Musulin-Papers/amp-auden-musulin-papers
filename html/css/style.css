@@ -62,6 +62,10 @@ div.dataTables_filter {
     border: 1px solid white;
 }
 
+.btn-round:hover {
+    background-color: #b59890 !important;
+}
+
 .btn-round a {
     color: white;
 }

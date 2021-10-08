@@ -13,7 +13,7 @@
             <nav class="navbar navbar-expand-lg navbar-light">
                 <div class="container" >
                     <!-- Your site title as branding in the menu -->
-                    <a href="index.html" class="navbar-brand custom-logo-link" rel="home" itemprop="url"><img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="img-fluid" alt="Auden Musulin Papers Logo" itemprop="logo" /></a><!-- end custom logo -->
+                    <a href="index.html" class="navbar-brand custom-logo-link" rel="home" itemprop="url"><img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="img-fluid" title="Auden Musulin Papers Logo" alt="Auden Musulin Papers Logo" itemprop="logo" /></a><!-- end custom logo -->
                     <a class="navbar-brand site-title-with-logo" rel="home" href="index.html" title="{$site_title}" itemprop="url"><xsl:value-of select="$site_title"/></a>
                     <span style="margin-left:-1.7em;" class="badge bg-light text-dark">in development</span>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -23,45 +23,45 @@
                         <!-- Your menu goes here -->
                         <ul id="main-menu" class="navbar-nav">
                             <li class="nav-item dropdown">
-                                <a title="Dropdown" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Papers <span class="caret"></span></a>
+                                <a title="Papers" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Papers <span class="caret"></span></a>
                                 <ul class=" dropdown-menu" role="menu">
                                     <li class="nav-item dropdown-submenu">
-                                        <a title="Level 1" href="toc.html" class="nav-link">Auden-Musulin Correspondence</a>
+                                        <a title="Auden-Musulin Correspondence" href="toc.html" class="nav-link">Auden-Musulin Correspondence</a>
                                     </li>
                                     <li class="nav-item dropdown-submenu">
-                                        <a title="Level 1" href="#" class="nav-link">Musulin typescripts</a>
+                                        <a title="Musulin typescripts" href="#" class="nav-link">Musulin typescripts</a>
                                     </li>
                                     <li class="nav-item dropdown-submenu">
-                                        <a title="Level 1" href="#" class="nav-link">Photos</a>
+                                        <a title="Photos" href="#" class="nav-link">Photos</a>
                                     </li>
                                     <li class="nav-item dropdown-submenu">
-                                        <a title="Level 1" href="#" class="nav-link">CVL visualizations</a>
+                                        <a title="CVL visualizations" href="#" class="nav-link">CVL visualizations</a>
                                     </li>
                                 </ul>                                
                             </li>
                             <li class="nav-item dropdown">
-                                <a title="Dropdown" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Indexes <span class="caret"></span></a>
+                                <a title="Indexes" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Indexes <span class="caret"></span></a>
                                 <ul class=" dropdown-menu" role="menu">
                                     <li class="nav-item dropdown-submenu">
-                                        <a title="Level 1" href="#" class="nav-link">Persons</a>
+                                        <a title="Persons" href="#" class="nav-link">Persons</a>
                                     </li>
                                     <li class="nav-item dropdown-submenu">
-                                        <a title="Level 1" href="#" class="nav-link">Institutions</a>
+                                        <a title="Institutions" href="#" class="nav-link">Institutions</a>
                                     </li>
                                     <li class="nav-item dropdown-submenu">
-                                        <a title="Level 1" href="#" class="nav-link">Works</a>
+                                        <a title="Works" href="#" class="nav-link">Works</a>
                                     </li>
                                     <li class="nav-item dropdown-submenu">
-                                        <a title="Level 1" href="#" class="nav-link">Places</a>
+                                        <a title="Places" href="#" class="nav-link">Places</a>
                                     </li>
                                     <li class="nav-item dropdown-submenu">
-                                        <a title="Level 1" href="#" class="nav-link">Events</a>
+                                        <a title="Events" href="#" class="nav-link">Events</a>
                                     </li>
                                 </ul>                                
                             </li>                            
                             <li class="nav-item"><a title="Relations" href="#" class="nav-link">Relations</a></li>
                             <!--<li class="nav-item dropdown">
-                                <a title="Dropdown" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Biographies <span class="caret"></span></a>
+                                <a title="Biographies" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Biographies <span class="caret"></span></a>
                                 <ul class=" dropdown-menu" role="menu">
                                     <li class="nav-item dropdown-submenu">
                                         <a title="Level 1" href="#" class="nav-link">In Progress</a>
@@ -72,19 +72,22 @@
                                 </ul>                                
                             </li>-->
                             <li class="nav-item dropdown">
-                                <a title="Dropdown" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Project <span class="caret"></span></a>
+                                <a title="Project" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Project <span class="caret"></span></a>
                                 <ul class=" dropdown-menu" role="menu">
                                     <li class="nav-item dropdown-submenu">
-                                        <a title="Level 1" href="#" class="nav-link">Description</a>
+                                        <a title="Description" href="#" class="nav-link">Description</a>
                                     </li>
                                     <li class="nav-item dropdown-submenu">
-                                        <a title="Level 1" href="#" class="nav-link">Team</a>
+                                        <a title="Team" href="#" class="nav-link">Team</a>
                                     </li>
                                     <li class="nav-item dropdown-submenu">
-                                        <a title="Level 1" href="#" class="nav-link">Editorial Declaration</a>
+                                        <a title="Editorial Declaration" href="#" class="nav-link">Editorial Declaration</a>
                                     </li>
+                                    <!--<li class="nav-item dropdown-submenu">
+                                        <a title="Instruction for using the edition" href="#" class="nav-link">Instruction for using the edition</a>
+                                    </li>-->
                                     <li class="nav-item dropdown-submenu">
-                                        <a title="Level 1" href="#" class="nav-link">Technical Documentation</a>
+                                        <a title="Technical Documentation" href="#" class="nav-link">Technical Documentation</a>
                                     </li>
                                 </ul>                                
                             </li>                            
