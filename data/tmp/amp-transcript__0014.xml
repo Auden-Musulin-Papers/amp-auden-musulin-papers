@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-10-08">text transcribed</change>
+         <change who="smayer" when="2021-10-11">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-11">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -113,46 +116,46 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0063/" type="envelope"/>
                <p>
-                  Expres
+                  Express
                </p>
                <p>
-                  "<unclear>lo</unclear>nging to hear ab<unclear>ou</unclear>t<lb/>
+                  "<unclear>Lo</unclear>nging to hear ab<unclear>ou</unclear>t<lb/>
                   royal visit .<unclear>"</unclear>
                </p>
                <p>
                   Die Baronin<lb/>
-                  Stella Musul<unclear>i</unclear>n<lb/>
+                  Stella Musul<unclear>im</unclear><lb/>
                   Wien III<lb/>
                   Neulinggasse 26/14
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0064/" type="envelope"/>
                <p>
-                  W<unclear>H</unclear> Auden<lb/>
+                  W<unclear>.H.</unclear> Auden<lb/>
                   KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
                   N.-Ö., AUSTRIA
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0065/" type="sheet"/>
                <p>
-                  May 21 st. . <unclear>19</unclear>69
-               </p>
-               <p>
                   KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
                   N.-Ö., AUSTRIA
                </p>
                <p>
+                  May 21 st.. <unclear>19</unclear>69
+               </p>
+               <p>
                   Dear Stella<unclear>,</unclear><lb/>
-                  Ma<unclear>n</unclear>y thank f<unclear>o</unclear> you<unclear>r</unclear> card<unclear>.</unclear> Ha<unclear>d</unclear><lb/>
+                  Ma<unclear>n</unclear>y thank f<unclear>o</unclear> you<unclear>r</unclear> card<unclear>,</unclear> Had<lb/>
                   tried several times t<unclear>o</unclear> reach you<lb/>
                   by phone,but w<unclear>ithou</unclear>t succ<unclear>e</unclear>ss<lb/>
                   Wednesday <del>lunch</del> May 28th is fine<lb/>
                   for us,and we sh<unclear>a</unclear>ll much look<lb/>
                   forward to seeing you both.<lb/>
-                  <del><unclear></unclear></del> Longing to hear about the<lb/>
-                  Royal v<unclear>i</unclear>sit.<lb/>
+                  <del>H</del> Longing to hear about the<lb/>
+                  Royal v<unclear>s</unclear>it.<lb/>
                   love<lb/>
-                  Wystan<unclear>.</unclear>
+                  Wystan<unclear>'</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0066/" type="sheet"/>
          </div>
