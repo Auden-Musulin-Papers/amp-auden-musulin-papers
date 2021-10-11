@@ -43,8 +43,24 @@ div.dataTables_filter {
   box-sizing: border-box;
 }
 
+.navbar .navbar-collapse .navbar-search {
+    border-color: #b59890;
+}
+
+.navbar .navbar-collapse .navbar-search:hover {
+    border-color: #615a60;
+}
+
 .dataTables_wrapper table {
   width:100%;
+}
+
+form button svg {
+    color: #b59890;
+}
+
+form button svg:hover {
+    color: #615a60;
 }
 
 /**** Font Aweseome ***/
