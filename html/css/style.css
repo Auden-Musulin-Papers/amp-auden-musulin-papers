@@ -16,6 +16,10 @@ div.dataTables_filter {
     border-bottom: 5px solid #615a60 !important;
 }
 
+.navbar-collapse {
+    margin-left: 2em;
+}
+
 #navBarLetters {
     margin: 1em auto;
     border: 0 !important;
@@ -64,13 +68,13 @@ div.dataTables_filter {
 }
 
 .index-card:hover {
-    transform: scale(1.05);
+    transform: scale(1.02);
 }
 
 .index-link:hover {
     text-decoration: none !important;
 }
-
+/* slider button */
 .btn-round {
     border: 1px solid white;
 }
@@ -83,12 +87,38 @@ div.dataTables_filter {
     color: white;
 }
 
+.btn-round a:hover {
+    color: white !important;
+}
+
+a:hover {
+    text-decoration: none !important; 
+    color: #b59890;
+}
+
+a {
+    color: #615a60;
+}
+
+
+p {
+    display: block;
+}
+
+.nav-link {
+    color: #615a60 !important;
+}
+
+.nav-link:hover {
+    color: #b59890 !important;
+}
+/* table of content buttons in nav */
 .btn-round.active {
     background-color: #b59890 !important;
 }
 
-p {
-    display: block;
+.btn-round.active.nav-link {
+    color: white !important;
 }
 
 .carousel-indicators {
@@ -148,4 +178,20 @@ button#ssDoSearch {
   margin: .5em;
   background: #fff;
   height: auto;
+}
+
+/*media queries for responsive design on smartphones*/
+/*                                                  */
+/*                                                  */
+@media only screen and (max-width: 1024px){
+    .navbar-collapse {
+        margin: 0;
+    }
+    .footer-widget {
+        text-align: center;
+        padding: 1em;
+    }
+}
+@media only screen and (max-width: 1440px){
+
 }

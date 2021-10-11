@@ -21,7 +21,7 @@
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
                     <div class="container-fluid">
-                        <div id="navBarLetters">
+                        <div id="navBarLetters" style="margin-top:4em !important;">
                             <ul class="nav nav-tabs" id="dropdown-lang">
                                 <li class="nav-item">                                    
                                     <a title="Cards" href="#cards-tab" data-toggle="tab" class="nav-link btn btn-round active">
@@ -43,13 +43,13 @@
                                             <xsl:value-of select="document-uri(/)"/>
                                         </xsl:variable>                                
                                         <!--<xsl:variable name="date" select="//tei:correspAction/tei:date/@when-iso"/>-->
-                                        <div class="col-md-4">
+                                        <div class="col-md-4" style="padding: 0 !important;">
                                             <a>
                                                 <xsl:attribute name="href">                                                
                                                     <xsl:value-of select="replace(tokenize($full_path, '/')[last()], '.xml', '.html')"/>
                                                 </xsl:attribute>
-                                                <div class="card">                                 
-                                                    <div class="card-body" style="vertical-align: middle; heigth:100%;display:inline-block;">
+                                                <div class="card index-card" style="margin:.2em !important;">                                 
+                                                    <div class="card-body">
                                                         <xsl:variable name="iiif-ext" select="'full/full/0/default.jpg'"/>
                                                         <img>
                                                             <xsl:attribute name="src">
@@ -57,7 +57,7 @@
                                                             </xsl:attribute>
                                                         </img>
                                                     </div>
-                                                    <div class="card-header">
+                                                    <div class="card-header" style="color: #615a60 !important;">
                                                         <xsl:value-of select="//tei:title[@level='a']"/>
                                                     </div>                                        
                                                 </div>
