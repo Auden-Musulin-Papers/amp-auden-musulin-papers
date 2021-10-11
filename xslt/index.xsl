@@ -69,6 +69,13 @@
                     </div>
                     <div class="container" style="margin-top:1em;">
                         <div class="row">
+                            <div class="col-md-8" style="margin: 0 auto; ">
+                                <p style="font-size:18px;line-heigth:27px;"><xsl:value-of select="//tei:body/tei:div/tei:p"/></p>  
+                            </div>                          
+                        </div>
+                    </div>
+                    <div class="container" style="margin-top:1em;">
+                        <div class="row">
                             <div class="col-md-4">
                                 <a href="toc.html" class="index-link">                                   
                                     <div class="card index-card">
@@ -110,7 +117,7 @@
                                         </div>
                                     </div>                                    
                                 </a>
-                            </div>
+                            </div>                            
                         </div>
                     </div>
                     <xsl:call-template name="html_footer"/>
