@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-10-11">text transcribed</change>
+         <change who="smayer" when="2021-10-12">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-12">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -114,11 +117,11 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0071/" type="envelope"/>
                <p>
                   Tra<unclear>nslation</unclear> <unclear>recd.</unclear><lb/>
-                  Wedding <unclear>near</unclear>Krems
+                  Weddi<unclear>ng</unclear> <unclear>near</unclear>Krems<lb/>
                </p>
                <p>
                   Die Baronin<lb/>
-                  Stella Musulin<lb/>
+                  Stella Musul<unclear>i</unclear>n<lb/>
                   1030 Wien<lb/>
                   Neulinggasse 26/14
                </p>
@@ -142,21 +145,20 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Dear Stella<lb/>
-                  Translatio<unclear>n</unclear> just received. Thanks<lb/>
-                  a m<unclear>i</unclear>lli<unclear>on</unclear>.<lb/>
-                  On Saturday Chester and I have<lb/>
+                  Translati<unclear>on</unclear> just received. Thanks<lb/>
+                  <unclear>e</unclear> m<unclear>i</unclear>lli<unclear>on</unclear>.<lb/>
+                  On Saturday Chester <unclear>and</unclear> I have<lb/>
                   to attend a wedding <del><unclear></unclear></del>near<lb/>
-                  Kr<del><unclear></unclear></del>ems at 3&#x2105;0.p.m , which means<lb/>
-                  we shall have to lunch at 12&#x2105;0<unclear>,</unclear><lb/>
-                  Could you possibly make that<unclear>?</unclear><lb/>
-                  If not, pe<unclear>rhaps</unclear> you could come<lb/>
-                  on Monday,<del>if 'rather:</del> or <unclear>w</unclear>hichever day<lb/>
-                  you <unclear>w</unclear>ill be returning to Vienna<lb/>
+                  Kr<del><unclear></unclear></del>ems at 3&#x00B7;0.p.m,which means<lb/>
+                  we shall have to lunch at 12&#x00B7;0<unclear>,</unclear><lb/>
+                  C<unclear>ou</unclear>ld you possibly make that<unclear>?</unclear><lb/>
+                  If not,pe<unclear>rhaps</unclear> you c<unclear>ou</unclear>ld come<lb/>
+                  on Monday,<del>if &#x00B7;retur:</del> or <unclear>w</unclear>h<unclear>ich</unclear>ever day<lb/>
+                  you <unclear>w</unclear>ill be re<unclear>t</unclear>urning to Vienna<lb/>
                   fr<unclear>om</unclear> Fridau<unclear>.</unclear><lb/>
                   love and again thanks ever<lb/>
                   so much<lb/>
-                  Wystan<lb/>
-                  '
+                  Wystan
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0074/" type="sheet"/>
          </div>
