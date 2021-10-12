@@ -68,28 +68,24 @@ li > label {
     margin-left: .5em !important;
 }
 
-#ssDoSearch2, #ssClear {
-    border: 1px solid #615a60 !important;
-    border-radius: 30px !important;
-    margin-bottom: 1em !important;
-    background-color: transparent !important;
+#ssDoSearch2, #ssClear, #ssShowMore, #ssShowAll {
+    border: 1px solid #615a60;
+    border-radius: 30px;
+    margin-bottom: 2em;
+    padding: .1em .8em;
+    background-color: transparent;
+    color: #000;
 }
 
-#ssDoSearch2:hover, #ssClear:hover {
-    background-color: #b59890 !important;
-}
-
-#ssDoSearch2 a, #ssClear a {
-    color: #000 !important;
-}
-
-#ssDoSearch2 a:hover, #ssClear a:hover {
-    color: #fff !important;
+#ssDoSearch2:hover, #ssClear:hover, #ssShowMore:hover, #ssShowAll:hover {
+    background-color: #b59890;
+    color: #fff;
+    border: 1px solid #fff;
 }
 
 fieldset.ssFieldset > span {
-    background-color: #b59890 !important;
-    border: 1px solid #615a60 !important;
+    background-color: #b59890;
+    border: 1px solid #615a60;
 }
 
 /**** Font Aweseome ***/
