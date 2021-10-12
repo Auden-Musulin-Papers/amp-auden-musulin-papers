@@ -22,10 +22,19 @@
                     <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
                 </xsl:call-template>
                 <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.2/openseadragon.min.js"></script>
-                <meta name="Document type" class="staticSearch_desc" content="Letters"/>
+                <meta name="Document type" class="staticSearch_desc">
+                    <xsl:attribute name="content">
+                        <xsl:value-of select="//tei:text/@type"/>
+                    </xsl:attribute>
+                </meta>
                 <meta name="Date of publication" class="staticSearch_date">
                     <xsl:attribute name="content">
                         <xsl:value-of select="//tei:correspAction/tei:date/@when-iso"/>
+                    </xsl:attribute>
+                </meta>
+                <meta name="docImage" class="staticSearch_docImage">
+                    <xsl:attribute name="content">
+                        <xsl:value-of select="concat(//tei:pb[1]/@facs, 'full/full/0/default.jpg')"/>
                     </xsl:attribute>
                 </meta>
             </head>
