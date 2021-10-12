@@ -17,10 +17,18 @@
         </xsl:variable>
         <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
         <html>
-            <xsl:call-template name="html_head">
-                <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
-            </xsl:call-template>
-            
+            <head>
+                <xsl:call-template name="html_head">
+                    <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
+                </xsl:call-template>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/2.4.2/openseadragon.min.js"></script>
+                <meta name="Document type" class="staticSearch_desc" content="Letters"/>
+                <meta name="Date of publication" class="staticSearch_date">
+                    <xsl:attribute name="content">
+                        <xsl:value-of select="//tei:correspAction/tei:date/@when-iso"/>
+                    </xsl:attribute>
+                </meta>
+            </head>
             <body class="page">
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
