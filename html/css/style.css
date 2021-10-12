@@ -55,39 +55,6 @@ div.dataTables_filter {
   width:100%;
 }
 
-form button svg {
-    color: #b59890;
-}
-
-form button svg:hover {
-    color: #615a60;
-}
-
-li > label {
-    text-transform:capitalize !important;
-    margin-left: .5em !important;
-}
-
-#ssDoSearch2, #ssClear, #ssShowMore, #ssShowAll {
-    border: 1px solid #615a60;
-    border-radius: 30px;
-    margin-bottom: 2em;
-    padding: .1em .8em;
-    background-color: transparent;
-    color: #000;
-}
-
-#ssDoSearch2:hover, #ssClear:hover, #ssShowMore:hover, #ssShowAll:hover {
-    background-color: #b59890;
-    color: #fff;
-    border: 1px solid #fff;
-}
-
-fieldset.ssFieldset > span {
-    background-color: #b59890;
-    border: 1px solid #615a60;
-}
-
 /**** Font Aweseome ***/
 .far {
     font-family: "Font Awesome 5 Free" !important;
@@ -117,19 +84,20 @@ fieldset.ssFieldset > span {
 }
 /* slider button */
 .btn-round {
-    border: 1px solid white;
+    border: 1px solid #fff;
 }
 
 .btn-round:hover {
     background-color: #b59890 !important;
+    color: #fff;
 }
 
 .btn-round a {
-    color: white;
+    color: #fff;
 }
 
 .btn-round a:hover {
-    color: white !important;
+    color: #fff !important;
 }
 
 a:hover {
@@ -150,8 +118,12 @@ p {
     color: #615a60 !important;
 }
 
-.nav-link:hover {
+.nav-link:hover, #ssDoSearch:hover {
     color: #b59890 !important;
+}
+
+a.btn-round:hover {
+    color: #fff !important;
 }
 /* table of content buttons in nav */
 .btn-round.active {
@@ -159,7 +131,7 @@ p {
 }
 
 .btn-round.active.nav-link {
-    color: white !important;
+    color: #fff !important;
 }
 
 .carousel-indicators {
@@ -178,9 +150,9 @@ span.ssQueryAndButton {
 
 input#ssQuery {
     font-size: .9rem !important;
-    border-radius: 30px !important;
+    border-radius: .25rem !important;
     padding: .3rem 1.75rem .3rem .75rem !important;
-    border: 1px solid rgba(0,0,0,.075) !important;
+    border: 1px solid rgba(38, 35, 37, 0.075) !important;
     background-color: #fff !important;
     color: rgba(0,0,0,.9) !important;
 }
@@ -190,9 +162,49 @@ button#ssDoSearch {
     padding: 0 !important;
     background: 0 0 !important;
     cursor: pointer !important;
-    color: rgba(0,0,0,.6) !important;
+    color: rgba(38, 35, 37, 0.6) !important;
     margin-left: -4.1em !important;
     margin-top: .1em !important;
+}
+
+form button svg {
+    color: #b59890;
+}
+
+form button svg:hover {
+    color: #615a60;
+}
+
+li > label {
+    text-transform:capitalize !important;
+    margin-left: .5em !important;
+}
+
+#ssDoSearch2, #ssClear, #ssShowMore, #ssShowAll {
+    border: 1px solid #615a60;
+    border-radius: .25rem;
+    margin-bottom: 2em;
+    padding: .1em .8em;
+    background-color: transparent;
+    color: #000;
+}
+
+#ssDoSearch2:hover, #ssClear:hover, #ssShowMore:hover, #ssShowAll:hover {
+    background-color: #b59890;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+fieldset.ssFieldset > span {
+    background-color: #b59890;
+    border: 1px solid #615a60;
+    border-radius: .25rem;
+}
+
+fieldset.ssFieldset > span > label, input {
+    border: 1px solid #615a60;
+    border-radius: .25rem;
+    margin-right: .2em;
 }
 
 #github-logo {

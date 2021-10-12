@@ -60,7 +60,7 @@
                                                             </xsl:attribute>
                                                         </img>
                                                     </div>
-                                                    <div class="card-header" style="color: #615a60 !important;">
+                                                    <div class="card-header">
                                                         <xsl:value-of select="//tei:title[@level='a']"/>
                                                     </div>                                        
                                                 </div>
