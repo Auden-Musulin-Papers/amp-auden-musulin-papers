@@ -6,6 +6,7 @@
     <property name="xsl_editions" value="./xslt/editions.xsl"/>
     <property name="xsl_index" value="./xslt/index.xsl"/>
     <property name="xsl_tox" value="./xslt/toc.xsl"/>
+    <property name="xsl_search" value="./xslt/search.xsl"/>
     <delete>
         <fileset dir="${target}" includes="*.html"/>
     </delete>
@@ -22,9 +23,13 @@
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
+    <xslt in="${index}" out="${target}/search.html" style="${xsl_search}">
+        <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+        <classpath location="${basedir}/saxon/saxon9he.jar"/>
+    </xslt>
     <replace dir="${target}" value="">
         <include name="*.html"/>
         <replacetoken> xmlns=""</replacetoken>
     </replace>
-    <move file="search.html" tofile="html/search.html"/>
+    <!-- <move file="search.html" tofile="html/search.html"/> -->
 </project>

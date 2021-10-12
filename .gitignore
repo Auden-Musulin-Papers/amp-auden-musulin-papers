@@ -1,6 +1,5 @@
 # project specific
 *.html
-!search.html
 /saxon
 
 

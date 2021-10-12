@@ -157,6 +157,10 @@ input#ssQuery {
     color: rgba(0,0,0,.9) !important;
 }
 
+input#ssQuery:hover {
+    border: 1px solid #b59890 !important;
+}
+
 button#ssDoSearch {
     border: 0 !important;
     padding: 0 !important;
@@ -201,10 +205,10 @@ fieldset.ssFieldset > span {
     border-radius: .25rem;
 }
 
-fieldset.ssFieldset > span > label, input {
+fieldset.ssFieldset > span > input {
     border: 1px solid #615a60;
     border-radius: .25rem;
-    margin-right: .2em;
+    margin-left: .3em;
 }
 
 #github-logo {
