@@ -63,6 +63,35 @@ form button svg:hover {
     color: #615a60;
 }
 
+li > label {
+    text-transform:capitalize !important;
+    margin-left: .5em !important;
+}
+
+#ssDoSearch2, #ssClear {
+    border: 1px solid #615a60 !important;
+    border-radius: 30px !important;
+    margin-bottom: 1em !important;
+    background-color: transparent !important;
+}
+
+#ssDoSearch2:hover, #ssClear:hover {
+    background-color: #b59890 !important;
+}
+
+#ssDoSearch2 a, #ssClear a {
+    color: #000 !important;
+}
+
+#ssDoSearch2 a:hover, #ssClear a:hover {
+    color: #fff !important;
+}
+
+fieldset.ssFieldset > span {
+    background-color: #b59890 !important;
+    border: 1px solid #615a60 !important;
+}
+
 /**** Font Aweseome ***/
 .far {
     font-family: "Font Awesome 5 Free" !important;
