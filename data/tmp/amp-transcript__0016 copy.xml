@@ -112,8 +112,43 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0079/" type="envelope"/>
+               <p>
+                  Exp<unclear>r</unclear>ess.
+               </p>
+               <p>
+                  Die Baronin<lb/>
+                  Stella Musulin<lb/>
+                  Fridau<lb/>
+                  3200 Obergrafendorf<lb/>
+                  N.Ö
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0080/" type="envelope"/>
+               <p>
+                  W<unclear>.</unclear>H<unclear>.</unclear> Auden<lb/>
+                  3062 KIRCHSTETTEN<lb/>
+                  BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0081/" type="sheet"/>
+               <p>
+                  Sept 18th.
+               </p>
+               <p>
+                  3062 KIRCHSTETTEN<lb/>
+                  BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  Dear Stella.<lb/>
+                  Del<unclear>i</unclear>ght<unclear>e</unclear>d to hear you <unclear>a</unclear>re<lb/>
+                  back.<lb/>
+                  Could you and your mother<lb/>
+                  come to lunch <del>on</del> next Tuesday ?<lb/>
+                  love<lb/>
+                  Wystan
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0082/" type="sheet"/>
          </div>
       </body>
