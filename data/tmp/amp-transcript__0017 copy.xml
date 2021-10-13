@@ -112,8 +112,41 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0083/" type="envelope"/>
+               <p>
+                  "A Certain World.<unclear>"</unclear>
+               </p>
+               <p>
+                  Die Baronin<lb/>
+                  Stella Musulin<lb/>
+                  1030 Wien III<lb/>
+                  Neulinggasse 26/14
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0084/" type="envelope"/>
+               <p>
+                  WH<unclear>.</unclear> Auden<lb/><!-- 'Auden' is a good occasion to talk about new transcription rule -->
+                  3062 KIRCHSTETTEN<lb/>
+                  BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0085/" type="sheet"/>
+               <p>
+                  June 4 th.
+               </p>
+               <p>
+                  3062 KIRCHSTETTEN<lb/>
+                  BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  Dear Stella:<lb/>
+                  I have <unclear>a</unclear> c<unclear>o</unclear>py of A Certain World<lb/>
+                  for you ,to p<unclear>ic</unclear>k up any time at<lb/>
+                  your convenience.<lb/>
+                  love<lb/>
+                  Wyst<unclear>a</unclear>n
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0086/" type="sheet"/>
          </div>
       </body>
