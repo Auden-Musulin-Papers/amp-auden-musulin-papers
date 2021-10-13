@@ -112,8 +112,43 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0079/" type="envelope"/>
+               <p>
+                  <unclear>Expr</unclear>ess.
+               </p>
+               <p>
+                  Die Baronin<lb/>
+                  Stella Musulin<lb/>
+                  Fridau<lb/>
+                  3200 Obergrafendorf<lb/>
+                  N.Ö
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0080/" type="envelope"/>
+               <p>
+                  W<unclear>H</unclear> Auden<lb/>
+                  3062 KIRCHSTETTEN<lb/>
+                  BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0081/" type="sheet"/>
+               <p>
+                  Sept 18th.
+               </p>
+               <p>
+                  3062 KIRCHSTETTEN<lb/>
+                  BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  Dear S<unclear>t</unclear>ella.<lb/>
+                  Del<unclear>ig</unclear>ht<unclear>e</unclear>d to hear you <unclear>a</unclear>re<lb/>
+                  back.<lb/>
+                  Coul<unclear>d</unclear> you and yo<unclear>ur</unclear> mother<lb/>
+                  come to lunch <del><unclear>on</unclear></del> next Tuesday?<lb/>
+                  love<lb/>
+                  Wystan
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0082/" type="sheet"/>
          </div>
       </body>
