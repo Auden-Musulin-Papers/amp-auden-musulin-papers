@@ -112,6 +112,11 @@ a {
 
 p {
     display: block;
+    padding: 1em;
+}
+
+h4 {
+    text-align:center;
 }
 
 .nav-link {
@@ -132,6 +137,18 @@ a.btn-round:hover {
 
 .btn-round.active.nav-link {
     color: #fff !important;
+}
+
+.btn-backlink {
+    background-color: transparent !important;
+    border: none !important;
+    padding: .3em 1.5em !important;
+}
+
+.btn-round.btn-backlink:hover {
+    background-color: transparent !important;;
+    border: none !important;
+    color: #b59890 !important;
 }
 
 .carousel-indicators {
@@ -294,6 +311,8 @@ fieldset.ssFieldset > span > input {
 .ac {
     color: red;
 }
+
 .avc {
     color: #0000cd;
 }
+

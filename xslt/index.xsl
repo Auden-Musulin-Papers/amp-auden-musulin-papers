@@ -86,36 +86,37 @@
                                             <img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="d-block w-100" alt="..."/>
                                         </div>
                                         <div class="card-header">                                            
-                                            <p>
-                                                Some representative placeholder content for the third slide.
-                                            </p>                                            
+                                            <h4>W. H. Auden's Letters to Stella Musulin</h4>
+                                            <p>Read transcribed letters in various text versions. Explore the original hand-written or typed letters as scans.</p>                                   
                                         </div>
                                     </div>                                     
                                 </a>                                    
                             </div>
                             <div class="col-md-4">
-                                <a href="toc.html" class="index-link">                                                     
+                                <a href="#" class="index-link">                                                     
                                     <div class="card index-card">
                                         <div class="card-body">
                                             <img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="d-block w-100" alt="..."/>
                                         </div>
-                                        <div class="card-header">                                            
+                                        <div class="card-header">   
+                                            <h4>TBA</h4>
                                             <p>
-                                                Some representative placeholder content for the third slide.
+                                                More context in progress.
                                             </p>                                            
                                         </div>
                                     </div>                                 
                                 </a>
                             </div>
                             <div class="col-md-4">
-                                <a href="toc.html" class="index-link">  
+                                <a href="#" class="index-link">  
                                     <div class="card index-card">
                                         <div class="card-body">
                                             <img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="d-block w-100" alt="..."/>
                                         </div>
-                                        <div class="card-header">                                            
+                                        <div class="card-header">  
+                                            <h4>TBA</h4>
                                             <p>
-                                                Some representative placeholder content for the third slide.
+                                                More context in progress.
                                             </p>                                            
                                         </div>
                                     </div>                                    
