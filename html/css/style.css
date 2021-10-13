@@ -45,6 +45,7 @@ div.dataTables_filter {
 
 .navbar .navbar-collapse .navbar-search {
     border-color: #b59890;
+    border-radius: .25rem;
 }
 
 .navbar .navbar-collapse .navbar-search:hover {

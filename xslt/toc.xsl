@@ -60,8 +60,10 @@
                                                             </xsl:attribute>
                                                         </img>
                                                     </div>
-                                                    <div class="card-header">
-                                                        <xsl:value-of select="//tei:title[@level='a']"/>
+                                                    <div class="card-header">                                                      
+                                                        <p style="padding: .2em!important;margin:0!important;"><xsl:value-of select="//tei:correspAction[@type='sent']/tei:persName"/> to <xsl:value-of select="//tei:correspAction[@type='received']/tei:persName"/></p>
+                                                        <p style="padding: .2em!important;margin:0!important;"><xsl:value-of select="//tei:correspAction[@type='sent']/tei:date"/></p>
+                                                        <p style="padding: .2em!important;margin:0!important;"><xsl:value-of select="//tei:revisionDesc/tei:change[last()]"/></p>
                                                     </div>                                        
                                                 </div>
                                             </a>
