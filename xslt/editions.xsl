@@ -42,51 +42,77 @@
                 <div class="hfeed site" id="page">
                     <xsl:call-template name="nav_bar"/>
                     
-                    <div class="container-fluid">                        
+                    <div class="container-fluid">  
                         <div class="card">
                             <div class="card-header">
                                 <h1><xsl:value-of select="$doc_title"/></h1>
                             </div>
-                            <div class="card-body">                                
-                                <xsl:for-each select="//tei:div[@xml:id='transcription']">
-                                    <xsl:for-each-group select="*" group-starting-with="tei:pb">
-                                        <div class="transcript row">
-                                            <div class="col-md-6">     
-                                                <hr/>                                                
-                                                <div class="card-body">                                                                                       
-                                                    <xsl:for-each select="current-group()[self::tei:p]">
-                                                        <p><xsl:apply-templates/></p>
-                                                    </xsl:for-each>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6">
-                                                <hr/>                                                
-                                                <div class="card-body">
-                                                    <xsl:variable name="osd_container_id" select="concat(@type, '_container_', generate-id())"/>
-                                                    <xsl:variable name="osd_container_id2" select="concat(@type, '_container2_', generate-id())"/>
-                                                    <div id="{$osd_container_id}" style="padding:.5em;">
-                                                        <!-- image container accessed by OSD script -->
-                                                        <script type="text/javascript" src="js/osd_single.js"></script>
-                                                        <div id="{$osd_container_id2}">
-                                                            <xsl:if test="@facs">    
-                                                                <xsl:variable name="iiif-ext" select="'full/full/0/default.jpg'"/> 
-                                                                <xsl:variable name="facs_id" select="concat(@type, '_img_', generate-id())"/>
-                                                                <img id="{$facs_id}" onload="load_image('{$facs_id}','{$osd_container_id}','{$osd_container_id2}')">
-                                                                    <xsl:attribute name="src">
-                                                                        <xsl:value-of select="concat(@facs , $iiif-ext)"/>
-                                                                    </xsl:attribute>
-                                                                </img>                                                                
-                                                            </xsl:if>                                
-                                                        </div>                                
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </xsl:for-each-group>
-                                    
-                                </xsl:for-each>
+                            <div id="navBarLetters" style="margin-top:4em !important;">
+                                <ul class="nav nav-tabs" id="dropdown-lang">
+                                    <li class="nav-item">                                    
+                                        <a title="Cards" href="#diplomatic-tab" data-toggle="tab" class="nav-link btn btn-round active">
+                                            show diplomatic
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">                                    
+                                        <a title="Table" href="#xml-tab" data-toggle="tab" class="nav-link btn btn-round">
+                                            show TEI/XML
+                                        </a>
+                                    </li>
+                                </ul>
                             </div>
-                        </div>                       
+                            <div class="tab-content">
+                                 <div class="tab-pane active" id="diplomatic-tab" tabindex="-1">                                     
+                                     <div class="card-body">                                
+                                         <xsl:for-each select="//tei:div[@xml:id='transcription']">
+                                             <xsl:for-each-group select="*" group-starting-with="tei:pb">
+                                                 <div class="transcript row">
+                                                     <div class="col-md-6">     
+                                                         <hr/>                                                
+                                                         <div class="card-body">                                                                                       
+                                                             <xsl:for-each select="current-group()[self::tei:p]">
+                                                                 <p><xsl:apply-templates/></p>
+                                                             </xsl:for-each>
+                                                         </div>
+                                                     </div>
+                                                     <div class="col-md-6">
+                                                         <hr/>                                                
+                                                         <div class="card-body">
+                                                             <xsl:variable name="osd_container_id" select="concat(@type, '_container_', generate-id())"/>
+                                                             <xsl:variable name="osd_container_id2" select="concat(@type, '_container2_', generate-id())"/>
+                                                             <div id="{$osd_container_id}" style="padding:.5em;">
+                                                                 <!-- image container accessed by OSD script -->
+                                                                 <script type="text/javascript" src="js/osd_single.js"></script>
+                                                                 <div id="{$osd_container_id2}">
+                                                                     <xsl:if test="@facs">    
+                                                                         <xsl:variable name="iiif-ext" select="'full/full/0/default.jpg'"/> 
+                                                                         <xsl:variable name="facs_id" select="concat(@type, '_img_', generate-id())"/>
+                                                                         <img id="{$facs_id}" onload="load_image('{$facs_id}','{$osd_container_id}','{$osd_container_id2}')">
+                                                                             <xsl:attribute name="src">
+                                                                                 <xsl:value-of select="concat(@facs , $iiif-ext)"/>
+                                                                             </xsl:attribute>
+                                                                         </img>                                                                
+                                                                     </xsl:if>                                
+                                                                 </div>                                
+                                                             </div>
+                                                         </div>
+                                                     </div>
+                                                 </div>
+                                             </xsl:for-each-group>                                             
+                                         </xsl:for-each>
+                                     </div>
+                                 </div>
+                                <div class="tab-pane fade" id="xml-tab" tabindex="-1">
+                                    <div class="card-body">                                
+                                        <iframe frameborder="0" scrolling="yes" width="100%" height="800px">
+                                            <xsl:attribute name="src">
+                                                <xsl:value-of select="replace(tokenize(base-uri(.),'/')[last()],'.xml','-xml.html')"/>
+                                            </xsl:attribute>
+                                        </iframe>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     <xsl:call-template name="html_footer"/>
                 </div>
@@ -94,7 +120,6 @@
         </html>
     </xsl:template>
                     
-    
     <xsl:template match="tei:lb">
         <br/>
     </xsl:template>
