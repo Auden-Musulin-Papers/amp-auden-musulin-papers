@@ -51,12 +51,17 @@
                                 <ul class="nav nav-tabs" id="dropdown-lang">
                                     <li class="nav-item">                                    
                                         <a title="Cards" href="#diplomatic-tab" data-toggle="tab" class="nav-link btn btn-round active">
-                                            show diplomatic
+                                            diplomativ view
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">                                    
+                                        <a title="Table" href="#reading-tab" data-toggle="tab" class="nav-link btn btn-round">
+                                            reading view
                                         </a>
                                     </li>
                                     <li class="nav-item">                                    
                                         <a title="Table" href="#xml-tab" data-toggle="tab" class="nav-link btn btn-round">
-                                            show TEI/XML
+                                            TEI/XML view
                                         </a>
                                     </li>
                                 </ul>
@@ -102,6 +107,20 @@
                                          </xsl:for-each>
                                      </div>
                                  </div>
+                                <div class="tab-pane fade" id="reading-tab" tabindex="-1">
+                                    <div class="card-body">                                
+                                        <xsl:for-each select="//tei:div[@xml:id='transcription']">
+                                            <xsl:for-each-group select="*" group-starting-with="tei:pb">
+                                                <hr/>                                                
+                                                <div class="card-body">                                                                                       
+                                                    <xsl:for-each select="current-group()[self::tei:p]">
+                                                        <p><xsl:value-of select="."/></p>
+                                                    </xsl:for-each>
+                                                </div>
+                                            </xsl:for-each-group>                                             
+                                        </xsl:for-each>
+                                    </div>
+                                </div>
                                 <div class="tab-pane fade" id="xml-tab" tabindex="-1">
                                     <div class="card-body">                                
                                         <iframe frameborder="0" scrolling="yes" width="100%" height="800px">
