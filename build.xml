@@ -3,6 +3,7 @@
     <property name="editions" value="./data/editions"/>
     <property name="index" value="./data/meta/about.xml"/>
     <property name="target" value="./html"/>
+    <property name="target_xml" value="./html/xml-view"/>
     <property name="xsl_editions" value="./xslt/editions.xsl"/>
     <property name="xsl_editions_xml" value="./xslt/editions-xml.xsl"/>
     <property name="xsl_index" value="./xslt/index.xsl"/>
@@ -12,7 +13,7 @@
         <fileset dir="${target}" includes="*.html"/>
     </delete>
     <delete dir="${target}/static-search"/>
-    <xslt style="${xsl_editions_xml}"  basedir="${editions}" destdir="${target}" includes="*.xml">
+    <xslt style="${xsl_editions_xml}"  basedir="${editions}" destdir="${target_xml}" includes="*.xml">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>

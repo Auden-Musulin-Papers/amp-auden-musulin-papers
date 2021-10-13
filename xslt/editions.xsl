@@ -106,7 +106,7 @@
                                     <div class="card-body">                                
                                         <iframe frameborder="0" scrolling="yes" width="100%" height="800px">
                                             <xsl:attribute name="src">
-                                                <xsl:value-of select="replace(tokenize(base-uri(.),'/')[last()],'.xml','-xml.html')"/>
+                                                <xsl:value-of select="concat('xml-view/',replace(tokenize(base-uri(.),'/')[last()],'.xml','.html'))"/>
                                             </xsl:attribute>
                                         </iframe>
                                     </div>
