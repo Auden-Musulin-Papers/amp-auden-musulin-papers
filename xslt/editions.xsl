@@ -55,6 +55,11 @@
                                         </a>
                                     </li>
                                     <li class="nav-item">                                    
+                                        <a title="Table" href="#commentary-tab" data-toggle="tab" class="nav-link btn btn-round">
+                                            commentary view
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">                                    
                                         <a title="Table" href="#reading-tab" data-toggle="tab" class="nav-link btn btn-round">
                                             reading view
                                         </a>
@@ -76,7 +81,11 @@
                                                          <hr/>                                                
                                                          <div class="card-body">                                                                                       
                                                              <xsl:for-each select="current-group()[self::tei:p]">
-                                                                 <p><xsl:apply-templates/></p>
+                                                                 <p>
+                                                                    <xsl:apply-templates>
+                                                                        <xsl:with-param name="view" select="'diplomatic'"/>
+                                                                    </xsl:apply-templates>
+                                                                 </p>
                                                              </xsl:for-each>
                                                          </div>
                                                      </div>
@@ -114,7 +123,29 @@
                                                 <hr/>                                                
                                                 <div class="card-body">                                                                                       
                                                     <xsl:for-each select="current-group()[self::tei:p]">
-                                                        <p><xsl:value-of select="."/></p>
+                                                        <p>
+                                                            <xsl:apply-templates>
+                                                                <xsl:with-param name="view" select="'reading'"/>
+                                                            </xsl:apply-templates>
+                                                        </p>
+                                                    </xsl:for-each>
+                                                </div>
+                                            </xsl:for-each-group>                                             
+                                        </xsl:for-each>
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="commentary-tab" tabindex="-1">
+                                    <div class="card-body">                                
+                                        <xsl:for-each select="//tei:div[@xml:id='transcription']">
+                                            <xsl:for-each-group select="*" group-starting-with="tei:pb">
+                                                <hr/>                                                
+                                                <div class="card-body">                                                                                       
+                                                    <xsl:for-each select="current-group()[self::tei:p]">
+                                                        <p>
+                                                            <xsl:apply-templates>
+                                                                <xsl:with-param name="view" select="'commentary'"/>
+                                                            </xsl:apply-templates>
+                                                        </p>
                                                     </xsl:for-each>
                                                 </div>
                                             </xsl:for-each-group>                                             
@@ -140,12 +171,31 @@
     </xsl:template>
                     
     <xsl:template match="tei:lb">
-        <br/>
+        <xsl:param name="view"/>
+        <xsl:if test="$view = 'diplomatic' or $view = 'commentary'">
+            <br/>
+        </xsl:if>
     </xsl:template>
     <xsl:template match="tei:unclear">
-        <abbr title="unclear"><xsl:apply-templates/></abbr>
+        <xsl:param name="view"/>
+        <xsl:choose>
+            <xsl:when test="$view = 'diplomatic' or $view = 'commentary'">
+                <abbr title="unclear"><xsl:apply-templates/></abbr>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>     
     </xsl:template>
     <xsl:template match="tei:del">
-        <del><xsl:apply-templates/></del>
+        <xsl:param name="view"/>
+        <xsl:choose>
+            <xsl:when test="$view = 'diplomatic' or $view = 'commentary' or $view = 'reading'">
+                <del><xsl:apply-templates/></del>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>        
     </xsl:template>    
 </xsl:stylesheet>
