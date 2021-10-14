@@ -113,6 +113,9 @@ a {
 
 p {
     display: block;
+}
+
+.card-header > p, card-body > p {
     padding: 1em;
 }
 
