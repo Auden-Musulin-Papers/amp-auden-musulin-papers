@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-10-13">text transcribed</change>
+         <change who="smayer" when="2021-10-14">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-14">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -113,7 +116,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0083/" type="envelope"/>
                <p>
-                  "A Certain World.<unclear>"</unclear>
+                  "A Certain Wo<unclear>r</unclear>ld.<unclear>"</unclear>
                </p>
                <p>
                   Die Baronin<lb/>
@@ -123,7 +126,7 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0084/" type="envelope"/>
                <p>
-                  WH<unclear>.</unclear> Auden<lb/><!-- 'Auden' is a good occasion to talk about new transcription rule -->
+                  WH<unclear>.</unclear> Auden<lb/>
                   3062 KIRCHSTETTEN<lb/>
                   BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
@@ -131,7 +134,7 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0085/" type="sheet"/>
                <p>
-                  June 4 th.
+                  June 4th.
                </p>
                <p>
                   3062 KIRCHSTETTEN<lb/>
@@ -141,10 +144,10 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Dear Stella:<lb/>
-                  I have <unclear>a</unclear> c<unclear>o</unclear>py of A Certain World<lb/>
-                  for you ,to p<unclear>ic</unclear>k up any time at<lb/>
+                  I have <unclear>a</unclear> copy of A Cert<unclear>a</unclear>in World<lb/>
+                  for you ,t<unclear>o</unclear> p<unclear>ick</unclear> up any ti<unclear>m</unclear>e at<lb/>
                   your convenience.<lb/>
-                  love<lb/>
+                  l<unclear>ov</unclear>e<lb/>
                   Wyst<unclear>a</unclear>n
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0086/" type="sheet"/>
