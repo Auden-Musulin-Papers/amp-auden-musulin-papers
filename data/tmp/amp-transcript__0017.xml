@@ -112,8 +112,41 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0083/" type="envelope"/>
+               <p>
+                  "A Certain Wo<unclear>r</unclear>ld<unclear>".</unclear>
+               </p>
+               <p>
+                  Die Baronin<lb/>
+                  Stella Musulin<lb/>
+                  1030 Wien III<lb/>
+                  Neulinggasse 26/14
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0084/" type="envelope"/>
+               <p>
+                  W<unclear>H.</unclear> Auden<lb/>
+                  3062 KIRCHSTETTEN<lb/>
+                  BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0085/" type="sheet"/>
+               <p>
+                  June 4th.
+               </p>
+               <p>
+                  3062 KIRCHSTETTEN<lb/>
+                  BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  Dear Stella:<lb/>
+                  I have a copy of A Cert<unclear>ain</unclear> World<lb/>
+                  for you ,t<unclear>o</unclear> pi<unclear>ck</unclear> up <unclear>any</unclear> tine at<lb/>
+                  your convenience.<lb/>
+                  l<unclear>ov</unclear>e<lb/>
+                  Wystan
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0086/" type="sheet"/>
          </div>
       </body>
