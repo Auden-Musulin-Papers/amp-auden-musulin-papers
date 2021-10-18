@@ -112,8 +112,46 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0095/" type="envelope"/>
+               <p>
+                  Last letter .
+               </p>
+               <p>
+                  Die B<unclear>a</unclear>ronin<lb/>
+                  Stella Musulin<lb/>
+                  A-1030 Wien<lb/>
+                  Neulingasse 26/14
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0096/" type="envelope"/>
+               <p>
+                  <unclear>W.H.</unclear>Auden<lb/>
+                  3062 KIRCHSTETTEN<lb/>
+                  BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0097/" type="sheet"/>
+               <p>
+                  3062 KIRCHSTETTEN<lb/>
+                  BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  <del>Dear</del> <del>O</del>Sept 24th
+               </p>
+               <p>
+                  Dear Stella:<lb/>
+                  I dont yet kn<unclear>ow</unclear> a<unclear>t</unclear> what time<lb/>
+                  the re<unclear>a</unclear>ding is to be. If not until 8&#x00B7;0.p.<lb/>
+                  I sh<unclear>a</unclear>ll eat first,because I l<unclear>ike</unclear> to go<lb/>
+                  to bed early.<lb/>
+                  <unclear>Man</unclear>y tha<unclear>nks</unclear> for the invitati<unclear>on</unclear> to stay<lb/>
+                  <unclear>the</unclear> ni<unclear>gh</unclear>t <unclear>wit</unclear>h y<unclear>ou</unclear>, <unclear>bu</unclear>t I have already<lb/>
+                  booked a room at the Ho<unclear>tel</unclear> <del>Altbur<unclear>gere</unclear>hof</del><lb/>
+                  Altburgenhof<unclear>,</unclear><lb/>
+                  love<lb/>
+                  Wysta<unclear>n</unclear>.
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0098/" type="sheet"/>
          </div>
       </body>
