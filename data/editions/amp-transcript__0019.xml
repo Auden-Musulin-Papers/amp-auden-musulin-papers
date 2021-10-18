@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-10-18">text transcribed</change>
+         <change who="smayer" when="2021-10-18">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-18">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -119,16 +122,19 @@ for any purpose, even commercially.</p>
                   N.Y. 10003<lb/>
                   U.S.A
                </p>
-               <p>
-                  Not <unclear>q</unclear>uitti<unclear>ng</unclear> Kirchstetten .
-               </p>
-               <p>
+              <p>
+                 Not <unclear>q</unclear>uitti<unclear>ng</unclear> <unclear>Kir</unclear>chstetten &#x00B7;
+              </p>
+              <p>
                   Die Baronin<lb/>
                   Stella Musulin<lb/>
                   Fridau<lb/>
-                  3200 Obergra<unclear>f</unclear>endorf<lb/><!-- '3200' separete paragraph? we might need a protocol for this ... -->
+                  Obergra<unclear>f</unclear>endorf<lb/>
                   N.Ö<lb/>
-                  Austria
+                  Aust<unclear>r</unclear>ia
+               </p>
+               <p>
+                  3200
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0092/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0093/" type="sheet"/>
@@ -138,14 +144,14 @@ for any purpose, even commercially.</p>
                   N.Y. 10003
                </p>
                <p>
-                  Feb 22<unclear>nd</unclear>, <unclear>19</unclear>71
+                  Feb 22<unclear>nd</unclear>, <unclear>19</unclear>72
                </p>
                <p>
-                  Dear Stella:<lb/>
-                  M<unclear>an</unclear>y thanks for your letter. Whate<unclear>ve</unclear>r<lb/>
-                  made you imagine I was quitting Kirchstetten<unclear>?</unclear>,<lb/>
-                  Of course I'm not. The cha<unclear>ng</unclear>e is that I<lb/>
-                  s<unclear>ha</unclear>ll be spending my winters in Oxford<lb/>
+                  Dear Stella<unclear>;</unclear><lb/>
+                  M<unclear>an</unclear>y thanks f<unclear>o</unclear>r your letter. Whate<unclear>ve</unclear>r<lb/>
+                  <unclear>m</unclear>a<unclear>d</unclear>e y<unclear>ou</unclear> imagine I w<unclear>as</unclear> quitting Kirchst<unclear>et</unclear>ten<unclear>?</unclear><unclear>,</unclear><lb/>
+                  Of course I'm not. The c<unclear>hang</unclear>e is tha<unclear>t</unclear> I<lb/>
+                  s<unclear>ha</unclear>ll b<unclear>e</unclear> spending <unclear>m</unclear>y winters in Oxford<lb/>
                   not in New York.<lb/>
                   love<lb/>
                   Wystan
