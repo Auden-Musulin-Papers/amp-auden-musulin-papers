@@ -171,7 +171,7 @@ span.ssQueryAndButton {
 
 input#ssQuery {
     font-size: .9rem !important;
-    border-radius: .25rem !important;
+    border-radius: .25rem;
     padding: .3rem 1.75rem .3rem .75rem !important;
     border: 1px solid rgba(38, 35, 37, 0.075) !important;
     background-color: #fff !important;
@@ -249,7 +249,7 @@ fieldset.ssFieldset > span > input {
     max-width: 50% !important;
     width: 50% !important;
     font-size: .9rem !important;
-    border-radius: 0 0 0 .25rem !important;
+    border-radius: 0 0 .25rem .25rem !important;
     padding: 0.3rem !important;    
     color: rgba(0,0,0,.9) !important;
     -ms-overflow-style: none;  /* IE and Edge */
@@ -257,8 +257,15 @@ fieldset.ssFieldset > span > input {
 }
 
 .ac-border {
+    background-color: rgba(38, 35, 37, 0.075);
     border: 1px solid rgba(38, 35, 37, 0.075) !important;
     border-top: 3px solid rgba(38, 35, 37, 0.075) !important;
+}
+
+.ac-border2 {
+    border: 1px solid rgba(38, 35, 37, 0.075) !important;
+    border-bottom: 3px solid rgba(38, 35, 37, 0.075) !important;
+    border-radius: .25rem .25rem 0 0 !important;
 }
 
 .stem {
@@ -267,7 +274,7 @@ fieldset.ssFieldset > span > input {
 }
 
 .stem:hover {
-    background-color: rgba(38.0, 35.3, 37.6, 0.3);
+    background-color: rgba(38, 35, 37, 0.3);
     border-radius: .25rem;
 }
 

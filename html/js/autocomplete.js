@@ -52,6 +52,7 @@ $( document ).ready(function() {
     var searchInput = $("#ssQuery");
     searchInput.keyup(function() {
         $("#ac-complete").removeClass("ac-border");
+        $("#ssQuery").removeClass("ac-border2"); 
         $("#ac-complete").empty();
         var invalue = searchInput.val();
         if (invalue.length >= 2) {
@@ -62,7 +63,7 @@ $( document ).ready(function() {
 });
 
 function getValue(searchInput) {
-    var inputvalue = searchInput.val();
+    var inputvalue = searchInput.val().toLowerCase();
     for (var i = 0; i < stems.length; i++) {
         if (stems[i].startsWith(inputvalue) == true) {
             // console.log(stems[i]);
@@ -70,6 +71,7 @@ function getValue(searchInput) {
                 `<p class="stem" style="margin:0!important;">${stems[i]}</p>`
             );
             $("#ac-complete").addClass("ac-border");
+            $("#ssQuery").addClass("ac-border2");            
         }
     }
 };
