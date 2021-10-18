@@ -6,6 +6,7 @@ openFile("static-search/filenames_auden.txt", (rs) => {
         `<span id="ac-complete"/>`
     );
     for (var i = 0; i < filenames.length; i++) {
+        console.log(filenames[i]);
         var filename = filenames[i].replace('html/','');
         openFile(filename, function(file) {
             const response = JSON.parse(file);
@@ -78,5 +79,6 @@ function getItem(searchInput) {
         var svalue = $(this).text();
         // console.log(svalue);
         searchInput.val(svalue);
+        searchInput.focus();
     });
 }

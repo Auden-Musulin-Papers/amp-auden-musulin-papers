@@ -189,6 +189,7 @@ button#ssDoSearch {
     cursor: pointer !important;
     color: rgba(38, 35, 37, 0.6) !important;
     margin-left: -4.1em !important;
+    margin-right: 1em;
     margin-top: .1em !important;
 }
 
@@ -240,6 +241,7 @@ fieldset.ssFieldset > span > input {
 /* Hide scrollbar for IE, Edge and Firefox */
 #ac-complete {
     display:block;
+    position:relative;
     min-height:50px;
     max-height:200px;
     overflow:scroll;
@@ -256,6 +258,7 @@ fieldset.ssFieldset > span > input {
 
 .ac-border {
     border: 1px solid rgba(38, 35, 37, 0.075) !important;
+    border-top: 3px solid rgba(38, 35, 37, 0.075) !important;
 }
 
 .stem {
