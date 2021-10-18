@@ -1,31 +1,47 @@
 openDir = ARCHEapi.openDir;
-var filepath = "static-search/stems/";
+openFile = ARCHEapi.openFile;
+var filedir = "static-search/stems/";
 var stems = [];
-openDir(filepath, function(rs) {
-    $("#ssForm").find(".ssQueryAndButton").after(
-        `<span id="ac-complete"/>`
-    )
-    // console.log(typeof rs);
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(rs, "text/html");
-    var filenames = doc.querySelectorAll('li a');
-    var filelist = [];
-    for (var i = 0; i < filenames.length; i++) {
-        filename = filenames[i].innerHTML;
-        // console.log(filename);
-        filelist.push(filename);
-        openDir(filepath + filename, function(file) {
-            const response = JSON.parse(file);
-            var stem = response.stem;
-            stems.push(stem);
-            // console.log(json);
-            // console.log(searchInput.val());
-            // console.log(stem);
-            // console.log(json.instances);
-        });
-    }
+var filenames = openDir(filedir);
+for (var i = 0; i < filenames.length; i++) {
+    var filename = filenames[i];
+    console.log(filename);
+    openFile(filepath + filename, function(file) {
+        const response = JSON.parse(file);
+        var stem = response.stem;
+        stems.push(stem);
+        // console.log(json);
+        // console.log(searchInput.val());
+        // console.log(stem);
+        // console.log(json.instances);
+    });
+}
 
-});
+// openFile(filepath, function(rs) {
+//     $("#ssForm").find(".ssQueryAndButton").after(
+//         `<span id="ac-complete"/>`
+//     )
+//     // console.log(typeof rs);
+//     const parser = new DOMParser();
+//     const doc = parser.parseFromString(rs, "text/html");
+//     var filenames = doc.querySelectorAll('li a');
+//     var filelist = [];
+//     for (var i = 0; i < filenames.length; i++) {
+//         filename = filenames[i].innerHTML;
+//         // console.log(filename);
+//         filelist.push(filename);
+//         openDir(filepath + filename, function(file) {
+//             const response = JSON.parse(file);
+//             var stem = response.stem;
+//             stems.push(stem);
+//             // console.log(json);
+//             // console.log(searchInput.val());
+//             // console.log(stem);
+//             // console.log(json.instances);
+//         });
+//     }
+
+// });
 
 $( document ).ready(function() {
     var searchInput = $("#ssQuery");
