@@ -1,21 +1,26 @@
-openDir = ARCHEapi.openDir;
 openFile = ARCHEapi.openFile;
-var filedir = "static-search/stems/";
 var stems = [];
-var filenames = openDir(filedir);
-for (var i = 0; i < filenames.length; i++) {
-    var filename = filenames[i];
-    console.log(filename);
-    openFile(filepath + filename, function(file) {
-        const response = JSON.parse(file);
-        var stem = response.stem;
-        stems.push(stem);
-        // console.log(json);
-        // console.log(searchInput.val());
-        // console.log(stem);
-        // console.log(json.instances);
-    });
-}
+openFile("static-search/filenames_auden.txt", (rs) => {
+    var filenames = rs.split(',');
+    $("#ssForm").find(".ssQueryAndButton").after(
+        `<span id="ac-complete"/>`
+    );
+    for (var i = 0; i < filenames.length; i++) {
+        console.log(filenames[i]);
+        var filename = filenames[i].replace('html/','');
+        openFile(filename, function(file) {
+            const response = JSON.parse(file);
+            var stem = response.stem;
+            stems.push(stem);
+            // console.log(response);
+            // console.log(stem);
+            // console.log(json.instances);
+        });
+    }
+    // console.log(stems);
+});
+
+
 
 // openFile(filepath, function(rs) {
 //     $("#ssForm").find(".ssQueryAndButton").after(
@@ -74,5 +79,6 @@ function getItem(searchInput) {
         var svalue = $(this).text();
         // console.log(svalue);
         searchInput.val(svalue);
+        searchInput.focus();
     });
 }
