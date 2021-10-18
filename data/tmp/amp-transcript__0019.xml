@@ -112,8 +112,47 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0091/" type="envelope"/>
+               <p>
+                  W<unclear>.</unclear>H.Auden<lb/>
+                  77 St Mark's Place<lb/>
+                  New York City<lb/>
+                  N. Y . 10003<lb/>
+                  U.S.A
+               </p>
+            <p>
+               Not <unclear>q</unclear>uitti<unclear>ng</unclear> <unclear>Kir</unclear>chstetten &#00B7;
+            </p>
+            <p>
+               Die Baronin<lb/>
+               Stella Musulin<lb/>
+               Fridau<lb/>
+               Obergra<unclear>f</unclear>endorf<lb/>
+               N. Ö<lb/>
+               Aust<unclear>r</unclear>ia
+            </p>
+            <p>
+               3200
+            </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0092/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0093/" type="sheet"/>
+               <p>
+                  77 St Mark's Place<lb/>
+                  New York City<lb/>
+                  N.Y. 10003
+               </p>
+               <p>
+                  Feb 22<unclear>nd</unclear> , <unclear>19</unclear>72
+               </p>
+               <p>
+                  Dear Stella<unclear>:</unclear><lb/>
+                  M<unclear>an</unclear>y thank<unclear>s</unclear> f<unclear>o</unclear>r your letter. Whate<unclear>ve</unclear>r<lb/>
+                  <unclear>m</unclear>a<unclear>d</unclear>e y<unclear>ou</unclear> imagine I w<unclear>as</unclear> quitting Kirchst<unclear>et</unclear>ten<unclear>?</unclear><lb/>
+                  Of course I'm  not. The c<unclear>han</unclear>ge is tha<unclear>t</unclear> I<lb/>
+                  sh<unclear>a</unclear>ll b<unclear>e</unclear> spending <unclear>m</unclear>y winters in Oxford<lb/>
+                  not in New York.<lb/>
+                  love<lb/>
+                  Wystan
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0094/" type="sheet"/>
          </div>
       </body>
