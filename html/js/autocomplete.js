@@ -55,11 +55,17 @@ $( document ).ready(function() {
         $("#ssQuery").removeClass("ac-border2"); 
         $("#ac-complete").empty();
         var invalue = searchInput.val();
-        if (invalue.length >= 2) {
+        if (invalue.length > 0) {
             getValue(searchInput);
         }
         getItem(searchInput);
     });
+});
+
+$("#ssClear").click(function() {
+    $("#ac-complete").removeClass("ac-border");
+    $("#ssQuery").removeClass("ac-border2"); 
+    $("#ac-complete").empty();
 });
 
 function getValue(searchInput) {
