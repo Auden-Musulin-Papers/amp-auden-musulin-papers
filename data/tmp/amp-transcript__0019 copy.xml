@@ -112,8 +112,44 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0091/" type="envelope"/>
+               <p>
+                  W<unclear>.</unclear>H.Auden<lb/>
+                  77 St Mark's Place<lb/>
+                  New York City<lb/>
+                  N.Y. 10003<lb/>
+                  U.S.A
+               </p>
+               <p>
+                  Not <unclear>q</unclear>uitti<unclear>ng</unclear> Kirchstetten .
+               </p>
+               <p>
+                  Die Baronin<lb/>
+                  Stella Musulin<lb/>
+                  Fridau<lb/>
+                  3200 Obergra<unclear>f</unclear>endorf<lb/><!-- '3200' separete paragraph? we might need a protocol for this ... -->
+                  N.Ö<lb/>
+                  Austria
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0092/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0093/" type="sheet"/>
+               <p>
+                  77 St Mark's Place<lb/>
+                  New York City<lb/>
+                  N.Y. 10003
+               </p>
+               <p>
+                  Feb 22<unclear>nd</unclear>, <unclear>19</unclear>71
+               </p>
+               <p>
+                  Dear Stella:<lb/>
+                  M<unclear>an</unclear>y thanks for your letter. Whate<unclear>ve</unclear>r<lb/>
+                  made you imagine I was quitting Kirchstetten<unclear>?</unclear>,<lb/>
+                  Of course I'm not. The cha<unclear>ng</unclear>e is that I<lb/>
+                  s<unclear>ha</unclear>ll be spending my winters in Oxford<lb/>
+                  not in New York.<lb/>
+                  love<lb/>
+                  Wystan
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0094/" type="sheet"/>
          </div>
       </body>
