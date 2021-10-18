@@ -1,6 +1,9 @@
 # project specific
 *.html
 /saxon
+/static-search
+/html/static-search
+/html/js/arche_api_functions
 
 
 # Byte-compiled / optimized / DLL files

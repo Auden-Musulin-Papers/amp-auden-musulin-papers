@@ -19,6 +19,7 @@
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
                 </xsl:call-template>
+                <script src="https://unpkg.com/arche-api@1.1.0-beta/lib/arche-api.min.js"/>
             </head>
             <body class="page">
                 <div class="hfeed site" id="page">
@@ -36,6 +37,7 @@
                     <xsl:call-template name="html_footer"/>
                 </div>
             </body>
+            <script type="text/javascript" src="js/autocomplete.js"></script>
         </html>
     </xsl:template>
     
