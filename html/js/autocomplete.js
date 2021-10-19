@@ -1,9 +1,10 @@
 openFile = ARCHEapi.openFile;
+
 var stems = [];
 openFile("static-search/filenames_auden.txt", (rs) => {
     var filenames = rs.split(',');
     $("#ssForm").find(".ssQueryAndButton").after(
-        `<span id="ac-complete"/>`
+        `<div id="ac-complete"/>`
     );
     for (var i = 0; i < filenames.length; i++) {
         console.log(filenames[i]);
@@ -20,73 +21,57 @@ openFile("static-search/filenames_auden.txt", (rs) => {
     // console.log(stems);
 });
 
+const searchInput = $("#ssQuery");
 
+searchInput.focus(function() {
+    const searchInputPanel = $("#ac-complete");
 
-// openFile(filepath, function(rs) {
-//     $("#ssForm").find(".ssQueryAndButton").after(
-//         `<span id="ac-complete"/>`
-//     )
-//     // console.log(typeof rs);
-//     const parser = new DOMParser();
-//     const doc = parser.parseFromString(rs, "text/html");
-//     var filenames = doc.querySelectorAll('li a');
-//     var filelist = [];
-//     for (var i = 0; i < filenames.length; i++) {
-//         filename = filenames[i].innerHTML;
-//         // console.log(filename);
-//         filelist.push(filename);
-//         openDir(filepath + filename, function(file) {
-//             const response = JSON.parse(file);
-//             var stem = response.stem;
-//             stems.push(stem);
-//             // console.log(json);
-//             // console.log(searchInput.val());
-//             // console.log(stem);
-//             // console.log(json.instances);
-//         });
-//     }
+    searchInput.keyup(function() {        
+        searchInputPanel.removeClass("ac-border");
+        searchInput.removeClass("ac-border2"); 
+        searchInputPanel.empty();
 
-// });
-
-$( document ).ready(function() {
-    var searchInput = $("#ssQuery");
-    searchInput.keyup(function() {
-        $("#ac-complete").removeClass("ac-border");
-        $("#ssQuery").removeClass("ac-border2"); 
-        $("#ac-complete").empty();
         var invalue = searchInput.val();
         if (invalue.length > 0) {
-            getValue(searchInput);
+            getValue();
         }
-        getItem(searchInput);
+        getItem();
     });
-});
 
-$("#ssClear").click(function() {
-    $("#ac-complete").removeClass("ac-border");
-    $("#ssQuery").removeClass("ac-border2"); 
-    $("#ac-complete").empty();
-});
+    const clearbutton = $("#ssClear");
 
-function getValue(searchInput) {
-    var inputvalue = searchInput.val().toLowerCase();
-    for (var i = 0; i < stems.length; i++) {
-        if (stems[i].startsWith(inputvalue) == true) {
-            // console.log(stems[i]);
-            $("#ac-complete").append(
-                `<p class="stem" style="margin:0!important;">${stems[i]}</p>`
-            );
-            $("#ac-complete").addClass("ac-border");
-            $("#ssQuery").addClass("ac-border2");            
+    clearbutton.click(function() {
+        searchInputPanel.removeClass("ac-border");
+        searchInput.removeClass("ac-border2"); 
+        searchInputPanel.empty();
+    });
+
+    function getValue() {
+        var inputvalue = searchInput.val().toLowerCase();
+
+        var stemsuggestions = stems.filter(function(stem) {
+            return stem.startsWith(inputvalue);
+        });
+        // console.log(stemsuggestions);
+        stemsuggestions.forEach(function(stemsuggested) {
+            // console.log(stemsuggested);
+            searchInputPanel.append(`<p class="stem" style="margin:0!important;">${stemsuggested}</p>`);
+        });
+
+        searchInputPanel.addClass("ac-border");
+        searchInput.addClass("ac-border2");
+
+        if (inputvalue === "") {
+            searchInputPanel.empty();
         }
+    };
+
+    function getItem() {
+        $(".stem").on("click", function() {
+            var svalue = $(this).text();
+            // console.log(svalue);
+            searchInput.val(svalue);
+            searchInput.focus();
+        });
     }
-};
-
-function getItem(searchInput) {
-    $(".stem").on("click", function() {
-        var svalue = $(this).text();
-        // console.log(svalue);
-        searchInput.val(svalue);
-        searchInput.focus();
-    });
-}
+});
