@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-10-18">text transcribed</change>
+         <change who="smayer" when="2021-10-19">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-19">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -113,7 +116,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0095/" type="envelope"/>
                <p>
-                  Last letter .
+                  Last lette<unclear>r</unclear> .
                </p>
                <p>
                   Die B<unclear>a</unclear>ronin<lb/>
@@ -137,20 +140,20 @@ for any purpose, even commercially.</p>
                   N.-Ö., AUSTRIA
                </p>
                <p>
-                  <del>Dear</del> <del>O</del>Sept 24th
+                  <del>Dear</del> <del>O</del>Sept 24<unclear>th</unclear>
                </p>
                <p>
                   Dear Stella:<lb/>
-                  I dont yet kn<unclear>ow</unclear> a<unclear>t</unclear> what time<lb/>
-                  the re<unclear>a</unclear>ding is to be. If not until 8&#x00B7;0.p.<lb/>
-                  I sh<unclear>a</unclear>ll eat first,because I l<unclear>ike</unclear> to go<lb/>
-                  to bed early.<lb/>
-                  <unclear>Man</unclear>y tha<unclear>nks</unclear> for the invitati<unclear>on</unclear> to stay<lb/>
-                  <unclear>the</unclear> ni<unclear>gh</unclear>t <unclear>wit</unclear>h y<unclear>ou</unclear>, <unclear>bu</unclear>t I have already<lb/>
-                  booked a room at the Ho<unclear>tel</unclear> <del>Altbur<unclear>gere</unclear>hof</del><lb/>
+                  I d<unclear>on</unclear>t yet kn<unclear>ow</unclear> a<unclear>t</unclear> w<unclear>ha</unclear>t time<lb/>
+                  <unclear>th</unclear>e re<unclear>a</unclear>ding is to be. If not until 8&#x00B7;<unclear>o</unclear>.p.<lb/>
+                  I sh<unclear>a</unclear>ll eat fi<unclear>r</unclear>st,be<unclear>c</unclear>a<unclear>us</unclear>e I l<unclear>ike</unclear> to go<lb/>
+                  t<unclear>o</unclear> bed early.<lb/>
+                  <unclear>Many</unclear> tha<unclear>nk</unclear>s f<unclear>or</unclear> <unclear>th</unclear>e invitati<unclear>on</unclear> to stay<lb/>
+                  <unclear>the</unclear> nig<unclear>ht</unclear> <unclear>with</unclear> y<unclear>ou</unclear>, <unclear>but</unclear> I h<unclear>av</unclear>e alr<unclear>ea</unclear>dy<lb/>
+                  booked a roo<unclear>m</unclear> <unclear>a</unclear>t <unclear>the</unclear> H<unclear>otel</unclear> <del>Altburg<unclear></unclear></del>hof<lb/>
                   Altburgenhof<unclear>,</unclear><lb/>
-                  love<lb/>
-                  Wysta<unclear>n</unclear>.
+                  l<unclear>ov</unclear>e<lb/>
+                  <unclear>W</unclear>ysta<unclear>n.</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0098/" type="sheet"/>
          </div>
