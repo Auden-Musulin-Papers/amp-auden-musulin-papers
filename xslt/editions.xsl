@@ -37,6 +37,11 @@
                         <xsl:value-of select="concat(//tei:pb[1]/@facs, 'full/full/0/default.jpg')"/>
                     </xsl:attribute>
                 </meta>
+                <meta name="docTitle" class="staticSearch_docTitle">
+                    <xsl:attribute name="content">
+                        <xsl:value-of select="//tei:titleStmt/tei:title[@level='a']"/>
+                    </xsl:attribute>
+                </meta>
             </head>
             <body class="page">
                 <div class="hfeed site" id="page">
