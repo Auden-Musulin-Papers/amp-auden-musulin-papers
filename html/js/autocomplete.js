@@ -6,18 +6,25 @@ openFile("static-search/filenames_auden.txt", (rs) => {
     $("#ssForm").find(".ssQueryAndButton").after(
         `<div id="ac-complete"/>`
     );
-    for (var i = 0; i < filenames.length; i++) {
-        console.log(filenames[i]);
-        var filename = filenames[i].replace('html/','');
+    filenames.forEach(function(file) {
+        var filename = file.replace('html/','');
         openFile(filename, function(file) {
             const response = JSON.parse(file);
             var stem = response.stem;
-            stems.push(stem);
+            var inst = response.instances;
+            var instances = [];
+            inst.forEach(function(instance) {
+                instances.push(instance.score);   
+            });
+            stems.push({
+                score: instances[0],
+                name: stem
+            });            
             // console.log(response);
             // console.log(stem);
             // console.log(json.instances);
         });
-    }
+    });
     // console.log(stems);
 });
 
@@ -50,12 +57,18 @@ searchInput.focus(function() {
         var inputvalue = searchInput.val().toLowerCase();
 
         var stemsuggestions = stems.filter(function(stem) {
-            return stem.startsWith(inputvalue);
+            // console.log(stem.name);
+            return stem.name.startsWith(inputvalue);
         });
         // console.log(stemsuggestions);
         stemsuggestions.forEach(function(stemsuggested) {
-            // console.log(stemsuggested);
-            searchInputPanel.append(`<p class="stem" style="margin:0!important;">${stemsuggested}</p>`);
+            // console.log(stemsuggested.name + "_" + stemsuggested.score);
+            searchInputPanel.append(`
+                <div class="stem row" style="padding:.5em;">
+                    <div class="col-md-10" style="padding-left:1em;">${stemsuggested.name}</div>
+                    <div class="col-md-2">score: ${stemsuggested.score}</div>
+                </div>
+            `);
         });
 
         searchInputPanel.addClass("ac-border");
@@ -67,7 +80,7 @@ searchInput.focus(function() {
     };
 
     function getItem() {
-        $(".stem").on("click", function() {
+        $(".stem .col-md-10").on("click", function() {
             var svalue = $(this).text();
             // console.log(svalue);
             searchInput.val(svalue);
