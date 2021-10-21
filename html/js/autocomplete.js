@@ -35,6 +35,8 @@ const searchInput = $("#ssQuery");
 
 searchInput.focus(function() {
     const searchInputPanel = $("#ac-complete");
+    searchInput.attr("autocomplege", "false");
+    searchInput.attr("name", "hidden");
 
     searchInput.keyup(function() {        
         searchInputPanel.removeClass("ac-border");
