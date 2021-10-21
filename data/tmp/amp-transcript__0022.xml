@@ -99,8 +99,39 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0117/" type="envelope"/>
+               <p>
+                  Die Baronin<lb/>
+                  Stella Mu<del><unclear></unclear></del><unclear>s</unclear>sil<unclear>i</unclear>n<lb/>
+                  Wien III<lb/>
+                  Neulingasse 26.
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0118/" type="envelope"/>
+               <p>
+                  W.H.Auden<lb/>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+              </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0119/" type="sheet"/>
+               <p>
+                  Aug<unclear>us</unclear>t 16th
+               </p>
+               <p>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  D<del><unclear></unclear></del>ear Stella:<lb/>
+                  Del<unclear>ig</unclear>hted to hear y<unclear>o</unclear><del><unclear></unclear></del><unclear>u</unclear> a<unclear>r</unclear>e<lb/>
+                  back and wo<unclear>u</unclear>ld love to see y<unclear>ou</unclear><lb/>
+                  a<unclear>ny</unclear>time<unclear>:</unclear> Are you living in Wien or<lb/>
+                  in Obergra<unclear>f</unclear>endorf.?<lb/>
+                  I read your piece in Die Presse<lb/>
+                  la<unclear>s</unclear>t Su<unclear>n</unclear>da<unclear>y</unclear> <unclear>wi</unclear>th gre<unclear>a</unclear>t in<unclear>ter</unclear>e<unclear>s</unclear>t<unclear>,</unclear><lb/>
+                  yo<unclear>urs</unclear> ever<lb/>
+                  Wystan
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0120/" type="sheet"/>
          </div>
       </body>
