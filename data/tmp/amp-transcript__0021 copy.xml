@@ -112,8 +112,38 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/" type="envelope"/>
+               <p>
+                  Die Baroni<unclear>n</unclear><lb/>
+                  St<unclear>e</unclear>lla von Muss<unclear>o</unclear>lin<lb/>
+                  Wien III<lb/>
+                  Neulingasse 26 .
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0114/" type="envelope"/>
+               <p>
+                  W.H.Auden<lb/>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0115/" type="sheet"/>
+               <p>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  Friday
+               </p>
+               <p>
+                  Dear Stella:<lb/>
+                  Many thanks for your letter. Ac<del>r</del>tually,we<lb/>
+                  shall be here till the end of October.<lb/>
+                  So far as I know,any week-day which suits you<lb/>
+                  and Herr Fritsch would be O.K.for us,so just<lb/>
+                  drop us a p.c.when you fix the day.<lb/>
+                  longing to see you<lb/>
+                  Wystan           
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0116/" type="sheet"/>
          </div>
       </body>
