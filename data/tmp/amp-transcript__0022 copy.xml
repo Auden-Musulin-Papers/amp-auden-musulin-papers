@@ -99,8 +99,39 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0117/" type="envelope"/>
+               <p>
+                  Die Baronin<lb/>
+                  Stella Mu<del><unclear></unclear></del>ssil<unclear>i</unclear>n<lb/><!-- screen shot i e -->
+                  Wien III<lb/>
+                  Neulingasse 26.
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0118/" type="envelope"/>
+               <p>
+                  <unclear>W</unclear>.H.Aude<unclear>n</unclear><lb/>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA<lb/>
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0119/" type="sheet"/>
+               <p>
+                  Au<unclear>gus</unclear>t 16th
+               </p>
+               <p>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA<lb/>
+               </p>
+               <p>
+                  <del>De</del>Dear Stella:<lb/>
+                  Del<unclear>i</unclear>ghted to hear y<unclear>ou</unclear> are<lb/>
+                  back and would love to see you<lb/>
+                  anytime.. Are you living in Wien or<lb/>
+                  in Obergrabendorf.?<lb/><!-- screen shot b f -->
+                  I read your piece in Die Presse<lb/>
+                  last Sunday <unclear>wi</unclear>th great int<unclear>eres</unclear>t<unclear>,</unclear><lb/>
+                  yours ever<lb/>
+                  Wystan
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0120/" type="sheet"/>
          </div>
       </body>
