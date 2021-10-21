@@ -75,7 +75,7 @@ searchInput.focus(function() {
         sortedstems.forEach(function(stemsuggested) {
             searchInputPanel.append(`
                 <div class="stem row" style="padding:.5em;">
-                    <div class="col-md-9" style="padding-left:1em;">${stemsuggested[0]}</div>
+                    <div class="s-name col-md-9" style="padding-left:1em;">${stemsuggested[0]}</div>
                     <div class="col-md-3" style="text-align:right;">score: ${stemsuggested[1]}</div>
                 </div>
             `);
@@ -90,7 +90,7 @@ searchInput.focus(function() {
     };
 
     function getItem() {
-        $(".stem .col-md-10").on("click", function() {
+        $(".stem .s-name").on("click", function() {
             var svalue = $(this).text();
             // console.log(svalue);
             searchInput.val(svalue);
