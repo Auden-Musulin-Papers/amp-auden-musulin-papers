@@ -112,8 +112,38 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0121/" type="envelope"/>
+               <p>
+                  Die Baronin<lb/>
+                  Stella Mus<del><unclear></unclear></del><unclear>s</unclear>ulin<lb/>
+                  Fridau<lb/>
+                  Obergrabendorf,<lb/>
+                  N.O <unclear>,</unclear> bei S. Pölten
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0122/" type="envelope"/>
+               <p>
+                  W.H.Auden<lb/>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0123/" type="sheet"/>
+               <p>
+                  July 23<unclear>rd</unclear>.
+               </p>
+               <p>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  Dear Stella:<lb/>
+                  H<unclear>o</unclear>w are you and w<unclear>h</unclear>ere are<lb/>
+                  you?<lb/>
+                  If in Fridau, we w<unclear>ou</unclear>ld l<unclear>ov</unclear>e to<lb/>
+                  See you. Am exp<unclear>ecb</unclear>ing Christiane<lb/>
+                  Zimmer here about <del>th</del> Aug<unclear>us</unclear>t 5th.<lb/>
+                  <unclear>W</unclear>y<unclear>s</unclear>t<unclear>an</unclear>
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0124/" type="sheet"/>
          </div>
       </body>
