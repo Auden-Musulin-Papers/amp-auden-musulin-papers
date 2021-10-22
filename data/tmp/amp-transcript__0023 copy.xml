@@ -112,8 +112,38 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0121/" type="envelope"/>
+               <p>
+                  Die Baronin<lb/>
+                  Stella Mus<del><unclear></unclear></del><unclear>s</unclear>ulin<lb/>
+                  Fridau<lb/>
+                  Obergrabendorf,<lb/>
+                  N. O . bei S. Pölten
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0122/" type="envelope"/>
+               <p>
+                  W.H.Auden<lb/>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0123/" type="sheet"/>
+               <p>
+                  July 23<unclear>rd</unclear>.
+               </p>
+               <p>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  Dear Stella:<lb/>
+                  How are you and where are<lb/>
+                  you?<lb/>
+                  If in Fridau,we w<unclear>o</unclear>u<unclear>ld</unclear> love to<lb/>
+                  see you. Am expe<unclear>ct</unclear>ing Christiane<lb/>
+                  Zimmer here about <del><unclearth</unclear></del> Augu<unclear>s</unclear>t 5th.<lb/>
+                  <unclear>W</unclear>yst<unclear>a</unclear>n
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0124/" type="sheet"/>
          </div>
       </body>
