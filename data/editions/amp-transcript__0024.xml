@@ -79,6 +79,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-10-25">text transcribed</change>
+         <change who="smayer" when="2021-10-25">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-25">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -101,20 +104,23 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0125/" type="envelope"/>
                <p>
                   Die Baronin<lb/>
-                  Stella Musuli<unclear>n</unclear><lb/>
+                  Stella Musuli<unclear>m</unclear><lb/>
                   Wien III<lb/>
-                  Neulinggasse 26. 14
+                  Neulinggasse 26.
+               </p>
+               <p>
+                  14
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0126/" type="envelope"/>
                <p>
-                  <unclear>W.H</unclear> Auden
+                  <unclear>W.H</unclear> Aud<unclear>en</unclear><lb/>
                   KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
                   N.-Ö., AUSTRIA
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0127/" type="sheet"/>
                <p>
-                  Diensta<unclear>g</unclear>.
+                 Dienstag. 
                </p>
                <p>
                   KIRCHSTETTEN (WESTBAHN)<lb/>
@@ -122,14 +128,14 @@ for any purpose, even commercially.</p>
                   N.-Ö., AUSTRIA
                </p>
                <p>
-                  Dear <del>Sell</del> Stella:<lb/>
-                  Ma<unclear>n</unclear>y thanks for y<unclear>our</unclear> card.<lb/>
-                  Cant get i<unclear>n</unclear> t<unclear>o</unclear> Vienna before<lb/>
-                  F<unclear>ri</unclear>day, but do come and see us<lb/>
-                  ei<unclear>ther</unclear> on y<unclear>our</unclear> way to or from<lb/>
-                  Fri<unclear>d</unclear>au,or let <unclear>us</unclear> know when we<lb/>
-                  c<unclear>o</unclear>uld call .<lb/>
-                  Wystan
+                  Dea<unclear>r</unclear> <del>Sell</del> Stella:<lb/>
+                  Ma<unclear>n</unclear>y thanks for your card.<lb/>
+                  Cant get i<unclear>m</unclear> t<unclear>o</unclear> Vien<unclear>n</unclear>a bef<unclear>or</unclear>e<lb/>
+                  F<unclear>rid</unclear>ay<unclear>,</unclear> but do come and see us<lb/>
+                  ei<unclear>ther</unclear> on your w<unclear>a</unclear>y to or from<lb/>
+                  Fri<unclear>d</unclear>au,or let <unclear>us</unclear> kn<unclear>ow</unclear> when we<lb/>
+                  could c<unclear>a</unclear>ll .<lb/>
+                  Wys<unclear>ta</unclear>n
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0128/" type="sheet"/>
          </div>
