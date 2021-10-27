@@ -112,8 +112,35 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0129/" type="envelope"/>
+               <p>
+                  Dines wi<unclear>th</unclear> Pfa<unclear>rr</unclear>er.
+               </p>
+               <p>
+                  Die Baronin<lb/>
+                  St<unclear>e</unclear>lla Musulin<lb/>
+                  Wien III<lb/>
+                  Neulinggasse 26.
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0130/" type="envelope"/>
+               <p>
+                  WH<unclear>.</unclear>Auden.<lb/>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0131/" type="sheet"/>
+               <p>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  Dear Stella:<lb/>
+                  Friday or Satu<unclear>r</unclear>day  fine,except<lb/>
+                  dine <unclear>wi</unclear>t<unclear>h</unclear> the Pfarrer Saturd<unclear>a</unclear>y e<unclear>v</unclear>e<unclear>ning</unclear>.<lb/>
+                  Do c<unclear>o</unclear>me to l<unclear>u</unclear>nch.<lb/>
+                  Wysta<unclear>n</unclear>.
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0132/" type="sheet"/>
          </div>
       </body>
