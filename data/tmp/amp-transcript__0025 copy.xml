@@ -112,8 +112,34 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0129/" type="envelope"/>
+               <p>
+                  Dine<unclear>r</unclear> <unclear>with</unclear> Pfa<unclear>rr</unclear>er.<!-- wie r in 0095, anders als s in 0043/0051/0055/0059 -->
+               </p>
+               <p>
+                  Die Baronin<lb/>
+                  Stell<unclear>a</unclear> Musulin<lb/>
+                  Wien III<lb/>
+                  Neulinggasse 26.
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0130/" type="envelope"/>
+               <p>
+                  <unclear>W</unclear>H<unclear>.</unclear>Auden<unclear>.</unclear><lb/><!-- das W ist auch ein Kandidat für die Liste ... -->
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0131/" type="sheet"/>
+               <p>KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  Dear Stella:<lb/>
+                  Friday or Satu<unclear>r</unclear>d<unclear>a</unclear>y fine,except<lb/><!-- a in day auch ein Kandidat -->
+                  we dine <unclear>wi</unclear>t<unclear>h</unclear> the Pfarrer Saturd<unclear>a</unclear>y eve<unclear>ning</unclear>.<lb/><!-- w. o. -->
+                  Do c<unclear>om</unclear>e t<unclear>o</unclear> l<unclear>u</unclear>nch.<lb/><!-- to w. o. -->
+                  Wysta<unclear>n</unclear>.
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0132/" type="sheet"/>
          </div>
       </body>
