@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-10-27">text transcribed</change>
+         <change who="smayer" when="2021-10-27">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-27">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -113,17 +116,17 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0129/" type="envelope"/>
                <p>
-                  Dines wi<unclear>th</unclear> Pfa<unclear>rr</unclear>er.
+                  Dine<unclear>s</unclear> <unclear>with</unclear> Pfa<unclear>rr</unclear>er.
                </p>
                <p>
                   Die Baronin<lb/>
-                  St<unclear>e</unclear>lla Musulin<lb/>
+                  St<unclear>e</unclear>ll<unclear>a</unclear> Musulin<lb/>
                   Wien III<lb/>
                   Neulinggasse 26.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0130/" type="envelope"/>
                <p>
-                  WH<unclear>.</unclear>Auden.<lb/>
+                  WH<unclear>.</unclear>Auden<unclear>.</unclear><lb/>
                   KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
                   N.-Ö., AUSTRIA
@@ -136,9 +139,9 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Dear Stella:<lb/>
-                  Friday or Satu<unclear>r</unclear>day  fine,except<lb/>
-                  dine <unclear>wi</unclear>t<unclear>h</unclear> the Pfarrer Saturd<unclear>a</unclear>y e<unclear>v</unclear>e<unclear>ning</unclear>.<lb/>
-                  Do c<unclear>o</unclear>me to l<unclear>u</unclear>nch.<lb/>
+                  Friday or Satu<unclear>r</unclear>d<unclear>a</unclear>y fine,except<lb/>
+                  we dine <unclear>wi</unclear>t<unclear>h</unclear> the Pfarrer Saturd<unclear>a</unclear>y e<unclear>v</unclear>e<unclear>ning</unclear>.<lb/>
+                  Do c<unclear>om</unclear>e to l<unclear>u</unclear>nch.<lb/>
                   Wysta<unclear>n</unclear>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0132/" type="sheet"/>
