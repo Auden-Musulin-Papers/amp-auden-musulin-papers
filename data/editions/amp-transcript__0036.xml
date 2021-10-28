@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="amp-transcript__0026.xml"
+   xml:id="amp-transcript__0036.xml"
    xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Note W. H. Auden [?]</title>
+            <title level="a">Autograph Note Michael O'Sullivan to Stella Musulin 1984-08-15</title>
             <author>O'Sullivan, Michael</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -61,10 +61,10 @@ for any purpose, even commercially.</p>
                         <settlement>St. Pölten</settlement>
                         <repository>State Collections of Lower Austria</repository>
                         <collection>Stella Musulin (Depot)</collection>
-                        <idno>2, 21</idno>
+                        <idno>2, 20</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate>[?]</origDate></origin>
+                        <origin><origDate when-iso="1984-08-15" >1984-08-15</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -79,32 +79,43 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-10-28">text transcribed</change>
+         <change who="smayer" when="2021-10-28">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-28">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="4686" lry="5694">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0249/"/>
+      <surface ulx="0" uly="0" lrx="3254" lry="4222">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0241/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4682" lry="5684">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0250/"/>
+      <surface ulx="0" uly="0" lrx="3254" lry="4220">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0242/"/>
       </surface>
    </facsimile>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0249/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0241/" type="card"/>
                <p>
-                  W<unclear>.</unclear>H.Auden<lb/>
-                  &#x2105; Spender<lb/>
-                  15 Loudoun Rd<lb/>
-                  S<unclear>t</unclear> John's Woo<unclear>d</unclear><lb/>
-                  London. N.W. 8
+                  22 Kildare Street,<lb/>
+                  Dublin<unclear>,</unclear> 2
                </p>
                <p>
-                  Johann_S<unclear>tr</unclear>auß_Ga<unclear>ss</unclear>e 28.<lb/>
-                  1040 W<unclear>i</unclear>en .
-               </p>     
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0250/" type="nan"/>
+                  15th August 1984
+               </p>
+               <p>
+                  Dear Barone<unclear>s</unclear>s Musulin,<lb/>
+                  I shall<lb/>
+                  be arriving in Vienna on 1st Sept.<lb/>
+                  I have taken Prof. Hans Raimund's<lb/>
+                  <unclear>F</unclear>lat at : <del>Z</del>LACKIERERGASSE 5<lb/>
+                  (Peter Müller has the telephone<lb/>
+                  nu<unclear>m</unclear>ber). 4279 394<lb/>
+                  I have your telephone<lb/>
+                  number and I shall call you<lb/>
+                  within a few days of my arri<unclear>v</unclear>al.
+               </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0242/" type="card"/>
          </div>
       </body>
    </text>

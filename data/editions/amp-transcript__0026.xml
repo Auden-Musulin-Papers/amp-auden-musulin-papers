@@ -79,6 +79,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-10-28">text transcribed</change>
+         <change who="smayer" when="2021-10-28">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-28">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -97,12 +100,12 @@ for any purpose, even commercially.</p>
                   W<unclear>,</unclear>H.Auden<lb/>
                   &#x2105; Spender<lb/>
                   15 Loudoun Rd<lb/>
-                  St Jo<unclear>h</unclear>n's Woo<unclear>d</unclear><lb/>
-                  L<unclear>o</unclear>nd<unclear>on</unclear>. N.W. <unclear>8</unclear>
+                  S<unclear>t</unclear> Jo<unclear>h</unclear>n's Woo<unclear>d</unclear><lb/>
+                  L<unclear>o</unclear>ndon. N.W. <unclear>8</unclear>
                </p>
                <p>
-                  Johann-S<unclear>t</unclear>rauß-<unclear>G</unclear>a<unclear>ss</unclear>e 28<lb/>
-                  1040 Wien
+                  Johann-S<unclear>tr</unclear>auß-<unclear>G</unclear>a<unclear>ss</unclear>e 28<unclear>.</unclear><lb/>
+                  1040 W<unclear>i</unclear>en .
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0250/" type="nan"/>
          </div>
