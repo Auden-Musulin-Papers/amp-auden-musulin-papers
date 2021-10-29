@@ -26,5 +26,7 @@
         <link rel="stylesheet" href="css/style.css" type="text/css"></link>
         <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/jq-3.3.1/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.css"></link>
         <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <script src="https://unpkg.com/arche-api@1.1.1-beta/lib/arche-api.min.js"/>
+        <!--<script src="js/arche-api.min.js"/>-->
     </xsl:template>
 </xsl:stylesheet>

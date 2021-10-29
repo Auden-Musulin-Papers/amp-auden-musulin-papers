@@ -18,9 +18,7 @@
             <head>
                 <xsl:call-template name="html_head">
                     <xsl:with-param name="html_title" select="$doc_title"></xsl:with-param>
-                </xsl:call-template>
-                <script src="https://unpkg.com/arche-api@1.1.1-beta/lib/arche-api.min.js"/>
-                <!--<script src="js/arche-api.min.js"/>-->
+                </xsl:call-template>                
             </head>
             <body class="page">
                 <div class="hfeed site" id="page">
