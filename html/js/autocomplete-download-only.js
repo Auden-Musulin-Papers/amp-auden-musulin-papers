@@ -1,19 +1,20 @@
 openFile = ARCHEapi.openFile;
 
-const stemsObj = {};
+const stemsObj = {
+    "value": {},
+    "date": {}
+}
 
 if (localStorage.getItem("auden-staticSearch-ac") !== null) {    
     var stems = JSON.parse(localStorage.getItem("auden-staticSearch-ac"));
-    var now = new Date();
-    var expiry = new Date(stems.dateExpiry);
+    const now = new Date();
+    const expiry = new Date(stems.date.dateExpiry);
     if (now > expiry) {
         localStorage.removeItem("auden-staticSearch-ac");
         download("static-search/filenames_auden.txt");
-        var stems = stemsObj;
     }
 } else {
     download("static-search/filenames_auden.txt");
-    var stems = stemsObj;
 }
 
 function download(filepath) {
@@ -35,9 +36,9 @@ function download(filepath) {
                         instances.forEach(function(score) {
                             scoreSum += score;
                         });
-                        stemsObj[stem] = scoreSum;
+                        stemsObj.value[stem] = scoreSum;
                     } else {
-                        stemsObj[stem] = instances[0];
+                        stemsObj.value[stem] = instances[0];
                     }              
                 });
             }
@@ -45,9 +46,10 @@ function download(filepath) {
         const date = new Date();
         date.setDate(date.getDate() + 7);
         // console.log(date);
-        stemsObj["dateExpiry"] = date;
+        stemsObj.date["dateExpiry"] = date;
     });
     setTimeout(function() {
+        console.log(stemsObj);
         localStorage.setItem("auden-staticSearch-ac", JSON.stringify(stemsObj));
     }, 10000);
 }

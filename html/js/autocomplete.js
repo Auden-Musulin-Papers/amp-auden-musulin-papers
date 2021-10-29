@@ -1,19 +1,22 @@
 openFile = ARCHEapi.openFile;
 
-const stemsObj = {};
+const stemsObj = {
+    "value": {},
+    "date": {}
+}
 
 if (localStorage.getItem("auden-staticSearch-ac") !== null) {    
     var stems = JSON.parse(localStorage.getItem("auden-staticSearch-ac"));
     const now = new Date();
-    const expiry = new Date(stems.dateExpiry);
+    const expiry = new Date(stems.date.dateExpiry);
     if (now > expiry) {
         localStorage.removeItem("auden-staticSearch-ac");
         download("static-search/filenames_auden.txt");
-        var stems = stemsObj;
     }
+    var stems = stems.value;
 } else {
     download("static-search/filenames_auden.txt");
-    var stems = stemsObj;
+    var stems = stemsObj.value;
 }
 
 $("#ssForm").find(".ssQueryAndButton").after(
@@ -100,7 +103,6 @@ function getItem() {
 function download(filepath) {
     openFile(filepath, (rs) => {
         var filenames = rs.split(',');
-        console.log(filenames);
         filenames.forEach(function(file) {
             if (file.length > 1) {
                 var filename = file.replace('html/','');            
@@ -117,9 +119,9 @@ function download(filepath) {
                         instances.forEach(function(score) {
                             scoreSum += score;
                         });
-                        stemsObj[stem] = scoreSum;
+                        stemsObj.value[stem] = scoreSum;
                     } else {
-                        stemsObj[stem] = instances[0];
+                        stemsObj.value[stem] = instances[0];
                     }              
                 });
             }
@@ -127,7 +129,7 @@ function download(filepath) {
         const date = new Date();
         date.setDate(date.getDate() + 7);
         // console.log(date);
-        stemsObj["dateExpiry"] = date;
+        stemsObj.date["dateExpiry"] = date;
     });
     setTimeout(function() {
         localStorage.setItem("auden-staticSearch-ac", JSON.stringify(stemsObj));
