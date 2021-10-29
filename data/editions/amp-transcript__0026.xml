@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="amp-transcript__0022.xml"
+   xml:id="amp-transcript__0026.xml"
    xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Letter W. H. Auden to Stella Musulin 1961-08-16</title>
-            <author>Auden, W. H.</author>
+            <title level="a">Autograph Note W. H. Auden [?]</title>
+            <author>O'Sullivan, Michael</author>
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
@@ -61,10 +61,10 @@ for any purpose, even commercially.</p>
                         <settlement>St. Pölten</settlement>
                         <repository>State Collections of Lower Austria</repository>
                         <collection>Stella Musulin (Depot)</collection>
-                        <idno>1, 3</idno>
+                        <idno>2, 21</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1961-08-16" >1961-08-16</origDate></origin>
+                        <origin><origDate>[?]</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -79,29 +79,35 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-10-28">text transcribed</change>
+         <change who="smayer" when="2021-10-28">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-28">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="4586" lry="3544">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0117/"/>
+      <surface ulx="0" uly="0" lrx="4686" lry="5694">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0249/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4586" lry="3544">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0118/"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="7744" lry="5688">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0119/"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="7746" lry="5692">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0120/"/>
+      <surface ulx="0" uly="0" lrx="4682" lry="5684">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0250/"/>
       </surface>
    </facsimile>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0117/" type="envelope"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0118/" type="envelope"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0119/" type="sheet"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0120/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0249/" type="nan"/>
+               <p>
+                  W<unclear>,</unclear>H.Auden<lb/>
+                  &#x2105; Spender<lb/>
+                  15 Loudoun Rd<lb/>
+                  S<unclear>t</unclear> Jo<unclear>h</unclear>n's Woo<unclear>d</unclear><lb/>
+                  L<unclear>o</unclear>ndon. N.W. <unclear>8</unclear>
+               </p>
+               <p>
+                  Johann-S<unclear>tr</unclear>auß-<unclear>G</unclear>a<unclear>ss</unclear>e 28<unclear>.</unclear><lb/>
+                  1040 W<unclear>i</unclear>en .
+               </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0250/" type="nan"/>
          </div>
       </body>
    </text>

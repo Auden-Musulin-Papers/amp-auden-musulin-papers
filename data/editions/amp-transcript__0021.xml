@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="amp-transcript__0036.xml"
+   xml:id="amp-transcript__0021.xml"
    xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Note Michael O'Sullivan to Stella Musulin 1984-08-15</title>
-            <author>O'Sullivan, Michael</author>
+            <title level="a">Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</title>
+            <author>Auden, W. H.</author>
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
@@ -61,10 +61,10 @@ for any purpose, even commercially.</p>
                         <settlement>St. Pölten</settlement>
                         <repository>State Collections of Lower Austria</repository>
                         <collection>Stella Musulin (Depot)</collection>
-                        <idno>2, 20</idno>
+                        <idno>1, 2</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1984-08-15" >1984-08-15</origDate></origin>
+                        <origin><origDate when-iso="1961-10-13" >1961-10-13</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -76,24 +76,78 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
          </langUsage>
          
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#auden-w-h">Auden, W. H.</persName>
+               <placeName ref="#"></placeName>
+               <date  when-iso="1961-10-13" >1961-10-13</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#musulin-stella">Musulin, Stella</persName>
+                <placeName ref="#"></placeName>
+                <date></date>
+            </correspAction>
+         </correspDesc>
+         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-10-20">text transcribed</change>
+         <change who="smayer" when="2021-10-20">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-21">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="3254" lry="4222">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0241/"/>
+      <surface ulx="0" uly="0" lrx="4552" lry="3472">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="3254" lry="4220">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0242/"/>
+      <surface ulx="0" uly="0" lrx="4550" lry="3472">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0114/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4268" lry="5694">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0115/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="4272" lry="5688">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0116/"/>
       </surface>
    </facsimile>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0241/" type="card"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0242/" type="card"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/" type="envelope"/>
+               <p>
+                  Die Baroni<unclear>n</unclear><lb/>
+                  St<unclear>e</unclear>lla von Muss<unclear>o</unclear>lin<lb/>
+                  Wien III<lb/>
+                  Neulin<unclear>g</unclear>asse 26 .
+               </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0114/" type="envelope"/>
+               <p>
+                  W.H.Auden<lb/>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0115/" type="sheet"/>
+               <p>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  Friday
+               </p>
+               <p>
+                  Dear Stella:<lb/>
+                  Many thanks for your letter. Ac<del>r</del>tually,we<lb/>
+                  shall be here till the end of October.<lb/>
+                  So far as I know,any week-day which suits you<lb/>
+                  and Herr Fritsch would be O.K.for us,so just<lb/>
+                  drop us a p.c.when you fix the day.<lb/>
+                  longing to see you<lb/>
+                  Wystan           
+               </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0116/" type="sheet"/>
          </div>
       </body>
    </text>
