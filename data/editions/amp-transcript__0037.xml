@@ -79,6 +79,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-10-29">text transcribed</change>
+         <change who="smayer" when="2021-10-29">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-29">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -103,13 +106,13 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   F<unclear>o</unclear>r Stella<lb/>
-                  with every good<lb/>
-                  wish<lb/>
+                  <unclear>W</unclear>ith e<unclear>v</unclear>ery good<lb/>
+                  <unclear>wi</unclear>sh<lb/>
                   &#x2014; <unclear>Mic</unclear>hael.
                </p>
                <p>
                   Photograph by Carl Van Vechten/Beinecke Library, Yale U.<lb/>
-                  &#x00A9; Crossing Cards<lb/>
+                  &#169; Crossing Cards<lb/>
                   Trumansburg, N.Y. 14886<lb/>
                   No. 19
                </p>

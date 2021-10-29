@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-10-29">text transcribed</change>
+         <change who="smayer" when="2021-10-29">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-29">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -113,17 +116,17 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0067/" type="envelope"/>
                <p>
-                  Ex<unclear>pr</unclear>e<unclear>s</unclear>s.
+                  Ex<unclear>p</unclear>ress.
                </p>
                <p>
                   Die Ba<unclear>r</unclear>onin<lb/>
-                  Stella Musul<unclear>i</unclear>n<lb/>
+                  Stella Musulin<lb/>
                   Wien III<lb/>
                   Neulingg<unclear>as</unclear>se 26/14
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0068/" type="envelope"/>
                <p>
-                  <unclear>WH.</unclear> A<unclear>uden</unclear><lb/>
+                  WH<unclear>.</unclear> A<unclear>uden</unclear><lb/>
                   3062 KIRCHSTETTEN<lb/>
                   BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
@@ -131,11 +134,11 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0069/" type="sheet"/>
                <p>
-                  D<unclear>ear</unclear> Stella:<lb/>
-                  Saturd<unclear>ay</unclear> <unclear>will</unclear> b<unclear>e</unclear> fine. S<unclear>ha</unclear>ll<lb/>
+                  De<unclear>ar</unclear> Stella:<lb/>
+                  Saturd<unclear>ay</unclear> <unclear>will</unclear> <unclear>be</unclear> fine. Shall<lb/>
                   loo<unclear>k</unclear> f<unclear>orw</unclear>a<unclear>r</unclear>d to i<unclear>t</unclear>.<lb/>
                   l<unclear>o</unclear>ve<lb/>
-                  <unclear>Wy</unclear>stan
+                  <unclear>W</unclear>ystan
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0070/" type="sheet"/>
          </div>
