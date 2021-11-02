@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="amp-transcript__0040.xml"
+   xml:id="amp-transcript__0037.xml"
    xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1969-06-10</title>
-            <author>Auden, W. H.</author>
+            <title level="a">Autograph Note Signed Michael O'Sullivan to Stella Musulin [?]</title>
+            <author>O'Sullivan, Michael</author>
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
@@ -61,10 +61,10 @@ for any purpose, even commercially.</p>
                         <settlement>St. Pölten</settlement>
                         <repository>State Collections of Lower Austria</repository>
                         <collection>Stella Musulin (Depot)</collection>
-                        <idno>1, 26</idno>
+                        <idno>2, 19</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1969-06-10" >1969-06-10</origDate></origin>
+                        <origin><origDate>[?]</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -76,45 +76,47 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
          </langUsage>
          
-         <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"></placeName>
-               <date  when-iso="1969-06-10" >1969-06-10</date>
-            </correspAction>
-            <correspAction type="received">
-                <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
-            </correspAction>
-         </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-10-29">text transcribed</change>
+         <change who="smayer" when="2021-10-29">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-29">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="4584" lry="3466">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0067/"/>
+      <surface ulx="0" uly="0" lrx="4332" lry="3272">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0245/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4580" lry="3466">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0068/"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5676" lry="7806">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0069/"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5676" lry="7808">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0070/"/>
+      <surface ulx="0" uly="0" lrx="3272" lry="4328">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0246/"/>
       </surface>
    </facsimile>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0067/" type="envelope"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0068/" type="envelope"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0069/" type="sheet"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0070/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0245/" type="card"/>
+               <p>
+                  W.H. AUDEN (1907-1973)<lb/>
+                  English poet, as a young man
+               </p>
+               <p>
+                  22 Kildare St.<lb/>
+                  Dub<unclear>l</unclear>in 2 .
+               </p>
+               <p>
+                  F<unclear>o</unclear>r Stella<lb/>
+                  <unclear>W</unclear>ith e<unclear>v</unclear>ery good<lb/>
+                  <unclear>wi</unclear>sh<lb/>
+                  &#x2014; <unclear>Mic</unclear>hael.
+               </p>
+               <p>
+                  Photograph by Carl Van Vechten/Beinecke Library, Yale U.<lb/>
+                  &#169; Crossing Cards<lb/>
+                  Trumansburg, N.Y. 14886<lb/>
+                  No. 19
+               </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0246/" type="card"/>
          </div>
       </body>
    </text>
