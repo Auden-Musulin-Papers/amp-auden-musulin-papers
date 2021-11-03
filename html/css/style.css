@@ -207,6 +207,10 @@ li > label {
     margin-left: .5em !important;
 }
 
+.navbar-search-icon {
+    margin-top: .3em;
+}
+
 #ac-select-all:hover, #searchInfoModalButton svg:hover {
     color: #b59890;
     cursor: pointer;
