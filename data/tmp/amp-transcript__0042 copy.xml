@@ -112,10 +112,21 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0033/" type="envelope"/>
+               <p>
+                  Die Baronin<lb/>
+                  S<unclear>t</unclear>ella Musulin<lb/>
+                  <del>1040</del> Wien <del>IV</del><lb/>
+                  Neulinga<unclear>s</unclear>se 26
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0034/" type="envelope"/>
+               <p>
+                  KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0103/" type="sheet"/>
                <p>
-                  <l>AUGUST 1968</l>
+                  <l>AUGUST 1<del>(</del>968</l>
                   <l>The ogre does what ogres can,</l>
                   <l>Deeds quite impossible for man,</l>
                   <l>but one prize is beyond his reach:</l>
@@ -125,35 +136,45 @@ for any purpose, even commercially.</p>
                   <l>The ogre stalks with hands on hips,</l>
                   <l>While drivel gushes from his lips.</l>
                </p>
+               <p>
+                  De<unclear>a</unclear>r Stell<unclear>a</unclear>,<lb/>
+                  Terrib<unclear>l</unclear>y sorry <unclear>a</unclear>bout la<unclear>s</unclear>t Sun<unclear>d</unclear>ay.<lb/><!-- a in last is systemic see lines 142 and 146 -->
+                  Since I had no idea whe<unclear>n</unclear> we should be<lb/>
+                  a<unclear>b</unclear>le to get to you, I tho<unclear>ugh</unclear>t it wa<unclear>s</unclear> unfair<lb/>
+                  t<unclear>o</unclear> <unclear>the</unclear> kitchen not to cancel.<lb/><!-- to different from those in line above? -->
+                  Ha<unclear>ve</unclear> a ni<unclear>c</unclear>e w<unclear>in</unclear>ter and <unclear>w</unclear>ll <unclear>s</unclear>e<unclear>e</unclear> y<unclear>ou</unclear>, I hop<unclear>e</unclear>,<lb/>
+                  early in Ap<unclear>ri</unclear>l<unclear>.</unclear><lb/>
+                  l<unclear>o</unclear>ve<lb/>
+                  Wyst<unclear>an</unclear>
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0104/" type="sheet"/>
                <p>
                   <l>ELEGY</l>
-                  <l>(In Memoriam Emma</l>
-                  <l>Eiermann.</l>
+                  <l>(In Memoriam Emma Eiermann. <del>ob</del></l>
                   <l>ob.Nov 4th,1967)</l>
                   <l>Liebe Frau Emma,</l>
-                  <l>na, was hast Du denn gemacht?</l>
+                  <l>na,was hast Du denn gemacht?</l>
                   <l>You who always made</l>
                   <l>such conscience of our comfort,</l>
-                  <l>Oh, how could you go and die,</l>
+                  <l>Oh,how could you go and die,</l>
                   <l>as if you didn't know</l>
                   <l>that in a permissive age,</l>
                   <l>so rife with envy,</l>
                   <l>a housekeeper is harder</l>
                   <l>to replace than a lover,</l>
-                  <l>and die, too,when we</l>
+                  <l>and die,too,when we</l>
                   <l>were thousands of miles away,</l>
                   <l>leaving no one there</l>
                   <l>to prune and transplant before</l>
                   <l>the winter cold should set in.</l>
                   <l>Good witch that you were,</l>
-                  <l>Surely you should have foreseen</l>
+                  <l><del>S</del>surely you should have foreseen</l>
                   <l>the doom that your death</l>
                   <l>would spell for your cats and ours:</l>
                   <l>all had to be put away.</l>
                   <l>You came with the house,</l>
                   <l>you and your brother Josef,</l>
-                  <l>xxxxxx Sudetendeutsche,</l>
+                  <l><del>Sudenten deutsche,</del> Sudetendeutsche,</l>
                   <l>made homeless paupers when Czechs</l>
                   <l>got their turn to be brutal:</l>
                   <l>but catastrophe</l>
@@ -177,9 +198,9 @@ for any purpose, even commercially.</p>
                   <l>Greeks,in your censure,were rogues,</l>
                   <l>all teen-agers delinquent.</l>
                   <l>Nor were you ever</l>
-                  <l>one to behave your temper:</l>
+                  <l>one <del>y</del>to behave your temper:</l>
                   <l>let Youth pick a fruit</l>
-                  <l>or flower, out you would storm,</l>
+                  <l>or flower,out you would storm,</l>
                   <l>arms whirling,screaming abuse</l>
                </p>
                <p>   
@@ -191,7 +212,7 @@ for any purpose, even commercially.</p>
                   <l>But when in good form,</l>
                   <l>how enchanting your shy grin,</l>
                   <l>your soft cat-language:</l>
-                  <l>no,no,Frau E, dear oddling,</l>
+                  <l>no,no,Frau E,dear oddling,</l>
                   <l>we shall always be grateful.</l>
                   <l>After Josef died</l>
                   <l>(siblings can live in a bond</l>
@@ -202,7 +223,7 @@ for any purpose, even commercially.</p>
                   <l>with ten years to consider,</l>
                   <l>astonished at how</l>
                   <l>vivid they are to recall:</l>
-                  <l>Du Gute, schlaf in Ruhe.</l>
+                  <l>Du Gute,schlaf in Ruhe.</l>
                </p>
          </div>
       </body>
