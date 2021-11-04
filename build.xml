@@ -37,5 +37,5 @@
         <include name="*.html"/>
         <replacetoken> xmlns=""</replacetoken>
     </replace>
-    <!-- <move file="search.html" tofile="html/search.html"/> -->
+    <move file="config.txt" tofile="html/config.txt"/>
 </project>

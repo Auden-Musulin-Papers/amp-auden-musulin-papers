@@ -244,12 +244,12 @@ fieldset.ssFieldset > span > input {
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */
-#ac-complete::-webkit-scrollbar {
+#ac-panel::-webkit-scrollbar {
   display: none !important;
 }
 
 /* Hide scrollbar for IE, Edge and Firefox */
-#ac-complete {
+#ac-panel {
     display:block;
     position:absolute;
     min-height:50px;
