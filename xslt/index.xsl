@@ -127,7 +127,7 @@
                     <xsl:call-template name="html_footer"/>
                 </div>
             </body>
-            <script type="text/javascript" src="js/autocomplete-download-only.js"></script>
+            <script type="text/javascript" src="autocomplete-addon/autocomplete-download-only.js"></script>
         </html>
     </xsl:template>
     <xsl:template match="tei:div//tei:head">

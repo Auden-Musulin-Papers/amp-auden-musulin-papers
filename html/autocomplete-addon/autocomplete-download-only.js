@@ -34,7 +34,7 @@ getConfig, getData, download
 // retrieving configruation data as array
 function getConfig() {
     var config = [];
-    openFile("./config.txt", (rs) => {
+    openFile("autocomplete-addon/config.txt", (rs) => {
         let conf = rs.split("\n");
         conf.forEach((c) => {
             config.push(c);

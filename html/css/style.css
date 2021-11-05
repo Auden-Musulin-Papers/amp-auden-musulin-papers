@@ -37,12 +37,6 @@ div.dataTables_filter {
   text-align: center;
 }
 
-.filters input {
-  width:100%;
-  padding: 3px;
-  box-sizing: border-box;
-}
-
 .navbar .navbar-collapse .navbar-search {
     border-color: #b59890;
     border-radius: .25rem;
@@ -207,6 +201,12 @@ li > label {
     margin-left: .5em !important;
 }
 
+.filters input {
+    width:100%;
+    padding: 3px;
+    box-sizing: border-box;
+  }
+
 .navbar-search-icon {
     margin-top: .3em;
 }
@@ -356,9 +356,7 @@ fieldset.ssFieldset > span > input {
     top: 0;
     bottom: 0;
 }
-.xml-content {
 
-}
 .linescroll, .scroll-content>div {
     /*position: absolute;*/
     left: 0;
