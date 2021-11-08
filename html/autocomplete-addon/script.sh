@@ -4,7 +4,7 @@ echo "reading config.txt"
 array=()
 while IFS= read -r line; do
     array+=($line)
-done < config.txt
+done < html/autocomplete-addon/config.txt
 
 projectdir=${array[1]}
 inputdir="$projectdir/${array[2]}/${array[3]}"
