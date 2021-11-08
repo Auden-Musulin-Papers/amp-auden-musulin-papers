@@ -1,3 +1,5 @@
 auden
-static-search/filenames_auden.txt
-html
+/html
+static-search
+stems
+-----

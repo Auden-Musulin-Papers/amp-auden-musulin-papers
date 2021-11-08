@@ -15,7 +15,7 @@ openFile = ARCHEapi.openFile;
 var config = getConfig();
 var stems;
 setTimeout(() => {
-    getData(config[0], config[1], config[2]);
+    getData(config[0], `autocomplete-addon/${config[0]}.txt`);
 }, 1000);
 
 // ssForm is a staticSearch id for the html form elements
@@ -84,21 +84,21 @@ getItem, getItemMany, download
 
 // retrieving configruation data as array
 function getConfig() {
-    var config = [];
-    openFile("autocomplete-addon/config.txt", (rs) => {
+    var configuration = [];
+    openFile(`autocomplete-addon/config.txt`, (rs) => {
         let conf = rs.split("\n");
         conf.forEach((c) => {
-            config.push(c);
+            configuration.push(c);
         });
     });
-    return config;
+    return configuration;
 }
 
 // retrieves browser cache or fetches staticSearch json files
 // if browser cache is older than 7 days it fetches files
 // stores data in predefined "var stems"
 // specify name to set cache item name
-function getData(projectname, txtFilePath, dir) {
+function getData(projectname, txtFilePath) {
     var stemsCache;
     if (localStorage.getItem(`${projectname}-staticSearch-ac`) !== null) {    
         stemsCache = JSON.parse(localStorage.getItem(`${projectname}-staticSearch-ac`));
@@ -106,7 +106,7 @@ function getData(projectname, txtFilePath, dir) {
         const expiry = new Date(stemsCache.date.dateExpiry);
         if (now > expiry) {
             localStorage.removeItem(`${projectname}-staticSearch-ac`);
-            download(txtFilePath, dir)
+            download(txtFilePath)
             .then((data) => {
                 setTimeout( () => {
                     localStorage.setItem(`${projectname}-staticSearch-ac`, JSON.stringify(data));
@@ -118,7 +118,7 @@ function getData(projectname, txtFilePath, dir) {
         }
         
     } else {
-        download(txtFilePath, dir)
+        download(txtFilePath)
         .then((data) => {            
             setTimeout( () => {
                 localStorage.setItem(`${projectname}-staticSearch-ac`, JSON.stringify(data));
@@ -259,40 +259,52 @@ function getItemMany() {
 // openFile() is a nodejs imported function from arche-api package https://github.com/acdh-oeaw/arche_api
 // creates the actual download based on filepaths provided by a prior created txt file than contains all staticSearch json filepaths
 // returns an object
-async function download(filepath, directory) {
+async function download(filepath) {
     const stemsObj = {
         "value": {},
         "date": {}
     };
-    openFile(filepath, (rs) => {
-        var filenames = rs.split('\n');
-        filenames.forEach(function(file) {
-            if (file.length > 1) {
-                var filename = file.replace(`${directory}/`,'');            
-                openFile(filename, (file) => {
-                    var response = JSON.parse(file);
-                    var stem = response.stem;
-                    var inst = response.instances;
-                    var instances = [];
-                    inst.forEach((instance) => {
-                        instances.push(instance.score);   
-                    });
-                    if (instances.length > 1) {
-                        var scoreSum = 0;
-                        instances.forEach((score) => {
-                            scoreSum += score;
+    try {
+        openFile(filepath, (rs) => {
+            var filenames = rs.split('\n');
+            filenames.forEach(function(fpath) { 
+                if (fpath.length > 1) {
+                    try {      
+                        openFile(fpath, (file) => {
+                            var response = JSON.parse(file);
+                            var stem = response.stem;
+                            var inst = response.instances;
+                            var instances = [];
+                            inst.forEach((instance) => {
+                                instances.push(instance.score);   
+                            });
+                            if (instances.length > 1) {
+                                var scoreSum = 0;
+                                instances.forEach((score) => {
+                                    scoreSum += score;
+                                });
+                                stemsObj.value[stem] = scoreSum;
+                            } else {
+                                stemsObj.value[stem] = instances[0];
+                            }              
                         });
-                        stemsObj.value[stem] = scoreSum;
-                    } else {
-                        stemsObj.value[stem] = instances[0];
-                    }              
-                });
-            }
+                        
+                    } catch (error) {
+                        console.log(`Error in downloading data found: ${error}`);
+                        console.log(`Verify correct filepath: ${filepath}`);
+                        console.log(`Check config.txt to set the correct project directory: ${directory}`);
+                    }   
+                }
+            });
         });
         const date = new Date();
         date.setDate(date.getDate() + 7);
         // console.log(date);
         stemsObj.date["dateExpiry"] = date;
-    });
-    return stemsObj;
+        return stemsObj;
+
+    } catch (error) {
+        console.log(`Error in downloading data found: ${error}`);
+        console.log(`Verify correct filepath: ${filepath}. Open config.txt to change.`);
+    }
 };
