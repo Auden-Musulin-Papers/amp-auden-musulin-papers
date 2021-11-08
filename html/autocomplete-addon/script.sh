@@ -11,10 +11,16 @@ if [ -f /home/runner/work/amp-data/html/autocomplete-addon/config.txt ]
         echo "config.txt not found!"
 fi
 
-projectdir=${array[1]}
-inputdir=$projectdir/${array[2]}/${array[3]}
-outputdir="$projectdir/autocomplete-addon"
-filename="${array[0]}.txt"
+
+# projectdir=${array[1]}
+# inputdir=$projectdir/${array[2]}/${array[3]}
+# outputdir="$projectdir/autocomplete-addon"
+# filename="${array[0]}.txt"
+
+projectdir="html"
+inputdir="html/static-search/stems"
+outputdir="html/autocomplete-addon"
+filename="auden.txt"
 
 if [ -f $outputdir/$filename ]
     then
