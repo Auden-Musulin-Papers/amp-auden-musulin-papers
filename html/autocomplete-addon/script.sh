@@ -1,13 +1,18 @@
 # bin/bash
 
 echo "reading config.txt"
-array=()
-while IFS= read -r line; do
-    array+=($line)
-done < html/autocomplete-addon/config.txt
+if [ -f /html/autocomplete-addon/config.txt ]
+    then
+        array=()
+        while IFS= read -r line; do
+            array+=($line)
+        done < /html/autocomplete-addon/config.txt
+    else
+        echo "config.txt not found!"
+fi
 
 projectdir=${array[1]}
-inputdir="$projectdir/${array[2]}/${array[3]}"
+inputdir=$projectdir/${array[2]}/${array[3]}
 outputdir="$projectdir/autocomplete-addon"
 filename="${array[0]}.txt"
 
