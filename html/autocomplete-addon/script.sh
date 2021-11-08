@@ -1,15 +1,10 @@
 # bin/bash
 
 echo "reading config.txt"
-if [ -f config.txt ]
-    then
-        array=()
-        while IFS= read -r line; do
-            array+=($line)
-        done < config.txt
-    else
-        echo "config.txt not found!"
-fi
+array=()
+while IFS= read -r line; do
+    array+=($line)
+done < config.txt
 
 projectdir=${array[1]}
 inputdir="$projectdir/${array[2]}/${array[3]}"
