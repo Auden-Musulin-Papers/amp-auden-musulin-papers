@@ -1,9 +1,36 @@
 # bin/bash
 
-echo "create file filenames_auden.txt"
-touch "html/static-search/filenames_auden.txt"
-echo "opend dir html/static-search/stems"
-for file in html/static-search/stems/*; do
-    echo $file >> "html/static-search/filenames_auden.txt"
-done
-echo "filenames_auden.txt in html/static-search created"
+echo "reading config.txt"
+if [ -f config.txt ]
+    then
+        array=()
+        while IFS= read -r line; do
+            array+=($line)
+        done < config.txt
+    else
+        echo "config.txt not found!"
+fi
+
+projectdir=${array[1]}
+inputdir="$projectdir/${array[2]}/${array[3]}"
+outputdir="$projectdir/autocomplete-addon"
+filename="${array[0]}.txt"
+
+if [ -f $outputdir/$filename ]
+    then
+        echo "$outputdir/$filename already exists; delete"
+        rm -f "$outputdir/$filename"
+fi
+
+if [ -d $inputdir ]
+    then
+        echo "create file: $filename"
+        touch "$outputdir/$filename"
+        echo "open inputdir: $inputdir"
+        for file in $inputdir/*.json; do
+            echo $file | sed -e "s_${projectdir}/__g" >> $outputdir/$filename
+        done
+        echo "$filename in $outputdir created"
+    else
+        echo "directory with stems not found! check variables: projectdir, inputdir, outputdir and filename!"
+fi
