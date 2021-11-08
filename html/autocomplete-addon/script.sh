@@ -1,14 +1,15 @@
 # bin/bash
 
 echo "reading config.txt"
-if [ -f /html/autocomplete-addon/config.txt ]
+if [ -f /autocomplete-addon/config.txt ]
     then
         array=()
         while IFS= read -r line; do
             array+=($line)
-        done < /html/autocomplete-addon/config.txt
+        done < /autocomplete-addon/config.txt
     else
         echo "config.txt not found!"
+        ls
 fi
 
 projectdir=${array[1]}
