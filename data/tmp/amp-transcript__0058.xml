@@ -105,7 +105,27 @@ for any purpose, even commercially.</p>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0108/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0108/" type="sheet"/><!-- change URLs -->
+               <p>
+                  Können Sie Mittwoch<lb/>
+                  zum Abendessen ko<unclear>m</unclear>men<lb/>
+                  a<unclear>n</unclear>statt Donne<unclear>r</unclear>st<unclear>a</unclear>g<lb/>
+                  Auden
+               </p>
+               <p>
+                  S<unclear>o</unclear>nntag.
+               </p>
+               <p>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  Dea<unclear>r</unclear> Stella:<lb/>
+                  Good. W<unclear>i</unclear>ll be at your place<lb/>
+                  on Thu<unclear>r</unclear>sday (19th) at 6.p.<unclear>m.</unclear><lb/>
+                  Wystan
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0107/" type="sheet"/>
          </div>
       </body>
