@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="tfruehwirth" when="2021-11-09">text transcribed</change>
+         <change who="smayer" when="2021-11-09">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-11-10">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -114,7 +117,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0109/" type="envelope"/>
                <p>
                   W. H<unclear>.</unclear> Auden<lb/>
-                  Kirchst<unclear>e</unclear>tten (We<unclear>s</unclear>t Bah<unclear>n</unclear>)<lb/>
+                  Kirchstetten (West Bah<unclear>n</unclear>)<lb/>
                   Hinterholz # 6.<lb/>
                   N.O.
                </p>
@@ -129,10 +132,10 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0110/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0111/" type="sheet"/>
                <p>
-                  Kirste<unclear>t</unclear>ten. 
+                  Kirste<unclear>t</unclear>ten.
                </p>
                <p>
-                  Thu<unclear>r</unclear>sd<unclear>ay</unclear>
+                  Thu<unclear>r</unclear>sd<unclear>a</unclear>y
                </p>
                <p>
                   <del>CHRIST CHURCH,</del><lb/>
@@ -141,10 +144,10 @@ for any purpose, even commercially.</p>
                <p>
                   Dear Baroness Mus<unclear>u</unclear>lin:<lb/>
                   Deli<unclear>g</unclear>hted to get your ca<unclear>rd</unclear>. We<lb/>
-                  sh<unclear>a</unclear>ll look forw<unclear>ar</unclear>d to seein<unclear>g</unclear> you<lb/>
-                  <unclear>o</unclear>n Satu<unclear>r</unclear>day <unclear>a</unclear>fte<unclear>rnoon</unclear>.<lb/>
-                  We have a gramop<unclear>ho</unclear>ne n<unclear>ow</unclear> and a<lb/>
-                  tape-re<unclear>cord</unclear>er.<lb/>
+                  shall look forw<unclear>ar</unclear>d to seein<unclear>g</unclear> you<lb/>
+                  <unclear>o</unclear>n Sat<unclear>ur</unclear>day <unclear>a</unclear>fter<unclear>noon</unclear>.<lb/>
+                  We have a gramop<unclear>h</unclear>one no<unclear>w</unclear> and a<lb/>
+                  tape-re<unclear>cord</unclear>e<unclear>r</unclear>.<lb/>
                   yours sinc<unclear>e</unclear>rely<lb/>
                   Wystan Auden
                </p>
