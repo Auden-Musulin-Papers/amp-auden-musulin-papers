@@ -96,17 +96,38 @@ for any purpose, even commercially.</p>
    </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="7734" lry="5690">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0108/"/>
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0107/"/>
       </surface>
       <surface ulx="0" uly="0" lrx="7742" lry="5684">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0107/"/>
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0108/"/>
       </surface>
    </facsimile>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0108/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0107/" type="sheet"/>
+               <p>
+                  Können Sie Mittwoch<lb/>
+                  <unclear>a</unclear>ns<unclear>t</unclear>att Donnerstag zum Abendessen kommen<lb/>
+               </p>
+               <p>
+                  Auden
+               </p>
+               <p>
+                  S<unclear>o</unclear>nntag.
+               </p>
+               <p>
+                  KIRCHSTTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
+               <p>
+                  Dear Stella:<lb/>
+                  Good. W<unclear>i</unclear>ll be at your place<lb/>
+                  on Thu<unclear>r</unclear>sday (1<unclear>9</unclear>th) at 6.p.m<unclear>.</unclear><lb/>
+                  Wystan
+               </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0108/" type="sheet"/>
          </div>
       </body>
    </text>
