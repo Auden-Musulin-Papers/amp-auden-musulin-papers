@@ -93,7 +93,21 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0031/" type="envelope"/>
+               <p>
+                  <unclear></unclear>
+               </p>
+               <p>
+                  Die Baro<unclear>n</unclear>in Stell<unclear>a</unclear> Mu<unclear>sso</unclear>lin<lb/>
+                  Wien III<lb/>
+                  Neulingasse 26.
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0032/" type="envelope"/>
+               <p>
+                  W<unclear>.</unclear>H <unclear>.</unclear>Auden<lb/>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
          </div>
       </body>
    </text>
