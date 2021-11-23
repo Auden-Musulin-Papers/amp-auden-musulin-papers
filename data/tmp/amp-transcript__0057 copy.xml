@@ -93,7 +93,25 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0105/" type="envelope"/>
+               <p>
+                  Die Baronin<lb/>
+                  Stella Mussolin<lb/>
+                  <del>Wien III</del><lb/>
+                  <del>Neulinggasse 26</del>
+               </p>
+               <p>
+                  FRIDAU<lb/>
+                  OBERGRAFENDORF<lb/>
+                  BEI ST.PÖLTEN<lb/>
+                  N.Ö.
+               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0106/" type="envelope"/>
+               <p>
+                  W.H.Auden<lb/>
+                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA
+               </p>
          </div>
       </body>
    </text>
