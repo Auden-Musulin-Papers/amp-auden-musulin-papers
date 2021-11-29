@@ -82,18 +82,18 @@ for any purpose, even commercially.</p>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="6850" lry="7738">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/"/>
-      </surface>
       <surface ulx="0" uly="0" lrx="6846" lry="7740">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="6850" lry="7738">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/"/>
       </surface>
    </facsimile>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/" type="nan"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/" type="nan"/>
          </div>
       </body>
    </text>

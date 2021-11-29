@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="smayer" when="2021-10-29">text transcribed</change>
+         <change who="tfruehwirth" when="2021-11-04">text transcribed using Transkribus</change>
+         <change who="smayer tfruehwirth" when="2021-11-09">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -114,9 +117,9 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0033/" type="envelope"/>
                <p>
                   Die Baronin<lb/>
-                  S<unclear>t</unclear>ella Musulin<lb/>
+                  S<del><unclear></unclear></del>tella Musulin<lb/>
                   <del>1040</del> Wien <del>IV</del><lb/>
-                  Neulinga<unclear>s</unclear>se 26
+                  Neulingasse 26
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0034/" type="envelope"/>
                <p>
@@ -126,7 +129,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0103/" type="sheet"/>
                <p>
-                  <l>AUGUST 1<del>(</del>968</l>
+                  AUGUST I<del>(</del>968
+               </p>
+               <p>
                   <l>The ogre does what ogres can,</l>
                   <l>Deeds quite impossible for man,</l>
                   <l>but one prize is beyond his reach:</l>
@@ -135,23 +140,26 @@ for any purpose, even commercially.</p>
                   <l>Among its desperate and slain,</l>
                   <l>The ogre stalks with hands on hips,</l>
                   <l>While drivel gushes from his lips.</l>
+                  ___
                </p>
                <p>
-                  De<unclear>a</unclear>r Stell<unclear>a</unclear>,<lb/>
-                  Terrib<unclear>l</unclear>y sorry <unclear>a</unclear>bout la<unclear>s</unclear>t Sun<unclear>d</unclear>ay.<lb/><!-- a in last is systemic see lines 142 and 146 -->
+                  Dear Stell<unclear>a</unclear>,<lb/>
+                  Terrib<unclear>l</unclear>y sorry <unclear>a</unclear>bou<unclear>t</unclear> <unclear>l</unclear>ast Sun<unclear>d</unclear>ay.<lb/>
                   Since I had no idea whe<unclear>n</unclear> we should be<lb/>
-                  a<unclear>b</unclear>le to get to you, I tho<unclear>ugh</unclear>t it wa<unclear>s</unclear> unfair<lb/>
-                  t<unclear>o</unclear> <unclear>the</unclear> kitchen not to cancel.<lb/><!-- to different from those in line above? -->
-                  Ha<unclear>ve</unclear> a ni<unclear>c</unclear>e w<unclear>in</unclear>ter and <unclear>w</unclear>ll <unclear>s</unclear>e<unclear>e</unclear> y<unclear>ou</unclear>, I hop<unclear>e</unclear>,<lb/>
-                  early in Ap<unclear>ri</unclear>l<unclear>.</unclear><lb/>
+                  a<unclear>b</unclear>le to get to you, I tho<unclear>ught</unclear> it wa<unclear>s</unclear> unfair<lb/>
+                  t<unclear>o</unclear> <unclear>the</unclear> kitchen not to cancel.<lb/>
+                  Ha<unclear>ve</unclear> a ni<unclear>c</unclear>e <unclear>win</unclear>ter and <unclear>will</unclear> <unclear>s</unclear>e<unclear>e</unclear> <unclear>you</unclear>, I h<unclear>o</unclear>p<unclear>e</unclear>,<lb/>
+                  early in Ap<unclear>ril.</unclear><lb/>
                   l<unclear>o</unclear>ve<lb/>
-                  Wyst<unclear>an</unclear>
+                  Wys<unclear>tan</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0104/" type="sheet"/>
                <p>
-                  <l>ELEGY</l>
-                  <l>(In Memoriam Emma Eiermann. <del>ob</del></l>
-                  <l>ob.Nov 4th,1967)</l>
+                  ELEGY<lb/>
+                  (In Memoriam Emma Eiermann. <del>ob</del><lb/>
+                  ob.Nov 4th,I967)
+               </p>
+               <p>
                   <l>Liebe Frau Emma,</l>
                   <l>na,was hast Du denn gemacht?</l>
                   <l>You who always made</l>
@@ -174,7 +182,7 @@ for any purpose, even commercially.</p>
                   <l>all had to be put away.</l>
                   <l>You came with the house,</l>
                   <l>you and your brother Josef,</l>
-                  <l><del>Sudenten deutsche,</del> Sudetendeutsche,</l>
+                  <l><del>Sudeten deutsche,</del> Sudetendeutsche,</l>
                   <l>made homeless paupers when Czechs</l>
                   <l>got their turn to be brutal:</l>
                   <l>but catastrophe</l>
@@ -203,7 +211,7 @@ for any purpose, even commercially.</p>
                   <l>or flower,out you would storm,</l>
                   <l>arms whirling,screaming abuse</l>
                </p>
-               <p>   
+               <p>
                   <l>in peasant German</l>
                   <l>at startled Americans</l>
                   <l>who had meant no harm,</l>
@@ -224,6 +232,7 @@ for any purpose, even commercially.</p>
                   <l>astonished at how</l>
                   <l>vivid they are to recall:</l>
                   <l>Du Gute,schlaf in Ruhe.</l>
+                  ___
                </p>
          </div>
       </body>
