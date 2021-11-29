@@ -27,54 +27,80 @@
                     <xsl:call-template name="nav_bar"/>
                 
                     <div class="wrapper" id="wrapper-hero">
-                        <!--<div class="wrapper" id="wrapper-hero-content" >
-                            <div class="container hero-dark" id="wrapper-hero-inner" tabindex="-1">-->
-                                <div id="audenIndexCarousel" class="carousel slide" data-ride="carousel">
+                        <div class="row">
+                            <div class="col-md-8" style="padding:0!important;">
+                                <div class="wrapper" style="background-color:#000!important;">
+                                    <div class="container hero-dark" id="wrapper-hero-inner" tabindex="-1">
+                                        <div class="main-title">
+                                            <h1 style="color:#615a60;padding:.5em 0;">Auden Musulin Papers</h1>
+                                            <h2 style="color:#615a60;">A digital edition of W. H. Auden's Letters to Stella Musulin</h2>
+                                            <h3 style="color:#615a60;">Early version of a once to become Project-Website and Digital Edition of the <strong>Auden Musulin Papers</strong></h3>
+                                        </div>
+                                        <p><xsl:value-of select="//tei:body/tei:div/tei:p"/></p>  
+                                        <button class="btn btn-round">
+                                            <a href="toc.html">Read More</a>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4" style="padding:0!important;">
+                                <div id="audenIndexCarousel" class="carousel carousel-fade" data-ride="carousel">
                                     <ol class="carousel-indicators">
                                         <li data-target="#audenIndexCarousel" data-slide-to="0" class="active"></li>
                                         <li data-target="#audenIndexCarousel" data-slide-to="1"></li>
                                         <li data-target="#audenIndexCarousel" data-slide-to="2"></li>
+                                        <li data-target="#audenIndexCarousel" data-slide-to="3"></li>
+                                        <li data-target="#audenIndexCarousel" data-slide-to="4"></li>
+                                        <li data-target="#audenIndexCarousel" data-slide-to="5"></li>
+                                        <li data-target="#audenIndexCarousel" data-slide-to="6"></li>
+                                        <li data-target="#audenIndexCarousel" data-slide-to="7"></li>
+                                        <li data-target="#audenIndexCarousel" data-slide-to="8"></li>
+                                        <li data-target="#audenIndexCarousel" data-slide-to="9"></li>
+                                        <li data-target="#audenIndexCarousel" data-slide-to="10"></li>
+                                        <li data-target="#audenIndexCarousel" data-slide-to="11"></li>                                       
                                     </ol>
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="dist/fundament/images/acdh_building.jpg" class="d-block w-100" alt="..."/>
-                                            <div class="carousel-caption d-none d-md-block" style="background-image: linear-gradient(rgba(38.0, 35.3, 37.6, 0.5), rgba(38.0, 35.3, 37.6, 0.5));">
-                                                <h1>Auden Musulin Papers</h1>
-                                                <h2>A digital edition of W. H. Auden's Letters to Stella Musulin</h2>
-                                                <p>Early version of a once to become Project-Website and Digital Edition of the <strong>Auden Musulin Papers</strong></p>
-                                                <button class="btn btn-round">
-                                                    <a href="toc.html">Read More</a>
-                                                </button>
-                                            </div>
+                                            <img src="images/daumenkino/DSC_0250.JPG" class="d-block w-100" alt="..."/>
+                                            <!--<div class="carousel-caption d-none d-md-block" style="background-image: linear-gradient(rgba(38.0, 35.3, 37.6, 0.5), rgba(38.0, 35.3, 37.6, 0.5));">
+                                            </div>-->
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="dist/fundament/images/acdh_building.jpg" class="d-block w-100" alt="..."/>
-                                            <div class="carousel-caption d-none d-md-block" style="background-image: linear-gradient(rgba(38.0, 35.3, 37.6, 0.5), rgba(38.0, 35.3, 37.6, 0.5));">
-                                                <h1>Example Content Slide 2</h1>
-                                                <h2>Example Subtitle Slide 2</h2>
-                                                <h5>Second slide label</h5>
-                                                <p>Some representative placeholder content for the second slide.</p>
-                                            </div>
+                                            <img src="images/daumenkino/DSC_0251.JPG" class="d-block w-100" alt="..."/>
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="dist/fundament/images/acdh_building.jpg" class="d-block w-100" alt="..."/>
-                                            <div class="carousel-caption d-none d-md-block" style="background-image: linear-gradient(rgba(38.0, 35.3, 37.6, 0.5), rgba(38.0, 35.3, 37.6, 0.5));">
-                                                <h1>Example Content Slide 3</h1>
-                                                <h2>Example Subtitle Slide 3</h2>
-                                                <h5>Third slide label</h5>
-                                                <p>Some representative placeholder content for the third slide.</p>
-                                            </div>
+                                            <img src="images/daumenkino/DSC_0252.JPG" class="d-block w-100" alt="..."/>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/daumenkino/DSC_0253.JPG" class="d-block w-100" alt="..."/>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/daumenkino/DSC_0254.JPG" class="d-block w-100" alt="..."/>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/daumenkino/DSC_0267.JPG" class="d-block w-100" alt="..."/>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/daumenkino/DSC_0268.JPG" class="d-block w-100" alt="..."/>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/daumenkino/DSC_0257.JPG" class="d-block w-100" alt="..."/>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/daumenkino/DSC_0265.JPG" class="d-block w-100" alt="..."/>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/daumenkino/DSC_0259.JPG" class="d-block w-100" alt="..."/>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/daumenkino/DSC_0260.JPG" class="d-block w-100" alt="..."/>
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/daumenkino/DSC_0262.JPG" class="d-block w-100" alt="..."/>
                                         </div>
                                     </div>
-                                </div>
-                            <!--</div>
-                        </div>-->                        
-                    </div>
-                    <div class="container" style="margin-top:1em;">
-                        <div class="row">
-                            <div class="col-md-8" style="margin: 0 auto; ">
-                                <p style="font-size:18px;line-heigth:27px;"><xsl:value-of select="//tei:body/tei:div/tei:p"/></p>  
-                            </div>                          
+                                </div> 
+                            </div>
                         </div>
                     </div>
                     <div class="container" style="margin-top:1em;">
@@ -127,6 +153,11 @@
                     <xsl:call-template name="html_footer"/>
                 </div>
             </body>
+            <script type="text/javascript">
+                $('.carousel').carousel({
+                    interval: 2000
+                });
+            </script>
             <script type="text/javascript" src="autocomplete-addon/autocomplete-download-only.js"></script>
         </html>
     </xsl:template>
