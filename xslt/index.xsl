@@ -29,7 +29,7 @@
                     <div class="wrapper" id="wrapper-hero">
                         <div class="row">
                             <div class="col-md-8" style="padding:0!important;">
-                                <div class="wrapper" style="background-color:#000!important;">
+                                <div class="wrapper" style="background-color:#fff!important;">
                                     <div class="container hero-dark" id="wrapper-hero-inner" tabindex="-1">
                                         <div class="main-title">
                                             <h1 style="color:#615a60;padding:.5em 0;">Auden Musulin Papers</h1>
@@ -61,42 +61,42 @@
                                     </ol>
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="images/daumenkino/DSC_0250.JPG" class="d-block w-100" alt="..."/>
+                                            <img src="images/daumenkino/DSC_0250.JPG" class="d-block" alt="..."/>
                                             <!--<div class="carousel-caption d-none d-md-block" style="background-image: linear-gradient(rgba(38.0, 35.3, 37.6, 0.5), rgba(38.0, 35.3, 37.6, 0.5));">
                                             </div>-->
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="images/daumenkino/DSC_0251.JPG" class="d-block w-100" alt="..."/>
+                                            <img src="images/daumenkino/DSC_0251.JPG" class="d-block" alt="..."/>
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="images/daumenkino/DSC_0252.JPG" class="d-block w-100" alt="..."/>
+                                            <img src="images/daumenkino/DSC_0252.JPG" class="d-block" alt="..."/>
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="images/daumenkino/DSC_0253.JPG" class="d-block w-100" alt="..."/>
+                                            <img src="images/daumenkino/DSC_0253.JPG" class="d-block" alt="..."/>
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="images/daumenkino/DSC_0254.JPG" class="d-block w-100" alt="..."/>
+                                            <img src="images/daumenkino/DSC_0254.JPG" class="d-block" alt="..."/>
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="images/daumenkino/DSC_0267.JPG" class="d-block w-100" alt="..."/>
+                                            <img src="images/daumenkino/DSC_0267.JPG" class="d-block" alt="..."/>
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="images/daumenkino/DSC_0268.JPG" class="d-block w-100" alt="..."/>
+                                            <img src="images/daumenkino/DSC_0268.JPG" class="d-block" alt="..."/>
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="images/daumenkino/DSC_0257.JPG" class="d-block w-100" alt="..."/>
+                                            <img src="images/daumenkino/DSC_0257.JPG" class="d-block" alt="..."/>
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="images/daumenkino/DSC_0265.JPG" class="d-block w-100" alt="..."/>
+                                            <img src="images/daumenkino/DSC_0265.JPG" class="d-block" alt="..."/>
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="images/daumenkino/DSC_0259.JPG" class="d-block w-100" alt="..."/>
+                                            <img src="images/daumenkino/DSC_0259.JPG" class="d-block" alt="..."/>
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="images/daumenkino/DSC_0260.JPG" class="d-block w-100" alt="..."/>
+                                            <img src="images/daumenkino/DSC_0260.JPG" class="d-block" alt="..."/>
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="images/daumenkino/DSC_0262.JPG" class="d-block w-100" alt="..."/>
+                                            <img src="images/daumenkino/DSC_0262.JPG" class="d-block" alt="..."/>
                                         </div>
                                     </div>
                                 </div> 
@@ -109,7 +109,7 @@
                                 <a href="toc.html" class="index-link">                                   
                                     <div class="card index-card">
                                         <div class="card-body">
-                                            <img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="d-block w-100" alt="..."/>
+                                            <img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="d-block" alt="..."/>
                                         </div>
                                         <div class="card-header">                                            
                                             <h4>W. H. Auden's Letters to Stella Musulin</h4>
@@ -122,7 +122,7 @@
                                 <a href="#" class="index-link">                                                     
                                     <div class="card index-card">
                                         <div class="card-body">
-                                            <img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="d-block w-100" alt="..."/>
+                                            <img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="d-block" alt="..."/>
                                         </div>
                                         <div class="card-header">   
                                             <h4>TBA</h4>
@@ -137,7 +137,7 @@
                                 <a href="#" class="index-link">  
                                     <div class="card index-card">
                                         <div class="card-body">
-                                            <img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="d-block w-100" alt="..."/>
+                                            <img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="d-block" alt="..."/>
                                         </div>
                                         <div class="card-header">  
                                             <h4>TBA</h4>
