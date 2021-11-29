@@ -44,7 +44,7 @@
                                 </div>
                             </div>
                             <div class="col-md-4" style="padding:0!important;">
-                                <div id="audenIndexCarousel" class="carousel carousel-fade" data-ride="carousel">
+                                <div id="audenIndexCarousel" class="container carousel carousel-fade" data-ride="carousel">
                                     <ol class="carousel-indicators">
                                         <li data-target="#audenIndexCarousel" data-slide-to="0" class="active"></li>
                                         <li data-target="#audenIndexCarousel" data-slide-to="1"></li>
