@@ -1,5 +1,5 @@
 auden
-/html
+html
 static-search
 stems
 -----

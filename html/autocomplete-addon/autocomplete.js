@@ -50,12 +50,12 @@ searchInput.keyup(() => {
     .replace(']','');
 
     if (searchValue.includes(' ') == true) {
-        console.log(searchValue.length);
+        // console.log(searchValue.length);
         getValueMany(searchValue);
         getItemMany();
     }
     else if (searchValue.length > 0) {
-        console.log(searchValue.length);
+        // console.log(searchValue.length);
         getValueSingle(searchValue);
         getItem();
     }
