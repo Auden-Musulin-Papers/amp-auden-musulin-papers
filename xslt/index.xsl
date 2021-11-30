@@ -125,7 +125,7 @@
                                             <img src="images/index/W-H-Auden_7.jpg" class="d-block w-100" alt="..."/>
                                         </div>
                                         <div class="card-header">  
-                                            <h4>Winston H. Auden</h4>
+                                            <h4>W. H. Auden</h4>
                                             <p>
                                                 More context in progress.
                                             </p>                                            
