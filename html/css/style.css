@@ -419,12 +419,12 @@ fieldset.ssFieldset > span > input {
         min-height:50px;
         max-height:200px;
         margin: 0 0 2em 5%;
-        max-width: 95%;
-        width: 95% ;
+        max-width: 97%;
+        width: 97% ;
         font-size: .9rem;
     }
     span.ssQueryAndButton {
-        margin: 2em auto 0.25em auto !important;
+        margin: 2em auto 0 auto !important;
         max-width: 90%;
         width: 90%;
     }
@@ -472,12 +472,12 @@ fieldset.ssFieldset > span > input {
         min-height:50px;
         max-height:200px;
         margin: 0 0 2em 5%;
-        max-width: 92%;
-        width: 92% ;
+        max-width: 93%;
+        width: 93% ;
         font-size: .9rem;
     }
     span.ssQueryAndButton {
-        margin: 2em auto 0.25em auto !important;
+        margin: 2em auto 0 auto !important;
         max-width: 90%;
         width: 90%;
     }
@@ -515,27 +515,6 @@ fieldset.ssFieldset > span > input {
         margin-bottom: 1em;
         padding: 0 2em;
     }
-    #ac-panel {
-        display:block;
-        position:absolute;
-        min-height:50px;
-        max-height:200px;
-        margin: 0 2% 2em 5%;
-        max-width: 90%;
-        width: 90% ;
-        font-size: .9rem;
-    }
-    span.ssQueryAndButton {
-        margin: 2em auto 0.25em auto !important;
-        max-width: 90%;
-        width: 90%;
-    }
-    #ac-panel-many .col-md-4 {
-        max-width: 100%;
-    }
-    #stems-many {
-        max-width: 100%;
-    }
     .navbar-collapse {
         margin: 0;
     }
@@ -565,27 +544,6 @@ fieldset.ssFieldset > span > input {
         margin-bottom: 1em;
         padding: 0 2em;
     }
-    #ac-panel {
-        display:block;
-        position:relative;
-        min-height:50px;
-        max-height:200px;
-        margin: 0 2% 2em 10%;
-        max-width: 82%;
-        width: 82% ;
-        font-size: .9rem;
-    }
-    span.ssQueryAndButton {
-        margin: 2em auto 0.25em auto !important;
-        max-width: 80%;
-        width: 80%;
-    }
-    #ac-panel-many .col-md-4 {
-        max-width: 100%;
-    }
-    #stems-many {
-        max-width: 100%;
-    }
 }
 
 /* Extra large devices (large desktops, 1680px and up) */
@@ -607,20 +565,5 @@ fieldset.ssFieldset > span > input {
     #wrapper-hero-inner {
         margin-bottom: 1em;
         padding: 0 2em;
-    }
-    #ac-panel {
-        display:block;
-        position:relative;
-        min-height:50px;
-        max-height:200px;
-        margin: 0 2% 2em 10%;
-        max-width: 50%;
-        width: 50% ;
-        font-size: .9rem;
-    }
-    span.ssQueryAndButton {
-        margin: 2em auto 0.25em auto !important;
-        max-width: 50%;
-        width: 50%;
     }
 }
