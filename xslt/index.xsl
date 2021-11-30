@@ -103,7 +103,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="container" style="margin-top:1em;">
+                    <div class="container-fluid" style="margin-top:1em;">
                         <div class="row">
                             <div class="col-md-4">
                                 <a href="toc.html" class="index-link">                                   

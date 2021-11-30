@@ -1,13 +1,16 @@
-/* Datatables, provided by https://github.com/babslgam*/
-
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
-
-body {
-    font-family: 'Josefin Sans', sans-serif;
-}
+/* Datatables, provided by https://github.com/babslgam */
 
 div.dataTables_filter {
   text-align:left !important;
+}
+
+
+.dataTables_wrapper table {
+  width:100%;
+}
+
+.dataTables_info {
+  text-align: center;
 }
 
 .btn-link {
@@ -17,6 +20,8 @@ div.dataTables_filter {
 .exportbuttons {
   text-align: right;
 }
+
+/* main navigation */
 
 .navbar {
     border-bottom: 5px solid #615a60 !important;
@@ -39,9 +44,6 @@ div.dataTables_filter {
     border-color: transparent !important;
 }
 
-.dataTables_info {
-  text-align: center;
-}
 
 .navbar .navbar-collapse .navbar-search {
     border-color: #b59890;
@@ -50,10 +52,6 @@ div.dataTables_filter {
 
 .navbar .navbar-collapse .navbar-search:hover {
     border-color: #615a60;
-}
-
-.dataTables_wrapper table {
-  width:100%;
 }
 
 /**** Font Aweseome ***/
@@ -85,24 +83,25 @@ div.dataTables_filter {
 }
 /* slider button */
 .btn-round {
-    border: 1px solid #fff;
+    border: 1px solid #000;
+    color: #615a60;
 }
 
 .btn-round:hover {
-    background-color: #b59890 !important;
+    background-color: #b59890;
     color: #fff;
 }
 
 .btn-round a {
-    color: #fff;
+    color: #615a60;
 }
 
 .btn-round a:hover {
-    color: #fff !important;
+    color: #fff;
 }
 
 a:hover {
-    text-decoration: none !important; 
+    text-decoration: none; 
     color: #b59890;
 }
 
@@ -155,15 +154,20 @@ a.btn-round:hover {
     color: #b59890 !important;
 }
 
-.carousel-indicators {
-    cursor: pointer;
-    margin-right: 13em !important;
-    margin-bottom: 3.5em !important;
+.container-fluid {
+    max-width: 1024px;
 }
 
-.main-title {
-    border-radius:.25rem .25rem 0 0;
-    
+/* Index Carousel / Slider */
+
+.carousel-indicators {
+    cursor: pointer;
+    margin-right: 13em;
+    margin-bottom: 3.5em;
+}
+
+#wrapper-hero {
+    background-color: #fff;
 }
 
 #wrapper-hero-inner {
@@ -177,47 +181,44 @@ a.btn-round:hover {
 }
 
 #audenIndexCarousel {
-    max-width: 100% !important;
-    padding: 2.85em 2em !important;
-    background-color: #fff;
+    max-width: 100%;
+    padding: 2.5em 2em;
 }
 
 .carousel .carousel-inner .carousel-item {
     max-width: 80%;
 }
 
-.container-fluid {
-    max-width: 1024px;
-}
+/* staticSearch */
 
 span.ssQueryAndButton {
-    margin: 2em auto 0.25em auto !important;
-    max-width: 50% !important;
-    width: 50% !important;
+    margin: 2em auto 0.25em auto;
+    max-width: 50%;
+    width: 50%;
 }
 
 input#ssQuery {
-    font-size: .9rem !important;
+    font-size: .9rem;
     border-radius: .25rem;
-    padding: .3rem 1.75rem .3rem .75rem !important;
-    border: 1px solid rgba(38, 35, 37, 0.075) !important;
-    background-color: #fff !important;
-    color: rgba(0,0,0,.9) !important;
+    padding: .3rem 1.75rem .3rem .75rem;
+    border: 1px solid rgba(38, 35, 37, 0.075);
+    background-color: #fff;
+    color: rgba(0,0,0,.9);
 }
 
 input#ssQuery:hover {
-    border: 1px solid #b59890 !important;
+    border: 1px solid #b59890;
 }
 
 button#ssDoSearch {
-    border: 0 !important;
-    padding: 0 !important;
-    background: 0 0 !important;
-    cursor: pointer !important;
-    color: rgba(38, 35, 37, 0.6) !important;
-    margin-left: -4.1em !important;
+    border: 0;
+    padding: 0 ;
+    background: 0 0;
+    cursor: pointer;
+    color: rgba(38, 35, 37, 0.6);
+    margin-left: -4.1em;
     margin-right: -.25em;
-    margin-top: .1em !important;
+    margin-top: .1em;
     z-index:99;
 }
 
@@ -346,22 +347,6 @@ fieldset.ssFieldset > span > input {
   height: auto;
 }
 
-/*media queries for responsive design on smartphones*/
-/*                                                  */
-/*                                                  */
-@media only screen and (max-width: 1024px){
-    .navbar-collapse {
-        margin: 0;
-    }
-    .footer-widget {
-        text-align: center;
-        padding: 1em;
-    }
-}
-/*@media only screen and (max-width: 1440px){
-
-}*/
-
 /* XML raw style */
 .tnc {
     color: brown;
@@ -406,3 +391,198 @@ fieldset.ssFieldset > span > input {
     color: #0000cd;
 }
 
+/*media queries for responsive design on smartphones*/
+/*                                                  */
+/*                                                  */
+/* Small devices (landscape phones, 576px and up) */ 
+@media only screen and (max-width: 576px) {
+    .carousel-indicators {
+        margin: 1.5em auto;
+    }
+    #audenIndexCarousel {
+        max-width: 100% !important;
+        padding: 0;
+        background-color: #fff;
+    }
+    .carousel .carousel-inner .carousel-item {
+        max-width: 100%;
+    }
+    #wrapper-hero{
+        padding-bottom: 2em;
+    }
+    #ac-panel {
+        display:block;
+        position:relative;
+        min-height:50px;
+        max-height:200px;
+        margin: 0 0 2em 5%;
+        max-width: 95%;
+        width: 95% ;
+        font-size: .9rem;
+    }
+    span.ssQueryAndButton {
+        margin: 2em auto 0.25em auto !important;
+        max-width: 90%;
+        width: 90%;
+    }
+    #ac-panel-many .col-md-4 {
+        max-width: 100%;
+    }
+    #stems-many {
+        max-width: 100%;
+    }
+    .navbar-collapse {
+        margin: 0;
+    }
+    #footer-full-content {
+        max-width: 98%;
+    }
+    .navbar-collapse {
+        margin: 0;
+    }    
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media only screen and (max-width: 768px) { 
+    .carousel-indicators {
+        margin: 1.5em auto;
+    }    
+    #audenIndexCarousel {
+        max-width: 100%;
+        padding: 2em 2em;
+        margin: 0 auto;
+        background-color: #fff;
+    }    
+    .carousel .carousel-inner .carousel-item {
+        max-width: 80%;
+        height: 100%;
+        margin: 0 auto;
+    }
+    #wrapper-hero-inner {
+        margin-bottom: 1em;
+        padding: 0;
+    }
+    #ac-panel {
+        display:block;
+        position:relative;
+        min-height:50px;
+        max-height:200px;
+        margin: 0 0 2em 5%;
+        max-width: 92%;
+        width: 92% ;
+        font-size: .9rem;
+    }
+    span.ssQueryAndButton {
+        margin: 2em auto 0.25em auto !important;
+        max-width: 90%;
+        width: 90%;
+    }
+    #ac-panel-many .col-md-4 {
+        max-width: 100%;
+    }
+    #stems-many {
+        max-width: 100%;
+    }
+    #footer-full-content {
+        max-width: 98%;
+    }
+    .navbar-collapse {
+        margin: 0;
+    }    
+}
+
+@media only screen and (max-width: 1024px){
+    .carousel-indicators {
+        margin-right: 0;
+        margin: 1.5em 4em;
+    }    
+    #audenIndexCarousel {
+        max-width: 100%;
+        padding: 0;
+        margin-top: 2em;
+        background-color: #fff;
+    }    
+    .carousel .carousel-inner .carousel-item {
+        max-width: 80%;
+        height: 100%;
+        margin: 1em auto;
+    }
+    #wrapper-hero-inner {
+        margin-bottom: 1em;
+        padding: 0 2em;
+    }
+    #ac-panel {
+        display:block;
+        position:relative;
+        min-height:50px;
+        max-height:200px;
+        margin: 0 2% 2em 5%;
+        max-width: 90%;
+        width: 90% ;
+        font-size: .9rem;
+    }
+    span.ssQueryAndButton {
+        margin: 2em auto 0.25em auto !important;
+        max-width: 90%;
+        width: 90%;
+    }
+    #ac-panel-many .col-md-4 {
+        max-width: 100%;
+    }
+    #stems-many {
+        max-width: 100%;
+    }
+    .navbar-collapse {
+        margin: 0;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+/*@media (min-width: 992px) {  }*/
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media only screen and (max-width: 1200px) { 
+        .carousel-indicators {
+        margin-right: 0;
+        margin: 1.5em 4em;
+    }    
+    #audenIndexCarousel {
+        max-width: 100%;
+        padding: 0;
+        margin-top: 2em;
+        background-color: #fff;
+    }    
+    .carousel .carousel-inner .carousel-item {
+        max-width: 80%;
+        height: 100%;
+        margin: 1em auto;
+    }
+    #wrapper-hero-inner {
+        margin-bottom: 1em;
+        padding: 0 2em;
+    }
+    #ac-panel {
+        display:block;
+        position:relative;
+        min-height:50px;
+        max-height:200px;
+        margin: 0 2% 2em 10%;
+        max-width: 82%;
+        width: 82% ;
+        font-size: .9rem;
+    }
+    span.ssQueryAndButton {
+        margin: 2em auto 0.25em auto !important;
+        max-width: 80%;
+        width: 80%;
+    }
+    #ac-panel-many .col-md-4 {
+        max-width: 100%;
+    }
+    #stems-many {
+        max-width: 100%;
+    }
+    .navbar-collapse {
+        margin: 0;
+    }
+}
