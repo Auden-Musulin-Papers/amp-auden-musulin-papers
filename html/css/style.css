@@ -395,7 +395,7 @@ fieldset.ssFieldset > span > input {
 /*                                                  */
 /*                                                  */
 /* Small devices (landscape phones, 576px and up) */ 
-@media only screen and (max-width: 576px) {
+@media (min-width: 576px) {
     .carousel-indicators {
         margin: 1.5em auto;
     }
@@ -443,7 +443,7 @@ fieldset.ssFieldset > span > input {
 }
 
 /* Medium devices (tablets, 768px and up) */
-@media only screen and (max-width: 768px) { 
+@media (min-width: 768px) { 
     .carousel-indicators {
         margin: 1.5em auto;
     }    
@@ -491,7 +491,7 @@ fieldset.ssFieldset > span > input {
     }    
 }
 
-@media only screen and (max-width: 1024px){
+@media (min-width: 1024px){
     .carousel-indicators {
         margin-right: 0;
         margin: 1.5em 4em;
@@ -541,7 +541,7 @@ fieldset.ssFieldset > span > input {
 /*@media (min-width: 992px) {  }*/
 
 /* Extra large devices (large desktops, 1200px and up) */
-@media only screen and (max-width: 1200px) { 
+@media (min-width: 1200px) { 
         .carousel-indicators {
         margin-right: 0;
         margin: 1.5em 4em;

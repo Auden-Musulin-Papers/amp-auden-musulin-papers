@@ -117,15 +117,30 @@
                                         </div>
                                     </div>                                     
                                 </a>                                    
-                            </div>
+                            </div>                            
+                            <div class="col-md-4">
+                                <a href="#" class="index-link">  
+                                    <div class="card index-card">
+                                        <div class="card-body">
+                                            <img src="images/index/W-H-Auden_7.jpg" class="d-block w-100" alt="..."/>
+                                        </div>
+                                        <div class="card-header">  
+                                            <h4>Winston H. Auden</h4>
+                                            <p>
+                                                More context in progress.
+                                            </p>                                            
+                                        </div>
+                                    </div>                                    
+                                </a>
+                            </div>   
                             <div class="col-md-4">
                                 <a href="#" class="index-link">                                                     
                                     <div class="card index-card">
                                         <div class="card-body">
-                                            <img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="d-block w-100" alt="..."/>
+                                            <img src="images/index/stella-musulin_0237.jpg" class="d-block w-100" alt="..."/>
                                         </div>
                                         <div class="card-header">   
-                                            <h4>TBA</h4>
+                                            <h4>Stella Musulin</h4>
                                             <p>
                                                 More context in progress.
                                             </p>                                            
@@ -133,21 +148,6 @@
                                     </div>                                 
                                 </a>
                             </div>
-                            <div class="col-md-4">
-                                <a href="#" class="index-link">  
-                                    <div class="card index-card">
-                                        <div class="card-body">
-                                            <img src="images/Auden_Musulin_Papers_Logo_rechteckig_web.png" class="d-block w-100" alt="..."/>
-                                        </div>
-                                        <div class="card-header">  
-                                            <h4>TBA</h4>
-                                            <p>
-                                                More context in progress.
-                                            </p>                                            
-                                        </div>
-                                    </div>                                    
-                                </a>
-                            </div>                            
                         </div>
                     </div>
                     <xsl:call-template name="html_footer"/>
