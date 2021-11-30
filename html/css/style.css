@@ -398,11 +398,11 @@ fieldset.ssFieldset > span > input {
 @media (min-width: 576px) {
     .carousel-indicators {
         margin: 1.5em auto;
+        padding: 0 1.5em;         
     }
     #audenIndexCarousel {
         max-width: 100% !important;
         padding: 0;
-        background-color: #fff;
     }
     .carousel .carousel-inner .carousel-item {
         max-width: 100%;
@@ -445,13 +445,12 @@ fieldset.ssFieldset > span > input {
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
     .carousel-indicators {
-        margin: 1.5em auto;
+        margin: 1.5em auto;   
     }    
     #audenIndexCarousel {
         max-width: 100%;
         padding: 2em 2em;
         margin: 0 auto;
-        background-color: #fff;
     }    
     .carousel .carousel-inner .carousel-item {
         max-width: 80%;
@@ -493,14 +492,12 @@ fieldset.ssFieldset > span > input {
 
 @media (min-width: 1024px){
     .carousel-indicators {
-        margin-right: 0;
-        margin: 1.5em 4em;
+        margin: 1.5em auto; 
     }    
     #audenIndexCarousel {
         max-width: 100%;
         padding: 0;
         margin-top: 2em;
-        background-color: #fff;
     }    
     .carousel .carousel-inner .carousel-item {
         max-width: 80%;
@@ -513,7 +510,7 @@ fieldset.ssFieldset > span > input {
     }
     #ac-panel {
         display:block;
-        position:relative;
+        position:absolute;
         min-height:50px;
         max-height:200px;
         margin: 0 2% 2em 5%;
@@ -542,15 +539,13 @@ fieldset.ssFieldset > span > input {
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { 
-        .carousel-indicators {
-        margin-right: 0;
-        margin: 1.5em 4em;
+    .carousel-indicators {
+        margin: 1.5em auto;
     }    
     #audenIndexCarousel {
         max-width: 100%;
         padding: 0;
         margin-top: 2em;
-        background-color: #fff;
     }    
     .carousel .carousel-inner .carousel-item {
         max-width: 80%;
@@ -582,7 +577,39 @@ fieldset.ssFieldset > span > input {
     #stems-many {
         max-width: 100%;
     }
-    .navbar-collapse {
-        margin: 0;
+}
+
+/* Extra large devices (large desktops, 1680px and up) */
+@media (min-width: 1680px) { 
+    .carousel-indicators {
+        margin: 1.5em 4em;
+        padding: 3em;
+    }       
+    #audenIndexCarousel {
+        max-width: 100%;
+        padding: 2.5em 2em;
+    }
+    .carousel .carousel-inner .carousel-item {
+        max-width: 80%;
+        height: 100%;
+    }
+    #wrapper-hero-inner {
+        margin-bottom: 1em;
+        padding: 0 2em;
+    }
+    #ac-panel {
+        display:block;
+        position:relative;
+        min-height:50px;
+        max-height:200px;
+        margin: 0 2% 2em 10%;
+        max-width: 50%;
+        width: 50% ;
+        font-size: .9rem;
+    }
+    span.ssQueryAndButton {
+        margin: 2em auto 0.25em auto !important;
+        max-width: 50%;
+        width: 50%;
     }
 }
