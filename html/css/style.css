@@ -157,12 +157,17 @@ a.btn-round:hover {
 
 .carousel-indicators {
     cursor: pointer;
-    padding-right: 2em !important;
-    margin-bottom: 2.5em !important;
+    margin-right: 13em !important;
+    margin-bottom: 3.5em !important;
 }
 
 .main-title {
     border-radius:.25rem .25rem 0 0;
+    
+}
+
+#wrapper-hero-inner {
+    padding: 0 3em;
 }
 
 #wrapper-hero-inner p {
@@ -173,13 +178,12 @@ a.btn-round:hover {
 
 #audenIndexCarousel {
     max-width: 100% !important;
-    padding: 2em 3em 2.05em 2em !important;
+    padding: 2.85em 2em !important;
     background-color: #fff;
-    border-radius: 0 0 .7rem .7rem;
 }
 
 .carousel .carousel-inner .carousel-item {
-    height: 500px !important;
+    max-width: 80%;
 }
 
 .container-fluid {
