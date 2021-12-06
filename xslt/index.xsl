@@ -30,13 +30,12 @@
                         <div class="row">
                             <div class="col-md-8" style="padding:0!important;">
                                 <div class="wrapper" style="background-color:#fff!important;">
-                                    <div class="container hero-dark" id="wrapper-hero-inner" tabindex="-1">
+                                    <div class="container hero-dark" id="wrapper-hero-inner" tabindex="-1" style="margin-top:5%;">
                                         <div class="main-title">
                                             <h1 style="color:#615a60;padding:.5em 0;">Auden Musulin Papers</h1>
-                                            <h2 style="color:#615a60;">A digital edition of W. H. Auden's Letters to Stella Musulin</h2>
-                                            <h3 style="color:#615a60;">Early version of a once to become Project-Website and Digital Edition of the <strong>Auden Musulin Papers</strong></h3>
+                                            <h2 style="color:#615a60;">A Digital Edition of W. H. Auden's Letters to Stella Musulin</h2>
                                         </div>
-                                        <p><xsl:value-of select="//tei:body/tei:div/tei:p"/></p>  
+                                        <p>This website presents the letters and literary papers by Anglo-American poet W. H. Auden (1907-1973) in the estate of Welsh-Austrian writer and journalist Stella Musulin (1915-1996). Previously unpublished, they cast a fresh light on Auden's life and work in Austria.</p>  
                                         <button class="btn btn-round">
                                             <a href="toc.html">Read More</a>
                                         </button>
@@ -113,7 +112,6 @@
                                         </div>
                                         <div class="card-header">                                            
                                             <h4>W. H. Auden's Letters to Stella Musulin</h4>
-                                            <p>Read transcribed letters in various text versions. Explore the original hand-written or typed letters as scans.</p>                                   
                                         </div>
                                     </div>                                     
                                 </a>                                    
@@ -125,10 +123,7 @@
                                             <img src="images/index/W-H-Auden_7.jpg" class="d-block w-100" alt="..."/>
                                         </div>
                                         <div class="card-header">  
-                                            <h4>W. H. Auden</h4>
-                                            <p>
-                                                More context in progress.
-                                            </p>                                            
+                                            <h4>W. H. Auden</h4>                                         
                                         </div>
                                     </div>                                    
                                 </a>
@@ -140,10 +135,7 @@
                                             <img src="images/index/stella-musulin_0237.jpg" class="d-block w-100" alt="..."/>
                                         </div>
                                         <div class="card-header">   
-                                            <h4>Stella Musulin</h4>
-                                            <p>
-                                                More context in progress.
-                                            </p>                                            
+                                            <h4>Stella Musulin</h4>                                     
                                         </div>
                                     </div>                                 
                                 </a>
