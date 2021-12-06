@@ -79,6 +79,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="smayer" when="2021-12-06">text transcribed</change>
+         <change who="tfruehwirth" when="2021-12-06">text transcribed using Transkribus</change>
+         <change who="smayer tfruehwirth" when="2021-12-06">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -93,8 +96,9 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0227/" type="sheet"/>
-               <p>39 Claremont Ave, apt 32<lb/>
-                  New York Ny  10027<lb/>
+               <p>
+                  39 Claremont Ave, apt 32<lb/>
+                  New York NY  10027<lb/>
                   USA
                </p>
                <p>
@@ -136,24 +140,24 @@ for any purpose, even commercially.</p>
                   is 212 222-0679 if there's ever a reason to need it.<lb/>
                   Please do forgive me for the muddle over the book.  And please do keep<lb/>
                   in touch.  Incidentally I finished that critical book--to be published<lb/>
-                  in the spring--after doing nothing but work on it for a year.  My "summer"
+                  in the spring--after doing nothing but work on it for a year.  My "summer"<lb/>
                   trip to England got postponed to November while I revised.<lb/>
                   Yours ever,<lb/>
                   Ed
-               </p>
-         <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0228/" type="sheet"/>
-           <p>
-               Edward Mendelson<lb/>
-               39 Claremont Ave apt 32<lb/>
-               New York NY  10027
-           </p>
-           <p>
-              Frl Baronin<lb/>
-              Stella Musulin<lb/>
-              Schlösselgasse 8/17<lb/>
-              A-1080 Wien<lb/>
-              Austria 
-           </p>
+                </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0228/" type="sheet"/>
+               <p>
+                  Edward Mendelson<lb/>
+                  39 Claremont Ave apt 32<lb/>
+                  New York NY  10027
+              </p>
+              <p>
+                  Frl Baronin<lb/>
+                  Stella Musulin<lb/>
+                  Schlösselgasse 8/17<lb/>
+                  A-1080 Wien<lb/>
+                  Austria 
+              </p>
          </div>
       </body>
    </text>
