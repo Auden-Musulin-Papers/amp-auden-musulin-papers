@@ -79,6 +79,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="smayer" when="2021-12-15">text transcribed</change>
+         <change who="tfruehwirth" when="2021-12-16">text transcribed using Transkribus</change>
+         <change who="smayer tfruehwirth" when="2021-12-16">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -110,14 +113,14 @@ for any purpose, even commercially.</p>
                   Tel. 772941
                </p>
                <p>
-                  31: V: 1984
+                  31 : V: 1984
                </p>
                <p>
                   Dear Baroness Musulin,<lb/>
                   I remember you telling me that you liked the novels of<lb/>
                   Molly Keane when I visited you with Peter Muller in October of last year. I<lb/>
                   was delighted to see that Virago Press have decided to reprint her early<lb/>
-                  novels and I thought of you when I saw them in the bookshops.  I am sending<lb/>
+                  novels and I thought of you when I saw them <del><unclear>o</unclear></del>in the bookshops.  I am sending<lb/>
                   you herewith The Rising Tide - the first in the series of reprints and I very<lb/>
                   much hope you enjoy reading it.<lb/>
                   I remember with great affection our chat about W.H. Auden<lb/>
@@ -138,7 +141,7 @@ for any purpose, even commercially.</p>
                   all promises to be a splendid celebration of Auden's life and work.<lb/>
                   I was terribly disappointed not to have seen you when I was<lb/>
                   in Vienna in March but alas I was at the mercy of my friends who have cars and,<lb/>
-                  as luck would have it,they were all so busy at various things I was <unclear>left</unclear> stranded in<lb/>
+                  as luck would have it,they were all so busy at various things I was left stranded in<lb/>
                   Vienna throughout my brief visit.  However I shall be spending September, October<lb/>
                   and November in Austria and I very much look forward to seeing you then.<lb/>
                   I had a letter from Edward Mendelson yesterday and he asked<lb/>
@@ -147,7 +150,7 @@ for any purpose, even commercially.</p>
                   it is here in Ireland.<lb/>
                   With all good wishes,<lb/>
                   Yours very sincerely,<lb/>
-                  Mich<unclear>ae</unclear>l <unclear>O'Sullivan</unclear>
+                  Mich<unclear>ae</unclear>l <unclear>O'Sullivan</unclear><lb/>
                   MICHAEL O'SULLIVAN.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0232/" type="sheet"/>
