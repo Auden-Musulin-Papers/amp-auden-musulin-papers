@@ -75,7 +75,7 @@
                                 <a title="Project" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Project <span class="caret"></span></a>
                                 <ul class=" dropdown-menu" role="menu">
                                     <li class="nav-item dropdown-submenu">
-                                        <a title="Description" href="#" class="nav-link">Description</a>
+                                        <a title="Description" href="description.html" class="nav-link">Description</a>
                                     </li>
                                     <li class="nav-item dropdown-submenu">
                                         <a title="Team" href="#" class="nav-link">Team</a>
