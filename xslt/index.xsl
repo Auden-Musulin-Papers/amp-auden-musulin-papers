@@ -37,7 +37,7 @@
                                         </div>
                                         <p>This website presents the letters and literary papers by Anglo-American poet W. H. Auden (1907-1973) in the estate of Welsh-Austrian writer and journalist Stella Musulin (1915-1996). Previously unpublished, they cast a fresh light on Auden's life and work in Austria.</p>  
                                         <button class="btn btn-round">
-                                            <a href="toc.html">Read More</a>
+                                            <a href="description.html">Read More</a>
                                         </button>
                                     </div>
                                 </div>
