@@ -79,6 +79,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="smayer" when="2021-12-16">text transcribed</change>
+         <change who="tfruehwirth" when="2021-12-17">text transcribed using Transkribus</change>
+         <change who="smayer tfruehwirth" when="2021-12-17">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -106,9 +109,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0165/" type="sheet"/>
                <p>
-                  Einschub 1 ,
-               </p>
-               <p>
+                  Einschub 1 ,<lb/>
                   <del><unclear></unclear></del>Als ich zwischen sechs und zwölf Jahre alt war verbrachte ich<lb/>
                   viele meiner wachen Stunden damit mir eine heilsame zweite Welt zu<lb/>
                   schaffen . Ihre <del>Grundelemente</del> Bausteine waren erstens eine<lb/>
@@ -116,26 +117,25 @@ for any purpose, even commercially.</p>
                   herrührte und zweitens ein Werk - die Bleigruben .<lb/>
                   Einschub 2<lb/>
                   Zweitens , während ich meine höchst-eigene Welt aufbaute ,<lb/>
-                  egangen, werden konnte
-                  musste ich feststellen , dass hier nicht ohne Regeln vorgegangen <del>gespielt</del> werden konnte<lb/>
+                  musste ich feststellen , dass hier nicht ohne Regeln <del>gespielt</del>vorgegangen werden konnte<lb/>
                   <del>werden konnte</del> - obwohl, oder gerade weil es hier um ein Spiel<lb/>
                   ging , nicht eine Notwendigkeit wie essen oder schlafen , um etwas, das<lb/>
                   mir frei stand , das ich tun oder lassen konnte, wie es mir<lb/>
                   passte<lb/>
                   Eimschub 3<lb/>
-                  Während ich meine Vorstellungen <del>Pläne</del> für einen Anreicherungs-Meiler <del>zentral-Meiler</del> entwarf, stiess<lb/>
+                  Während ich meine <del>Pläne</del>Vorstellungen für einen <del>zentral-Meiler</del>Anreicherungs-Meiler entwarf, stiess<lb/>
                   ich auf Schwierigkeiten: Ich musste zwischen zwei Arten von<lb/>
-                  Maschienen wählen , die <del>die</del>der Absonderung des Schlamms d<del>urchführen</del><lb/>
+                  Maschienen wählen , die d<del>ie</del>er Absonderung des Schlamms d<del>urchführen</del><lb/>
                   dienen , sie werden ' buddle ' genannt , Der eine Typ kam mir<lb/>
                   ' heilsamer ' , schöner vor aber der andere, das wusste ich bereits aus<lb/>
-                  meiner <unclear>L</unclear>ekture funktionierte besser ....................<lb/>
+                  meiner <unclear>L</unclear>ekture funktionierte besser   ....................<lb/>
                   Als ich später    <unclear>G</unclear>edichte zu schreiben begann stellte ich fest ,<lb/>
                   dass für mich genau die gleiche Verpflichtung gültig war . Das<lb/>
-                  heisst, ich ich kann die Do<del>j<unclear></unclear></del>ktrin nicht akzeptieren derzufolge man<lb/>
+                  heisst, ich ich kann die Do<del><unclear>j</unclear></del>ktrin nicht akzeptieren derzufolge man<lb/>
                   in der Poesie <del>vom Zwang der Glaubwürdigkeit</del> vorübergehend vom Zwang<lb/>
                   zur Glaubwürdigkeit entbunden werden kann  .<lb/>
                   Einschub 4<lb/>
-                  Eine eigene Phantasiewelt für sich <del>selbst aufbauen</del> allein<lb/>
+                  Eine eigene Phantasiewelt für sich <del>selbst aufbauen</del> allein
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0166/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0167/" type="sheet"/>
@@ -155,7 +155,7 @@ for any purpose, even commercially.</p>
                   Männer waren .<lb/>
                   Einschub 7<lb/>
                   In meinen jungen Jahren hatte sie gar keinen , sie befand sich im<lb/>
-                  Zustand kategorischen Gegensatzes , häufig in wirk<del>o</del>licher<lb/>
+                  Zustand kategorischen Gegensatzes , häufig in wirk<del><unclear>o</unclear></del>licher<lb/>
                   Feindschaft<lb/>
                   Einschub 8<lb/>
                   In Zeiten wie der unseren , in Zeiten rascher sozialer <unclear>V</unclear>eränderungen<lb/>
@@ -164,8 +164,8 @@ for any purpose, even commercially.</p>
                   die das künstlerische Schaffen bestimmen.<lb/>
                   Einschub 9<lb/>
                   heisst auf verantwortliche Weise am richtigen Funktionieren<lb/>
-                  der <unclear>G</unclear>esellschaft, der er angehört, wie an ihrer Verbesserung ,<lb/>
-                  mitzuwirken . "<lb/>
+                  der <unclear>G</unclear>esellschaft, der er angehört, wie an ihrer <unclear>V</unclear>erbesserung ,<lb/>
+                  mitzuwirken . "
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0168/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0169/" type="sheet"/>
@@ -174,14 +174,14 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Einschub 10<lb/>
-                  Politisches Handel<del>t</del>n kommt aus Notwendigkeit , das<lb/>
+                  Politisches <del><unclear>h</unclear></del>Handel<del>t</del>n kommt aus Notwendigkeit , das<lb/>
                   heisst : In jedem Augenblick muss etwas getan werden , für den<lb/>
                   Augenblick - der Aktion des Augenblickes folgt die des nächsten<lb/>
                   Augenblicks .<lb/>
                   E<del>u</del>inschub 11<lb/>
                   Noch eine weitere Erfahrung, dieich gemacht habe : Im Gegensatz<lb/>
                   zu dem, was man erwarten würde,klingen die freien <unclear>V</unclear>erse viel<lb/>
-                  ähnlicher als <del>jene</del> die Verse von Dichtern , die in vorgegebenen
+                  ähnlicher als <del>jene</del> die Verse von Dichtern , die in vorgegebenen<lb/>
                   Formen schreiben "
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0170/" type="sheet"/>
