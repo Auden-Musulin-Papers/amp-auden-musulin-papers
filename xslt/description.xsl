@@ -39,7 +39,8 @@
                                      </div>
                                      <div class="col-md-6">
                                          <div class="flex-md-row mb-4 align-items-center">
-                                             <img class="card-img-right flex-auto d-md-block" src="images/description/146346371-a1ab4066-8553-4cb9-a7e1-1acba0cdfbae.jpeg" alt="Wystan Hugh Auden" title="Wystan Hugh Auden"/>
+                                             <img class="card-img-right flex-auto d-md-block" src="{replace(//tei:figure/tei:graphic/@url, '../images', 'images')}" alt="{//tei:figure/tei:head}"/>
+                                             <p style="text-align:right;"><small><xsl:value-of select="//tei:figure/tei:figDesc"/></small></p>
                                          </div>
                                      </div>
                                  </div>
