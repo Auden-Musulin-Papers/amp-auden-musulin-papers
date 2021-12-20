@@ -79,6 +79,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="smayer" when="2021-12-20">text transcribed</change>
+         <change who="tfruehwirth" when="2021-12-20">text transcribed using Transkribus</change>
+         <change who="smayer tfruehwirth" when="2021-12-20">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -99,7 +102,7 @@ for any purpose, even commercially.</p>
                   Von meiner Garten<del>n</del>tür führt ein schmaler Pfad vom Dorf weiter<lb/>
                   einen Wald.  Auf meinen Gängen dorthin scheint es gehörig, stehen <unclear>z</unclear><lb/>
                   bleiben und durch den Zaun deines Gartens zu schauen, in dem man<lb/>
-                  dich (die Umstände verlangten es) wie einen alten geliebten <del><unclear></unclear></del><unclear>F</unclear>amilien<lb/>
+                  dich (die Umstände verlangten es) wie einen alten geliebten <unclear>H</unclear>amilien<lb/>
                   hund begrub.<lb/>
                   Vor zwanzig Jahren kategorisierte Feinde, jetzt nah benachbart,<lb/>
                   wären wir vielleicht gute Freunde geworden, die eine gemeinsame<lb/>
@@ -109,7 +112,7 @@ for any purpose, even commercially.</p>
                   Ja, ja, es muss gesagt werden, Machthaber, Männer grossen<lb/>
                   Unheils und Übelwollens, nahmen dich auf;  für wie lang, doch,<lb/>
                   wickelten sie dich ein, dich, der auf Goebbels Angebot von Kultur<lb/>
-                  "In <del><unclear></unclear></del>Ruah lassen!" entgegnetest?  Aber Krethi und Plethi ziehen<lb/>
+                  "In <unclear>R</unclear>uah lassen!" entgegnetest?  Aber Krethi und Plethi ziehen<lb/>
                   einen Stunk vor, und die Jungen verdammen dich ungelesen.<lb/>
                   Was wohl würde dir, dem Österreicher, dem Dichter, dein Herz<lb/>
                   gesagt haben, hättest du je von Franz Jägerstätter, dem Sankt<lb/>
@@ -119,14 +122,14 @@ for any purpose, even commercially.</p>
                   dass du unvorbereitet auf einen Tag sein solltest, der kommen<lb/>
                   musste, eine Zeit, voller Schrecken, Tränen und Auflösung, in dem<lb/>
                   du, der vom Albdruck erstarrt, dich selbst vernichtet<unclear>e</unclear>st?<lb/>
-                  Vergeltung ging immer wie ein Stümper vor.  "Dies alles ist
+                  Vergeltung ging immer wie ein Stümper vor.  "Dies alles ist<lb/>
                   furchtbar, hier nur Schweigen gemäss."<lb/>
                   Unbemerkt und <del>b</del>unbetrauert von mir die Stunde deines Todes,<lb/>
                   unbegrüsst von dir war der Augenblick, als ich, von der Vorsehung<lb/>
-                  geleitet, <unclear>K</unclear>irchstetten zuerst erblickte, an einem Oktobertag <del>in</del> bei<lb/>
+                  geleitet, <del>R</del>Kirchstetten zuerst erblickte, an einem Oktobertag <del>in</del> bei<lb/>
                   strömendem Regen, in einem Jahr, das unsern Kosmos veränderte,<lb/>
                   dem annus mirabilis als die Parität gestürzt wurde.<lb/>
-                  Schon waren die Reiche, die verloren ha<del>b</del>tten, genügend warm und<lb/>
+                  <del>Schon</del>Schon waren die Reiche, die verloren ha<del>b</del>tten, genügend warm und<lb/>
                   sattgegessen, ihre Verbrechen waren auf prosaische und private Art,<lb/>
                   jene Ärgernisse, Tote und Schutt, längst weggeschafft:  für ihre<lb/>
                   Geschändeten verblasste der Schock, ihre gewaltsam entführten<lb/>
@@ -152,15 +155,17 @@ for any purpose, even commercially.</p>
                   ehrfürchtig bewusst, der Berge, die hinter mir aufragen, vor mi<lb/>
                   des noblen Flusses,<lb/>
                   doch möcht ich auch dir Achtung erweisen, Nachbar und Kolle<lb/>
-                  <del>de</del><lb/>
-                  &#1642;
+                  <del>de</del>
+               </p>
+               <p>
+                  &#x2052;
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0144/" type="sheet"/>
                <p>
                   denn selbst mein englisches Ohr erfasst in deinem Deutsch die<lb/>
                   Meisterschaft und den Tonfall einen dem es vergönnt war, auf dem<lb/>
                   gepfählten Anger die Violas zu hören, die ihn nachher dazu<lb/>
-                  verpflichteten, sie "den Abgrund zu nennen".<lb/>
+                  verpflichteten, sie "den Abgrund zu nennen".
                </p>
          </div>
       </body>
