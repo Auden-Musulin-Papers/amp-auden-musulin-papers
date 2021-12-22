@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="smayer" when="2021-12-21">text transcribed</change>
+         <change who="tfruehwirth" when="2021-12-22">text transcribed using Transkribus</change>
+         <change who="smayer tfruehwirth" when="2021-12-22">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -145,7 +148,7 @@ for any purpose, even commercially.</p>
                   <l>Men of great damage</l>
                   <l>And malengine took you up.</l>
                   <l>Did they for long,though,</l>
-                  <l>Take you in,who to Goebbel<del>l</del>ls'</l>
+                  <l>Take you in,who to Goebbel<del>l</del>s'</l>
                   <l>Offer of culture</l>
                   <l>Countered In Ruah lassen!?</l>
                   <l>But Rag,Tag,Bobtail</l>
@@ -154,20 +157,22 @@ for any purpose, even commercially.</p>
                   <l>What,had you ever heard of  etc</l>
                </p>
                <p>
-                  Re<unclear>v</unclear><lb/>
+                  Re<unclear>v .</unclear>
+               </p>
+               <p>
                   re<unclear>v.</unclear>
                </p>
                <p>
-                  Wednes<unclear>day.</unclear>Kirch<unclear>s</unclear>tetten
+                  Wednesd<unclear>a</unclear>y . Kirch<unclear>s</unclear>tetten
                </p>
                <p>
-                  De<unclear>a</unclear>r Stella:<lb/>
-                  Many <unclear>th</unclear>ank<unclear>s</unclear> for your letter. Will try and call you<lb/>
+                  De<unclear>ar</unclear> Stella:<lb/>
+                  M<unclear>a</unclear>ny thanks for your letter. Will <unclear>tr</unclear>y and call you<lb/>
                   to-day by phone.<lb/>
-                  I enclose a <unclear>p</unclear>r<unclear>o</unclear>se translation ma<unclear>d</unclear>e by me and a German fr<unclear>i</unclear>end:<lb/>
-                  <del><unclear></unclear></del> Sin<unclear>ce</unclear> the copy I sent you, <del><unclear></unclear></del> I ha<unclear>ve</unclear> made a few sl<unclear>i</unclear>g<unclear>h</unclear>t<lb/>
-                  changes in stanza 3. (see above)<lb/>
-                  Could you che<unclear>c</unclear>k <unclear>the</unclear> translat<unclear>io</unclear>n for errors.<lb/>
+                  I enclose a pr<unclear>o</unclear>se translation ma<unclear>d</unclear>e by me and a German friend<unclear>;</unclear><lb/>
+                  <unclear></unclear> <del><unclear></unclear></del> Sin<unclear>ce</unclear> the copy I sent you , <del><unclear></unclear></del> I ha<unclear>ve</unclear> made <unclear>a</unclear> few slig<unclear>h</unclear>t<lb/>
+                  changes in stanza <unclear>3</unclear>. (see above)<lb/>
+                  Could y<unclear>ou</unclear> che<unclear>c</unclear>k the translat<unclear>io</unclear>n for errors.<lb/>
                   love<lb/>
                   Wystan.
                </p>
@@ -177,17 +182,17 @@ for any purpose, even commercially.</p>
                   Die Baronin<lb/>
                   Stella Musulin<lb/>
                   Fridau<lb/>
-                  Obergra<del>b<unclear></unclear></del><unclear>fen</unclear>dorf<lb/>
+                  Obergra<del><unclear></unclear></del><unclear></unclear>endorf<lb/>
                   bei S. Pölten<lb/>
                   N.Ö.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0014/" type="envelope"/>
                <p>
-                  W<unclear>.</unclear>H. Auden<lb/>
+                  W<unclear>.</unclear>H<unclear>.</unclear> Auden<lb/>
                   Kirchstetten (<unclear>W</unclear>est<unclear>ba</unclear>h<unclear>n</unclear>)<lb/>
                   Hint<unclear>e</unclear>rholz# 6<lb/>
                   N.Ö<lb/>
-                  <unclear>.</unclear>
+                  <unclear>&#x00B7;</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0139/" type="sheet"/>
                <p>
@@ -199,7 +204,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <del>Von meiner Gartentur</del><lb/>
-                  Von meiner Gartent<unclear>ü</unclear>r f<unclear>ü</unclear><del>rh</del>hrt ein schmaler Pfad vom Dorf weiter in einen Wald. Auf<lb/>
+                  Von meiner Gartent<unclear>ü</unclear>r f<unclear>ü</unclear><del>hh</del>rrt ein schmaler Pfad vom Dorf weiter in einen Wald. Auf<lb/>
                   meinen G<unclear>ä</unclear>ngen dorthin scheint es geh<unclear>ö</unclear>rig,stehen zu bleiben und durch den Zaun deines<lb/>
                   Gartens zu schauen,in dem dich(die Umst<unclear>ä</unclear>nde verlangten es) wie einen alten geliebten<lb/>
                   Familienhund begrub.
@@ -209,7 +214,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Vor zwanzig Jahren katergorisierte Feinde,jezt nah benachbart,w<unclear>ä</unclear>ren wir<lb/>
-                  vielleicht gute Freunde geworden,die eine gemeinsame Umwelt und Liebe f<unclear>ü</unclear>r das Wort
+                  vielleicht gute Freunde geworden,die eine gemeinsame Umwelt und Liebe f<unclear>ü</unclear>r das Wort<lb/>
                   teilten,und h<unclear>ä</unclear>tten bei einem goldhellen K<unclear>r</unclear>emser l<unclear>ä</unclear>nge Gespr<unclear>ä</unclear>che uber Syntax,Kommas<lb/>
                   und Verskunst gef<unclear>ü</unclear>hrt.
                </p>
@@ -219,7 +224,7 @@ for any purpose, even commercially.</p>
                <p>
                   Ja,ja,es muss gesagt werden,Machthaber,die grosses Unheil stifteten und B<unclear>ö</unclear>ses<lb/>
                   pl<del>na</del>anten,nahmen dich auf;f<unclear>ü</unclear>r wie lang,doch,wickelten sie dich ein,dich,der auf Goebbels<lb/>
-                  Angebot von Kultur "In Ruah lassen!" entgegnetest? <del>a</del>Aber  /? Rag, Tag, Bobta<unclear>il</unclear> <del>x</del>ziehen einen Stunk<lb/>
+                  Angebot von Kultur "In Ruah lassen!" entgegnetest? <del>a</del>Aber  /?<unclear></unclear> Rag,Tag, Bobta<unclear>il ?</unclear>   <del>x</del>ziehen einen Stunk<lb/>
                   vor,und die Jungen verdammen dich ungelesen.
                </p>
                <p>
@@ -255,11 +260,11 @@ for any purpose, even commercially.</p>
                <p>
                   Schon waren die Reiche,die verloren hatten,gen<unclear>ü</unclear>gend warm und sattgegessen,ihre<lb/>
                   Verbrechen waren auf prosaischer und privater Art,jene <unclear>Ä</unclear>rgernisse,Tote und Schutt,<lb/>
-                  l<unclear>ä</unclear>ngst weggeschafft: f<unclear>ü</unclear>r ihre Gesch<unclear>ä</unclear>ndeten ver<unclear>b</unclear><del>al</del>lasste der Schock,ihre gewaltsam<lb/>
+                  l<unclear>ä</unclear>ngst weggeschafft: f<unclear>ü</unclear>r ihre Gesch<unclear>ä</unclear>ndeten ver<unclear>b</unclear>l<del>aa</del>llsste der Schock,ihre gewaltsam<lb/>
                   entf<unclear>ü</unclear>hrten Physiker hatten kein Heimw<del>h</del>eh mehr.<lb/>
                </p>
                <p>
-                  <unclear>8</unclear>
+                  8
                </p>
                <p>
                   Heute lacheln wir bei Hochzeiten,auf denen sowohl Braut als Br<unclear>ä</unclear>utigam geboren<lb/>
@@ -274,7 +279,7 @@ for any purpose, even commercially.</p>
                <p>
                   noch nie war <unclear>ü</unclear>berall Frieden auf ihrer n<unclear>ä</unclear>hrenden Oberfl<unclear>ä</unclear>che: so viel wir wissen,<lb/>
                   ist niemand je sicher gewesen,und deshalb <unclear>ü</unclear>berwachen brave Familienv<unclear>ä</unclear>ter,mit der<lb/>
-                  Hingebung von M<unclear>ö</unclear>nchen,in geheimen Zonen,Geräte,in denen harmlose Substanz<lb/>
+                  Hingebung von M<unclear>ö</unclear>nchen,in geheimen Zonen,Ger<unclear>ä</unclear>te,in denen harmlose Substanz<lb/>
                   menschenm<unclear>ö</unclear>rderisch wird.
                </p>
                <p>
@@ -302,11 +307,13 @@ for any purpose, even commercially.</p>
                   doch m<unclear>ö</unclear>cht ich auch dir Achtung erweisen,Nachbar und Kollege; denn selbst mein<lb/>
                   englisches Ohr erfasst in deinem Deutsch die Meisterschaft und den Tonfall einen<lb/>
                   dem es verg<unclear>ö</unclear>nnt war,auf dem umzaunten Rasen die Brat<del>ch</del>schen zu h<unclear>ö</unclear>ren,die er sich<lb/>
-                  sp<unclear>ä</unclear>ter verpflichtet f<unclear>ü</unclear>hlte<del>t</del>,"den Abgrund zu nennen."<lb/>
+                  sp<unclear>ä</unclear>ter verpflichtet f<unclear>ü</unclear>hlte<del>t</del>,"den Abgrund zu nennen."
+               </p>
+               <p>
                   ______
                </p>
                <p>
-                  statt Br<unclear>ot</unclear>
+                  <unclear>st</unclear>a<unclear>t</unclear>t Bra<unclear>t</unclear>
                </p>
                <p>
                   M<unclear>y</unclear> dictionary gives Krethi und Plethi .<lb/>
