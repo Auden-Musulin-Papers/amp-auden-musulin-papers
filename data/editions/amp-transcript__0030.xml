@@ -79,6 +79,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="smayer" when="2022-01-03">text transcribed</change>
+         <change who="tfruehwirth" when="2022-01-03">text transcribed using Transkribus</change>
+         <change who="smayer tfruehwirth" when="2022-01-03">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -108,7 +111,7 @@ for any purpose, even commercially.</p>
                   and am working on a memoir of W.H. Auden´s years in Austria<lb/>
                   when I got to know him very well.   As he and Chester Kallman<lb/>
                   were used to involving me in domestic catastrophes of various<lb/>
-                  kinds, <del><unclear></unclear></del>Chester asked me to bring order into the chaos which so<lb/>
+                  kinds, <del>C</del><del>t</del><unclear>T</unclear>hester asked me to bring order into the chaos which so<lb/>
                   often follows upon a deathöand in this case was acute because<lb/>
                   of the total lack of comprehension between the anglo-american<lb/>
                   side and the local Austrian authorities.  Hence my approach<lb/>
@@ -119,12 +122,12 @@ for any purpose, even commercially.</p>
                   ecumenical service - shall I<del>S</del>scall it that? in the church at<lb/>
                   Kirchstetten in October 1973, jointly with the parish priest?<lb/>
                   Do you recall the form of service used, and did John Auden<lb/>
-                  consult you about it?  I simply cannot remember, and al<del><unclear></unclear></del>ough<lb/>
+                  consult you about it?  I simply cannot remember, and al<del><unclear></unclear></del>s<del>h</del>though<lb/>
                   there was a long and magnificent passage from the NT which I<lb/>
-                  could have sworn was from Corinthians, reading throu<del>t</del>gh Cor.I &#38; II<lb/>
+                  could have sworn was from Corinthians, reading throu<del>t</del>gh Cor.I &#x0026; II<lb/>
                   nothing seems to ring the right bell.  Then there was the burial<lb/>
                   service.  I am told that the whole occasion aroused a great deal<lb/>
-                  of interest here and was m<del>ku</del>uch discussed:  so normal to the<lb/>
+                  of interest here and was m<del>u</del>k<del>u</del>ch discussed:  so normal to the<lb/>
                   British, in Lower Austria it was a sensation.  I should be<lb/>
                   extremely grateful if you could find time to tell me anything<lb/>
                   that you remember, and give me permission to quote you.  Not<lb/>
