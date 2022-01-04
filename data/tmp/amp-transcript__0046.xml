@@ -79,6 +79,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="smayer" when="2022-01-04">text transcribed</change>
+         <change who="tfruehwirth" when="2022-01-04">text transcribed using Transkribus</change>
+         <change who="smayer tfruehwirth" when="2022-01-04">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -94,55 +97,55 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0141/" type="sheet"/>
                <p>
-                  1. In dem man dich &#8212; begrub&#xB7;
+                  1. In dem man <unclear>&#x2713;</unclear> dich &#8212; begrub &#x00B7;
                </p>
                <p>
-                  2. Kategorisier<unclear>t.</unclear><lb/>
-                  xxx Umwelt is a <unclear>bi</unclear>t wea<unclear>k</unclear> but p<unclear>ro</unclear>bably<lb/>
-                  can't <unclear>b</unclear>e helped&#xB7;
+                  2. Kategorisiert<unclear>.</unclear><lb/>
+                  Amb<unclear>it-</unclear>Umwelt is a bit wea<unclear>k</unclear> but pro<unclear>b</unclear>ably<lb/>
+                  can't <unclear>b</unclear>e helped&#x00B7;
                </p>
                <p>
-                  3. gr<unclear>o</unclear>sses Unheil stifteten und Böses planten.<lb/>
-                  <del>mem</del> xx of great damage and xx.<lb/>
-                  <unclear>1</unclear> the act<unclear>ion</unclear><lb/>
+                  <unclear>3</unclear>. Grosses Unheil stifteten und Böses planten .<lb/>
+                  <del>Mem</del> men of great damage and malengine <unclear>.</unclear><lb/>
+                  <unclear>1</unclear> the act<unclear>io</unclear>n<lb/>
                   2 the intent.<lb/>
-                  Übel wollens?<lb/>
-                  Männer <unclear></unclear> grossen Unheils und Übelwollens. ?
+                  Übel wollens ?<lb/>
+                  Männer <unclear>&#x2713;</unclear> grossen Unheils und Übelwol<unclear>l</unclear>ens<unclear>.</unclear> ?
                </p>
                <p>
-                  5. Alpdruck. (vom nicht vor)<lb/>
+                  <unclear>5</unclear> . Alpdruck .(vom nicht vor)<lb/>
                   Stümper .
                </p>
                <p>
-                  <unclear>6.</unclear> <del><unclear>In</unclear> str</del> Bei <unclear></unclear> strömendem Re<unclear>g</unclear>en<lb/>
+                  <unclear>6.</unclear> <del><unclear>I</unclear>n str</del> Bei &#x2713; strömendem Re<unclear>g</unclear>en<lb/>
                </p>
                <p>
-                  <unclear>7.</unclear> Hope ever<unclear>y</unclear>one w<unclear>o</unclear>n't thi<unclear>n</unclear>k <unclear>"</unclear>die Reiche<unclear>"</unclear><lb/>
-                  is a missp<unclear>rin</unclear>t for <unclear>"</unclear>die Reichen<unclear>".</unclear>
+                  <unclear>7.</unclear> Hope ever<unclear>y</unclear>one won't thi<unclear>n</unclear>k <unclear>"</unclear>die Reiche<unclear>"</unclear><lb/>
+                  is a missprint for <unclear>"</unclear>die Reichen<unclear>".</unclear>
                </p>
                <p>
                   prosais<unclear>c</unclear>he<lb/>
-                  &#x26; private Art
+                  &#x0026; private Art
                </p>
                <p>
-                  8. Lächeln w<unclear>ir</unclear> bei Hochzei<unclear>t</unclear>en , auf denen <unclear>?</unclear><lb/>
-                  Next sentence ungramm<unclear>a</unclear>t<unclear>ica</unclear>l<unclear>.</unclear> Verb <del>lacking</del>. missing.<lb/>
+                  8. Lächeln wir bei Hochzei<unclear>t</unclear>en , auf denen ?<lb/>
+                  Next sentence ungramm<unclear>a</unclear>t<unclear>ica</unclear>l <unclear>.</unclear> Verb <del>lacking</del>. missing .<lb/>
                   And perhaps<unclear>:</unclear> <unclear>"</unclear>Noch nie war die Erde ohne<lb/>
                   ihre faule<del>n</del> Stelle<del>n</del> (singular as in original),<lb/>
                   ein Uno<unclear>r</unclear>t mit Posten fü<unclear>r</unclear> Folterer
                </p>
                <p>
-                  <unclear>9</unclear>. Frieden oder Frie<unclear>d</unclear>e ?
+                  <unclear>9</unclear>. Frieden oder Frie<unclear>d</unclear>e <unclear>&#x2713;</unclear> ?
                </p>
                <p>
-                  wie <unclear>du</unclear> einst&#xB7;
+                  wie <unclear>w</unclear>u einst <unclear>&#x2713;</unclear> &#x00B7;
                </p>
                <p>
                   10. An das Regime? Wann bei jedem<lb/>
-                  Wenn.
+                  Wenn .
                </p>
                <p>
-                  11. Bedeu<unclear>te</unclear>ndere<unclear>n</unclear> Nachbarn 
+                  11. Bedeu<unclear>te</unclear>ndere<del><unclear>r</unclear></del>n Nachbarn 
                </p>
                <p>
                   die Perschling
@@ -151,26 +154,26 @@ for any purpose, even commercially.</p>
                   Warum des noblen <unclear>Fl</unclear>usses <unclear>?</unclear>
                </p>
                <p>
-                  12. Was ist der Abgrund<unclear>?</unclear><lb/>
-                  statt Bratschen Violas oder Geigen  &#8274;
+                  12. Was ist der Abgrund?<lb/>
+                  statt Bratschen Violas oder Geigen &#x2052;
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0142/" type="sheet"/>
                <p>
                   Heute lächeln wir bei Hochzeiten ,<lb/>
-                  bei <unclear>d</unclear>enen Braut u. Bräutigam sch<unclear>on</unclear><lb/>
+                  bei <unclear>d</unclear>enen Braut u. Bräutigam schon<lb/>
                   auf der Welt waren als sich der Schatten<lb/>
-                  gehoben <unclear>od</unclear>er (vielmehr) weitergerückt war.
+                  gehoben <unclear>od</unclear>er (vielmehr) &#x2713; weiter <unclear>&#x2713;</unclear> gerückt war<unclear>.</unclear>
                </p>
                <p>
-                  1<unclear>2</unclear><lb/>
+                  1<unclear>2.</unclear><lb/>
                   Anger wäre ev. besser als Rasen <unclear>.</unclear><lb/>
                   Try gepfählt
                </p>
                <p>
                   die ihn nachher dazu verpf<unclear>l</unclear>ichteten, sie<lb/>
-                  den Abgrund zu nennen&#xB7;<lb/>
-                  Look for old-fashioned wo<unclear>r</unclear>d for Streicher.<lb/>
-                  <unclear>(</unclear>Stringend instruments generally.)
+                  den Abgrund zu nennen .<lb/>
+                  Look for old-fashioned wo<unclear>r</unclear>d for Streicher .<lb/>
+                  <unclear>(</unclear>Strin<unclear>g</unclear>end instruments genera<unclear>l</unclear>ly.)
                </p>
          </div>
       </body>
