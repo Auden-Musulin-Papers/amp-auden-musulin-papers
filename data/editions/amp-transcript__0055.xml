@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="amp-transcript__0054.xml"
+   xml:id="amp-transcript__0055.xml"
    xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Photographs [?] of W. H. Auden, Chester Kallman, and Elsa Musulin [1960]</title>
+            <title level="a">Photograph [?] of W. H. Auden, Chester Kallman, and Elsa Musulin [1960]</title>
             <author>[?]</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -61,7 +61,7 @@ for any purpose, even commercially.</p>
                         <settlement>St. Pölten</settlement>
                         <repository>State Collections of Lower Austria</repository>
                         <collection>Stella Musulin (Depot)</collection>
-                        <idno>2, 17</idno>
+                        <idno>2, 16</idno>
                      </msIdentifier>
                      <history>
                         <origin><origDate>[1960]</origDate></origin>
@@ -79,21 +79,25 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="smayer tfruehwirth" when="2022-01-07">caption created</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="6846" lry="7740">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/"/>
+      <surface ulx="0" uly="0" lrx="3504" lry="2798">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0235/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="6850" lry="7738">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/"/>
+      <surface ulx="0" uly="0" lrx="3508" lry="2798">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0236/"/>
       </surface>
    </facsimile>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/" type="nan"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0235/" type="nan"/>
+               <p>
+                  Private photograph of W. H. Auden (left), Elsa Musulin (middle), and Chester Kallman (right), Fridau, Ober-Grafendorf, ca. 1960.<lb/>
+               </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0236/" type="nan"/>
          </div>
       </body>
    </text>
