@@ -79,6 +79,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="smayer" when="2022-01-12">text transcribed</change>
+         <change who="tfruehwirth" when="2021-01-13">text transcribed using Transkribus</change>
+         <change who="smayer tfruehwirth" when="2021-01-13">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -190,9 +193,9 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0181/" type="sheet"/>
                <p>
-                  In Retrospect.
+                  In Retrospect.<lb/>
                   Since then the Auden industry has not been idle.  An<lb/>
-                  excellent biography was published&#xB9; and <del>i</del>kn this the Austrian<lb/>
+                  excellent biography was published1 and <del>i</del>kn this the Austrian<lb/>
                   period was dealt with but not locally researched.  Edward<lb/>
                   Mendelson edited Auden´s early works and wrote superb commentaries.<lb/>
                   There has been a biography of Chester Kallman.  Writers of PhD<lb/>
@@ -216,7 +219,7 @@ for any purpose, even commercially.</p>
                   creative.  So that it might, we thought, be of value to put some<lb/>
                   of those things on record which would otherwise be lost.  Not<lb/>
                   for the first time self<del>.</del>-criticism was expressed, but while doubts<lb/>
-                  concerning self-importance<del><unclear></unclear></del>and sell-out of f<del>i</del>riendship were not<lb/>
+                  concerning self-importance<del><del><unclear>a</unclear></del>s</del>and sell-out of f<del>i</del>riendship were not<lb/>
                   entirely banished, the view prevailed that the local witness<lb/>
                   needs to be put on paper.  Scholarship is at work elsewhere;<lb/>
                   here a few appendices and footnotes are on offer.<lb/>
@@ -224,7 +227,7 @@ for any purpose, even commercially.</p>
                   were, as Humphrey Carpenter pointed out, highly contradictory.<lb/>
                   Again and again he said that the private life of poets and other<lb/>
                   people engaged in creative work is none of the public´s business<lb/>
-                  but he also said<unclear>:</unclear>´ `The biography of an artist, if his life as a w<unclear>hol</unclear>e<lb/>
+                  but he also said<unclear>:</unclear>´`The biography of an artist, if his life as a w<unclear>hole</unclear><lb/>
                   was sufficiently interesting, is permissible, provided that the<lb/>
                   biographer and his readers realise that such an account throws no<lb/>
                   light whatsoever upon the artist´s work."  And "I do believe,<lb/>
@@ -232,7 +235,7 @@ for any purpose, even commercially.</p>
                   may throw light upon his life."
                </p>
                <p>
-                  &#xB9; Hum<del>ö</del>phrey Carpenter: W.H. Auden, a Biography (Houghton Miffli<unclear></unclear><lb/>
+                  1 Hum<del>ö</del>phrey Carpenter: W.H. Auden, a Biography (Houghton Miffli<unclear></unclear><lb/>
                   Company, Boston 1981.)
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0182/" type="sheet"/>
@@ -247,14 +250,14 @@ for any purpose, even commercially.</p>
                   fundamental questions:  about the depths of the poet´s personality,<lb/>
                   his "otherness" (to confine this to his homosexuality would be to<lb/>
                   oversimplify) and the basis of his all-important relationship<lb/>
-                  with Chester Kallman.  As a star<del>it</del>ting point, "Early Auden"&#xB9; which<lb/>
+                  with Chester Kallman.  As a star<del>it</del>ting point, "Early Auden"1 which<lb/>
                   presents an<del>s</del>d comments on the poetry, drama and prose up to 1939<lb/>
                   is most valuable, and Edward Mendelson will produce further works<lb/>
                   of scholarship.<lb/>
                   What would Wystan Auden say if he could read "Auden in Love"<lb/>
                   by Chester´s old coll<del>a</del>ege friend and last-minute stepmother Dorothy<lb/>
-                  J. Farnon?&#xB2; In July 1985 the Sunday Times published a list of<lb/>
-                  recommended holiday <del>books</del>reading.  The assessment of "Auden in<lb/>
+                  J. Farnon?2  In July 1985 the Sunday Times published a list of<lb/>
+                  recommended holiday <del>books</del> reading.  The assessment of "Auden in<lb/>
                   Love" was a model of compression:  "emetic but compulsive".<lb/>
                   I more than once came up against Auden´s idée fixe about the<lb/>
                   irrelevance of the poet´s private self, and asked him one day:<lb/>
@@ -265,7 +268,7 @@ for any purpose, even commercially.</p>
                   was totally inconsistent.  Be that as it may, if the effect on the<lb/>
                   general public was judged as emetic, Auden´s nausea can be<lb/>
                   imagined.  All the same, it is a fascinating book, and for people<lb/>
-                  who knew the two men only in<del>r</del>helater years of their lives, does thro<unclear></unclear><lb/>
+                  who knew the two men only in <del>r</del>the later years of their lives, does thro<unclear></unclear><lb/>
                   light on apparently conflicting phenomena and makes their actions,<lb/>
                   and Chester´s character in particular, more comprehensible.<lb/>
                   When Auden first met Kallman he was just 32 and already a poet<lb/>
@@ -277,10 +280,10 @@ for any purpose, even commercially.</p>
                   sensitive and heartless, a man capable of loving and of being
                </p>
                <p>
-                  &#xB9;Edward Mendelson: Early Auden, Faber and Faber 1981. Also:<lb/>
+                  1Edward Mendelson: Early Auden, Faber and Faber 1981. Also:<lb/>
                   W.H. Auden: Collected Poems, ed.by E.Mendelson, Faber 1976, and<lb/>
-                  <unclear>T</unclear>he English Auden, same Editor, Faber 1977.<lb/>
-                  <unclear>&#xB2;</unclear>Dorothy J Farnon: Auden in Love. Simon &#x26; Schuster, NY, Faber<lb/>
+                  The English Auden, same Editor, Faber 1977.<lb/>
+                  2Dorothy J Farnon: Auden in Love. Simon &#x0026; Schuster, NY, Faber<lb/>
                   London 1
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0184/" type="sheet"/>
@@ -290,7 +293,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   loved but who was already - though Auden did not know it -<lb/>
-                  add<del>ii</del>dcted to promiscuity.  In literature and music his knowledge<lb/>
+                  add<del>di</del><unclear>i</unclear>cted to promiscuity.  In literature and music his knowledge<lb/>
                   was, for his age, above average, but when important examinations<lb/>
                   loomed a kind of petulant mood would come over him and he would<lb/>
                   fail to appear.<lb/>
@@ -321,11 +324,11 @@ for any purpose, even commercially.</p>
                   wholly indispensable to him.<lb/>
                   Like it or not, this statement has to be accepted with all<lb/>
                   the weight it carries.  It was never possible, even in the<lb/>
-                  Austrian era, to keep Chester in purdah for long, and when ther<unclear></unclear><lb/>
-                  was a visitor from Athens at Hinterholz 6 there could be tension.<lb/>
+                  Austrian era, to keep Chester in purdah for long, and when ther<unclear>e</unclear><lb/>
+                  was a visitor from Athens at Hinterholz 6 there could be tensio<del><unclear></unclear></del>n.<lb/>
                   Auden gave orders to Yannis Boras in the abrupt tones of a<lb/>
                   colonial Englishman of yore speaking to the "boy", and when I<lb/>
-                  asked one day at lunch: "Where is, er....?" he said with a
+                  asked one day at lu<del><unclear>c</unclear></del>nch: "Where is, er....?" he said with a
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0186/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0187/" type="sheet"/>
@@ -335,7 +338,7 @@ for any purpose, even commercially.</p>
                <p>
                   smirk of satisfaction: "I sent him up on to the roof to mend tiles."<lb/>
                   But fundamentally nothing had changed between them:  this explains<lb/>
-                  <del>his</del>Auden´s <unclear>i</unclear>n<unclear>t</unclear>ense anxiety over the death of Boras in a car accident in<lb/>
+                  <del>his</del>Auden´s intense anxiety over the death of Boras in a car accident in<lb/>
                   Lower Austria, and his fear communicated itself to me as I searched<lb/>
                   for Chester in Vienna.  It was nearly Christmas, what on earth<lb/>
                   would become of him, distraught and alone?  (He had in fact not<lb/>
@@ -343,13 +346,13 @@ for any purpose, even commercially.</p>
                   followed the gloomy summer <del>l</del>of 1969 when Chester was sunk in deep<lb/>
                   depression while Wy&#x15B;tan had a full work programme, and when he<lb/>
                   told me he could hardly think how Chester would get through the<lb/>
-                  summer&#xB9;this was indeed Mother speaking.<lb/>
+                  summer1this was indeed Mother speaking.<lb/>
                   What was it in Chester Kallman that made him so entirely<lb/>
                   indispensable to Auden?  Perhaps the question is impossible to<lb/>
                   answer;  some may hold it to be inadmissible, or attempts to find<lb/>
                   points of reference impertinent.  Others again may find the whole<lb/>
-                  subject unappetising.  But to anyone with an interest in psycholog<unclear></unclear><lb/>
-                  in the processes of cre<unclear>a</unclear>tivity in general and in those of Auden<lb/>
+                  subject unappetising.  But to anyone with an interest in psycholog<unclear>y</unclear><lb/>
+                  in the processes of cre<del>w</del><unclear>a</unclear>tivity in general and in those of Auden<lb/>
                   in particular, there is no way of getting round this essential<lb/>
                   relationship.  It may, after all, come to be seen as one of the<lb/>
                   most curious in the history of English literature.<lb/>
@@ -363,7 +366,7 @@ for any purpose, even commercially.</p>
                   translation.  When I was with them Wystan did not only most of the<lb/>
                   talking, but of the asking as well; his great charm lay in his<lb/>
                   alert interest in other people´s work, and he would draw one out<lb/>
-                  on the odder backwaters of Austrian history.  This side of him comes<lb/>
+                  on the odder backwaters of Austrian history.  This side of him com<unclear>e</unclear>s<lb/>
                   out in a letter dated 6 July 1970.  When the historian Friedrich<lb/>
                   Heer and <del>A</del>Yuden, both entranced, struck sparks off one another all<lb/>
                   afternoon, Kallman was silent.  Kallman lacked Auden´s sensitivit<unclear>y</unclear><lb/>
@@ -371,7 +374,7 @@ for any purpose, even commercially.</p>
                   that he was an American, and a New Yorker, while Auden never
                </p>
                <p>
-                  &#xB9; refers to 1976 text.
+                  1 refers to 1976 text.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0188/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0189/" type="sheet"/>
@@ -383,13 +386,13 @@ for any purpose, even commercially.</p>
                   On his own ground, operatic libretti, Chester Kallman was<lb/>
                   still in good running order, and when the Rake´s Progress was put<lb/>
                   on in Vienna he wrote a letter to Die Presse protesting sharply<lb/>
-                  <del>over</del> against the cuts <del>which had been</del> made by the producer.  But of that<lb/>
+                  <del>over</del>against the cuts <del>which had been</del> made by the producer.  But of that<lb/>
                   conversational brilliance which old friends have described there<lb/>
                   was little sign.  A scene comes to mind: Auden was away, and Chester<lb/>
                   asked me to meet him for lunch at a restaurant off the Kärntner-<lb/>
                   strasse.  A young man whose background clearly lay somewhere<lb/>
                   within the crime belt near the Prater was with him, and soon the<lb/>
-                  youth sand I were engrossed in conversation, while Chester, feeling<lb/>
+                  youth <del><unclear></unclear></del>sand I were engrossed in conversation, while Chester, feeling<lb/>
                   out of it, sulked.  Immediately after coffee it seemed best to<lb/>
                   leave them.  Chester´s intelligence and wit had not deserted him<lb/>
                   but they had too little scope, and, perhaps owing to his carp-like<lb/>
@@ -401,23 +404,23 @@ for any purpose, even commercially.</p>
                   between success and failure.<lb/>
                   It cannot, all the same, have been easy living on a long-term<lb/>
                   basis with Auden in New Yo<del>r</del>wk while attempting, even though<lb/>
-                  fitfully,to develop his own personality and talents.  Putting up with Auden´s<lb/>
+                  fitfully, to develop his own personality and talents.  Putting up with Auden´s<lb/>
                   fads, his insistence on punctuality and the rigid routine was one<lb/>
                   thing;  to grow up, to mature in the shadow of this oversized tree<lb/>
                   was another.  There was not enough light.  So he fled, but without<lb/>
                   Mother there was no way he could live at all.<lb/>
-                  It is essentia<del>s,</del><unclear>ll</unclear> in the light of what happened later on, to<lb/>
+                  It is essentia<del>sl</del>l, in the light of what happened later on, to<lb/>
                   remember Auden´s generosity.  His biographer mentioned the two boys<lb/>
                   whose further education was financed by Auden:  I can confirm this<lb/>
                   as we lived next door to them for a few years.  They were the sons of<lb/>
                   an artist;  both made rapid careers in industrial management.  But<lb/>
-                  there were other examples.  Wyst<del>s</del>an had telephoned and asked me to<lb/>
+                  there were other examples.  Wyst<del>s</del><unclear>a</unclear>n had telephoned and asked me to<lb/>
                   meet him and Chester at the Operncafé - the much-missed café-<lb/>
                   restaurant next to the Opera, now a car salesroom.  They were waiting<lb/>
                   for Balanchine to join them after the performance, but we waited in<lb/>
-                  vain and fi<del>na</del><unclear>kn</unclear>lly gave up and went home.  There was a fourth at our<lb/>
+                  vain and fi<del>kn</del><unclear>na</unclear>lly gave up and went home.  There was a fourth at our<lb/>
                   table, a silent young man who, Chester said in an undertone, was<lb/>
-                  a student of technology and Wyst<del>an</del><unclear>sa</unclear> was helping with his studies.
+                  a student of technology and Wyst<del>sa</del><unclear>an</unclear> was helping with his studies.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0190/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0191/" type="sheet"/>
@@ -447,7 +450,7 @@ for any purpose, even commercially.</p>
                   letter waiting.  1) I think I ought to take the couple in,<lb/>
                   but I m<del>k</del>ust leave it to you to decide whether they are O.K.<lb/>
                   If they are, all rooms, including my study (which can´t be<lb/>
-                  heated) are open to them.  2)  How m<del>uu</del><unclear>kc</unclear>h money will they need<lb/>
+                  heated) are open to them.  2)  How m<del>k<unclear>u</unclear></del>uch money will they need<lb/>
                   to keep going?  And how shall I make the arrangements for<lb/>
                   payment.  3) Will they be able to find work or emigrate<lb/>
                   before I return in April, when I´m afraid there will not<lb/>
@@ -458,7 +461,7 @@ for any purpose, even commercially.</p>
                   can write a note to the Burgom<del><unclear>a</unclear></del>eister..." (sic).
                </p>
                <p>
-                  In the end nothing came of <del><unclear>o</unclear></del><unclear>i</unclear>t, but the letter is quoted<lb/>
+                  In the end nothing came of <del><unclear>ö</unclear></del><unclear>i</unclear>t, but the letter is quoted<lb/>
                   here because it is so characteristic;  the follow-up is even<lb/>
                   more so.
                </p>
@@ -480,12 +483,12 @@ for any purpose, even commercially.</p>
                   Wystan.
                </p>
                <p>
-                  Great generosity (these facts, even separately,are known<lb/>
-                  to no more than two or three people) <del>ed existed</del>combined in Auden´s<lb/>
+                  Great generosity (these facts, even separately, are known<lb/>
+                  to no more than two or three people) <del>ed  existed</del>combined in Auden´s<lb/>
                   character quite readily with his legendary stinginess in the<lb/>
                   small things of everyday life such as stamps or cigarettes.<lb/>
                   "Life" magazine, he told me one day with a beaming smile, had<lb/>
-                  just paid him 5,000 dolla<del>rr</del><unclear>ss</unclear> for an article.  "I´m thinking<lb/>
+                  just paid him 5,000 dolla<del>sr</del><unclear>r</unclear>s for an article.  "I´m thinking<lb/>
                   of building on a diningroom."  "Very good idea" I said,<lb/>
                   "but for a start I shall smoke your cigarettes for the rest of<lb/>
                   the afternoon."  I very much doubt whether I did.  On the other<lb/>
@@ -504,7 +507,7 @@ for any purpose, even commercially.</p>
                   the doctor but the man from the accounts offic<del>d</del>e who wants to<lb/>
                   know how you propose to pay for your treatment.  No, he said,<lb/>
                   he didn´t really need anything and Chester would arrive shortly,<lb/>
-                  but he was running out of gin.  If I´d be an angel and ring<lb/>
+                  but he was running out of gin.   If I´d be an angel and ring<lb/>
                   up Wild on the Neuer Markt and ask them to send a few bottles out -<lb/>
                   he told me the brand name - that would be splendid.<lb/>
                   When the friendly voice on the end of the line had repeated<lb/>
@@ -512,17 +515,17 @@ for any purpose, even commercially.</p>
                   in the area around Kirchstetten.  "Oh but we never deliver out<lb/>
                   there" said the voice, "We make a special trip for the Herr<lb/>
                   Professor."  Startled, I exclaimed "For goodness´ sake, that must<lb/>
-                  cost him a packet - you can buy that brand of gin in Böheimkirchen!<unclear>"</unclear><lb/>
+                  cost him a packet - you can buy that brand of gin in Böheimkirchen!"<lb/>
                   "Certainly you can" said the voice which now sounded amused,<lb/>
                   "but why do we have to worry our heads over the way a Herr<lb/>
-                  Professer flings his money around?"  I liked the "we".<lb/>
-                  What was so American about the kitchen?&#xB9;
-                  When fitted kitchens first came in the Austrians calle<del>d</del><unclear>sd</unclear><lb/>
+                  Profess<del>s</del><unclear>o</unclear>r flings his money around?"  I liked the "we".<lb/>
+                  What was so American about the kitchen?1<lb/>
+                  When fitted kitchens first came in the Austrians calle<del>s</del>d<unclear>d</unclear><lb/>
                   them "American" - the term is now as ex<del>d</del>tinct as "Russian" tea<lb/>
                   but m<del>u</del>kst still have been common parlance in Kirchstetten.<lb/>
                   There was a tidy line-up consisting of fridge, sink, low<lb/>
                   cupboards providing a good working surface,,a corner <del>f</del>cupboard<lb/>
-                  the interior of which s<del>x</del>wung out, and a gas stove.  Both men were<lb/>
+                  the interior of which s<del><unclear>x</unclear></del>wung out, and a gas stove.  Both men were<lb/>
                   very proud of the kitchen and it became Chester´s habitat.<lb/>
                   But the whole point of a modern kitchen:  the labour-saving<lb/>
                   working area, ample storage space, accessibility, was totally<lb/>
@@ -539,7 +542,7 @@ for any purpose, even commercially.</p>
                   not so much drinking as eating their way into their graves <del>i</del>owing
                </p>
                <p>
-                  &#xB9;   Wystan Auden, <del>A</del>On Installing an American Kitchen in Lower<lb/>
+                  1  Wystan Auden, <del>A</del>On Installing an American Kitchen in Lower<lb/>
                   Austria, in Homage to Clio, (Faber and Faber 1960).
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0196/" type="sheet"/>
@@ -549,7 +552,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   to the enormous fat content of some of the dishes.  I remember<lb/>
-                  my horror as I watched a sauce being prepared in the mixer befor<unclear></unclear><lb/>
+                  my horror as I watched a sauce being prepared in the mixer befor<unclear>e</unclear><lb/>
                   it was re-heated to accompany the roast duck.  It consisted of<lb/>
                   equal parts of rendered down duck <del>v</del>fat and cream, and would have<lb/>
                   sustained a miner at the <del>cola</del> coal face for an indefinite period<lb/>
@@ -560,38 +563,36 @@ for any purpose, even commercially.</p>
                   Whether or not - and Chester was convinced that this was so -<lb/>
                   the business about alleged arrears of income tax shortened Auden´s<lb/>
                   life must be left open.  The "Declaration" to the tax authorities<lb/>
-                  in which a great poet patiently explains how poetry comes to <unclear>be</unclear><lb/>
-                  written must be unique and deserves a place in the history <unclear>of</unclear><lb/>
+                  in which a great poet patiently explains how poetry comes to be<lb/>
+                  written must be unique and deserves a place in the history of<lb/>
                   literature.
                </p>
                <p>
-                  Declaration. &#xB9;
-               </p>
-               <p>
+                  Declaration. 1<lb/>
                   Gentlemen,<lb/>
                   My position is very simple: one pays income tax where one<lb/>
                   earns money, that is to say in my case, as a writer writing in<lb/>
                   English, in the United States and in England.  In Austria I<lb/>
                   earn not one groschen, I merely spend sch<del>i</del>ullings.<lb/>
-                  You maintain that I possess a "material interest" in Austr<unclear>i</unclear>a,<lb/>
+                  You maintain that I possess a "material interest" in Austria,<lb/>
                   by which you presumably mean a "financial" interest.  That might<lb/>
                   conceivably be the case if I had to say to myself:  "I must go<lb/>
-                  to Austria because I can only work in Austria!" But that is not<lb/>
+                  to Austria because I can only work in Austria!"  But that is not<lb/>
                   the case.  I have lived in many places in many different countries<lb/>
                   and was always able <del>e</del>to work wherever I might be.<lb/>
-                  I naturally have a "p<del>ee</del><unclear>ör</unclear>sonal" interest in Austria, otherwise<lb/>
+                  I naturally have a "p<del>ö<unclear>e</unclear></del><unclear>er</unclear>sonal" interest in Austria, otherwise<lb/>
                   I should not come here.  The landscape is pleasing, and I find<lb/>
                   the Austrians whose acquaintance I have made, friendly an<unclear>sd</unclear><lb/>
                   charming.<lb/>
                   You say correctly that I once received <del><unclear>n</unclear></del>an Austrian prize<lb/>
                   for lieterature.  This was a great honour of which I am very<lb/>
                   proud.  You cannot however serioiusly believe, Gentlemen, that I<lb/>
-                  calculated: "If I continue to go to Austria maybe I shall be<lb/>
+                  calculated:  "If I continue to go to Austria maybe I shall be<lb/>
                   given a prize"?  Until it was awarded to me I had never heard<lb/>
-                  of <del>the</del> prize.  It is equally clear that I cannot receive it a
+                  of <del>the</del>this prize.  It is equally clear that I cannot receive it a
                </p>
                <p>
-                  &#xB9;Translation from the German text which is a manuscript, not a<lb/>
+                  1Translation from the German text which is a manuscript, not a<lb/>
                   letter.  An English original is not known to exist and it is<lb/>
                   assumed that Auden destroyed his draft.
                </p>
@@ -606,7 +607,7 @@ for any purpose, even commercially.</p>
                   on the part of the local council, but it cannot be maintaine<del>d</del>sd<lb/>
                   that I profit from it <del>i</del>financially.<lb/>
                   Further, you say with truth that I have written several poems<lb/>
-                  <del>in A</del> <del>with</del>o<del>i</del>n Austrian themes.  To this I would like to make three<lb/>
+                  <del>in A</del> <del>with</del>o<del><unclear>j</unclear></del>n Austrian themes.  To this I would like to make three<lb/>
                   statements.<lb/>
                   1.  I have never, in Austria, received so much as one<lb/>
                   penny for my poems.  One or two of them have been trans-<lb/>
@@ -626,19 +627,19 @@ for any purpose, even commercially.</p>
                   war in the countries which were defeated, i.e. not only<lb/>
                   in Austria but in Germany and Italy.  Again:  in 1964<lb/>
                   I wrote a poem with the title "Whitsunday in Kirchstetten"<lb/>
-                  because it was where I happ<del>e</del>pened to be.  But the place is<lb/>
+                  because it was where I happ<del>p</del>ened to be.  But the place is<lb/>
                   unimportant.  In real<del>t</del>ity the question in this poem is<lb/>
                   what, for a Christian, is the meaning of the Feast of<lb/>
                   Pentecost.  And this is valid for all countries in the<lb/>
                   same way.<lb/>
-                  3.  I believe you do not clearly recognize a poet´s (Dichte<unclear>r)</unclear><lb/>
-                  financial s<del>i</del>ktuation.  If he is suc<del>c</del>eessful, a novelist<lb/>
-                  can ma<unclear>k</unclear>e a good deal of money.  A poet (Lyriker) cannot,<lb/>
+                  3.  I believe you do not clearly recognize a poet´s (Dichte<unclear>r</unclear>)<lb/>
+                  financial s<del>k</del>ituation.  If he is suc<del>e</del><unclear>c</unclear>essful, a novelist<lb/>
+                  can ma<del>,</del>ke a good deal of money.  A poet (Lyriker) cannot,<lb/>
                   even if he is very well known, because he is only read<lb/>
                   by a minority.  By far the greater part of my income<lb/>
                   comes not from the sale of my volumes of poetry but from<lb/>
                   book reviews, translations, lectures etc., activities<lb/>
-                  which have nothing to do with Austria.  A<del>n</del>md while we are
+                  which have nothing to do with Austria.  A<del>m</del><unclear>n</unclear>d while we are
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0200/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0201/" type="sheet"/>
@@ -646,14 +647,14 @@ for any purpose, even commercially.</p>
                   - 10 -
                </p>
                <p>
-                  on the subject of translation<unclear>s</unclear>  you rightly say that<lb/>
+                  on the subject of translation<del><unclear>:</unclear></del>s  you rightly say that<lb/>
                   I have a great int<del>r</del>erest in German and Austrian literatu<unclear></unclear><lb/>
                   I may add in music as well - but I do not have to come<lb/>
                   to Austria in order to read or to hear them.<lb/>
-                  You see f<del>e<unclear></unclear>o</del><unclear>rom</unclear> all <del>the above</del> this that the arguments brought<lb/>
+                  You see f<del>er<unclear>o</unclear></del><unclear>rom</unclear> all <del>the above</del> this that the arguments brought<lb/>
                   forward by you for subjecting me to payment of income tax are not<lb/>
                   valid.  The most pertinent argument against it is that in the<lb/>
-                  course of one year I always stay under six months in Austri<unclear>sa</unclear><lb/>
+                  course of one year I always stay under six months in Austri<del>sa</del><unclear>aa</unclear><lb/>
                   and never spend more than three months here consecutively.<lb/>
                   A word in conclusion: if this in my view entirely unjustifiable<lb/>
                   nonsense does not cease, I shall leave Austria never to return,<lb/>
@@ -663,8 +664,8 @@ for any purpose, even commercially.</p>
                   dimensions.<lb/>
                   W.H. Auden.
                </p>
-               <p>
-                  &#xB9; You ask why I have made over my half of our property in<lb/>
+               <p>   
+                  1 You ask why I have made over my half of our property in<lb/>
                   Kirchstetten to Mr Chester Kallman who is not related to me.<lb/>
                   Mr Kallman is my heir.  I have no children and for years past<lb/>
                   he has been my literary collaborator.  <del>s</del>Jointly, we have written<lb/>
@@ -677,9 +678,9 @@ for any purpose, even commercially.</p>
                   I, in the event of sudden death great difficulties arise for the<lb/>
                   heirs to landed property, particularly in a foreign country.
                </p>
-               <p>
-                  &#xB9; The German text was typed on a different machine, and the<lb/>
-                  separate page joined to the <unclear>De</unclear>claration.
+               <p>   
+                  1 The German text was typ<unclear>e</unclear>d on a different machine, and the<lb/>
+                  separate page joined to the <del>-D</del>D<unclear>e</unclear>claration.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0202/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0203/" type="sheet"/>
@@ -687,7 +688,7 @@ for any purpose, even commercially.</p>
                   - 11 -
                </p>
                <p>
-                  "Every day f<del>o</del>pr the past year" said Chester "I have stood<lb/>
+                  "Every day f<del>p</del>or the past year" said Chester "I have stood<lb/>
                   outside his door in the early morning, afraid to go in."<lb/>
                   This was later.  Now, Auden was dead, the voice issuing<lb/>
                   from the car radio had just said so.  A few days ago we had<lb/>
@@ -698,13 +699,13 @@ for any purpose, even commercially.</p>
                   put it off.  No, said Auden, mustn´t do that, one should stick<lb/>
                   to one´s commitments.  "And you won´t be missing much" he<lb/>
                   reassured me, "you´ve heard it all before."  We would meet again<lb/>
-                  in a few days´ time and then he would tell me all about it.  He was<lb/>
-                  not sure about the fla<del>a</del>t<del>s</del>but he would let me know in good time.<lb/>
+                  in a few days´time and then he would tell me all about it.  He was<lb/>
+                  not sure about the fla<del>as</del>t but he would let me know in good time.<lb/>
                   On 24 September he wrote a note to say that he did not need the<lb/>
                   flat, he would go to the Hotel Altenburgerhof.  The handwriting<lb/>
                   is ragged.<lb/>
                   Linz already lay far behind, the car radio went on m<del>k</del>uttering<lb/>
-                  to itself unheeded until the familiar voice of Friedrich Hee<del><unclear></unclear></del><unclear>r</unclear><lb/>
+                  to itself unheeded until the familiar voice of Friedrich Hee<del>ee</del>r<del><unclear></unclear></del>r<unclear></unclear><lb/>
                   came through, reading one of his book reviews.  It was consoling<lb/>
                   in a world where, suddenly, a signpost was missing.  W<del>j</del>hat are<lb/>
                   you howling about, I asked myself, what gives you the right to<lb/>
@@ -738,24 +739,24 @@ for any purpose, even commercially.</p>
                   you have to help me."<lb/>
                   I was introduced to the others.  Mrs. Thekla Clark and her<lb/>
                   daughter had come up from Florence as soon<del>a</del>as t<del>e</del>hey heard the<lb/>
-                  news;  there was Frau Maria Seitz, headmistress of thehigh<unclear>sc</unclear>hool;<lb/>
+                  news;  there was Frau Maria Seitz, headmistress of the high school;<lb/>
                   <del>in Kirchstetten, the mayor Herr Enzinger</del> Herr Enzinger the mayor<lb/>
-                  of Kirchstetten, <del>a</del>thefilm scriptwriter Adolf Opel, and the young men.<lb/>
+                  of Kirchstetten, <del>a</del>the film scriptwriter Adolf Opel, and the young men.<lb/>
                   Clearly, the meeting to discuss the funeral arra<del>n</del>ggements was<lb/>
                   not proceeding smoothly.  The mayor looked annoyed, Frau Seitz<lb/>
                   looked worried and Mrs Clark bewildered.  There were, of course,<lb/>
                   language difficulties.  Mayor Enzinger spoke not a word of<lb/>
-                  <del>C</del>English and the Clarks no German, while the headmistress had a<lb/>
+                  <del><unclear>G</unclear></del>English and the Clarks no German, while the headmistress had a<lb/>
                   certain command of English but did not feel up to acting as<lb/>
-                  interpreter and adviser in one;  Chester´a German was perfect<del>l</del>ky<lb/>
+                  interpreter and adviser in one;  Chester´a German was perfect<del>k</del><unclear>l</unclear>y<lb/>
                   adequate.<lb/>
                   The root of the problem lay on a deeper level, where two<lb/>
                   separate cultures collided head on.  Chester was barely coherent,<lb/>
                   but he managed to explain his point of view.  He loathed, from<lb/>
                   the bottom of his hearteverything in the way of pompes funèbres.<lb/>
-                  He wanted to bury Aud<del>s</del>en, he said, quietly and privately and, if<lb/>
+                  He wanted to bury Aud<del>s</del><unclear>e</unclear>n, he said, quietly and privately and, if<lb/>
                   it could possibly be managed, on Tuesday.  He had already informed<lb/>
-                  Wyst<del>s</del>an´s brother Dr. John Auden, Stephen Spender and <unclear>o</unclear><del>s</del>thers<lb/>
+                  Wyst<del>s</del>an´s brother Dr. John Auden, Stephen Spender and <del>os</del>others<lb/>
                   of the arran<del>t</del>gements and asked them to arrive, if not tomorrow,<lb/>
                   then on Tuesday morning at the latest.  On the other hand the<lb/>
                   mayor of Kirchstetten, he went on, wanted to lay on a really big<lb/>
@@ -787,7 +788,7 @@ for any purpose, even commercially.</p>
                   some of us.  To him, an <del>E</del>American of Jewish origin and a non-believer,<lb/>
                   the whole pomp and circumstance of a traditional Austrian funeral<lb/>
                   was abhorrent.  Where prominent personages are concerned, there<lb/>
-                  would certainly be the local brass band, and where appropria<unclear>te</unclear> delegations representing<lb/>
+                  would certainly be the local brass band, and where appropr<unclear>i</unclear>a<unclear>te</unclear> delegations representing<lb/>
                   the voluntary fire brigade, the federal railways, the veterans´<lb/>
                   association and others besides, and the gamekeepers would blow<lb/>
                   their horns and wish him good hunting in the Elysian fields.<lb/>
@@ -803,7 +804,7 @@ for any purpose, even commercially.</p>
                   by a hearty meal at the inn where he had so often <del>had</del>ate his l<del>i</del>unch.<lb/>
                   As it turned out, Chester got no marks in local opinion for this<lb/>
                   finale either, as the meal consisted of Leberkäs with vegetables:<lb/>
-                  This consisted of fried slices off a loaf of a flabby substance which is neither liver nor cheese related to the<lb/>
+                  <unclear>T</unclear>his consisted of fried slices off a loaf of a flabby substance which is neither liver nor cheese related to the<lb/>
                   Frankfurter sausage.  It is a<lb/>
                   homely, juicy meal all too familiar to every Austrian;  a<del>b</del>nd it is<lb/>
                   cheap.<del>n</del> There would be <del>mkuc</del> much talk of this also after all was ove<unclear>r</unclear><lb/>
@@ -825,12 +826,12 @@ for any purpose, even commercially.</p>
                   was also the matter of the church service and the prayers at the<lb/>
                   graveside.  Many people in Akustria had assumed Auden to be of the<lb/>
                   Roman Catholic faith;  he had of course remained <del>-</del>a:<del>s</del>member of the<lb/>
-                  Anglican and Episcopalian chur<unclear>ch</unclear>e<del>e</del>s.  The misunderstanding arose<lb/>
+                  Anglican and Episcopalian churche<del><unclear>e</unclear></del>s.  The misunderstanding arose<lb/>
                   from his regular attendance at mass in the parish church and his<lb/>
                   friendly relationship with Father Lustkandl, the parish priest<lb/>
                   referred to in "Whitsunday in Kirchstetten".  Auden asked<lb/>
                   Lustkandl´s sucessor for permission to be buried in the churchyard,<lb/>
-                  and his wish was accede<del>o</del><unclear>d</unclear> to.  <unclear>E</unclear>vid<del>n</del>ently<unclear>,</unclear> <del>T</del>he nex<unclear>t</unclear> <unclear>l</unclear>ogical thing to do, then,<lb/>
+                  and his wish was accede<del>o</del><unclear>d</unclear> to.   Evid<del>n</del>ently<unclear>,</unclear> <del>T</del>the next <unclear>l</unclear>ogical thing to do, then,<lb/>
                   was to approach the chaplain to the British Embassy in Vienna,´<lb/>
                   the Revd. Bruce Duncan, and ask him to officiate.  What form of<lb/>
                   service this should be - there could be no question of a funeral<lb/>
@@ -870,18 +871,17 @@ for any purpose, even commercially.</p>
                   and the procession resumed its steady pace;  photographs exist<lb/>
                   which were taken during the brief interval.<lb/>
                   To British ears quite unremarkable, the ecumenic<del>la</del>al service<lb/>
-                  was much ta<del><unclear>I</unclear></del>oked about in A<del>uu</del>kstrian circles because nothing of the<lb/>
-                  kind had been known <del>n</del>before.  The Revd. Bruce Duncan, today Rector<lb/>
+                  was much ta<del>o</del>Iked about in A<del>ku</del>ustrian circles because nothing of the<lb/>
+                  kind had been known <del>n</del>before.  The Revd. Bruce Du<del><unclear>o</unclear></del>ncan, today Rector<lb/>
                   of Crediton in Devon, can remember little <del>more</del> about the general<lb/>
                   circumstances but confirms that he used the Book of Common Prayer<lb/>
                   and the long reading from the first <del>book</del>Letter of St.Paul to the<lb/>
-                  Corin<del>t</del>ghians, chapter 15, verses 20-58.<lb/> 
-                  Beyond that, all he recalls<lb/>
-                  <del>is the hysterical behaviour</del> is his difficulties with Chester.<lb/>
+                  Corin<del>g</del>thians, chapter 15, verses 20-58. Beyond that, all he recalls<lb/>
+                  <del>is the hysterical behaviour </del> is his difficulties with Chester.<lb/>
                   Reaching for my Authorised Version, for surely no one would<lb/>
                   have dared to use any other, on second thoughts I also took out the<lb/>
                   New Testament as translated into German by Martin Luther.  After<lb/>
-                  reading the English text through ve<del><unclear>d</unclear></del>ry slowly, and then a second<lb/>
+                  reading the English text through ve<del>d</del>ry slowly, and then a second<lb/>
                   time, I did the same with the Luther<del>n</del>an Bible and lost in thought<lb/>
                   compared the two, verse by verse.<lb/>
                   "How nice to see you" said Auden who was sitting on one of the<lb/>
@@ -897,7 +897,7 @@ for any purpose, even commercially.</p>
                   "It´s perfectly simple" said Auden.  "The initial impulse to<lb/>
                   create a secondary world is a feeling of awe aroused by encounters,<lb/>
                   in the primary world, with sacred beings or events."<lb/>
-                  "There is one glory of the sun" I heard myself say, "and
+                  "There is one glory of the sun" I heard myself say, "and<lb/>
                   another glory of the moon, and another glory of the stars:  for on
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0212/" type="sheet"/>
@@ -912,11 +912,11 @@ for any purpose, even commercially.</p>
                   that bidding rather too literally."<lb/>
                   "Who would know where that familiar quotation comes from?"<lb/>
                   I wondered.<lb/>
-                  "I would" said Auden.  "I ve been looking up the German text.<lb/>
-                  Have you ever compared the Autho<del>r</del>sized Version with Martin Luther?"<lb/>
+                  "I would" said Auden.  "I´ve been looking up the German text.<lb/>
+                  Have you ever compared the Autho<del>s</del>rized Version with Martin Luther?"<lb/>
                   "Funny you should ask that" I said.  "It´s one of the things<lb/>
-                  I forgot to talk to you about.  `Be not deceived:  evil<del>,</del>comm<del>u<unclear></unclear></del>kuica-<lb/>
-                  tions corrupt good manners.´ He renders that as <unclear>L`</unclear>asset euch nicht<lb/>
+                  I forgot to talk to you about.  `Be not deceived:  evil<del>,</del>comm<del>k<unclear>u</unclear></del>unica-<lb/>
+                  tions corrupt good manners.´ He renders that as <unclear>`L</unclear>asset euch nicht<lb/>
                   verführen!  Böse Geschwätze verderben gute Sitten.´"<lb/>
                   "Very neat" said Auden happily.  I like `evil chatter´<lb/>
                   better than `comm<del>k</del>unications´."<lb/>
@@ -925,7 +925,7 @@ for any purpose, even commercially.</p>
                   verse Luther seems to flounder.  `Werdet doch einmal recht nüchtern<lb/>
                   und sündiget nicht!<unclear>´"</unclear> Do be a bit sober for once, he pleads.  And<lb/>
                   sin not.  King James´s translators fancied that St Paul cried out<lb/>
-                  <unclear>S`</unclear>Awake to righteousness!"<lb/>
+                  <del><del>S</del>s</del>`Awake to righteousness!"<lb/>
                   "Who knows what he really said."<lb/>
                   "Luther´s language is very fine as he reaches the clim<del>x</del>ax:<lb/>
                   `Siehe, ich sage euch ein Geheimnis... ´"<lb/>
