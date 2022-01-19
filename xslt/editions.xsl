@@ -99,7 +99,7 @@
                                          <xsl:for-each select="//tei:div[@xml:id='transcription']">
                                              <xsl:for-each-group select="*" group-starting-with="tei:pb">
                                                  <div class="container-resize transcript row" style="padding:0 1em;">
-                                                     <div class="text-resize col-md-9" style="padding:0!important;">  
+                                                     <div class="text-resize col-md-8" style="padding:0!important;">  
                                                          <!--<hr/>-->
                                                          <div class="card-body">                                                                                                                                                                                       
                                                             <xsl:for-each select="current-group()[self::tei:p]">
@@ -128,21 +128,23 @@
                                                          <!--<hr/> -->                                             
                                                          <xsl:variable name="osd_container_id" select="concat(@type, '_container_', generate-id())"/>
                                                          <xsl:variable name="osd_container_id2" select="concat(@type, '_container2_', generate-id())"/>
-                                                         <div id="{$osd_container_id}" style="padding:.5em;">
-                                                             <!-- image container accessed by OSD script -->
-                                                             <script type="text/javascript" src="js/osd_single.js"></script>
-                                                             <div id="{$osd_container_id2}">
-                                                                 <xsl:if test="@facs">    
-                                                                     <xsl:variable name="iiif-ext" select="'full/full/0/default.jpg'"/> 
-                                                                     <xsl:variable name="facs_id" select="concat(@type, '_img_', generate-id())"/>
-                                                                     <img id="{$facs_id}" onload="load_image('{$facs_id}','{$osd_container_id}','{$osd_container_id2}')">
-                                                                         <xsl:attribute name="src">
-                                                                             <xsl:value-of select="concat(@facs , $iiif-ext)"/>
-                                                                         </xsl:attribute>
-                                                                     </img>                                                                
-                                                                 </xsl:if>                                
-                                                             </div>                                
-                                                         </div>                                                                                                                  
+                                                         <div class="viewer">
+                                                            <div id="{$osd_container_id}" style="padding:.5em;">
+                                                                <!-- image container accessed by OSD script -->
+                                                                <script type="text/javascript" src="js/osd_single.js"></script>
+                                                                <div id="{$osd_container_id2}">
+                                                                    <xsl:if test="@facs">    
+                                                                        <xsl:variable name="iiif-ext" select="'full/full/0/default.jpg'"/> 
+                                                                        <xsl:variable name="facs_id" select="concat(@type, '_img_', generate-id())"/>
+                                                                        <img id="{$facs_id}" onload="load_image('{$facs_id}','{$osd_container_id}','{$osd_container_id2}')">
+                                                                            <xsl:attribute name="src">
+                                                                                <xsl:value-of select="concat(@facs , $iiif-ext)"/>
+                                                                            </xsl:attribute>
+                                                                        </img>                                                                
+                                                                    </xsl:if>                                
+                                                                </div>                                
+                                                            </div>  
+                                                         </div>
                                                      </div>
                                                      <!--<script type="text/javascript">
                                                          $('.img-expand').click(function() {

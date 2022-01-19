@@ -6,7 +6,7 @@ $(function () {
         left = $('.text-resize'),
         right = $('.img-resize'),
         handle = $('.img-expand');
-        viewer = $('.img-resize').children('div');
+        viewer = $('.viewer').children('div');
 
     handle.on('mousedown', function (e) {
         isResizing = true;
@@ -19,11 +19,11 @@ $(function () {
             return;
 
         var offsetRight = container.width() - (e.clientX - container.offset().left);
-        console.log(offsetRight);
 
         left.css('max-width', container.width() - offsetRight);
         right.css('max-width', offsetRight);
         viewer.css('width', offsetRight);
+        viewer.css('height', 400 + offsetRight);
 
     }).on('mouseup', function (e) {
         // stop resizing
