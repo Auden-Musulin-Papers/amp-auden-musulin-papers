@@ -4,7 +4,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema"
     version="2.0" exclude-result-prefixes="xsl tei xs">
-    <xsl:output encoding="UTF-8" media-type="text/html" method="xhtml" version="1.0" indent="yes" omit-xml-declaration="yes"/>
+    <xsl:output encoding="UTF-8" media-type="text/html" method="xhtml" version="1.0" indent="no" omit-xml-declaration="yes"/>
     
     <xsl:import href="./partials/html_navbar.xsl"/>
     <xsl:import href="./partials/html_head.xsl"/>
@@ -42,6 +42,16 @@
                         <xsl:value-of select="//tei:titleStmt/tei:title[@level='a']"/>
                     </xsl:attribute>
                 </meta>
+                <style>
+                    .text-resize::before {
+                        content: '';
+                        background-color: #ccc;
+                        right: 0;
+                        width: 4px;
+                        height: 100%;
+                        position:absolute;
+                    }
+                </style>
             </head>
             <body class="page">
                 <div class="hfeed site" id="page">
@@ -88,12 +98,12 @@
                                      <div class="card-body">                                
                                          <xsl:for-each select="//tei:div[@xml:id='transcription']">
                                              <xsl:for-each-group select="*" group-starting-with="tei:pb">
-                                                 <div class="transcript row" style="padding:0 1em;">
-                                                     <div class="col-md-6" style="padding:0!important;">  
-                                                         <hr/>
+                                                 <div class="container-resize transcript row" style="padding:0 1em;">
+                                                     <div class="col-md-9 text-resize" style="padding:0!important;">  
+                                                         <!--<hr/>-->
                                                          <div class="card-body">                                                                                                                                                                                       
                                                             <xsl:for-each select="current-group()[self::tei:p]">
-                                                                <p>
+                                                                <p style="white-space:pre-wrap;line-height:14px;margin-left:-6em;">
                                                                    <xsl:apply-templates>
                                                                        <xsl:with-param name="view" select="'diplomatic'"/>
                                                                    </xsl:apply-templates>
@@ -101,8 +111,17 @@
                                                             </xsl:for-each>
                                                          </div>
                                                      </div>
-                                                     <div class="col-md-6" style="padding:0!important;">
-                                                         <hr/>                                              
+                                                     <div class="col-md-3 img-resize">
+                                                         <div id="expand-wrapper">
+                                                             <svg class="img-expand bi bi-arrows-angle-expand" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+                                                                 <path fill-rule="evenodd" d="M5.828 10.172a.5.5 0 0 0-.707 0l-4.096 4.096V11.5a.5.5 0 0 0-1 0v3.975a.5.5 0 0 0 .5.5H4.5a.5.5 0 0 0 0-1H1.732l4.096-4.096a.5.5 0 0 0 0-.707zm4.344-4.344a.5.5 0 0 0 .707 0l4.096-4.096V4.5a.5.5 0 1 0 1 0V.525a.5.5 0 0 0-.5-.5H11.5a.5.5 0 0 0 0 1h2.768l-4.096 4.096a.5.5 0 0 0 0 .707z"/>
+                                                             </svg>
+                                                             <svg class="img-decrease bi bi-arrows-angle-contract" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+                                                                 <path fill-rule="evenodd" d="M.172 15.828a.5.5 0 0 0 .707 0l4.096-4.096V14.5a.5.5 0 1 0 1 0v-3.975a.5.5 0 0 0-.5-.5H1.5a.5.5 0 0 0 0 1h2.768L.172 15.121a.5.5 0 0 0 0 .707zM15.828.172a.5.5 0 0 0-.707 0l-4.096 4.096V1.5a.5.5 0 1 0-1 0v3.975a.5.5 0 0 0 .5.5H14.5a.5.5 0 0 0 0-1h-2.768L15.828.879a.5.5 0 0 0 0-.707z"/>
+                                                             </svg>
+                                                             <p><small>Größe ändern</small></p>
+                                                         </div>
+                                                         <!--<hr/> -->                                             
                                                          <xsl:variable name="osd_container_id" select="concat(@type, '_container_', generate-id())"/>
                                                          <xsl:variable name="osd_container_id2" select="concat(@type, '_container2_', generate-id())"/>
                                                          <div id="{$osd_container_id}" style="padding:.5em;">
@@ -119,8 +138,42 @@
                                                                      </img>                                                                
                                                                  </xsl:if>                                
                                                              </div>                                
-                                                         </div>
+                                                         </div>                                                                                                                  
                                                      </div>
+                                                     <script type="text/javascript">
+                                                         $('.img-expand').click(function() {
+                                                            $('.text-resize').removeClass('col-md-9').addClass('col-md-6');
+                                                            $('.img-resize').removeClass('col-md-3').addClass('col-md-6');
+                                                            $('.img-expand').css('display','none');
+                                                            $('.img-decrease').css('display','block');
+                                                         });
+                                                         $('.img-decrease').click(function() {
+                                                            $('.text-resize').removeClass('col-md-6').addClass('col-md-9');
+                                                            $('.img-resize').removeClass('col-md-6').addClass('col-md-3');
+                                                            $('.img-expand').css('display','block');
+                                                            $('.img-decrease').css('display','none');
+                                                         });
+                                                     </script>                                                     
+                                                     <!--<div class="col-md-6" style="padding:0!important;">
+                                                         <hr/>                                              
+                                                         <xsl:variable name="osd_container_id" select="concat(@type, '_container_', generate-id())"/>
+                                                         <xsl:variable name="osd_container_id2" select="concat(@type, '_container2_', generate-id())"/>
+                                                         <div id="{$osd_container_id}" style="padding:.5em;">
+                                                             <!-\- image container accessed by OSD script -\->
+                                                             <script type="text/javascript" src="js/osd_single.js"></script>
+                                                             <div id="{$osd_container_id2}">
+                                                                 <xsl:if test="@facs">    
+                                                                     <xsl:variable name="iiif-ext" select="'full/full/0/default.jpg'"/> 
+                                                                     <xsl:variable name="facs_id" select="concat(@type, '_img_', generate-id())"/>
+                                                                     <img id="{$facs_id}" onload="load_image('{$facs_id}','{$osd_container_id}','{$osd_container_id2}')">
+                                                                         <xsl:attribute name="src">
+                                                                             <xsl:value-of select="concat(@facs , $iiif-ext)"/>
+                                                                         </xsl:attribute>
+                                                                     </img>                                                                
+                                                                 </xsl:if>                                
+                                                             </div>                                
+                                                         </div>
+                                                     </div>-->
                                                  </div>
                                              </xsl:for-each-group>                                             
                                          </xsl:for-each>
@@ -148,7 +201,7 @@
                                             <xsl:for-each-group select="*" group-starting-with="tei:pb">
                                                 <hr/>                                                                                                                                   
                                                 <xsl:for-each select="current-group()[self::tei:p]">
-                                                    <p>
+                                                    <p style="white-space:pre-wrap;line-height:14px;margin-left:-4em;">                                                        
                                                         <xsl:apply-templates>
                                                             <xsl:with-param name="view" select="'commentary'"/>
                                                         </xsl:apply-templates>

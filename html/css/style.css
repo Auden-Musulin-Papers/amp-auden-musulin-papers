@@ -54,6 +54,11 @@ div.dataTables_filter {
     border-color: #615a60;
 }
 
+.row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
 /**** Font Aweseome ***/
 .far {
     font-family: "Font Awesome 5 Free" !important;
@@ -358,6 +363,27 @@ fieldset.ssFieldset > span > input {
   margin: .5em;
   background: #fff;
   height: auto;
+}
+
+/* expanding and descreasing osd images */
+.expand-wrapper {
+    margin: 1em;
+}
+
+.img-expand:hover {
+    transform: scale(1.2);
+}
+
+.img-decrease:hover {
+    transform: scale(.8);
+}
+
+.img-expand {
+    display:block;
+}
+
+.img-decrease {
+    display:none;
 }
 
 /* XML raw style */
