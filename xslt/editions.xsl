@@ -95,30 +95,34 @@
                             </div>
                             <div class="tab-content">
                                  <div class="tab-pane active" id="diplomatic-tab" tabindex="-1">                                     
-                                     <div class="card-body">                                
+                                     <div class="card-body">                                         
                                          <xsl:for-each select="//tei:div[@xml:id='transcription']">
                                              <xsl:for-each-group select="*" group-starting-with="tei:pb">
                                                  <div class="container-resize transcript row" style="padding:0 1em;">
-                                                     <div class="col-md-9 text-resize" style="padding:0!important;">  
+                                                     <div class="text-resize col-md-9" style="padding:0!important;">  
                                                          <!--<hr/>-->
                                                          <div class="card-body">                                                                                                                                                                                       
                                                             <xsl:for-each select="current-group()[self::tei:p]">
-                                                                <p style="white-space:pre-wrap;line-height:14px;margin-left:-6em;">
+                                                                <p>
                                                                    <xsl:apply-templates>
                                                                        <xsl:with-param name="view" select="'diplomatic'"/>
                                                                    </xsl:apply-templates>
                                                                 </p>
                                                             </xsl:for-each>
                                                          </div>
-                                                     </div>
-                                                     <div class="col-md-3 img-resize">
-                                                         <div id="expand-wrapper">
-                                                             <svg class="img-expand bi bi-arrows-angle-expand" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+                                                     </div>                                                     
+                                                     <div class="img-resize col-md-3">
+                                                         <div id="expand-wrapper" style="cursor:col-resize;">
+                                                             <!--<svg class="img-expand bi bi-arrows-angle-expand" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
                                                                  <path fill-rule="evenodd" d="M5.828 10.172a.5.5 0 0 0-.707 0l-4.096 4.096V11.5a.5.5 0 0 0-1 0v3.975a.5.5 0 0 0 .5.5H4.5a.5.5 0 0 0 0-1H1.732l4.096-4.096a.5.5 0 0 0 0-.707zm4.344-4.344a.5.5 0 0 0 .707 0l4.096-4.096V4.5a.5.5 0 1 0 1 0V.525a.5.5 0 0 0-.5-.5H11.5a.5.5 0 0 0 0 1h2.768l-4.096 4.096a.5.5 0 0 0 0 .707z"/>
+                                                             </svg>-->
+                                                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="img-expand bi bi-aspect-ratio" viewBox="0 0 16 16">
+                                                                 <path d="M0 3.5A1.5 1.5 0 0 1 1.5 2h13A1.5 1.5 0 0 1 16 3.5v9a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 12.5v-9zM1.5 3a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-13z"/>
+                                                                 <path d="M2 4.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1H3v2.5a.5.5 0 0 1-1 0v-3zm12 7a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1 0-1H13V8.5a.5.5 0 0 1 1 0v3z"/>
                                                              </svg>
-                                                             <svg class="img-decrease bi bi-arrows-angle-contract" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
-                                                                 <path fill-rule="evenodd" d="M.172 15.828a.5.5 0 0 0 .707 0l4.096-4.096V14.5a.5.5 0 1 0 1 0v-3.975a.5.5 0 0 0-.5-.5H1.5a.5.5 0 0 0 0 1h2.768L.172 15.121a.5.5 0 0 0 0 .707zM15.828.172a.5.5 0 0 0-.707 0l-4.096 4.096V1.5a.5.5 0 1 0-1 0v3.975a.5.5 0 0 0 .5.5H14.5a.5.5 0 0 0 0-1h-2.768L15.828.879a.5.5 0 0 0 0-.707z"/>
-                                                             </svg>
+                                                             <!--<svg class="img-decrease bi bi-arrows-angle-contract" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
+                                                             <path fill-rule="evenodd" d="M.172 15.828a.5.5 0 0 0 .707 0l4.096-4.096V14.5a.5.5 0 1 0 1 0v-3.975a.5.5 0 0 0-.5-.5H1.5a.5.5 0 0 0 0 1h2.768L.172 15.121a.5.5 0 0 0 0 .707zM15.828.172a.5.5 0 0 0-.707 0l-4.096 4.096V1.5a.5.5 0 1 0-1 0v3.975a.5.5 0 0 0 .5.5H14.5a.5.5 0 0 0 0-1h-2.768L15.828.879a.5.5 0 0 0 0-.707z"/>
+                                                         </svg>-->
                                                              <p><small>Größe ändern</small></p>
                                                          </div>
                                                          <!--<hr/> -->                                             
@@ -140,7 +144,7 @@
                                                              </div>                                
                                                          </div>                                                                                                                  
                                                      </div>
-                                                     <script type="text/javascript">
+                                                     <!--<script type="text/javascript">
                                                          $('.img-expand').click(function() {
                                                             $('.text-resize').removeClass('col-md-9').addClass('col-md-6');
                                                             $('.img-resize').removeClass('col-md-3').addClass('col-md-6');
@@ -153,7 +157,7 @@
                                                             $('.img-expand').css('display','block');
                                                             $('.img-decrease').css('display','none');
                                                          });
-                                                     </script>                                                     
+                                                     </script>-->                                                     
                                                      <!--<div class="col-md-6" style="padding:0!important;">
                                                          <hr/>                                              
                                                          <xsl:variable name="osd_container_id" select="concat(@type, '_container_', generate-id())"/>
@@ -201,7 +205,7 @@
                                             <xsl:for-each-group select="*" group-starting-with="tei:pb">
                                                 <hr/>                                                                                                                                   
                                                 <xsl:for-each select="current-group()[self::tei:p]">
-                                                    <p style="white-space:pre-wrap;line-height:14px;margin-left:-4em;">                                                        
+                                                    <p>                                                        
                                                         <xsl:apply-templates>
                                                             <xsl:with-param name="view" select="'commentary'"/>
                                                         </xsl:apply-templates>
@@ -225,6 +229,7 @@
                     </div>
                     <xsl:call-template name="html_footer"/>
                 </div>
+                <script type="text/javascript" src="js/resize.js"></script>
             </body>
         </html>
     </xsl:template>

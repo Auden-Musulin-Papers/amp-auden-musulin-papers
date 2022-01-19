@@ -20,6 +20,8 @@ var viewer = OpenSeadragon({
     showReferenceStrip: true,
     showNavigator: true,
     imageLoaderLimit: 10,
+    autoResize: true,
+    preserveImageSizeOnResize: true,
     tileSources: tileSources
 });
 $('#non-OSD-images').remove();
