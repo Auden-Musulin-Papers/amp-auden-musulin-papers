@@ -398,6 +398,10 @@ fieldset.ssFieldset > span > input {
     display:block;    
 }
 
+.pagination .nav .nav-item .nav-link {
+
+}
+
 .pagination .nav {
     display: inline-flex !important;
     border: 1px solid #b59890;

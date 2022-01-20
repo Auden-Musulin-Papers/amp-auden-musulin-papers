@@ -111,15 +111,28 @@
                                                             <li class="nav-item">
                                                                 <a
                                                                     title="{position()}"
-                                                                    class="nav-link btn btn-round btn-backlink active"
+                                                                    class="nav-link active"
                                                                     data-toggle="tab"
                                                                     href="#diplomatic-paginate-{position()}"
-                                                                    ><xsl:value-of select="position()"/> 
+                                                                    style="border-radius:30px;">
+                                                                    <xsl:value-of select="position()"/> 
                                                                 </a>                                                    
                                                             </li>
                                                         </xsl:when>
-                                                        <xsl:otherwise>
+                                                        <xsl:when test="position() = [1,2,3,4,5,6,7,8,9]">
                                                             <li class="nav-item">
+                                                                <a
+                                                                    title="{position()}"
+                                                                    class="nav-link"
+                                                                    data-toggle="tab"
+                                                                    href="#diplomatic-paginate-{position()}"
+                                                                    style="border-radius:30px;">
+                                                                    <xsl:value-of select="position()"/> 
+                                                                </a>                                                    
+                                                            </li>
+                                                        </xsl:when>                                                        
+                                                        <xsl:otherwise>
+                                                            <!--<li class="nav-item" style="display:none;">
                                                                 <a
                                                                     title="{position()}"
                                                                     class="nav-link btn btn-round btn-backlink"
@@ -127,11 +140,41 @@
                                                                     href="#diplomatic-paginate-{position()}"
                                                                     ><xsl:value-of select="position()"/> 
                                                                 </a>                                                    
-                                                            </li>
+                                                            </li>-->
                                                         </xsl:otherwise>
-                                                    </xsl:choose>
-                                                                                                         
-                                                </xsl:for-each>                                                 
+                                                    </xsl:choose>                                                                                                        
+                                                </xsl:for-each>
+                                                <li class="nav-item dropdown">
+                                                    <a
+                                                        title="more"
+                                                        href="#"
+                                                        data-toggle="dropdown"
+                                                        class="nav-link dropdown-toggle"
+                                                        style="border-radius:30px;"
+                                                        >
+                                                        more <span class="caret"></span>
+                                                    </a>
+                                                    <ul class="dropdown-menu" role="menu">
+                                                        <xsl:for-each select="$vseq">
+                                                            <xsl:choose>
+                                                                <xsl:when test="position() > 9">
+                                                                    <li
+                                                                        class="nav-item dropdown-submenu"
+                                                                        style="display:inline-block;">
+                                                                        <a
+                                                                            title="{position()}"
+                                                                            href="#diplomatic-paginate-{position()}"
+                                                                            class="nav-link"
+                                                                            data-toggle="tab"
+                                                                            style="border-radius:30px;">
+                                                                            <xsl:value-of select="position()"/>
+                                                                        </a>
+                                                                    </li>
+                                                                </xsl:when>
+                                                            </xsl:choose>
+                                                        </xsl:for-each>                                                                                                                
+                                                    </ul>                                
+                                                </li>                                                
                                             </ul>
                                          </div>
                                          <div class="tab-content">
@@ -157,7 +200,7 @@
                                                                          <path d="M0 3.5A1.5 1.5 0 0 1 1.5 2h13A1.5 1.5 0 0 1 16 3.5v9a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 12.5v-9zM1.5 3a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-13z"/>
                                                                          <path d="M2 4.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1H3v2.5a.5.5 0 0 1-1 0v-3zm12 7a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1 0-1H13V8.5a.5.5 0 0 1 1 0v3z"/>
                                                                      </svg>
-                                                                     <p><small>Größe ändern</small></p>
+                                                                     <p><small>change size</small></p>
                                                                  </div>
                                                                  <!--<hr/> -->                                             
                                                                  <xsl:variable name="osd_container_id" select="concat(@type, '_container_', generate-id())"/>
@@ -203,7 +246,7 @@
                                                                          <path d="M0 3.5A1.5 1.5 0 0 1 1.5 2h13A1.5 1.5 0 0 1 16 3.5v9a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 12.5v-9zM1.5 3a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-13z"/>
                                                                          <path d="M2 4.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1H3v2.5a.5.5 0 0 1-1 0v-3zm12 7a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1 0-1H13V8.5a.5.5 0 0 1 1 0v3z"/>
                                                                      </svg>
-                                                                     <p><small>Größe ändern</small></p>
+                                                                     <p><small>change size</small></p>
                                                                  </div>
                                                                  <!--<hr/> -->                                             
                                                                  <xsl:variable name="osd_container_id" select="concat(@type, '_container_', generate-id())"/>
