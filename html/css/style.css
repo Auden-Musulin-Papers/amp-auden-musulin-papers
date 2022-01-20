@@ -510,6 +510,10 @@ fieldset.ssFieldset > span > input {
     .expand-wrapper {
         display: none;
     }
+    .pagination .nav {        
+        margin: 0 1em;
+        margin-bottom:-2px;
+    }
 }
 
 /* Medium devices (tablets, 768px and up) */
