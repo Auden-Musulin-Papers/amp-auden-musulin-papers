@@ -284,7 +284,7 @@
                                             name="vseq" 
                                             select="//tei:pb" 
                                             as="item()*"/>
-                                        <div class="text-center pagination">                                            
+                                        <div class="text-center pagination">
                                             <ul class="nav nav-tabs">
                                                 <xsl:for-each select="$vseq">
                                                     <xsl:choose>
@@ -292,27 +292,71 @@
                                                             <li class="nav-item">
                                                                 <a
                                                                     title="{position()}"
-                                                                    class="nav-link btn btn-round btn-backlink active"
+                                                                    class="nav-link active"
                                                                     data-toggle="tab"
                                                                     href="#reading-paginate-{position()}"
-                                                                    ><xsl:value-of select="position()"/> 
+                                                                    style="border-radius:30px;">
+                                                                    <xsl:value-of select="position()"/> 
                                                                 </a>                                                    
                                                             </li>
                                                         </xsl:when>
-                                                        <xsl:otherwise>
+                                                        <xsl:when test="position() = [1,2,3,4,5,6,7,8,9]">
                                                             <li class="nav-item">
+                                                                <a
+                                                                    title="{position()}"
+                                                                    class="nav-link"
+                                                                    data-toggle="tab"
+                                                                    href="#reading-paginate-{position()}"
+                                                                    style="border-radius:30px;">
+                                                                    <xsl:value-of select="position()"/> 
+                                                                </a>                                                    
+                                                            </li>
+                                                        </xsl:when>                                                        
+                                                        <xsl:otherwise>
+                                                            <!--<li class="nav-item" style="display:none;">
                                                                 <a
                                                                     title="{position()}"
                                                                     class="nav-link btn btn-round btn-backlink"
                                                                     data-toggle="tab"
-                                                                    href="#reading-paginate-{position()}"
+                                                                    href="#diplomatic-paginate-{position()}"
                                                                     ><xsl:value-of select="position()"/> 
                                                                 </a>                                                    
-                                                            </li>
+                                                            </li>-->
                                                         </xsl:otherwise>
-                                                    </xsl:choose>
+                                                    </xsl:choose>                                                                                                        
                                                 </xsl:for-each>
-                                            </ul> 
+                                                <li class="nav-item dropdown">
+                                                    <a
+                                                        title="more"
+                                                        href="#"
+                                                        data-toggle="dropdown"
+                                                        class="nav-link dropdown-toggle"
+                                                        style="border-radius:30px;"
+                                                        >
+                                                        more <span class="caret"></span>
+                                                    </a>
+                                                    <ul class="dropdown-menu" role="menu">
+                                                        <xsl:for-each select="$vseq">
+                                                            <xsl:choose>
+                                                                <xsl:when test="position() > 9">
+                                                                    <li
+                                                                        class="nav-item dropdown-submenu"
+                                                                        style="display:inline-block;">
+                                                                        <a
+                                                                            title="{position()}"
+                                                                            href="#reading-paginate-{position()}"
+                                                                            class="nav-link"
+                                                                            data-toggle="tab"
+                                                                            style="border-radius:30px;">
+                                                                            <xsl:value-of select="position()"/>
+                                                                        </a>
+                                                                    </li>
+                                                                </xsl:when>
+                                                            </xsl:choose>
+                                                        </xsl:for-each>                                                                                                                
+                                                    </ul>                                
+                                                </li>                                                
+                                            </ul>
                                         </div>
                                         <div class="tab-content">
                                             <xsl:for-each-group select="*" group-starting-with="tei:pb">                                                
@@ -362,26 +406,70 @@
                                                             <li class="nav-item">
                                                                 <a
                                                                     title="{position()}"
-                                                                    class="nav-link btn btn-round btn-backlink active"
+                                                                    class="nav-link active"
                                                                     data-toggle="tab"
                                                                     href="#commentary-paginate-{position()}"
-                                                                    ><xsl:value-of select="position()"/> 
+                                                                    style="border-radius:30px;">
+                                                                    <xsl:value-of select="position()"/> 
                                                                 </a>                                                    
                                                             </li>
                                                         </xsl:when>
-                                                        <xsl:otherwise>
+                                                        <xsl:when test="position() = [1,2,3,4,5,6,7,8,9]">
                                                             <li class="nav-item">
+                                                                <a
+                                                                    title="{position()}"
+                                                                    class="nav-link"
+                                                                    data-toggle="tab"
+                                                                    href="#commentary-paginate-{position()}"
+                                                                    style="border-radius:30px;">
+                                                                    <xsl:value-of select="position()"/> 
+                                                                </a>                                                    
+                                                            </li>
+                                                        </xsl:when>                                                        
+                                                        <xsl:otherwise>
+                                                            <!--<li class="nav-item" style="display:none;">
                                                                 <a
                                                                     title="{position()}"
                                                                     class="nav-link btn btn-round btn-backlink"
                                                                     data-toggle="tab"
-                                                                    href="#commentary-paginate-{position()}"
+                                                                    href="#diplomatic-paginate-{position()}"
                                                                     ><xsl:value-of select="position()"/> 
                                                                 </a>                                                    
-                                                            </li>
+                                                            </li>-->
                                                         </xsl:otherwise>
-                                                    </xsl:choose>
+                                                    </xsl:choose>                                                                                                        
                                                 </xsl:for-each>
+                                                <li class="nav-item dropdown">
+                                                    <a
+                                                        title="more"
+                                                        href="#"
+                                                        data-toggle="dropdown"
+                                                        class="nav-link dropdown-toggle"
+                                                        style="border-radius:30px;"
+                                                        >
+                                                        more <span class="caret"></span>
+                                                    </a>
+                                                    <ul class="dropdown-menu" role="menu">
+                                                        <xsl:for-each select="$vseq">
+                                                            <xsl:choose>
+                                                                <xsl:when test="position() > 9">
+                                                                    <li
+                                                                        class="nav-item dropdown-submenu"
+                                                                        style="display:inline-block;">
+                                                                        <a
+                                                                            title="{position()}"
+                                                                            href="#commentary-paginate-{position()}"
+                                                                            class="nav-link"
+                                                                            data-toggle="tab"
+                                                                            style="border-radius:30px;">
+                                                                            <xsl:value-of select="position()"/>
+                                                                        </a>
+                                                                    </li>
+                                                                </xsl:when>
+                                                            </xsl:choose>
+                                                        </xsl:for-each>                                                                                                                
+                                                    </ul>                                
+                                                </li>                                                
                                             </ul>
                                         </div>                                             
                                         <div class="tab-content">
