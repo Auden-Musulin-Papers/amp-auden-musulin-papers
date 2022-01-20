@@ -29,6 +29,7 @@
         <script type="text/javascript" src="dist/fundament/vendor/jquery/jquery.min.js"></script>
         <script type="text/javascript" src="dist/fundament/js/fundament.min.js"></script>
         <script src="https://unpkg.com/arche-api@1.2.0/lib/arche-api.min.js"/>
-        <!--<script src="js/arche-api.min.js"/>-->        
+        <!--<script src="js/arche-api.min.js"/>--> 
+        <script type="text/javascript" src="js/resize.js"></script>
     </xsl:template>
 </xsl:stylesheet>

@@ -43,7 +43,10 @@
                     </xsl:attribute>
                 </meta>
                 <style>
-                    .text-resize::before {
+                    .transcript {
+                        padding: 1em 0;
+                    }
+                    .text-re::before {
                         content: '';
                         background-color: #ccc;
                         right: 0;
@@ -95,127 +98,282 @@
                             </div>
                             <div class="tab-content">
                                  <div class="tab-pane active" id="diplomatic-tab" tabindex="-1">                                     
-                                     <div class="card-body">                                         
-                                         <xsl:for-each select="//tei:div[@xml:id='transcription']">
-                                             <xsl:for-each-group select="*" group-starting-with="tei:pb">
-                                                 <div class="container-resize transcript row" style="padding:0 1em;">
-                                                     <div class="text-resize col-md-8" style="padding:0!important;">  
-                                                         <!--<hr/>-->
-                                                         <div class="card-body">                                                                                                                                                                                       
-                                                            <xsl:for-each select="current-group()[self::tei:p]">
-                                                                <p>
-                                                                   <xsl:apply-templates>
-                                                                       <xsl:with-param name="view" select="'diplomatic'"/>
-                                                                   </xsl:apply-templates>
-                                                                </p>
-                                                            </xsl:for-each>
+                                     <xsl:for-each select="//tei:div[@xml:id='transcription']">                                             
+                                         <xsl:variable 
+                                             name="vseq" 
+                                             select="//tei:pb" 
+                                             as="item()*"/>
+                                         <div class="text-center pagination">
+                                            <ul class="nav nav-tabs">
+                                                <xsl:for-each select="$vseq">
+                                                    <xsl:choose>
+                                                        <xsl:when test="position() = 1">
+                                                            <li class="nav-item">
+                                                                <a
+                                                                    title="{position()}"
+                                                                    class="nav-link btn btn-round btn-backlink active"
+                                                                    data-toggle="tab"
+                                                                    href="#diplomatic-paginate-{position()}"
+                                                                    ><xsl:value-of select="position()"/> 
+                                                                </a>                                                    
+                                                            </li>
+                                                        </xsl:when>
+                                                        <xsl:otherwise>
+                                                            <li class="nav-item">
+                                                                <a
+                                                                    title="{position()}"
+                                                                    class="nav-link btn btn-round btn-backlink"
+                                                                    data-toggle="tab"
+                                                                    href="#diplomatic-paginate-{position()}"
+                                                                    ><xsl:value-of select="position()"/> 
+                                                                </a>                                                    
+                                                            </li>
+                                                        </xsl:otherwise>
+                                                    </xsl:choose>
+                                                                                                         
+                                                </xsl:for-each>                                                 
+                                            </ul>
+                                         </div>
+                                         <div class="tab-content">
+                                         <xsl:for-each-group select="*" group-starting-with="tei:pb">                                                 
+                                             <xsl:choose>
+                                                 <xsl:when test="position() = 1">                                                         
+                                                     <div class="tab-pane active" id="diplomatic-paginate-{position()}" tabindex="-1">
+                                                         <div id="container-resize-{position()}" class="transcript row">
+                                                             <div id="text-resize-{position()}" class="text-re col-md-8">
+                                                                 <div class="card-body">                                                                                                                                                                                       
+                                                                     <xsl:for-each select="current-group()[self::tei:p]">
+                                                                         <p>
+                                                                             <xsl:apply-templates>
+                                                                                 <xsl:with-param name="view" select="'diplomatic'"/>
+                                                                             </xsl:apply-templates>
+                                                                         </p>
+                                                                     </xsl:for-each>
+                                                                 </div>
+                                                             </div>                                                     
+                                                             <div id="img-resize-{position()}" class="col-md-3">
+                                                                 <div class="expand-wrapper" style="cursor:col-resize;">
+                                                                     <svg id="img-expand-{position()}" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-aspect-ratio" viewBox="0 0 16 16">
+                                                                         <path d="M0 3.5A1.5 1.5 0 0 1 1.5 2h13A1.5 1.5 0 0 1 16 3.5v9a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 12.5v-9zM1.5 3a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-13z"/>
+                                                                         <path d="M2 4.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1H3v2.5a.5.5 0 0 1-1 0v-3zm12 7a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1 0-1H13V8.5a.5.5 0 0 1 1 0v3z"/>
+                                                                     </svg>
+                                                                     <p><small>Größe ändern</small></p>
+                                                                 </div>
+                                                                 <!--<hr/> -->                                             
+                                                                 <xsl:variable name="osd_container_id" select="concat(@type, '_container_', generate-id())"/>
+                                                                 <xsl:variable name="osd_container_id2" select="concat(@type, '_container2_', generate-id())"/>
+                                                                 <div id="viewer-{position()}">
+                                                                     <div id="{$osd_container_id}" style="padding:.5em;">
+                                                                         <!-- image container accessed by OSD script -->
+                                                                         <script type="text/javascript" src="js/osd_single.js"></script>
+                                                                         <div id="{$osd_container_id2}">
+                                                                             <xsl:if test="@facs">    
+                                                                                 <xsl:variable name="iiif-ext" select="'full/full/0/default.jpg'"/> 
+                                                                                 <xsl:variable name="facs_id" select="concat(@type, '_img_', generate-id())"/>
+                                                                                 <img id="{$facs_id}" onload="[load_image('{$facs_id}','{$osd_container_id}','{$osd_container_id2}'), $( document ).ready(resize('{position()}'))]">
+                                                                                     <xsl:attribute name="src">
+                                                                                         <xsl:value-of select="concat(@facs , $iiif-ext)"/>
+                                                                                     </xsl:attribute>
+                                                                                 </img>                                                                
+                                                                             </xsl:if>                                
+                                                                         </div>                                
+                                                                     </div>  
+                                                                 </div>
+                                                             </div>                                                                 
                                                          </div>
-                                                     </div>                                                     
-                                                     <div class="img-resize col-md-3">
-                                                         <div id="expand-wrapper" style="cursor:col-resize;">
-                                                             <!--<svg class="img-expand bi bi-arrows-angle-expand" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
-                                                                 <path fill-rule="evenodd" d="M5.828 10.172a.5.5 0 0 0-.707 0l-4.096 4.096V11.5a.5.5 0 0 0-1 0v3.975a.5.5 0 0 0 .5.5H4.5a.5.5 0 0 0 0-1H1.732l4.096-4.096a.5.5 0 0 0 0-.707zm4.344-4.344a.5.5 0 0 0 .707 0l4.096-4.096V4.5a.5.5 0 1 0 1 0V.525a.5.5 0 0 0-.5-.5H11.5a.5.5 0 0 0 0 1h2.768l-4.096 4.096a.5.5 0 0 0 0 .707z"/>
-                                                             </svg>-->
-                                                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="img-expand bi bi-aspect-ratio" viewBox="0 0 16 16">
-                                                                 <path d="M0 3.5A1.5 1.5 0 0 1 1.5 2h13A1.5 1.5 0 0 1 16 3.5v9a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 12.5v-9zM1.5 3a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-13z"/>
-                                                                 <path d="M2 4.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1H3v2.5a.5.5 0 0 1-1 0v-3zm12 7a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1 0-1H13V8.5a.5.5 0 0 1 1 0v3z"/>
-                                                             </svg>
-                                                             <!--<svg class="img-decrease bi bi-arrows-angle-contract" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" viewBox="0 0 16 16">
-                                                             <path fill-rule="evenodd" d="M.172 15.828a.5.5 0 0 0 .707 0l4.096-4.096V14.5a.5.5 0 1 0 1 0v-3.975a.5.5 0 0 0-.5-.5H1.5a.5.5 0 0 0 0 1h2.768L.172 15.121a.5.5 0 0 0 0 .707zM15.828.172a.5.5 0 0 0-.707 0l-4.096 4.096V1.5a.5.5 0 1 0-1 0v3.975a.5.5 0 0 0 .5.5H14.5a.5.5 0 0 0 0-1h-2.768L15.828.879a.5.5 0 0 0 0-.707z"/>
-                                                         </svg>-->
-                                                             <p><small>Größe ändern</small></p>
+                                                     </div>                                                         
+                                                 </xsl:when>
+                                                 <xsl:otherwise>
+                                                     <div class="tab-pane fade" id="diplomatic-paginate-{position()}" tabindex="-1">
+                                                         <div id="container-resize-{position()}" class="transcript row">
+                                                             <div id="text-resize-{position()}" class="text-re col-md-8">                                                                
+                                                                 <div class="card-body">                                                                                                                                                                                       
+                                                                     <xsl:for-each select="current-group()[self::tei:p]">
+                                                                         <p>
+                                                                             <xsl:apply-templates>
+                                                                                 <xsl:with-param name="view" select="'diplomatic'"/>
+                                                                             </xsl:apply-templates>
+                                                                         </p>
+                                                                     </xsl:for-each>
+                                                                 </div>
+                                                             </div>                                                     
+                                                             <div id="img-resize-{position()}" class="col-md-3">
+                                                                 <div class="expand-wrapper" style="cursor:col-resize;">
+                                                                     <svg id="img-expand-{position()}" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-aspect-ratio" viewBox="0 0 16 16">
+                                                                         <path d="M0 3.5A1.5 1.5 0 0 1 1.5 2h13A1.5 1.5 0 0 1 16 3.5v9a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 12.5v-9zM1.5 3a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-13z"/>
+                                                                         <path d="M2 4.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1H3v2.5a.5.5 0 0 1-1 0v-3zm12 7a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1 0-1H13V8.5a.5.5 0 0 1 1 0v3z"/>
+                                                                     </svg>
+                                                                     <p><small>Größe ändern</small></p>
+                                                                 </div>
+                                                                 <!--<hr/> -->                                             
+                                                                 <xsl:variable name="osd_container_id" select="concat(@type, '_container_', generate-id())"/>
+                                                                 <xsl:variable name="osd_container_id2" select="concat(@type, '_container2_', generate-id())"/>
+                                                                 <div id="viewer-{position()}">
+                                                                     <div id="{$osd_container_id}" style="padding:.5em;">
+                                                                         <!-- image container accessed by OSD script -->
+                                                                         <script type="text/javascript" src="js/osd_single.js"></script>
+                                                                         <div id="{$osd_container_id2}">
+                                                                             <xsl:if test="@facs">    
+                                                                                 <xsl:variable name="iiif-ext" select="'full/full/0/default.jpg'"/> 
+                                                                                 <xsl:variable name="facs_id" select="concat(@type, '_img_', generate-id())"/>
+                                                                                 <img id="{$facs_id}" onload="[load_image('{$facs_id}','{$osd_container_id}','{$osd_container_id2}'), $( document ).ready(resize('{position()}'))]">
+                                                                                     <xsl:attribute name="src">
+                                                                                         <xsl:value-of select="concat(@facs , $iiif-ext)"/>
+                                                                                     </xsl:attribute>
+                                                                                 </img>                                                                
+                                                                             </xsl:if>                                
+                                                                         </div>                                
+                                                                     </div>  
+                                                                 </div>
+                                                             </div>                                                                 
                                                          </div>
-                                                         <!--<hr/> -->                                             
-                                                         <xsl:variable name="osd_container_id" select="concat(@type, '_container_', generate-id())"/>
-                                                         <xsl:variable name="osd_container_id2" select="concat(@type, '_container2_', generate-id())"/>
-                                                         <div class="viewer">
-                                                            <div id="{$osd_container_id}" style="padding:.5em;">
-                                                                <!-- image container accessed by OSD script -->
-                                                                <script type="text/javascript" src="js/osd_single.js"></script>
-                                                                <div id="{$osd_container_id2}">
-                                                                    <xsl:if test="@facs">    
-                                                                        <xsl:variable name="iiif-ext" select="'full/full/0/default.jpg'"/> 
-                                                                        <xsl:variable name="facs_id" select="concat(@type, '_img_', generate-id())"/>
-                                                                        <img id="{$facs_id}" onload="load_image('{$facs_id}','{$osd_container_id}','{$osd_container_id2}')">
-                                                                            <xsl:attribute name="src">
-                                                                                <xsl:value-of select="concat(@facs , $iiif-ext)"/>
-                                                                            </xsl:attribute>
-                                                                        </img>                                                                
-                                                                    </xsl:if>                                
-                                                                </div>                                
-                                                            </div>  
-                                                         </div>
-                                                     </div>
-                                                     <!--<script type="text/javascript">
-                                                         $('.img-expand').click(function() {
-                                                            $('.text-resize').removeClass('col-md-9').addClass('col-md-6');
-                                                            $('.img-resize').removeClass('col-md-3').addClass('col-md-6');
-                                                            $('.img-expand').css('display','none');
-                                                            $('.img-decrease').css('display','block');
-                                                         });
-                                                         $('.img-decrease').click(function() {
-                                                            $('.text-resize').removeClass('col-md-6').addClass('col-md-9');
-                                                            $('.img-resize').removeClass('col-md-6').addClass('col-md-3');
-                                                            $('.img-expand').css('display','block');
-                                                            $('.img-decrease').css('display','none');
-                                                         });
-                                                     </script>-->                                                     
-                                                     <!--<div class="col-md-6" style="padding:0!important;">
-                                                         <hr/>                                              
-                                                         <xsl:variable name="osd_container_id" select="concat(@type, '_container_', generate-id())"/>
-                                                         <xsl:variable name="osd_container_id2" select="concat(@type, '_container2_', generate-id())"/>
-                                                         <div id="{$osd_container_id}" style="padding:.5em;">
-                                                             <!-\- image container accessed by OSD script -\->
-                                                             <script type="text/javascript" src="js/osd_single.js"></script>
-                                                             <div id="{$osd_container_id2}">
-                                                                 <xsl:if test="@facs">    
-                                                                     <xsl:variable name="iiif-ext" select="'full/full/0/default.jpg'"/> 
-                                                                     <xsl:variable name="facs_id" select="concat(@type, '_img_', generate-id())"/>
-                                                                     <img id="{$facs_id}" onload="load_image('{$facs_id}','{$osd_container_id}','{$osd_container_id2}')">
-                                                                         <xsl:attribute name="src">
-                                                                             <xsl:value-of select="concat(@facs , $iiif-ext)"/>
-                                                                         </xsl:attribute>
-                                                                     </img>                                                                
-                                                                 </xsl:if>                                
-                                                             </div>                                
-                                                         </div>
-                                                     </div>-->
-                                                 </div>
-                                             </xsl:for-each-group>                                             
-                                         </xsl:for-each>
-                                     </div>
+                                                     </div>                                                         
+                                                 </xsl:otherwise>
+                                             </xsl:choose>
+                                             
+                                         </xsl:for-each-group>   
+                                         </div>
+                                     </xsl:for-each>                                     
                                  </div>
                                 <div class="tab-pane fade" id="reading-tab" tabindex="-1">
-                                    <div class="card-body">                                
-                                        <xsl:for-each select="//tei:div[@xml:id='transcription']">
-                                            <xsl:for-each-group select="*" group-starting-with="tei:pb">
-                                                <hr/>                                               
-                                                <xsl:for-each select="current-group()[self::tei:p]">
-                                                    <p class="yes-index">
-                                                        <xsl:apply-templates>
-                                                            <xsl:with-param name="view" select="'reading'"/>
-                                                        </xsl:apply-templates>
-                                                    </p>
+                                    <xsl:for-each select="//tei:div[@xml:id='transcription']">
+                                        <xsl:variable 
+                                            name="vseq" 
+                                            select="//tei:pb" 
+                                            as="item()*"/>
+                                        <div class="text-center pagination">                                            
+                                            <ul class="nav nav-tabs">
+                                                <xsl:for-each select="$vseq">
+                                                    <xsl:choose>
+                                                        <xsl:when test="position() = 1">
+                                                            <li class="nav-item">
+                                                                <a
+                                                                    title="{position()}"
+                                                                    class="nav-link btn btn-round btn-backlink active"
+                                                                    data-toggle="tab"
+                                                                    href="#reading-paginate-{position()}"
+                                                                    ><xsl:value-of select="position()"/> 
+                                                                </a>                                                    
+                                                            </li>
+                                                        </xsl:when>
+                                                        <xsl:otherwise>
+                                                            <li class="nav-item">
+                                                                <a
+                                                                    title="{position()}"
+                                                                    class="nav-link btn btn-round btn-backlink"
+                                                                    data-toggle="tab"
+                                                                    href="#reading-paginate-{position()}"
+                                                                    ><xsl:value-of select="position()"/> 
+                                                                </a>                                                    
+                                                            </li>
+                                                        </xsl:otherwise>
+                                                    </xsl:choose>
                                                 </xsl:for-each>
-                                            </xsl:for-each-group>                                             
-                                        </xsl:for-each>
-                                    </div>
+                                            </ul> 
+                                        </div>
+                                        <div class="tab-content">
+                                            <xsl:for-each-group select="*" group-starting-with="tei:pb">                                                
+                                                <xsl:choose>
+                                                    <xsl:when test="position() = 1">
+                                                        <div class="tab-pane active" id="reading-paginate-{position()}" tabindex="-1">
+                                                            <div class="card-body"> 
+                                                            <xsl:for-each select="current-group()[self::tei:p]">
+                                                                <p>                                                        
+                                                                    <xsl:apply-templates>
+                                                                        <xsl:with-param name="view" select="'reading'"/>
+                                                                    </xsl:apply-templates>
+                                                                </p>
+                                                            </xsl:for-each>
+                                                            </div>
+                                                        </div>
+                                                    </xsl:when>
+                                                    <xsl:otherwise>
+                                                        <div class="tab-pane fade" id="reading-paginate-{position()}" tabindex="-1">
+                                                            <div class="card-body"> 
+                                                            <xsl:for-each select="current-group()[self::tei:p]">
+                                                                <p>                                                        
+                                                                    <xsl:apply-templates>
+                                                                        <xsl:with-param name="view" select="'reading'"/>
+                                                                    </xsl:apply-templates>
+                                                                </p>
+                                                            </xsl:for-each>
+                                                            </div>
+                                                        </div>
+                                                    </xsl:otherwise>
+                                                </xsl:choose>                                                
+                                            </xsl:for-each-group>
+                                        </div>
+                                    </xsl:for-each>                                            
                                 </div>
                                 <div class="tab-pane fade" id="commentary-tab" tabindex="-1">
-                                    <div class="card-body" style="padding:1em;">                                
-                                        <xsl:for-each select="//tei:div[@xml:id='transcription']">
-                                            <xsl:for-each-group select="*" group-starting-with="tei:pb">
-                                                <hr/>                                                                                                                                   
-                                                <xsl:for-each select="current-group()[self::tei:p]">
-                                                    <p>                                                        
-                                                        <xsl:apply-templates>
-                                                            <xsl:with-param name="view" select="'commentary'"/>
-                                                        </xsl:apply-templates>
-                                                    </p>
-                                                </xsl:for-each>                                                
-                                            </xsl:for-each-group>                                             
-                                        </xsl:for-each>
-                                    </div>
+                                    <xsl:for-each select="//tei:div[@xml:id='transcription']">
+                                        <xsl:variable 
+                                            name="vseq" 
+                                            select="//tei:pb" 
+                                            as="item()*"/>   
+                                        <div class="text-center pagination">
+                                            <ul class="nav nav-tabs">
+                                                <xsl:for-each select="$vseq">
+                                                    <xsl:choose>
+                                                        <xsl:when test="position() = 1">
+                                                            <li class="nav-item">
+                                                                <a
+                                                                    title="{position()}"
+                                                                    class="nav-link btn btn-round btn-backlink active"
+                                                                    data-toggle="tab"
+                                                                    href="#commentary-paginate-{position()}"
+                                                                    ><xsl:value-of select="position()"/> 
+                                                                </a>                                                    
+                                                            </li>
+                                                        </xsl:when>
+                                                        <xsl:otherwise>
+                                                            <li class="nav-item">
+                                                                <a
+                                                                    title="{position()}"
+                                                                    class="nav-link btn btn-round btn-backlink"
+                                                                    data-toggle="tab"
+                                                                    href="#commentary-paginate-{position()}"
+                                                                    ><xsl:value-of select="position()"/> 
+                                                                </a>                                                    
+                                                            </li>
+                                                        </xsl:otherwise>
+                                                    </xsl:choose>
+                                                </xsl:for-each>
+                                            </ul>
+                                        </div>                                             
+                                        <div class="tab-content">
+                                        <xsl:for-each-group select="*" group-starting-with="tei:pb">                                                
+                                            <xsl:choose>
+                                                <xsl:when test="position() = 1">
+                                                    <div class="tab-pane active" id="commentary-paginate-{position()}" tabindex="-1">
+                                                        <div class="card-body"> 
+                                                        <xsl:for-each select="current-group()[self::tei:p]">
+                                                            <p>                                                        
+                                                                <xsl:apply-templates>
+                                                                    <xsl:with-param name="view" select="'commentary'"/>
+                                                                </xsl:apply-templates>
+                                                            </p>
+                                                        </xsl:for-each>
+                                                        </div>
+                                                    </div>
+                                                </xsl:when>
+                                                <xsl:otherwise>
+                                                    <div class="tab-pane fade" id="commentary-paginate-{position()}" tabindex="-1">
+                                                        <div class="card-body"> 
+                                                        <xsl:for-each select="current-group()[self::tei:p]">
+                                                            <p>                                                        
+                                                                <xsl:apply-templates>
+                                                                    <xsl:with-param name="view" select="'commentary'"/>
+                                                                </xsl:apply-templates>
+                                                            </p>
+                                                        </xsl:for-each>
+                                                        </div>
+                                                    </div>
+                                                </xsl:otherwise>
+                                            </xsl:choose>                                                
+                                        </xsl:for-each-group>
+                                        </div>
+                                    </xsl:for-each>                                    
                                 </div>
                                 <div class="tab-pane fade" id="xml-tab" tabindex="-1">
                                     <div class="card-body">                                
@@ -230,8 +388,7 @@
                         </div>
                     </div>
                     <xsl:call-template name="html_footer"/>
-                </div>
-                <script type="text/javascript" src="js/resize.js"></script>
+                </div>                
             </body>
         </html>
     </xsl:template>

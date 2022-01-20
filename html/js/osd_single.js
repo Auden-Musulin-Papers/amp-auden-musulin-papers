@@ -1,4 +1,4 @@
-function load_image(facs_id, osd_container_id, osd_container_id2){
+function load_image(facs_id, osd_container_id, osd_container_id2) {
     $('#' + osd_container_id).css({
         'height': '400px'
     });
