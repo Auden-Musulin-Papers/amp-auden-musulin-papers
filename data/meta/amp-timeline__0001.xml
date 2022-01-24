@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="amp-timeline__0001.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
+            <title level="a">Biography</title>
+            <author>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+               <name>Stoxreiter, Daniel</name>
+            </author>
+            <funder>
+               <name>FWF Austrian Science Fund</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Vienna</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Vienna</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>AMP</edition>
+            <respStmt>
+               <resp>Transcription and commentary</resp>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+            </respStmt>
+            <respStmt>
+               <resp>Automated document creation</resp>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                  <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
+                                    for any purpose, even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+                  <p>Notices:</p>
+                  <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
+               </licence>
+               <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
+         </seriesStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="dstoxreiter" when="2022-01-24">document created</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listEvent>
+            <event xml:id="amp-transcript__0035.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1971-05-13">1971-05-13</date>
+               </head>
+               <ab xml:lang="en">Telegram W. H. Auden to Stella Musulin 1971-05-13</ab>
+            </event>
+            <event xml:id="amp-transcript__0011.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1968-12-13">1968-12-13</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-13</ab>
+            </event>
+            <event xml:id="amp-transcript__0018.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1971-10-19">1971-10-19</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Stark Bewölkt" 1971-10-19</ab>
+            </event>
+            <event xml:id="amp-transcript__0021.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1961-10-13">1961-10-13</date>
+               </head>
+               <ab xml:lang="en">Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</ab>
+            </event>
+            <event xml:id="amp-transcript__0059.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1962-04-30">1962-04-30</date>
+               </head>
+               <ab xml:lang="en">Envelope W. H. Auden to Stella Musulin 1962-04-30</ab>
+            </event>
+            <event xml:id="amp-transcript__0024.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1962-09-11">1962-09-11</date>
+               </head>
+               <ab xml:lang="en">Letter W. H. Auden to Stella Musulin 1962-09-11</ab>
+            </event>
+            <event xml:id="amp-transcript__0038.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1965-03-15">1965-03-15</date>
+               </head>
+               <ab xml:lang="en">Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-03-15</ab>
+            </event>
+            <event xml:id="amp-transcript__0058.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date>[?]-[?]-[15]</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin [?]-[?]-[15]</ab>
+            </event>
+            <event xml:id="amp-transcript__0010.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1968-11-06">1968-11-06</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-11-06</ab>
+            </event>
+            <event xml:id="amp-transcript__0007.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1968-10-06">1968-10-06</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-06</ab>
+            </event>
+            <event xml:id="amp-transcript__0016.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1970-09-18">1970-09-18</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1970-09-18</ab>
+            </event>
+            <event xml:id="amp-transcript__0006.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1968-02-06">1968-02-06</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-02-06</ab>
+            </event>
+            <event xml:id="amp-transcript__0057.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date>1961-[?]-[25]</date>
+               </head>
+               <ab xml:lang="en">Envelope W. H. Auden to Stella Musulin 1961-[?]-[25]</ab>
+            </event>
+            <event xml:id="amp-transcript__0001.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1963-05-12">1963-05-12</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1963-05-12</ab>
+            </event>
+            <event xml:id="amp-transcript__0009.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1968-10-15">1968-10-15</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-15</ab>
+            </event>
+            <event xml:id="amp-transcript__0041.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1970-07-06">1970-07-06</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1970-07-06</ab>
+            </event>
+            <event xml:id="amp-transcript__0004.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1966-02-03">1966-02-03</date>
+               </head>
+               <ab xml:lang="en">Typed Letter Signed W. H. Auden to Stella Musulin 1966-02-03</ab>
+            </event>
+            <event xml:id="amp-transcript__0019.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1972-02-22">1972-02-22</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1972-02-22</ab>
+            </event>
+            <event xml:id="amp-transcript__0014.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1969-05-21">1969-05-21</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1969-05-21</ab>
+            </event>
+            <event xml:id="amp-transcript__0042.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1968-10-04">1968-10-04</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescripts W. H. Auden "August 1968" and "Elegy" 1968-10-04</ab>
+            </event>
+            <event xml:id="amp-transcript__0025.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1962-10-17">1962-10-17</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1962-10-17</ab>
+            </event>
+            <event xml:id="amp-transcript__0022.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1961-08-16">1961-08-16</date>
+               </head>
+               <ab xml:lang="en">Letter W. H. Auden to Stella Musulin 1961-08-16</ab>
+            </event>
+            <event xml:id="amp-transcript__0039.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1965-04-28">1965-04-28</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-04-28 and with Typescript W. H. Auden Translation "Joseph Weinheber"</ab>
+            </event>
+            <event xml:id="amp-transcript__0044.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1968-10-24">1968-10-24</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-24</ab>
+            </event>
+            <event xml:id="amp-transkript__0015.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1965-09-29">1965-09-29</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1965-09-29</ab>
+            </event>
+            <event xml:id="amp-transcript__0005.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1967-11-08">1967-11-08</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1967-11-08</ab>
+            </event>
+            <event xml:id="amp-transcript__0013.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1969-01-04">1969-01-04</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1969-01-04</ab>
+            </event>
+            <event xml:id="amp-transcript__0040.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1969-06-10">1969-06-10</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1969-06-10</ab>
+            </event>
+            <event xml:id="amp-transcript__0012.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1968-12-29">1968-12-29</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-29</ab>
+            </event>
+            <event xml:id="amp-transcript__0008.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1968-10-12">1968-10-12</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12</ab>
+            </event>
+            <event xml:id="amp-transcript__0002.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1964-12-23">1964-12-23</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23</ab>
+            </event>
+            <event xml:id="amp-transcript__0023.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1962-07-23">1962-07-23</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1962-07-23</ab>
+            </event>
+            <event xml:id="amp-transcript__0020.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1973-09-24">1973-09-24</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1973-09-24</ab>
+            </event>
+            <event xml:id="amp-transcript__0045.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1960-07-21">1960-07-21</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1960-07-21</ab>
+            </event>
+            <event xml:id="amp-transcript__0015.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1970-06-10">1970-06-10</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1970-06-10</ab>
+            </event>
+            <event xml:id="amp-transcript__0017.xml">
+               <head xml:lang="en">
+                    Kirchstetten, 
+                    <date when-iso="1971-06-04">1971-06-04</date>
+               </head>
+               <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1971-06-04</ab>
+            </event>
+         </listEvent>
+      </body>
+   </text>
+</TEI>
