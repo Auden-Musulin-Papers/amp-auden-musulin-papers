@@ -88,86 +88,71 @@
         </TEI>
     </xsl:template>
     <xsl:template name="event">
-        <xsl:for-each select="collection('../data/editions/correspondence')//tei:TEI">
-            <event xml:id="{@xml:id[1]}">
-                <head xml:lang="en">
-                    Kirchstetten, 
-                    <date>
-                        <xsl:choose>
-                            <xsl:when test="//tei:origDate/@when-iso">
-                                <xsl:attribute name="when-iso">
-                                    <xsl:value-of select="//tei:origDate/@when-iso"/>
-                                </xsl:attribute>
-                            </xsl:when>
-                        </xsl:choose>                                        
-                        <xsl:value-of select="//tei:origDate"/>
-                    </date>
-                </head>
-                <ab xml:lang="en">
-                    <xsl:value-of select="//tei:title[@level='a']"/>
-                </ab>
-            </event>
-        </xsl:for-each>
-        <!--<xsl:for-each select="collection('../data/editions/photos')//tei:TEI">
-                <event>
-                    <head xml:lang="en">
-                        Kirchstetten, 
-                        <date>
-                            <xsl:choose>
-                                <xsl:when test="//tei:origDate/@when-iso">
-                                    <xsl:attribute name="when-iso">
-                                        <xsl:value-of select="//tei:origDate/@when-iso"/>
-                                    </xsl:attribute>
-                                </xsl:when>
-                            </xsl:choose>                                        
-                            <xsl:value-of select="//tei:origDate"/>
-                        </date>
-                    </head>
-                    <ab xml:lang="en">
-                        <xsl:value-of select="//tei:title[@level='a']"/>
-                    </ab>
-                </event>
-            </xsl:for-each>
-            <xsl:for-each select="collection('../data/editions/additional-materials')//tei:TEI">
-                <event>
-                    <head xml:lang="en">
-                        Kirchstetten, 
-                        <date>
-                            <xsl:choose>
-                                <xsl:when test="//tei:origDate/@when-iso">
-                                    <xsl:attribute name="when-iso">
-                                        <xsl:value-of select="//tei:origDate/@when-iso"/>
-                                    </xsl:attribute>
-                                </xsl:when>
-                            </xsl:choose>                                        
-                            <xsl:value-of select="//tei:origDate"/>
-                        </date>
-                    </head>
-                    <ab xml:lang="en">
-                        <xsl:value-of select="//tei:title[@level='a']"/>
-                    </ab>
-                </event>
-            </xsl:for-each>
-            <xsl:for-each select="collection('../data/editions/memoirs')//tei:TEI">
-                <event>
-                    <head xml:lang="en">
-                        Kirchstetten, 
-                        <date>
-                            <xsl:choose>
-                                <xsl:when test="//tei:origDate/@when-iso">
-                                    <xsl:attribute name="when-iso">
-                                        <xsl:value-of select="//tei:origDate/@when-iso"/>
-                                    </xsl:attribute>
-                                </xsl:when>
-                            </xsl:choose>                                        
-                            <xsl:value-of select="//tei:origDate"/>
-                        </date>
-                    </head>
-                    <ab xml:lang="en">
-                        <xsl:value-of select="//tei:title[@level='a']"/>
-                    </ab>
-                </event>
-            </xsl:for-each>-->
+        <xsl:for-each select="collection('../data/editions')//tei:TEI">
+            <xsl:choose>                
+                <xsl:when test="substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0055', '0054', '0050']">
+                    <event xml:id="{@xml:id}" type="photos">
+                        <head xml:lang="en">
+                            <date>
+                                <xsl:choose>
+                                    <xsl:when test="//tei:origDate/@when-iso">
+                                        <xsl:attribute name="when-iso">
+                                            <xsl:value-of select="//tei:origDate/@when-iso"/>
+                                        </xsl:attribute>
+                                    </xsl:when>
+                                </xsl:choose>                                        
+                                <xsl:value-of select="//tei:origDate"/>
+                            </date>
+                        </head>
+                        <ab xml:lang="en">
+                            <xsl:value-of select="//tei:title[@level='a']"/>
+                        </ab>
+                    </event>
+                </xsl:when>
+                <xsl:when test="not(substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0046', '0047', '0027', '0051', '0052', '0056', '0029', '0053', '0030', '0031', '0032', '0033', '0034', '0036', '0049', '0037', '0026', '0061', '0060','0055', '0048', '0054', '0050','0028'])">
+                    <event xml:id="{@xml:id}" type="correspondence">
+                        <head xml:lang="en">
+                            <date>
+                                <xsl:choose>
+                                    <xsl:when test="//tei:origDate/@when-iso">
+                                        <xsl:attribute name="when-iso">
+                                            <xsl:value-of select="//tei:origDate/@when-iso"/>
+                                        </xsl:attribute>
+                                    </xsl:when>
+                                </xsl:choose>                                        
+                                <xsl:value-of select="//tei:origDate"/>
+                            </date>
+                        </head>
+                        <ab xml:lang="en">
+                            <xsl:value-of select="//tei:title[@level='a']"/>
+                        </ab>
+                    </event>
+                </xsl:when>
+                <xsl:when test="substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0049', '0052']">
+                    <event xml:id="{@xml:id}" type="additional-materials">
+                        <head xml:lang="en">
+                            <date>
+                                <xsl:choose>
+                                    <xsl:when test="//tei:origDate/@when-iso">
+                                        <xsl:attribute name="when-iso">
+                                            <xsl:value-of select="//tei:origDate/@when-iso"/>
+                                        </xsl:attribute>
+                                    </xsl:when>
+                                </xsl:choose>                                        
+                                <xsl:value-of select="//tei:origDate"/>
+                            </date>
+                        </head>
+                        <ab xml:lang="en">
+                            <xsl:value-of select="//tei:title[@level='a']"/>
+                        </ab>
+                    </event>
+                </xsl:when>
+                <xsl:otherwise>
+                    
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:for-each>      
+                        
     </xsl:template>
     
 </xsl:stylesheet>
