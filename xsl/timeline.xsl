@@ -96,7 +96,7 @@
                             <date>
                                 <xsl:choose>
                                     <xsl:when test="//tei:origDate/@when-iso">
-                                        <xsl:attribute name="when-iso">
+                                        <xsl:attribute name="when">
                                             <xsl:value-of select="//tei:origDate/@when-iso"/>
                                         </xsl:attribute>
                                     </xsl:when>
@@ -120,9 +120,9 @@
                             <date>
                                 <xsl:choose>
                                     <xsl:when test="//tei:origDate/@when-iso">
-                                        <xsl:attribute name="when-iso">
+                                        <xsl:attribute name="when">
                                             <xsl:value-of select="//tei:origDate/@when-iso"/>
-                                        </xsl:attribute>                                        
+                                        </xsl:attribute>
                                     </xsl:when>
                                     <xsl:when test="not(//tei:origDate/@when-iso)">
                                         <xsl:attribute name="when">
@@ -144,7 +144,7 @@
                             <date>
                                 <xsl:choose>
                                     <xsl:when test="//tei:origDate/@when-iso">
-                                        <xsl:attribute name="when-iso">
+                                        <xsl:attribute name="when">
                                             <xsl:value-of select="//tei:origDate/@when-iso"/>
                                         </xsl:attribute>
                                     </xsl:when>

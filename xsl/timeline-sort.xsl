@@ -13,11 +13,10 @@
         </xsl:copy>        
     </xsl:template>
     <xsl:template match="tei:listEvent">
-        <xsl:variable name="date" select="if (./tei:head/tei:date/@when-iso) then(./tei:head/tei:date/@when-iso) else(./tei:head/tei:date/@when)"/>
         <xsl:copy>
             <xsl:apply-templates select="@*"/>            
             <xsl:apply-templates select="./tei:event">
-                <xsl:sort select="$date" data-type="text" order="descending"/>
+                <xsl:sort select="./tei:head/tei:date/@when" data-type="text" order="descending"/>
             </xsl:apply-templates>
         </xsl:copy>        
     </xsl:template>
