@@ -113,12 +113,12 @@
                </head>
                <ab xml:lang="en">Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-03-15</ab>
             </event>
-            <event xml:id="amp-transcript__0058.xml" type="correspondence">
+            <!--<event xml:id="amp-transcript__0058.xml" type="correspondence">
                <head xml:lang="en">
-                  <date>[?]-[?]-[15]</date>
+                  <date when="?-?-15">[?]-[?]-[15]</date>
                </head>
                <ab xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin [?]-[?]-[15]</ab>
-            </event>
+            </event>-->
             <event xml:id="amp-transcript__0010.xml" type="correspondence">
                <head xml:lang="en">
                   <date when-iso="1968-11-06">1968-11-06</date>
@@ -151,7 +151,7 @@
             </event>
             <event xml:id="amp-transcript__0057.xml" type="correspondence">
                <head xml:lang="en">
-                  <date>1961-[?]-[25]</date>
+                  <date when="1961">1961-[?]-[25]</date>
                </head>
                <ab xml:lang="en">Envelope W. H. Auden to Stella Musulin 1961-[?]-[25]</ab>
             </event>
@@ -181,7 +181,7 @@
             </event>
             <event xml:id="amp-transcript__0049.xml" type="additional-materials">
                <head xml:lang="en">
-                  <date>[1973]</date>
+                  <date when="1973">[1973]</date>
                </head>
                <ab xml:lang="en">Invitation Card Österreichische Gesellschaft für Literatur Poetry Reading W. H. Auden [1973]</ab>
             </event>
@@ -277,7 +277,7 @@
             </event>
             <event xml:id="amp-transcript__0055.xml" type="photos">
                <head xml:lang="en">
-                  <date>[1960]</date>
+                  <date when="1960">[1960]</date>
                </head>
                <ab xml:lang="en">Photograph [?] of W. H. Auden, Chester Kallman, and Elsa Musulin [1960]</ab>
             </event>
@@ -295,7 +295,7 @@
             </event>
             <event xml:id="amp-transcript__0054.xml" type="photos">
                <head xml:lang="en">
-                  <date>[1960]</date>
+                  <date when="1960">[1960]</date>
                </head>
                <ab xml:lang="en">Photographs [?] of W. H. Auden, Chester Kallman, and Elsa Musulin [1960]</ab>
             </event>

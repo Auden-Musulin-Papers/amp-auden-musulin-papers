@@ -100,6 +100,11 @@
                                             <xsl:value-of select="//tei:origDate/@when-iso"/>
                                         </xsl:attribute>
                                     </xsl:when>
+                                    <xsl:when test="not(//tei:origDate/@when-iso)">
+                                        <xsl:attribute name="when">
+                                            <xsl:value-of select="translate(translate(//tei:origDate, '[' ,''), ']', '')"/>
+                                        </xsl:attribute>
+                                    </xsl:when>
                                 </xsl:choose>                                        
                                 <xsl:value-of select="//tei:origDate"/>
                             </date>
@@ -117,6 +122,11 @@
                                     <xsl:when test="//tei:origDate/@when-iso">
                                         <xsl:attribute name="when-iso">
                                             <xsl:value-of select="//tei:origDate/@when-iso"/>
+                                        </xsl:attribute>                                        
+                                    </xsl:when>
+                                    <xsl:when test="not(//tei:origDate/@when-iso)">
+                                        <xsl:attribute name="when">
+                                            <xsl:value-of select="translate(translate(//tei:origDate, '[' ,''), ']', '')"/>
                                         </xsl:attribute>
                                     </xsl:when>
                                 </xsl:choose>                                        
@@ -136,6 +146,11 @@
                                     <xsl:when test="//tei:origDate/@when-iso">
                                         <xsl:attribute name="when-iso">
                                             <xsl:value-of select="//tei:origDate/@when-iso"/>
+                                        </xsl:attribute>
+                                    </xsl:when>
+                                    <xsl:when test="not(//tei:origDate/@when-iso)">
+                                        <xsl:attribute name="when">
+                                            <xsl:value-of select="translate(translate(//tei:origDate, '[' ,''), ']', '')"/>
                                         </xsl:attribute>
                                     </xsl:when>
                                 </xsl:choose>                                        
