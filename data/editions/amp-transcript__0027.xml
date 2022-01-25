@@ -79,6 +79,9 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+         <change who="smayer" when="2022-01-19">text transcribed</change>
+         <change who="tfruehwirth" when="2022-01-24">text transcribed using Transkribus</change>
+         <change who="smayer tfruehwirth" when="2022-01-25">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -118,50 +121,50 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0155/" type="sheet"/>
                <p>
-                  Sunday T<unclear>im</unclear>e <unclear>197.</unclear>
+                  Sunday <unclear>J</unclear>une 1<unclear>4t.</unclear>
                </p>
                <p>
-                  Appendix or Enclo<unclear>s</unclear>e<lb/>
+                  Appendix or Endn<unclear>o</unclear>te
                </p>
                <p>
                   RETYPE DO<unclear>U</unclear>BLE<lb/>
                   SPACE
-               </p>  
-               <p>
-                   (<unclear>i</unclear>
                </p>
                <p>
-                  Engl<unclear>i</unclear>s<unclear>h</unclear> origi<unclear>n</unclear>l of Auden s<lb/>
-                  speech delivered in German at Neulengbach , 2? of May 1970
+                  (<unclear>1</unclear>
+               </p>
+               <p>
+                  <unclear>E</unclear>ngl<unclear>i</unclear>s<unclear>h</unclear> orig<unclear>inal</unclear> of Auden<unclear>'</unclear>s<lb/>
+                  Speech delivered in German at Neulengbach , 2? of May 1970
                </p>
                <p>
                   Need exact<lb/>
-                  da<unclear>t</unclear>e of<lb/>
-                  speech
+                  d<unclear>at</unclear>e of<lb/>
+                  Spee<unclear>ch</unclear>
                </p>
                <p>
                   Who<lb/>
                   typed<lb/>
                   this<unclear>´</unclear><lb/>
-                  eg =<lb/>
+                  <unclear>e</unclear>g:<lb/>
                   whose<lb/>
-                  pr<unclear></unclear><lb/>
+                  p<unclear>unctu</unclear><lb/>
                   <unclear>i</unclear>s<lb/>
                   it
                </p>
                <p>
-                  Sehr veehrter Herr Landeshauptmann,meine Damen und Herren:<lb/>
+                  Sehr veehrter Herr Landeshauptman<unclear>n,</unclear>meine Damen und Herren:<lb/>
                   I hope you will pardon me if I speak somewhat personally. I do so,<lb/>
                   not out of vanity,but bec<del>ua</del>ausebecause  I do <del>j</del>not wish to give the impression that I<lb/>
                   am attempting to lay down absolute laws which are valid for all. I give you my<lb/>
-                  experiences as a poet,in the hope that you will be able to compare the<del>,</del>m with<lb/>
-                  yours<del><unclear></unclear></del>,and form your own judgment about them.<lb/>
+                  experience<unclear>s</unclear> as a poet,in the hope that you will be able to compare the<del>,</del>m with<lb/>
+                  yours<del><unclear>own</unclear></del>,and form your own judgment about them.<lb/>
                   Most of what I <del><unclear>o</unclear></del>know about the writing of poetry,or at least about the kind I<lb/>
                   am interested in writing,I discovered long before I took any interest in poetry<lb/>
                   itself.<lb/>
                   Between the ages of six and twelve,I spent a great many of my waking hours in<lb/>
                   the fab<del>o</del>rication of a private secondary sacred world,the basic elements of which<lb/>
-                  were <del>aft</del> a) a limestone landscape mainly derived from the Pennine Moors in the<lb/>
+                  were <del><del><unclear>at</unclear></del><unclear>O</unclear></del> a) a limestone landscape mainly derived from the Pennine Moors in the<lb/>
                   North of England and b) an industry - lead-mining.<lb/>
                   It is no doubt psychologically significant that my sacred world was autistic -<lb/>
                   that is to say,I had no wish to share it with others no<del>t</del>r could I have done so.<lb/>
@@ -178,7 +181,7 @@ for any purpose, even commercially.</p>
                   that arouses it. Though every work of art is a secondary world,it cannot be<lb/>
                   constructed ex nihilo,but is a selection from and a recombination of the contents of<lb/>
                   the Primary World. Even the 'purest' poem,in the French Symboliste sense,is<lb/>
-                  made of words which are not the poet's private property,but the communal cre<unclear>a</unclear>tion<lb/>
+                  made of words which are not the poet's private property,but the communal creation<lb/>
                   of the linguistic group to whom he belongs,so that their meaning can be looked up<lb/>
                   in a dictionary.<lb/>
                   Secondly,in constructing my private world,I discovere<del>s</del>d that,though this was<lb/>
@@ -191,13 +194,13 @@ for any purpose, even commercially.</p>
                   laws shall be. But to all games as to real life,Goethe's lines apply.
                </p>
                <p>
-                  In der Beschränkung zeigt sich erst der Meister,<lb/>
+                  In der Beschr<unclear>ä</unclear>nkung zeigt sich erst der Meister,<lb/>
                   Und d<del>s</del>as Gesetz nur kann uns Freiheit geben.
                </p>
                <p>
                   Check<lb/>
                   Quote<lb/>
-                  a<unclear>d</unclear> give exact<lb/>
+                  <unclear>and</unclear> g<unclear>i</unclear>ve exact<lb/>
                   source if<lb/>
                   possible
                </p>
@@ -209,15 +212,15 @@ for any purpose, even commercially.</p>
                   choose,for example,between two kinds of water-turbine,which could be found in a<lb/>
                   text-book  on mining machinery or a manufacturer's catalogue: but I was not free<lb/>
                   to invent one.  In deciding how my world was to function,I <del>was </del> could choose between<lb/>
-                  t<del><unclear>e</unclear></del>wo practical possibilit<del>es</del>ies  - a mine can be drained either by an adit or a pu<del>mp</del> -<lb/>
-                  but physic<del><unclear>s</unclear></del>al impossibili<del>es</del>ties and magic means were forbidden. <del><unclear>T</unclear></del>When I say forbidden,<lb/>
+                  t<del><unclear>e</unclear></del>wo practical possibilit<del>es</del>ies  - a mine can be drained either by an adit or a pu<unclear>mp</unclear> -<lb/>
+                  but physic<del><unclear></unclear></del>al impossibili<del>es</del>ties and magic means were forbidden. <del><unclear>T</unclear></del>When I say forbidden,<lb/>
                   I mean that I felt,in some obscure way,that they were morally forbidden. Then there<lb/>
                   came a day when the moral issue became quite conscious. As I was planning my<lb/>
                   Platonic Idea of a concentrating-mill,I ran into difficulties. I had to choose<lb/>
                   between two types of a cer<del>at</del>tain machine for separating the sli<unclear>m</unclear>es,called a buddle.<lb/>
-                  One type I found more sacred or '<del>beatiful</del> beautiful',but the other type was,I<lb/>
+                  One type I found more sacred or '<del>beat<del>i</del>uful</del> beautiful',but the other type was,I<lb/>
                   knew from my reading,the more efficient. At this point I realised that it was my<lb/>
-                  moral duty to sacrifice my <del>aethetic</del> aesthetic preference to reality or truth.
+                  moral duty to sacrifice my <del>aeth<unclear>eti</unclear>c</del> aesthetic preference to reality or truth.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0156/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0157/" type="sheet"/>
@@ -225,42 +228,42 @@ for any purpose, even commercially.</p>
                   (2
                </p>
                <p>
-                  When,later,I began to write poetry&#x2019;I found that,for me,at least,the same<lb/>
+                  <unclear>W</unclear>hen,later,I began to write poetry&#x2019;<unclear>I</unclear> found th<unclear>a</unclear>t,for me,<unclear>a</unclear>t least,the same<lb/>
                   obligation was binding. That is to say,I cannot accept the do<del><unclear>s</unclear></del>ctrine that,in<lb/>
                   poetry,there is a 'suspension of belief<del><unclear>e</unclear></del>'. A poet must never make a statement<lb/>
-                  simply because it sounds poetically exciting: he must also bel<del>ea</del>ieve it to be<lb/>
+                  simply because it sounds poetically exciting: he must also bel<del>ei</del>ieve it to be<lb/>
                   true. This does not mean,of course,that one can only appreciate a poet whose<lb/>
                   beliefs happen to co-incide with one's own. It does mean,however,that one must<lb/>
-                  <del>n</del>be convinced that the poet really believ<del><unclear></unclear></del>es what he says,however odd <del>that</del> the<lb/>
+                  <del>n</del>b<unclear>e</unclear> convinced that the poet really believ<del><unclear></unclear></del>es what he says,however odd <del>that</del> the<lb/>
                   belief may seem to oneself.
                </p>
                <p>
-                  Change <unclear>c</unclear>olon to<lb/>
+                  Change <unclear>co</unclear>l<unclear>on</unclear> to<lb/>
                   semi-colon ?
                </p>
                <p>
-                  Between constructing a private <del>fantsay</del>fantasy world for oneself alone<lb/>
+                  Between constructing a private <del>fantsay</del>fantasy world <unclear>f</unclear>or oneself alone<lb/>
                   and writing poetry,there is,of course,a profound difference. A <del>fanatsy</del><lb/>
                   fantasy world exists only in the head of its creator: a poem is a public<lb/>
                   verbal object intended to be read and enjoyed by others. To become conscious<lb/>
-                  of others is to become conscious of historical time<del>/.</del> in various ways. The<lb/>
+                  of others is to become conscious of historical time<del><unclear></unclear></del> in various ways. The<lb/>
                   contents of a poem are necessarily past <del>expereinces</del> experiences,and the goal of<lb/>
                   a poem is <del>necessaily</del> necessarily in the future,since it cannot be read until<lb/>
-                  it has been written. Again,to write a poem is to engage in an activity which<lb/>
+                  it has been written. Again<unclear>,</unclear>to write a poem is to engage in an activity which<lb/>
                   human beings have practised for centuries. If one asks why human beings<lb/>
                   make poems or paint pictures or compose music,I can see two possible answers.<lb/>
-                  Firstly all the artistic media are forms of an activity pecul<del>a</del>iar to human<lb/>
+                  Firstly all the artistic media are forms of an activity pecul<del><unclear></unclear></del>iar to human<lb/>
                   beings,namely,Personal Speech. Many animals have impersonal codes of<lb/>
                   communications,visual,olfactory,auditory signals,b<del><unclear></unclear></del>y which they convey to<lb/>
                   other members of their species vital information about food,territory,sex,<lb/>
-                  the presence of <del>enmies</del> enemies, etc,and in social animals like the bee,such<lb/>
-                  a code may be exceedingly comple<del>s</del>x. We,too,of course,often use words in the same<lb/>
+                  the presence of <del>e<unclear>nm</unclear>ies</del> enemies,etc,and in social animals like the bee,such<lb/>
+                  a co<unclear>d</unclear>e may be exceedingly comple<del>s</del>x. We,too,of course,often use words in the same<lb/>
                   way,as when I ask a stranger the way to the railroad station. But when we<lb/>
                   truly speak,we do something quite different. We <del>spak</del> speak as person to person<lb/>
                   in order to disclose ourselves to others and share our exper<del>ei</del><unclear>i</unclear>ences with<lb/>
                   them,not because we must,but becuase we enjoy doing so. This activity is<lb/>
                   sometimes quite erroneously called 'self-expression'. If I write a poem<lb/>
-                  about <del>ceratin</del> experiences I have had,I do so<del>,not bec</del> bec<del>ua</del>ause I think it<lb/>
+                  about <del>ceratin</del> experiences I have had,I do so<del>,not bec</del> bec<del>ua</del><unclear>a</unclear>use I think it<lb/>
                   <del>may</del>should be of interest and value to others<del>,not</del>: the fact that it has till now<lb/>
                   only been my exper<del>ei</del>ience is accidental. What the poet or any artist has to convey<lb/>
                   is a perception of a reality common to all,but seen from a unique perpsective,<lb/>
@@ -268,13 +271,13 @@ for any purpose, even commercially.</p>
                   truths as well as great,St Augustine's words apply.
                </p>
                <p>
-                  Change colon<lb/>
+                  Ch<unclear>a</unclear>nge colon<lb/>
                   to<lb/>
-                  semi-colon ?
+                  semi<unclear>.</unclear>colon ?<lb/>
                </p>
                <p>
                   Change colon to<lb/>
-                  semi-<unclear>c</unclear>olon ?
+                  semi<unclear>.col</unclear>on ?
                </p>
                <p>
                   The truth is neither mine nor his nor another's;but belongs<lb/>
@@ -286,15 +289,15 @@ for any purpose, even commercially.</p>
                   Check qu<unclear>ot</unclear>e<lb/>
                   and<lb/>
                   give<lb/>
-                  source if poss<unclear>i</unclear>ble
+                  source if poss<unclear>ib</unclear>le
                </p>
                <p>
-                  Why <unclear>i</unclear>s this passage<lb/>
-                  under<unclear>li</unclear>ned ?
+                   Why <unclear>i</unclear>s this passage<lb/>
+                   under<unclear>lin</unclear>ed ?
                </p>
                <p>
-                  Then the second impulse to artistic fabrication is the desire to transcend<lb/>
-                  our mortality,by making objects which,unlike ourselves,are not subject to<lb/>
+                  Then th second impulse to artistic fabrication is the desire to transcend<lb/>
+                  our mort<unclear>a</unclear>lity,by making objects which,unlike ourselves,are not subject to<lb/>
                   natural death,but can remain <del>permantly</del> permanently 'on hand' in the world,<lb/>
                   long after we and our society have perished.<lb/>
                   Every genuine work of art,I believe,exhibits two qualities,Nowness and<lb/>
@@ -303,20 +306,20 @@ for any purpose, even commercially.</p>
                   a composition by Palestrina and one by Mozart,one knows immediately that,<lb/>
                   quite aside from their artistic merits,Palestrina must have lived earlier<lb/>
                   than Mozart: he could not possibly have written as he did after Mozart.<lb/>
-                  By <del>P</del>perman<del>a</del>ence,I mean that the work continues to have relevance and<lb/>
-                  importance lo<unclear>m</unclear>g after its creator is dead. In the history of Art,unlike<lb/>
+                  By <del>p</del>Perman<del>a</del>ence,I mean  that the work continues to <unclear>h</unclear>ave relev<unclear>a</unclear>nce and<lb/>
+                  import<unclear>a</unclear>nce lo<unclear>m</unclear>g after its creator is dead. In the history of Art,unlike<lb/>
                   the history of Science,no genuine work of art is made obsolete by a<lb/>
-                  later work. Past science is of interest only to the historian of science,not<lb/>
+                  later work. Past science is of interest only to the histori<unclear>a</unclear>n of science,not<lb/>
                   to what scientists are doing at this moment. Past works of art,on the<lb/>
                   other hand,are of the utmost importance to the contemporary <del>praticioner<unclear>.</unclear></del><lb/>
-                  practic<del>to</del>onerner. Every artist tries to produce something new,but in the hope<lb/>
+                  pra<unclear>c</unclear>tic<del>o</del>t<del>o</del>neroner. Every artist tries to pr<unclear>od</unclear>uce something new,but in the hope<lb/>
                   that,in time,it will take its <del><unclear></unclear></del>proper place in the tradition of his art.<lb/>
-                  And he cannot produce anything significantly original unless he knows<lb/>
-                  well what has <del>been</del> already been done<unclear>;</unclear>w<del>ithout</del>,that is to say ,<del>even in</del> he cannot<lb/>
-                  'rebel' against the past without having a profound reverence for it.
+                  <unclear>A</unclear>nd he cannot produce any<unclear>t</unclear>hing significantly original unless he knows<lb/>
+                  well what has <del>been</del> already been done<unclear>;</unclear>w<del>ithout</del>,th<unclear>a</unclear>t is to say ,<del>even in</del> he cannot<lb/>
+                  're<unclear>b</unclear>el' against the p<unclear>a</unclear>st without having a profound reverence for it.
                </p>
                <p>
-                  Change colon ?
+                  Change colon <unclear>?</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0158/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0159/" type="sheet"/>
@@ -338,7 +341,7 @@ for any purpose, even commercially.</p>
                   ? another
                </p>
                <p>
-                  When I <del>revei<unclear>w</unclear></del> review the contemporary artistic scene,<del>I</del>it strikes me how<lb/>
+                  When I <del>revei<unclear>w</unclear></del> review the contemporary artistic scene,<del>I</del><unclear>i</unclear>t strikes me how<lb/>
                   <del>extraorinary</del> extraordinarily fortunate men like Stravinsky,Picasso,Eliot,<lb/>
                   etc,that is,those persons we think of as the founders of 'modern' art,<lb/>
                   were in being born when they were,so that they came to manhood before<lb/>
@@ -350,11 +353,11 @@ for any purpose, even commercially.</p>
                   I9I2.?<del>"</del>'  Secondly,their <del>audiences</del> contemporary audiences  were mostly<lb/>
                   cons<del>r</del>ervative,but honestly so.  Those,for instance,who were scandalised by<lb/>
                   Le Sacre du Printemps,may seem to us now to have been old <del>fgi</del> fogies,but<lb/>
-                  their reaction was genuine. They did not say to themselves:'<del>"</del>Times have<lb/>
+                  their reaction was genuine. They did not say to themselves:<del>"</del>'Times have<lb/>
                   changed and we must change with them in order <del>to be up to date." </del> not to<lb/>
                   be left behind.<del>"</del>'<lb/>
-                  Here are a few statements by Stravinsky to <del>whcih</del> which the young,<del>where</del><del>where</del>whether<lb/>
-                  artists or critics, would do well to listen and <del>pknde </del> ponder over.
+                  Here are a few statements by Stravinsky to <del>whcih</del> which the young,<del>w<unclear>h</unclear>ere</del><del>where</del>whether<lb/>
+                  artists or critics,would do well to listen and <del>pknde </del> ponder over.
                </p>
                <p>
                   In my youth the new music grew out of,and in reaction to,traditions,<lb/>
@@ -371,11 +374,11 @@ for any purpose, even commercially.</p>
                <p>
                   Again : Why are<lb/>
                   all these<lb/>
-                  passages<lb/>
+                  p<unclear>a</unclear>s<unclear>s</unclear>ages<lb/>
                   underlined <unclear>?</unclear>
                </p>
                <p>
-                  check a<unclear>nd</unclear><lb/>
+                  Check a<unclear>n</unclear>d<lb/>
                   give<lb/>
                   source if possible
                </p>
@@ -387,32 +390,32 @@ for any purpose, even commercially.</p>
                   ***
                </p>
                <p>
-                  check <unclear>d</unclear><lb/>
-                  give<lb/>
-                  source <unclear>.</unclear>
+                  Ch<unclear>ec</unclear>k <unclear>and</unclear><lb/>
+                  <unclear>g</unclear>i<unclear>v</unclear>e<lb/>
+                  so<unclear>u</unclear>rce <unclear>.</unclear>
                </p>
                <p>
-                  In times,like our own,of rapid social change and political crisis,there i<unclear>s</unclear><lb/><!-- ? -->
+                  In times,like our own,of rapid social change and political crisis,there i<unclear>s</unclear><lb/>
                   always a danger of confusing the principles governing political action and<lb/>
                   those governing artistic fabrication.  The most important of such confus<del>u</del>ions<lb/>
                   are thr<del>r</del>ee.<lb/>
-                  Firstly,one may come to think of artistic fabrication as <del>s</del><unclear>a</unclear> f<del>rom</del>orm of political<lb/>
+                  Firstly,one may come to think of artistic fabrication as <del>s</del><unclear>a</unclear> f<del>rom</del>orm of politic<unclear>a</unclear>l<lb/>
                   action. Every citizen,<del>artists</del>poets includ<del>i</del>ed,has a duty to be politically <del>'</del>engagé<del>'</del>,<lb/>
                   that is,to <del>feel</del> play a responsible part in seeing that the society of which<lb/>
                   he is a member shall function properly and improve. But the poet,qua poet,<lb/>
                   has only one political function. Since lang<del>i</del>uage is his medium,it is his duty,<lb/>
                   by his own example,to defend his <del>mot<del>eh</del>her</del>mothermother-tongue against corruption by demagogues,<lb/>
-                  journalists,the mass-media, etc. As Karl Kraus<del>s</del> said:'<del>"</del>Die Sprache ist die <del>Muuet</del><lb/>
+                  journalists,the mass-media,etc. As Karl Kraus<del>s</del> said:<del>"</del>'Die Sprache ist die <del>Muuet</del><lb/>
                   Mutter,nicht das Magd,des <del>d</del> <del>g</del>Gedankens<del>"</del>',and when language loses its meaning,<lb/>
                   its <del>palce</del> place is taken by violence. Of course,the poet may use political and<lb/>
-                  social events as subject-matter for poems - they are as much a part of human<lb/>
+                  social events as subject-matter for poems - they <unclear>a</unclear>re as much a part of human<lb/>
                   experience as love or nature - but he must never imagine that his poems have<lb/>
                   the power to affect the course of history. The political and social history<lb/>
-                  of Europe w<unclear>o</unclear>uld be what it <del>ahs</del> has been if Dante,Shakepeare,Goethe,Micha<del>le</del>el<lb/>
+                  of Europ<unclear>e</unclear> w<unclear>o</unclear>uld be what it <del>ahs</del> has been if Dante,Shakepeare,Goethe,Micha<del>le</del>el<lb/>
                   Angelo,Tit<del>ai</del>ian,Mozart,Beethoven,e<del>y</del>tc,<del>ahd</del> had never existed.
                </p>
                <p>
-                  Check <unclear>and</unclear><lb/>
+                  <unclear>C</unclear>heck <unclear>and</unclear><lb/>
                   give<lb/>
                   source
                </p>
@@ -423,7 +426,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Where <del>politicla</del> political and social <del>eveils</del> evils are concerned,only<lb/>
-                  t<del>h</del>wo things are effective<del>*</del>: political action and straightforward,truthful,<lb/>
+                  t<del>k</del>wo things are effective<del>*</del><unclear>:</unclear> political action and straightforward,truthful,<lb/>
                   detailed journalistic rapportage of the facts. The Arts are powerless.<lb/>
                   The second confusion,of which Plato is the most famous example,is to take<lb/>
                   arti<del>t</del>stic fabrication as the model for a good society. <del>The aim of any artist  </del><lb/>
@@ -431,13 +434,13 @@ for any purpose, even commercially.</p>
                   the artist<del>s</del> is to produce an object which is complete and will endure without<lb/>
                   change. <del>A</del> In the 'city' of a poem,there are always the same inhabitants doing<lb/>
                   exactly the same jobs for ever. A society which was really like a good poem,<lb/>
-                  embodying the aesthetic virtues of order,economy, and subordination of the detail<lb/>
+                  embodying the aesthetic virtues of order,economy,and subordination of the detail<lb/>
                   to the whole,would be a nightmare of horror for,given the historical reality of<lb/>
                   actual men,such a society could only come into being through selective breeding,<lb/>
                   ex<del>y</del>termination  of the physically and mentally unfit,absolute obedience to<lb/>
-                  its <del>D</del>director,a a lrge slave cla<del>a</del>ss kept out of sight in <del>f</del>cellars, and the<lb/>
-                  strictest censure<unclear><del>e</del>s</unclear>hip of the Arts,forbidding anything to be said which <del>was</del> is<lb/>
-                  <del>not</del> out of keeping with the official 'line'.<lb/>
+                  its <del>D</del>director,a <del>al</del>large slave cla<del>a</del>ss kept out of sight in <del>f</del>cellars,and the<lb/>
+                  strictest censure<del>e</del>ship of the Arts,forbidding anything to be said which <del>was</del> is<lb/>
+                  <del>not</del> out of keeping with the official 'line<del>.'</del>'.<lb/>
                   The third confusion,typical of our western <del>civilisat</del> 'free' <del>soncietis</del><lb/>
                   societies at this time,is the opposite of Plato's,namely to take political<lb/>
                   act<del>u</del>ion as the model for arti<del>t</del>stic fabrication. Political action is a necessity,<lb/>
@@ -447,7 +450,7 @@ for any purpose, even commercially.</p>
                   the alternative to one work of art can be no work of art - and the artistic<lb/>
                   object is permanent,that is to say,immune to historical change. The attempt<lb/>
                   to model arti<del>t</del>stic fabrication o<del>s</del>n political action can therefore,only<lb/>
-                  reduce it to momentary <del>(b </del> a<del>d</del>nd arbitrary 'happenings',a conformism with<lb/>
+                  reduce it to momentary <del>(<unclear>h</unclear> </del> a<del>d</del>nd arbitrary 'happenings',a conformism with<lb/>
                   the tyrrany of the immediate moment which is far more enslaving and<lb/>
                   destructive of integrity than any conformism with past tradition.
                </p>
@@ -458,7 +461,7 @@ for any purpose, even commercially.</p>
                <p>
                   What then,can the Arts do for us? In my opi<del>o</del>nion,they can do two things.<lb/>
                   They can,as Dr Johns<del>t</del>on said,'enable us a little better to enjoy life or a<lb/>
-                  little better to <del>enjoy</del>endure it<del>"</del>'. And,<del>becaade</del> because they are objects <del>permant</del><lb/>
+                  little better to <del>enjoy</del>endure it<del>"</del>'. And,<del>bec<unclear>aas</unclear>e</del> because they are objects <del>permant</del><lb/>
                   permanently on hand in the world,they are the chief means by which the <del>lvi</del><lb/>
                   living are able to break bread with the dead,and,without a communication<lb/>
                   with the dead,I do not believe that a fully human civilised life is possible.<lb/>
@@ -470,24 +473,24 @@ for any purpose, even commercially.</p>
                   Laborans is also Homo Ludens.
                </p>
                <p>
-                  Source ?
+                  So<unclear>u</unclear>rce ?
                </p>
-               <p>        
+               <p>
                   And now,I hope those of you who know no English will forgive me i<del>s</del>f<lb/>
                   I conclude<del>d</del> these remarks with a light poem of my own,entitled<lb/>
                   Doggerel <del>of</del> by a Senior Citizen<del>.</del> (see CP 638-9).
                </p>
                <p>
-                  I have added commas in lists after final item and before etc<lb/>
-                  Since they are already <unclear>t</unclear>here in most of the lists -<lb/>
-                  I have a<unclear>ls</unclear>o added a few other comma<unclear>s</unclear> (<unclear></unclear> is complex a set of <unclear>p</unclear>arenthetical comma<unclear>s</unclear><lb/>
-                  I have no<unclear>t</unclear> de<unclear></unclear> colons <unclear>thou</unclear>gh I wou<unclear>l</unclear>d like to . Are these A's <unclear>?</unclear>
+                  I have added commas in lists after fin<unclear>al</unclear> item and bef<unclear>o</unclear>re etc<lb/>
+                  since they are already <unclear>the</unclear>re in most o<unclear>f</unclear> the lists<unclear>-</unclear><lb/>
+                  I have a<unclear>ls</unclear>o <unclear>a</unclear>dded a <unclear>f</unclear>ew o<unclear>th</unclear>er comma<unclear></unclear> (<unclear>usually</unclear> <unclear>t</unclear>o co<unclear>m</unclear>ple<unclear>t</unclear>e a set <unclear>o</unclear>f <unclear>pa</unclear>renthetical comma<unclear>s)</unclear><lb/>
+                  I have n<unclear>ot</unclear> ch<unclear>an</unclear>ged colons <unclear>though</unclear> I wou<unclear>l</unclear>d <unclear>lik</unclear>e to <unclear>:</unclear> Are <unclear>th</unclear>ese A's ?
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0162/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0163/" type="sheet"/>
                <p>
                   (4a
-               </p>   
+               </p>
                <p>
                   insert into <del>next</del>preced<unclear>i</unclear>ng page
                </p>
@@ -505,7 +508,7 @@ for any purpose, even commercially.</p>
                   it does not,it would seem,make for originality.
                </p>
                <p>
-                  ? delete<lb/>
+                  <unclear>?</unclear> delete<lb/>
                   this<lb/>
                   comma ?
                </p>
