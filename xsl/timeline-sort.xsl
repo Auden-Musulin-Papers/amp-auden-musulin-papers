@@ -16,7 +16,7 @@
         <xsl:copy>
             <xsl:apply-templates select="@*"/>            
             <xsl:apply-templates select="./tei:event">
-                <xsl:sort select="./tei:head/tei:date/@when" data-type="text" order="descending"/>
+                <xsl:sort select="./tei:head/tei:date/@when" data-type="text" order="ascending"/>
             </xsl:apply-templates>
         </xsl:copy>        
     </xsl:template>
