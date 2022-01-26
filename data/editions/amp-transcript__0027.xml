@@ -64,7 +64,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 4</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate>[1970]</origDate></origin>
+                        <origin><origDate notBefore="1970-01-01" notAfter="1970-12-31">[1970]</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -153,7 +153,7 @@ for any purpose, even commercially.</p>
                   it
                </p>
                <p>
-                  Sehr veehrter Herr Landeshauptman<unclear>n,</unclear>meine Damen und Herren:<lb/>
+                  Sehr vee<del>rh</del>hrter Herr Landeshauptman<unclear>n,</unclear>meine Damen und Herren:<lb/>
                   I hope you will pardon me if I speak somewhat personally. I do so,<lb/>
                   not out of vanity,but bec<del>ua</del>ausebecause  I do <del>j</del>not wish to give the impression that I<lb/>
                   am attempting to lay down absolute laws which are valid for all. I give you my<lb/>

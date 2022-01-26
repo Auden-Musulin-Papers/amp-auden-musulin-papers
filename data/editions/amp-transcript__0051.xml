@@ -64,7 +64,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 5</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate>[1970]</origDate></origin>
+                        <origin><origDate notBefore="1970-01-01" notAfter="1970-12-31">[1970]</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
