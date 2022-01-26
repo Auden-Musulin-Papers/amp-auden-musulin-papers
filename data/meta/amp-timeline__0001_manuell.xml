@@ -71,17 +71,17 @@
    <text>
       <body>
          <listEvent>            
-            <event xml:id="add-id--"
-               type="add-type--"
+            <event xml:id="e0001"
+               type="event"
                facs="optional--add-facs-or-delete-attr">
                <head xml:lang="en">
-                  <date notBefore="1971-06-04" notAfter="1971-06-05">1971-06-04</date>
+                  <date when="1957-10-04">1957-10-04</date>
                </head>
                <desc>
-                  <title xml:lang="en">Add label</title>
-                  Add text
+                  <title xml:lang="en">4 October 1957, Vienna</title>
+                  W. H. Auden and Chester Kallman purchase the house Hinterholz 6, 3062 Kirchstetten, in Lower Austria.
                   <location>
-                     <geo>51.969604 -2.893146</geo>
+                     <geo>48.2082 -16.37169</geo>
                   </location>
                   <!-- 
                      more option:
