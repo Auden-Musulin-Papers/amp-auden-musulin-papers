@@ -71,6 +71,18 @@
    <text>
       <body>
          <listEvent>
+            <event xml:id="e0001" type="event">
+               <head xml:lang="en">
+                  <date when="1957-10-04">1957-10-04</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">4 October 1957, Vienna</title>
+                  W. H. Auden and Chester Kallman purchase the house Hinterholz 6, 3062 Kirchstetten, in Lower Austria.
+                  <location>
+                     <geo>48.2082 -16.37169</geo>
+                  </location>
+               </desc>
+            </event>
             <event xml:id="amp-transcript__0055.xml"
                    type="photos"
                    facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0235/">

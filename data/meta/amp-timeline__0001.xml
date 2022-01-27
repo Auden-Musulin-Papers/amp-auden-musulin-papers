@@ -398,7 +398,20 @@
                   <date when="1971-06-04">1971-06-04</date>
                </head>
                <label xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1971-06-04</label>
-            </event>            
+            </event>        
+            <event xml:id="e0001"
+               type="event">
+               <head xml:lang="en">
+                  <date when="1957-10-04">1957-10-04</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">4 October 1957, Vienna</title>
+                  W. H. Auden and Chester Kallman purchase the house Hinterholz 6, 3062 Kirchstetten, in Lower Austria.
+                  <location>
+                     <geo>48.2082 -16.37169</geo>
+                  </location>
+               </desc>               
+            </event>
          </listEvent>
       </body>
    </text>
