@@ -89,8 +89,8 @@
     </xsl:template>
     <xsl:template name="event">
         <xsl:for-each select="collection('../data/editions')//tei:TEI">
-            <xsl:choose>                
-                <xsl:when test="not(substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0055', '0054', '0050'])">
+            <xsl:choose>
+                <xsl:when test="substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0048']">
                     <event xml:id="{@xml:id}" type="photos" facs="{//tei:facsimile/tei:surface[1]/tei:graphic/@url}">
                         <head xml:lang="en">
                             <date>
@@ -115,7 +115,32 @@
                         </label>
                     </event>
                 </xsl:when>
-                <xsl:when test="not(substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0049', '0052'])">
+                <xsl:when test="substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0028']">
+                    <event xml:id="{@xml:id}" type="memoirs" facs="{//tei:facsimile/tei:surface[1]/tei:graphic/@url}">
+                        <head xml:lang="en">
+                            <date>
+                                <xsl:choose>
+                                    <xsl:when test="//tei:origDate/@when-iso">
+                                        <xsl:attribute name="when">
+                                            <xsl:value-of select="//tei:origDate/@when-iso"/>
+                                        </xsl:attribute>
+                                    </xsl:when>
+                                    <xsl:when test="not(//tei:origDate/@when-iso)">
+                                        <xsl:variable name="date" select="translate(translate(//tei:origDate, '[' ,''), ']', '')"/>
+                                        <xsl:attribute name="when">
+                                            <xsl:value-of select="concat(subsequence($date, 1, 4), '-01-01')"/>
+                                        </xsl:attribute>
+                                    </xsl:when>
+                                </xsl:choose>                                        
+                                <xsl:value-of select="//tei:origDate"/>
+                            </date>
+                        </head>
+                        <label xml:lang="en">
+                            <xsl:value-of select="//tei:title[@level='a']"/>
+                        </label>
+                    </event>
+                </xsl:when>
+                <xsl:when test="substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0049', '0052', '0029', '0047', '0046', '0034', '0027', '0036', '0033', '0030', '0053', '0037', '0051', '0031']">
                     <event xml:id="{@xml:id}" type="additional-materials" facs="{//tei:facsimile/tei:surface[1]/tei:graphic/@url}">
                         <head xml:lang="en">
                             <date>
