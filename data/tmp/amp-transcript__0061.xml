@@ -58,10 +58,10 @@ for any purpose, even commercially.</p>
                   <msDesc>
                      <msIdentifier>
                         <country>A</country>
-                        <settlement>St. Pölten</settlement>
-                        <repository>State Collections of Lower Austria</repository>
-                        <collection>Stella Musulin (Depot)</collection>
-                        <idno>nan</idno>
+                        <settlement>Vienna</settlement>
+                        <repository>Österreichische Gesellschaft für Literatur, Austrian Society for Literature</repository>
+                        <collection>Correspondence Wolfgang Kraus</collection>
+                        <idno>A2</idno>
                      </msIdentifier>
                      <history>
                         <origin><origDate when-iso="1977-04-05" >1977-04-05</origDate></origin>
@@ -73,12 +73,15 @@ for any purpose, even commercially.</p>
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="en">English</language>
+            <language ident="de">German</language>
          </langUsage>
          
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2022-01-25">template populated with script "create_templates.py"</change>
+         <change who="smayer" when="2022-01-27">text transcribed</change>
+         <change who="tfruehwirth" when="2022-01-28">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2022-02-28">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -102,7 +105,7 @@ for any purpose, even commercially.</p>
                   5. April 1977
                </p>
                <p>
-                  A<unclear>2</unclear>
+                  <unclear>A2</unclear>
                </p>
                <p>
                   Herrn Dr. Wolfgang Kraus,<lb/>
@@ -118,7 +121,7 @@ for any purpose, even commercially.</p>
                   Wie wäre es mit "Auden und die Österreicher"?<lb/>
                   Aber wenn nicht, ist mir Alles recht!<lb/>
                   Mit herzlichen Grüßen,<lb/>
-                  Stella Musulin<unclear>´</unclear><lb/>
+                  Stella Musulin <unclear>´</unclear><lb/>
                   Stella Musulin.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0252/" type="nan"/>

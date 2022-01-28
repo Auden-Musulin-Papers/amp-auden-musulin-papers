@@ -58,10 +58,10 @@ for any purpose, even commercially.</p>
                   <msDesc>
                      <msIdentifier>
                         <country>A</country>
-                        <settlement>St. Pölten</settlement>
-                        <repository>State Collections of Lower Austria</repository>
-                        <collection>Stella Musulin (Depot)</collection>
-                        <idno>nan</idno>
+                        <settlement>Vienna</settlement>
+                        <repository>Österreichische Gesellschaft für Literatur, Austrian Society for Literature</repository>
+                        <collection>Correspondence Wolfgang Kraus</collection>
+                        <idno>A2</idno>
                      </msIdentifier>
                      <history>
                         <origin><origDate when-iso="1977-03-22" >1977-03-22</origDate></origin>
@@ -73,12 +73,15 @@ for any purpose, even commercially.</p>
       </fileDesc>
       <profileDesc>
          <langUsage>
-            <language ident="en">English</language>
+            <language ident="de">German</language>
          </langUsage>
          
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2022-01-25">template populated with script "create_templates.py"</change>
+         <change who="smayer" when="2022-01-27">text transcribed</change>
+         <change who="tfruehwirth" when="2022-01-28">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2022-02-28">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -94,7 +97,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0253/" type="nan"/>
                <p>
-                  A<unclear>2</unclear>
+                  <unclear>A2</unclear>
                </p>
                <p>
                   Frau<lb/>
