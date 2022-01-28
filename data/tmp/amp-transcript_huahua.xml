@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:id="amp-transcript__0001.xml"
+   xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
+            <title level="a"></title>
+            <author></author>
+            <editor>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+            </editor>
+            <funder>
+               <name>FWF Austrian Science Fund</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Vienna</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Vienna</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>AMP</edition>
+            <respStmt>
+               <resp>Transcription and commentary</resp>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                  <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
+for any purpose, even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+                  <p>Notices:</p>
+                  <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
+               </licence>
+               <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>St. Pölten</settlement>
+                        <repository>State Collections of Lower Austria</repository>
+                        <collection>Helga Köcher</collection>
+                        <idno>1, 7</idno>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate></origDate></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">German</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="transcription">
+            <pb/>
+               <p>
+                  Die Sache mit Hua-hua.
+                  Hinter Fridau kann man die Landstraße an einer Stelle
+                  verlassen, wo ein offener Torbogen in einen Bauernhof führt.
+                  Rechts und links stehen reihenweise Apfel- und Birnenbäume
+                  die ein relativ reifes Alter erreicht haben, ohne daß man
+                  sich viel um ihre Früchte gekümmert hätte. Diese liegen
+                  unbeachtet im Staub und im Gras am Straßenrand, und sie sind
+                  klein und hart, aber für einen Schnapps, denke ich mir, würden
+                  die Birnen schon taugen. Bald begegnet man dem Bach wieder,
+                  den man oberhalb der Gärtnerei aus den Augen verloren hat,
+                  und eine Brücke führt den Wanderer von der Seitenstraße
+                  die ohnehin kein besonders lohnendes Ziel That, auf den Weg
+                  hinüber, der auf den Weingartleiten hinaufschlängelt.
+                  Im seichten Wasser unter der Brücke machen sich einige
+                  weiße Enten zu schaffen, nur für einen Augenblick schauen
+                  sie zu mir hinauf. Aber der Enterich zeigt mehr Interesse:
+                  er legt den Kopf auf die Seite um mich besser ins Auge fassen
+                  zu können, und mit leiser, verrauchter Stimme sagt er „Hua-hua!
+                  Ich erwidere seinen höflichen Gruß und denke: Siehst du,
+                  hier endet alles wie es begonnen hat.
+                  Vor einem halben
+                  Jahrhundert ist ein Enterich an gebrochenem Herzen gestorben,
+                  du bist fortgegangen, um die Welt zu erobern, und nun bist du
+                  alt geworden, gehst hier am Bäch spazieren und ein Enterich
+                  sagt zu dir Hua-hua.
+                  Auf unseren Bauernhöfen in Wales gibt es Federvieh in
+                  bunter Vielfalt. Neben Hühnern und Enten die immer vorhanden
+                  sind, warten Gänse auf Martini und Truthühner auf Weihnachten,
+                  und nähert man sich der Haustüre, erschallt nicht gerade
+                  einladend das „Go-back! go-back!“ der Perlhühner. Alle
+                  sind Eigentum der Bäuerin: was sie dabei verdient, darf sie
+                  für sich behalten. Meiner Schwester Sonia und mir Bruthennen
+                  zu leihen und etwas Stroh mitzugeben war kein Problem.
+                  Nicht immer klappte es, und wir besuchten andere Höfe auch,
+                  weshalb die Hennen die Namen Mrs. Williams of Hayguard Hay,
+                  Mrs. Edwards of Moorlands u. a.m. trugen. So bald sie sich von
+                  den Strapazen erholt hatten, die ihnen taktloserweise durch
+                  den Transport in fasanenblutbesudelten Rucksäcken zugemutet
+               </p>
+            <pb/>
+               <p>
+                  2
+                  worden waren, machten sie sich in ihren kleinen Holzhütten
+                  bequem und brüteten brav ihre Enteneier aus.
+                  Wir fingen klein an. Immerhin standen nach einer Weile
+                  fünf Hütten, sie standen nebeneinander in einem geschützten
+                  Winkel des Pump Fields. Zu gegebener Zeit übersiedelten die
+                  jungen Enten in ein größeres Quartier.
+                  In welcher peinlichen Lage eine Henne mit ihren jungen
+                  Enten plötzlich stehen kann ist hihlänglich bekannt; bei
+                  den unsrigen kam es noch ärger. Das Pump Field verdamkte
+                  seinen Namen einem aufgelassenen steinernen Wasserturm, der
+                  nur mehr Benzinkanistern für die eigenartige Gasanlage im
+                  Haus einen Schutzraum bot. Auf der leicht abschüssigen
+                  Wiese maß die Entfernung zwischen dem Lebensraum der Enten
+                  und dem Turm etwa fünfzig Schritte. Einige Meter weiter
+                  weiter nach Süden fällt der Boden steil ab, am Fuß des Abhangs
+                  liegt noch heute ein von Teichhünern bewohnter Wassertumpel.
+                  Eines Tages, die erstgeborenen Enten waren kaum zehn Tage
+                  alt, gingen wir mit dem Futter hin und mußten feststellen,
+                  daß sie verschwunden waren; einfach weg. Könnte ein Raub¬
+                  vogel, ein Buzzard, sie geholt haben? Unmöglich, ein Netz
+                  schützte sie. Nach langem Suchen entdeckten wir eine Stelle
+                  wo der Drahtzaun nicht völlig dicht war, es war nicht ausge¬
+                  schlossen, daß ein kleiner Körper darunter schlüpfen könnte.
+                  Und tatsächlich, legte man sich auf der Wiese in der Augenhöhe
+                  einer Ente nieder, war alles klar. Nur ein paar Zentimeter
+                  breit, führte ein schnurgerader Pfad zwischen den Grashalmen
+                  zum Teich hinunter. Wir liefen zum Teich, und da
+                  waren sie: winzig klein, flauschig-gelb, frech und zufrieden
+                  ritten sie auf den haarfeinen Wellen, die wie Spinnweben von
+                  der leichten Brise gezeichnet wurden.
+                  Pembrokeshire ist ein Land der Frühkartoffel, wo die
+                  ersten paar Säcke schon Ende April aus der roten Erde gefüllt
+                  werden. In den Großstädten kauft man sie für teueres Geld:
+                  mit frischer Minze in Salzwasser gekocht, schmecken sie
+                  so einmalig gut, daß sie würdig wären, als Vorspeise gegessen
+                  zu werden. Bereits am 1. März, am Festtag des Landespatrons,
+                  des heiligen Davids, trug mein Vater einen Märzbecher im
+                  Und waren die kleinen einheimischen 
+                  Knopfloch.
+               </p>
+            <pb/>
+               <p>
+                  8
+                  "Pembrokeshire daffodils“ so weit, daß sie die speergeraden
+                  Köpfe zu senken begannen, brachte meine SMutter einige ins
+                  Haus, in der Hoffnung, sie würden zum Geburtstag des
+                  jüngsten Sohns am 13. Februar blühen. Meistens gelang
+                  dieses rituale Wettrennen mit der Witterung, und meine Mutser
+                  freute sich. Elfjährig im fernen Internat spürte ich einen
+                  Stich im Herzen als ich die Worte dee Renaissance-Lyrikers
+                  zum ersten Mal las:
+                  Fair daffodils, we weep to see
+                  You haste away too soon....
+                  Später sollte ich Wordsworth entdecken:
+                  wandered lonely as a cloud
+                  I
+                  That floats on high o er vales and hilla,
+                  When all at once I saw a crowd,
+                  A host of golden daffodils
+                  Es blühen hier auch andere Narzissen, die Jonquille
+                  mit ihrem starken Duft, und jene mit dem Fasanenauge.
+                  Außer der Person des Prinzen hat die Atlantik-Küste
+                  von Wales mit dem Herzogtum von Cornwall vieles gemeinsam,
+                  von den Heiligen der keltischen Kirche bis zu den Früh¬
+                  kartoffeln, jeder zu seiner Zeit. Die Märzbecher und andere
+                  Das alles
+                  Narzissen liefen um die Wette nach Covent Garden.
+                  macht der Golfstrom, allerdings gibt es viel Regen, auf der
+                  Landkarte färbt man das Gebiet um Haverfordwest purpurblau;
+                  dazu heftige Winde die oft tagelang anhalten. Für die Enten
+                  ist die gefährlichste Zeit der Übergang vom warmen Flausch
+                  zur wasserfesten Bedeckung mit Federn. Auch die „Daunendecke
+                  hat sich noch nicht so entwickelt, daß sie endlich den Körper
+                  bei fast jeder vorsehbaren Witterung schützt, das Gefieder
+                  ist nur andeutungsweise vorhanden und das Schlimmste ist,
+                  daß die noch kleinen Körper schon viel zu groß sind, um
+                  zu
+                  finden
+                  Die Nächte
+                  bei der Mutterhenne die alte Geborgenheit
+                  verbrachten sie in verschiedenen Häusern und kleinen ütten,
+                  nachts konnte ihnen nichts passieren.
+                  Eines Tages im späten Frühjahr als wir das Futter hinaus¬
+                  trugen war es bedenklich kalt und regnerisch, am Horizont
+                  bildeten sich dunkelblaue Wolkenmassen, die wir nicht gleich
+                  zu deuten vermochten. SEs wird so gegen 11 Uhr gewesen sein:
+                  wir sassen in der inneren Halle, tranken Tee und aßen
+               </p>
+            <pb/>
+               <p>
+                  4 -
+                  Ingwerkeks - dieser Brauch heißt "elevenses“. Das Tageslicht
+                  wurde fahl, wir warfen einem Blick zum Fenster hinaus und
+                  erschraken: Es schneite.
+                  Die in der Garderobe zusammengerafften Mäntel zogen
+                  wir erst einmal nicht an; ein paar Minuten später standen
+                  wir bereits auf dem Pump Field. Es war ein Weltuntergang
+                  in Kleinformat. Mrs Davies of Longlands und Mrs Edwards
+                  of Moorlands hockten im ringsum von Schnee bedeckten Gras,
+                  ihre Flügelthatten sie weit ausgebreitet um möglichst viele
+                  ihrer Kinder überdecken zu können. Enten, die keinen Schutz
+                  fanden, hattenssich eng aneinander geschmiegt, andere lagen
+                  vereinzelt, schon halb bewußtlos herum. Diese nahmen wir
+                  zuerst vor. Wir sammelten die halb erfrorenen, leblosen
+                  
+                  Korper ein, betteten sie in den Falten unserer hochgehaltenen
+                  Röcke, und liefen mit dieser ersten Auswahl der am ärgsten
+                  getroffenen Vögel ins Haus. In der Halle brannte im großen
+                  offenen Kamin ohnehin schon ein Feuer, und hier breiteten
+                  wir die kleinen Enten auf dem weichen Vorleger aue.
+                  "Cognac" sagte Sonia dann, und "Fang an, ich hole die
+                  anderen.“ Ich machte mich an die Arbeit.
+                  Es dauerte nicht lang, schon bewegten sich die erstarrten
+                  Körper. Zuerst machten sie die Augen auf, da erhob sich ein
+                  Kopf, dort wurde ein Bein vorsichtig ausgestreckt. Mit
+                  sanftem Druck brachten wirósie nacheinander dazu, die Schnäbel
+                  zu öffnen, dann liessen wir ein paar Tropfen Cognac die
+                  Kehlen hinunterfliessen.
+                  Die Wirkung war spektakulär., Augen glänzten, Hälse
+                  bekamen ein wenig Kraft, Beine auch, die Wärme, die dem Kamin
+                  entströmte und das wohlige Gefühl im Magen spendeten neue
+                  Lebensimpulse. Jetzt war der Himmel wieder blau und die
+                  Krise war vorbei, aber mit dem Rücktransport liessen wir
+                  uns Zeit, zumal einige Entlein offensichtlich einen Schwipps
+                  hatten. Zwei hatten wir verloren, man mußte zufrieden sein.
+                  In der Außenhalle waren Schritte zu hören, die
+                  Zwischentüre ging auf und deröHausherr näherte er sich
+                  Er betrachtete
+                  der Szene des ungewöhnlichen Geschehens.
+                  die besoffenen Enten, erspähte sofort die Flasche und sprach
+                  leise, fast ergriffen vor sich hin.
+               </p>
+            <pb/>
+               <p>
+                  5 -
+                  "Good heavens" hauchte er. "The Napoleon brandy!“
+                  Frage am Rande: welcher kleine Moses hat den Gänsemarsch
+                  zum Teich geführt?
+                  Ein Dutzend Zuchtenten lebten in mehr oder weniger
+                  freier Wildbahn in der Nähe des Tümpels und duften schwimmen,
+                  so viel sie wollten; die andern durften die anderen nicht,
+                  deren Schicksal es war, auf den Tischen eines Restaurants
+                  im Ksurort Tenby zu landen. Bei der heranwachsenden Jugend
+                  zeigte sich indes ein psychisches Phäbomen das uns beunruhigte.
+                  Freilich waren sie von einem Drahtzaun umgeben; an den
+                  furchtbaren Gepfogenheiten unsererögeit gemessen, waren sie
+                  nicht in beängstigenfer Weise eingeengt. Wurden sie plötzlich
+                  von Panik erfaßt? Den Auslösemoment konnten wir niemals
+                  feststellen, aber auf einmsal begannen sie wie besessen ink
+                  Kreisen zu laufen. Schnatternd und quakend, mit gesenkten
+                  Köpfen und ausgestreckten Flügeln rasten sie hinter einander
+                  bis zur Erschöpfung herum. Die Verhaltensforschung wüßte
+                  sicherlich darüber Bescheid.
+                  Wenn sich die Sonnenwende nähert sind in Dale die Abende
+                  lang, bis zehn Uür abends bleibt es hell. Unser Federvieh
+                  hielt es nicht anders als die übrige Vogelwelt und hatte es
+                  nicht eilig, schlafen zu gehen; ein Interessenkonflikt
+                  zwischen den Enten und Hühnern einerseits und meiner Schwester
+                  und mir andererseits war daher unvermeidbar. Gesellschaftliche
+                  Veranstaltungen, etwa Hausbälle, waren im Sommer eine Seltenheit,
+                  sie zu versäumen undenkbar. Ich sehe meine Schwester in
+                  grande toilette, zu ihrem hellblauen Spitzenkleid trägt sie
+                  eine Kunstperlenkette, sie ist frisch frisiert, diskret
+                  geschinkt und ihre Beine stecken in schweren Gummistiefeln.
+                  In ähnlicher Adjustierung stehe ich mit ihr auf dem Pump Field
+                  wo wir völlig erfolglos versuchen, Enten und Hühner zu
+                  überreden, gütigerweise vorzeitig in die Hütten marschieren
+                  zu wollen. Unsere Dinergäste und Tanzpartner- Regiments¬
+                  offiziere aus Pembfoke Dock - ziehen es vor, mit ihren
+                  empfindlichen Lackschuhen auf dem trockenen Kies zu bleiben
+               </p>
+            <pb/>
+               <p>
+                  6
+                  und denken nicht daran, uns zu helfen.
+                  Ihre Arme läßig auf der
+                  oberen Stange des hölzernen Gittertors gestützt, machen sie sich
+                  über uns lustig. Nach Sonnenuntergang wäre das Kleinvieh unauf¬
+                  gefordert schlafen gegangen, jetzt sind sie empört, sie brechen
+                  nach allen Seiten aus, sie quaken und gackern und die Herren
+                  schütteln sich vor lachen.
+                  Die äöteren Zuchtenten die die Freiheit genossen, ihre Bein¬
+                  Muskel nicht schonen zu müßen, die daher bergauf, bergab laufen
+                  und schwimmen durften, pflegten sich standesgemäß zu verhalten.
+                  Sie waren reinrasigeöAylesburyssderen Schnäbel und Beine von
+                  sinftrosiger Farbe waren wie die ersten Strahlen des Sonnenaufgangs.
+                  Bei der königlichen walisischen Landwirtschaftsmesse auf der
+                  großen Wiese bei Haverfordwest stellten wir den schönsten Enterich
+                  aus.
+                  Wie eine Vorahnung des Flugzeugs Concorde stand er mit
+                  weiblicher Begleitung in seinem Käfig und betrachtete scheinbar
+                  interessiert die Konkurrenz. Die Fachleute kamen, und sie
+                  befestigten ein blaues Billet an den Käfig. Entsprechend der
+                  Noblesse seiner Gestalt, des Fehlens jeglicher Andeutung minder¬
+                  wertiger Gelbfärbung, bestimmt wegen der Keckheit der dens
+                  Schwanzfedern zierenden krausen Locke, stand er nun im höchsten
+                  Rang: First Class.
+                  Unsere Herzen gingen über. Der ungewohnte
+                  Lärm, die Fahrt, die Menschen hatten ihn sicherlich angestrengt.
+                  Als ich ihn wieder fest in den Armen hielt sagte  mit seiner
+                  heiseren Stimme "Hua-hua“, er knabberte an meinem Ohr und
+                  blies "Ffff!".
+                  Doch bald gaben wir auf. Zwei, drei Jahre lang hielten wir
+                  die frühsommerliche Routine des Schlachtens (vom Hilfsgärtner
+                  durchgeführt), des Rupfens auf dem Dachboden oberhalb der Garage
+                  aus, nicht zu reden von der Anbiederung an das Küchenpersonal
+                  der wenigen Hotels.
+                  Langsam verschwanden die Enten. Sie waren unverkäuflich
+                  und ungenießbar, aber sie legten noch und wurden fallweise
+                  verschenkt. Wer weiß wann Hua-hua bemerkte, daß sein Harem
+                  in Auflösung begriffen war? Da ich während der Fütterung auch
+                  Endere Pflichten hatte wie ausmisten und Wasser holen, fiel mir
+                  sein veändertes Verhalten nicht gleich-auf, aber bald wurde die
+               </p>
+            <pb/>
+               <p>
+                  7-
+                  Wahrheit offensichtlich: er fraß nicht mehr.
+                  Dann nahm er die Entscheidung über seine unsichere Zukunft
+                  selbst in die Hand. Er ging zum Teich hinunter und schwamm
+                  hinaus, und in der Mitte der Wasserfläche blieb er; kein
+                  Rufen und kein Flehen konnten ihn bewegen, an Land zu kommen.
+                  Seinen Kopf legte er unter seinen Flügel und so verharrte er
+                  bis er starb. E in leichter Wind Frieb seinen Körper an das
+                  Ufer und ich hob ihn auf. Der seinerzeit so schwerer, Concorde¬
+                  ähnlicher Enterich wog jetzt fast nichts mehr, er bestand aus
+                  Federn, Daunen und Knochen.
+                  Sonia war längst nach London zurückgekehrt, ich stand
+                  Ich rief die Veterinär-Abteilung der
+                  allein mit Hua-hma.
+                  Landwirtschaftskammer an und ein junger Beamter fuhr nach Hale
+                  hinaus.. Gleich an Ort und Stelle führte er eine Obduktion
+                  durch und sagte dann verwundert:
+                  "Alle Organe sind gesund.
+                  Das Tier ist einfach verhungert.“
+                  Ich hatte dem Beamten die Vorgeschichte erzählt.
+                  "Dann ist er an gebrochenen Herzen gestorben“ sagte ich.
+                  "Möglich ist es.'
+                  Er nickte.
+                  War vielleicht Hua-hua der kleine Moses?
+               </p>
+         </div>
+      </body>
+   </text>
+</TEI>
