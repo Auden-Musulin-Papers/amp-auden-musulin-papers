@@ -58,10 +58,10 @@ for any purpose, even commercially.</p>
                   <msDesc>
                      <msIdentifier>
                         <country>A</country>
-                        <settlement>St. Pölten</settlement>
-                        <repository>State Collections of Lower Austria</repository>
-                        <collection>Stella Musulin (Depot)</collection>
-                        <idno>nan</idno>
+                        <settlement>Vienna</settlement>
+                        <repository>Österreichische Gesellschaft für Literatur, Austrian Society for Literature</repository>
+                        <collection>Correspondence Wolfgang Kraus</collection>
+                        <idno>A2</idno>
                      </msIdentifier>
                      <history>
                         <origin><origDate when-iso="1977-03-22" >1977-03-22</origDate></origin>
@@ -93,6 +93,9 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0253/" type="nan"/>
+               <p>
+                  <unclear>A</unclear>2
+               </p>
                <p>
                   Frau<lb/>
                   Stella von Musulin<lb/>
