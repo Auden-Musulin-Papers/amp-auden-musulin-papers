@@ -12,13 +12,19 @@
             <xsl:apply-templates select="@* | node()"/>
         </xsl:copy>        
     </xsl:template>
+    <xsl:template match="@notAfter-iso">
+        <xsl:copy/>
+        <xsl:attribute name="when-iso">
+            <xsl:value-of select="."/>
+        </xsl:attribute>
+    </xsl:template>
     <xsl:template match="tei:listEvent">
         <xsl:copy>
-            <xsl:apply-templates select="@*"/>            
-            <xsl:apply-templates select="./tei:event">
-                <xsl:sort select="./tei:head/tei:date/@when" data-type="text" order="ascending"/>
+            <!--<xsl:apply-templates select="@*"/>-->            
+            <xsl:apply-templates>
+                <xsl:sort select="./tei:head/tei:date/@when-iso" data-type="text" order="ascending"/>
             </xsl:apply-templates>
         </xsl:copy>        
-    </xsl:template>
+    </xsl:template>    
     
 </xsl:stylesheet>
