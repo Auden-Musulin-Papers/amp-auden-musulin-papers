@@ -129,6 +129,45 @@
                   </location>
                </desc>               
             </event>
+            <event xml:id="ea004"
+               type="event_austria">
+               <head xml:lang="en">
+                  <date when-iso="1965-05-24">1965-05-24</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">24 May 1965, Vienna</title>
+                  W. H. Auden gives a lecture on T. S. Eliot at the Naturhistorisches Museum Wien [Natural History Museum Vienna]. The event has been co-organized by the Austro-British Society, the British Council in Austria, and the Österreichische Gesellschaft für Literatur [Austrian Society for Literature].
+                  <location>
+                     <geo>48.2082 -16.37169</geo>
+                  </location>
+               </desc>               
+            </event>
+            <event xml:id="ea005"
+               type="event_austria">
+               <head xml:lang="en">
+                  <date notBefore-iso="1967-04-24" notAfter-iso="1967-04-26">1967-04-24--1967-04-26</date><!-- ISO time span format -->
+               </head>
+               <desc>
+                  <title xml:lang="en">24 to 26 April 1967, Vienna</title>
+                  W. H. Auden participates in a round table on Literatur als Tradition und Revolution [Literature as Tradition and Revolution] at the Österreichische Gesellschaft für Literatur [Austrian Society for Literature]. Other participants include the American writer Mary McCarthy, the dissident Soviet literary scholar Efim (Grigorievich) Etkind (Russian Ефим Григорьевич Эткинд), the British writer Philip Toynbee, and the German literary critic Marcel Reich-Ranicki. 
+                  <location>
+                     <geo>48.2082 -16.37169</geo>
+                  </location>
+               </desc>               
+            </event>
+            <event xml:id="ea006"
+               type="event_austria">
+               <head xml:lang="en">
+                  <date when-iso="1970-09-29">1970-09-29</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">29 September 1970, Vienna</title>
+                  W. H. Auden reads from his poems at the Österreichische Gesellschaft für Literatur [Austrian Society for Literature]. The actor Peter W. Jost reads German-language translations of Auden's poems.
+                  <location>
+                     <geo>48.2082 -16.37169</geo>
+                  </location>
+               </desc>               
+            </event>
          </listEvent>
       </body>
    </text>
