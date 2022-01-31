@@ -140,7 +140,7 @@
                         </label>
                     </event>
                 </xsl:when>
-                <xsl:when test="substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0049', '0052', '0029', '0047', '0046', '0034', '0027', '0036', '0033', '0030', '0053', '0037', '0051', '0031']">
+                <xsl:when test="substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0049', '0052', '0029', '0047', '0046', '0034', '0027', '0036', '0033', '0030', '0053', '0037', '0051', '0031', '0060', '0061']">
                     <event xml:id="{@xml:id}" type="additional-materials" facs="{//tei:facsimile/tei:surface[1]/tei:graphic/@url}">
                         <head xml:lang="en">
                             <date>
