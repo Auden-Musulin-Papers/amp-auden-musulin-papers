@@ -71,17 +71,17 @@
    <text>
       <body>
          <listEvent>
-            <event xml:id=""<!-- master copy -->
+            <event xml:id="xyz"
                type="event"
-               facs="optional--add-facs-or-delete-attr">
+               facs="optional--add-facs-or-delete-attr"><!-- event template -->
                <head xml:lang="en">
-                  <date when="1957-10-04">1957-10-04</date>
+                  <date when-iso="1957-10-04">1957-10-04</date>
                </head>
                <desc>
                   <title xml:lang="en">title</title>
                   text
                   <location>
-                     <geo>48.2082 -16.37169</geo>
+                     <geo></geo>
                   </location>
                   <!-- 
                      more option:
@@ -91,10 +91,9 @@
                </desc>               
             </event>            
             <event xml:id="ea001"
-               type="event_austria"
-               facs="optional--add-facs-or-delete-attr">
+               type="event_austria">
                <head xml:lang="en">
-                  <date when="1957-10-04">1957-10-04</date>
+                  <date when-iso="1957-10-04">1957-10-04</date>
                </head>
                <desc>
                   <title xml:lang="en">4 October 1957, Vienna</title>
@@ -102,11 +101,32 @@
                   <location>
                      <geo>48.2082 -16.37169</geo>
                   </location>
-                  <!-- 
-                     more option:
-                     https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-desc.html
-                     https://tei-c.org/release/doc/tei-p5-doc/en/html/ref-event.html
-                  -->
+               </desc>               
+            </event>
+            <event xml:id="ea002"
+               type="event_austria">
+               <head xml:lang="en">
+                  <date when-iso="1962-10-04">1962-10-04</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">4 October 1962, Vienna</title>
+                  W. H. Auden reads from his poems at the Österreichische Gesellschaft für Literatur [Austrian Society for Literature]. The Austrian actor Wolfgang Gasser reads German-language translations of Auden's poems.
+                  <location>
+                     <geo>48.2082 -16.37169</geo>
+                  </location>
+               </desc>               
+            </event>
+            <event xml:id="ea003"
+               type="event_austria">
+               <head xml:lang="en">
+                  <date when-iso="1963-05-17">1963-05-17</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">17 May 1963, Vienna</title>
+                  W. H. Auden participates in an international Rudolf Kassner symposium at the Österreichische Gesellschaft für Literatur [Austrian Society for Literature]: on the last day of the six-day congress, he speaks about the "Begegnung mit dem Werk Rudolf Kassners" ["Encounter with the Work of Rudolf Kassner"].
+                  <location>
+                     <geo>48.2082 -16.37169</geo>
+                  </location>
                </desc>               
             </event>
          </listEvent>
