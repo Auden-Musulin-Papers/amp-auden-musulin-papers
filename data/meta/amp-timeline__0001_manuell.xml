@@ -181,6 +181,19 @@
                   </location>
                </desc>               
             </event>
+            <event xml:id="ea008"
+               type="event_austria">
+               <head xml:lang="en">
+                  <date when-iso="1973-09-29">1973-09-29</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">29 September 1973, Vienna</title>
+                  W. H. Auden dies at the Hotel Altenburgerhof after a reading from the new German/English edition of his poems at the Österreichische Gesellschaft für Literatur [Austrian Society for Literature].
+                  <location>
+                     <geo>48.2082 16.37169</geo>
+                  </location>
+               </desc>               
+            </event>
          </listEvent>
       </body>
    </text>
