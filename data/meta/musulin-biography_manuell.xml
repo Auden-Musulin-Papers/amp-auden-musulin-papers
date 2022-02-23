@@ -90,6 +90,32 @@
                   -->
                </desc>               
             </event> 
+            <event xml:id="e001"
+               type="event">
+               <head xml:lang="en">
+                  <date when-iso="1915-07-16">1915-07-16</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">16 July 1915, Dale Castle, Pembrokeshire, Wales</title>
+                  Stella Mary Bellairs Lloyd-Philipps is born to Rhodri Vaughan Lloyd-Philipps (1874-1950) and his second wife, Margaret Colville. 
+                  <location>
+                     <geo>51.7075 -5.1774</geo>
+                  </location>
+               </desc>               
+            </event>
+            <event xml:id="e002"
+               type="event">
+               <head xml:lang="en">
+                  <date when-iso="1946-06-23">1946-06-23</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">23 June 1946, Mariazell, Styria, Austria</title>
+                  Stella Lloyd-Philipps marries Janko Musulin von Gomirje (1916-1978)
+                  <location>
+                     <geo>47.773056 15.316389</geo>
+                  </location>
+               </desc>               
+            </event>
          </listEvent>
       </body>
    </text>
