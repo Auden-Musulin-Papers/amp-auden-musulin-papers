@@ -110,7 +110,12 @@
                     
                 </xsl:otherwise>
             </xsl:choose>
-        </xsl:for-each>      
+        </xsl:for-each>     
+        
+        <xsl:variable name="amp-timeline-manuell" select="doc('../data/meta/amp-timeline__0002_manuell.xml')"/>
+        <xsl:for-each select="$amp-timeline-manuell//tei:event">
+            <xsl:copy-of select="."/>
+        </xsl:for-each>  
                         
     </xsl:template>
     
