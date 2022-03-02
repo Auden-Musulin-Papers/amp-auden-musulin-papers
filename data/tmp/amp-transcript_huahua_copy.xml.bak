@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:id="amp-transcript__0001.xml"
+   xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
+            <title level="a"></title>
+            <author></author>
+            <editor>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+            </editor>
+            <funder>
+               <name>FWF Austrian Science Fund</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Vienna</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Vienna</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>AMP</edition>
+            <respStmt>
+               <resp>Transcription and commentary</resp>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                  <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
+for any purpose, even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+                  <p>Notices:</p>
+                  <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
+               </licence>
+               <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>St. Pölten</settlement>
+                        <repository>State Collections of Lower Austria</repository>
+                        <collection>Helga Köcher</collection>
+                        <idno>1, 7</idno>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate></origDate></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">German</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="transcription">
+            <pb/>
+               <p>
+                  Die Sache mit Hua-hua.<lb/>
+                  Hinter Fridau kann man die Landstraße an einer Stelle<lb/>
+                  verlassen, wo ein offener Torbogen in einen Bauernhof führt.<lb/>
+                  Rechts und links stehen reihenweise Äpfel- u<del>j</del>nd Birnenbäume<lb/>
+                  die ein relativ reifes Alter erreicht haben, ohne daß man<lb/>
+                  sich viel um ihre Früchte gekümmert hätte.  Diese liegen<lb/>
+                  <unclear>u</unclear>nbeachtet im Staub und im Gras am Straßenrand, und sie sind<lb/>
+                  klein und hart, aber für einen Schnapps, denke ich mir, würden<lb/>
+                  die Birnen schon taugen.  Bald begegnet man dem Bach wieder,<lb/>
+                  den man oberhalb der Gärtnerei aus den Augen verloren hat,<lb/>
+                  und &#x00EB;ine Brücke führt den Wanderer von der Seitenstraße<lb/>
+                  die ohnehin kein besonders lohnendes Ziel <del><unclear></unclear></del>hat, auf den Weg<lb/>
+                  hinüber, der auf den Weingartleiten hinaufschlängelt.<lb/>
+                  Im se<unclear>i</unclear>chten Wasser unter der Brücke machen sich einige<lb/>
+                  weiße Enten zu schaffen, nur für einen Augenblick schauen<lb/>
+                  sie zu mir hinauf.  Aber der Enterich zeigt mehr Interesse:<lb/>
+                  er legt den Kopf auf die Seite um mich besser ins Auge fassen<lb/>
+                  zu können, und mit leiser, verrauchter Stimme sagt er "Hua-hua!"<lb/>
+                  Ich erwidere seinen <unclear>h</unclear>öf<unclear>l</unclear>ichen Gruß und denke:  Siehst du,<lb/>
+                  hier endet alles wie es begonnen hat.  Vor einem ha<unclear>l</unclear>ben
+                  Jahrhundert ist ein Enterich an gebrochenem Herzen gestorben,<lb/>
+                  du bist fortgegangen, um die Welt zu erobern, und nun bist du<lb/>
+                  alt geworden, gehst hier am B<unclear>a</unclear>ch spazieren und ein Enterich<lb/>
+                  sagt zu dir Hua-hua.<lb/>
+                  Auf unseren Bauernhöfen in Wales gibt es Federvieh in<lb/>
+                  bunter Vielfalt.  Neben Hühnern und Enten die immer vorhanden<lb/>
+                  sind, warten Gänse auf Martini und Truthühner auf Weihnachten,<lb/>
+                  und nähert man sich der Haustüre, erschallt nicht gerade<lb/>
+                  einladend das "Go-back!  go-back!" der Perlhühner.  Alle<lb/>
+                  sind Eigentum der Bäuerin:  was sie dabei verdient, darf sie<lb/>
+                  für sich behalten.  Meiner Schwester Sonia und mir Bruthennen<lb/>
+                  zu leihen und etwas Stroh mitzugeben war kein Problem.<lb/>
+                  Nicht immer klappte es, und wir besuchten andere Höfe auch,<lb/>
+                  weshalb die Hennen die Namen Mrs. Williams of Hayguard Hay,<lb/>
+                  Mrs. Edwards of Moorlands u.a.m. trug<del>s</del>e<unclear>n</unclear>.  So bald sie sich von<lb/>
+                  den Strapazen erholt hatten, die ihnen takt<del>t</del>loserweise durch<lb/>
+                  den Transport in fasanenblutbesudelten Rucksäcken zugemutet
+               </p>
+            <pb/>
+               <p>
+                  - 2 -
+               </p>
+               <p>
+                  worden waren, machten sie sich in ihren kleinen Holzhütten<lb/>
+                  bequem und brüteten brav ihre Enteneier aus.<lb/>
+                  Wir fingen klein an.  Immerhin standen nach einer Weile<lb/>
+                  fünf Hütten, sie standen nebeneinander in einem geschützten<lb/>
+                  <unclear>W</unclear>inkel des Pump Fields.  Zu gegebener Zeit übersiedelten die<lb/>
+                  jungen Enten in ein größeres Quartier.<lb/>
+                  In welcher peinlichen Lage eine Henne mit ihren jungen<lb/>
+                  Enten plötzlich stehen kann ist hi<unclear>nl</unclear>änglich bekannt;  bei<lb/>
+                  den unserigen kam es noch ärger.  Das Pump Field verd<del>d</del>a<unclear>n</unclear>kte<lb/>
+                  seinen Namen einem aufgelassenen steinernen Wasserturm, der<lb/>
+                  nur mehr Benzinkanistern für die eigenartige Gasanlage im<lb/>
+                  Haus einen Schutzraum bot.  Auf der leicht abschüssigen<lb/>
+                  Wiese maß die Entfernung zwischen dem Lebe<del>j</del>nsraum der Enten<lb/>
+                  und dem Turm etwa fünfzig Schritte.  Einige Meter weiter<lb/>
+                  <del>weiter</del> nach Süden fällt der Boden steil ab, am Fuß des Abhangs<lb/>
+                  liegt noch heute ein von Teichhünern bewohnter Wassertumpel.<lb/>
+                  Eines Tages, die erstgeborenen Enten waren kaum zehn Tage<lb/>
+                  alt, gingen wir mit dem Futter hin und mußten feststellen,<lb/>
+                  daß sie verschwunden waren;  einfach weg.  Könnte ein Raub-<lb/>
+                  vogel, ein Buzzard, sie geholt haben?  Unmöglich, ein Netz<lb/>
+                  schützte sie.  Nach langem Suchen entdeckten wir eine Stelle<lb/>
+                  wo der D<unclear>r</unclear>ahtzaun nicht völlig dicht war, es war nicht ausge-<lb/>
+                  schlossen, daß ein kleiner Körper darunter schlüpfen könnte.<lb/>
+                  Und tatsächlich, legte man sich auf der Wiese in der Augenhöhe<lb/>
+                  einer Ente nieder, war alles klar.  Nur ein paar Zentimeter<lb/>
+                  breit, führte ein<del><unclear></unclear></del> schnurgerader Pfad zwischen den <del>-</del>Grashalmen<lb/>
+                  zum Teich hinunter.  Wir liefen zum T<del>T</del>eich,<del>hinunter</del> und da<lb/>
+                  waren sie:  winzig klein, flauschig-gelb, frech und zufrieden<lb/>
+                  ritten sie auf den haarfeinen Wellen, die wie Spinnweben von<lb/>
+                  der leichten Brise gezeichnet wurden.<lb/>
+                  Pembrokeshire ist ein Land der Frühkartoffel, wo die<lb/>
+                  ersten paar Säcke schon Ende April aus der roten Erde gefüllt<lb/>
+                  werden.  In den Großstädten kauft man sie für teueres Geld:<lb/>
+                  mit frischer Minze in Salzwasser gekocht, schmecken sie<lb/>
+                  so einmalig gut, daß sie würd<unclear>i</unclear>g wären, als Vorspeise gegessen<lb/>
+                  zu werden.  Bereits am 1. März, am Festtag des Landespatrons,<lb/>
+                  des heiligen Davids, trug mein Vater einen Märzbecher im<lb/>
+                  <del><unclear></unclear></del>Knopfloch.  Und waren die kleinen einheimischen <del>Märzbecher </del>
+               </p>
+            <pb/>
+               <p>
+                  - <del>8</del>3 -
+               </p>
+               <p>
+                  "Pembrokeshire daffodils" so weit, daß sie die speergeraden<lb/>
+                  Köpfe zu senken begannen, brachte meine <del>S</del>Mutter einige ins<lb/>
+                  Haus, in der Hoffnung, sie würden zum Geburtstag des<lb/>
+                  jüngsten Sohns am 13. Februar blühen.  Meistens gelang<lb/>
+                  dieses rituale Wettrennen mit der Witterung, und meine Mut<del>s</del>ter<lb/>
+                  freute sich.  Elfjährig im fernen Internat spürte ich einen<lb/>
+                  Stich im Herzen als ich die Worte dee Renaissance-Lyrikers<lb/>
+                  zum ersten Mal las:
+               </p>
+               <p>
+                  <l>Fair daffodils, we weep to see</l>
+                  <l>You haste away too soon....</l>
+               </p>
+               <p>
+                  Später sollte ich Wordsworth entdecken:
+               </p>
+               <p>
+                  <l>I wandered lonely as a cloud</l>
+                  <l>That floats on high o´er vales and hill<del><unclear>a</unclear></del>s,</l>
+                  <l>When all at once I saw a crowd,</l>
+                  <l>A host of golden daffodils ...</l>
+               </p>
+               <p>
+                  Es blühen hier auch andere Narzissen, die Jonquille<lb/>
+                  mit ihrem starken Duft, und jene mit dem Fasanenauge.<lb/>
+                  Außer der Person des Prinzen hat die Atlantik-Küste<lb/>
+                  von Wales mit dem Herzogtum von Cornwall vieles gemeinsam,<lb/>
+                  von den Heiligen der keltischen Kirche bis zu den Früh-<lb/>
+                  kartoffeln, jeder zu seiner Zeit.  Die Märzbecher und andere<lb/>
+                  Narzissen liefen um die Wette nach Covent Garden.   Das alles<lb/>
+                  macht der Golfstrom, allerdings gibt es viel Regen, auf der<lb/>
+                  Landkarte färbt man das Gebiet um Haverfordwest purpurblau;<lb/>
+                  dazu heftige Winde die oft tagelang anhalten.  Für die Enten<lb/>
+                  ist die gefährlichste Zeit der Übergang vom warmen Flausch<lb/>
+                   zur wasserfesten Bedeckung mit Federn.  Auch die "Daunendecke"<lb/><!-- line-initial space? -->
+                  hat sich noch nicht so entwickelt, daß sie endlich den Körper<lb/>
+                  bei fast jeder vorsehbaren Witterung schützt, das Gefieder<lb/>
+                  ist nur andeutungsweise vorhanden und das Schlimmste ist,<lb/>
+                  daß die noch kleinen Körper schon viel zu groß sind, um<lb/>
+                  bei der Mutterhenne die alte Geborgenheit zu finden.  Die Nächte<lb/>
+                  verbrachten sie in verschiedenen Häusern und kleinen Hütten,<lb/>
+                  nachts konnte ihnen nichts passieren.<lb/>
+                  Eines Tages im späten Frühjahr als wir das Futter hinaus-<lb/>
+                  trugen war es bedenklich kalt und regnerisch, am Horizont<lb/>
+                  bildeten sich dunkelblaue Wolkenmassen, die wir nicht gleich<lb/>
+                  zu deuten vermochten. <del><unclear></unclear></del>Es wird so gegen 11 <unclear>U</unclear>hr gewesen sein:<lb/>
+                  wir sassen in der inneren Halle, tranken Tee und aßen
+               </p>
+            <pb/>
+               <p>
+                  - 4 -
+               </p>
+               <p>
+                  Ingwerkeks - dieser Brauch heißt "elevenses".  Das Tageslicht<lb/>
+                  wurde fahl, wir warfen eine<unclear>n</unclear> Blick zum Fenster hinaus und<lb/>
+                  erschraken:  Es schneite.<lb/>
+                  Die in der Garderobe zusammengerafften Mäntel zogen<lb/>
+                  wir erst einmal nicht an;  ein paar Minuten später standen<lb/>
+                  wir bereits auf dem Pump Field.  Es war ein Weltuntergang<lb/>
+                  in Kleinformat.  Mrs Davies of Longlands und Mrs Edwards<lb/>
+                  of Moorlands hockten i<del><unclear></unclear></del>m ringsum von Schnee bedeckten Gras,<lb/>
+                  ihre Flügel<del><unclear>t</unclear></del>hatten sie weit ausgebreitet um möglichst viele<lb/>
+                  <unclear>i</unclear>hrer Kinder überdecken zu können.  Enten, die keinen Schutz<lb/>
+                  fanden, hatten<del>s</del>sich eng aneinander geschm<unclear>ie</unclear>gt, andere lagen<lb/>
+                  vereinzelt, schon halb bewußtlos herum.  Diese nahmen wir<lb/>
+                  <del><unclear></unclear></del>zuerst vor.  Wir sammelten die halb erfrorenen, leblosen<lb/>
+                  Körper ein, betteten sie in den Falten unserer hochgehaltenen<lb/>
+                  Röcke, und liefen mit dieser ersten Auswahl der am ärgsten<lb/>
+                  getroffenen Vögel ins Haus.  In der Halle brannte im großen<lb/>
+                  offenen Kamin ohnehin schon ein Feuer, <unclear>un</unclear>d hier breiteten<lb/>
+                  wir die kleinen Enten auf d<del>w</del><unclear>e</unclear>m weichen Vorleger aue.<lb/>
+                  "Cognac" sagte Sonia dann, und "Fang an, ich hole die<lb/>
+                  ander<del>,</del>en."  Ich machte mich an die Arbeit.<lb/>
+                  Es dauerte nicht lang, schon bewegten sich die erstarrten<lb/>
+                  Körper.  Zuerst machten sie die Augen auf, da erhob sich ein<lb/>
+                  Kopf, dort wurde ein Bein vorsichtig ausgestreckt.  Mit<lb/>
+                  sanftem Druck brachten wir<del>ö</del>sie nacheinander dazu, die Schnäbel<lb/>
+                  zu öffnen, dann liessen wir ein paar Tropfen Cognac die<lb/>
+                  Kehlen hinunterfliessen.<lb/>
+                  Die Wirkung war spektakulär.  A<unclear>u</unclear>gen glänzten, Hälse<lb/>
+                  bekamen ein wenig <unclear>K</unclear>raft, Beine auch, die Wärme, die dem Kamin<lb/>
+                  entströmte und das wohlige Gefühl im Magen spendeten neue<lb/>
+                  Lebensimpulse.  Jetzt war der Himmel wieder blau und die<lb/>
+                  Krise war vorbei, aber mit dem Rücktransport liessen wir<lb/>
+                  uns Zeit, zumal einige Entlein offensichtlich einen Schwipps<lb/>
+                  hatten.  Zwei hatten wir verloren, man mußte zufrieden sein.<lb/>
+                  In der Außenhalle waren Schritte zu hören, die<lb/>
+                  Zwischentüre ging auf und der<del>ö</del>Hausherr näherte <del>er</del> sich<lb/>
+                  der Szene des ungewöhnlichen Geschehens.  Er betrachtete<lb/>
+                  die besoffenen Enten, erspähte sofort die Flasche und sprach<lb/>
+                  leise, fast ergriffen vor sich hin.
+               </p>
+            <pb/>
+               <p>
+                  - 5 -
+               </p>
+               <p>
+                  "Good heavens" hauchte er.  "The Napoleon brandy!"
+               </p>
+               <p>
+                  Frage am Rande:  welcher kleine Moses hat den Gänsemarsch<lb/>
+                  zum Teich geführt?<lb/>
+                  Ein Dutzend <unclear>Z</unclear>uchtenten lebten in mehr oder weniger<lb/>
+                  freier Wildbahn in der Nähe des Tümpels und du<unclear>r</unclear>ften schwimmen,<lb/>
+                  so viel sie wollten; die andern durften <del>die anderen</del> nicht,<lb/>
+                  d<del>s</del>eren Schicksal es war, auf den Tischen eines Restaurants<lb/>
+                  im K<del>S</del>urort Tenby zu landen.  Bei der heranwachsenden Jugend<lb/>
+                  zeigte sich indes ein psychisches Phä<del>b</del><unclear>n</unclear>omen das uns beunruhigte.<lb/>
+                  Freilich waren sie von einem Drahtzaun umgeben;  an den<lb/>
+                  furchtbaren Gepf<unclear>l</unclear>ogenheiten unsererö<del>Z</del>eit gemessen, waren sie<lb/><!-- müsste in allen diesen Fällen nicht das getilgte Zeichen durch ein Leerzeichen ersetzt werden? -->
+                  nicht in beängstigen<del>t</del><unclear>d</unclear>er Weise eingeeng<unclear>t</unclear>.  Wurden sie plötzlich<lb/>
+                  von Panik erfaßt?  Den Auslösemoment konnten wir niemals<lb/>
+                  feststellen, aber auf einmsal begannen sie wie besessen ink<lb/>
+                  Kreisen zu laufen.  Schnatternd und quakend, mit gesenkten<lb/>
+                  Köpfen und ausgestreckten <unclear>F</unclear>lügeln rasten sie hinter einander<lb/>
+                  bis zur Erschöpfung herum.  Die Verhaltensforschung wüßte<lb/>
+                  sicherlich darüber Bescheid.<lb/>
+                  Wenn sich die Sonnenwende nähert sind in Dale die Abende<lb/>
+                  lang, bis zehn <del><unclear>S</unclear><unclear></unclear></del>Uhr abends bleibt es hell.  Unser Federvieh<lb/>
+                  hielt es nicht anders als die übrige Vogelwelt und hatte es<lb/>
+                  nicht eilig, schlafen zu gehen;  ein Interessenkonflikt<lb/>
+                  zwi<del>w</del>schen den Enten und Hühnern einerseits und meiner Schwester<lb/>
+                  und mir andererseits war daher unvermeidbar.  Gesellschaftliche<lb/>
+                  Veranstaltungen, etwa Hausbälle, waren im Sommer eine Seltenheit,<lb/>
+                  sie zu versäumen undenkbar.  Ich sehe meine Schwester in<lb/>
+                  grande toilette, zu ihrem hellblauen Spitzenkleid trägt sie<lb/>
+                  eine Kunstperlenkette, sie ist frisch frisiert, diskret<lb/>
+                  gesch<del><unclear>k</unclear></del><unclear></unclear>inkt und ihre Beine stecken in schweren Gummistiefeln.<lb/>
+                  In ähnlicher Adjustierung stehe ich mit ihr auf dem Pump Field<lb/>
+                  wo wir völlig erfolglos versuchen, Enten und Hühner  zu<lb/>
+                  überreden, gütigerweise vorzeitig in die Hütten marschieren<lb/>
+                  zu wollen.  Unsere Dinergäste und Tanzpartner<del>s</del>- Regiments-<lb/>
+                  offiziere aus Pemb<unclear>r</unclear>oke Dock - ziehen es vor, mit ihren<lb/>
+                  empfindlichen Lackschuhen auf dem trockenen Kies zu bleiben,
+               </p>
+            <pb/>
+               <p>
+                  - 6 -
+               </p>
+               <p>
+                  und denken nicht daran, uns zu helfen.  Ihre Arme läßig auf der<lb/>
+                  oberen Stange des hölzernen Gittertors gestützt, mach<del>s</del>en sie sich<lb/>
+                  über uns lustig.  Nach Sonnenuntergang wäre das Kleinvieh unauf-<lb/>
+                  gefordert schlafen gegangen, jetzt sind sie empört, sie brechen<lb/>
+                  nach allen Seiten aus, sie quaken und gackern und die Herren<lb/>
+                  schütteln sich vor lachen.<lb/>
+                  Die ä<del>ö</del><unclear>l</unclear>teren Zuchtenten die die Freiheit genossen, ihre Bein-<lb/>
+                  Muskel nicht schonen zu müßen, die daher bergauf, bergab laufen<lb/>
+                  und schwimmen d<unclear>u</unclear>rften, pflegten sich standesgemäß zu verhalten.<lb/>
+                  Sie waren reinra<del>w</del>sige<del>ö</del>Aylesburys<del>s</del>deren Schnäbel und Beine von<lb/><!-- ? -->
+                  s<del>y</del>anftrosiger Farbe waren wie die ersten Strahlen des Sonnenaufgangs.<lb/>
+                  Bei der königlichen walisischen Landw<unclear>i</unclear>rt<unclear>s</unclear>c<unclear>h</unclear>aftsmesse auf der<lb/>
+                  großen Wiese bei Haverfordwest stellten wir den schönsten Enterich<lb/>
+                  aus.   Wie eine Vorahnung des Fl<unclear>u</unclear>gzeugs Concorde stand er mit<lb/>
+                  weiblicher Begleitung in seinem Käfig und betrachtete scheinbar<lb/>
+                  interessiert die Konkurrenz.  Die Fachleute kamen, und sie<lb/>
+                  befestigten ein blaues Billet an den Käfig.  Entsprechend der<lb/>
+                  Noblesse seiner Gestalt, des Fehlens jeglicher Andeutung minder-<lb/>
+                  wertiger Gelbfärbung, bestimmt wegen der Keckheit der den<del>s</del><lb/>
+                  Schwanzfedern zierenden krausen Locke, stand er nun im höchsten<lb/>
+                  Rang:  First Class.   Unsere Herzen gingen über.  Der ungewohnte<lb/>
+                  Lärm, die Fahrt, die Menschen hatten ihn sicherlich angestrengt.<lb/>
+                  Als ich ihn wieder fest in den Armen hielt s<unclear>a</unclear>gte er leise mit seiner<lb/>
+                  heiseren Stimme "Hua-hua", er knabberte <unclear>ä</unclear>n meinem Ohr und<lb/>
+                  blies "Ffff!".<lb/>
+                  Doch bald gaben wir auf.  Zwei, drei Jahre lang hielten wir<lb/>
+                  die frühsommerliche Routine des Schlachtens (vom Hilfsgärtner<lb/>
+                  durchgeführt), des Rupfens auf dem Dachboden oberhalb der Garage<lb/>
+                  aus, nicht zu reden von der Anbiederung an das Küchenpersonal<lb/>
+                  der wenigen Hotels.<lb/>
+                  Langsam verschwanden die Enten.  Sie waren unverkäuflich<lb/>
+                  und ungenießbar, aber sie legten noch und wurden fallweise<lb/>
+                  verschenkt.  Wer weiß wann Hua-hua bemerkte, daß sein Harem<lb/>
+                  in Auflösung begriffen war?  Da ich während der Fütterung auch<lb/>
+                  <del>P</del>andere Pflichten hatte wie ausmisten und Wasser holen, fiel mir<lb/>
+                  sein ve<unclear>r</unclear>ändertes Verhalten nicht gleich<del><unclear>a</unclear></del> auf, aber bald wurde die
+               </p>
+            <pb/>
+               <p>
+                  - 7 -
+               </p>
+               <p>
+                  Wahrheit offensichtlich:  er fraß nicht mehr.<lb/>
+                  Dann <unclear>n</unclear>ahm er die Entscheidung über seine unsichere Zukun<unclear>ft</unclear><lb/>
+                  selbst in die Hand.  Er ging zum Teich hinunter und schwamm<lb/>
+                  hinaus, und in der Mitte der Wasserfläche blieb er; kein<lb/>
+                  Rufen und kein Flehen konnten ihn bewegen, an Land zu kommen.<lb/>
+                  Seinen Kopf legte er unter seinen Flügel und so verharrte er<lb/>
+                  bis er starb.  Ein leichter Wind <del>r</del><unclear>t</unclear>rieb seinen Körper an das<lb/>
+                  Ufer und ich hob ihn auf.  Der seinerzeit so schwerer, Concorde-<lb/>
+                  ähnlicher Enterich wog jetzt fast nichts mehr, er bestand aus<lb/>
+                  Federn, Daunen und Knochen.<lb/>
+                  <del>-</del>Sonia war längst nach London zurückgekehrt, ich stand<lb/>
+                  allein mit Hua-h<del>s</del>ua.  Ich rief die Veterinär-Abteilung der<lb/>
+                  Landwirtschaftskammer an und ein junger Beamter fuhr nach <unclear>Da</unclear>le<lb/>
+                  hinaus.<del>.</del> Gleich an Ort und Stelle führte er eine Obduktion<lb/>
+                  durch und sagte dann verwundert:  "Alle Organe sind gesund.<lb/>
+                  <del>-</del>Das Tier ist einfach verhungert."<lb/>
+                  Ich hatte dem Beamten die Vorgeschichte erzählt.<lb/>
+                  "Dann ist er an gebrochenen Herzen gestorben" sagte ich.<lb/>
+                  Er nickte.   "Möglich ist es."<lb/>
+                  War vielleicht Hua-hua der kleine Moses?
+               </p>
+         </div>
+      </body>
+   </text>
+</TEI>
