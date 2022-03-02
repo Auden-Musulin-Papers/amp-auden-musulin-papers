@@ -119,6 +119,19 @@
             <event xml:id="e003"
                type="event">
                <head xml:lang="en">
+                  <date when-iso="1976-06-28">1976-06-28</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">28 June 1976, Austrian Institute, London</title>
+                  Stella Musulin delivers a lecture on "Auden in Kirchstetten" at the Austrian Institute in London Kensington
+                  <location>
+                     <geo>51.500163 -0.168038</geo>
+                  </location>
+               </desc>               
+            </event>
+            <event xml:id="e004"
+               type="event">
+               <head xml:lang="en">
                   <date when-iso="1977-05-05">1977-05-05</date>
                </head>
                <desc>
@@ -129,7 +142,7 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="e004"
+            <event xml:id="e005"
                type="event">
                <head xml:lang="en">
                   <date when-iso="1978-03-06">1978-03-06</date>
