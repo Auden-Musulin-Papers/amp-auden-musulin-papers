@@ -97,7 +97,7 @@
                </head>
                <desc>
                   <title xml:lang="en">16 July 1915, Dale Castle, Pembrokeshire, Wales</title>
-                  Stella Mary Bellairs Lloyd-Philipps is born to Rhodri Vaughan Lloyd-Philipps (1874-1950) and his second wife, Margaret Colville. 
+                  Stella Mary Bellairs Lloyd-Philipps is born to Rhodri Vaughan Lloyd-Philipps (1874-1950) and his second wife, Margaret Colville 
                   <location>
                      <geo>51.7075 -5.1774</geo>
                   </location>
@@ -113,6 +113,32 @@
                   Stella Lloyd-Philipps marries Janko Musulin von Gomirje (1916-1978)
                   <location>
                      <geo>47.773056 15.316389</geo>
+                  </location>
+               </desc>               
+            </event>
+            <event xml:id="e003"
+               type="event">
+               <head xml:lang="en">
+                  <date when-iso="1977-05-05">1977-05-05</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">5 May 1977, Palais Pálffy, Vienna</title>
+                  Stella Musulin delivers a lecture on "W. H. Auden und die Österreicher" [W. H. Auden and the Austrians] at the Österreichische Gesellschaft für Literatur [Austrian Society for Literature]
+                  <location>
+                     <geo>48.206194 16.367389</geo>
+                  </location>
+               </desc>               
+            </event>
+            <event xml:id="e004"
+               type="event">
+               <head xml:lang="en">
+                  <date when-iso="1978-03-06">1978-03-06</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">6 March 1978, Fridau, Ober-Grafendorf, Lower Austria, Austria</title>
+                  Janko Musulin dies, aged 61, after being diagnosed with a brain tumour the previous year
+                  <location>
+                     <geo>48.149444 15.555833</geo>
                   </location>
                </desc>               
             </event>
