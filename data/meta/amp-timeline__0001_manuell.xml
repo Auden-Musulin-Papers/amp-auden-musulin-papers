@@ -194,6 +194,19 @@
                   </location>
                </desc>               
             </event>
+            <event xml:id="ea009"
+               type="event_austria">
+               <head xml:lang="en">
+                  <date when-iso="1973-10-04">1973-10-04</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">4 October 1973, Kirchstetten, Lower Austria</title>
+                  W. H. Auden is buried in the local church graveyard of Kirchstetten. The funeral - attended by, among others, Auden's brother John, Stephen Spender, Sonia Orwell, and Charles Monteith - includes an ecumenical service led by Revd Bruce Duncan, chaplain to the British ambassadors to Austria, Hungary, and Czechoslovakia
+                  <location>
+                     <geo>48.183333 15.816667</geo>
+                  </location>
+               </desc>               
+            </event>
          </listEvent>
       </body>
    </text>
