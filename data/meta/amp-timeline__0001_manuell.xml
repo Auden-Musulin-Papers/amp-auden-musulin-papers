@@ -129,6 +129,19 @@
                   </location>
                </desc>               
             </event>
+            <event xml:id="ei001"
+               type="event_international">
+               <head xml:lang="en">
+                  <date notBefore-iso="1965-01-01" notAfter-iso="1965-12-31">1965-01-01--1965-12-31</date><!-- ISO time span format -->
+               </head>
+               <desc>
+                  <title xml:lang="en">1965, Frankfurt am Main</title>
+                  Herbert Heckmann's German translation of Auden's poem "Josef Weinheber" appears in the <hi rend="italic">Neue Rundschau</hi> (volume 76, issue 3)
+                  <location>
+                     <geo>geo:50.110556 8.682222</geo>
+                  </location>
+               </desc>               
+            </event>
             <event xml:id="ea004"
                type="event_austria">
                <head xml:lang="en">
