@@ -113,7 +113,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter">
       <body>
-         <div xml:id="transcription">
+         <div xml:id="transcription" rend="handwritten">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0007/" type="envelope"/>
                <p>
                   <hi rend="underline">mit Luft Post</hi>

@@ -71,30 +71,41 @@
                      1.1.5. Signs that cannot be transcribed are marked up as <![CDATA[<]]>gap<![CDATA[>]]> in XML and represented by means of grey square brackets on the web page (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12, page 3, line 7).
                   </p>
                   <p>
-                     1.2. Punctuation and Spaces<lb/>
-                     1.2.1. The original punctuation and spaces are retained, even if irregular (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12, page 3, line 4).<lb/>
-                     1.2.2. Punctuation signs that cannot be transcribed with certainty are rendered by symbols that represent a graphical approximation, marked up as <![CDATA[<]]>unclear<![CDATA[>]]> in XML, and represented in grey on the web page (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1965-09-29, page 3, line 16).<lb/>
-                     1.2.3. When spaces before or after punctuation marks are significantly smaller than the spaces separating words in the surrounding text, no spaces are transcribed (example: Letter W. H. Auden to Stella Musulin 1962-09-11, page 3, line 12).<lb/>
-                     1.2.4. For manuscripts, the length of spaces between words is regularized (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12, page 3, line 6).<lb/>
-                     1.2.5. For typescripts, the number of spaces is preserved and marked up as <![CDATA[<]]>space<![CDATA[>]]> in XML (example: Typescript Stella Musulin "In Retrospect" [?], page 1, line 2).
+                     1.2. Numericals<lb/>
+                     1.2.1. For typescripts, the characters 'I' (uppercase i) and 'O' (uppercase o) designating the numbers 1 and 0 (zero), respectively, are preserved.
+                     1.2.2. For manuscripts, the anglophone variant writing of the numeral 1 is represented by '1'.
                   </p>
                   <p>
-                     1.3. Original line breaks and divisions between blocks of text are retained.
+                     1.3. Punctuation and Spaces<lb/>
+                     1.3.1. The original punctuation and spaces are retained, even if irregular (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12, page 3, line 4).<lb/>
+                     1.3.2. Punctuation signs that cannot be transcribed with certainty are rendered by Unicode symbols that represent a graphical approximation, marked up as <![CDATA[<]]>unclear<![CDATA[>]]> in XML, and represented in grey on the web page (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1965-09-29, page 3, line 16).<lb/>
+                     1.3.3. When spaces before or after punctuation marks are significantly smaller than the spaces separating words in the surrounding text, no spaces are transcribed (example: Letter W. H. Auden to Stella Musulin 1962-09-11, page 3, line 12).<lb/>
+                     1.3.4. For manuscripts, the length of spaces between words is regularized (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12, page 3, line 6).<lb/>
+                     1.3.5. For typescripts, the number of spaces is preserved and marked up as <![CDATA[<]]>space<![CDATA[>]]> in XML (example: Typescript Stella Musulin "In Retrospect" [?], page 1, line 2).
                   </p>
                   <p>
-                     1.4. Underlines are marked up as <![CDATA[<]]>hi rend="underline"<![CDATA[>]]> and graphically represented on the web page.
+                     1.4. Original line breaks and divisions between blocks of text are retained.
                   </p>
                   <p>
-                     1.5. Revisions<lb/>
-                     1.5.1. The transcriptions represent deletions, additions, and corrections (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23, page 3, line 26).<lb/>
-                     1.5.2. For overwritings in typescripts, we have accepted the orthographically or grammatically accurate versions as corrections, even if the actual sequences of textual layers cannot be reconstructed (example: Typescript Stella Musulin "In Retrospect" [?], page 1, line 27).
+                     1.5. Underline
+                     1.5.1. Underlines are marked up as <![CDATA[<]]>hi rend="underline"<![CDATA[>]]> and graphically represented on the web page.
+                     1.5.2. Underlines are not represented if the form part of signatures.
                   </p>
                   <p>
-                     1.6. Pre-printed Components and Postal Additions<lb/>
-                     1.6.1. Pre-printed letter heads and sender addresses are transcribed (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-06, page 2, lines 1-3).<lb/>
-                     1.6.2. Image captions in postcards are transcribed (example: Autograph Note Signed Michael O'Sullivan to Stella Musulin [?], page 1, lines 1-2, 12-15).<lb/>
-                     1.6.3. Postmarks and stamps are not transcribed.<lb/>
-                     1.6.4. Pre-printed postal text and images in telegrams and aerograms are not rendered in the transcriptions (example: Telegram W. H. Auden to Stella Musulin 1971-05-13).
+                     1.6. Characters whose legibility is impaired by smudges and overwritings are marked up as <![CDATA[<]]>unclear<![CDATA[>]]> in XML and represented in grey on the web page.
+                  </p>   
+                  <p>
+                     1.7. Revisions<lb/>
+                     1.7.1. The transcriptions represent deletions of text (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23, page 3, line 26).<lb/>
+                     1.7.2. For overwritings in typescripts, we have accepted the orthographically or grammatically accurate versions as corrections, even if the actual sequences of textual layers cannot be reconstructed (example: Typescript Stella Musulin "In Retrospect" [?], page 1, line 27).
+                     1.7.3. For transcriptions of typescripts, we accept overwritings of text with the letter 'x' as indicating deletions.
+                  </p>
+                  <p>
+                     1.8. Pre-printed Components and Postal Additions<lb/>
+                     1.8.1. Pre-printed letter heads and sender addresses are transcribed (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-06, page 2, lines 1-3).<lb/>
+                     1.8.2. Image captions in postcards are transcribed (example: Autograph Note Signed Michael O'Sullivan to Stella Musulin [?], page 1, lines 1-2, 12-15).<lb/>
+                     1.8.3. Postmarks and stamps are not transcribed.<lb/>
+                     1.8.4. Pre-printed postal text and images in telegrams and aerograms are not rendered in the transcriptions (example: Telegram W. H. Auden to Stella Musulin 1971-05-13).
                   </p>
                </div>
                <div>
