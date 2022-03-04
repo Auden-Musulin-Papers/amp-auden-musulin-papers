@@ -197,6 +197,19 @@
             <event xml:id="e009"
                type="event">
                <head xml:lang="en">
+                  <date notBefore-iso="1995-01-01" notAfter-iso="1995-12-31">1995-01-01--1975-12-31</date><!-- ISO time span format -->
+               </head>
+               <desc>
+                  <title xml:lang="en">1995, Oxford</title>
+                  Stella Musulin's Auden memoir "Auden in Kirchstetten" appears in Katherine Bucknell and Nicholas Jenkins' edited volume <hi rend="italic">'In Solitude, for Company': W. H. Auden After 1940. Unpublished Prose and Recent Criticism</hi>, published by Clarendon Press
+                  <location>
+                     <geo>51.752 -1.2578</geo>
+                  </location>
+               </desc>               
+            </event>
+            <event xml:id="e010"
+               type="event">
+               <head xml:lang="en">
                   <date when-iso="1996-01-21">1996-01-21</date> <!-- double-check! -->
                </head>
                <desc>
