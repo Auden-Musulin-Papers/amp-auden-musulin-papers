@@ -111,9 +111,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0026/"/>
       </surface>
    </facsimile>
-   <text type="letter">
+   <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription" rend="handwritten">
+         <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0023/" type="envelope"/>
                <p>
                   W.H.Auden<lb/>

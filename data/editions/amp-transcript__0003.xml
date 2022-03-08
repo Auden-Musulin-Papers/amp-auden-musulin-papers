@@ -111,9 +111,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0018/"/>
       </surface>
    </facsimile>
-   <text type="letter">
+   <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription" rend="handwritten">
+         <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0015/" type="envelope"/>
                <p>
                   <hi rend="underline">Eil-Post</hi>
@@ -125,7 +125,7 @@ for any purpose, even commercially.</p>
                   Neu<unclear>l</unclear>ingg<unclear>a</unclear>sse 26 .
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0016/" type="envelope"/>
-               <p rend="type">
+               <p hand="#typed">
                   W. H. AUDEN<lb/>
                   KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
@@ -154,10 +154,10 @@ for any purpose, even commercially.</p>
                <p>
                   Mittwoch
                </p>
-               <p rend="type">
+               <p hand="#typed">
                   W. H. AUDEN
                </p>
-               <p rend="type">
+               <p hand="#typed">
                   KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
                   N.-Ö., AUSTRIA

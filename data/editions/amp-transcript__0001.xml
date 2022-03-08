@@ -111,9 +111,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0004/"/>
       </surface>
    </facsimile>
-   <text type="letter">
+   <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription" rend="handwritten">
+         <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope"/>
             <p><unclear>Ch</unclear>ester in Florence<unclear>.</unclear></p>
             <p>
@@ -132,14 +132,14 @@ for any purpose, even commercially.</p>
             <p>
                W.H.Auden<unclear>,</unclear><lb/>
             </p>
-            <p rend="type">
+            <p hand="#typed">
                KIRCHSTETTEN (WESTBAHN)<lb/>
                HINTERHOLZ 6<lb/>
                N.-Ö., AUSTRIA
             </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0003/" type="letter"/>
             <p>Sunday.</p>
-            <p rend="type">
+            <p hand="#typed">
                KIRCHSTETTEN (WESTBAHN)<lb/>
                HINTERHOLZ 6<lb/>
                N.-Ö., Austria               
