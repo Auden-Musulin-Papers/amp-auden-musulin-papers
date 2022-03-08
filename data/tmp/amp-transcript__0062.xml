@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:id="amp-transcript__0062.xml"
+   xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
+            <title level="a">Typescript Stella Musulin "The Years in Austria" [?]</title>
+            <author>Musulin, Stella</author>
+            <editor>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+            </editor>
+            <funder>
+               <name>FWF Austrian Science Fund</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Vienna</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Vienna</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>AMP</edition>
+            <respStmt>
+               <resp>Transcription and commentary</resp>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                  <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
+for any purpose, even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+                  <p>Notices:</p>
+                  <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
+               </licence>
+               <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>St. Pölten</settlement>
+                        <repository>State Collections of Lower Austria</repository>
+                        <collection>Stella Musulin (Depot)</collection>
+                        <idno>nan</idno>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate>[?]</origDate></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-03-08">template populated with script "create_templates.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5682" lry="7738">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0255/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5682" lry="7740">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0256/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7740">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0257/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7736">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0258/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0259/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7748">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0260/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5682" lry="7744">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0261/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5692" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0262/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7744">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0263/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5688" lry="7748">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0264/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0265/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0266/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5682" lry="7742">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0267/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7744">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0268/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0269/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7748">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0270/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7748">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0271/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5688" lry="7748">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0272/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0273/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7754">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0274/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0275/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0276/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7738">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0277/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7744">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0278/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5682" lry="7742">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0279/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0280/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7742">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0281/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7742">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0282/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5688" lry="7752">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0283/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7748">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0284/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7744">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0285/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5682" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0286/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7744">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0287/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7744">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0288/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7738">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0289/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7738">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0290/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0291/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0292/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5682" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0293/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5682" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0294/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0295/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5688" lry="7748">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0296/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5692" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0297/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7752">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0298/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7744">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0299/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7748">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0300/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0301/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0302/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7752">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0303/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7744">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0304/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0305/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5688" lry="7748">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0306/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7748">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0307/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0308/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5682" lry="7740">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0309/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5688" lry="7740">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0310/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7738">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0311/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7740">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0312/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5682" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0313/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7752">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0314/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0315/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7744">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0316/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7754">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0317/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7748">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0318/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7748">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0319/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7744">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0320/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0321/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7748">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0322/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5682" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0323/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7742">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0324/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0325/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5688" lry="7752">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0326/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5692" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0327/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7740">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0328/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7738">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0329/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5688" lry="7742">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0330/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0331/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0332/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5682" lry="7742">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0333/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7738">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0334/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5682" lry="7738">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0335/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7742">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0336/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0337/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5682" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0338/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0339/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7742">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0340/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5688" lry="7752">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0341/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0342/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0343/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7748">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0344/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5690" lry="7744">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0345/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5686" lry="7748">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0346/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7740">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0347/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5684" lry="7744">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0348/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5682" lry="7742">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0349/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5682" lry="7746">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0350/"/>
+      </surface>
+   </facsimile>
+   <text type="letter">
+      <body>
+         <div xml:id="transcription">
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0255/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0256/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0257/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0258/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0259/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0260/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0261/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0262/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0263/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0264/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0265/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0266/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0267/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0268/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0269/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0270/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0271/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0272/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0273/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0274/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0275/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0276/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0277/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0278/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0279/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0280/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0281/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0282/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0283/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0284/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0285/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0286/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0287/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0288/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0289/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0290/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0291/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0292/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0293/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0294/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0295/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0296/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0297/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0298/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0299/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0300/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0301/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0302/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0303/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0304/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0305/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0306/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0307/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0308/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0309/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0310/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0311/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0312/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0313/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0314/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0315/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0316/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0317/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0318/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0319/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0320/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0321/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0322/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0323/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0324/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0325/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0326/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0327/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0328/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0329/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0330/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0331/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0332/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0333/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0334/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0335/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0336/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0337/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0338/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0339/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0340/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0341/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0342/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0343/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0344/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0345/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0346/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0347/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0348/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0349/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0350/" type="nan"/>
+         </div>
+      </body>
+   </text>
+</TEI>
