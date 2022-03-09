@@ -371,88 +371,89 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0350/"/>
       </surface>
    </facsimile>
-   <text type="letter">
+   <text type="letter" hand="#typed">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0255/" type="nan"/>
                <p>
-                  The Years in Augtria.
-                  Half an hour from the outskirts of Vienna an invisible
-                  thread bisects the motorway. It leads from the church which
-                  lies to the north, more accurately speaking from the churchyard,
-                  disregards entirely the traffic as it thunders to and from the
-                  capital, wriggles across a field to the south, passes a small
-                  house which was once a garage. Up a steep path, plum trees
-                  on one side and apple trees on the other, through a wicket
-                  gate, and now the thread, which has turned neither to right nor
-                  left, has reached its objective: a long, low house, more an
-                  extended workman's cottage. Criginally, the address was
-                  Hinterholz 6; later, the lane up from the village on the other
-                  side was renamed Auden-Strasse. This thread or unseen line joins
-                  the places where Auden prayed, sang (flat) and was buried, and
-                  the place where he lived, and to me it is tangible reality,
-                  unfailingly sensed at each frequent crossing. Partly it is
-                  because it was always from that direction that I arrived, being
-                  mistrustful of the narrow lane which lies along the top of the
-                  garden and leads into a wood where in a small clearing floored
-                  at times by sticky mud, the car can be turned. It seemed
-                  preferable, and anyway became a habit, to take the cart track
-                  through the field with its ruts, the depth of which left the
-                  undercarriage to slide along the plateau of coarse grass. And
-                  to leave the car by the garage and plod up througn the orchard,
-                  accepting the risk of slithering off the path to the right.
-                  On walking through the wicket-gate next to the woodshed,
-                  there has been from time to time, and is today, the risk of
-                  being savaged by a wall-eyed dog; in earlier days, of having
-                  to account for ones presence to Frau Emma. Past the vegetable
-                  patch, now the ground levels off and the house stands before us.
-                  Left, at the foot of the outside staircase and below the window of
-                  his workroom, there are the white table and comfortable garden
-                  chairs with red cushions. Facing the caller, the green door with
-                  a bell, the sort which jangles when pulled. I seldom did so,
-                  feeling that its clamour spoke of altogether too much aggressive
-                  jocularity. Seeing the light through the sittingroom window, it was
+                  <hi rend="underline">The Years in Austria.</hi><lb/>
+                  <space quantity="5" unit="char"/>Half an hour from the outskirts of Vienna an invisible<lb/>
+                  thread bisect<del>x</del>s the motorway. <space quantity="1" unit="char"/>It leads from the church which<lb/>
+                  lies to the north, more accurately speaking from the churchyard,<lb/>
+                  disregards entirely the traffic as it thunders to and from the<lb/>
+                  capital, wriggles across a field to the south, passes a small<lb/>
+                  house which was once a garage. <space quantity="1" unit="char"/>Up a steep path, plum trees<lb/>
+                  on one side and apple trees on the other, through a wicket<lb/>
+                  gate, and now the thread, which has turned neither to right nor<lb/>
+                  left, has reached its objective: <space quantity="1" unit="char"/>a long, low house, more an<lb/>
+                  extended workman's cottage. <space quantity="1" unit="char"/><unclear>O</unclear>riginally, the address was<lb/>
+                  Hinterhol<del>6</del>z 6; <space quantity="1" unit="char"/>later, the lane up from the village on the other<lb/>
+                  side was renamed Auden-Strasse. <space quantity="1" unit="char"/>This thread or unseen line joins<lb/>
+                  the places where Auden prayed, sang (flat) and was buried, and<lb/>
+                  the place where he lived, and to me it is tangible reality,<lb/>
+                  unfailingly sensed at each frequent crossing. <space quantity="1" unit="char"/>Partly it is<lb/>
+                  because it was alwa<del>s</del>ys from that direction that I arrived, being<lb/>
+                  mistrustful of the narrow lane which lies along the top of the<lb/>
+                  garden and leads into a wood where in a small clearing floored<lb/>
+                  at times by sticky mud, the car can be turned. <space quantity="1" unit="char"/><unclear>I</unclear>t seemed<lb/>
+                  preferable, and anyway became a habit, to take the cart track<lb/>
+                  <space quantity="1" unit="char"/>through the field with its ruts, the depth of which left the<lb/>
+                  undercarriage to slide along the plateau of coarse grass. <space quantity="1" unit="char"/>And<lb/>
+                  to leave the car by the garage and plod up throug<unclear>h</unclear> the orchard,<lb/>
+                  accepting the risk of slithering off the path to the right.<lb/>
+                  <space quantity="5" unit="char"/>On walking through the wicket-gate next to the woodshed,<lb/>
+                  there has been from time to time, and is today, the risk of<lb/>
+                  being savaged by a wall-eyed dog; <space quantity="1" unit="char"/>in earlier days, of having<lb/>
+                  to account for ones presence to Frau Emma. <space quantity="1" unit="char"/>Past the vegetable<lb/>
+                  patc<unclear>h</unclear>, now the ground levels off and the house stands before us.<lb/>
+                  Left, at the foot of the outside staircase and below the window of<lb/>
+                  his workroom, t<unclear>h</unclear>ere are the white table and comfortable garden<lb/>
+                  chairs with red cushions. <space quantity="1" unit="char"/>Facing the caller, the green door with<lb/>
+                  a bell, the sort whic<unclear>h</unclear> jangles when pulled. <space quantity="1" unit="char"/>I seldom did so,<lb/>
+                  fee<unclear>l</unclear>ing that its clamour spoke of altogether too much aggressive<lb/>
+                  jocularity. <space quantity="1" unit="char"/>Seeing the light through the sittingroom window, it was<lb/>
                   better to walk straight in to the small entrance hall - coats hanging
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0256/" type="nan"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0257/" type="nan"/>
                <p>
                   2.
-                  on the wall ahead, kitchen through the right-hand door, a clutter
-                  of books and papers on a nearby ledge - and to shout. That
-                  heartwarming bellow from Wystan: "Ah!“ and here is the familiar
-                  
-                  scene, we are enveloped in the unchanging fug. The shelves
-                  of records and the oversized record player on the left, the
-                  big, square dining table with its food-stained cloth. Centre
-                  back, the Austrian peasant cupboard containing drinks, sugar,
-                  salt, then the corner seat, the table with its cigarette burns
-                  and glass rings, and two arm chairs - a Sitzecke. To our right
-                  a tumble of assorted titles on an invisible surface; within a
-                  matter of days, Auden could make a new book look like a lending
-                  library reject: the content was all, the package irrelevant.
-                  Here lie, precariously balanced, collapsing, upended, volumes of
-                  poetry, cookery books, Benson's Lucia novels, Akenfield, whodunnits
-                  a new translation of the Bible. Over the years, the content of
-                  the heap varied but the overall appearance scarcely at all.
-                  And now the stove, country style, a white dome with round green
-                  tiles set in it, one of the glories of Austrian Wohnkultur
-                  How fortunate that the stove is irremovable, or it would be in
-                  Athens now, along with the cupboard and the original drawings of
-                  Stravinsky and Richard Strauss. Books also lie along the top
-                  ledge of the corner seat, and a volume or two of the OED on the
-                  upright chairs by the dinner table, adjuncts to the Times
-                  crossword. Was it, I asked, essential to have the complete
-                  Oxford English Dictionary, all thirteen volumes of it, at each
-                  of ones residences? „Of course" said Auden, surprised at such a
-                  question.
-                  So much was written during his lifetime about Auden's
-                  way of life in Kirchstetten: articles by capable journalists
-                  in the Sunday papers and in their weekly magazines, that any
-                  attempt at a personal memoir gives the writer the feeling that
-                  he is working all too well-trodden ground.
-                  It is not only that the scene is familiar. What can a friend
-                  write without lapsing into triviality and gossip, without calling
+               </p>
+               <p>
+                  on the wall ahead, kitchen through the right-hand door, a clutter<lb/>
+                  of books and papers on a nearby ledge - and to shout. <space quantity="1" unit="char"/>That<lb/>
+                  heartwarming bellow from Wystan: <space quantity="1" unit="char"/>"Ah!" and here is the familiar<lb/>
+                  scene, we are enveloped in the unchanging fug. <space quantity="1" unit="char"/>The shelves<lb/>
+                  of re<del>f</del>cords and the oversized record player on the left, the<lb/>
+                  big, square dining table with its food-stained cloth. <space quantity="1" unit="char"/>Centre<lb/>
+                  back, the Austrian peasant cupboard containing drinks, sugar,<lb/>
+                  salt, then the corner seat, the table with its cigarette burns<lb/>
+                  and glass rings, and two arm<unclear>-</unclear>chairs - a <hi rend="underline">Sitzecke.</hi> <space quantity="1" unit="char"/>To our right<lb/>
+                  a tumble of assorted titles on an invisible surface; <space quantity="1" unit="char"/>within a<lb/>
+                  matter of days, Auden could make a new book look like a lending<lb/>
+                  library reject: <space quantity="1" unit="char"/>the content was all, the package irrelevant.<lb/>
+                  Here lie, precariously balanced, collapsing, upended, volumes of<lb/>
+                  poetry, cookery books, Benson's Lucia novels, Akenfield, whodunnits<lb/>
+                  a new translation of the Bible. Over the years, the content of<lb/>
+                  the heap varied but the overall appearance scarcely at all.<lb/>
+                  And now the stove, country style, a white dome with round green<lb/>
+                  tiles set in it, one of the glories of Austrian Wohnkultur<lb/>
+                  How fortunate that the stove is irremovable, or it would be in<lb/>
+                  Athens now, along with the cupboard and the original drawings of<lb/>
+                  Stravinsky and Richard Strauss. Books also lie along the top<lb/>
+                  ledge of the corner seat, and a volume or two of the OED on the<lb/>
+                  upright chairs by the dinner table, adjuncts to the Times<lb/>
+                  crossword. Was it, I asked, essential to have the complete<lb/>
+                  Oxford English Dictionary, all thirteen volumes of it, at each<lb/>
+                  of ones residences? „Of course" said Auden, surprised at such a<lb/>
+                  question.<lb/>
+                  So much was written during his lifetime about Auden's<lb/>
+                  way of life in Kirchstetten: articles by capable journalists<lb/>
+                  in the Sunday papers and in their weekly magazines, that any<lb/>
+                  attempt at a personal memoir gives the writer the feeling that<lb/>
+                  he is working all too well-trodden ground.<lb/>
+                  It is not only that the scene is familiar. What can a friend<lb/>
+                  write without lapsing into triviality and gossip, without calling<lb/>
                   down on his head the wrath of Wystan Auden himself, about whom,
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0258/" type="nan"/>
