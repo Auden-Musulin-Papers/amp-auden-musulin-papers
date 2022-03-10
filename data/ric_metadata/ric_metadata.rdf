@@ -3,7 +3,7 @@
          xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
 
 <!-- ric agents -->
-<rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/whauden.html">
+<rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/auden.html">
    <rico:hasOrHadAgentName>
       Auden, W. H.
    </rico:hasOrHadAgentName>
@@ -14,7 +14,7 @@
    <rico:hasOrHadIdentifier>amp_0001</rico:hasOrHadIdentifier>
    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1963-05-12</rico:hasOrHadName>
    <rico:isAssociatedWithDate>1963-05-12</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/whauden.html</rico:hasAuthor>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
 </rico:Record>
 
@@ -22,7 +22,7 @@
    <rico:hasOrHadIdentifier>amp_0002</rico:hasOrHadIdentifier>
    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23</rico:hasOrHadName>
    <rico:isAssociatedWithDate>1964-12-23</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/whauden.html</rico:hasAuthor>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
 </rico:Record>
 
@@ -30,7 +30,7 @@
    <rico:hasOrHadIdentifier>amp_0003</rico:hasOrHadIdentifier>
    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1965-09-29</rico:hasOrHadName>
    <rico:isAssociatedWithDate>1965-09-29</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/whauden.html</rico:hasAuthor>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
 </rico:Record>
 
@@ -38,7 +38,7 @@
    <rico:hasOrHadIdentifier>amp_0004</rico:hasOrHadIdentifier>
    <rico:hasOrHadName>Typed Letter Signed W. H. Auden to Stella Musulin 1966-02-03</rico:hasOrHadName>
    <rico:isAssociatedWithDate>1966-02-03</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/whauden.html</rico:hasAuthor>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
 </rico:Record>
 
@@ -46,7 +46,7 @@
    <rico:hasOrHadIdentifier>amp_0005</rico:hasOrHadIdentifier>
    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1967-11-08</rico:hasOrHadName>
    <rico:isAssociatedWithDate>1967-11-08</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/whauden.html</rico:hasAuthor>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
 </rico:Record>
 
@@ -54,7 +54,7 @@
    <rico:hasOrHadIdentifier>amp_0006</rico:hasOrHadIdentifier>
    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-02-06</rico:hasOrHadName>
    <rico:isAssociatedWithDate>1968-02-06</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/whauden.html</rico:hasAuthor>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
 </rico:Record>
 
@@ -62,7 +62,7 @@
    <rico:hasOrHadIdentifier>amp_0007</rico:hasOrHadIdentifier>
    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-06</rico:hasOrHadName>
    <rico:isAssociatedWithDate>1968-10-06</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/whauden.html</rico:hasAuthor>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
 </rico:Record>
 
@@ -70,7 +70,7 @@
    <rico:hasOrHadIdentifier>amp_0008</rico:hasOrHadIdentifier>
    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12</rico:hasOrHadName>
    <rico:isAssociatedWithDate>1968-10-12</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/whauden.html</rico:hasAuthor>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
 </rico:Record>
 
@@ -78,7 +78,23 @@
    <rico:hasOrHadIdentifier>amp_0009</rico:hasOrHadIdentifier>
    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-15</rico:hasOrHadName>
    <rico:isAssociatedWithDate>1968-10-15</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/whauden.html</rico:hasAuthor>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+</rico:Record>
+
+<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/0010.html">
+   <rico:hasOrHadIdentifier>amp_0010</rico:hasOrHadIdentifier>
+   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-11-06</rico:hasOrHadName>
+   <rico:isAssociatedWithDate>1968-11-06</rico:isAssociatedWithDate>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+</rico:Record>
+
+<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/0011.html">
+   <rico:hasOrHadIdentifier>amp_0011</rico:hasOrHadIdentifier>
+   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-13</rico:hasOrHadName>
+   <rico:isAssociatedWithDate>1968-12-13</rico:isAssociatedWithDate>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
 </rico:Record>
 
@@ -86,7 +102,7 @@
    <rico:hasOrHadIdentifier>amp_0039</rico:hasOrHadIdentifier>
    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-04-28 and with Typescript W. H. Auden Translation "Joseph Weinheber"</rico:hasOrHadName>
    <rico:isAssociatedWithDate>1965-04-28</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/whauden.html</rico:hasAuthor>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
 </rico:Record>
 
 </rdf:RDF>
