@@ -104,6 +104,19 @@
                </desc>               
             </event>
             <event xml:id="ea002"
+               type="event">
+               <head xml:lang="en">
+                  <date notBefore-iso="1959-06-01" notAfter-iso="1959-10-31">1959-06-01--1959-10-31</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">summer of 1959, Kirchstetten, Lower Austria</title>
+                  Auden meets Stella Musulin for the first time. The meeting is initiated by Auden's and Musulin's mutual friend, Christiane Zimmer (1902-1987), Hugo von Hofmannsthal's daughter, who had emigrated to the United States. <!-- link to PMB -->
+                  <location>
+                     <geo>48.183333 15.816667</geo>
+                  </location>
+               </desc>               
+            </event>
+            <event xml:id="ea002"
                type="event_austria">
                <head xml:lang="en">
                   <date from-iso="1960-08-04" to-iso="1960-08-06">1960-08-04--1960-08-06</date>
