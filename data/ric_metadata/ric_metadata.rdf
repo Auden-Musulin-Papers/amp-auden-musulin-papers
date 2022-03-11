@@ -2,14 +2,8 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
 
-<!-- ric agents -->
-<rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/auden.html">
-   <rico:hasOrHadAgentName>
-      Auden, W. H.
-   </rico:hasOrHadAgentName>
-</rico:Agent>
-
 <!-- ric records -->
+
 <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/0001.html">
    <rico:hasOrHadIdentifier>amp_0001</rico:hasOrHadIdentifier>
    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1963-05-12</rico:hasOrHadName>
@@ -98,11 +92,48 @@
    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
 </rico:Record>
 
+<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/0012.html">
+   <rico:hasOrHadIdentifier>amp_0012</rico:hasOrHadIdentifier>
+   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-29</rico:hasOrHadName>
+   <rico:isAssociatedWithDate>1968-12-29</rico:isAssociatedWithDate>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+</rico:Record>
+
+<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/0013.html">
+   <rico:hasOrHadIdentifier>amp_0013</rico:hasOrHadIdentifier>
+   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1969-01-04</rico:hasOrHadName>
+   <rico:isAssociatedWithDate>1969-01-04</rico:isAssociatedWithDate>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+</rico:Record>
+
 <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/0039.html">
    <rico:hasOrHadIdentifier>amp_0039</rico:hasOrHadIdentifier>
    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-04-28 and with Typescript W. H. Auden Translation "Joseph Weinheber"</rico:hasOrHadName>
    <rico:isAssociatedWithDate>1965-04-28</rico:isAssociatedWithDate>
    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
 </rico:Record>
+
+<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/0000.html">
+   <rico:hasOrHadIdentifier>amp_0000</rico:hasOrHadIdentifier>
+   <rico:hasOrHadName>test value</rico:hasOrHadName>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin.html</rico:hasAuthor>
+   <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
+</rico:Record>
+
+<!-- ric agents -->
+
+<rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/auden.html">
+   <rico:hasOrHadAgentName>
+      Auden, W. H.
+   </rico:hasOrHadAgentName>
+</rico:Agent>
+
+<rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/musulin.html">
+   <rico:hasOrHadAgentName>
+      Musulin, Stella
+   </rico:hasOrHadAgentName>
+</rico:Agent>
 
 </rdf:RDF>
