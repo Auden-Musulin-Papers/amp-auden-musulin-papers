@@ -111,23 +111,25 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0074/"/>
       </surface>
    </facsimile>
-   <text type="letter">
+   <text type="letter" hand="#handwritten">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0071/" type="envelope"/>
                <p>
-                  Tra<unclear>nslation</unclear> <unclear>recd.</unclear><lb/>
-                  Weddi<unclear>ng</unclear> <unclear>near</unclear>Krems<lb/>
+                  Translation rec<unclear>d.</unclear><lb/>
+                  Wedding <unclear>n</unclear>earKre<unclear>m</unclear>s<lb/>
                </p>
                <p>
                   Die Baronin<lb/>
-                  Stella Musul<unclear>i</unclear>n<lb/>
+                  Stella Musulin<lb/>
                   1030 Wien<lb/>
                   Neulinggasse 26/14
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0072/" type="envelope"/>
                <p>
-                  WH Auden<lb/>
+                  WH Auden
+               </p>
+               <p hand="#printed">
                   3062 KIRCHSTETTEN<lb/>
                   BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
@@ -137,7 +139,7 @@ for any purpose, even commercially.</p>
                <p>
                   <del>July</del> June 10<unclear>th</unclear>
                </p>
-               <p>
+               <p hand="#printed">
                   3062 KIRCHSTETTEN<lb/>
                   BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
@@ -145,17 +147,17 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Dear Stella<lb/>
-                  Translati<unclear>on</unclear> just received. Thanks<lb/>
-                  <unclear>e</unclear> m<unclear>i</unclear>lli<unclear>on</unclear>.<lb/>
-                  On Saturday Chester <unclear>and</unclear> I have<lb/>
-                  to attend a wedding <del><gap/></del>near<lb/>
-                  Kr<del><gap/></del>ems at 3&#x00B7;0.p.m,which means<lb/>
-                  we shall have to lunch at 12&#x00B7;0<unclear>,</unclear><lb/>
-                  C<unclear>ou</unclear>ld you possibly make that<unclear>?</unclear><lb/>
-                  If not,pe<unclear>rhaps</unclear> you c<unclear>ou</unclear>ld come<lb/>
-                  on Monday,<del>if &#x00B7;retur:</del> or <unclear>w</unclear>h<unclear>ich</unclear>ever day<lb/>
-                  you <unclear>w</unclear>ill be re<unclear>t</unclear>urning to Vienna<lb/>
-                  fr<unclear>om</unclear> Fridau<unclear>.</unclear><lb/>
+                  Translation just received. Thanks<lb/>
+                  <unclear>e</unclear> million.<lb/>
+                  On Saturday Chester and I have<lb/>
+                  to attend a wedding <del><unclear>in</unclear></del>near<lb/>
+                  Kr<unclear>e</unclear>ms at 3<unclear>&#x00B7;</unclear>0.p.m,which means<lb/>
+                  we shall have to lunch at 12<unclear>&#x00B7;</unclear>0<unclear>,</unclear><lb/>
+                  Could you possibly make that<unclear>?</unclear><lb/>
+                  If not,per<unclear>haps</unclear> you could come<lb/>
+                  on Monday,<del>if &#x00B7;retur:</del> or whichever day<lb/>
+                  you <unclear>w</unclear>ill be retur<unclear>n</unclear>ing to Vienna<lb/>
+                  from Fridau<unclear>.</unclear><lb/>
                   love and again thanks ever<lb/>
                   so much<lb/>
                   Wystan
