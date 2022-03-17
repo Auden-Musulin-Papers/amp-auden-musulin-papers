@@ -184,17 +184,30 @@
             <event xml:id="ea007"
                type="event_austria">
                <head xml:lang="en">
-                  <date notBefore="1967-01-05" notAfter="1967-01-05">1967-01-05</date>
+                  <date notBefore="1966-08-06" notAfter="1966-08-06">1966-08-06</date>
                </head>
                <desc>
-                  <title xml:lang="en">5 January 1967</title>
-                  Auden's Christmas oratorio "For the Time Being", translated into German by the Austrian writer Gerhard Fritsch (1924-1969), is shown on Austrian television, with music by Austrian composer Paul Kont and Helmut Qualtinger as Herod.
+                  <title xml:lang="en">6 August 1966, Salzburg</title>
+                  Hans Werner Henze's opera The Bassarids, with a libretto by Auden and Kallman, premières at the Salzburg Festival; the German translation of the libretto is produced by Maria Bosse-Sporleder
                   <location>
                      <geo></geo>
                   </location>
                </desc>               
             </event>
             <event xml:id="ea008"
+               type="event_austria">
+               <head xml:lang="en">
+                  <date notBefore="1967-01-05" notAfter="1967-01-05">1967-01-05</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">5 January 1967</title>
+                  Austrian television broadcasts the TV opera <hi rend="italics">Inzwischen</hi>, with a musical setting of a part of Auden’s "For the Time Being" (translated into German by Austrian writer Gerhard Fritsch as "Hier und Jetzt") by composer Paul Kont, featuring Helmut Qualtinger as Herod
+                  <location>
+                     <geo></geo>
+                  </location>
+               </desc>               
+            </event>
+            <event xml:id="ea009"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1967-04-24" notAfter="1967-04-26">1967-04-24--1967-04-26</date>
@@ -207,7 +220,7 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="ea009"
+            <event xml:id="ea010"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1967-09-10" notAfter="1967-09-13">1967-09-10--1967-09-13</date>
@@ -220,7 +233,20 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="ea010"
+            <event xml:id="ea011"
+               type="event_austria">
+               <head xml:lang="en">
+                  <date notBefore="1968-07-25" notAfter="1968-07-25">1968-07-25</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">25 July 1968, Salzburg</title>
+                  Auden delivers the opening address "Worte und Noten" [Words and Musical Notes] at the Salzburg Festival
+                  <location>
+                     <geo>47.8 13.033333</geo>
+                  </location>
+               </desc>               
+            </event>
+            <event xml:id="ea012"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1969-05-28" notAfter="1969-05-28">1969-05-28</date>
@@ -233,7 +259,7 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="ea011"
+            <event xml:id="ea013"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1969-07-15" notAfter="1969-07-16">1969-07-15--1969-07-16</date>
@@ -246,7 +272,7 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="ea012"
+            <event xml:id="ea014"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1970-09-29" notAfter="1970-09-29">1970-09-29</date>
@@ -259,7 +285,7 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="ea013"
+            <event xml:id="ea015"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1972-06-09" notAfter="1972-06-09">1972-06-09</date>
@@ -272,7 +298,7 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="ea014"
+            <event xml:id="ea016"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1973-09-28" notAfter="1973-09-28">1973-09-28</date>
@@ -285,7 +311,7 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="ea015"
+            <event xml:id="ea017"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1973-09-29" notAfter="1973-09-29">1973-09-29</date>
@@ -298,7 +324,7 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="ea016"
+            <event xml:id="ea018"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1973-10-04" notAfter="1973-10-04">1973-10-04</date>
