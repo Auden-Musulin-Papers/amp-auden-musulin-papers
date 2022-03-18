@@ -158,6 +158,19 @@
             <event xml:id="ei001"
                type="event_international">
                <head xml:lang="en">
+                  <date notBefore="1964-10-01" notAfter="1965-03-31">1964-10-01--1965-03-31</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">winter 1964/65, Berlin</title>
+                  Auden spends six months in Berlin as guest of the Ford Foundation and their artists-in-residence programme <!-- reference letters to Musulin 1964-12-23 and 1965-03-15 -->
+                  <location>
+                     <geo>52.533333 13.166667</geo>
+                  </location>
+               </desc>               
+            </event>
+            <event xml:id="ei002"
+               type="event_international">
+               <head xml:lang="en">
                   <date notBefore="1965-01-01" notAfter="1965-12-31">1965-01-01--1965-12-31</date>
                </head>
                <desc>
