@@ -288,6 +288,19 @@
             <event xml:id="ea014"
                type="event_austria">
                <head xml:lang="en">
+                  <date notBefore="1968-10-01" notAfter="1968-10-15">1968-10-01--1968-10-15</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">October 1968, Kirchstetten, Lower Austria</title>
+                  Auden offers to put up a Czech refugee couple at his house in Kirchstetten during his absence, responding to the refugee crisis following the Soviet invasion of Czechoslovakia in August 1968 <!-- reference/link to letter 1968-10-15, Stella Musulin memoir -->
+                  <location>
+                     <geo>48.183333 15.816667</geo>
+                  </location>
+               </desc>               
+            </event>
+            <event xml:id="ea015"
+               type="event_austria">
+               <head xml:lang="en">
                   <date notBefore="1968-12-13" notAfter="1968-12-13">1968-12-13</date> <!-- check date -->
                </head>
                <desc>
@@ -298,7 +311,7 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="ea015"
+            <event xml:id="ea016"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1969-05-28" notAfter="1969-05-28">1969-05-28</date>
@@ -311,7 +324,7 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="ea016"
+            <event xml:id="ea017"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1969-07-15" notAfter="1969-07-16">1969-07-15--1969-07-16</date>
@@ -324,7 +337,7 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="ea017"
+            <event xml:id="ea018"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1970-09-29" notAfter="1970-09-29">1970-09-29</date>
@@ -337,7 +350,7 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="ea018"
+            <event xml:id="ea019"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1972-06-09" notAfter="1972-06-09">1972-06-09</date>
@@ -350,7 +363,7 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="ea019"
+            <event xml:id="ea020"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1973-09-28" notAfter="1973-09-28">1973-09-28</date>
@@ -363,7 +376,7 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="ea020"
+            <event xml:id="ea021"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1973-09-29" notAfter="1973-09-29">1973-09-29</date>
@@ -376,7 +389,7 @@
                   </location>
                </desc>               
             </event>
-            <event xml:id="ea021"
+            <event xml:id="ea022"
                type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1973-10-04" notAfter="1973-10-04">1973-10-04</date>
