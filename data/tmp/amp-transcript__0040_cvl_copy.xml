@@ -141,6 +141,18 @@ for any purpose, even commercially.</p>
                   <unclear>W</unclear>ystan
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0070/" type="sheet"/>
+            <pb/><!-- ad-g-mirr-tif (PS image verso top) -->
+               <p>
+                  <gap/> <gap/>n<unclear>t</unclear><gap/> <gap/>o<gap/> g<unclear>od</unclear>f<gap/>thers"
+                  y<unclear>o</unclear>u <gap/>ote i<gap/> u<unclear>i</unclear><gap/>gue<gap/>-<unclear>bo</unclear><gap/>k,<gap/>i<unclear>c</unclear><gap/> w<gap/><unclear>s</unclear> fl<unclear>a</unclear>tteri<unclear>n</unclear>g<unclear>:</unclear>
+                  t<unclear>h</unclear>oug<unclear>h</unclear> <unclear>I</unclear>'ve <gap/>e<gap/><unclear>c</unclear><gap/> t<gap/><unclear>e</unclear> <unclear>y</unclear><gap/><unclear>r</unclear> <unclear>n</unclear> discretion
+                  c<unclear>a</unclear>lls for <gap/> <gap/>e<gap/>rl<gap/> m<unclear>e</unclear><gap/>ic<gap/>l c<unclear>h</unclear>ec<gap/>-up,
+                  <gap/>ho<gap/> to <unclear>vo</unclear><gap/>c<unclear>h</unclear> <gap/><unclear>r</unclear> <gap/><unclear>a</unclear> <gap/><unclear>h</unclear>ri<unclear>s</unclear>ti<gap/>n
+                  <gap/>a<gap/>y,f<gap/>r le<gap/> offe<gap/> o<gap/>tly<gap/> ti<gap/>u<gap/>
+                  to <unclear>a</unclear> <gap/>oun<gap/> <unclear>man</unclear> <gap/> ye<gap/>te<gap/>i<gap/>es it
+                  was <gap/>i<gap/><unclear>r</unclear>ent: th<gap/> old coul<unclear>t</unclear> be hel<unclear>p</unclear>ful
+                  when <gap/>h<gap/><unclear>r</unclear>ul<unclear>d</unclear><gap/>ni<gap/> e<unclear>n</unclear>vi<gap/> <unclear>g</unclear><gap/>he <unclear>f</unclear>uture
+               </p>
             <pb/><!-- anp-cvl_1r-a\ad-g.tif (PS image recto top) -->
                <p>
                   (2<lb/>
@@ -183,14 +195,14 @@ for any purpose, even commercially.</p>
                   <l>as most po<unclear>e</unclear>ts,and wou<unclear>l</unclear><gap/> rather spend yo<unclear>u</unclear>r s<gap quantity="2" reason="illegible"/>re</l>
                   <l>moments romping around in <unclear>Can</unclear>tor's</l>
                   <l>logic<unclear></unclear>l par<unclear>ad</unclear>ise o<unclear>f</unclear> beseeching</l>
-                  <l>such knotty points <gap/>s <hi rend="underline"><unclear>Ca</unclear>n we hang a robber</hi></l>
-                  <l><hi rend="underline">who is not there.</hi> or <hi rend="underline"><gap/>h<gap/>t is the color of</hi></l>
-                  <l><hi rend="underline">the <unclear>n</unclear>u<unclear>m</unclear>ber Three</hi>. <gap/>hy not? <gap/>ll ple<gap/>sures</l>
-                  <l>come <unclear>f</unclear>rom God. <gap/>in<gap/>e I <hi rend="underline">am</hi> your godf<unclear>a</unclear>ther,</l>
+                  <l>such knotty points <gap quantity="1" unit="char"/>s <hi rend="underline"><unclear>Ca</unclear>n we hang a robber</hi></l>
+                  <l><hi rend="underline">w<unclear>h</unclear>o is not there?</hi> or <hi rend="underline"><gap quantity="1" unit="char"/>h<gap quantity="1" unit="char"/>t is the color of</hi></l>
+                  <l><space quantity="3" unit="char"/><hi rend="underline">the <unclear>n</unclear>u<unclear>m</unclear>ber Three</hi>. <gap quantity="1" unit="char"/>hy not? <gap quantity="1" unit="char"/>ll ple<gap quantity="1" unit="char"/>sures</l>
+                  <l><space quantity="3" unit="char"/>come <unclear>f</unclear>rom God. <gap quantity="1" unit="char"/>in<gap quantity="1" unit="char"/>e I <hi rend="underline">am</hi> your godfather,</l>
                   <l>let me close this letter with some worl<gap/>ly <unclear>m</unclear>axim<unclear>s</unclear>:</l>
-                  <l><hi rend="underline"><unclear>B</unclear>e <gap/>l<unclear>a</unclear>d<gap/>o<unclear>u</unclear>r<gap/>o b<unclear>e</unclear>ing is unnecessary</hi>,</l>
-                  <l><hi rend="underline">the<gap/>,turn your toe<gap/> out <gap/>s you walk,de<gap/>r</hi>,</l>
-                  <l><hi rend="underline">and r<unclear>e</unclear>member who you are,a <gap/><unclear>p</unclear>ender</hi>.</l>
+                  <l><hi rend="underline"><unclear>B</unclear>e <gap quantity="1" unit="char"/>l<unclear>a</unclear>d <gap quantity="1" unit="char"/>o<unclear>u</unclear>r b<unclear>e</unclear>ing is unnecess<unclear>a</unclear>ry</hi>,</l>
+                  <l><space quantity="3" unit="char"/><hi rend="underline">the<gap quantity="1" unit="char"/>,turn your toe<gap quantity="1" unit="char"/> out <gap quantity="1" unit="char"/>s you w<gap quantity="1" unit="char"/>lk,de<gap quantity="1" unit="char"/>r</hi>,</l>
+                  <l><space quantity="3" unit="char"/><hi rend="underline">and r<unclear>e</unclear>member who y<unclear>o</unclear>u are,a <gap quantity="1" unit="char"/><unclear>p</unclear>ender</hi>.</l>
                </p>
          </div>
       </body>
