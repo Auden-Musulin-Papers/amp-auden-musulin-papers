@@ -948,7 +948,7 @@ for any purpose, even commercially.</p>
                   level. <space quantity="1" unit="char"/>His shirt was grubby, his tie askew, his hair was<lb/>
                   matted, and before he was half through the door and with no<lb/>
                   further greeting he gasped out:<lb/>
-                  <space quantity="4" unit="char"/>"I have come to the conclusion that Goethe was a very<lb/>
+                  <space quantity="4" unit="char"/>"I have come to the concl<del>i</del>usion that Goethe was a very<lb/>
                   lonely man."
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0280/" type="nan"/>
@@ -1007,69 +1007,83 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0283/" type="nan"/>
                <p>
                   14.
-                  By the end of October 1964 Auden was in Berlin,
-                  where he would spend the winter as a guest of the Ford
-                  Foundation. As a visiting professor he would give lectures
-                  and be at the disposal of students who wanted to consult him.
-                  On 21st November he was arrested for drunk driving. It must have
-                  been rather a dreary Christmas, and he remarked in a letter
-                  that he was lonely, as who wouldn't be in the circumstances.
-                  Berlin-Dahlem, 23rd December, 1964:
-                  It was sweet of you to think of me at Christmas, especially
-                  since it's a little einsam here. Am beginning to know some
-                  local inhabitants. Oddly enough, the ones I can talk to most
-                  easily are from Ost-Berlin. The most awful thing about the
-                  Bifkes(sic)§ is that they are so much nicer under a little
-                  Druck resre. When they feel their oats they are so apt
-                  to become uppish." K 1/62T 1Wa
-                  Characteristic though it is, one might not feel justified
-                  in quoting from this letter if it were not for the fact that
-                  it goes on to throw light on a passage in his long poem to
-                  Josef Weinheber. It came about like this: I had been reading
-                  a paperback called "The Rise of the South African Reich“ by Brian
-                  Bunting and mentioned it in my letter with particular reference
-                  to torture. And I had complained that certain attitudes found
-                  in so-called liberal circles tended to push one further to the
-                  right than one wished to go. After a sharp comment on the
-                  American magazine "The National Review“ he continues: "Of
-                  course you're right aboutthe lib-labs' ostrich attitude to
-                  those who wish to destroy them, but one cannot let ones name be
-                  associated with shits. Torture is the iniquity which utterly
-                  bewilders me. I know something about the evil in my own heart
-                  and in the sort of people I meet, but I cannot conceive of
-                  myself or them torturning anybody. Where do the torturers come
-                  from? What class? Whom do they marry?" The words "Have you
-                  ever met one?“ are deleted. "To what pubs do they go?y
-                  Much love and best wishes for 1965, Wystan."
-                  By 20th March 1965 he had completed, typed out and sent
+               </p>
+               <p>
+                  <space quantity="5" unit="char"/>By <del>Octob</del> the end of October 1964 Auden was in Berlin,<lb/>
+                  where he would spend the winter as a guest of the Ford<lb/>
+                  Foundation. <space quantity="1" unit="char"/>As a visiting professor <del>wo</del>he would give lectures<lb/>
+                  and be at the disposal of students who wanted to consult him.<lb/>
+                  On 21st November he was arrested for drunk driving. <space quantity="1" unit="char"/>It must have<lb/>
+                  been rather a dreary Christmas, and he remarked in a letter<lb/>
+                  <del>r</del>tha<del>r</del>t he was lonely, as who wouldn't be in the circumstances.<lb/>
+                  Berlin-Dahlem, 23rd December, 1964:<lb/>
+                  It <hi rend="underline">was</hi> sweet of you to think of me at Christmas, especially<lb/>
+                  since it's a little <hi rend="underline">einsam</hi>1 here. <space quantity="1" unit="char"/>Am beginning to know some<lb/>
+                  local inhabitants. <space quantity="1" unit="char"/>Oddly enough, the ones I can talk to most<lb/>
+                  easily are from Ost-Berlin. <space quantity="1" unit="char"/>The most awful thing about the<lb/>
+                  Bifkes2 (sic)<unclear>§</unclear> is that they are so much nicer under a little<lb/>
+                  <hi rend="underline">Druck</hi>3 <del><gap reason="illegible"/>pressure)</del>. <space quantity="1" unit="char"/>When they feel their oats they are so apt<lb/>
+                  to become uppish."
+               </p>
+               <p hand="#handwritten">
+                  INSERT 14a.
+               </p>
+               <p>
+                  <space quantity="5" unit="char"/>Characteristic t<del>o</del>hough it is, one might not feel justified<lb/>
+                  in quoting from this letter if it were not for the fact that<lb/>
+                  it goes on to throw light on a passage in his long poem to<lb/>
+                  Josef Weinheber. <space quantity="2" unit="char"/><unclear>I</unclear>t came about like this: <space quantity="1" unit="char"/>I had been reading<lb/>
+                  a paperback c<del>q</del>a<unclear>l</unclear>led "The Rise of the South African Reich" by Brian<lb/>
+                  Bunting and mentioned it in my letter with particular reference<lb/>
+                  to torture. <space quantity="1" unit="char"/>And I had complained that certain attitudes found<lb/>
+                  in so-called liberal circles tended to push one further to the<lb/>
+                  right than one wished to go. <space quantity="1" unit="char"/>After a sharp comment on the<lb/>
+                  American magazine "The National Review" he continues: <space quantity="1" unit="char"/>"Of<lb/>
+                  course you're right about the lib-labs' ostrich attitude to<lb/>
+                  those who wish to destroy them, but one cannot let ones name be<lb/>
+                  associated with shits. <space quantity="1" unit="char"/>Torture is the iniquity which utterly<lb/>
+                  bewilders me. <space quantity="1" unit="char"/>I know something about the evil in my own heart<lb/>
+                  and in the sort of people I meet, but I cannot conceive of<lb/>
+                  myself or them tortur<del>n</del>ing anybody. <space quantity="1" unit="char"/>Where do the torturers come<lb/>
+                  from? <space quantity="1" unit="char"/>What class? <space quantity="1" unit="char"/>Whom do they marry?" <space quantity="1" unit="char"/>The words "Have you<lb/>
+                  ever met one?" are deleted. <space quantity="1" unit="char"/>"To what pubs do they go?<del>"</del><lb/>
+                  Much love and best wishes for 1965, Wystan."<lb/>
+                  <space quantity="4" unit="char"/>By 20th March 1965 he had completed, typed out and sent<lb/>
                   off to me the long poem to Weinheber, with the verse:
-                  Today we smile at weddings
-                  Where bride and bridegroom
-                  1. bueh
-                  getgene
-                  2.Piehle, te nede Austran benn for Semnand.
-                  3 Drerznre
+               </p>
+               <lg>
+                  <l>Today we smile at weddings</l>
+                  <l>Where bride and bridegroom</l>
+               </lg>
+               <p>
+                  1. lonely .<lb/>
+                  2<unclear>_</unclear>Piefke, the <unclear>ru</unclear>de Austrian generic term for Germans .<lb/>
+                  3<unclear>_</unclear> Pressure.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0284/" type="nan"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0285/" type="nan"/>
                <p>
                   14a.
-                  Insert after "to become uppish“
-                  This was the private Auden. The publie Auden in the interview
-                  with "Die Zeit“ quoted earlier, hotly denied that he had been
-                  lonely. Many of his predecessors, said the interviewer, had
-                  repeatedly complained that little notice had been taken of
-                  them and that their stay was far from enjoyable. Auden's
-                  reply was „brusque“: Grumbles of that sort were, he thought,
-                  unfair and personally objectionable. „One always has to do
-                  something to establish contacts, no one can do that for one.
-                  Not even the wealthy Ford Foundation or the Berlin senate.
-                  It was very ungrateful to accept a monthly grant of a couple
-                  of thousand marks and then to start criticising, instead of
-                  being thankful to be free to work without financial worries
-                  how often was this possible? He himself, he went on, was
-                  extraordinarily glad that in Berlin, if that was what a person
-                  wanted, he was left in peace: he was used to this'live and
+               </p>
+               <p>
+                  Insert after "to become uppish".
+               </p>
+               <p>
+                  This was the private Auden. <space quantity="1" unit="char"/>The publi<del>s</del>c Auden in the interview<lb/>
+                  with "Die Zeit“ quoted earlier, hotly denied that he had bee<unclear>n</unclear><lb/>
+                  lonely. <space quantity="2" unit="char"/>Many of his predecessors, said the interviewer, had<lb/>
+                  repeatedly complain<del><gap reason="deleted"/></del>ed that little notice had been taken of<lb/>
+                  them and that their stay was far from enjoyable. <space quantity="1" unit="char"/>Auden's<lb/>
+                  reply was "brusque": <space quantity="1" unit="char"/>Grumbles of that sort were, he thought,<lb/>
+                  unfair and personally objectionable. <space quantity="1" unit="char"/>"One always has to do<lb/>
+                  something to establish contacts, no one can do that for one."<lb/>
+                  Not even the wealthy Ford Foundation or the Berlin senate.<lb/>
+                  <unclear>I</unclear>t was very ungrateful to accept a monthly grant of a couple<lb/>
+                  of t<del>o</del>housand marks and then to start criticising, instead of<lb/>
+                  being thankful to be free to work without financial worries -<lb/>
+                  how often was this possible? <space quantity="1" unit="char"/>He himself, he went on, <del>e</del>was<lb/>
+                  extraordinarily glad that in Berlin, if that was what a person<lb/>
+                  wanted, he was left in peace; <space quantity="1" unit="char"/>he was used to this'live and<lb/>
                   let live' in New York.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0286/" type="nan"/>
