@@ -1055,7 +1055,7 @@ for any purpose, even commercially.</p>
                   <l>Today we smile at weddings</l>
                   <l>Where bride and bridegroom</l>
                </lg>
-               <p>
+               <p hand="#handwritten">
                   1. lonely .<lb/>
                   2<unclear>_</unclear>Piefke, the <unclear>ru</unclear>de Austrian generic term for Germans .<lb/>
                   3<unclear>_</unclear> Pressure.
@@ -1090,49 +1090,56 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0287/" type="nan"/>
                <p>
                   15.
-                  Were both born since the Shadow
-                  Lifted, or rather
-                  Moved elsewhere. Never as yet
-                  Has Earth been without
-                  Her bad patch, some unplace with
-                  Jobs for torturers.
-                  (In what bars are they welcome?
-                  What girls marry them?)
-                  Later on, I told Chester about this infinitesimal and
-                  unwitting contribution of mine to English literature. Chester
-                  snapped: "Wystan never wastes anything.
-                  There exists a prose translation of the poem to Weinheber,
-                  made by Auden and „a German friend“, which he sent to me for
-                  checking together with some amendments to stanza three. As the
-                  occasion for which the poem was written was a celebration of
-                  the 20th anniversafy of Weinheber's death, the prose translation
-                  was for general information.
-                  "Herewith my effort“ Auden wrote, „do do my Gemeindepflicht.
-                  (his civic duty.)
-                  It hardly needs saying that Auden's interest in Weinheber
-                  want far beyond a mere civic duty. It was part of his whole
-                  relationship with Lower Austria, his feeling for the landscape,
-                  for its history, for the history of the people who lived, or
-                  had lived there. For some reason he felt at home there, and
-                  the truth of this is to be found in the best known poems of his
-                  last decade - perhaps they are among the best he ever wrote.
-                  There is the first part of The Cave of Making (In Memoriam Louis
-                  MacNeice.) ne often emphasizes how unsensational it all is:
-                  "In a house backed by orderly woods,
-                  Facing a tractored sugar-beet country,
-                  Your working hosts engaged to their stint,
-                  Sou are unlikex to encounter
-                  Dragons or romance: were drama a craving,
-                  You would not have come.
-                  (For Friends Only - for John and
-                  Teckla Clark).
-                  It strikes me suddenly as odd that he should have said that:
-                  
-                  ot, I believe, 
-                  in the mythology of Austria this x is
-                  area
-                  dragon country.
-                  Or in The Common Life (for Chester Kallman):
+               </p>
+               <lg>
+                  <l>Were both born since the Shadow</l>
+                  <l>Lifted, or rather</l>
+                  <l>Moved elsewhere. <space quantity="1" unit="char"/>Never as <del>w</del>yet</l>
+                  <l>Has Earth been without</l>
+                  <l>Her bad patch, some unplace with</l>
+                  <l>Jobs for tortur<del>d</del>ers.</l>
+                  <l>(In what bars are they welcome?</l>
+                  <l>What girls marry them?)</l>
+               </lg>
+               <p>
+                  <space quantity="5" unit="char"/>Later on, I told Chester about this infinitesimal and<lb/>
+                  unwitting contribution of mine to English literature. <space quantity="1" unit="char"/>Chester<lb/>
+                  snapped: <space quantity="1" unit="char"/>"Wystan never wastes anything."<lb/>
+                  <space quantity="5" unit="char"/>There exists a prose translation of the poem to Weinheber,<lb/>
+                  made by Auden and "a German friend", which he sent to me for<lb/>
+                  checking together with some amendments to stanza three. <space quantity="1" unit="char"/>As the<lb/>
+                  occasion for which the poem was written was a celebration of<lb/>
+                  the 20th anniversa<del>f</del>ry of Weinheber's death, the prose translation<lb/>
+                  was for general information.<lb/>
+                  <space quantity="5" unit="char"/>"Herewith my effort" Auden wrote, "<del>t</del>do do my Gemeindepflicht."<lb/>
+                  (his civic duty.)<lb/>
+                  <space quantity="5" unit="char"/>It hardly needs saying that Auden's interest in Weinheber<lb/>
+                  w<del>n</del>ent far beyond a mere civic duty. <space quantity="1" unit="char"/>It was part of his whole<lb/>
+                  relationship with Lower Austria, his feeling for the landscape,<lb/>
+                  for its history, for the history of the people who lived, or<lb/>
+                  had lived there. <space quantity="2" unit="char"/>For some reason he felt at home there, and<lb/>
+                  the truth of this is to be found in the best known poems of his<lb/>
+                  last decade - perhaps they are among the b<unclear>e</unclear>st he ever wrote.<lb/>
+                  There is the first pa<del>t</del>rt of The Cave of Making (In Memoriam Louis<lb/>
+                  MacNeice.) <space quantity="1" unit="char"/><unclear>H</unclear>e often emphasizes how unsensational it all is:
+               </p>
+               <lg>
+                  <space quantity="5" unit="char"/><l>"In a house backed by orderly woods,</l>
+                  <space quantity="6" unit="char"/><l>Facing a tractored sugar-beet country,</l>
+                  <space quantity="6" unit="char"/><l>Your working hosts engaged to their stint,</l>
+                  <space quantity="6" unit="char"/><l><del>S</del>You are unlike<del>ly</del> to encounter</l>
+                  <space quantity="6" unit="char"/><l>Dragons or romance: <space quantity="1" unit="char"/>were drama a craving,</l>
+                  <space quantity="6" unit="char"/><l>You would not have come."</l>
+               </lg>
+               <p>
+                  <space quantity="27" unit="char"/>(For Friends Only - for John and<lb/>
+                  <space quantity="39" unit="char"/>Teckla Clark).
+               </p>
+               <p>
+                  It strikes me suddenly as odd that he should have said that:<lb/>
+                  in the mythology of Austria this <del>area</del><del>part of the country</del>area is not, I believe, <del>a</del><lb/>
+                  dragon country.<lb/>
+                  <space quantity="5" unit="char"/>Or in The Common Life (for Chester Kallman):
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0288/" type="nan"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0289/" type="nan"/>
