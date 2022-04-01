@@ -290,13 +290,22 @@
    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
 </rico:Record>
 
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0999.html">
-   <rico:hasOrHadIdentifier>amp_0999</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Test Doc</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1999-01-01</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin.html</rico:hasAuthor>
+<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0040.html">
+   <rico:hasOrHadIdentifier>amp_0040</rico:hasOrHadIdentifier>
+   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1969-06-10</rico:hasOrHadName>
+   <rico:isAssociatedWithDate>1969-06-10</rico:isAssociatedWithDate>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
    <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
+   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+</rico:Record>
+
+<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0041.html">
+   <rico:hasOrHadIdentifier>amp_0041</rico:hasOrHadIdentifier>
+   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1970-07-06</rico:hasOrHadName>
+   <rico:isAssociatedWithDate>1970-07-06</rico:isAssociatedWithDate>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+   <rico:hasContentOfType>text</rico:hasContentOfType>
+   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
 </rico:Record>
 
 <!-- ric agents -->
@@ -304,18 +313,6 @@
 <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/auden.html">
    <rico:hasOrHadAgentName>
       Auden, W. H.
-   </rico:hasOrHadAgentName>
-</rico:Agent>
-
-<rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/auden.html">
-   <rico:hasOrHadAgentName>
-      Auden, W.H.; Musulin,Stella
-   </rico:hasOrHadAgentName>
-</rico:Agent>
-
-<rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/auden.html">
-   <rico:hasOrHadAgentName>
-      Auden, W.H.; Musulin, Stella
    </rico:hasOrHadAgentName>
 </rico:Agent>
 
