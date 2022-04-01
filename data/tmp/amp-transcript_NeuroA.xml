@@ -83,80 +83,80 @@ for any purpose, even commercially.</p>
          </langUsage>
       </profileDesc>
    </teiHeader>
-   <text>
+   <text type="letter" hand="#typed">
       <body>
          <div xml:id="transcription">
 				<p>
-					STATION NE<del>S<gap/></del>URO-A<lb/>
+					STATION NE<del>S<gap reason="deleted"/></del>URO-A<lb/>
 					Eine Szenenfolge für Fernsehen in 9 Bildern.<lb/>
-					Buch und Regie:  Stella Musulin.<lb/>
-					Textauflage:  Minimal.<lb/>
-					Verteil<del>i</del>ung:  Familie.<lb/>
-					--------------------
+					Buch und Regie: <space quantity="1" unit="char"/>Stella Musulin.<lb/>
+					Textauflage: <space quantity="1" unit="char"/>Minimal.<lb/>
+					Verteil<del>i</del>ung: <space quantity="1" unit="char"/>Familie.<lb/>
+					<space quantity="7" unit="char"/>--------------------
 				</p>
 			<pb/>
 				<p>
-					Ein kleines Einbettzimmer mit WC;  übliche K<del>S</del>rankenhauseinrichtung.<lb/>
+					Ein kleines Einbettzimmer mit WC; <space quantity="1" unit="char"/>übliche K<del>S</del>rankenhauseinrichtung.<lb/>
 					Die sterile Ordnung ist nur durch eine rote Reisetasche leicht<lb/>
 					gestört.
 				</p>
 				<p>
-					Bild 1.   7h früh.  Patientin steht vor dem Waschbecken, sie<lb/>
-					ist splitternackt.  Sie wäscht sich.  Jemand klopft an der Türe<lb/>
+					Bild 1. <space quantity="2" unit="char"/>7h früh. <space quantity="1" unit="char"/>Patientin steht vor dem Waschbecken, sie<lb/>
+					ist splitternackt. <space quantity="1" unit="char"/>Sie wäscht sich. <space quantity="1" unit="char"/>Jemand klopft an der Türe<lb/>
 					und im gleichen Augenblick schaut ein südosteuropäisches Gesicht<lb/>
 					ins Zimmer.<lb/>
-					Gesicht:  Krone?<lb/>
-					Patientin (greift zum Handtuch)  Nein, lieber den Kurier.<lb/>
-					Gesicht:  Nix Kurier.  Kurier morgen.  (Es verschwindet).
+					Gesicht: <space quantity="1" unit="char"/>Krone?<lb/>
+					Patientin (greift zum Handtuch) <space quantity="1" unit="char"/>Nein, lieber den Kurier.<lb/>
+					Gesicht: <space quantity="1" unit="char"/>Nix Kurier. <space quantity="1" unit="char"/>Kurier morgen. <space quantity="1" unit="char"/>(Es verschwindet).
 				</p>
 				<p>
-					Bild 2.  ca. 8 h.  Patientin hat gefrühstückt, liegt im Bett<lb/>
-					und liest.  (Während der ganzen Sendung tauchen s<del>h</del>ehr häufig<lb/>
+					Bild 2. <space quantity="1" unit="char"/>ca. 8 h. <space quantity="1" unit="char"/>Patientin hat gefrühstückt, liegt im Bett<lb/>
+					und liest. <space quantity="1" unit="char"/>(Während der ganzen Sendung tauchen s<del>h</del>ehr häufig<lb/>
 					verschiedene Mitglieder des Personals auf indem sie anklopfen und<lb/>
 					sofort eintreten, tun was sie zu tun haben und sich mit Auf<lb/>
-					Wiedersehen verabschieden.  Das Anklopfen hat nicht den geringsten<lb/>
+					Wiedersehen verabschieden. <space quantity="1" unit="char"/>Das Anklopfen hat nicht den geringsten<lb/>
 					praktischen Wert, besitzt jedoch umso größeren symbolischen Inhalt<lb/>
-					denn es bedeutet SONDERKLASSE.  Wie folgt...)<lb/>
-					Klopf-<del>Rr</del>Türe<del><gap/></del>-auf-grüß Gott, ein hochgewachsener junger Mann, weißes<lb/>
-					Hemd und Hose, rote G<del>ru</del>ummihandschuhe.  Er schaut in das WC,<lb/>
-					spritzt Tofix, das Wasser rauscht und schon ist er weg.  Auf<lb/>
+					denn es bedeutet SONDERKLASSE. <space quantity="1" unit="char"/>Wie folgt...)<lb/>
+					Klopf-<del>Rr</del>Türe<del><gap reason="deleted"/></del>-auf-grüß Gott, ein hochgewachsener junger Mann, weißes<lb/>
+					Hemd und Hose, rote G<del>ru</del>ummihandschuhe. <space quantity="1" unit="char"/>Er schaut in das WC,<lb/>
+					spritzt Tofix, das Wasser rauscht und schon ist er weg. <space quantity="1" unit="char"/>Auf<lb/>
 					Wiedersehen.<lb/>
-					Patientin:  Auf Wiedersehen.<lb/>
+					Patientin: <space quantity="1" unit="char"/>Auf Wiedersehen.<lb/>
 					Pause.<lb/>
-					8h10.  Ein zweiter sportlich aussehender Mann, ebenfalls<lb/>
+					8h10. <space quantity="1" unit="char"/>Ein zweiter sportlich aussehender Mann, ebenfalls<lb/>
 					begummihandschuht, kommt herein, grüßt wie gehabt, reinigt den<lb/>
 					Waschbecken, wirft einen Blick aufs Etagère, sieht Zahnputzglas,<lb/>
 					Deospray, Haarschampon, Fönschaum, Kukident usw. usf. und enthält<lb/>
-					sich jeder weiteren Reinigungstätigkeit.  Auf Wiedersehen!<lb/>
+					sich jeder weiteren Reinigungstätigkeit. <space quantity="1" unit="char"/>Auf Wiedersehen!<lb/>
 					Patientin erwidert.<lb/>
-					(Merke:  Während 3 Wochen hat niemals der gleiche Mensch Klo und<lb/>
+					(Merke: <space quantity="1" unit="char"/>Während 3 Wochen hat niemals der gleiche Mensch Klo und<lb/>
 					Waschbecken geputzt.)<lb/>
 					Weitere Szenen zeigen ganz kurz jene Bedienerin, die Fensterbrett.<lb/>
 					Nachttisch und andere gehobene Flächen von Staub befreit, und jene<lb/>
 					mindere Wesen die den Boden feucht aufwischen.
 				</p>
 				<p>
-					Bild 3.  Höhepunkt des Vormittags, der ganz große KLOPFGRÜßGOTT:
+					Bild 3. <space quantity="1" unit="char"/>Höhepunkt des Vormittags, der ganz große KLOPFGRÜßGOTT:
 				</p>
 				<pb/>
 				<p>
 					2.
 				</p>
 				<p>
-					Bild 3.  Die Visite ist nur 2 Sekunden lang sichtbar:  der<lb/>
+					Bild 3. <space quantity="1" unit="char"/>Die Visite ist nur 2 Sekunden lang sichtbar: <space quantity="1" unit="char"/>der<lb/>
 					P<del>Sri</del>rimarius, sein Assistentarzt, 2 Ärztinnen, Stationsschwester Hermi,<lb/>
 					eine Physiotherapeutin, eine Logotherapeutin, eine Diätassistentin,<lb/>
 					diverse Krankenpfleger und -pflegerinnen.
 				</p>
 				<p>
-					Bild 4.  10 Tage später.<lb/>
-					Das Zimmer hat sich völlig verä<del>m</del>ndert.  Zwei große Blumenvasen<lb/>
+					Bild 4. <space quantity="1" unit="char"/><hi rend="underline">10 Tage später.</hi><lb/>
+					Das Zimmer hat sich völlig verä<del>m</del>ndert. <space quantity="1" unit="char"/>Zwei große Blumenvasen<lb/>
 					mit Fresien, Rosen etc. <del>o</del>dominieren und lenken ein wenig von der<lb/>
-					allgemeinen Angeräumtheit ab.  Ei<del>j</del>n Fernsehapparat, Telephon,<lb/>
+					allgemeinen Angeräumtheit ab. <space quantity="1" unit="char"/>Ei<del>j</del>n Fernsehapparat, Telephon,<lb/>
 					Bücher und ein Stoß von ca. 20<del>n</del> Zeitschriften be<del>l</del>anspruchen die<lb/>
-					größeren Flächen.  Auf dem Fensterbrett stehen Joghurt, Buttermilch,<lb/>
+					größeren Flächen. <space quantity="1" unit="char"/>Auf dem Fensterbrett stehen Joghurt, Buttermilch,<lb/>
 					Weizenkleie, gehamsterte P<del>S</del>ortionen <del>von</del> Marmelade, Becel und Honig,<lb/>
-					Obst, Topfenschnitten.  Topfenschnitten deshalb, weil der<lb/>
+					Obst, Topfenschnitten. <space quantity="1" unit="char"/>Topfenschnitten deshalb, weil der<lb/>
 					Patientin mitgeteilt wurde, ihr Cholesterinspiegel sei etwas zu<lb/>
 					hoch, woraufhin sie, plötzlich von unüberwindbarer Sehnsucht nach<lb/>
 					dieser besonders eidotterreichen Mehlspeise erfüllt, aus dem<lb/>
@@ -165,25 +165,25 @@ for any purpose, even commercially.</p>
 					Patientin wartet auf die Infusion.<lb/>
 					Ein junger Arzt, er trägt Vollbart, geht eilends auf das Bett zu,<lb/>
 					ruft FAUST MACHEN! und versucht die <unclear>V</unclear>nen am Unterarm der Patientin<lb/>
-					hochzuklopfen.  Er sticht, die Krankenschwester bietet Klebe-<lb/>
-					streifen.<unclear>)</unclear> Alle blicken zur Infusionsflasche<del>h</del> hinauf.  Arzt<del>s</del>:<lb/>
-					Sie sind Schriftstellerin, gö?  Aus Wales?<lb/>
+					hochzuklopfen. <space quantity="1" unit="char"/>Er sticht, die Krankenschwester bietet Klebe-<lb/>
+					streifen.<unclear>)</unclear> Alle blicken zur Infusionsflasche<del>h</del> hinauf. <space quantity="1" unit="char"/>Arzt<del>s</del>:<lb/>
+					Sie sind Schriftstellerin, gö? <space quantity="1" unit="char"/>Aus Wales?<lb/>
 					Die Infusionsflasche r<unclear>ü</unclear>hrt sich nicht.<lb/>
-					Arzt:  Mein Lieblingsdichter ist Dylan Thomas.<lb/>
-					Patientin:  Ein ganz großer, können die Kritiker sagen was sie<lb/>
+					Arzt: <space quantity="1" unit="char"/>Mein Lieblingsdichter ist Dylan Thomas.<lb/>
+					Patientin: <space quantity="1" unit="char"/>Ein ganz großer, können die Kritiker sagen was sie<lb/>
 					wollen.<lb/>
-					Arzt<del>s</del>:  So ein Mist wie Ihre Venen!  Probier ma´s halt woanders.<lb/>
-					Faust machen! (Er klopft ungeduldig, mal da, mal dort.)   Was sagen<lb/>
+					Arzt<del>s</del>: <space quantity="1" unit="char"/>So ein Mist wie Ihre Venen! <space quantity="1" unit="char"/>Probier ma´s halt woanders.<lb/>
+					Faust machen! (Er klopft ungeduldig, mal da, mal dort.) <space quantity="2" unit="char"/>Was sagen<lb/>
 					Sie zum heurigen Ingeborg-Bachmann-Preis?<lb/>
-					Patientin:  Wenigstens sind Sie dem Reich-Rani<del><gap/></del>cki losgeworden,<lb/>
+					Patientin: <space quantity="1" unit="char"/>Wenigstens sind Sie dem Reich-Rani<del><gap reason="deleted"/></del>cki losgeworden,<lb/>
 					dieser Giftschlange.<lb/>
 					Arzt entscheidet sich für den Handrücken, er ist ohnehin bereits<lb/>
-					vielfärbig.  Alle blicken gebannt zur Flasche hinauf.  Flasche<lb/>
+					vielfärbig. <space quantity="1" unit="char"/>Alle blicken gebannt zur Flasche hinauf. <space quantity="1" unit="char"/>Flasche<lb/>
 					schweigt.<lb/>
-					Arz<del>st</del>t:  Ihre Venen sind total verkalkt und sie platzen andauernd.<lb/>
-					Kamma nichts machen, gö?  Gesenkten Kopfes verläßt er das Zimmer,<lb/>
+					Arz<del>st</del>t: <space quantity="1" unit="char"/>Ihre Venen sind total verkalkt und sie platzen andauernd.<lb/>
+					Kamma nichts machen, gö? <space quantity="1" unit="char"/>Gesenkten Kopfes verläßt er das Zimmer,<lb/>
 					Schwester schaut ihm ein wenig peinlich berührt nach.<lb/>
-					Pause.  Eine junge Ärztin kommt herein, hängt Patientin mühelos
+					Pause. <space quantity="1" unit="char"/>Eine junge Ärztin kommt herein, hängt Patientin mühelos
 				</p>
 				<pb/>
 				<p>
@@ -191,51 +191,51 @@ for any purpose, even commercially.</p>
 				</p>
 				<p>
 					und kommentarlos an die Flasche, stellt das Tempo des Tropfens ein<lb/>
-					und verschwindet.  Patientin liest so gut es mit einer Hand geht<lb/>
+					und verschwindet. <space quantity="1" unit="char"/>Patientin liest so gut es mit einer Hand geht<lb/>
 					in einer Biographie Helmuths von Moltke weiter.
 				</p>
 				<p>
-					Bild 5.  Gleiche Einrichtung.  Patientin im Bett, Bedienerin<lb/>
-					wischt den Boden, sie ist fast so breit wie hoch.  Bedienerin<lb/>
+					Bild 5. <space quantity="1" unit="char"/>Gleiche Einrichtung. <space quantity="1" unit="char"/>Patientin im Bett, Bedienerin<lb/>
+					wischt den Boden, sie ist fast so breit wie hoch. <space quantity="1" unit="char"/>Bedienerin<lb/>
 					bleibt stehen, lehnt sich an die Wand.<lb/>
-					Bedienerin:  Ich sag Ihna, Frau M, ich wüßte nicht was ich<lb/>
-					machen sollte.  Ich weiß es wirklich nicht. (Sie erwacht aus<lb/>
-					ihrer Trance und wird energisch<del>:</del>):  ICH WEIß ABSOLUT NICHT WAS<lb/>
-					ICH MIT <del>S</del>ALL DEM GELD MACHEN WÜRDE!  ZWANZG MILLIONEN!<lb/>
-					Patientin:  Wenn Sie was gewinnen, am gescheitesten Sie sagen<lb/>
-					erst einmal keinem Menschen was davon.  Die Nachbarn und so.<lb/>
-					Bedienerin:  Ha!  Da haben Sie aber recht Frau M., diese <del>S<unclear>L</unclear></del>Leut´,<lb/>
+					Bedienerin: <space quantity="1" unit="char"/>Ich sag Ihna, Frau M, ich wüßte nicht was ich<lb/>
+					machen sollte. <space quantity="1" unit="char"/>Ich weiß es wirklich nicht. (Sie erwacht aus<lb/>
+					ihrer Trance und wird energisch<del>:</del>): <space quantity="1" unit="char"/>ICH WEIß ABSOLUT NICHT WAS<lb/>
+					ICH MIT <del>S</del>ALL DEM GELD MACHEN WÜRDE! <space quantity="1" unit="char"/>ZWANZG MILLIONEN!<lb/>
+					Patientin: <space quantity="1" unit="char"/>Wenn Sie was gewinnen, am gescheitesten Sie sagen<lb/>
+					erst einmal keinem Menschen was davon. <space quantity="1" unit="char"/>Die Nachbarn und so.<lb/>
+					Bedienerin: <space quantity="1" unit="char"/>Ha! <space quantity="1" unit="char"/>Da haben Sie aber recht Frau M., diese <del>S<unclear>L</unclear></del>Leut´,<lb/>
 					eine Neidgenossenschaft.<lb/>
-					Patientin:  Dann investieren Sie das Kapital, bauen a Häusl...<lb/>
-					Bedienerin:  Mir haben a Haus.  Und... mir ist des Alles zu fad...<lb/>
-					Na!  Man muß sich des alles vurstellen können.  (Mit ihrem Wischen<lb/>
-					hat sie die Türe erreicht).  Also, bis später, gö?<lb/>
-					Eine kurze Pause.  Patientin kehrt zu Moltke zurück.<lb/>
+					Patientin: <space quantity="1" unit="char"/>Dann investieren Sie das Kapital, bauen a Häusl...<lb/>
+					Bedienerin: <space quantity="1" unit="char"/>Mir haben a Haus. <space quantity="1" unit="char"/>Und... mir ist des Alles zu fad...<lb/>
+					Na! <space quantity="1" unit="char"/>Man muß sich des alles vurstellen können. <space quantity="1" unit="char"/>(Mit ihrem Wischen<lb/>
+					hat sie die Türe erreicht). <space quantity="1" unit="char"/>Also, bis später, gö?<lb/>
+					Eine kurze Pause. <space quantity="1" unit="char"/>Patientin kehrt zu Moltke zurück.<lb/>
 				</p>
 				<p>
-					Bild <del>7</del>6.  Schwester Ingrid rauscht herein.  Sie ist eigentlich<lb/>
-					häßlich, aber ein edler Typ, rein dinarisch.  Patientin nennt<lb/>
+					Bild <del>7</del>6. <space quantity="1" unit="char"/>Schwester Ingrid rauscht herein. <space quantity="1" unit="char"/>Sie ist eigentlich<lb/>
+					häßlich, aber ein edler Typ, rein dinarisch. <space quantity="1" unit="char"/>Patientin nennt<lb/>
 					sie für sich Horseface und mag sie sehr gern.<lb/>
-					Horseface:  Frau M., was muß ich hören?<lb/>
-					Patientin:  (fährt zusammen)  Habe ich wieder was angestellt?<lb/>
-					Horseface:  Das nicht;  unterlassen haben Sie was.  Meinetwegen<lb/>
+					Horseface: <space quantity="1" unit="char"/>Frau M., was muß ich hören?<lb/>
+					Patientin: <space quantity="1" unit="char"/>(fährt zusammen) <space quantity="1" unit="char"/>Habe ich wieder was angestellt?<lb/>
+					Horseface: <space quantity="1" unit="char"/>Das nicht; <space quantity="1" unit="char"/>unterlassen haben Sie was. <space quantity="1" unit="char"/>Meinetwegen<lb/>
 					sind Sie der einzige Mensch in diesem Krankenhaus der keinen<lb/>
-					Lottoschein ausgefüllt hat.  Nicht einmal um 6 schilling!<lb/>
-					Patientin:  Hab für einen Augenblick gedacht Sie wollen wegen<lb/>
+					Lottoschein ausgefüllt hat. <space quantity="1" unit="char"/>Nicht einmal um 6 schilling!<lb/>
+					Patientin: <space quantity="1" unit="char"/>Hab für einen Augenblick gedacht Sie wollen wegen<lb/>
 					den Stuhlproben schimpfen, daß ich <del>i</del>sie noch nicht zusammen...<lb/>
-					Horseface:  Ach wo, das hat Zeit.  Aber L<del>S</del>ottoscheine hole ich<lb/>
+					Horseface: <space quantity="1" unit="char"/>Ach wo, das hat Zeit. <space quantity="1" unit="char"/>Aber L<del>S</del>ottoscheine hole ich<lb/>
 					für uns beide und wir füllen sie aus.<lb/>
-					Patientin:  Aber die Chancen stehen ein paar Milliard zu eins!<lb/>
-					Horseface:  Wurscht!  Alle haben die gleichen Chancen!<lb/>
+					Patientin: <space quantity="1" unit="char"/>Aber die Chancen stehen ein paar Milliard zu eins!<lb/>
+					Horseface: <space quantity="1" unit="char"/>Wurscht! <space quantity="1" unit="char"/>Alle haben die gleichen Chancen!<lb/>
 					Ein B<del>Ö</del>ildwechsel zeigt Horseface und Patientin nebeneinander<lb/>
-					dem Bett sitzend.  Sie füllen die Lotteriescheine aus.
+					dem Bett sitzend. <space quantity="1" unit="char"/>Sie füllen die Lotteriescheine aus.
 				</p>
 				<pb/>
 				<p>
 					4.
 				</p>
 				<p>
-					Hor<del>c</del>seface le<unclear>g</unclear>t sie zusammen, steht auf und spricht:  Und wenn wir<lb/>
+					Hor<del>c</del>seface le<unclear>g</unclear>t sie zusammen, steht auf und spricht: <space quantity="1" unit="char"/>Und wenn wir<lb/>
 					gewonnen haben, fahren mir zwa miteinander in die Karibik!
 				</p>
 				<p>
@@ -244,35 +244,35 @@ for any purpose, even commercially.</p>
 					Patienten, die ihre Zahnprothesen zu entbehren meinen.
 				</p>
 				<p>
-					Bild <del>8</del><unclear>7</unclear>.  Eine Parkbank vor dem Krankenhaus.  Menschen in Pyjama<lb/>
-					und Schlafrock spazieren hin und her.  Unsere Patientin führt<lb/>
+					Bild <del>8</del><unclear>7</unclear>. <space quantity="1" unit="char"/>Eine Parkbank vor dem Krankenhaus. <space quantity="1" unit="char"/>Menschen in Pyjama<lb/>
+					und Schlafrock spazieren hin und her. <space quantity="1" unit="char"/>Unsere Patientin führt<lb/>
 					ein belangloses Gespräch mit einer Dame aus dem Volk.<lb/>
-					Patientin (mitten im Satz):  ... ich bin zwar nicht von hier,<lb/>
+					Patientin (mitten im Satz): <space quantity="1" unit="char"/>... ich bin zwar nicht von hier,<lb/>
 					ich komme aus Nieder...<lb/>
-					Dame aus dem Volk: (unterbricht)  Klar, Sie sind nicht von hier,<lb/>
+					Dame aus dem Volk: (unterbricht) <space quantity="1" unit="char"/>Klar, Sie sind nicht von hier,<lb/>
 					<del>s</del>Sie sind Deutsche!<lb/>
-					Patientin:  Ich bi<del>j</del>n nicht Deutsche!<lb/>
-					D.a.d.V:  Doch, Sie sind Deutsche, auf jeden Fall stamm<del>m</del>e<unclear>n</unclear> Sie<lb/>
+					Patientin: <space quantity="1" unit="char"/>Ich bi<del>j</del>n nicht Deutsche!<lb/>
+					D.a.d.V: <space quantity="1" unit="char"/>Doch, Sie sind Deutsche, auf jeden Fall stamm<del>m</del>e<unclear>n</unclear> Sie<lb/>
 					aus Deutschland.<lb/>
-					Patientin:  Ich versichere Ihnen, weder noch, sondern ich<lb/>
+					Patientin: <space quantity="1" unit="char"/>Ich versichere Ihnen, weder noch, sondern ich<lb/>
 					komme aus N...<lb/>
-					D.a.d.V:  DANN SIND SIE VOM ADEL!<lb/>
-					Patientin (beherrscht sich mit Mühe):  Jetzt kommen Sie der Sache<lb/>
+					D.a.d.V: <space quantity="1" unit="char"/>DANN SIND SIE VOM ADEL!<lb/>
+					Patientin (beherrscht sich mit Mühe): <space quantity="1" unit="char"/>Jetzt kommen Sie der Sache<lb/>
 					etwas näher.<lb/>
-					D.a.d.V:  Sagte ich eh.  (Erfreut, daß sie das letzte Wort hat,<lb/>
+					D.a.d.V: <space quantity="1" unit="char"/>Sagte ich eh. <space quantity="1" unit="char"/>(Erfreut, daß sie das letzte Wort hat,<lb/>
 					steht sie auf und entfernt sich.)
 				</p>
 				<p>
-					Bild <del>9</del><unclear>8</unclear>.  Der Tag der Entlassung ist endlich da.  Zimmer wie in<lb/>
-					Bild 1, aufgeräumt bis auf den Haufen Zeitschriften.  Patientin<lb/>
+					Bild <del>9</del><unclear>8</unclear>. <space quantity="1" unit="char"/>Der Tag der Entlassung ist endlich da. <space quantity="1" unit="char"/>Zimmer wie in<lb/>
+					Bild 1, aufgeräumt bis auf den Haufen Zeitschriften. <space quantity="1" unit="char"/>Patientin<lb/>
 					ist abreisefertig, nervös weil sie nur mehr auf einen Wisch von<lb/>
-					der Verwaltung wartet.  Eine junge Bedienerin eilt herbei, spricht<lb/>
-					aufgeregt:  Na, fahren Sie schon - Sie wollten mir noch den<lb/>
+					der Verwaltung wartet. <space quantity="1" unit="char"/>Eine junge Bedienerin eilt herbei, spricht<lb/>
+					aufgeregt: <space quantity="1" unit="char"/>Na, fahren Sie schon - Sie wollten mir noch den<lb/>
 					Kräutertee aufschreiben!<lb/>
-					Patientin:  (Nach 3 Wochen<del>k</del> kennt sie alle Wehwehchen der Familie<lb/>
-					dieser lieben Kleinbauerntochter):  Freilich, habe ich schon.<lb/>
+					Patientin: <space quantity="1" unit="char"/>(Nach 3 Wochen<del>k</del> kennt sie alle Wehwehchen der Familie<lb/>
+					dieser lieben Kleinbauerntochter): <space quantity="1" unit="char"/>Freilich, habe ich schon.<lb/>
 					Bei Blähungen, oder bei jede<del>n</del><unclear>r</unclear> Magenverstimmung, trinken Sie diese<lb/>
-					Mischung aus Kamillentee, Kümmel und Fenchel.  (Schreibt ein paar<lb/>
+					Mischung aus Kamillentee, Kümmel und Fenchel. <space quantity="1" unit="char"/>(Schreibt ein paar<lb/>
 					Worte, legt dem Zettel 100 schilling bei und überreicht sie.<del>)</del>der<lb/>
 					Bedienerin.
 				</p>
@@ -281,23 +281,23 @@ for any purpose, even commercially.</p>
 					5.
 				</p>
          		<p>
-					Bedienerin (strahlt):  Oh, danke!  Aber haben Sie noch Zeit -<lb/>
-					ich muß Ihnen noch was erzählen.  Habe ich I<del>S</del>hnen ja gesagt, daß<lb/>
-					ich schrecklich verstopft bin?  Jetzt passen Sie <del>sa</del>auf, Sie werden<lb/>
-					mir nicht glauben.  Der Vater hat mir ein Mitt<del>t</del>el gegeben, ein<lb/>
+         		   Bedienerin (strahlt): <space quantity="1" unit="char"/>Oh, danke! <space quantity="1" unit="char"/>Aber haben Sie noch Zeit -<lb/>
+         		   ich muß Ihnen noch was erzählen. <space quantity="1" unit="char"/>Habe ich I<del>S</del>hnen ja gesagt, daß<lb/>
+         		   ich schrecklich verstopft bin? <space quantity="1" unit="char"/>Jetzt passen Sie <del>sa</del>auf, Sie werden<lb/>
+         		   mir nicht glauben. <space quantity="1" unit="char"/>Der Vater hat mir ein Mitt<del>t</del>el gegeben, ein<lb/>
 					Zäpfch<del>ne</del>en war´s, aber KEIN ABFÜHRMITTEL (sie lacht herzlich<del>s</del>S)<unclear>.</unclear><lb/>
-					Na.  Es war ein Mittel gegen HÄMORRHOIDEN.  Ich schreibs Ihnen auf.<lb/>
+         		   Na. <space quantity="1" unit="char"/>Es war ein Mittel gegen HÄMORRHOIDEN. <space quantity="1" unit="char"/>Ich schreibs Ihnen auf.<lb/>
 					Zuerst ist nichts gesche<unclear>h</unclear>en und ich hab zu meinem Va<del>g</del>ter gesagt,<lb/>
-					D<del>i</del>u, hab ich gesagt, des ist nix.  Aber zwei Stunden später (sie<lb/>
-					breitet die Arme aus) HABE ICH SOOO EINEN STUHL GEHABT!  Frau M.,<lb/>
-					Sie können sich sowas UBERHAUPT NET VURSTELLEN.<lb/>
+         		   D<del>i</del>u, hab ich gesagt, des ist nix. <space quantity="1" unit="char"/>Aber zwei Stunden später (sie<lb/>
+         		   breitet die Arme aus) HABE ICH SOOO EINEN STUHL GEHABT! <space quantity="1" unit="char"/>Frau M.,<lb/>
+					Sie können sich sowas ÜBERHAUPT NET VURSTELLEN.<lb/>
 					Patientin (beglückwünscht zu diesem gigantischen Naturereignis,<lb/>
-					steht auf, verabschiedet sich):  Und bleiben Sie gesund, göö?
+         		   steht auf, verabschiedet sich): <space quantity="1" unit="char"/>Und bleiben Sie gesund, göö?
 				</p>
 				<p>				
 					Die Geräuschkulissen werden wieder vordergründig, man hört ein<lb/>
 					fernes Klappern, die Zahnlosen mauscheln im Kärntner Dialekt,<lb/>
-					ihre Stimmen wirken, wie immer, rauh und unnötig laut.  Bildschirm<lb/>
+					ihre Stimmen wirken, wie immer, rauh und unnötig laut. <space quantity="1" unit="char"/>Bildschirm<lb/>
 					<del>löscht</del>. verdunkelt si<unclear>c</unclear>h.
                </p>
          </div>
