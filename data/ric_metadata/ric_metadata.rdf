@@ -234,7 +234,7 @@
    <rico:hasOrHadName>Autograph Notes W. H. Auden Stella Musulin [?]</rico:hasOrHadName>
    <rico:isAssociatedWithDate>[?]</rico:isAssociatedWithDate>
    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType> text</rico:hasContentOfType>
+   <rico:hasContentOfType>text</rico:hasContentOfType>
    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
 </rico:Record>
 
@@ -243,7 +243,7 @@
    <rico:hasOrHadName>Typescript W. H. Auden "Freedom and Necessity in the Arts" [1970]</rico:hasOrHadName>
    <rico:isAssociatedWithDate>[?]</rico:isAssociatedWithDate>
    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType> text</rico:hasContentOfType>
+   <rico:hasContentOfType>text</rico:hasContentOfType>
    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
 </rico:Record>
 
@@ -254,6 +254,24 @@
    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin.html</rico:hasAuthor>
    <rico:hasContentOfType>text</rico:hasContentOfType>
    <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
+</rico:Record>
+
+<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0035.html">
+   <rico:hasOrHadIdentifier>amp_0035</rico:hasOrHadIdentifier>
+   <rico:hasOrHadName>Telegram W. H. Auden to Stella Musulin 1971-05-13</rico:hasOrHadName>
+   <rico:isAssociatedWithDate>1971-05-13</rico:isAssociatedWithDate>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+   <rico:hasContentOfType>text</rico:hasContentOfType>
+   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+</rico:Record>
+
+<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0038.html">
+   <rico:hasOrHadIdentifier>amp_0038</rico:hasOrHadIdentifier>
+   <rico:hasOrHadName>Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-03-15</rico:hasOrHadName>
+   <rico:isAssociatedWithDate>1965-03-15</rico:isAssociatedWithDate>
+   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+   <rico:hasContentOfType>text</rico:hasContentOfType>
+   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
 </rico:Record>
 
 <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0043.html">
