@@ -1,325 +1,297 @@
-<?xml version="1.0" encoding="utf-8"?><!-- this file is in development! -->
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
-
-<!-- ric records -->
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0001.html">
-   <rico:hasOrHadIdentifier>amp_0001</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1963-05-12</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1963-05-12</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0002.html">
-   <rico:hasOrHadIdentifier>amp_0002</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1964-12-23</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0003.html">
-   <rico:hasOrHadIdentifier>amp_0003</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1965-09-29</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1965-09-29</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0004.html">
-   <rico:hasOrHadIdentifier>amp_0004</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Typed Letter Signed W. H. Auden to Stella Musulin 1966-02-03</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1966-02-03</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0005.html">
-   <rico:hasOrHadIdentifier>amp_0005</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1967-11-08</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1967-11-08</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0006.html">
-   <rico:hasOrHadIdentifier>amp_0006</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-02-06</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1968-02-06</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0007.html">
-   <rico:hasOrHadIdentifier>amp_0007</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-06</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1968-10-06</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0008.html">
-   <rico:hasOrHadIdentifier>amp_0008</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1968-10-12</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0009.html">
-   <rico:hasOrHadIdentifier>amp_0009</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-15</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1968-10-15</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0010.html">
-   <rico:hasOrHadIdentifier>amp_0010</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-11-06</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1968-11-06</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0011.html">
-   <rico:hasOrHadIdentifier>amp_0011</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-13</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1968-12-13</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0012.html">
-   <rico:hasOrHadIdentifier>amp_0012</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-29</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1968-12-29</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0013.html">
-   <rico:hasOrHadIdentifier>amp_0013</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1969-01-04</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1969-01-04</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0014.html">
-   <rico:hasOrHadIdentifier>amp_0014</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1969-05-21</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1969-05-21</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0015.html">
-   <rico:hasOrHadIdentifier>amp_0015</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1970-06-10</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1970-06-10</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0016.html">
-   <rico:hasOrHadIdentifier>amp_0016</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1970-09-18</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1970-09-18</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0017.html">
-   <rico:hasOrHadIdentifier>amp_0017</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1971-06-04</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1971-06-04</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0018.html">
-   <rico:hasOrHadIdentifier>amp_0018</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Stark Bewölkt" 1971-10-19</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1971-10-19</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0019.html">
-   <rico:hasOrHadIdentifier>amp_0019</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1972-02-22</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1972-02-22</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0020.html">
-   <rico:hasOrHadIdentifier>amp_0020</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1973-09-24</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1973-09-24</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0021.html">
-   <rico:hasOrHadIdentifier>amp_0021</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1961-10-13</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0022.html">
-   <rico:hasOrHadIdentifier>amp_0022</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1961-08-16</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1961-08-16</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0023.html">
-   <rico:hasOrHadIdentifier>amp_0023</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1962-07-23</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1962-07-23</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0024.html">
-   <rico:hasOrHadIdentifier>amp_0024</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1962-09-11</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1962-09-11</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0025.html">
-   <rico:hasOrHadIdentifier>amp_0025</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1962-10-17</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1962-10-17</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0026.html">
-   <rico:hasOrHadIdentifier>amp_0026</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Notes W. H. Auden Stella Musulin [?]</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>[?]</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0027.html">
-   <rico:hasOrHadIdentifier>amp_0027</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Typescript W. H. Auden "Freedom and Necessity in the Arts" [1970]</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>[?]</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0029.html">
-   <rico:hasOrHadIdentifier>amp_0029</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Notes Stella Musulin [1968-02-13]</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>[1968-02-13]</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0035.html">
-   <rico:hasOrHadIdentifier>amp_0035</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Telegram W. H. Auden to Stella Musulin 1971-05-13</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1971-05-13</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0038.html">
-   <rico:hasOrHadIdentifier>amp_0038</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-03-15</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1965-03-15</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0043.html">
-   <rico:hasOrHadIdentifier>amp_0043</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Freedom and Necessity in the Arts" 1970-05-21</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1970-05-21</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType> text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0039.html">
-   <rico:hasOrHadIdentifier>amp_0039</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-04-28 and with Typescript W. H. Auden Translation "Joseph Weinheber"</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1965-04-28</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0040.html">
-   <rico:hasOrHadIdentifier>amp_0040</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1969-06-10</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1969-06-10</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0041.html">
-   <rico:hasOrHadIdentifier>amp_0041</rico:hasOrHadIdentifier>
-   <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1970-07-06</rico:hasOrHadName>
-   <rico:isAssociatedWithDate>1970-07-06</rico:isAssociatedWithDate>
-   <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
-   <rico:hasContentOfType>text</rico:hasContentOfType>
-   <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
-</rico:Record>
-
-<!-- ric agents -->
-
-<rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/auden.html">
-   <rico:hasOrHadAgentName>
-      Auden, W. H.
-   </rico:hasOrHadAgentName>
-</rico:Agent>
-
-<rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/musulin.html">
-   <rico:hasOrHadAgentName>
-      Musulin, Stella
-   </rico:hasOrHadAgentName>
-</rico:Agent>
-
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0001">
+    <rico:hasOrHadIdentifier>amp_0001</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1963-05-12</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1963-05-12</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0002">
+    <rico:hasOrHadIdentifier>amp_0002</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1964-12-23</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0003">
+    <rico:hasOrHadIdentifier>amp_0003</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1965-09-29</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1965-09-29</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0004">
+    <rico:hasOrHadIdentifier>amp_0004</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Typed Letter Signed W. H. Auden to Stella Musulin 1966-02-03</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1966-02-03</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0005">
+    <rico:hasOrHadIdentifier>amp_0005</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1967-11-08</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1967-11-08</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0006">
+    <rico:hasOrHadIdentifier>amp_0006</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-02-06</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1968-02-06</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0007">
+    <rico:hasOrHadIdentifier>amp_0007</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-06</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1968-10-06</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0008">
+    <rico:hasOrHadIdentifier>amp_0008</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1968-10-12</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0009">
+    <rico:hasOrHadIdentifier>amp_0009</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-15</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1968-10-15</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0010">
+    <rico:hasOrHadIdentifier>amp_0010</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-11-06</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1968-11-06</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0011">
+    <rico:hasOrHadIdentifier>amp_0011</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-13</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1968-12-13</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0012">
+    <rico:hasOrHadIdentifier>amp_0012</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-29</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1968-12-29</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0013">
+    <rico:hasOrHadIdentifier>amp_0013</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1969-01-04</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1969-01-04</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0014">
+    <rico:hasOrHadIdentifier>amp_0014</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1969-05-21</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1969-05-21</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0015">
+    <rico:hasOrHadIdentifier>amp_0015</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1970-06-10</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1970-06-10</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0016">
+    <rico:hasOrHadIdentifier>amp_0016</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1970-09-18</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1970-09-18</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0017">
+    <rico:hasOrHadIdentifier>amp_0017</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1971-06-04</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1971-06-04</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0018">
+    <rico:hasOrHadIdentifier>amp_0018</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Stark Bewölkt" 1971-10-19</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1971-10-19</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0019">
+    <rico:hasOrHadIdentifier>amp_0019</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1972-02-22</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1972-02-22</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0020">
+    <rico:hasOrHadIdentifier>amp_0020</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1973-09-24</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1973-09-24</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0021">
+    <rico:hasOrHadIdentifier>amp_0021</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1961-10-13</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0022">
+    <rico:hasOrHadIdentifier>amp_0022</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1961-08-16</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1961-08-16</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0023">
+    <rico:hasOrHadIdentifier>amp_0023</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1962-07-23</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1962-07-23</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0024">
+    <rico:hasOrHadIdentifier>amp_0024</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1962-09-11</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1962-09-11</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0025">
+    <rico:hasOrHadIdentifier>amp_0025</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1962-10-17</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1962-10-17</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0026">
+    <rico:hasOrHadIdentifier>amp_0026</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Notes W. H. Auden Stella Musulin [?]</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>[?]</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0027">
+    <rico:hasOrHadIdentifier>amp_0027</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Typescript W. H. Auden "Freedom and Necessity in the Arts" [1970]</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>[?]</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0029">
+    <rico:hasOrHadIdentifier>amp_0029</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Notes Stella Musulin [1968-02-13]</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>[1968-02-13]</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0035">
+    <rico:hasOrHadIdentifier>amp_0035</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Telegram W. H. Auden to Stella Musulin 1971-05-13</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1971-05-13</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0038">
+    <rico:hasOrHadIdentifier>amp_0038</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-03-15</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1965-03-15</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0039">
+    <rico:hasOrHadIdentifier>amp_0039</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-04-28 and with Typescript W. H. Auden Translation "Joseph Weinheber"</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1965-04-28</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0040">
+    <rico:hasOrHadIdentifier>amp_0040</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1969-06-10</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1969-06-10</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0041">
+    <rico:hasOrHadIdentifier>amp_0041</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1970-07-06</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1970-07-06</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0042">
+    <rico:hasOrHadIdentifier>amp_0042</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin with Typescripts W. H. Auden "August 1968" and "Elegy" 1968-10-04</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1968-10-04</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0043">
+    <rico:hasOrHadIdentifier>amp_0043</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Freedom and Necessity in the Arts" 1970-05-21</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1970-05-21</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType> text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0044">
+    <rico:hasOrHadIdentifier>amp_0044</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-24</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1968-10-24</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/auden.html">
+    <rico:hasOrHadAgentName>Auden, W. H.</rico:hasOrHadAgentName>
+  </rico:Agent>
+  <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/musulin.html">
+    <rico:hasOrHadAgentName>Musulin, Stella</rico:hasOrHadAgentName>
+  </rico:Agent>
 </rdf:RDF>
