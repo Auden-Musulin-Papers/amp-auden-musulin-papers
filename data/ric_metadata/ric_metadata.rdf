@@ -288,10 +288,55 @@
     <rico:hasContentOfType>text</rico:hasContentOfType>
     <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
   </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0045">
+    <rico:hasOrHadIdentifier>amp_0045</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin 1960-07-21</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1960-07-21</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0046">
+    <rico:hasOrHadIdentifier>amp_0046</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Notes Stella Musulin on Translation W. H. Auden "Joseph Weinheber" [1965]</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>[1965]</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin.html</rico:hasAuthor>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0057">
+    <rico:hasOrHadIdentifier>amp_0057</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Envelope W. H. Auden to Stella Musulin 1961-[?]-[25]</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1961-[?]-[25]</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0058">
+    <rico:hasOrHadIdentifier>amp_0058</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin [?]</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>[?]</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0059">
+    <rico:hasOrHadIdentifier>amp_0059</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Envelope W. H. Auden to Stella Musulin 1962-04-30</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1962-04-30</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
   <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/auden.html">
     <rico:hasOrHadAgentName>Auden, W. H.</rico:hasOrHadAgentName>
   </rico:Agent>
   <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/musulin.html">
     <rico:hasOrHadAgentName>Musulin, Stella</rico:hasOrHadAgentName>
+  </rico:Agent>
+  <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/musulin.html">
+    <rico:hasOrHadAgentName>Musulin, Elsa</rico:hasOrHadAgentName>
   </rico:Agent>
 </rdf:RDF>
