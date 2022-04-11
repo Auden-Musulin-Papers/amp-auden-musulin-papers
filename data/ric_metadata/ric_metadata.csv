@@ -1,43 +1,43 @@
-document_id,document_title,document_date,document_author_01,document_author_02,document_language,content_type
-0001,"Autograph Letter Signed W. H. Auden to Stella Musulin 1963-05-12",1963-05-12,"Auden, W. H.",,"deu, eng",text
-0002,"Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23",1964-12-23,"Auden, W. H.",,"deu, eng",text
-0003,"Autograph Letter Signed W. H. Auden to Stella Musulin 1965-09-29",1965-09-29,"Auden, W. H.",,"deu, eng",text
-0004,"Typed Letter Signed W. H. Auden to Stella Musulin 1966-02-03",1966-02-03,"Auden, W. H.",,"deu, eng",text
-0005,"Autograph Letter Signed W. H. Auden to Stella Musulin 1967-11-08",1967-11-08,"Auden, W. H.",,"deu, eng",text
-0006,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-02-06",1968-02-06,"Auden, W. H.",,"deu, eng",text
-0007,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-06",1968-10-06,"Auden, W. H.",,"deu, eng",text
-0008,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12",1968-10-12,"Auden, W. H.",,"deu, eng",text
-0009,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-15",1968-10-15,"Auden, W. H.",,"deu, eng",text
-0010,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-11-06",1968-11-06,"Auden, W. H.",,"deu, eng",text
-0011,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-13",1968-12-13,"Auden, W. H.",,"deu, eng",text
-0012,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-29",1968-12-29,"Auden, W. H.",,"deu, eng",text
-0013,"Autograph Letter Signed W. H. Auden to Stella Musulin 1969-01-04",1969-01-04,"Auden, W. H.",,"deu, eng",text
-0014,"Autograph Letter Signed W. H. Auden to Stella Musulin 1969-05-21",1969-05-21,"Auden, W. H.",,"deu, eng",text
-0015,"Autograph Letter Signed W. H. Auden to Stella Musulin 1970-06-10",1970-06-10,"Auden, W. H.",,"deu, eng",text
-0016,"Autograph Letter Signed W. H. Auden to Stella Musulin 1970-09-18",1970-09-18,"Auden, W. H.",,"deu, eng",text
-0017,"Autograph Letter Signed W. H. Auden to Stella Musulin 1971-06-04",1971-06-04,"Auden, W. H.",,"deu, eng",text
-0018,"Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden ""Stark Bewölkt"" 1971-10-19",1971-10-19,"Auden, W. H.",,"deu, eng",text
-0019,"Autograph Letter Signed W. H. Auden to Stella Musulin 1972-02-22",1972-02-22,"Auden, W. H.",,"deu, eng",text
-0020,"Autograph Letter Signed W. H. Auden to Stella Musulin 1973-09-24",1973-09-24,"Auden, W. H.",,"deu, eng",text
-0021,"Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13",1961-10-13,"Auden, W. H.",,"deu, eng",text
-0022,"Autograph Letter Signed W. H. Auden to Stella Musulin 1961-08-16",1961-08-16,"Auden, W. H.",,"deu, eng",text
-0023,"Autograph Letter Signed W. H. Auden to Stella Musulin 1962-07-23",1962-07-23,"Auden, W. H.",,"deu, eng",text
-0024,"Autograph Letter Signed W. H. Auden to Stella Musulin 1962-09-11",1962-09-11,"Auden, W. H.",,"deu, eng",text
-0025,"Autograph Letter Signed W. H. Auden to Stella Musulin 1962-10-17",1962-10-17,"Auden, W. H.",,"deu, eng",text
-0026,"Autograph Notes W. H. Auden Stella Musulin [?]",[?],"Auden, W. H.","Musulin, Stella","deu, eng",text
-0027,"Typescript W. H. Auden ""Freedom and Necessity in the Arts"" [1970]",[?],"Auden, W. H.","Musulin, Stella","deu, eng",text
-0028,"Typescript Stella Musulin "In Retrospect" [?]",[?],"Musulin, Stella",,"deu, eng",text
-0029,"Autograph Notes Stella Musulin [1968-02-13]",[1968-02-13],"Musulin, Stella",,"eng",text
-0035,"Telegram W. H. Auden to Stella Musulin 1971-05-13",1971-05-13,"Auden, W. H.",,"deu, eng",text
-0038,"Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden ""Joseph Weinheber"" 1965-03-15",1965-03-15,"Auden, W. H.",,"deu, eng",text
+document_id,document_title,document_date,document_author_01,document_author_02,document_author_03,document_author_04,document_language,content_type
+0001,"Autograph Letter Signed W. H. Auden to Stella Musulin 1963-05-12",1963-05-12,"Auden, W. H.",,,,"deu, eng",text
+0002,"Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23",1964-12-23,"Auden, W. H.",,,,"deu, eng",text
+0003,"Autograph Letter Signed W. H. Auden to Stella Musulin 1965-09-29",1965-09-29,"Auden, W. H.",,,,"deu, eng",text
+0004,"Typed Letter Signed W. H. Auden to Stella Musulin 1966-02-03",1966-02-03,"Auden, W. H.",,,,"deu, eng",text
+0005,"Autograph Letter Signed W. H. Auden to Stella Musulin 1967-11-08",1967-11-08,"Auden, W. H.",,,,"deu, eng",text
+0006,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-02-06",1968-02-06,"Auden, W. H.",,,,"deu, eng",text
+0007,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-06",1968-10-06,"Auden, W. H.",,,,"deu, eng",text
+0008,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12",1968-10-12,"Auden, W. H.",,,,"deu, eng",text
+0009,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-15",1968-10-15,"Auden, W. H.",,,,"deu, eng",text
+0010,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-11-06",1968-11-06,"Auden, W. H.",,,,"deu, eng",text
+0011,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-13",1968-12-13,"Auden, W. H.",,,,"deu, eng",text
+0012,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-29",1968-12-29,"Auden, W. H.",,,,"deu, eng",text
+0013,"Autograph Letter Signed W. H. Auden to Stella Musulin 1969-01-04",1969-01-04,"Auden, W. H.",,,,"deu, eng",text
+0014,"Autograph Letter Signed W. H. Auden to Stella Musulin 1969-05-21",1969-05-21,"Auden, W. H.",,,,"deu, eng",text
+0015,"Autograph Letter Signed W. H. Auden to Stella Musulin 1970-06-10",1970-06-10,"Auden, W. H.",,,,"deu, eng",text
+0016,"Autograph Letter Signed W. H. Auden to Stella Musulin 1970-09-18",1970-09-18,"Auden, W. H.",,,,"deu, eng",text
+0017,"Autograph Letter Signed W. H. Auden to Stella Musulin 1971-06-04",1971-06-04,"Auden, W. H.",,,,"deu, eng",text
+0018,"Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden ""Stark Bewölkt"" 1971-10-19",1971-10-19,"Auden, W. H.",,,,"deu, eng",text
+0019,"Autograph Letter Signed W. H. Auden to Stella Musulin 1972-02-22",1972-02-22,"Auden, W. H.",,,,"deu, eng",text
+0020,"Autograph Letter Signed W. H. Auden to Stella Musulin 1973-09-24",1973-09-24,"Auden, W. H.",,,,"deu, eng",text
+0021,"Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13",1961-10-13,"Auden, W. H.",,,,"deu, eng",text
+0022,"Autograph Letter Signed W. H. Auden to Stella Musulin 1961-08-16",1961-08-16,"Auden, W. H.",,,,"deu, eng",text
+0023,"Autograph Letter Signed W. H. Auden to Stella Musulin 1962-07-23",1962-07-23,"Auden, W. H.",,,,"deu, eng",text
+0024,"Autograph Letter Signed W. H. Auden to Stella Musulin 1962-09-11",1962-09-11,"Auden, W. H.",,,,"deu, eng",text
+0025,"Autograph Letter Signed W. H. Auden to Stella Musulin 1962-10-17",1962-10-17,"Auden, W. H.",,,,"deu, eng",text
+0026,"Autograph Notes W. H. Auden Stella Musulin [?]",[?],"Auden, W. H.","Musulin, Stella",,,"deu, eng",text
+0027,"Typescript W. H. Auden ""Freedom and Necessity in the Arts"" [1970]",[?],"Auden, W. H.","Musulin, Stella",,,"deu, eng",text
+0028,"Typescript Stella Musulin ""In Retrospect"" [?]",[?],"Musulin, Stella",,,,"deu, eng",text
+0029,"Autograph Notes Stella Musulin [1968-02-13]",[1968-02-13],"Musulin, Stella",,,,"eng",text
+0035,"Telegram W. H. Auden to Stella Musulin 1971-05-13",1971-05-13,"Auden, W. H.",,,,"deu, eng",text
+0038,"Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden ""Joseph Weinheber"" 1965-03-15",1965-03-15,"Auden, W. H.",,,,"deu, eng",text
 0039,"Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden ""Joseph Weinheber"" 1965-04-28 and with Typescript W. H. Auden Translation ""Joseph Weinheber""",1965-04-28,"Auden, W. H.","Mayer, Elizabeth","Musulin, Elsa","Musulin, Stella","deu, eng",text
-0040,"Autograph Letter Signed W. H. Auden to Stella Musulin 1969-06-10",1969-06-10,"Auden, W. H.",,"deu, eng",text
-0041,"Autograph Letter Signed W. H. Auden to Stella Musulin 1970-07-06",1970-07-06,"Auden, W. H.",,"deu, eng",text
-0042,"Autograph Letter Signed W. H. Auden to Stella Musulin with Typescripts W. H. Auden ""August 1968"" and ""Elegy"" 1968-10-04",1968-10-04,"Auden, W. H.",,"deu, eng",text
-0043,"Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden ""Freedom and Necessity in the Arts"" 1970-05-21",1970-05-21,"Auden, W. H.",,"deu, eng", text
-0044,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-24",1968-10-24,"Auden, W. H.",,"eng",text
-0045,"Autograph Letter Signed W. H. Auden to Stella Musulin 1960-07-21",1960-07-21,"Auden, W. H.",,"deu, eng",text
-0046,"Autograph Notes Stella Musulin on Translation W. H. Auden ""Joseph Weinheber"" [1965]",[1965],"Musulin, Elsa","Musulin, Stella","deu, eng",text
-0057,"Envelope W. H. Auden to Stella Musulin 1961-[?]-[25]",1961-[?]-[25],"Auden, W. H.",,"deu, eng",text
-0058,"Autograph Letter Signed W. H. Auden to Stella Musulin [?]",[?],"Auden, W. H.","Musulin, Stella","deu, eng",text
-0059,"Envelope W. H. Auden to Stella Musulin 1962-04-30",1962-04-30,"Auden, W. H.",,"deu, eng",text
+0040,"Autograph Letter Signed W. H. Auden to Stella Musulin 1969-06-10",1969-06-10,"Auden, W. H.",,,,"deu, eng",text
+0041,"Autograph Letter Signed W. H. Auden to Stella Musulin 1970-07-06",1970-07-06,"Auden, W. H.",,,,"deu, eng",text
+0042,"Autograph Letter Signed W. H. Auden to Stella Musulin with Typescripts W. H. Auden ""August 1968"" and ""Elegy"" 1968-10-04",1968-10-04,"Auden, W. H.",,,,"deu, eng",text
+0043,"Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden ""Freedom and Necessity in the Arts"" 1970-05-21",1970-05-21,"Auden, W. H.",,,,"deu, eng", text
+0044,"Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-24",1968-10-24,"Auden, W. H.",,,,"eng",text
+0045,"Autograph Letter Signed W. H. Auden to Stella Musulin 1960-07-21",1960-07-21,"Auden, W. H.",,,,"deu, eng",text
+0046,"Autograph Notes Stella Musulin on Translation W. H. Auden ""Joseph Weinheber"" [1965]",[1965],"Musulin, Elsa","Musulin, Stella",,,"deu, eng",text
+0057,"Envelope W. H. Auden to Stella Musulin 1961-[?]-[25]",1961-[?]-[25],"Auden, W. H.",,,,"deu, eng",text
+0058,"Autograph Letter Signed W. H. Auden to Stella Musulin [?]",[?],"Auden, W. H.","Musulin, Stella",,,"deu, eng",text
+0059,"Envelope W. H. Auden to Stella Musulin 1962-04-30",1962-04-30,"Auden, W. H.",,,,"deu, eng",text

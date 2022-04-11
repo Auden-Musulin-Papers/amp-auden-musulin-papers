@@ -218,6 +218,14 @@
     <rico:hasContentOfType>text</rico:hasContentOfType>
     <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
   </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0028">
+    <rico:hasOrHadIdentifier>amp_0028</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Typescript Stella Musulin "In Retrospect" [?]</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>[?]</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_s.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
   <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0029">
     <rico:hasOrHadIdentifier>amp_0029</rico:hasOrHadIdentifier>
     <rico:hasOrHadName>Autograph Notes Stella Musulin [1968-02-13]</rico:hasOrHadName>
@@ -239,6 +247,17 @@
     <rico:hasOrHadName>Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-03-15</rico:hasOrHadName>
     <rico:isAssociatedWithDate>1965-03-15</rico:isAssociatedWithDate>
     <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden_w.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0039">
+    <rico:hasOrHadIdentifier>amp_0039</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-04-28 and with Typescript W. H. Auden Translation "Joseph Weinheber"</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1965-04-28</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden_w.html</rico:hasAuthor>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/mayer_e.html</rico:hasAuthor>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_e.html</rico:hasAuthor>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_s.html</rico:hasAuthor>
     <rico:hasContentOfType>text</rico:hasContentOfType>
     <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
   </rico:Record>
@@ -329,6 +348,9 @@
   </rico:Agent>
   <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/musulin_s.html">
     <rico:hasOrHadAgentName>Musulin, Stella</rico:hasOrHadAgentName>
+  </rico:Agent>
+  <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/mayer_e.html">
+    <rico:hasOrHadAgentName>Mayer, Elizabeth</rico:hasOrHadAgentName>
   </rico:Agent>
   <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/musulin_e.html">
     <rico:hasOrHadAgentName>Musulin, Elsa</rico:hasOrHadAgentName>
