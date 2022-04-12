@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="amp-transcript__0008.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0008.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -48,7 +44,7 @@ for any purpose, even commercially.</p>
                </licence>
                <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
             </availability>
-         </publicationStmt>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C30D-8</idno></publicationStmt>
          <seriesStmt>
             <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
          </seriesStmt>
@@ -79,13 +75,13 @@ for any purpose, even commercially.</p>
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"></placeName>
+               <placeName ref="#"/>
                <date notBefore="1968-10-12" notAfter="1968-10-12">1968-10-12</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
          
@@ -120,7 +116,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <unclear>L</unclear>eft US driving<lb/>
-                  licence behind <unclear>&#x00B7;</unclear>
+                  licence behind <unclear>·</unclear>
                </p>
                <p>
                   Die Baroninin<lb/>
@@ -132,7 +128,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0040/" type="envelope"/>
                <p>
                   WH<unclear>_</unclear>Auden<lb/>
-                  &#x2105; Heyworth<lb/>
+                  ℅ Heyworth<lb/>
                   32 Bryanston Sq<unclear>u</unclear>are<lb/>
                   London. <del><unclear>N.,</unclear></del> W.I<lb/>
                   England
@@ -155,7 +151,7 @@ for any purpose, even commercially.</p>
                   Could you be an angel and look for<lb/>
                   it next time you ar<unclear>e</unclear> going to Fridau<lb/>
                   and air-mail to me<lb/>
-                  &#x2105; Mr Peter Heyworth<lb/>
+                  ℅ Mr Peter Heyworth<lb/>
                   32 Bryanston Square<lb/>
                   London . W .I .<lb/>
                   So sorry to be such a nuisance.<lb/>

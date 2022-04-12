@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="amp-transcript__0015.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0015.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -48,7 +44,7 @@ for any purpose, even commercially.</p>
                </licence>
                <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
             </availability>
-         </publicationStmt>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C314-F</idno></publicationStmt>
          <seriesStmt>
             <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
          </seriesStmt>
@@ -79,13 +75,13 @@ for any purpose, even commercially.</p>
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"></placeName>
+               <placeName ref="#"/>
                <date notBefore="1970-06-10" notAfter="1970-06-10">1970-06-10</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
          
@@ -151,11 +147,11 @@ for any purpose, even commercially.</p>
                   <unclear>e</unclear> million.<lb/>
                   On Saturday Chester and I have<lb/>
                   to attend a wedding <del><unclear>in</unclear></del>near<lb/>
-                  Kr<unclear>e</unclear>ms at 3<unclear>&#x00B7;</unclear>0.p.m,which means<lb/>
-                  we shall have to lunch at 12<unclear>&#x00B7;</unclear>0<unclear>,</unclear><lb/>
+                  Kr<unclear>e</unclear>ms at 3<unclear>·</unclear>0.p.m,which means<lb/>
+                  we shall have to lunch at 12<unclear>·</unclear>0<unclear>,</unclear><lb/>
                   Could you possibly make that<unclear>?</unclear><lb/>
                   If not,per<unclear>haps</unclear> you could come<lb/>
-                  on Monday,<del>if &#x00B7;retur:</del> or whichever day<lb/>
+                  on Monday,<del>if ·retur:</del> or whichever day<lb/>
                   you <unclear>w</unclear>ill be retur<unclear>n</unclear>ing to Vienna<lb/>
                   from Fridau<unclear>.</unclear><lb/>
                   love and again thanks ever<lb/>
