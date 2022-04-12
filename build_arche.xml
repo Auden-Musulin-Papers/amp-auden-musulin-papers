@@ -4,9 +4,4 @@
       <factory name="net.sf.saxon.TransformerFactoryImpl"/>
       <classpath location="${basedir}/saxon/saxon9he.jar"/>
    </xslt>
-   <copy todir="./html/" flatten="true">
-      <fileset dir="./data/">
-         <include name="**/*.xml"/>
-      </fileset>
-   </copy>
 </project>
