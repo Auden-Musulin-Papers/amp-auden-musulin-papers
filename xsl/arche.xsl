@@ -42,7 +42,7 @@
                 </acdh:Collection>
             </xsl:for-each>
             <xsl:for-each select="collection('../data/editions')//tei:TEI[.//tei:idno[@type='handle']]">
-                
+<!--TEIs-->
                 <xsl:variable name="partOf">
                     <xsl:value-of select="concat(@xml:base, '/editions')"/>
                 </xsl:variable>
@@ -60,28 +60,42 @@
                     <acdh:isPartOf rdf:resource="{$partOf}"/>
                     <xsl:copy-of select="$constants"/>
                 </acdh:Resource>
-                <!--<xsl:for-each select=".//tei:graphic">
+<!-- IMG (MASTER) -->
+                <xsl:for-each select=".//tei:pb">
                     <xsl:variable name="facsId">
-                        <xsl:value-of select="replace(@url, 'anno:', '')"/>
+                        <xsl:value-of select="replace(substring-after(@facs, 'amp/'), '/', '.tif')"/>
                     </xsl:variable>
                     <xsl:variable name="facsUrl">
-                        <xsl:value-of select="concat($TopColId, '/facs/', substring-before($facsId, '-'), '/', $facsId)"/>
-                    </xsl:variable>
-                    <xsl:variable name="flatId">
-                        <xsl:value-of select="concat($TopColId, '/facs/', $facsId)"/>
+                        <xsl:value-of select="concat($TopColId, '/', $facsId)"/>
                     </xsl:variable>
                     <acdh:Resource rdf:about="{$facsUrl}">
-                        <acdh:hasIdentifier rdf:resource="{$flatId}"/>
-                        <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"><xsl:value-of select="$date"/></acdh:hasCoverageStartDate>
-                        <acdh:hasTitle xml:lang="de"><xsl:value-of select="$facsId"/></acdh:hasTitle>
+                        <acdh:isPartOf rdf:resource="{concat($TopColId, '/facs')}"/>
+                        <acdh:hasTitle xml:lang="en"><xsl:value-of select="$facsId"/> (<xsl:value-of select="data(@type)"/>)</acdh:hasTitle>
                         <acdh:isSourceOf rdf:resource="{$id}"/>
-                        <!-\-<acdh:hasCoverage xml:lang="de"><xsl:value-of select="$datum"/></acdh:hasCoverage>-\->
                         <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
                         <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
-                        <acdh:isPartOf rdf:resource="{concat($TopColId, '/facs')}"/>
+                        <acdh:hasDigitisingAgent rdf:resource="https://orcid.org/0000-0002-3997-5193"/>
                         <xsl:copy-of select="$constants"/>
                     </acdh:Resource>
-                </xsl:for-each>-->
+                </xsl:for-each>
+<!-- IMG (WEB) -->
+                <xsl:for-each select=".//tei:pb">
+                    <xsl:variable name="facsId">
+                        <xsl:value-of select="replace(substring-after(@facs, 'amp/'), '/', '.jpg')"/>
+                    </xsl:variable>
+                    <xsl:variable name="facsUrl">
+                        <xsl:value-of select="concat($TopColId, '/', $facsId)"/>
+                    </xsl:variable>
+                    <acdh:Resource rdf:about="{$facsUrl}">
+                        <acdh:isPartOf rdf:resource="{concat($TopColId, '/web-img')}"/>
+                        <acdh:hasTitle xml:lang="en"><xsl:value-of select="$facsId"/> (<xsl:value-of select="data(@type)"/>)</acdh:hasTitle>
+                        <acdh:isSourceOf rdf:resource="{$id}"/>
+                        <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
+                        <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
+                        <acdh:hasDigitisingAgent rdf:resource="https://orcid.org/0000-0002-3997-5193"/>
+                        <xsl:copy-of select="$constants"/>
+                    </acdh:Resource>
+                </xsl:for-each>
             </xsl:for-each>
         </rdf:RDF>
     </xsl:template>   
