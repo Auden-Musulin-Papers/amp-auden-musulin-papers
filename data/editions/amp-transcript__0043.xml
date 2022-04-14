@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="amp-transcript__0043.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0043.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -48,7 +44,7 @@ for any purpose, even commercially.</p>
                </licence>
                <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
             </availability>
-         </publicationStmt>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C330-F</idno></publicationStmt>
          <seriesStmt>
             <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
          </seriesStmt>
@@ -79,13 +75,13 @@ for any purpose, even commercially.</p>
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"></placeName>
+               <placeName ref="#"/>
                <date notBefore="1970-05-21" notAfter="1970-05-21">1970-05-21</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
          
@@ -146,7 +142,7 @@ for any purpose, even commercially.</p>
                   May 21st.
                </p>
                <p hand="#handwritten">
-                  Dear S<del><unclear>e</unclear></del>tella<unclear>&#x00B7;</unclear><lb/>
+                  Dear S<del><unclear>e</unclear></del>tella<unclear>·</unclear><lb/>
                   You're an angel. I have to deliver this<lb/>
                   in Neulengbach on Sun<unclear>day</unclear>, June 14th.<lb/>
                   In case your dictionary doesn't give it, the<lb/>
@@ -236,7 +232,7 @@ for any purpose, even commercially.</p>
                   (2
                </p>
                <p>
-                  <space quantity="4" unit="char"/>When,later,I began to write poetry&#x2019;I found that,for me,at least,the same<lb/>
+                  <space quantity="4" unit="char"/>When,later,I began to write poetry’I found that,for me,at least,the same<lb/>
                   obligation was binding. That is to say,I cannot accept the do<del><unclear>s</unclear></del>ctrine that,in<lb/>
                   poetry,there is a 'suspension of belief<del><unclear>e</unclear></del>'. A poet must never make a statement<lb/>
                   simply because it sounds poetically exciting: he must also bel<del>ei</del>ieve it to be<lb/>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="amp-transcript__0039.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0039.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -48,7 +44,7 @@ for any purpose, even commercially.</p>
                </licence>
                <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
             </availability>
-         </publicationStmt>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C32C-5</idno></publicationStmt>
          <seriesStmt>
             <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
          </seriesStmt>
@@ -79,13 +75,13 @@ for any purpose, even commercially.</p>
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"></placeName>
+               <placeName ref="#"/>
                <date notBefore="1965-04-28" notAfter="1965-04-28">1965-04-28</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
          
@@ -135,7 +131,7 @@ for any purpose, even commercially.</p>
                   Kirchstetten (Westb<unclear>a</unclear>h<unclear>n</unclear>)<lb/>
                   Hint<unclear>e</unclear>rholz# 6<lb/>
                   N.Ö<lb/>
-                  <unclear>&#x00B7;</unclear>
+                  <unclear>·</unclear>
                </p>            
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0009/" type="sheet"/>
                <p>
@@ -212,14 +208,14 @@ for any purpose, even commercially.</p>
                   <space quantity="7" unit="char"/><del>Von meiner Gartentur</del><lb/>
                   <space quantity="7" unit="char"/>Von meiner Gartent<unclear>ü</unclear>r f<unclear>ü</unclear><del>rh</del>hrt ein schmaler Pfad vom Dorf weiter in einen Wald. Auf<lb/>
                   meinen G<unclear>ä</unclear>ngen dorthin scheint es geh<unclear>ö</unclear>rig,stehen zu bleiben und durch den Zaun deines<lb/>
-                  Gartens zu schauen,in dem&#x1F5F4; dich(die Umst<unclear>ä</unclear>nde verlangten es) wie einen alten geliebten<lb/>
+                  Gartens zu schauen,in dem🗴 dich(die Umst<unclear>ä</unclear>nde verlangten es) wie einen alten geliebten<lb/>
                   Familienhund begrub.
                </p>
                <p hand="#handwritten">
                   2
                </p>
                <p>
-                  <space quantity="7" unit="char"/>Vor zwanzig Jahren kat<hi rend="underline">erg</hi>orisierte&#x1F5F4; Feinde,jezt nah benachbart,w<unclear>ä</unclear>ren wir<lb/>
+                  <space quantity="7" unit="char"/>Vor zwanzig Jahren kat<hi rend="underline">erg</hi>orisierte🗴 Feinde,jezt nah benachbart,w<unclear>ä</unclear>ren wir<lb/>
                   vielleicht gute Freunde geworden,die eine gemeinsame <hi rend="underline">Umwelt</hi> und Liebe f<unclear>ü</unclear>r das Wort<lb/>
                   teilten,und h<unclear>ä</unclear>tten bei einem goldhellen Kremser <hi rend="underline">l<unclear>ä</unclear>nge</hi> Gespr<unclear>ä</unclear>che uber Syntax,Kommas<lb/>
                   und Verskunst gef<unclear>ü</unclear>hrt.

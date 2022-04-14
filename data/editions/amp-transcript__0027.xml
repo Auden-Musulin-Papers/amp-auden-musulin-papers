@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="amp-transcript__0027.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0027.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -48,7 +44,7 @@ for any purpose, even commercially.</p>
                </licence>
                <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
             </availability>
-         </publicationStmt>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C320-1</idno></publicationStmt>
          <seriesStmt>
             <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
          </seriesStmt>
@@ -228,7 +224,7 @@ for any purpose, even commercially.</p>
                   (2
                </p>
                <p>
-                  <space quantity="4" unit="char"/><unclear>W</unclear>hen,later,I began to write poetry&#x2019;<unclear>I</unclear> found th<unclear>a</unclear>t,for me,<unclear>a</unclear>t least,the same<lb/>
+                  <space quantity="4" unit="char"/><unclear>W</unclear>hen,later,I began to write poetry’<unclear>I</unclear> found th<unclear>a</unclear>t,for me,<unclear>a</unclear>t least,the same<lb/>
                   obligation was binding. That is to say,I cannot accept the do<del><unclear>s</unclear></del>ctrine that,in<lb/>
                   poetry,there is a 'suspension of belief<del><unclear>e</unclear></del>'. A poet must never make a statement<lb/>
                   simply because it sounds poetically exciting: he must also bel<del>ei</del>ieve it to be<lb/>
@@ -480,7 +476,7 @@ for any purpose, even commercially.</p>
                   I conclude<del>d</del> these remarks with a light poem of my own,entitled<lb/>
                   <hi rend="underline">Doggerel <del>of</del> by a Senior Citizen</hi><del>.</del> (see CP 638-9).
                </p>
-               <p  hand="#handwritten">
+               <p hand="#handwritten">
                   I have added commas in lists after fin<unclear>al</unclear> item and bef<unclear>o</unclear>re etc<lb/>
                   since they are a<unclear>l</unclear>ready <unclear>the</unclear>re in <hi rend="underline">most</hi> o<unclear>f</unclear> the lists -<lb/>
                   I have a<unclear>ls</unclear>o <unclear>a</unclear>dded a <unclear>f</unclear>ew o<unclear>th</unclear>er comma<gap reason="illegible"/> (<unclear>usuall</unclear>y <unclear>t</unclear>o co<unclear>m</unclear>ple<unclear>te</unclear> a set <unclear>o</unclear>f <unclear>pa</unclear>renthetical comma<unclear>s)</unclear><lb/>

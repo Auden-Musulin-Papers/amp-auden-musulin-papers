@@ -1,5 +1,6 @@
 # project specific
 *.html
+/html
 /saxon
 /static-search
 /html/static-search
@@ -142,3 +143,6 @@ desktop.ini
 
 # MacOS
 .DS_Store
+add_handles.sh
+
+Untitled*

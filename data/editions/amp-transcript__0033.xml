@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="amp-transcript__0033.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0033.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -48,7 +44,7 @@ for any purpose, even commercially.</p>
                </licence>
                <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
             </availability>
-         </publicationStmt>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C326-B</idno></publicationStmt>
          <seriesStmt>
             <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
          </seriesStmt>
@@ -64,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 13</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1981-11-21" >1981-11-21</origDate></origin>
+                        <origin><origDate when-iso="1981-11-21">1981-11-21</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -160,8 +156,8 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Red<unclear>aktion</unclear> 11-12.<lb/>
-                  Kr<unclear>on</unclear>e<unclear>nz</unclear>ei<unclear>tung.</unclear> &#x00BD; 2-<unclear>5</unclear><lb/>
-                  M<unclear>or</unclear>gen  197<unclear>7.</unclear> &#x00B7;<lb/>
+                  Kr<unclear>on</unclear>e<unclear>nz</unclear>ei<unclear>tung.</unclear> ½ 2-<unclear>5</unclear><lb/>
+                  M<unclear>or</unclear>gen  197<unclear>7.</unclear> ·<lb/>
                   1.Nu<unclear>mer.</unclear> <unclear>Heft.</unclear>
                </p>
                <p>
