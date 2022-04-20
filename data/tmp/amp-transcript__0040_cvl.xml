@@ -114,34 +114,153 @@ for any purpose, even commercially.</p>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0067/" type="envelope"/>
+            <pb/><!-- anp-cvl_1r-a/ad-g_mirr.tif -->
                <p>
-                  Ex<unclear>p</unclear>ress.
+                  <hi rend="underline"><gap/></hi><lb/>
+                  <lg>
+                     <l><hi rend="underline"><gap/></hi> <gap/>n<unclear>k</unclear><gap/> <gap/>o<gap/> g<unclear>od</unclear>f<gap/>thers"</l>
+                     <l>y<unclear>o</unclear>u <gap/>ote i<gap/> <gap/>u<unclear>r</unclear> gue<gap/>-<unclear>bo</unclear><gap/>k,<gap/>i<unclear>c</unclear><gap/> w<gap/><unclear>s</unclear> fl<unclear>a</unclear>tteri<unclear>n</unclear>g<unclear>:</unclear></l>
+                     <l><space quantity="3" unit="char"/>t<unclear>h</unclear>oug<unclear>h</unclear> <unclear>I</unclear>'ve <gap/>e<gap/><unclear>c</unclear><gap/> t<gap/><unclear>e</unclear> <unclear>y</unclear><gap/><unclear>r</unclear><gap/> <unclear>n</unclear> discretion</l>
+                     <l><space quantity="3" unit="char"/>c<unclear>a</unclear>lls for <gap/> <gap/>e<gap/>rl<gap/> m<unclear>e</unclear><gap/>ic<gap/>l c<unclear>h</unclear>ec<gap/>-up,</l>
+                  </lg>
+                  <lg>
+                     <l><gap/>ho <gap/><unclear>I</unclear> to <gap/><unclear>vo</unclear><gap/>c<unclear>h</unclear> <gap/><unclear>r</unclear> <unclear>a</unclear> <unclear>Ch</unclear>ri<unclear>s</unclear>ti<gap/>n</l>
+                     <l><gap/>a<gap/>y,f<gap/>r le<gap/> offe<unclear>r</unclear> <gap/>o<gap/>tly<gap/> <gap/>ti<gap/>u<gap/><unclear>es</unclear></l>
+                     <l><space quantity="3" unit="char"/>to <unclear>a</unclear> <gap/>oun<gap/> <unclear>man</unclear><gap/> <unclear>I</unclear><gap/> ye<gap/>te<gap/> <unclear>t</unclear>i<gap/>es it</l>
+                     <l><space quantity="3" unit="char"/>was <gap/>i<gap/><unclear>r</unclear>ent: th<gap/> old coul<gap/> be hel<unclear>p</unclear>ful</l>
+                  </lg>
+                  <lg>
+                     <l>when <gap/>h<gap/> <unclear>c</unclear><gap/>ul<unclear>d</unclear> ni<gap/> e<unclear>n</unclear>vi<gap/><unclear>g</unclear><gap/> <gap/>he <unclear>f</unclear>uture</l>
+                     <l><gap/>s <unclear>a</unclear> <gap/>le set<unclear>t</unclear>l<unclear>e</unclear><gap/> <unclear>l</unclear><gap/><unclear>n</unclear><gap/><unclear>c</unclear><gap/><unclear>p</unclear><gap/> <gap/><unclear>i</unclear><gap/> chil<unclear>d</unclear>ren</l>
+                     <l><space quantity="3" unit="char"/><gap/><unclear>o</unclear>ul<gap/> <gap/><unclear>ke</unclear> t<gap/><unclear>e</unclear> <gap/><unclear>e</unclear> <gap/><unclear>e</unclear><gap/>e o<gap/> <gap/> t<unclear>h</unclear>e<gap/> <unclear>d</unclear>id,</l>
+                     <l><space quantity="3" unit="char"/><unclear>l</unclear><gap/>ug<gap/>in<unclear>g</unclear> <unclear>a</unclear>n<unclear>d</unclear> <gap/>e<unclear>e</unclear><gap/>ing at the s<unclear>a</unclear>me stories.</l>
+                  </lg>
+                  <lg>
+                     <l><gap/><unclear>h</unclear>e<gap/> <del><gap/>e<gap/></del> s<gap/>e<gap/> an<unclear>d</unclear> g<unclear>o</unclear><gap/>t<del/> <gap/>e<gap/> e<gap/>sy<gap/> <unclear>to</unclear> re<unclear>bog</unclear><gap/>ize,</l>
+                     <l>loc<unclear>a</unclear>l <gap/>un<unclear>a</unclear>:<gap/><unclear>good</unclear> <unclear>m</unclear><gap/>t <gap/>ile<unclear>s</unclear> the s<gap/><unclear>em</unclear><gap/>er</l>
+                     <l><space quantity="3" unit="char"/><gap/>i<unclear>ng</unclear> <unclear>ca</unclear>re o<gap/> <gap/> vill<gap/>g<unclear>e</unclear> ni<unclear>n</unclear><gap/>y,</l>
+                     <l><space quantity="3" unit="char"/>evil Count ffoul<gap/>s who in <unclear>h</unclear>i<gap/> tall <unclear>do</unclear><gap/>j<unclear>o</unclear>n</l><gap/>
+                  </lg>
+                  <lg>
+                     <l>indul<unclear>g</unclear>ed in si<gap/>i<unclear>s</unclear>t<unclear>e</unclear><gap/> e<gap/>e<gap/><unclear>x</unclear>riciti<unclear>e</unclear><gap/> <unclear>e</unclear>x<gap/><unclear>t</unclear>ricities.</l>
+                     <l><gap/>t <hi rend="underline">I s<unclear>pe</unclear><gap/> <unclear>f</unclear>ro<unclear>m</unclear> e<gap/>i<gap/>nce</hi>,<gap/>o<gap/> <unclear>co</unclear><gap/>l<unclear>d</unclear> I</l>
+                     <l><space quantity="3" unit="char"/>s<unclear>ay</unclear> th<gap/>t to  you,<gap/><unclear>o</unclear> <gap/><unclear>n</unclear>'t re<unclear>m</unclear>e<gap/><unclear>b</unclear>er</l>
+                     <l><space quantity="3" unit="char"/>wh<unclear>e</unclear>n everyone t<unclear>r</unclear><gap/><unclear>v</unclear>elle<unclear>d</unclear> by r<unclear>a</unclear>ilway</l>
+                  </lg>
+                  <lg>
+                     <l>and the<gap/> <gap/>o<gap/> <gap/>r<gap/> <gap/>t t<gap/><unclear>e</unclear>y w<unclear>e</unclear>re used to <unclear>b</unclear>eing,</l>
+                     <l>the cre<gap/>t<unclear>or</unclear><gap/> <unclear>of</unclear> <gap/><unclear>t</unclear><gap/> not,<gap/>s<gap/> <unclear>no</unclear><gap/> <unclear>t</unclear>h<unclear>e</unclear>y are,</l>
+                     <l><unclear><space/></unclear><gap/> <unclear>e</unclear>x<unclear>p</unclear>e<unclear>n</unclear>sive <unclear>n</unclear><gap/>i<gap/><unclear>nce</unclear>.(<gap/>o<gap/>y</l>
+                     <l><space quantity="3" unit="char"/>has d<unclear>a</unclear>red sug<gap/>est g<gap/>ssin<unclear>g</unclear> them,<unclear>b</unclear>ut someone</l>
+                  </lg>
+                  <lg>
+                     <l><gap/><unclear>ly</unclear> <unclear>wi</unclear><gap/><unclear>.)</unclear><gap/> <unclear>Y</unclear>o<gap/> <gap/>'t n<unclear>e</unclear> <gap/>e <gap/> tell <gap/>ou  what's</l>
+                     <l><unclear>g</unclear>oin<gap/> on<gap/><unclear>:</unclear> t<unclear>h</unclear>e oc<gap/>tic<gap/> <gap/><unclear>e</unclear><gap/>i<gap/>,</l>
+            <pb/><!-- anp-cvl_1r-b/ad-g_mirr.tif -->      
+                     <l><space quantity="3" unit="char"/>joint w<gap/><unclear>i</unclear>t<unclear>h</unclear> <gap/>nd<gap/>-<gap/><unclear>h</unclear><gap/>-<gap/>ry<gap/>r<gap/> <gap/>ossi<gap/>,</l>
+                     <l><space quantity="3" unit="char"/><gap/>r<unclear>o</unclear>cess <unclear>a</unclear>nd v<unclear>e</unclear>n<gap/> <unclear>w</unclear>ithout inter<unclear>m</unclear>ission</l>
+                  </lg>
+                  <lg>
+                     <l>all <unclear>T</unclear>o-<gap/>a<gap/>'s ugly <gap/><unclear>c</unclear><gap/>ets <unclear>I</unclear><gap/><unclear>le</unclear> Im<gap/><unclear>ge</unclear><gap/>le</l>
+                     <l><unclear>n</unclear>o <gap/>onger,<unclear>a</unclear> <gap/>e<gap/>tu<gap/><unclear>e</unclear><gap/>ess<gap/>no<gap/><unclear>y</unclear><gap/><unclear>ou</unclear>s</l>
+                     <l><space quantity="3" unit="char"/>thre<gap/>t <gap/>ro<unclear>m</unclear> <gap/>hi<gap/><unclear>d</unclear>,<gap/><unclear>o</unclear>-<gap/>orrow h<gap/>s us</l>
+                     <l><space quantity="3" unit="char"/>g<unclear>a</unclear>llowed s<unclear>h</unclear>itle<unclear>s</unclear>s: i<unclear>f</unclear> wh<unclear>a</unclear>t is to <unclear>h</unclear><gap/><unclear>e</unclear>n</l>
+                  </lg>
+                  <lg>
+                     <l>occurs <gap/><unclear>co</unclear><gap/>r<gap/>in<gap/> <gap/>to <gap/>h<gap/>t <gap/>hu<gap/>i<unclear>d</unclear>es</l>
+                     <l>defi<unclear>n</unclear>ed <gap/><unclear>s</unclear> '<unclear>h</unclear>u<gap/>',<gap/>'ve <unclear>h</unclear><gap/> i<unclear>t</unclear>,<unclear>a</unclear>re in for</l>
+                     <l><space quantity="3" unit="char"/><gap/> <unclear>d</unclear>is<gap/>t<unclear>e</unclear>r th<gap/>t <gap/>o <gap/><unclear>o</unclear>ur-letter</l>
+                     <l><space quantity="3" unit="char"/>wor<gap/>s will t<gap/>r<gap/>y<unclear>.</unclear> <unclear>I</unclear>'ve b<gap/>held in <gap/>ightm<gap/>res</l>
+                  </lg>
+                  <lg>
+                     <l><unclear>(</unclear>w<unclear>h</unclear><gap/> <gap/><unclear>sn</unclear>'t?) li<gap/>s<unclear>ly</unclear> <unclear>a</unclear><gap/><unclear>o</unclear><gap/>in<unclear>a</unclear>tio<unclear>n</unclear>s: seet<gap/>ing</l>
+                     <l>be<gap/>ior<gap/> si<unclear>n</unclear><gap/>s,<unclear>th</unclear>e <gap/>uses s<gap/>utteri<gap/>,</l>
+                     <l><space quantity="3" unit="char"/><gap/><unclear>e</unclear>lly,<gap/>rom <unclear>eu</unclear>t<gap/>p<gap/>i<unclear>e</unclear>d <gap/>e<gap/>i<unclear>c</unclear>on,</l>
+                     <l><space quantity="3" unit="char"/>the <gap/>itches <unclear>S</unclear><gap/><unclear>b</unclear><gap/>th on Garbage <gap/>ount<gap/>in,</l>
+                  </lg>
+                  <lg>
+                     <l><unclear>H</unclear>ero<gap/>'s <gap/>e<gap/>ti<gap/> <gap/>eti<unclear>c</unclear> e<unclear>ng</unclear><gap/>in<unclear>e</unclear>ers c<unclear>om</unclear>m<gap/>de<unclear>d</unclear></l>
+                     <l>t<unclear>o</unclear> <gap/>o<gap/><unclear>i</unclear><gap/>y t<gap/> <gap/>o<unclear>c</unclear><gap/>ts. <gap/> <gap/>e<unclear>n,</unclear><gap/>ith</l>
+                     <l>u<unclear>ck</unclear>,th<unclear>e</unclear> t<gap/>i<gap/><unclear>le</unclear> <gap/><unclear>e</unclear> <gap/>l</l>
+                     <l><space quantity="3" unit="char"/><unclear>b</unclear>e <unclear>m</unclear>ineral,too <unclear>se</unclear>t in <unclear>m</unclear>y <gap/>its</l>
+                  </lg>
+                  <lg>
+                     <l>to <unclear>d</unclear>is<gap/>in<unclear>g</unclear>uish li<unclear>g</unclear><gap/>t from d<gap/>r<unclear>k</unclear>n<unclear>e</unclear>ss <unclear>a</unclear>nd v<unclear>a</unclear>lued,</l>
+                     <l>in current pri<unclear>ce</unclear>s,<unclear>at</unclear> t<unclear>h</unclear>ree-doll<gap/>rs-fi<unclear>f</unclear>ty:</l>
+                     <l><space quantity="3" unit="char"/><unclear>b</unclear>ut you coul<unclear>d</unclear> well be th<unclear>e</unclear>re i<gap/> <unclear>wha</unclear>t is</l>
+                     <l><space quantity="3" unit="char"/>ri<unclear>p</unclear>ely is not promptly <unclear>d</unclear>one. <unclear>Ye</unclear>t<unclear>,</unclear>who can</l>
+                  </lg>
+                  . . .<lb/>
+            <pb/><!-- anp-cvl_1r-a\ad-g.tif -->
+                  (2<lb/>
+                  <lg>
+                     <l>issue proper ins<unclear>tr</unclear>u<unclear>c</unclear>tions? Not,certainly,</l>
+                     <l>our <unclear>g</unclear>lobal archons<unclear>,w</unclear>hose to<unclear>p</unclear>lofty slo<unclear>g</unclear>ans</l>
+                     <l><space quantity="3" unit="char"/><unclear>a</unclear>re <unclear>a</unclear>s off the m<gap/>rk <unclear>as</unclear> their syntax</l>
+                     <l><space quantity="3" unit="char"/>is v<unclear>a</unclear>gue.(<unclear>T</unclear>hey w<unclear>o</unclear>ul<unclear>d</unclear> be fi<unclear>g</unclear>ur<unclear>e</unclear>s of fun,if</l>
+                  </lg>
+                  <lg>
+                     <l>very c<unclear>l</unclear>ever little boys h<gap/>d not foun<unclear>d</unclear> it</l>
+                     <l><unclear>a</unclear>musin<gap/> to build devices for them,more</l>
+                     <l><space quantity="3" unit="char"/><unclear>ap</unclear>t<gap/>at disasse<unclear>m</unclear>bl<unclear>y</unclear><gap/> th<unclear>s</unclear>n any</l>
+                     <l><space quantity="3" unit="char"/>old fire-s<unclear>e</unclear>ewing <unclear>t</unclear>heogonic monster.)</l>
+                  </lg>
+                  <lg>
+                     <l><unclear>T</unclear>o be responsi<unclear>b</unclear>le fo<unclear>r</unclear> the h<unclear>a</unclear><gap/><unclear>p</unclear>ines<unclear>s</unclear></l>
+                     <l>o<unclear>f</unclear> the<gap/><unclear>U</unclear>niverse is n<unclear>o</unclear>t <gap/> sin<unclear>e</unclear>cure:</l>
+                     <l><space quantity="3" unit="char"/>in elite l<gap/><unclear>nd</unclear>s <gap/>o<gap/>r gener<gap/><unclear>t</unclear>ion</l>
+                     <l><space quantity="3" unit="char"/><unclear>m</unclear><gap/><unclear>y be</unclear> c<unclear>a</unclear>lled to <gap/><unclear>p</unclear>t <gap/>o<unclear>r</unclear> <unclear>a</unclear> <unclear>d</unclear>isci<unclear>p</unclear>line</l>
+                  </lg>
+                  <lg>
+                     <l>th<unclear>a</unclear>t outpeers the <unclear>m</unclear>o<unclear>nk</unclear>s,<gap/> <gap/>ay of o<unclear>b</unclear>e<unclear>d</unclear>ience,</l>
+                     <l><gap/>o<gap/>ty <unclear>a</unclear>nd - goo<unclear>d</unclear> <unclear>g</unclear><gap/>ief<gap/> - <unclear>p</unclear>erh<gap/>s ch<gap/>stity,</l>
+                     <l><space quantity="3" unit="char"/>yet in <unclear>th</unclear>is <unclear>w</unclear>orld's ill-we<unclear>a</unclear>thered o<unclear>p</unclear>en,</l>
+                     <l><space quantity="3" unit="char"/><unclear>a</unclear> fres<unclear>h</unclear> v<unclear>e</unclear>nture p<gap/>efig<unclear>u</unclear>red in folk-t<gap/>les</l>
+                  </lg>
+                  <lg>
+                     <l><gap/>s the <gap/>uest <unclear>P</unclear>erilous<unclear>.</unclear> <gap/>or such wayf<unclear>a</unclear>rers,</l>
+                     <l>w<gap quantity="1" reason="illegible"/><unclear>a</unclear>t should we write <gap quantity="1" reason="illegible"/>o give them the nourishment,</l>
+                     <l><space quantity="3" unit="char"/>w<gap/>r<unclear>m</unclear>th and shelter the<unclear>y</unclear>'ll be in need of?</l>
+                     <l><space quantity="3" unit="char"/><gap/>othing obscene or unple<gap/>sant<unclear>:</unclear> only</l>
+                  </lg>
+                  <lg>
+                     <l>the unscarred overfed enjoy <unclear>C</unclear>alvary</l>
+                     <l><space quantity="1" unit="char"/>as a ver<unclear>b</unclear>al event. <gap/>r sa<gap/>iric: no</l>
+                     <l><space quantity="3" unit="char"/>scorn will ashame <gap/>he <gap/>sary<unclear>.</unclear></l>
+                     <l><space quantity="3" unit="char"/><unclear>N</unclear>or shod<gap/>ily m<gap/>de: to give a stunning</l>
+                  </lg>
+                  <lg>
+                     <l>display of concinnity <unclear>a</unclear>nd elegance</l>
+                     <l>is the <unclear>l</unclear>e<gap/>t we can do<unclear>,</unclear>and it domin<gap/>nt</l>
+                     <l><del>mo<gap/>e</del>mood should be <gap/>h<gap/>t <unclear>o</unclear><gap/> <gap/>iv<gap/>l<unclear>.</unclear></l>
+            <pb/><!-- anp-cvl_1r-b\ad-g.tif -->
+                     <l><space quantity="3" unit="char"/>Let us hymn the s<gap/><unclear>l</unclear>l <gap/>ut journal wonders</l>
+                  </lg>
+                  <lg>
+                     <l>of <unclear>Na</unclear>ture and families<gap/><unclear>and</unclear> then finish</l>
+                     <l>on <gap/> serio-comic note <unclear>w</unclear>ith legends</l>
+                     <l><space quantity="3" unit="char"/>of ultimate <del>e<gap/><unclear>c</unclear><gap/>t<gap/>ophe</del> euc<gap/>t<unclear>a</unclear><gap/>trophe,</l>
+                     <l><space quantity="3" unit="char"/><gap/>egeneration beyon<unclear>d</unclear> the w<gap/>ters.</l>
+                  </lg>
+                  <lg>
+                     <l><gap/>ut perhaps you think <unclear>p</unclear>oems are as foolish</l>
+                     <l>as most po<unclear>e</unclear>ts,and wou<unclear>l</unclear><gap/> rather spend yo<unclear>u</unclear>r s<gap/>re</l>
+                     <l><space quantity="3" unit="char"/>moments romping around in <unclear>Can</unclear>tor's</l>
+                     <l><space quantity="3" unit="char"/>logic<unclear>a</unclear>l par<unclear>ad</unclear>ise o<gap/> beseeching</l>
+                  </lg>
+                  <lg>
+                     <l>such knotty points <gap/>s <hi rend="underline"><unclear>Ca</unclear>n we hang a robber</hi></l>
+                     <l><hi rend="underline">w<unclear>h</unclear>o is not there?</hi> or <hi rend="underline"><gap quantity="1" unit="char"/>h<gap/>t is the color of</hi></l>
+                     <l><space quantity="3" unit="char"/><hi rend="underline">the <unclear>n</unclear>u<unclear>m</unclear>ber Three</hi>. <gap/>hy not? <gap/>ll ple<gap/>sures</l>
+                     <l><space quantity="3" unit="char"/>come <unclear>f</unclear>rom God. <gap/>in<gap/>e I <hi rend="underline">am</hi> your godfather,</l>
+                  </lg>
+                  <lg>
+                     <l>let me close this letter with some worl<gap/>ly <unclear>m</unclear>axim<unclear>s</unclear>:</l>
+                     <l><hi rend="underline"><unclear>B</unclear>e <gap/>l<unclear>a</unclear>d <gap/>o<unclear>u</unclear>r b<unclear>e</unclear>ing is unnecess<unclear>a</unclear>ry</hi>,</l>
+                     <l><space quantity="3" unit="char"/><hi rend="underline">the<gap/>,turn your toe<gap/> out <gap/>s you w<gap/>lk,de<gap/>r</hi>,</l>
+                     <l><space quantity="3" unit="char"/><hi rend="underline">and r<unclear>e</unclear>member who y<unclear>o</unclear>u are,a <gap/><unclear>p</unclear>ender</hi>.</l>
+                  </lg>
                </p>
-               <p>
-                  Die Ba<unclear>r</unclear>onin<lb/>
-                  Stella Musulin<lb/>
-                  Wien III<lb/>
-                  Neulingg<unclear>as</unclear>se 26/14
-               </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0068/" type="envelope"/>
-               <p>
-                  WH<unclear>.</unclear> A<unclear>uden</unclear><lb/>
-                  3062 KIRCHSTETTEN<lb/>
-                  BEZ. ST. PÖLTEN<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
-               </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0069/" type="sheet"/>
-               <p>
-                  De<unclear>ar</unclear> Stella:<lb/>
-                  Saturd<unclear>ay</unclear> <unclear>will</unclear> <unclear>be</unclear> fine. Shall<lb/>
-                  loo<unclear>k</unclear> f<unclear>orw</unclear>a<unclear>r</unclear>d to i<unclear>t</unclear>.<lb/>
-                  l<unclear>o</unclear>ve<lb/>
-                  <unclear>W</unclear>ystan
-               </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0070/" type="sheet"/>
-            <pb/><!-- ad-g.tif (PS image recto top) -->
          </div>
       </body>
    </text>
