@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5561757.svg)](https://doi.org/10.5281/zenodo.6475704)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6475645.svg)](https://doi.org/10.5281/zenodo.6475645)
 
 # amp-data
 
