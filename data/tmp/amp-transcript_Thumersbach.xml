@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:id="amp-transcript__0001.xml"
+   xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
+            <title level="a">Thumersbach</title>
+            <author>Musulin, Stella</author>
+            <editor>
+               <name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+            </editor>
+            <funder>
+               <name>FWF Austrian Science Fund</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Vienna</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Vienna</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>AMP</edition>
+            <respStmt>
+               <resp>Transcription</resp>
+               <name>Quigley, Sean</name>
+           	<name>Mayer, Sandra</name>
+               <name>Frühwirth, Timo</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                  <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+                  <p>Notices:</p>
+                  <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
+               </licence>
+               <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>St. Pölten</settlement>
+                        <repository>State Collections of Lower Austria</repository>
+                        <collection>Helga Köcher</collection>
+                        <idno>1, 7</idno>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate></origDate></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">German</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="transcription">
+            <pb/>
+               <p>
+				<hi rend="underline">Thumersbach</hi>. 
+				</p>
+				<p>
+				<space quantity="5" unit="char"/>Wenn die Nachkriegsgeschichte von Thumersbach noch nicht<lb/>
+				geschrieben wurde, darf man sich nicht wundern: <space quantity="1" unit="char"/>das Thema ist<lb/>
+				heikel, Verleundungsklagen lauern hinter jedem Busch. <space quantity="1" unit="char"/>Zell-am-See<lb/>
+				war ein amerikanischer Stützpunkt in Land Salzburg wo Flüchtlinge<lb/>
+				aller Kategorien die nötigen Reisebewilligungen und dergleichen<lb/>
+				beziehen konnten. <space quantity="1" unit="char"/>Mein Mann war vor der Gestapo im letzten<lb/>
+				Augenblick geflohen und fand in Zell-am-See Arbeit als Gerichts-<lb/>
+				dolmetsch. <space quantity="1" unit="char"/>Zuerst lebte er mit einer kleinen Gruppe von Freunden<lb/>
+				in einer Almhütte oberhalb von Leogang und fuhr mit einem klapprigen<lb/>
+				Fahrrad - es sind ungefahr 15 km - zur Arbeit. <space quantity="1" unit="char"/>Bald bot ihm eine<lb/>
+				Hausbesitzerin in Thumersbach ein Zimmer, und die zweite Phase<lb/>
+				konnte beginnen.<lb/>
+				<space quantity="5" unit="char"/>Trotz der Verschandel<del>i</del>ung des neun Jahrhunderte alten Gasthauses<lb/>
+				durch Anbau, trotz der engen P<del><gap reason="deleted"></gap></del>arzellierung einer einst herrlichen<lb/>
+				Wiese nebst anderer Fremdenverkehrsbedingten Horreurs, ist<lb/>
+				Thumersbach noch heute ein schöner Ort. <space quantity="1" unit="char"/>Damals standen etliche<lb/>
+				Villen entlang des Seeufers, die den Nachkommen berühmter Wiener<lb/>
+				Ärzte der großen Zeit gehörten, ein paar Hotels im Stil der<lb/>
+				Schweizer Seegothik gebaut, einige alte Bauernhäuser, und das war<lb/>
+				alles. <space quantity="1" unit="char"/>Dicht gedrängt, einquartiert oder in Untermiete lebte aber<lb/>
+				eine große Zahl von wie Strandgut angeschwemmten Menschen, die <del>nun</del><lb/>
+				entscheiden mußten, was nun geschehen soll. <space quantity="1" unit="char"/>Darunter waren eine<lb/>
+				Gruppe von Atomphysikern: <space quantity="1" unit="char"/>über sie wurden Wetten abgeschlossen,<lb/>
+				ob sie in Richtung Osten oder Westen auswandern würden. <space quantity="1" unit="char"/>Schließlich<lb/>
+				<space quantity="1" unit="char"/>verteilten sich die genialen Herren 50/50 zwischen den Großmächten,<lb/>
+				weshalb die Wetten hinfällig wurden.<lb/>
+				<space quantity="4" unit="char"/>Wir lernten einen Krebsforscher kennen, der mit Weib und weißen<lb/>
+				Ratten geflohen war, und nun mit den Behörden Schwierigkeiten hatte<del>n</del><lb/>
+				die nicht einsehen wollten, daß es sich nicht um das ekelerregende<lb/>
+				Nagetier Epimys Rattus handelte, sondern um für die Wissenschaft<lb/>
+				unentbehrliche Tiere die einer raffinierten Zuchtmethode unter-<lb/>
+				worfen waren. <space quantity="1" unit="char"/>Alles umsonst. <space quantity="1" unit="char"/>Die Bezirks<del>man</del>hauptmannschaft<lb/>
+				erblickte<del>n</del> in diesen Edelratten eine Gefahr für die Bevölkerung und<lb/>
+				blieb hart. <space quantity="1" unit="char"/>Die Ratten mußten sterben und der Wissenschaftler und<lb/>
+				seine Frau kehrten Österreich, zu Fuß über das Hochgebirge, den<lb/>
+				Rücken.
+				</p>
+			<pb/>
+				<p>
+				- 2 - 
+				</p>
+				<p>
+				<space quantity="6" unit="char"/>Damals hörte ich zum ersten Mal den Namen Purtscheller-Haus:<lb/>
+				ein Gasthaus <del>hart</del> an der Grenze mit Deutschland - angeblich fuhr<lb/>
+				die unsicht<del>t</del>bare Linie durch die<del><gap reason="deleted"></gap></del>Küche - ein Treffpunkt, ein Schleichweg<lb/>
+				für Passlose, für Schmuggler. <space quantity="1" unit="char"/>Und wer war kein Schmuggler? <space quantity="1" unit="char"/>Man<lb/>
+				müßte eine Gedenktafel am Haus anbringen.<lb/>
+				<space quantity="5" unit="char"/>Im Allgemeinen haben die westallierten Truppen nicht geplündert;<lb/>
+				dafür umso emsiger die Einheimische<del>n</del>. <space quantity="1" unit="char"/>Bei Fischhorn, einem Schloß<lb/>
+				an der Südflanke des Zeller Sees, gab es mysteriöse Vorfälle.<lb/>
+				Man könnte auch von einer <del><gap reason="deleted"></gap></del>Selektivplünderung sprechen. <space quantity="1" unit="char"/>Die erste<lb/>
+				Welle fand in der Zeit zwischen dem Auszug der Nazi-Bonz<del>w</del>en die es<lb/>
+				als <del>Sommer</del> Ferienaufent<del><gap reason="deleted"></gap></del>halt benü<del><gap reason="deleted"></gap></del>tzt hatten, und der Ankunft der<lb/>
+				Amerikaner. <space quantity="1" unit="char"/>Zuerst na<del>j</del>hm man die Lebensmittel nach Hause und tat es<lb/>
+				sicherlich mit gutem Gewissen; <space quantity="1" unit="char"/>Sackweise wurde M<del>Ö</del>ehl, Zucker und<lb/>
+				andere Waren nach Hause getragen. <space quantity="1" unit="char"/>Da nichts geschah, nach einer<lb/>
+				Pause fiel es so manchem Nachbarn ein, daß das eine oder andere<lb/>
+				schöne Möbelstück sich in seinem oder ihrem Wohnzimmer sehr gut<lb/>
+				ausnehmen würde. <space quantity="1" unit="char"/>Gedacht, getan: <space quantity="1" unit="char"/>er holte es. <space quantity="1" unit="char"/>Zufällig waren<lb/>
+				die Initialen der rechtmässigen Schloßherrin mit denen der Emmy<lb/>
+				Goering identisch. <space quantity="1" unit="char"/>Nun betraten Vertreter der amerikanischen<lb/>
+				Besatzungsmacht das Schloß, sahen Monogramme auf Koffern und Truhen<lb/>
+				und kombinierten blitzartig, daß sie es hier mit einer geradezu<lb/>
+				zwingenden, rechtmäßigen Kriegsbeute zu tun hatten.<lb/>
+			    <space quantity="4" unit="char"/>In solchen Zeiten ist die halbe Bevölkerung damit beschäftigt,<lb/>
+				Wertgegenstände im Erdreich verschwinden zu lassen, und meistens<lb/>
+				wissen es einige Personen aus der anderen Hälfte. <space quantity="1" unit="char"/>Diese warten nur<lb/>
+				auf einen geeigneten Augenblick, um diese Gegenstände - Silberbesteck,<lb/>
+				Schmuck usw. - auszugraben und wegzutragen. <space quantity="1" unit="char"/>Der "Feind" kommt erst<lb/>
+				gar nicht dazu. <space quantity="1" unit="char"/>Manche Schatzgräber haben die Stelle im Wald zu<lb/>
+				ungenau notiert, konnten später d<del><gap reason="deleted"></gap></del>en eigenen Plan nicht dechiffrieren<lb/>
+				und suchen vergebens bis auf den heutigen Tag. <space quantity="1" unit="char"/>In die erste<lb/>
+				Kategorie gehört der hochadeliger Herr in Thumersbach, der sich die<lb/>
+				Sache etwas zu einfach machte. <space quantity="1" unit="char"/>In der Meinung, die unruhige Z<del>E</del>eit<lb/>
+				würde nur von kurzer Dauer sein, begrub er den Familienschatz in<lb/>
+				nächster Nähe seines Hauses. <space quantity="1" unit="char"/>Noch kürzer dauerte seine Seelenruhe:<lb/>
+				Keine vierundzwanzig Stunden lag der Schatz unter der kunstvoll<lb/>
+				bepflanzten Oberfläche, dann war er weg, und das zu einer Zeit, da<lb/>
+				Kesselring und seine Mannen sich zwar in keiner großen Entfernung aufhielten aber<lb/>
+				wahrlich andere Sorgen hatten, die Amerikaner aber noch nicht<lb/>
+				eingetroffen waren.
+				</p>
+			<pb/>
+				<p>
+				- 3 -
+				</p>
+				<p>
+				<space quantity="6" unit="char"/>Von was lebten all jene Ärzte, Anwälte, Verleger, Schriftsteller<lb/>
+				und Künstler, die nun miteinander <del>T</del>tratschten, aber nicht viel zu tun<lb/>
+				hatten? <space quantity="1" unit="char"/>Als ich mich im Frühsommer 1946 dazu gesellte war <unclear>b</unclear>erei<unclear>ts</unclear> eine<lb/>
+				gewisse Bewegung zu beobachten. <space quantity="1" unit="char"/>Freilich hatten alle große Pläne,<lb/>
+				die in Gesprächen bis in die Nacht hin und her gewälzt wurden.<lb/>
+				Der lange Alptraum war vorbei, die Welt lag offen; <space quantity="1" unit="char"/>mittlerweile<lb/>
+				hatte man kein Geld. <space quantity="1" unit="char"/>Wer schreiben konnte, schrieb: <space quantity="1" unit="char"/>Janko konnte<lb/>
+				endlich seinen Beruf als Journalist und Schriftsteller ausüben, und<lb/>
+				auch ich machte einen Anfang. <space quantity="1" unit="char"/>Ein Verleger gründete einen Einmann-<lb/>
+				verlag. <space quantity="1" unit="char"/>Ein Kaufmann plante Freistilringen für den kommenden<lb/>
+				Frühling in Wien, während seine Frau mit dem Verkauf von Pornobildern<lb/>
+				das Haushaltsgeld aufbesserte. <space quantity="1" unit="char"/>Ein distinguierter Herr trug aus dem<lb/>
+				Keller einer bekannten Dame wertvolles Porzellan und verkaufte es,<lb/>
+				aber so ungeschickt, daß ein ahnungsloser Zwischenhändler der Dame<lb/>
+				das Porzellan anbot, das sie nicht vermisst hatte. <space quantity="1" unit="char"/>Sie wunderte sich<lb/>
+				nur, daß andere Leute auch dieses Muster bes<del>o</del>assen. <space quantity="1" unit="char"/>Ein anderer wußte<lb/>
+				sich auch zu helfen: <space quantity="1" unit="char"/>er erfand eine raffinierte Methode womit man<lb/>
+				aus einem Meter Brennholz ein Ma<del>s</del>ximum von hinten entfernen konnte<lb/>
+				ehe der Vorgang von vorne sich<del>t</del>ba<del>t</del>r wurde oder das Ganze in sich zusammen-<lb/>
+				stürzte.<lb/>
+				<space quantity="4" unit="char"/>Als Janko <del>noch</del> in Zell-am-See arbeitete <space quantity="1" unit="char"/>lernte er viele Menschen<lb/>
+				kennen: <space quantity="1" unit="char"/>er hatte den Zugang zu jenen Dokumenten die man damals<lb/>
+				gebraucht hat, um irgendwohin zu<gap reason="illegible"></gap>fahren. <space quantity="1" unit="char"/>Er hatte freie Hand und<lb/>
+				konnte so manches organisieren. <space quantity="1" unit="char"/>So be<del><unclear>c</unclear></del>suchte ihn eines Tages ein<lb/>
+				Österreich-<del><gap reason="deleted"></gap></del>Patriot den man den König von Lofer nennen könnte.<lb/>
+				Bedeutungsvoll erzählte er von einem Komplott, das gesamte Deutsche<lb/>
+				Eck vulgo Rupertiwinkel, Österreich einzuverleiben. <space quantity="1" unit="char"/>Es gäbe ganz andere<lb/>
+				Grenzkorrekturen anderswo, meinte der Patriot, die Grenzposten<lb/>
+				zwischen Lofer und Salzburg wären ihm lästig. <space quantity="1" unit="char"/>Jetzt sei die Stunde<lb/>
+				gekommen, man bräuchte nur einige LKWs auszuborgen; <space quantity="1" unit="char"/>für den<lb/>
+				Gerichtsdolmetsch sicherlich kein Problem. <space quantity="1" unit="char"/>Heim ins (Öster)reich!<lb/>
+				Die schlichte Kühnheit dieses Vorhabens machte Eindruck, aber Janko<lb/>
+				sah zwei Haare in der Suppe. <space quantity="1" unit="char"/>Die historisch durch nichts zu<lb/>
+				rechtfertigende Tat würde verm<del>k</del>utlich auf Regierungsebene auf wenig<lb/>
+				Verständnis stossen; <space quantity="1" unit="char"/>die LKW bekäme er ohnehin nicht. <space quantity="1" unit="char"/><del>Das</del> Der Ruperti-<lb/>
+				winkel blieb bei Bayern.<lb/>
+				<space quantity="5" unit="char"/>Unter seinem Bett in Thumersbach lagen ein Tintoretto, ein<lb/>
+				Ruysdael und zwei de Momper, dennoch war Janko immer knapp bei Kassa.
+				</p>
+			<pb/>
+				<p>
+				- 4 -
+				</p>
+				<p>
+				Er beschloß trotzdem, seinen Posten aufzugeben um sich ganz dem<lb/>
+				Journalismus zu widmen. <space quantity="1" unit="char"/>Er war gerade dabei, seinen Schreibtisch<lb/>
+				aufzuräumen, da ging die Türe auf und eine vor Wiedersehensfreude<lb/>
+				strahlende alte Dame trat ein. <space quantity="1" unit="char"/>Sie war mit seinen Eltern befreundet,<lb/>
+				erzählte sie, damals in der Schweiz, ihr Mann und der Herr Papa<lb/>
+				fast als Kollegen zu nennen. <space quantity="1" unit="char"/>Janko wußte Bescheid. <space quantity="1" unit="char"/>Was könnte er<lb/>
+				für sie tun? <space quantity="1" unit="char"/>Eine Reisebewilligung, unter einem falschen Namen,<lb/>
+				ça va sans dire, warum, würde sie ihm gern<del>m</del>e ein<unclear><del><gap reason="deleted"></gap></del></unclear> anderes Mal<lb/>
+				erzählen. <space quantity="1" unit="char"/>Im A<unclear><del><gap reason="deleted"></gap></del></unclear>ugenblick war sie ein wenig pressiert. <space quantity="1" unit="char"/>Er soll<lb/>
+				unbedingt einmal zu ihr kommen: <space quantity="1" unit="char"/>"auf einen Bock". <space quantity="1" unit="char"/>Der passionierte<lb/>
+				Jäger bedankte sich höflichst und die <space quantity="1" unit="char"/><del>S</del>Dame verschwand mit dem<lb/>
+				erwünschten Dokument. <space quantity="1" unit="char"/>Unheil ahnend, nahm Janko die Fahndungsliste<lb/>
+				zur Hand und schl<del>i</del>ug sie an der relevanten Seite auf. <space quantity="1" unit="char"/>Das, was<lb/>
+				dort zu lesen war raubte ihm der schönen Waidmannsvorfreude.<lb/>
+				<space quantity="10" unit="char"/>"von X, Margarete: <space quantity="1" unit="char"/>gesucht wegen mehrfachen Mordes.<unclear>"</unclear><lb/>
+				<space quantity="4" unit="char"/>Kein Österreicher ist imstande zwei Menschen miteinander korrekt<lb/>
+			    bekannt zu machen. M<del>;</del>anchmal heißt es <del>2</del>"Darf ich meine Frau vorstellen?<lb/>
+				- was der Frau in keiner Weise hilft; <space quantity="1" unit="char"/>oder man murmelt etwas<lb/>
+				unverständliches; <space quantity="1" unit="char"/>in gewissen Kreisen heißt es läßig: <space quantity="1" unit="char"/>"Ihr kennt<lb/>
+				Euch eh." <space quantity="1" unit="char"/>Was nicht immer stimmt. <space quantity="1" unit="char"/>An einem schönen Nachmittag<lb/>
+				im Sommer 1946 kam ich vom See herauf um für uns beide einen Tee<lb/>
+				zu machen und fand bei Janko eine alte Dame. <space quantity="1" unit="char"/>Ich wurde <del>öi</del> ihr<lb/>
+				vorgestellt, aber eben ohne Andeutung auf ihre Identität;<lb/>
+				</p>
+				<p>
+				Ganz in schwarz gekleidet, trug die alte Dame einen kecken, mit<lb/>
+				Kirschen dekorierten Strohhut, der ihre unerschütterliche gute<lb/>
+				Laune zu<del><gap reason="deleted"></gap></del>unterstreichen schien. <space quantity="1" unit="char"/>Sie hatte eine Handtasche bei sich<lb/>
+				die offenbar mit Druckwerken verschiedener Art zum Bersten gefüllt<lb/>
+				war. <space quantity="1" unit="char"/>Mein Mann erzählte mir später, daß er längst herausgefunden<lb/>
+				hatte, weshalb sie gesucht wurde. <space quantity="1" unit="char"/>Sie habe, wurde behauptet,<lb/>
+				sowohl für die deutschenals auch für die f<del>s</del>ranzösischen Geheimdienste<lb/>
+				gearbeitet, somit <gap reason="illegible"/> <unclear>sie</unclear> eine Doppelagentin. <space quantity="1" unit="char"/>In der amerikanischen Zone<lb/>
+				nun auch von den Amerikanern gesucht, habe man beabsichtigt, sie<lb/>
+				an die Franzosen auszuliefern. <space quantity="1" unit="char"/>Sie wurde auch festgenommen und,<lb/>
+				von der Militärpolizei eskortiert, in den Zug nach Salzburg<lb/>
+				gesetzt. <space quantity="1" unit="char"/>Der wackeren Siebzigerin gelang es aber, ihren Wächtern<lb/>
+				zu entkommen: <space quantity="1" unit="char"/>sie sprang <del>aus dem fahrenden Zug</del> in der Nähe von<lb/>
+				Schwarzach-St.Veit aus dem fahrenden Zug, und mit einem leicht
+				</p>
+			<pb/>
+				<p>
+				- 5 -
+				</p>
+				<p>
+				verstauchten Fuß machte sie <del>i</del>sich auf den Weg nach Hause. <space quantity="1" unit="char"/>Auf diesem<lb/>
+				Gutsbesitz blieb sie auch, <space quantity="1" unit="char"/>vielleicht war die Blamage derart<lb/>
+				peinlich, daß die B<del>S</del>esatzungsmächte sie nunmehr in Ruhe liessen.<lb/>
+				Jedenfalls bis zu ihrem Besuch bei uns in <unclear>T</unclear>humersbach. <space quantity="1" unit="char"/>Jetzt<lb/>
+				wie bei allen Gesprächen damals war das Haupt<del>gesprächs</del>thema "Wie<lb/>
+				schlagen Sie sich durch?" <space quantity="1" unit="char"/><del>E</del>Für die Frau von X gar kein Problem:<lb/>
+				sie zeigte auf die prall gefüllte Handtasche und sagte lächelnd<lb/>
+				"Ich werde gegen alle Zeitungen prozessieren, die verleumderische<lb/>
+				Artikel über mich gebracht haben! <space quantity="1" unit="char"/>Als <del>a</del>Alternative oder vielleicht<lb/>
+				noch dazu, werde ich den Herausgebern das Leben so lange sauer<lb/>
+				machen, bis sie mir eine entsprechend hohe Entschädigung <del>be</del>zahlen."<lb/>
+				<space quantity="4" unit="char"/>Wie lang es dauerte, bis die resolute Frau von X auf ruhigeren<lb/>
+				Gewässern segeln konnte, würde<unclear><gap reason="illegible"></gap></unclear> ihr berühmter Sohn erzählen können.<lb/>
+				<space quantity="4" unit="char"/>Was macht man in einem Fall wie diesem: <space quantity="1" unit="char"/>Man geht allein in das<lb/>
+				tausend Jahre alte Gasthaus essen, und sieht sich im Speisesaal<lb/>
+				vor folgender Situation: <space quantity="1" unit="char"/>An allen Tischen bis auf einem sitzen<lb/>
+				Bauern die laut diskutieren. <space quantity="1" unit="char"/>An dem einen Tisch <del>sitzt</del> die Freundin<lb/>
+				eines SS-Generals, der jetzt auf der Anklagebank in Nür<del>e</del>nberg<lb/>
+				sitzt und auch hingerichtet wurde. <space quantity="1" unit="char"/>Also was nun? <space quantity="1" unit="char"/>Sich innerlich<lb/>
+				in Siegerpose werfen? <space quantity="1" unit="char"/>Moralische Entrüstung hin, Gulasch her:<lb/>
+				ich dachte:Für wen hältst Du Dich? <space quantity="1" unit="char"/>Sag schön Grüß Gott und setz<lb/>
+				Dich.<lb/>
+				<space quantity="5" unit="char"/>Natürlich sah ich diese Dame nie wieder, aber wir waren,<lb/>
+				als wir hörten, daß sie mit einem Rechtsanwalt nach Wien gefahren<lb/>
+				war, irgendwie froh.
+				</p>
+         		<p>
+         			Streichen!
+         		</p>
+         		<p>
+         	   <space quantity="5" unit="char"/>In einem Holzhäuschen, einer umgebauten Holzhütte wahrschein-<lb/>
+				lich, wohnten ein prominentes Mitglied des Soldatenrings, General H.<lb/>
+				mit seiner Frau. <space quantity="1" unit="char"/>Die Frau war angeblich eine Bauernmagd, die der<lb/>
+				General irgendwo in Lettland "aufgeklaubt" hatte. <space quantity="1" unit="char"/>Er lud gerne<lb/>
+				andere Herren zum Bridge ein, aber niemals durfte seine Frau sich<lb/>
+				dazusetzen. <space quantity="1" unit="char"/>Sie hatte zu bedienen und sich zurückzuziehen. <space quantity="1" unit="char"/>Er war ein<lb/>
+				Choleriker, und vielleicht ärgerte er sich über das Verschwinden<lb/>
+				seiner Ziege: <space quantity="1" unit="char"/>ein Zettel mit dieser Verlustmeldung klebte an der<lb/>
+				Türe der Milchausschankstelle. <space quantity="1" unit="char"/>Er schoß auch gern auf alles, das<lb/>
+				sich bewegte - meistens waren es Vögel. <space quantity="1" unit="char"/>Aber nicht immer. <space quantity="1" unit="char"/>Mein<lb/>
+				Mann machte mit einem Bekannten (er ging später in die <del>Me</del> Geschichte<lb/>
+				der Medizin ein) einen kurzen Spaziergang. <space quantity="1" unit="char"/>Sie schlenderten entlang<lb/>
+				der Straße zum Gasthaus Lohninghof, als plötzlich das unmißverständ<lb/>
+				liche Pfeifen eine<del>s</del>r Gewehrkugel<del>s</del> sie recht <del>iu</del> unsanft aus ihren
+				</p>
+			<pb/>
+				<p>
+				- 6 -
+				</p>
+				<p>
+				Zukunftsvisionen riss. <space quantity="1" unit="char"/>Ohne ein Wort zu verlieren warfen sich<lb/>
+				beide Männer auf den BOden, zwei weitere Schüße folgten dem ersten<lb/>
+				und dann war es still. <space quantity="1" unit="char"/>Was sollten sie jetzt tun? <space quantity="1" unit="char"/>Aufstehen,<lb/>
+				schreien, pro<del>o</del>testieren? <space quantity="1" unit="char"/>Darüber dachten sie nicht lange nach:<lb/>
+				sie k<del>o</del>rochen lieber den Straßengraben entlang bis sie endlich den<lb/>
+				Schutz des Gasthauses erreichten.
+				</p>
+				<p>
+				<space quantity="5" unit="char"/>Sobald es irgendwie möglich war wieder eine Reise zu machen,<lb/>
+				holten wir Jankos Hund <del>i</del>aus Niederösterreich ab. <space quantity="1" unit="char"/>Wie wir gefahren<lb/>
+				sind weiß ich nicht mehr; <space quantity="1" unit="char"/>einen Teil der Rückfahrt erlebten wir,<lb/>
+				das sehe ich noch vor mir, in einem überdeckten Lastwagen. <space quantity="1" unit="char"/>Zwei<lb/>
+				Sitzbänke standen zu beiden Seiten des Inneren des vollbesetzten<lb/>
+				Wagens. <space quantity="1" unit="char"/>Der Hund saß auf Jankos Schoß. <space quantity="1" unit="char"/>Vielmehr: <space quantity="1" unit="char"/>die Hündin -<lb/>
+				Raika.
+				<space quantity="5" unit="char"/>Die Raika galt als politisch verfolgt. <space quantity="1" unit="char"/>In den letzten Kriegs-<lb/>
+				tagen war sie von SS-Männern mitgenommen worden, und als sie<lb/>
+				entkommen konnte, fand sie sich nicht mehr zurecht. <space quantity="1" unit="char"/>Die allgemeine<lb/>
+				Richtung, die sie einschlug, war aber die richtige, und nach einiger<lb/>
+				Zeit landete sie bei einem Jäger. <space quantity="1" unit="char"/><del>e</del>Er überlegte, wo sie hergekommen<lb/>
+				sein könnte, und bald war sie wieder zu Hause - besser<del>S</del>: sie war<lb/>
+				nicht in Fridau sondern in der Loich, jenem winzigen Seitental des<lb/>
+				Pielachtals, wohin die Hausleute geflohen waren. <space quantity="1" unit="char"/>Raika war ein<lb/>
+				englischer Setter, grau-weiß, sanftmütig und sensibel. <space quantity="1" unit="char"/>Ihr Leben<lb/>
+				lang ist es ihr nicht ganz gelungen, die Bomben zu vergessen, so<lb/>
+				daß jedes Gewitter für sie eine Tortur bedeutete. <space quantity="1" unit="char"/>Ich setzte nun<lb/>
+				alles daran, ihr Wohlwollen zu gewinnen, an sich kein schwieriges<lb/>
+				Unternehmen: <space quantity="1" unit="char"/>Raika besaß eine Vertrauensseligkeit, die keine<lb/>
+				schlechten Erfahrungen mit Besatzern und Besetzten zu erschüttern<lb/>
+				vermochte<del><unclear>.</unclear></del>n.<lb/>
+				<space quantity="4" unit="char"/>Eines Tages aber ist ihr wachsendes Vertrauen zu mir auf das<lb/>
+				tiefste verunsichert worden. <space quantity="1" unit="char"/>Es war gegen Abend. <space quantity="1" unit="char"/><del>SI</del>Ich sah vom<lb/>
+				Fenster auf den Garten hinaus. <space quantity="1" unit="char"/>Die Gartentür kreischte leise<lb/>
+				und ein grauer, länglicher Schatten huschte an den Dahlien vorbei,<lb/>
+				sprang in einem großen Bogen über die Kohlrüben und blieb beim<lb/>
+				<del>m</del>Misthaufen stehen. <space quantity="1" unit="char"/>Die graue Gestalt trug offensichtlich etwas im
+				</p>
+			<pb/>
+				<p>
+				- 7 -
+				</p>
+				<p>
+				Maul, aber was,,habe ich in der Abenddämmerung nicht feststellen<lb/>
+				können. <space quantity="1" unit="char"/>Jedenfalls <del>prüfte</del>spähte die Gestalt prüfend um sich und grub ihren<lb/>
+				Schatz im Misthaufen ein. <space quantity="1" unit="char"/>Am nächsten Tag hatte ich die Sache fast<lb/>
+				vergessen, aber gegen Mitt<del>t</del>ag besann ich mich darauf und forschte im<lb/>
+				Misthaufen nach. <space quantity="1" unit="char"/>Zum Vorschein kam endlich ein Schwarzbrot, ein<lb/>
+				großes, herrliches Stück Schwarzbrot, vielleicht dreiviertel Kilo<lb/>
+				schwer. <space quantity="2" unit="char"/>Wunderbar! <space quantity="1" unit="char"/>Naiv wie ich war, mißachtete ich die warnende<lb/>
+				Stimme, die ich innerlich ganz deutlich hörte, und weichte das Brot<lb/>
+				in einer Suppe ein, die ich schon vorbereitet hatte. <space quantity="1" unit="char"/>Kurz darauf<lb/>
+				tauchte Raika in der Küche auf, ihre Freude war groß als ich ihr die<lb/>
+				gute Suppe, durch den Zusatz von Brot sättigend gemacht, vorsetzte.<lb/>
+				Sie war mit mir sehr zufrieden, <del>i</del>und es war erst gegen Abend, als sie<lb/>
+				sich an ihren verborgenen Schatz erinnerte und zum Misthaufen ging.<lb/>
+				Zuerst vergewisserte sie sich, daß sie unbeobachtet war; <space quantity="1" unit="char"/>mich,<lb/>
+				bangen Herzens hinter einem Vorhang versteckt, merkte sie nicht.<lb/>
+				Es dauerte eine Weile, bis sich wachsender Verdacht in grauenvolle<lb/>
+				Gewißheit v<del>l</del>erwandelt hatte. <space quantity="1" unit="char"/>Das Brot war weg! <space quantity="1" unit="char"/>Ich rief sie.<lb/>
+				Sie drehte sich um, stand stockstill, fast atemlos, und blickte in<lb/>
+				meine Augen. <space quantity="1" unit="char"/>Ich lachte nervös. <space quantity="1" unit="char"/>"Raika, alte", sagte ich. "Schau!'<lb/>
+				Du hast es selber gefressen!" <space quantity="1" unit="char"/>Aber Raika war die Enttäuschung,<lb/>
+				der Vorwurf in Person. <space quantity="1" unit="char"/>Sie drehte sich um, ging langsamen Schrittes<lb/>
+				ins Haus und<gap reason="illegible"></gap>auf ihren Platz. <space quantity="1" unit="char"/>Drei Tage lang sprach sie kein Wort<lb/>
+				mit mir.<lb/>
+				<space quantity="5" unit="char"/>Bald war es so weit, und Raika brachte eine Familie zur Welt.<lb/>
+				Es dauerte die ganze Nacht,, und wer behauptet, die Tiere können<lb/>
+				nicht so schwer darunter leiden wie öwir, i<del>i</del>rrt sich. <space quantity="1" unit="char"/>Raika kaute<lb/>
+				an ihrer Kiste, bis die SHolzspäne im ganzen Zimmer herumlagen.<lb/>
+				Ihre Augen waren wie verschleiert, sie keuchte und atmete schnell,<lb/>
+				manchmal lief sie wi<del>k</del>nselnd im Kreis herum, um sich dann auf<lb/>
+				ihr Kissen hinzuwerfen, wo sie erschöpft und fast regungslos lag.<lb/>
+				Wir massierten sie, wir sprachen tröstende Worte zu ihr, wir<lb/>
+				hielten ihre Pfoten. <space quantity="1" unit="char"/>Wir gaben ihr öfter etwas Tee zum Trinken<lb/>
+				und einmal auch Kognak, um ihr Herz zu stärken. <space quantity="1" unit="char"/>Langsam sind<lb/>
+				wir auch müde geworden; <space quantity="1" unit="char"/>nicht nur wir. <space quantity="1" unit="char"/>Ich weiß nicht mehr, wer<lb/>
+				noch mit im Zimmer war. <space quantity="1" unit="char"/>Menschen, die ihre Heimat, ihr Hab und<lb/>
+				Gut verloren hatten, die aber in dieser Nacht einfach keinen Schlaf<lb/>
+				fanden. <space quantity="1" unit="char"/>Um vier Uhr früh war das erste Hündchen da, Raika spürte<lb/>
+				<del>Rt</del>Erleichterung und der Moment war gekommen, ein<del>n</del>en Haferbrei für die
+				</p>
+			<pb/>
+				<p>
+				- 8 -
+				</p>
+				<p>
+				ganze Menschengruppe zu kochen. <space quantity="1" unit="char"/>Der Tag brach an und die Familie<lb/>
+				war komplett. <space quantity="1" unit="char"/>Raika freute sich unsäglich. <space quantity="1" unit="char"/>In unserem Leben sollten<lb/>
+				die Hündchen alle eine Rolle spielen, vor allem Pfefferl, der nach<lb/>
+				Raikas Tod zu uns kommen sollte.<lb/>
+				<space quantity="4" unit="char"/>Und Blondi. <space quantity="1" unit="char"/>Blondi ein leichtes Mädchen zu nennen, wäre<lb/>
+				vielleicht ungerecht gewesen. <space quantity="1" unit="char"/>Aber das Abenteuer lockte sie.<lb/>
+				Die kleine Ortschaft Thumersbach, die ihrer Mutter so viele Kontakte<lb/>
+				geboten, die mit einem Wort ihr die Welt bedeutete, war in den Augen<lb/>
+				der Blondi zu fad. <space quantity="1" unit="char"/>Die Lichter der großen Welt winkten. <space quantity="1" unit="char"/>Ami-Hunde,<lb/>
+				Hinterhöfe, Metzgereien, Bars, kurz Zell-am-See bot der B<del>L</del>londi einen<lb/>
+				Wirbel, der ihr keine Ruhe ließ. <space quantity="1" unit="char"/>Und das<gap reason="illegible"></gap>Transportmittel, das,<lb/>
+				wenn man den mühsamen Weg um den See scheute, zu diesen lasterhaften<lb/>
+				Verlockungen führte, war das Schiff. <space quantity="1" unit="char"/>Zum Landungssteg war es von<lb/>
+				unserer Wohnung aus nicht weit, und Blondi hatte bald die Gewohnheit,<lb/>
+				nachm<del><gap reason="deleted"></gap></del>ittags hinüber und abends mit dem letzten Boot zurückzufahren.<lb/>
+				Offenbar hat sie längere Zeit versucht, Raika zu überreden, mitzu-<lb/>
+				fahren. <space quantity="1" unit="char"/>Manchmal begleitete Raika ihre Tochter sogar bis zum<lb/>
+				Landungssteg, aber Blondi stieg zum <del>s</del>Schluß immer allein ein, und<lb/>
+				Raika kehrte nach Hause zurück. <space quantity="1" unit="char"/>Eines Tages gab sie nach.<lb/>
+				<space quantity="4" unit="char"/>Was die beiden an einem spätsommerlichen Nachmittag unternomm<del>m</del>en<lb/>
+				hatten, konnten wir, al<del><gap reason="deleted"></gap></del>lerdings lückenhaft, später rekonstruieren.<lb/>
+				Blondi, mit dem Sommerfahrplan des Schiffes völlig vertraut, hatte<lb/>
+				etwas Wichtiges übersehen. <space quantity="1" unit="char"/>Während des Sommers war nämlich die<lb/>
+				"Libelle" noch bis neun Uhr abends gefahren. <space quantity="1" unit="char"/>An diesem Tag aber,<lb/>
+				da Raika die Verlockungen der Großstadt und dem Flehen ihrer Tochter<lb/>
+				nachgegeben hatte, war der Winterfahrplan in Kraft getreten. <space quantity="1" unit="char"/>Das<lb/>
+				neun-Uhr-Boot gab es also nicht mehr, und das hat Blondi nicht<lb/>
+				gewußt. <space quantity="1" unit="char"/>Kurz vor neun Uhr trafen <del>ed</del> die beiden bei<unclear><del><gap reason="deleted"></gap></del></unclear>m Landungssteg<lb/>
+				in Zell-am-See <del>e</del>pünktlich ein, setzten sich nieder und warteten.<lb/>
+				Es <del>n</del>begann zu regnen, ihren ängstlichen Blicken bo t sich weit und<lb/>
+				breit nichts als der leere See. <space quantity="1" unit="char"/>D<hi rend="underline">e</hi>r Regen tropfte von ihren<lb/>
+				Schnauzen und von ihren langen, seidigen Ohren herunter, aber sie<lb/>
+				harrten aus. <space quantity="1" unit="char"/>Bis sie endlich beschlossen, in den sauren Apfel zu<lb/>
+				beißen und den langen Weg um den See anzutreten. <space quantity="1" unit="char"/>Es war schon<lb/>
+				halb elf, als Raika, klitschnaß, verärgert und unendlich verlegen,<lb/>
+				die Ohren ganz flach an ihrem Kopf zurückgelegt, zu uns hereineilte<lb/>
+				und, ohne uns zu grüßen, sich auf ihren Platz hinwarf.<lb/>
+				<space quantity="5" unit="char"/>Der <del><gap reason="deleted"></gap></del>See war unser Leben. <space quantity="1" unit="char"/>Niemand besaß ein Auto und der<lb/>
+				Autobus verkehrte nur sporadisch. <space quantity="1" unit="char"/>Dafür gab es, wie gesagt, die
+				</p>
+			<pb/>
+				<p>
+				- 9 -
+				</p>
+				<p>
+				"Libelle" ns<del>a</del>ch deren genauen Position jede<del>e</del>r <del>_</del>Thumersbacher die<lb/>
+				Tageszeit zu kontrollieren pflegte. <space quantity="1" unit="char"/>"Ah! Sie ist unterwegs zur<lb/>
+				Belvedere: <space quantity="1" unit="char"/>schätzungsweise elf Uhr acht." <space quantity="1" unit="char"/>Es war eine praktische<lb/>
+				Sache, da nicht alle Armbanduhren die Wirrnisse von Umbruch und<lb/>
+				Besatzung ohne Besitzerwechsel überstanden hatten.<lb/>
+				<space quantity="4" unit="char"/>Sonst fuhr man mit dem eigenen oder geborgten Ruderboot. <space quantity="1" unit="char"/>Es<lb/>
+				waren jene flachen, kiellosen Boote, die Einheimische im alten Stil<lb/>
+				mit dem langen, schaufelförmigen Ruder vom Heck aus steuerten.<lb/>
+				Diese Methode - der Anfänger fährt hilflos im Kreis - ist wahrlich<lb/>
+				nicht jedermanns Sache, aber Ruderklampen und Ruder waren auch<lb/>
+				vorhanden. <space quantity="1" unit="char"/>Es war herrlich: <space quantity="1" unit="char"/>draußen auf dem See, etwa in der Mitte,<lb/>
+				überkam mich immer wieder ein Gefühl der Befreiung. <space quantity="1" unit="char"/>Die Berge hielten eine<lb/>
+				gewiße Distanz, das Steinerne Meer im Norden, das Kitzsteinhorn im<lb/>
+				Süden, in der Mitte ich, möwenfrei.<lb/>
+				<space quantity="5" unit="char"/>Kam der Winter - und was waren das für Winter, 1946/47 und<lb/>
+				1947/48 - war das Dauergesprächsthema bis Jänner, oft ziemlich spät,<lb/>
+				Wann friert der See zu? <space quantity="1" unit="char"/>Und war es schon soweit, ist das Eis schon<lb/>
+				tragfähig? <space quantity="1" unit="char"/>Wir kan<del>t</del>nten bald die Löcher im Eis dort, wo warme Gase<lb/>
+				vom Grund heraufsteigen: <space quantity="1" unit="char"/>sie hatten oft Namen, wie "das Pfaffenloch",<lb/>
+				und wurden durch alte C<del><gap reason="deleted"></gap></del>hristbäume oder Laub gekennzeichnet.<lb/>
+				Im Frühjahr ging <del>die</del> das Gespräch weiter: Ist die Eisfläche noch<lb/>
+				tragfähig?<lb/>
+				<space quantity="4" unit="char"/><del><gap reason="deleted"></gap>lle, die den Zeller See gut kennen</del><lb/>
+				<space quantity="5" unit="char"/>Nach Saalfelden bei Bekannten eingeladen, sind mein Mann und ich<lb/>
+				an einem Frühlingstag hingefahren und Raika war mit dabei. <space quantity="1" unit="char"/>Der See<lb/>
+				war noch zugefroren, und am Vormittag sind wir ohne weiteres hinüber-<lb/>
+				gekommen. <space quantity="1" unit="char"/>Alle, die den Zeller See gut kennen, wissen aber, daß er<lb/>
+				sich, besonders in der Übergangszeit von einer Stunde zur anderen<lb/>
+				völlig verwandeln kann. <space quantity="1" unit="char"/>Dazu genügt ein plötzlicher Föhneinbruch,<lb/>
+				daß aus einer funkelnd<del>d</del>en, schneebedeckten Fläche ein wäßriger Sumpf<lb/>
+				wird. <space quantity="1" unit="char"/>An jenem Tag ist mein Mann nach Wien weitergefahren während<lb/>
+				Raika und ich mit dem <del>B</del>Personenzug nach Zell zurückkehrten. <space quantity="1" unit="char"/><gap reason='illegible'/>Der See,<lb/>
+				sofern das Mondlicht nicht dann und wann durch Föhnwolken bedeckt<lb/>
+				wurde, bot ein unheimliches Bild. <space quantity="1" unit="char"/>Das Eis am Ufer war der warmen<lb/>
+				Luft gewichen. <space quantity="1" unit="char"/>Man hatte ein paar Bretter hingelegt, die aber zu<lb/>
+				einer Eisfläche führte, die nicht trittfest war, sondern aus einer<lb/>
+				harschigen, pappigen Masse bestand, die - man hoffte es zumindest -<lb/>
+				auf einem festen Untersatz ruhte. <space quantity="1" unit="char"/>Überall<unclear>l</unclear>waren offene Wasserflächen<lb/>
+				zu sehen. <space quantity="1" unit="char"/>Raika legte die Ohren zurück. <space quantity="1" unit="char"/>"<gap reason="illegibile"></gap>Na also los!" sagte ich.<lb/>
+				In Wirklichkeit war die Sache nicht so gefährlich, wie man meinen
+				</p>
+			<pb/>
+				<p>
+				- 10 -
+				</p>
+				<p>
+				könnte. <space quantity="1" unit="char"/>Die riesige Eisfläche des Sees war, das wußte ich, noch<lb/>
+				nicht im Begriff, sich aufzulösen. <space quantity="1" unit="char"/><del>-</del>Das Schmelzen beginnt am Ufer,<lb/>
+				und so lang es einem gelingt, auf die<gap reason="illegibile"></gap>feste Eisfläche <del>zu</del> hinauszu-<lb/>
+				kommen, und sei sie auch von Wasser oder von einer falschen, dünnen<lb/>
+				Eisfläche mit dazwischenliegendem Wasser bedeckt, kann nichts<lb/>
+				passieren; <space quantity="1" unit="char"/>vorausgesetzt, daß man am direkten Weg bleibt.<lb/>
+				<space quantity="5" unit="char"/>Wirkliche Gefahren stellen noch die Wasserlöc<del>j</del>her dar, die von<lb/>
+				heraufsteigendem Gas verursacht, auch in der kältesten Zeit da sind<lb/>
+				und sich in der Übergangszeit ausb<del>w</del>reiten. <space quantity="1" unit="char"/>Tatsächlich sind wir vom<lb/>
+				Ufer weg und auf festem Boden gekommen, nicht ohne reichlich naß zu<lb/>
+				werden. <space quantity="1" unit="char"/>Raika war sehr unglücklich. <space quantity="1" unit="char"/>Sie tastete bei jedem Schritt,<lb/>
+				den sie machte, ob das Eis ihr Gewicht tr<del>r</del>agen würde. <space quantity="1" unit="char"/>Ich sagte<lb/>
+				ungeduldig: <space quantity="1" unit="char"/>"Geh - wenn es mich trägt, trägt es Dich auch!"<lb/>
+				<space quantity="5" unit="char"/>Ich beeindruckte sie aber offenbar nicht im geringsten. <space quantity="1" unit="char"/>Wir<lb/>
+				marschierten weiter. <space quantity="1" unit="char"/>Der Wind hob sich, der See ließ an diesem Abend<lb/>
+				wirklich nichts unversucht, um uns das Gruseln beizubringen. <space quantity="1" unit="char"/>Er<lb/>
+				grunzte, brummte und heulte, wie er es manchmal tut, wenn der Dr<del><gap reason="deleted"></gap></del>uck<lb/>
+				im Eis große S<del><gap reason="deleted"></gap></del>pannungen auslöst. <space quantity="1" unit="char"/>Gigantische Urtiere röhrten,<lb/>
+				Wolfsscharen hockten weit weg auf dem See und jaulten dem Mond zu.<lb/>
+				Die Raika schüttelte es und ich dachte: <space quantity="1" unit="char"/>"Du guter Hund, der du<lb/>
+				tapfer dahinstapfst, du wärest für dein Leben gern am Ufer zurück-<lb/>
+				geblieben, willst mich aber nicht allein lassen."<lb/>
+				<space quantity="5" unit="char"/>Ü<del>t</del>bera<del>o<gap reason="deleted"></gap></del>ll waren riesige schwarze Flächen zu sehen, die wie offenes<lb/>
+				Wasser aussahen, aberödie Vernunft sagte mir, daß es nur Stellen<lb/>
+				waren, wo der Schnee geschmolzen <del>war</del> und blankes Eis zurückgeblieben<lb/>
+				war. <space quantity="1" unit="char"/>Wir sind auf dem meistfrequentierten, dem sogenannten<lb/>
+				Lohninghofweg gegangen, aber es erwies sich, daß das Thumers<del>n</del>bacher<lb/>
+				Ufer infolge der weiter fortgeschrittenen Schmelze noch viel<lb/>
+				unheimlicher war; <space quantity="1" unit="char"/>noch dazu ist der See da drüben sehr tief.<lb/>
+				Was tun also? <space quantity="1" unit="char"/>Zurückkehren, wo wir n<del>j</del>ur dreissig Meter vom Ufer<lb/>
+				entfernt waren, und den ganzen langen Weg um den See antreten?<lb/>
+				Feiger Gedanke! <space quantity="1" unit="char"/>Raika setzte sich hin und wartete. <space quantity="1" unit="char"/>Dann brummte<lb/>
+				sie ganz leise.<lb/>
+				<space quantity="4" unit="char"/>Ein dunkler Fleck hob sich allmählich gegen den finsteren<lb/>
+				Hintergrund ab und kam langsam auf uns zu. <space quantity="1" unit="char"/>Zum erstenmal seit<lb/>
+				einer halben Stunde atmete ich ganz tief ein. <space quantity="1" unit="char"/>"Brauchen S´ ka Angst<lb/>
+				haben", sagte der Reiterbauer. <space quantity="1" unit="char"/>"Bleiben S´ auf den Bretteln, dann<lb/>
+				passiert nix."
+				</p>
+			<pb/>
+				<p>
+				- 11 -
+				</p>
+				<p>
+				<space quantity="5" unit="char"/>Am Ufer angelangt, setzte sich Raika wieder hin und begann, sich<lb/>
+				sorgfältig undmmit übertriebene<del>n</del>m <del>Eifer</del> Kraftaufwand hinter den Ohren<lb/>
+				zu kratzen. <space quantity="1" unit="char"/>Sie stand auf und beutelte sich gründlich durch, zuerst<lb/>
+				vorn, dann hinten. <space quantity="1" unit="char"/>Dann trat sie den Heimweg an. <space quantity="1" unit="char"/>(Die Pr<del>o</del>esse,<lb/>
+				31 Dezember 1961.)
+				</p>
+				<p>
+				<space quantity="28" unit="char"/>-----------
+				</p>
+				<p>
+				<space quantity="4" unit="char"/>Der Winter <del>9</del>1946/47 war besonders streng. <space quantity="1" unit="char"/>In unserer Küche <del>glich</del><lb/>
+				<del>einem Iglu,</del> mußte man das benützte Geschirr sofort abwaschen, sonst waren<lb/>
+				die Teller nicht mehr auseinander zu bringen. <space quantity="1" unit="char"/>Die Zimmer führten<lb/>
+				direkt ins Freie, die einfachen Türen schloßen schlecht, dasselbe<lb/>
+				galt für die Fenster. <space quantity="2" unit="char"/>Doch war es in Thumersbach um nichts ärger<lb/>
+				als Anfang des Jahres in Wien. <space quantity="1" unit="char"/>Janko hatte mich d<del><gap reason="deleted"></gap></del>ort besucht und<lb/>
+				er staunte nicht wenig darüber, daß eine Besatzungsmacht so schlecht<lb/>
+				wohnen könnte. <space quantity="1" unit="char"/>Er sah die fehlen<del>e</del>de Fensterscheibe und das feuchte,<lb/>
+				kaum brennbare Holz aus der Steiermark, und meinte, die Briten wären<lb/>
+				als Sieger wie Waisenkinder, sie sollten einen Blick auf die Russen<lb/>
+				werfen. <space quantity="1" unit="char"/>(Nach mehr oder weniger gründlicher Plünderung war ein<lb/>
+				Kontingent zur Zeit in FRID<unclear>AU</unclear> damit beschäftigt, die Balken im Dachboden<lb/>
+				herauszuschneiden. <space quantity="1" unit="char"/>Die Einwände der Besitzerin, sie könnten Holz<lb/>
+				haben soviel sie wollten, ignorierten sie. <space quantity="1" unit="char"/>Zum Anzünden gab es auch<lb/>
+				ma<del>ß</del>ssenhaft Papier, die beiden Bibliotheken, die Alte und die Moderne.)<lb/>
+				<space quantity="5" unit="char"/>In London hatte man auch gefroren, im Büro vor allem; <space quantity="1" unit="char"/>so<lb/>
+				gesehen gab es in Thumersbach keinen Grund sich zu beklagen. <space quantity="1" unit="char"/>Wirklich<lb/>
+				arg war nur der Ausfall des Klosetts. <space quantity="1" unit="char"/>Einige Wochen lang gab es zwei<lb/>
+				Möglichkeiten: <space quantity="1" unit="char"/>einen Kübel in der Küche oder einen Spaziergang<lb/>
+				zum auf einer Anhöhe in etwa 250 Meter stehenden Hotel Bellevue.<lb/>
+				Das Haus war eben nicht winterfest. <space quantity="1" unit="char"/>Bei klarem Wetter vergaß man<lb/>
+				alle P<del>S</del>robleme, unter blauem Himmel glitzerten die Gletscher des<lb/>
+				Kitzsteinhorn und des Hohen <unclear>T</unclear>enn, funkelte die schneebedeckte Eisfläche<lb/>
+				des Sees. <space quantity="1" unit="char"/>Einmal fror das Wasser <space quantity="1" unit="char"/>so zu, daß die südliche Hälfte<lb/>
+				offen blieb. So konnte es geschehen, daß ich mit dem Boot nach Zell<lb/>
+				hinüberfuhr, während mein Mann parallel zu mir den See mit Ski<lb/>
+				überquerte. <space quantity="1" unit="char"/>Ich<unclear>c</unclear>fand das lustig, und fragte Janko ob er die Situation<lb/>
+				auch als bemerkenswert sehe. <space quantity="1" unit="char"/>Und bekam die t<del>p</del>ypische Antwort:"Was<lb/>
+				soll da bemerkenswert sein? <space quantity="1" unit="char"/>Umg<unclear><del><gap reason="deleted"></gap></del></unclear>ekehrt wäre interessanter."<lb/>
+				<space quantity="5" unit="char"/>Allmählich besserte sich die Lage. <space quantity="1" unit="char"/>Unser S<del><gap reason="deleted"></gap></del>ohn kam auf die Welt,<lb/>
+				die Schwäne mußten nicht mehr durch die Bahnunterführung und die<lb/>
+				Seestraße hinauf, um vor der Bäckerei Schlange zu stehen. <space quantity="1" unit="char"/>1949 konnte
+				</p>
+			<pb/>
+				<p>
+				- 12 -
+				</p>
+				<p>
+				man die ersten zarten Knospen eines neuen Fremdenverkehrszeitalters<lb/>
+				beobachten. <space quantity="1" unit="char"/>Man fühlte sich nicht mehr isoliert. <space quantity="1" unit="char"/>Mein junger<lb/>
+				Bruder John, der noch bei seinem Regiment in Deutschland diente<lb/>
+				kam zu Besuch und wohnte im Lohninghof. <space quantity="1" unit="char"/>Spät abends, er lag schon<lb/>
+				im Bett, ging eine Türe auf und das monotone Stimmengewirr aus<lb/>
+				dem Speisesaal wurde plötzlich laut und aggressiv. <space quantity="1" unit="char"/>Jemand schrie<lb/>
+				nach Hilfe, man hörte Schritte, Proteste. <space quantity="1" unit="char"/>Mein Bruder sprang aus<lb/>
+				seinem Bett, warf seinen Uniformmantel um die Schulter, lief auf<lb/>
+				den Gang hinaus und blickte hinunter. <space quantity="1" unit="char"/>In dem Augenblick wurde eine<lb/>
+				bl<del>i<gap reason="deleted"></gap></del>utüberströmte Figur aus dem Speisesaal getragen, John schritt<lb/>
+				in den Saal und rief mit paradeplatz-Stimme in die Menschenmenge<lb/>
+				(auf englisch): <space quantity="1" unit="char"/>"RUHE! <space quantity="1" unit="char"/>Sonst schleppe ich <del>s</del>Sie allesamt in den<lb/>
+				Klinkenputz!"<lb/>
+				<space quantity="4" unit="char"/>Ich sah meinen Bruder verdutzt an. <space quantity="1" unit="char"/>"<hi rend="underline">Wo</hi>hin wolltest Du sie<lb/>
+				schicken?" fragte ich. <space quantity="1" unit="char"/>"In den <hi rend="underline">was</hi>?"<lb/>
+				<space quantity="4" unit="char"/>"In den Klinkenputz. <space quantity="1" unit="char"/>Oben gibt es ein Gefängnis das <del><gap reason="deleted"></gap></del>so heißt,<lb/>
+				und ich habe geglaubt, das wäre das deutsche Wort dafür. <space quantity="1" unit="char"/>Dieses<lb/>
+				Wort würden auch die Menschen hier verstehen."<lb/>
+				<space quantity="4" unit="char"/>"Kein Wort haben sie verstanden."<lb/>
+				<space quantity="4" unit="char"/>"Macht nichts. <space quantity="1" unit="char"/>Angebrüllt worden sind sie alle so<del>e</del>wieso gewesen,<lb/>
+				nehme ich an, jedenfalls wurden sie still."<lb/>
+				<space quantity="5" unit="char"/>Freunde tauchten allmählich aus allen Richtungen auf, brachten<lb/>
+				aber natürlich kein Geld ins Haus, ein<del>e</del>mal einen Hasen als Mitbringsel<lb/>
+				oder ein Whisky aus dem amerikanischen "PX". <space quantity="1" unit="char"/>Wir meldeten uns bei<lb/>
+				dem neugeborenen Fremdenverkehrsbüro und tatsächlich wurden einige<lb/>
+				potentielle Gäste zu uns geschickt. <space quantity="1" unit="char"/>Da wir außer zwei Betten nicht<lb/>
+				viel zu bieten hatten (kein eigenes Klo, eine Sitzwanne in für <del>w</del>sie<lb/>
+				nur mühsam erreichbarer Lage) verschwanden die Gäste nach kürzeste<del>r</del>m<lb/>
+				Aufenthalt wieder. <space quantity="2" unit="char"/>Als Fluchtmöglichkeit bot sich wegen Einquar-<lb/>
+				tierung<del>en</del> von Flüchtlingen das Hotel Bellevue nicht. <space quantity="1" unit="char"/>Ein zweites<lb/>
+				kleines Hotel war zu einem überraschend günstigen Zeitpunkt nieder<lb/>
+				gebrandt, und schließlich gab<gap reason="illegible"></gap>es nur das Hotel Kitzsteinhorn.<lb/>
+				<space quantity="4" unit="char"/>"Der nächste Gast" stellte Janko fest, der sich so davonschleicht,<lb/>
+				den hän<del>t</del>ge ich an diesem Baum auf, mit einer Tafel um den Hals:<lb/>
+				`Er wollte auch ins Kitzsteinhorn´."<lb/>
+				<space quantity="5" unit="char"/>Später, aber 1952, wohnten wir im eigenen Haus <space quantity="1" unit="char"/>im oberen<lb/>
+				Schmittental nahmen paying guests auf, doch nur aus dem eigenen
+				</p>
+			<pb/>
+				<p>
+				- 13 -
+				</p>
+				<p>
+				Bekanntenkreis. <space quantity="1" unit="char"/>Allerdings wurden wir auch dadurch nicht reich:<lb/>
+				die Gäste waren entweder gute Freunde beziehungsweise Opfer der<lb/>
+				britischen Devisenrestriktionen, oder mittellose österreich-ungarische<lb/>
+				Adelige. <space quantity="1" unit="char"/>Es kam mir nicht selten<gap reason="illegibile"></gap>vor, daß unter acht Schnitzel<lb/>
+				auf dem Tisch nur eines voll bezahlt war. <space quantity="1" unit="char"/>Alles das lag indes<lb/>
+				in der Zukun<del>n</del>ft.<lb/>
+				<space quantity="5" unit="char"/>Zur damaligen Zeit interessierte sich Janko wenig für den<lb/>
+				Tourismus. <space quantity="1" unit="char"/>Er hatte einen Roman geschrieben - meine erste Aufgabe<lb/>
+				war, ihn abzuschreiben - er wollte nicht nur Journalist sein<lb/>
+				und hegte literarische Ambitionen. <space quantity="1" unit="char"/>Mit recht, aber er war nicht<lb/>
+				bereit, den Text zu kürzen und blieb auf dem Manuskript sitzen.<lb/>
+				Eines Tages stand er zufällig, verträumt und wahrscheinlich ein wenig<lb/>
+				verärgert, vor dem Haus und genoß den schönen Frühlingssonne.<lb/>
+				Plötzlich ging das Gartentürl auf und eine fremde Dame kam auf ihn<lb/>
+				zu. <space quantity="1" unit="char"/>"Entschuldigen Sie" sagte sie <del>fru<gap reason="deleted"></gap></del> lächelnd, "wohnt hier die<lb/>
+				Witwe des Dichters?"<lb/>
+				<space quantity="4" unit="char"/>Mein Mann sah sie leicht verwirrt an, legte die Hand schützend<lb/>
+				auf die <del>eigene</del> Brust und antwortete: <space quantity="1" unit="char"/>"Mein Gott, mir wird doch<lb/>
+				nichts passiert sein?"<lb/>
+				</p>
+         </div>
+      </body>
+   </text>
+</TEI>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
