@@ -6,10 +6,11 @@
     </acdh:Constanst>
     <acdh:TopCollection rdf:about="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
         <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-C343-A</acdh:hasPid>
-        <acdh:hasTitle xml:lang="en">Auden Musulin Papers</acdh:hasTitle>
+        <acdh:hasTitle xml:lang="en">Auden Musulin Papers: A Digital Edition of W. H. Auden's Letters to Stella Musulin</acdh:hasTitle>
         <acdh:hasDescription xml:lang="en">Project description</acdh:hasDescription>
         <acdh:hasContact rdf:resource="https://d-nb.info/gnd/1024881253"/>
         <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1024881253"/>
+        <acdh:hasActor rdf:resource="https://d-nb.info/gnd/127246711"/>
         <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1024881253"/>
         <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
         <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1967-01-01</acdh:hasCoverageStartDate>
@@ -57,6 +58,11 @@
             <acdh:hasLastName xml:lang="und">Frühwirth</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Timo</acdh:hasFirstName>
         </acdh:Person>
+        <acdh:Person rdf:about="https://d-nb.info/gnd/127246711">
+            <acdh:hasTitle xml:lang="und">Stella Musulin</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Musulin</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Stella</acdh:hasFirstName>
+        </acdh:Person> 
     </acdh:MetaAgents>
     <!-- mandatory properties shared by acdh:Collection AND acdh:Resource -->
     <acdh:RepoObject>
