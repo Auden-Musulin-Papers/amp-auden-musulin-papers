@@ -21,6 +21,7 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: created auden and musulin timeline xml
-        branch: master
+        branch: main
         skip_dirty_check: true    
         skip_fetch: true
+        file_pattern: .
