@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="tei2html">
+   <xslt in="./data/meta/about.xml" out="./data/meta/amp-timeline__0001.xml" style="./xsl/timeline.xsl">
+      <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+      <classpath location="${basedir}/saxon/saxon9he.jar"/>
+   </xslt>
+   <xslt in="./data/meta/about.xml" out="./data/meta/amp-timeline__0002.xml" style="./xsl/timeline_musulin.xsl">
+      <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+      <classpath location="${basedir}/saxon/saxon9he.jar"/>
+   </xslt>
+   <xslt in="./data/meta/amp-timeline__0001.xml" out="./data/meta/auden-biography.xml" style="./xsl/timeline-sort.xsl">
+      <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+      <classpath location="${basedir}/saxon/saxon9he.jar"/>
+   </xslt>
+   <xslt in="./data/meta/amp-timeline__0002.xml" out="./data/meta/musulin-biography.xml" style="./xsl/timeline-sort.xsl">
+      <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+      <classpath location="${basedir}/saxon/saxon9he.jar"/>
+   </xslt>
+</project>
