@@ -116,7 +116,7 @@ for any purpose, even commercially.</p>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb/>
+            <pb/><!-- anp-cvl_2r-b/ad-g.tif -->
                <lg>
                   <l><gap quantity="1" unit="char"/><unclear>A</unclear>ll folk-t<unclear>a</unclear>les mean that end with</l>
                   <l><gap quantity="4" unit="char"/>A palace wed<unclear>d</unclear>ing,</l>
@@ -147,7 +147,12 @@ for any purpose, even commercially.</p>
                <lg>
                   <l><unclear>M</unclear>ay <unclear>H</unclear>ymen from jealousy's</l>
                   <l><gap quantity="4" unit="char"/>Teratoid ph<gap/>n<del><unclear>r</unclear></del>tasms,</l>
-                  <l><gap/><unclear>o</unclear><gap/>petitive sc nos and </l>
+            <pb/><!-- anp-cvl_2r-a/ad-g.tif -->      
+                  <l><gap/>o<gap/>p<unclear>e</unclear>tit<del>v<unclear>e</unclear></del>ive s<unclear>ce</unclear>n<unclear>e</unclear>s <unclear>a</unclear>nd su<gap/><unclear>s,</unclear></l>
+                  <l><gap quantity="4" unit="char"/><unclear>A</unclear>nd pride's monologu<unclear>e</unclear></l>
+                  <l>That won't listen but demands</l>
+                  <l>Tautological echoes,</l>
+                  <l><gap quantity="4" unit="char"/><gap/>ver <unclear>de</unclear><gap/><unclear>e</unclear><gap/> you.</l>
                </lg>
          </div>
       </body>
