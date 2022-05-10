@@ -318,6 +318,30 @@
     <rico:hasContentOfType>text</rico:hasContentOfType>
     <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
   </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0047">
+    <rico:hasOrHadIdentifier>amp_0047</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Typescript Stella Musulin Translation W. H. Auden "Joseph Weinheber" [1965]</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>[1965]</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_s.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0051">
+    <rico:hasOrHadIdentifier>amp_0051</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Typed Notes [Janko Musulin] on W. H. Auden "Freedom and Necessity in the Arts" 1970-05-19--1970-06-10</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1970-05-19--1970-06-10</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_j.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0052">
+    <rico:hasOrHadIdentifier>amp_0052</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Typescript Hilde Spiel Translation W. H. Auden Statement to Austrian Tax Authorities 1972-07-26--1972-08-25</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1972-07-26--1972-08-25</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/spiel_h.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
   <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0057">
     <rico:hasOrHadIdentifier>amp_0057</rico:hasOrHadIdentifier>
     <rico:hasOrHadName>Envelope W. H. Auden to Stella Musulin 1961-[?]-[25]</rico:hasOrHadName>
@@ -354,5 +378,11 @@
   </rico:Agent>
   <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/musulin_e.html">
     <rico:hasOrHadAgentName>Musulin, Elsa</rico:hasOrHadAgentName>
+  </rico:Agent>
+  <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/musulin_j.html">
+    <rico:hasOrHadAgentName>Musulin, Janko</rico:hasOrHadAgentName>
+  </rico:Agent>
+  <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/spiel_h.html">
+    <rico:hasOrHadAgentName>Spiel, Hilde</rico:hasOrHadAgentName>
   </rico:Agent>
 </rdf:RDF>
