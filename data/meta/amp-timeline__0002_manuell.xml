@@ -78,7 +78,7 @@
                </head>
                <desc>
                   <title xml:lang="en">16 July 1915, Dale Castle, Pembrokeshire, Wales</title>
-                  Stella Mary Bellairs Lloyd-Philipps is born to Rhodri Vaughan Lloyd-Philipps (1874-1950) and his second wife, Margaret Colville 
+                  Stella Mary Bellairs Lloyd-Philipps is born to Rhodri Vaughan Lloyd-Philipps (1874-1950) and his second wife, Margery Colvile 
                   <location>
                      <geo>51.7075 -5.1774</geo>
                      <address>
@@ -121,11 +121,20 @@
                   <date notBefore="1948-01-11" notAfter="1948-01-11">1948-01-11</date>
                </head>
                <desc>
-                  <title xml:lang="en">11 January 1948</title>
+                  <title xml:lang="en">11 January 1948, Dale Castle, Pembrokeshire, Wales</title>
                   Birth of son Marko Musulin
                   <location>
-                     <geo></geo> <!-- research and add birth place! -->
-                  </location>
+                        <geo>51.7075 -5.1774</geo>
+                        <address>
+                           <placeName>
+                              <settlement>Dale</settlement>
+                              <region>Pembrokeshire</region>
+                              <country>Wales</country>
+                              <country>United Kingdom</country>
+                           </placeName>
+                        </address>
+                     </location>
+                     <idno type="geonames">https://www.geonames.org/6285840</idno>
                </desc>               
             </event>
             <event xml:id="e004"
@@ -267,6 +276,28 @@
             <event xml:id="e011"
                type="event">
                <head xml:lang="en">
+                  <date notBefore="1984-10-11" notAfter="1984-10-13">1984-10-11--1984-10-13</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">11-13 October 1984, NÖART Galerie, Künstlerhaus Wien, Vienna</title>
+                  International symposium "W. H. Auden 1907-1973", hosted by the Niederösterreich-Gesellschaft für Kunst und Kultur [Lower Austrian Society for Art and Letters] in association with the International Auden Society and the British Council
+                  <location>
+                     <geo>48.200556 16.371667</geo>
+                     <address>
+                        <street>Karlsplatz 5</street>
+                        <postCode>1010</postCode>
+                        <placeName>
+                           <settlement>Vienna</settlement>
+                           <country>Austria</country>
+                        </placeName>
+                     </address>
+                  </location>
+                  <idno type="geonames">https://www.geonames.org/2775260</idno>
+               </desc>               
+            </event>
+            <event xml:id="e012"
+               type="event">
+               <head xml:lang="en">
                   <date notBefore="1995-01-01" notAfter="1995-12-31">1995-01-01--1995-12-31</date>
                </head>
                <desc>
@@ -277,7 +308,7 @@
                   </location>-->
                </desc>               
             </event>
-            <event xml:id="e012"
+            <event xml:id="e013"
                type="event">
                <head xml:lang="en">
                   <date notBefore="1996-01-21" notAfter="1996-01-21">1996-01-21</date> <!-- double-check! -->
