@@ -135,8 +135,8 @@ for any purpose, even commercially.</p>
                </p>            
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0009/" type="sheet"/>
                <p>
-                  <hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
-                  (<hi rend="underline">I892-I945)</hi>
+                  <space quantity="5" unit="char"/><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
+                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi>
                </p>
                <lg>
                   <l>Reaching my gate a narrow</l>
@@ -198,8 +198,8 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0010/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0139/" type="sheet"/>
                <p>
-                  <hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
-                  (<hi rend="underline">I892-I945)</hi>
+                  <space quantity="26" unit="char"/><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
+                  <space quantity="28" unit="char"/>(<hi rend="underline">I892-I945)</hi>
                </p>
                <p hand="#handwritten">
                   1

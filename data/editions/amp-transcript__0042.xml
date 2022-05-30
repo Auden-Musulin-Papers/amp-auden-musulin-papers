@@ -125,7 +125,7 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0103/" type="sheet"/>
                <p>
-                  <hi rend="underline">AUGUST I<del>(</del>968</hi>
+                  <space quantity="7" unit="char"/><hi rend="underline">AUGUST I<del>(</del>968</hi>
                </p>
                <lg>
                   <l>The ogre does what ogres can,</l>

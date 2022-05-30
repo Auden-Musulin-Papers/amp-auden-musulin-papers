@@ -145,8 +145,8 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0133/" type="sheet"/>
                <p>
-                  <hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
-                  (<hi rend="underline">I892-I945)</hi>
+                  <space quantity="5" unit="char"/><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
+                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi>
                </p>
                <lg>
                   <l>Reachi<del>j</del>ng my gate a narrow</l>
@@ -279,41 +279,41 @@ for any purpose, even commercially.</p>
                   (3
                </p>
                <lg>
-                  <l>Looking across <del>u</del>our valley</l>
-                  <l>Where,hidden from view,</l>
-                  <l>Sichelbach tottles westward</l>
-                  <l>To join the Perschling,</l>
-                  <l>Humanely modest in scale</l>
-                  <l>And mild in contour,</l>
-                  <l>Conscious of grander neighbors</l>
-                  <l>To bow to,mountains</l>
-                  <l>Soaring behind me,ahead</l>
-                  <l>A noble river,</l>
+                  <space quantity="15" unit="char"/><l>Looking across <del>u</del>our valley</l>
+                  <space quantity="15" unit="char"/><l>Where,hidden from view,</l>
+                  <space quantity="15" unit="char"/><l>Sichelbach tottles westward</l>
+                  <space quantity="15" unit="char"/><l>To join the Perschling,</l>
+                  <space quantity="15" unit="char"/><l>Humanely modest in scale</l>
+                  <space quantity="15" unit="char"/><l>And mild in contour,</l>
+                  <space quantity="15" unit="char"/><l>Conscious of grander neighbors</l>
+                  <space quantity="15" unit="char"/><l>To bow to,mountains</l>
+                  <space quantity="15" unit="char"/><l>Soaring behind me,ahead</l>
+                  <space quantity="15" unit="char"/><l>A noble river,</l>
                </lg>
                <lg>
-                  <l>I would respect you also,</l>
-                  <l>Neighbor and colleague,</l>
-                  <l>For even my English ear</l>
-                  <l>Gets in your German</l>
-                  <l>The workmanship and the note</l>
-                  <l>Of one who was graced</l>
-                  <l>To hear the viols playing</l>
-                  <l>On the impaled green,</l>
-                  <l>Committed thereafter <hi rend="underline">den</hi></l>
-                  <l><hi rend="underline">Abgrund zu nennen</hi>.(2)</l>
+                  <space quantity="15" unit="char"/><l>I would respect you also,</l>
+                  <space quantity="15" unit="char"/><l>Neighbor and colleague,</l>
+                  <space quantity="15" unit="char"/><l>For even my English ear</l>
+                  <space quantity="15" unit="char"/><l>Gets in your German</l>
+                  <space quantity="15" unit="char"/><l>The workmanship and the note</l>
+                  <space quantity="15" unit="char"/><l>Of one who was graced</l>
+                  <space quantity="15" unit="char"/><l>To hear the viols playing</l>
+                  <space quantity="15" unit="char"/><l>On the impaled green,</l>
+                  <space quantity="15" unit="char"/><l>Committed thereafter <hi rend="underline">den</hi></l>
+                  <space quantity="15" unit="char"/><l><hi rend="underline">Abgrund zu nennen</hi>.(2)</l>
                </lg>
                <p>
-                  ___<lb/>
+                  <space quantity="23" unit="char"/>___<lb/>
                   <del>N</del> <space quantity="1" unit="char"/>I) Quotation from W<del>8</del><unclear>'</unclear>s poem <hi rend="underline">Auf das Unabwendbare</hi>.<lb/>
                   <space quantity="3" unit="char"/>2) Quotation from W's poem <hi rend="underline">Kammermusik</hi>.<lb/>
-                  __
+                  <space quantity="24" unit="char"/>__
                </p>
                <p>
-                  <space quantity="8" unit="char"/>Dear Stella:<lb/>
-                  Kirchstetten is intending to have a cer<del>o</del>emony in memory of the twentieth<lb/>
-                  anniversary of Weinheber'<del>w</del>s <space quantity="1" unit="char"/>death. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
-                  <hi rend="underline">Gemeindepflicht.</hi><lb/>
-                  <space quantity="16" unit="char"/>love<lb/>
+                  <space quantity="9" unit="char"/>Dear Stella:<lb/>
+                  <space quantity="1" unit="char"/>Kirchstetten is intending to have a cer<del>o</del>emony in memory of the twentieth<lb/>
+                  <space quantity="1" unit="char"/>anniversary of Weinheber'<del>w</del>s <space quantity="1" unit="char"/>death. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
+                  <space quantity="1" unit="char"/><hi rend="underline">Gemeindepflicht.</hi><lb/>
+                  <space quantity="17" unit="char"/>love<lb/>
                   Wystan.<!-- markup handwriting -->
                </p>
                <p hand="#handwritten">

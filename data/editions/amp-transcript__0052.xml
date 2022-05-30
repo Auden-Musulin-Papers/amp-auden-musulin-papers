@@ -111,10 +111,10 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0171/" type="sheet"/>
                <p>
-                  <hi rend="underline">Erklärung</hi>
+                  <space quantity="16" unit="char"/><hi rend="underline">Erklärung</hi>
                </p>
                <p>
-                  <space quantity="16" unit="char"/>Meine Herren !<lb/>
+                  Meine Herren !<lb/>
                   <space quantity="6" unit="char"/>Mein Standpunkt ist sehr einfach : Man bezahlt dort<lb/>
                   Einkommensteuer, wo man Geld verdient, das heisst in meinem<lb/>
                   Fall, als Schriftsteller, der englisch schreibt, in den Ver-<lb/>
@@ -185,7 +185,7 @@ for any purpose, even commercially.</p>
                   3
                </p>
                <p>
-                  <space quantity="14" unit="char"/>3. <del><gap reason="deleted"/></del>Ich glaube, Sie sind sich nicht i<del><gap reason="deleted"/></del>m Klaren über die<lb/>
+                  <space quantity="8" unit="char"/>3. <del><gap reason="deleted"/></del>Ich glaube, Sie sind sich nicht i<del><gap reason="deleted"/></del>m Klaren über die<lb/>
                   <space quantity="11" unit="char"/>finanzielle Situation eines Dichters. Ein Romanschrift-<lb/>
                   <space quantity="11" unit="char"/>steller kann, wenn er erfolgreich ist, mit seinen Büchern<lb/>
                   <space quantity="11" unit="char"/>eine Menge Geld verdienen. Ein Lyriker kann das nicht,<lb/>
