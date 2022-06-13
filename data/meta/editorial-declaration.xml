@@ -98,6 +98,7 @@
                               <item n="1.3">Handwritten characters are not marked up as <![CDATA[<]]>unclear<![CDATA[>]]> in XML when they can be identified as a consistent and typical feature of the respective author's handwriting.</item><!-- (example: "address", Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-15, page 3, line 25) -->
                               <item n="1.4">Signatures are not marked up as <![CDATA[<]]>unclear<![CDATA[>]]>.</item>
                               <item n="1.5">Characters that cannot be transcribed are marked up as <![CDATA[<]]>gap<![CDATA[>]]> in XML and represented by means of square brackets on the web page.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12, page 3, line 7) -->
+                              <item n="1.6">Superscripts have not yet been marked up and are not represented on the web page.</item>
                            </list>
                         </item>                          
                      </list>
