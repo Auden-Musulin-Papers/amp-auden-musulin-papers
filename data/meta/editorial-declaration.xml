@@ -56,32 +56,37 @@
          <div>
             <head>Editorial Declaration</head>
             <p></p>
- <!--              <div>
-                  <p>
-                  
-                     Views:
-                     
-                     Default view:
-                     one view per page recto and verso
-                     Different fonts to represent handwriting, typewriting, and print.
-                     Text which is underlined in typescripts is represented in italics.Underlined text in manuscripts and typescripts is italicized in accordance with editing practices applied in The Complete Works of W. H. Auden edited by Edward Mendelson.
-                     Facsimile via IIIF viewer with controls for size
-                     You see gaps (if not deleted)
-                     Slightly regularized: no deletions, no underlines, no addition whitespace (in typescripts).The reading views do not represent deletions, but the text as corrected or added.The use of multiple spaces in typescripts is regularized and represented as a single space on the web page.
-                     Doesn't represent unclear passages ...
-                     Layout partially represented: text passages are vertically arranged
-                     
-                     Can change:
-                     change fonts and font size
-                     full screen
-                     change size of facsimile screen, remove facsimile
-                     show original text features: deletions, underlines, original whitespace, show unclear passages
-                     
-                     Transcription Guidelines:
-                     
-                  </p>
-               </div>-->
-              <div>
+            <div>
+               <head>Presentation of the Material</head>
+                  <p>By default, the edited documents are presented in accordance with the conventions followed in <hi rend="underline">The Complete Works of W. H. Auden</hi> (1993-2022), edited by Edward Mendelson. Optionally, original text features, such as deletions, can be displayed, and users can modify presentation preferences.</p>                   
+                     <list rend="bulleted">
+                        <item>
+                           The default view offers the following features:
+                           <list rend="bulleted">
+                              <item>one view per page recto and verso</item>
+                              <item>vertical arrangements of texts that partially represent the original layout</item>
+                              <item>different fonts to represent handwriting (Times New Roman), typewriting (Courier New), and print (Arial)</item>
+                              <item>reading versions of texts that do not contain deletions, underlines, additional typographic whitespace, or indications of unclear characters</item>
+                              <item>italics to represent originally underlined text</item>
+                              <item>indications of undecipherable characters (if not deleted)</item>
+                              <item>facsimiles displayed through a plugin viewer, with controls to adjust image size</item>
+                           </list>
+                        </item>                          
+                     </list>
+                     <list rend="bulleted">
+                        <item>
+                           The following display options are available:
+                           <list rend="bulleted">
+                              <item>original text features: deletions, underlines, additional typographic whitespace</item>
+                              <item>indications of unclear characters, which cannot be transcribed with certainty</item>
+                              <item>choice of fonts and font sizes</item>
+                              <item>full-screen view</item>
+                              <item>text-focus view without facsimile</item>
+                           </list>
+                        </item>                          
+                     </list>
+               </div>
+               <div>
                <head>Transcription Guidelines</head>
                   <p>Source transcriptions as encoded in TEI/XML represent the spelling, punctuation, and revisions as they appear, aiming for minimal editorial intervention or interpretation.</p>                   
                      <list rend="numbered">
