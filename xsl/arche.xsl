@@ -27,7 +27,7 @@
                 <xsl:attribute name="rdf:about">
                     <xsl:value-of select=".//acdh:TopCollection/@rdf:about"/>
                 </xsl:attribute>
-                <xsl:copy-of select="$constants"/>
+                <!--<xsl:copy-of select="$constants"/>-->
                 <xsl:for-each select=".//node()[parent::acdh:TopCollection]">
                     <xsl:copy-of select="."/>
                 </xsl:for-each>
@@ -78,7 +78,7 @@
                             <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/eng"/>
                         </xsl:when>
                         <xsl:when test=".//tei:langUsage/tei:language/@ident='de'">
-                            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/ger"/>
+                            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
                         </xsl:when>
                     </xsl:choose>
                     <acdh:hasTitle xml:lang="de"><xsl:value-of select=".//tei:title[@level='a'][1]/text()"/></acdh:hasTitle>
@@ -99,6 +99,7 @@
                         <acdh:isPartOf rdf:resource="{concat($TopColId, '/facs')}"/>
                         <acdh:hasTitle xml:lang="en"><xsl:value-of select="$facsId"/> (<xsl:value-of select="data(@type)"/>)</acdh:hasTitle>
                         <acdh:isSourceOf rdf:resource="{$id}"/>
+                        <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
                         <xsl:copy-of select="$ImgConstants"/>
                     </acdh:Resource>
                 </xsl:for-each>
@@ -114,6 +115,7 @@
                         <acdh:isPartOf rdf:resource="{concat($TopColId, '/web-img')}"/>
                         <acdh:hasTitle xml:lang="en"><xsl:value-of select="$facsId"/> (<xsl:value-of select="data(@type)"/>)</acdh:hasTitle>
                         <acdh:isSourceOf rdf:resource="{$id}"/>
+                        <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
                         <xsl:copy-of select="$ImgConstants"/>
                     </acdh:Resource>
                 </xsl:for-each>

@@ -146,3 +146,7 @@ desktop.ini
 add_handles.sh
 
 Untitled*
+vendor
+./local_ingest.sh
+composer.*
+local_ingest.sh
