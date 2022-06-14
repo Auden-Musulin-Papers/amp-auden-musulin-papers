@@ -34,12 +34,14 @@
             </acdh:TopCollection>
             <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/auden-musulin-papers/facs">
                 <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/auden-musulin-papers"/>
+                <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000F-3256-8</acdh:hasPid>
                 <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
                 <acdh:hasTitle xml:lang="en">Facsimiles (Highest Resolution)</acdh:hasTitle>
                 <acdh:hasDescription xml:lang="en">Highest-resolution digital facsimiles of the Auden Musulin Papers</acdh:hasDescription>
                 <xsl:copy-of select="$ImgConstants"/>
             </acdh:Collection>
             <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/auden-musulin-papers/web-img">
+                <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000F-3255-9</acdh:hasPid>
                 <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/auden-musulin-papers"/>
                 <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
                 <acdh:hasTitle xml:lang="en">Facsimiles (Lower-Resolution Web Images)</acdh:hasTitle>
