@@ -22,8 +22,7 @@
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605007"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605002"/>
         <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/active"/>
-        <acdh:hasLicenseSummary rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
-        <acdh:hasLicenseSummary rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc0-1-0"/>
+        <acdh:hasFunder rdf:resource="https://id.acdh.oeaw.ac.at/org-fwf"/>
     </acdh:TopCollection>
     <acdh:Cols>
         <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/auden-musulin-papers/editions">
@@ -33,25 +32,13 @@
             <acdh:hasDescription xml:lang="en">Edition documents in XML/TEI format</acdh:hasDescription>
             <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/eng"/>
         </acdh:Collection>
-        <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/auden-musulin-papers/facs">
-            <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/auden-musulin-papers"/>
-            <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
-            <acdh:hasTitle xml:lang="en">Facsimiles (Highest Resolution)</acdh:hasTitle>
-            <acdh:hasDescription xml:lang="en">Highest-resolution digital facsimiles of the Auden Musulin Papers</acdh:hasDescription>
-        </acdh:Collection>
-        <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/auden-musulin-papers/web-img">
-            <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/auden-musulin-papers"/>
-            <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
-            <acdh:hasTitle xml:lang="en">Facsimiles (Lower-Resolution Web Images)</acdh:hasTitle>
-            <acdh:hasDescription xml:lang="en">Lower-resolution digital facsimiles of the Auden Musulin Papers for web display</acdh:hasDescription>
-        </acdh:Collection>
-        <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/auden-musulin-papers/meta">
+        <!--<acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/auden-musulin-papers/meta">
             <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
             <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/auden-musulin-papers"/>
             <acdh:hasTitle xml:lang="en">Supplementary Web Documents</acdh:hasTitle>
             <acdh:hasDescription xml:lang="en">Supplementary documents in XML/TEI format for web display</acdh:hasDescription>
             <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/eng"/>
-        </acdh:Collection>
+        </acdh:Collection>-->
     </acdh:Cols>
     <!-- definition of agents mentioned in the Metadata as e.g. PI, Curator, ... but not yet in ARCHE -->
     <acdh:MetaAgents>
@@ -142,7 +129,6 @@
         <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"/>
     </acdh:RepoObject>
     <acdh:FacsConstants>
-        <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
         <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
         <acdh:hasDigitisingAgent rdf:resource="https://orcid.org/0000-0002-3997-5193"/>
         <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc0-1-0"/>

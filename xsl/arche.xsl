@@ -32,7 +32,20 @@
                     <xsl:copy-of select="."/>
                 </xsl:for-each>
             </acdh:TopCollection>
-            
+            <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/auden-musulin-papers/facs">
+                <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/auden-musulin-papers"/>
+                <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
+                <acdh:hasTitle xml:lang="en">Facsimiles (Highest Resolution)</acdh:hasTitle>
+                <acdh:hasDescription xml:lang="en">Highest-resolution digital facsimiles of the Auden Musulin Papers</acdh:hasDescription>
+                <xsl:copy-of select="$ImgConstants"/>
+            </acdh:Collection>
+            <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/auden-musulin-papers/web-img">
+                <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/auden-musulin-papers"/>
+                <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
+                <acdh:hasTitle xml:lang="en">Facsimiles (Lower-Resolution Web Images)</acdh:hasTitle>
+                <acdh:hasDescription xml:lang="en">Lower-resolution digital facsimiles of the Auden Musulin Papers for web display</acdh:hasDescription>
+                <xsl:copy-of select="$ImgConstants"/>
+            </acdh:Collection>
             
             <xsl:for-each select=".//node()[parent::acdh:MetaAgents]">
                 <xsl:copy-of select="."/>
