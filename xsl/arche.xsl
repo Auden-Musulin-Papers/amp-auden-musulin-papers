@@ -14,6 +14,11 @@
                 <xsl:copy-of select="."/>
             </xsl:for-each>
         </xsl:variable>
+        <xsl:variable name="ImgConstants">
+            <xsl:for-each select=".//node()[parent::acdh:FacsConstants]">
+                <xsl:copy-of select="."/>
+            </xsl:for-each>
+        </xsl:variable>
         <xsl:variable name="TopColId">
             <xsl:value-of select="data(.//acdh:TopCollection/@rdf:about)"/>
         </xsl:variable>
@@ -72,10 +77,7 @@
                         <acdh:isPartOf rdf:resource="{concat($TopColId, '/facs')}"/>
                         <acdh:hasTitle xml:lang="en"><xsl:value-of select="$facsId"/> (<xsl:value-of select="data(@type)"/>)</acdh:hasTitle>
                         <acdh:isSourceOf rdf:resource="{$id}"/>
-                        <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
-                        <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
-                        <acdh:hasDigitisingAgent rdf:resource="https://orcid.org/0000-0002-3997-5193"/>
-                        <xsl:copy-of select="$constants"/>
+                        <xsl:copy-of select="$ImgConstants"/>
                     </acdh:Resource>
                 </xsl:for-each>
 <!-- IMG (WEB) -->
@@ -90,10 +92,7 @@
                         <acdh:isPartOf rdf:resource="{concat($TopColId, '/web-img')}"/>
                         <acdh:hasTitle xml:lang="en"><xsl:value-of select="$facsId"/> (<xsl:value-of select="data(@type)"/>)</acdh:hasTitle>
                         <acdh:isSourceOf rdf:resource="{$id}"/>
-                        <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
-                        <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/image"/>
-                        <acdh:hasDigitisingAgent rdf:resource="https://orcid.org/0000-0002-3997-5193"/>
-                        <xsl:copy-of select="$constants"/>
+                        <xsl:copy-of select="$ImgConstants"/>
                     </acdh:Resource>
                 </xsl:for-each>
             </xsl:for-each>
