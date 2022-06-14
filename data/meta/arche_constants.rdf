@@ -64,6 +64,7 @@
             <acdh:hasTitle xml:lang="und">Timo Frühwirth</acdh:hasTitle>
             <acdh:hasLastName xml:lang="und">Frühwirth</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Timo</acdh:hasFirstName>
+            <acdh:isMemberOf rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
         </acdh:Person>
         <acdh:Person rdf:about="https://d-nb.info/gnd/117542784">
             <acdh:hasTitle xml:lang="und">Elizabeth Mayer</acdh:hasTitle>
@@ -74,6 +75,7 @@
             <acdh:hasTitle xml:lang="und">Sandra Mayer</acdh:hasTitle>
             <acdh:hasLastName xml:lang="und">Mayer</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Sandra</acdh:hasFirstName>
+            <acdh:isMemberOf rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
         </acdh:Person>
         <acdh:Person rdf:about="https://d-nb.info/gnd/14000761X">
             <acdh:hasTitle xml:lang="und">Edward Mendelson</acdh:hasTitle>
@@ -104,6 +106,7 @@
             <acdh:hasTitle xml:lang="und">Daniel Stoxreiter</acdh:hasTitle>
             <acdh:hasLastName xml:lang="und">Stoxreiter</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Daniel</acdh:hasFirstName>
+            <acdh:isMemberOf rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
         </acdh:Person>
     </acdh:MetaAgents>
     <!-- mandatory properties shared by acdh:Collection AND acdh:Resource -->
