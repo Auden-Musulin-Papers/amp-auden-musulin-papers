@@ -58,7 +58,7 @@
             <p></p>
             <div>
                <head>Presentation of the Material</head>
-                  <p>By default, the edited documents are presented in accordance with the conventions followed in <hi rend="underline">The Complete Works of W. H. Auden</hi> (1993-2022), edited by Edward Mendelson. Optionally, original text features, such as deletions, can be displayed, and users can modify presentation preferences.</p>                   
+                  <p>By default, the edited documents are presented in accordance with the conventions followed in <hi rend="italics">The Complete Works of W. H. Auden</hi> (1993-2022), edited by Edward Mendelson. Optionally, original text features, such as deletions, can be displayed, and users can modify presentation preferences.</p>                   
                      <list rend="bulleted">
                         <item>
                            The default view offers the following features:
@@ -85,6 +85,10 @@
                            </list>
                         </item>                          
                      </list>
+               </div>
+               <div>
+                  <head>Facsimile Documentation</head>
+                  <p>The documents have been reproduced at 600 dpi and 24 bit/RGB by means of an Image Access WideTEK®25 color flatbed scanner and saved in an uncompressed TIFF format. Selected materials (Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-04-28 and with Typescript W. H. Auden Translation "Joseph Weinheber"; Autograph Letter Signed W. H. Auden to Stella Musulin 1969-06-10) have been digitized at 603.1 dpi and 24 bit by means of a Phase One XF IQ3 100MP medium-format camera with a Schneider Kreuznach 80mm f/2.8 leaf shutter lens. In order to accelerate upload, the digital reproductions of documents are displayed at a lower resolution on the website.</p>
                </div>
                <div>
                <head>Transcription Guidelines</head>
