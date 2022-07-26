@@ -145,11 +145,12 @@
                            <list rend="numbered">
                               <item n="7.1">Deletions of text are marked up as <![CDATA[<]]>del<![CDATA[>]]> in XML and can be represented on the web page.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23, page 3, line 26) -->
                               <item n="7.2">For overwritings in manuscripts and typescripts, we have accepted the orthographically or grammatically accurate versions as corrections, even if the actual sequences of textual layers cannot be reconstructed.</item><!--  (example: Typescript Stella Musulin "In Retrospect" [?], page 1, line 27) -->
-                              <item n="7.3">For transcriptions of typescripts, we accept the use of the signs 'x', 'm', 'z', and '-' as indicating deletions where such deletion seems plausible.</item>
+                              <item n="7.3">For transcriptions of typescripts - in addition to handwritten deletions - we accept the use of the typed signs 'x', 'm', 'z', '-', and '/' as indicating deletions where such deletion seems plausible.</item>
                               <item n="7.4">When additions are inserted into manuscripts or typescripts, surrounding spaces are included in ways that are coherent with the general use of spaces in the respective texts.</item><!-- examples!  (that especially concerns spaces after punctuation in typescripts) -->
                               <item n="7.5">When additions replace deleted words in typescripts, they are inserted directly after the deletions without additional spaces in between.</item>
                               <item n="7.6">When it is uncertain whether characters have been deleted, the passage in question is marked up as <![CDATA[<]]>unclear<![CDATA[>]]><![CDATA[<]]>del<![CDATA[>]]><![CDATA[<]]>gap reason="deleted"/<![CDATA[>]]><![CDATA[<]]>del/<![CDATA[>]]><![CDATA[<]]>unclear/<![CDATA[>]]>.</item>
                               <item n="7.7">For typescripts by Musulin, we accept handwritten underlines of deleted passages as cancelled deletions.</item>
+                              <item n="7.8">Multiple overwritings in the same place of a typescript (when character 'x' is overwritten by character 'y', which, in turn, is overwritten by 'z') are represented as nested deletions: '<![CDATA[<]]>del<![CDATA[>]]><![CDATA[<]]>del<![CDATA[>]]>x<![CDATA[</]]>del<![CDATA[>]]>y<![CDATA[</]]>del<![CDATA[>]]>z'</item>
                            </list>
                         </item>                             
                      </list>

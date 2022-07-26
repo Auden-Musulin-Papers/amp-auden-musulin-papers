@@ -91,6 +91,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-09-29">text transcribed</change>
          <change who="smayer" when="2021-10-01">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-10-01">transcriptions collated</change>
+         <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

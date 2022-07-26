@@ -78,6 +78,7 @@ for any purpose, even commercially.</p>
          <change who="smayer" when="2021-12-16">text transcribed</change>
          <change who="tfruehwirth" when="2021-12-17">text transcribed using Transkribus</change>
          <change who="smayer tfruehwirth" when="2021-12-17">transcriptions collated</change>
+         <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
