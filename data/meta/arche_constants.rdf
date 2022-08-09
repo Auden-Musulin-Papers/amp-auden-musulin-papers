@@ -7,22 +7,31 @@
     <acdh:TopCollection rdf:about="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
         <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-C343-A</acdh:hasPid>
         <acdh:hasTitle xml:lang="en">Auden Musulin Papers: A Digital Edition of W. H. Auden's Letters to Stella Musulin</acdh:hasTitle>
-        <acdh:hasDescription xml:lang="en">A Digital Edition of W. H. Auden's Letters to Stella Musulin</acdh:hasDescription>
+        <acdh:hasDescription xml:lang="en">A Digital Edition of W. H. Auden's Letters to Stella Musulin. The collection contains the letters and literary papers sent by British-American poet W. H. Auden to Welsh-Austrian writer Stella Musulin in the period 1960-1973; private photographs of W. H. Auden and Chester Kallman; correspondence and papers related to Stella Musulin's biographical work on W. H. Auden; Stella Musulin's Auden memoirs "In Retrospect" and "The Years in Austria". The collection has been edited in the context of an FWF-funded, three-year project at the Austrian Centre for Digital Humanities and Cultural Heritage.</acdh:hasDescription>
         <acdh:hasContact rdf:resource="https://d-nb.info/gnd/1024881253"/>
         <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1024881253"/>
+        <acdh:hasActor rdf:resource="https://d-nb.info/gnd/118650963"/>
         <acdh:hasActor rdf:resource="https://d-nb.info/gnd/127246711"/>
+        <acdh:hasActor rdf:resource="https://d-nb.info/gnd/115753761"/>
+        <acdh:hasActor rdf:resource="https://d-nb.info/gnd/118751980"/>
+        <acdh:hasActor rdf:resource="https://d-nb.info/gnd/14000761X"/>
+        <acdh:hasActor rdf:resource="https://d-nb.info/gnd/1173017283"/>
+        <acdh:hasActor rdf:resource="https://www.wikidata.org/wiki/Q39073705"/>
+        <acdh:hasActor>Musulin, Elsa</acdh:hasActor>
         <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1024881253"/>
         <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
         <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1967-01-01</acdh:hasCoverageStartDate>
         <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1973-12-31</acdh:hasCoverageEndDate>
-        <acdh:hasSubject xml:lang="en">Editions</acdh:hasSubject>
+        <acdh:hasSubject xml:lang="en">Digital Edition, Digital Humanities, English and American Literature, Cultural History, Life Writing.</acdh:hasSubject>
         <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/eng"/>
         <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602008"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602005"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605007"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605002"/>
+        <acdh:hasNamingScheme>XML edition files are named "amp-transcript__####.xml"</acdh:hasNamingScheme>
         <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/active"/>
+        <acdh:hasCompleteness>incomplete, to be completed by July 2024</acdh:hasCompleteness>
         <acdh:hasFunder rdf:resource="https://id.acdh.oeaw.ac.at/org-fwf"/>
         <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/1108283586"/>
         <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/whaudenestate"/>
@@ -32,6 +41,7 @@
         <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1108283586"/>
         <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/whaudenestate"/>
         <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"/>
+        <acdh:hasPrincipalInvestigator rdf:about="https://d-nb.info/gnd/1024881253"/>
     </acdh:TopCollection>
     <acdh:Cols>
         <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/auden-musulin-papers/editions">
@@ -39,7 +49,7 @@
             <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000F-3254-A</acdh:hasPid>
             <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
             <acdh:hasTitle xml:lang="en">Edition Documents</acdh:hasTitle>
-            <acdh:hasDescription xml:lang="en">Edition documents in XML/TEI format</acdh:hasDescription>
+            <acdh:hasDescription xml:lang="en">Edition documents in XML/TEI format, containing transcriptions, markup, and metadata of the letters and literary papers sent by British-American poet W. H. Auden to Welsh-Austrian writer Stella Musulin in the period 1960-1973; correspondence and papers related to Stella Musulin's biographical work on W. H. Auden; Stella Musulin's Auden memoirs "In Retrospect" and "The Years in Austria".</acdh:hasDescription>
             <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/eng"/>
         </acdh:Collection>
         <!--<acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/auden-musulin-papers/meta">
