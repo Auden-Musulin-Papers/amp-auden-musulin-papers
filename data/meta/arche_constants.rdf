@@ -76,6 +76,16 @@
             <acdh:hasLastName xml:lang="und">Andorfer</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Peter</acdh:hasFirstName>
         </acdh:Person>
+        <acdh:Person rdf:about="https://d-nb.info/gnd/1173017283">
+            <acdh:hasTitle xml:lang="und">Michael, Duncan</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Duncan</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Michael</acdh:hasFirstName>
+        </acdh:Person>
+        <acdh:Person rdf:about="https://www.wikidata.org/entity/Q39073705">
+            <acdh:hasTitle xml:lang="und">Bruce, O'Sullivan</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">O'Sullivan</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Bruce</acdh:hasFirstName>
+        </acdh:Person>
         <acdh:Person rdf:about="https://d-nb.info/gnd/118650963">
             <acdh:hasTitle xml:lang="und">W. H. Auden</acdh:hasTitle>
             <acdh:hasLastName xml:lang="und">Auden</acdh:hasLastName>
