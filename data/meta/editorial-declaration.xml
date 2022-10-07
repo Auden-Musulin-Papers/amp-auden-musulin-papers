@@ -169,7 +169,10 @@
                               <item n="8.4">Pre-printed postal texts and images in telegrams and aerograms are not rendered in the transcriptions.</item><!--  (example: Telegram W. H. Auden to Stella Musulin 1971-05-13) -->
                            </list>
                         </item>                           
-                     </list>    
+                     </list>
+                     <list rend="numbered">
+                        <item n="9">Writing technologies (handwriting, typewriting) are marked up by means of the <![CDATA[<]]>... hand="..."<![CDATA[>]]> attribute in XML and are represented through different fonts on the web page.</item>
+                     </list>
             </div>
          </div>
       </body>
