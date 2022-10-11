@@ -18,12 +18,12 @@
         <pubPlace>Wien, Österreich</pubPlace>
         <date>2022</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0">
+          <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
             Creative Commons Namensnennung 4.0 International Lizenz
           </licence>
         </availability>
         <ref type="URL"
-          target="https://github.com/freud-digital/frd-working-data/framework/frd-hka/schema/odd_frd-hka.odd"
+          target="https://github.com/Auden-Musulin-Papers/amp-data/framework/auden-musulin/schema/am.odd"
           >https://github.com/Auden-Musulin-Papers/amp-data/framework/auden-musulin/schema/am.odd</ref>
       </publicationStmt>
       <sourceDesc>
