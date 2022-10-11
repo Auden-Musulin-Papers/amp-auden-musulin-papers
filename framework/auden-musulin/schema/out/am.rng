@@ -5,12 +5,12 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2022-10-11T11:45:12Z. .
+Schema generated from ODD source 2022-10-11T11:50:54Z. .
 TEI Edition: Version 4.1.0. Last updated on
 	19th August 2020, revision b414ba550
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.1.0/
   
---><!--[https://creativecommons.org/licenses/by/4.0] Creative Commons Namensnennung 4.0 International Lizenz -->
+--><!--[https://creativecommons.org/licenses/by/4.0/deed.en] Creative Commons Namensnennung 4.0 International Lizenz -->
    <define name="macro.paraContent">
       <zeroOrMore>
          <choice>
@@ -2914,6 +2914,8 @@ Suggested values include: 1] spoken; 2] thought; 3] written; 4] soCalled; 5] for
                <oneOrMore>
                   <choice>
                      <value>deleted</value>
+                     <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                     <value>illegible</value>
                      <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   </choice>
                </oneOrMore>
