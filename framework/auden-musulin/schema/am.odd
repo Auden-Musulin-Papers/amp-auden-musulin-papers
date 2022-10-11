@@ -358,6 +358,7 @@
               <attDef ident="reason" mode="change" usage="req">
                 <valList mode="replace" type="closed">
                   <valItem ident="deleted"/>
+                  <valItem ident="illegible"/>
                 </valList>
               </attDef>
             </attList>
