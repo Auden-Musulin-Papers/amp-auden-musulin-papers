@@ -77,6 +77,7 @@
             <change who="smayer" when="2021-12-15">text transcribed</change>
             <change who="tfruehwirth" when="2021-12-16">text transcribed using Transkribus</change>
             <change who="smayer tfruehwirth" when="2021-12-16">transcriptions collated</change>
+            <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -87,7 +88,7 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0232/"/>
         </surface>
     </facsimile>
-    <text type="letter">
+    <text type="letter" hand="#typed">
         <body>
             <div xml:id="transcription__0034">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0231/" type="sheet"/>
@@ -114,7 +115,7 @@
                     Dear Baroness Musulin,
                 </p>
                 <p>
-                    I remember you telling me that you liked the novels of<lb/>
+                    <space quantity="21" unit="char"/>I remember you telling me that you liked the novels of<lb/>
                     Molly Keane when I visited you with Peter Muller in October of last year. I<lb/>
                     was delighted to see that Virago Press have decided to reprint her early<lb/>
                     novels and I thought of you when I saw them <del><unclear>o</unclear></del>in the bookshops.  I am sending<lb/>
@@ -122,7 +123,7 @@
                     much hope you enjoy reading it.
                 </p>
                 <p>
-                    I remember with great affection our chat about W.H. Auden<lb/>
+                    <space quantity="21" unit="char"/>I remember with great affection our chat about W.H. Auden<lb/>
                     and I am very grateful to you for sharing those memories with me.  Plans for<lb/>
                     the Auden Exhibition in the Kunstlerhaus are now very far advanced.  I have<lb/>
                     put togther a complete collection of Auden's first editions, selections from<lb/>
@@ -136,33 +137,33 @@
                     illustrate a selection of Auden's poems.
                 </p>
                 <p>
-                    Stephen Spender has agreed to come to Vienna during the<lb/>
+                    <space quantity="21" unit="char"/>Stephen Spender has agreed to come to Vienna during the<lb/>
                     period of the Exhibition - that is 11th October to 3rd November.  Humphrey<lb/>
                     Carpenter will lecture on Auden at the invitation of the British Council, so it<lb/>
                     all promises to be a splendid celebration of Auden's life and work.
                 </p>
                 <p>
-                    I was terribly disappointed not to have seen you when I was<lb/>
+                    <space quantity="21" unit="char"/>I was terribly disappointed not to have seen you when I was<lb/>
                     in Vienna in March but alas I was at the mercy of my friends who have cars and,<lb/>
                     as luck would have it,they were all so busy at various things I was left stranded in<lb/>
                     Vienna throughout my brief visit.  However I shall be spending September, October<lb/>
                     and November in Austria and I very much look forward to seeing you then.
                 </p>
                 <p>
-                    I had a letter from Edward Mendelson yesterday and he asked<lb/>
+                    <space quantity="21" unit="char"/>I had a letter from Edward Mendelson yesterday and he asked<lb/>
                     me to send you his very best wishes which I do along with my own.  I hope this<lb/>
-                    finds you in good spirits and that Summer is <del>being</del> better behaved in Austria <del><gap/></del>than<lb/>
+                    finds you in good spirits and that Summer is <del>being</del> better behaved in Austria <del><gap reason="deleted"/></del>than<lb/>
                     it is here in Ireland.
                 </p>
                 <p>
-                    With all good wishes,<lb/>
-                    Yours very sincerely,
+                    <space quantity="21" unit="char"/>With all good wishes,<lb/>
+                    <space quantity="21" unit="char"/>Yours very sincerely,
                 </p>
                 <p>
                     Mich<unclear>ae</unclear>l <unclear>O'Sullivan</unclear>
                 </p>
                 <p>
-                    MICHAEL O'SULLIVAN.
+                    <space quantity="21" unit="char"/>MICHAEL O'SULLIVAN.
                 </p>
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0232/" type="sheet"/>
             </div>

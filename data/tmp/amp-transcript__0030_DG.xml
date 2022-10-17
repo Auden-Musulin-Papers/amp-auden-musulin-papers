@@ -77,6 +77,7 @@
             <change who="smayer" when="2022-01-03">text transcribed</change>
             <change who="tfruehwirth" when="2022-01-03">text transcribed using Transkribus</change>
             <change who="smayer tfruehwirth" when="2022-01-03">transcriptions collated</change>
+            <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -87,12 +88,12 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0222/"/>
         </surface>
     </facsimile>
-    <text type="letter">
+    <text type="letter" hand="#typed">
         <body>
             <div xml:id="transcription__0030">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0221/" type="sheet"/>
                 <p>
-                    29th November 1985.
+                    <space quantity="40" unit="char"/>29th November 1985.
                 </p>
                 <p>
                     The Revd. Br<del><unclear>i</unclear></del>uce Duncan,<lb/>
@@ -104,37 +105,37 @@
                     Dear Mr. Duncan,
                 </p>
                 <p>
-                    I am a more or less retired journalist and author,<lb/>
+                    <space quantity="5" unit="char"/>I am a more or less retired journalist and author,<lb/>
                     and am working on a memoir of W.H. Auden´s years in Austria<lb/>
-                    when I got to know him very well.   As he and Chester Kallman<lb/>
+                    when I got to know him very well. <space quantity="1" unit="char"/>As he and Chester Kallman<lb/>
                     were used to involving me in domestic catastrophes of various<lb/>
                     kinds, <del>C</del><del>t</del><unclear>T</unclear>hester asked me to bring order into the chaos which so<lb/>
                     often follows upon a deathöand in this case was acute because<lb/>
                     of the total lack of comprehension between the anglo-american<lb/>
-                    side and the local Austrian authorities.  Hence my approach<lb/>
+                    side and the local Austrian authorities. <space quantity="1" unit="char"/>Hence my approach<lb/>
                     to you;  on enquiry I was given your name by the present<lb/>
                     incumbent of the Chaplaincy to the British Embassy in Vienna,<lb/>
                     Canon Phillips.
                 </p>
                 <p>
-                    Would you be so kind as to confirm that you took the<lb/>
+                    <space quantity="5" unit="char"/>Would you be so kind as to confirm that you took the<lb/>
                     ecumenical service - shall I<del>S</del>scall it that? in the church at<lb/>
                     Kirchstetten in October 1973, jointly with the parish priest?
                 </p>
                 <p>
-                    Do you recall the form of service used, and did John Auden<lb/>
-                    consult you about it?  I simply cannot remember, and al<del><gap/></del>s<del>h</del>though<lb/>
+                    <space quantity="5" unit="char"/>Do you recall the form of service used, and did John Auden<lb/>
+                    consult you about it?<space quantity="1" unit="char"/>I simply cannot remember, and al<del><gap/></del>s<del>h</del>though<lb/>
                     there was a long and magnificent passage from the NT which I<lb/>
                     could have sworn was from Corinthians, reading throu<del>t</del>gh Cor.I &amp; II<lb/>
-                    nothing seems to ring the right bell.  Then there was the burial<lb/>
+                    nothing seems to ring the right bell. <space quantity="1" unit="char"/>Then there was the burial<lb/>
                     service.  I am told that the whole occasion aroused a great deal<lb/>
                     of interest here and was m<del>u</del>k<del>u</del>ch discussed:  so normal to the<lb/>
-                    British, in Lower Austria it was a sensation.  I should be<lb/>
+                    British, in Lower Austria it was a sensation. <space quantity="1" unit="char"/>I should be<lb/>
                     extremely grateful if you could find time to tell me anything<lb/>
-                    that you remember, and give me permission to quote you.  Not<lb/>
+                    that you remember, and give me permission to quote you. <space quantity="1" unit="char"/>Not<lb/>
                     everything about Wystan Auden was very appetising, his private<lb/>
-                    life was a mess.  But he was kind, generous and totally<lb/>
-                    unpreten<del>s</del>tious, and personally I was devoted to him.  It is
+                    life was a mess. <space quantity="1" unit="char"/>But he was kind, generous and totally<lb/>
+                    unpreten<del>s</del>tious, and personally I was devoted to him. <space quantity="1" unit="char"/>It is
                 </p>
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0222/" type="sheet"/>
                 <p>
@@ -143,10 +144,10 @@
                     awe-inspiring talent and high scholarship, wretchedness and squalor.
                 </p>
                  <p>
-                    Yours sincerely,
+                     <space quantity="28" unit="char"/>Yours sincerely,
                  </p>
                 <p>
-                    Stella Musulin.
+                    <space quantity="28" unit="char"/>Stella Musulin.
                 </p>
             </div>
         </body>

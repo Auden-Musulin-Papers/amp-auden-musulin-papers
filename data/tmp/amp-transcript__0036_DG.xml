@@ -77,6 +77,7 @@
             <change who="tfruehwirth" when="2021-10-28">text transcribed</change>
             <change who="smayer" when="2021-10-28">text transcribed</change>
             <change who="smayer tfruehwirth" when="2021-10-28">transcriptions collated</change>
+            <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -87,7 +88,7 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0242/"/>
         </surface>
     </facsimile>
-    <text type="letter">
+    <text type="letter" hand="#handwritten">
         <body>
             <div xml:id="transcription__0036">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0241/" type="card"/>

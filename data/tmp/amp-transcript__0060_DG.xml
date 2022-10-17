@@ -77,6 +77,7 @@
             <change who="smayer" when="2022-01-27">text transcribed</change>
             <change who="tfruehwirth" when="2022-01-28">text transcribed</change>
             <change who="smayer tfruehwirth" when="2022-02-28">transcriptions collated</change>
+            <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -87,7 +88,7 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0254/"/>
         </surface>
     </facsimile>
-    <text type="letter">
+    <text type="letter" hand="#typed">
         <body>
             <div xml:id="transcription__0060">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0253/" type="sheet"/>
@@ -101,7 +102,7 @@
                     3200 Obergrafendorf
                 </p>
                 <p>
-                    Wien, 22.März 1977
+                    <space quantity="34" unit="char"/>Wien, 22.März 1977
                 </p>
                 <p>
                     Sehr verehrte, liebe gnädige Frau,
@@ -122,10 +123,10 @@
                     Mit herzlichen Empfehlungen und Wünschen
                 </p>
                 <p>
-                    Ihr
+                    <space quantity="42" unit="char"/>Ihr
                 </p>
                 <p>
-                    (Dr.Wolfgang Kraus)
+                    <space quantity="32" unit="char"/>(Dr.Wolfgang Kraus)
                 </p>
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0254/" type="sheet"/>
             </div>

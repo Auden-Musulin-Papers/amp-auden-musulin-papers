@@ -77,6 +77,7 @@
             <change who="smayer" when="2021-12-14">text transcribed</change>
             <change who="tfruehwirth" when="2021-12-14">text transcribed using Transkribus</change>
             <change who="smayer tfruehwirth" when="2021-12-14">transcriptions collated</change>
+            <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -87,7 +88,7 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0230/"/>
         </surface>
     </facsimile>
-    <text type="letter">
+    <text type="letter" hand="#typed">
         <body>
             <div xml:id="transcription__0033">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0229/" type="sheet"/>
@@ -103,60 +104,62 @@
                 </p>
                 <p>
                     Delighted you got that EARLY AUDEN, and even more delighted you find<lb/>
-                    it worth looking into.  <del>As I suppose you've experienced yourself,</del>Is it a universal experience among authors to<lb/>
+                    it worth looking into. <space quantity="1" unit="char"/><del>As I suppose you've experienced yourself,</del>Is it a universal experience among authors to<lb/>
                     be surprised that someone actually reads one's book?  I'm so familiar<lb/>
                     with the thing by now, and so aware of its deficiencies, that I wish<lb/>
                     I could recall the edition and rewrite the whole <del>thing from</del>book from the start.<lb/>
                     Luckily, t<del>h</del>eaching, reviewing and miscellaneous annoyances keep the<lb/>
-                    mind elsewhere.  One of those miscellaneous annoy<del><gap/></del>ances was a move<lb/>
+                    mind elsewhere. <space quantity="1" unit="char"/>One of those miscellaneous annoy<del><gap reason="illegible"/></del>ances was a move<lb/>
                     from my o<del>d</del>ld flat to an<del>t</del>other one on the same floor in the same building.<lb/>
                     The new address is up above, and the only change is in the apartment<lb/>
-                    number.  Phone number still 212 222-0679.
+                    number. <space quantity="1" unit="char"/>Phone number still 212 222-0679.
                  </p>
                  <p>    
                     Yes, I saw the you<del>g</del>ng man who was doing advance work f<del>ro</del>or Robert Robinson,<lb/>
-                    but haven't heard from him since July.  I gather <del>wor</del>that work progresses,<lb/>
-                    though.  There was an hour on Wystan on BBC <hi rend="underline"></hi>Radio the other week--a<lb/>
+                    but haven't heard from him since July. <space quantity="1" unit="char"/>I gather <del>wor</del>that work progresses,<lb/>
+                    though. <space quantity="1" unit="char"/>There was an hour on Wystan on BBC <hi rend="underline"></hi>Radio the other week--a<lb/>
                     "dramatization" with an actor reading the poems and lots of ominous<lb/>
-                    noises off.  I'm told it was fairly dreadful, but perh<del><gap/></del>aps the TV film<lb/>
-                    will be better.  I saw quite a good one from the BBC on Benjamin Britten.<lb/>
-                    Its only fault--and I'm not sure <del><gap/></del>this was a fault, given the usual tone<lb/>
+                    <space quantity="1" unit="char"/>noises off. <space quantity="1" unit="char"/>I'm told it was fairly dreadful, but perh<del><gap reason="illegible"/></del>aps the TV film<lb/>
+                    will be better. <space quantity="1" unit="char"/>I saw quite a good one from the BBC on Benjamin Britten.<lb/>
+                    Its only fault--and I'm not sure <del><gap reason="illegible"/></del>this was a fault, given the usual tone<lb/>
                     of TV journalism--was an awed tone of worship.
                  </p>
                 <p>
-                    <del>A</del>Easy answers to important questions.  Those two volumes <del><gap/>f</del>by and about<lb/>
-                    Auden sound very attractive.  (Which publisher is interested?)  The<lb/>
+                    <del>A</del>Easy answers to important questions. <space quantity="1" unit="char"/>Those two volumes <del><gap reason= "#illegible"/>f</del>by and about<lb/>
+                    Auden sound very attractive. <space quantity="1" unit="char"/>(Which publisher is interested?) <space quantity="1" unit="char"/>The<lb/>
                     place to write for permissions is to the agents, specifically, to<lb/>
                 
-                    Maureen Walters<lb/>
-                    Curtis Brown Ltd<lb/>
-                    575 Madison Avenue<lb/>
-                    New York NY  10022<lb/>
-                    USA<lb/>
-                    Mention my name, and things will be easier.  But they should be easy<lb/>
+                    <space quantity="24" unit="char"/>Maureen Walters<lb/>
+                    <space quantity="24" unit="char"/>Curtis Brown Ltd<lb/>
+                    <space quantity="24" unit="char"/>575 Madison Avenue<lb/>
+                    <space quantity="24" unit="char"/>New York NY  10022<lb/>
+                    <space quantity="24" unit="char"/>USA<lb/>
+                </p>
+                <p>
+                    Mention my name, and things will be easier. <space quantity="1" unit="char"/>But they should be easy<lb/>
                     anyway.
                 </p>
                 <p>
-                    Now let me beg you for an easy answer.  I've heard from at<del>t<gap/></del> least two<lb/>
+                    Now let me beg you for an easy answer. <space quantity="1" unit="char"/>I've heard from at<del>t<gap reason="deleted"/></del> least two<lb/>
                     different people that they had seen (or knew someone else who had seen)<lb/>
-                    a German text of your Wystan memoir in print.  Are they right, or are<lb/>
+                    a German text of your Wystan memoir in print. <space quantity="1" unit="char"/>Are they right, or are<lb/>
                     they confusing this with an occasion when you read it aloud (and it was<lb/>
-                    reported)?  I had an Austrian student here this summer working on Wystan,<lb/>
+                    reported)? <space quantity="1" unit="char"/>I had an Austrian student here this summer working on Wystan,<lb/>
                     and I wanted to tell her about the piece, but didn't know where to find<lb/>
-                    it.  Please, <hi rend="underline">please</hi> tell me if you printed it, and if so, where.  No need<lb/>
+                    it. <space quantity="1" unit="char"/>Please, <hi rend="underline">please</hi> tell me if you printed it, and if so, where. <space quantity="1" unit="char"/>No need<lb/>
                     for a long letter: just a "No, calm down, I never printed it" or a "Yes,<lb/>
-                    it appeared in such-in-such a journal" would be more than enough.  This is<lb/>
-                    the one min<del><gap/></del>or mystery of writings-about-Wystan I haven't been able to solve,<lb/>
+                    it appeared in such-in-such a journal" would be more than enough. <space quantity="1" unit="char"/>This is<lb/>
+                    the one min<del><gap reason= "#deleted"/></del>or mystery of writings-about-Wystan I haven't been able to solve,<lb/>
                     so please do help.
                 </p>
                 <p>
-                    Have I told you <del><gap/>ny</del>any of my news?  I'm now at Columbia University permanently,<lb/>
-                    if I want to be.  I have a flat with a small guest room and bath--so please<lb/>
-                    take note if you're in th<del>e</del>is country for any reason.  I have a lady friend,<lb/>
+                    Have I told you <del><gap reason="deleted"/>ny</del>any of my news? <space quantity="1" unit="char"/>I'm now at Columbia University permanently,<lb/>
+                    if I want to be. <space quantity="1" unit="char"/>I have a flat with a small guest room and bath--so please<lb/>
+                    take note if you're in th<del>e</del>is country for any reason. <space quantity="1" unit="char"/>I have a lady friend,<lb/>
                     the first whom I expect to be with for a very long time, and we are quite<lb/>
-                    happy about things in general. Next June we'll be in Europe, certainly in<lb/>
-                    Paris, possibly father <del><gap/></del>south, <del>t</del>although we may put off the southern trip<lb/>
-                    for another year or so.  I haven't been across the Atlantic this year; too<lb/>
+                    happy about things in general. <space quantity="1" unit="char"/>Next June we'll be in Europe, certainly in<lb/>
+                    Paris, possibly father <del><gap reason="deleted"/></del>south, <del>t</del>although we may put off the southern trip<lb/>
+                    for another year or so. <space quantity="1" unit="char"/>I haven't been across the Atlantic this year; too<lb/>
                 </p>
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0230/" type="sheet"/>
                 <p>
@@ -171,27 +174,27 @@
                     1.Nu<unclear>mer.</unclear> <unclear>Heft.</unclear>
                 </p>
                 <p>
-                    Frau Baronin<lb/>
-                    Stella Musulin<lb/>
-                    Sch<del><gap/></del>l<del>t</del>össelgasse 8/17<lb/>
-                    A-1080 Vienna<lb/>
-                    Austria
+                    <space quantity="36" unit="char"/>Frau Baronin<lb/>
+                    <space quantity="36" unit="char"/>Stella Musulin<lb/>
+                    <space quantity="36" unit="char"/>Sch<del><gap/></del>l<del>t</del>össelgasse 8/17<lb/>
+                    <space quantity="36" unit="char"/>A-1080 Vienna<lb/>
+                    <space quantity="36" unit="char"/>Austria
                 </p>
                 <p>
                     preoccupied, too broke, too much to do in New York to feel much of an<lb/>
-                    i<del><unclear>p</unclear></del>mpulse to get away.  My years in New Haven always left me panting to<lb/>
+                    i<del><unclear>p</unclear></del>mpulse to get away. <space quantity="1" unit="char"/>My years in New Haven always left me panting to<lb/>
                     get overseas, but now I feel at home again.
                 </p>
                 <p>
                     Did you see Humphrey Carpenter's book on Wystan?  Not bad, as biographies<lb/>
-                    <unclear>g</unclear>o, but not very deep either.  It seems to have most of the facts right,<lb/>
-                    which is something.  Now a life of Chester is being written, by the woman<lb/>
+                    <unclear>g</unclear>o, but not very deep either. <space quantity="1" unit="char"/>It seems to have most of the facts right,<lb/>
+                    which is something. <space quantity="1" unit="char"/>Now a life of Chester is being written, by the woman<lb/>
                     who recently married Chester's father, and who knew Chester since 1942.<lb/>
                     Full of surprises and purple passages; Chester would be pleased, I think,<lb/>
                     although I don't like to imagine how Wystan would have taken it.
                  </p>
                  <p>
-                    A<unclear>ff</unclear>ection<unclear>a</unclear>tely,
+                     A<unclear>ff</unclear>ection<unclear>a</unclear>tely,
                  </p>
                 <p>
                     Ed

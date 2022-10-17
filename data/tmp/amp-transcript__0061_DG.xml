@@ -77,6 +77,7 @@
             <change who="smayer" when="2022-01-27">text transcribed</change>
             <change who="tfruehwirth" when="2022-01-28">text transcribed</change>
             <change who="smayer tfruehwirth" when="2022-02-28">transcriptions collated</change>
+            <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -87,17 +88,17 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0252/"/>
         </surface>
     </facsimile>
-    <text type="letter">
+    <text type="letter" hand="#typed">
         <body>
             <div xml:id="transcription__0061">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0251/" type="sheet"/>
                 <p>
-                    NEULINGGASSE 26/14<lb/>
-                    1030 WIEN<lb/>
-                    TEL. 73 94 015
+                    <space quantity="48" unit="char"/>NEULINGGASSE 26/14<lb/>
+                    <space quantity="48" unit="char"/>1030 WIEN<lb/>
+                    <space quantity="48" unit="char"/>TEL. 73 94 015
                 </p>
                 <p>
-                    5. April 1977
+                    <space quantity="44" unit="char"/>5. April 1977
                 </p>
                 <p>
                     <unclear>A2</unclear>
@@ -105,7 +106,7 @@
                 <p>
                     Herrn Dr. Wolfgang Kraus,<lb/>
                     Österreichische Gesellschaft<lb/>
-                    für Literatur<lb/>
+                    <space quantity="6" unit="char"/>für Literatur<lb/>
                     1010 Wien,<lb/>
                     Palais Wilczek, He<del>e</del>rrengasse 5.
                 </p>
@@ -113,21 +114,21 @@
                     Sehr geehrter, lieber Herr Doktor !
                 </p>
                 <p>
-                    Es wird für mich eine Ehre sein, am 5. Mai<lb/>
+                    <space quantity="5" unit="char"/>Es wird für mich eine Ehre sein, am 5. Mai<lb/>
                     über Auden sprechen zu dürfen.
                 </p>
                 <p>
-                    Wie wäre es mit "Auden und die Österreicher"?<lb/>
+                    <space quantity="5" unit="char"/>Wie wäre es mit "Auden und die Österreicher"?<lb/>
                     Aber wenn nicht, ist mir Alles recht!
                 </p>
                 <p>
-                    Mit herzlichen Grüßen,
+                    <space quantity="15" unit="char"/>Mit herzlichen Grüßen,
                 </p>
                 <p>
                     Stella Musulin <unclear>´</unclear>
                 </p>
                 <p>
-                    Stella Musulin.
+                    <space quantity="15" unit="char"/>Stella Musulin.
                 </p>
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0252/" type="sheet"/>
             </div>

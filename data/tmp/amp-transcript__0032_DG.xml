@@ -77,6 +77,7 @@
             <change who="smayer" when="2021-12-06">text transcribed</change>
             <change who="tfruehwirth" when="2021-12-06">text transcribed using Transkribus</change>
             <change who="smayer tfruehwirth" when="2021-12-06">transcriptions collated</change>
+            <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -87,17 +88,17 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0228/"/>
         </surface>
     </facsimile>
-    <text type="letter">
+    <text type="letter" hand="#typed">
         <body>
             <div xml:id="transcription__0032">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0227/" type="sheet"/>
                 <p>
-                    39 Claremont Ave, apt 32<lb/>
-                    New York NY  10027<lb/>
-                    USA
+                    <space quantity="41" unit="char"/>39 Claremont Ave, apt 32<lb/>
+                    <space quantity="41" unit="char"/>New York NY  10027<lb/>
+                    <space quantity="41" unit="char"/>USA
                 </p>
                 <p>
-                    1 December 1980 
+                    <space quantity="41" unit="char"/>1 December 1980 
                 </p>
                 <p>
                     Dear Stella,
@@ -105,45 +106,45 @@
                 <p>
                     I just got back from a month in England to find your letter.  I was<lb/>
                     rather worried as to how you were, and am delighted to hear that<lb/>
-                    you're on the ascent after a "decline."  I'm also abashed not to have<lb/>
+                    you're on the ascent after a "decline." <space quantity="1" unit="char"/>I'm also abashed not to have<lb/>
                     been in touch with you before about the collapse of our four-memoir<lb/>
-                    book, but the whole thing has been farcical and uncertain.  Here are<lb/>
-                    the basics.  First, there should be no need to repay any of the<lb/>
+                    book, but the whole thing has been farcical and uncertain. <space quantity="1" unit="char"/>Here are<lb/>
+                    the basics. <space quantity="1" unit="char"/>First, there should be no need to repay any of the<lb/>
                     advance (I haven't spoken with Random House about this, except with<lb/>
                     an ill-informed assitant, but there shouldn't be any problem), and<lb/>
                     second, I hope you haven't gone out of your way to work on the thing<lb/>
-                    again.  The structure collapsed in two or three stages.  First Lincoln<lb/>
+                    again. <space quantity="1" unit="char"/>The structure collapsed in two or three stages. <space quantity="1" unit="char"/>First Lincoln<lb/>
                     Kirstein read the forthcoming biography by Humphrey Carpenter (not bad,<lb/>
                     not spectacularly good), and decided he didn't know enough Auden to<lb/>
                     add new facts, that he wasn't really worthy to be a memoirist, etc.<lb/>
                     None of this has any truth, but Kirstein is not a person to argue with.<lb/>
                     He managed to persuade me, in September, that the book should at least<lb/>
-                    be left to stew for a while.  Then Spender finally sent in a first<lb/>
-                    draft of his piece, which, between us, was a disaster.  At this time<lb/>
-                    Charles Monteith had a look at it, and agreed.  When I saw Charles<lb/>
+                    be left to stew for a while. <space quantity="1" unit="char"/>Then Spender finally sent in a first<lb/>
+                    draft of his piece, which, between us, was a disaster. <space quantity="1" unit="char"/>At this time<lb/>
+                    Charles Monteith had a look at it, and agreed. <space quantity="1" unit="char"/>When I saw Charles<lb/>
                     in London a couple of weeks ago, we formally let the thing drop, and<lb/>
                     I think he already wrote you about it.
                 </p>
                 <p>
                     I still think your piece is first-rate (the copyright is yours, by the<lb/>
                     way), and I hope you'll publish it, perhaps with a word or two of<lb/>
-                    information from Christa Esders if that's possible.  (Did you learn<lb/>
-                    anything from her??)  If you want me to try to place it in this country,<lb/>
-                    I'll do my best with it.  Do let me know.  I feel very sorry that you<lb/>
+                    information from Christa Esders if that's possible. <space quantity="1" unit="char"/>(Did you learn<lb/>
+                    anything from her??) <space quantity="1" unit="char"/>If you want me to try to place it in this country,<lb/>
+                    I'll do my best with it. <space quantity="1" unit="char"/>Do let me know. <space quantity="1" unit="char"/>I feel very sorry that you<lb/>
                     went to all this trouble for--up to now--nothing, and for many reasons<lb/>
                     I should like to see the piece in print.
                  </p>
                  <p>
                     No, I haven't got to Vienna for five years now, and couldn't afford<lb/>
                     a visit this year.  Next summer, if my job is sorted out, I would very<lb/>
-                    much like to come over again.  This past summer I tried ringing you a<lb/>
-                    few times at 4217175, but got no reply.  Is that your number?  Mine here<lb/>
+                    much like to come over again. <space quantity="1" unit="char"/>This past summer I tried ringing you a<lb/>
+                    few times at 4217175, but got no reply. <space quantity="1" unit="char"/>Is that your number? <space quantity="1" unit="char"/>Mine here<lb/>
                     is 212 222-0679 if there's ever a reason to need it.
                  </p>
                 <p>
-                    Please do forgive me for the muddle over the book.  And please do keep<lb/>
-                    in touch.  Incidentally I finished that critical book--to be published<lb/>
-                    in the spring--after doing nothing but work on it for a year.  My "summer"<lb/>
+                    Please do forgive me for the muddle over the book. <space quantity="1" unit="char"/>And please do keep<lb/>
+                    in touch. <space quantity="1" unit="char"/>Incidentally I finished that critical book--to be published<lb/>
+                    in the spring--after doing nothing but work on it for a year. <space quantity="1" unit="char"/>My "summer"<lb/>
                     trip to England got postponed to November while I revised.
                 </p>
                 <p>
@@ -159,11 +160,11 @@
                     New York NY  10027
                 </p>
                 <p>
-                    Frl Baronin<lb/>
-                    Stella Musulin<lb/>
-                    Schlösselgasse 8/17<lb/>
-                    A-1080 Wien<lb/>
-                    Austria 
+                    <space quantity="41" unit="char"/>Frl Baronin<lb/>
+                    <space quantity="41" unit="char"/>Stella Musulin<lb/>
+                    <space quantity="41" unit="char"/>Schlösselgasse 8/17<lb/>
+                    <space quantity="41" unit="char"/>A-1080 Wien<lb/>
+                    <space quantity="41" unit="char"/>Austria 
                 </p>
             </div>
         </body>
