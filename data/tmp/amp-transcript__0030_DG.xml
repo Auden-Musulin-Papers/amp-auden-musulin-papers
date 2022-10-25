@@ -35,8 +35,7 @@
                 <date when="2021">2021</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
-                        <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
-                            for any purpose, even commercially.</p>
+                        <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
                         <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
                         <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
                         <p>Notices:</p>
@@ -107,7 +106,7 @@
                 <p>
                     <space quantity="5" unit="char"/>I am a more or less retired journalist and author,<lb/>
                     and am working on a memoir of W.H. Auden´s years in Austria<lb/>
-                    when I got to know him very well. <space quantity="1" unit="char"/>As he and Chester Kallman<lb/>
+                    when I got to know him very well. <space quantity="2" unit="char"/>As he and Chester Kallman<lb/>
                     were used to involving me in domestic catastrophes of various<lb/>
                     kinds, <del>C</del><del>t</del><unclear>T</unclear>hester asked me to bring order into the chaos which so<lb/>
                     often follows upon a deathöand in this case was acute because<lb/>
@@ -118,13 +117,13 @@
                     Canon Phillips.
                 </p>
                 <p>
-                    <space quantity="5" unit="char"/>Would you be so kind as to confirm that you took the<lb/>
+                    <space quantity="4" unit="char"/>Would you be so kind as to confirm that you took the<lb/>
                     ecumenical service - shall I<del>S</del>scall it that? in the church at<lb/>
                     Kirchstetten in October 1973, jointly with the parish priest?
                 </p>
                 <p>
                     <space quantity="5" unit="char"/>Do you recall the form of service used, and did John Auden<lb/>
-                    consult you about it?<space quantity="1" unit="char"/>I simply cannot remember, and al<del><gap/></del>s<del>h</del>though<lb/>
+                    consult you about it? <space quantity="1" unit="char"/>I simply cannot remember, and al<del><gap/></del>s<del>h</del>though<lb/>
                     there was a long and magnificent passage from the NT which I<lb/>
                     could have sworn was from Corinthians, reading throu<del>t</del>gh Cor.I &amp; II<lb/>
                     nothing seems to ring the right bell. <space quantity="1" unit="char"/>Then there was the burial<lb/>
@@ -153,4 +152,3 @@
         </body>
     </text>
 </TEI>
-
