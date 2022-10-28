@@ -59,7 +59,7 @@
                         <idno>2, 10</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1985-11-29">1985-11-29</origDate></origin>
+                        <origin><origDate notBefore="1985-11-29" notAfter="1985-11-29">1985-11-29</origDate></origin>
                      </history>
                   </msDesc>
                </witness>

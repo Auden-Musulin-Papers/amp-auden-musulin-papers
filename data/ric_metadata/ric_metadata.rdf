@@ -234,6 +234,30 @@
     <rico:hasContentOfType>text</rico:hasContentOfType>
     <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
   </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0030">
+    <rico:hasOrHadIdentifier>amp_0030</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Typed Letter Stella Musulin to Bruce Duncan 1985-11-29</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1985-11-29</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_s.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0031">
+    <rico:hasOrHadIdentifier>amp_0031</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Typed Letter Stella Musulin to Edward Mendelson 1985-12-15</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1985-12-15</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_s.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0032">
+    <rico:hasOrHadIdentifier>amp_0032</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Aerogram Signed Edward Mendelson to Stella Musulin 1980-12-01</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1980-12-01</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/mendelson_e.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
+  </rico:Record>
   <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0035">
     <rico:hasOrHadIdentifier>amp_0035</rico:hasOrHadIdentifier>
     <rico:hasOrHadName>Telegram W. H. Auden to Stella Musulin 1971-05-13</rico:hasOrHadName>
@@ -368,11 +392,22 @@
     <rico:hasContentOfType>text</rico:hasContentOfType>
     <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
   </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0062">
+    <rico:hasOrHadIdentifier>amp_0062</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Typescript Stella Musulin "The Years in Austria" 1976-09-04--1980-12-01</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1976-09-04--1980-12-01</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_s.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
   <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/auden_w.html">
     <rico:hasOrHadAgentName>Auden, W. H.</rico:hasOrHadAgentName>
   </rico:Agent>
   <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/musulin_s.html">
     <rico:hasOrHadAgentName>Musulin, Stella</rico:hasOrHadAgentName>
+  </rico:Agent>
+  <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/mendelson_e.html">
+    <rico:hasOrHadAgentName>Mendelson, Edward</rico:hasOrHadAgentName>
   </rico:Agent>
   <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/mayer_e.html">
     <rico:hasOrHadAgentName>Mayer, Elizabeth</rico:hasOrHadAgentName>

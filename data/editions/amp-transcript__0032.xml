@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 12</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1980-12-01">1980-12-01</origDate></origin>
+                        <origin><origDate notBefore="1980-12-01" notAfter="1980-12-01">1980-12-01</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -136,7 +136,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   No, I haven't got to Vienna for five years now, and couldn't afford<lb/>
-                  a visit this year.  Next summer, if my job is sorted out, I would very<lb/>
+                  a visit this year. <space quantity="1" unit="char"/>Next summer, if my job is sorted out, I would very<lb/>
                   much like to come over again. <space quantity="1" unit="char"/>This past summer I tried ringing you a<lb/>
                   few times at 4217175, but got no reply. <space quantity="1" unit="char"/>Is that your number? <space quantity="1" unit="char"/>Mine here<lb/>
                   is 212 222-0679 if there's ever a reason to need it.
