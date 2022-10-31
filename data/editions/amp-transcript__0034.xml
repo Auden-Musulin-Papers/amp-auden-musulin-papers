@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 14</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1984-05-31">1984-05-31</origDate></origin>
+                        <origin><origDate notBefore="1984-05-31" notAfter="1984-05-31">1984-05-31</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -108,7 +108,7 @@ for any purpose, even commercially.</p>
                <p>
                   Tel. 772941
                </p>
-               <p>
+               <p hand="#handwritten">
                   31 : V: 1984
                </p>
                <p>
@@ -159,7 +159,7 @@ for any purpose, even commercially.</p>
                   <space quantity="21" unit="char"/>With all good wishes,<lb/>
                   <space quantity="21" unit="char"/>Yours very sincerely,
                </p>
-               <p>
+               <p hand="#handwritten">
                   Mich<unclear>ae</unclear>l <unclear>O'Sullivan</unclear>
                </p>
                <p>

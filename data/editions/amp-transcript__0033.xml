@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 13</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1981-11-21">1981-11-21</origDate></origin>
+                        <origin><origDate notBefore="1981-11-21" notAfter="1981-11-21">1981-11-21</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -190,10 +190,10 @@ for any purpose, even commercially.</p>
                   Full of surprises and purple passages; Chester would be pleased, I think,<lb/>
                   although I don't like to imagine how Wystan would have taken it.
                </p>
-               <p>
+               <p hand="#handwritten">
                   A<unclear>ff</unclear>ection<unclear>a</unclear>tely,
                </p>
-               <p>
+               <p hand="#handwritten">
                   Ed
                </p>
          </div>

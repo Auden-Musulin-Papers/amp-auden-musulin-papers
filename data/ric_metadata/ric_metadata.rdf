@@ -256,6 +256,23 @@
     <rico:isAssociatedWithDate>1980-12-01</rico:isAssociatedWithDate>
     <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/mendelson_e.html</rico:hasAuthor>
     <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0033">
+    <rico:hasOrHadIdentifier>amp_0033</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Aerogram Signed Edward Mendelson to Stella Musulin 1981-11-21</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1981-11-21</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/mendelson_e.html</rico:hasAuthor>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_s.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0034">
+    <rico:hasOrHadIdentifier>amp_0034</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Typed Letter Signed Michael O'Sullivan to Stella Musulin 1984-05-31</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1984-05-31</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/o'sullivan_m.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
     <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
   </rico:Record>
   <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0035">
@@ -265,6 +282,14 @@
     <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden_w.html</rico:hasAuthor>
     <rico:hasContentOfType>text</rico:hasContentOfType>
     <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0036">
+    <rico:hasOrHadIdentifier>amp_0036</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Note Michael O'Sullivan to Stella Musulin 1984-08-15</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1984-08-15</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/o'sullivan_m.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
   </rico:Record>
   <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0038">
     <rico:hasOrHadIdentifier>amp_0038</rico:hasOrHadIdentifier>
@@ -408,6 +433,9 @@
   </rico:Agent>
   <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/mendelson_e.html">
     <rico:hasOrHadAgentName>Mendelson, Edward</rico:hasOrHadAgentName>
+  </rico:Agent>
+  <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/o'sullivan_m.html">
+    <rico:hasOrHadAgentName>O'Sullivan, Michael</rico:hasOrHadAgentName>
   </rico:Agent>
   <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/mayer_e.html">
     <rico:hasOrHadAgentName>Mayer, Elizabeth</rico:hasOrHadAgentName>
