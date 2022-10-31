@@ -71,13 +71,13 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
          </langUsage>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="tfruehwirth" when="2021-10-28">text transcribed</change>
          <change who="smayer" when="2021-10-28">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-10-28">transcriptions collated</change>
+         <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -88,7 +88,7 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0242/"/>
       </surface>
    </facsimile>
-   <text type="letter">
+   <text type="letter" hand="#handwritten">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0241/" type="card"/>
@@ -100,13 +100,17 @@ for any purpose, even commercially.</p>
                   15th August 1984
                </p>
                <p>
-                  Dear Barone<unclear>s</unclear>s Musulin,<lb/>
+                  Dear Barone<unclear>s</unclear>s Musulin,
+               </p>
+               <p>
                   I shall<lb/>
                   be arriving in Vienna on 1st Sept.<lb/>
                   I have taken Prof. Hans Raimund's<lb/>
                   <unclear>F</unclear>lat at : <del>Z</del>LACKIERERGASSE 5<lb/>
                   (Peter Müller has the telephone<lb/>
-                  nu<unclear>m</unclear>ber). 4279 394<lb/>
+                  nu<unclear>m</unclear>ber). 4279 394
+               </p>
+               <p>
                   I have your telephone<lb/>
                   number and I shall call you<lb/>
                   within a few days of my arri<unclear>v</unclear>al.
