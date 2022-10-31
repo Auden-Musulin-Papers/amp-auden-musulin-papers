@@ -93,11 +93,11 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0229/" type="sheet"/>
                <p>
-                  39 Claremont Ave, apt 31<lb/>
-                  New York NY  10027<lb/>
+                  <space quantity="45" unit="char"/>39 Claremont Ave, apt 31<lb/>
+                  <space quantity="45" unit="char"/>New York NY  10027<lb/>
                </p>
                <p>
-                  21 Novembe<del>er</del>r  1981
+                  <space quantity="45" unit="char"/>21 Novembe<del>er</del>r  1981
                </p>
                <p>
                   Dear Stella,

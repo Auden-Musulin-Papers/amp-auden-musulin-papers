@@ -92,18 +92,18 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0231/" type="sheet"/>
-               <p>
+               <p hand="#printed">
                   UNIVERSITY OF DUBLIN
                </p>
-               <p>
+               <p hand="#printed">
                   TRINITY COLLEGE<lb/>
                   DUBLIN 2
                </p>
                <p>
-                  Home address :<lb/>
-                  22, Kildare Street,<lb/>
-                  DUBLIN, 2.<lb/>
-                  Tel : 762662.
+                  <space quantity="60" unit="char"/>Home address :<lb/>
+                  <space quantity="60" unit="char"/>22, Kildare Street,<lb/>
+                  <space quantity="60" unit="char"/>DUBLIN, 2.<lb/>
+                  <space quantity="60" unit="char"/>Tel : 762662.
                </p>
                <p>
                   Tel. 772941
