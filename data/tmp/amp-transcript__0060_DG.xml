@@ -12,8 +12,8 @@
                 <funder>
                     <name>FWF Austrian Science Fund</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Vienna</postCode>
+                        <street>Bäckerstraße 13</street>
+                        <postCode>1010 Vienna</postCode>
                         <placeName>
                             <country>A</country>
                             <settlement>Vienna</settlement>
@@ -97,22 +97,22 @@
                 </p>
                 <p>
                     Frau<lb/>
-                    Stella von Musulin<lb/>
-                    Friedau<lb/>
-                    3200 Obergrafendorf
+                    <rs type="person" ref="#amp_person_2">Stella von Musulin</rs><lb/>
+                    <rs type="place" ref="#amp_place_id_7">Friedau</rs><lb/>
+                    3200 <rs type="place" ref="#amp_place_id_8">Obergrafendorf</rs>
                 </p>
                 <p>
-                    <space quantity="34" unit="char"/>Wien, 22.März 1977
+                    <space quantity="34" unit="char"/><rs type="place" ref="#amp_place_id_1">Wien</rs>, 22.März 1977
                 </p>
                 <p>
                     Sehr verehrte, liebe gnädige Frau,
                 </p>
                 <p>
-                    wie mit Frau Bronold mündlich vereinbart, möchte ich nun<lb/>
+                    wie mit Frau <rs type="person" ref="#amp_person_135">Bronold</rs> mündlich vereinbart, möchte ich nun<lb/>
                     auch schriftlich festhalten, daß wir Sie sehr herzlich<lb/>
-                    einladen, Ihren Vortrag über W.H.Auden am Donnerstag, den<lb/>
+                    einladen, Ihren Vortrag über <rs type="person" ref="#amp_person_15">W.H.Auden</rs> am Donnerstag, den<lb/>
                     5.Mai, bei uns zu halten. Wir haben dafür den Figaro-Saal<lb/>
-                    im Palais Palffy reserviert, Zeit 20 Uhr. Als Honorar<lb/>
+                    im <rs type="place" ref="#amp_place_id_85">Palais Palffy</rs> reserviert, Zeit 20 Uhr. Als Honorar<lb/>
                     können wir 1.500 Schilling anbieten.
                 </p>
                 <p>
@@ -126,7 +126,7 @@
                     <space quantity="42" unit="char"/>Ihr
                 </p>
                 <p>
-                    <space quantity="32" unit="char"/>(Dr.Wolfgang Kraus)
+                    <space quantity="32" unit="char"/><rs type="person" ref="#amp_person_137">(Dr.Wolfgang Kraus)</rs>
                 </p>
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0254/" type="sheet"/>
             </div>

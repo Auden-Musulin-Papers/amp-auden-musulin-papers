@@ -12,8 +12,8 @@
                 <funder>
                     <name>FWF Austrian Science Fund</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Vienna</postCode>
+                        <street>Bäckerstraße 13</street>
+                        <postCode>1010 Vienna</postCode>
                         <placeName>
                             <country>A</country>
                             <settlement>Vienna</settlement>
@@ -71,7 +71,6 @@
             <langUsage>
                 <language ident="en">English</language>
             </langUsage>
-            
         </profileDesc>
         <revisionDesc status="draft">
             <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -94,17 +93,17 @@
             <div xml:id="transcription">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0179/" type="sheet"/>
                 <p>
-                    <hi rend="italics">AUDEN IN KIRCHSTETTEN</hi>
+                    <hi rend="italics"><rs type="person" ref="#amp_person_1">AUDEN</rs> IN <rs type="place" ref="#amp_place_id_5">KIRCHSTETTEN</rs></hi>
                 </p>
                 <p>
-                    <hi rend="italics">P. 7 Line 8</hi> "Eliot ha<unclear>r</unclear>dly deserved it<unclear>`:" </unclear> Does this mean that you dont<lb/>
-                    think Eliot w<unclear>a</unclear>s worth translating? Or that Auden didnt? Or what?<lb/>
+                    <hi rend="italics">P. 7 Line 8</hi> "<rs type="person" ref="#amp_person_27">Eliot</rs> ha<unclear>r</unclear>dly deserved it<unclear>`:" </unclear> Does this mean that you dont<lb/>
+                    think <rs type="person" ref="#amp_person_27">Eliot</rs> w<unclear>a</unclear>s worth translating? Or that <rs type="person" ref="#amp_person_1">Auden</rs> didnt? Or what?<lb/>
                     (see p<unclear>.</unclear> 16-17)
                 </p>
                 <p>
-                    <hi rend="italics"><unclear>R. 2</unclear> Line <del><gap/></del>7</hi> <del>Would</del> 'Chester'. Would it <unclear>be</unclear> helpful <unclear>a</unclear>t this<lb/>
+                    <hi rend="italics"><unclear>R. 2</unclear> Line <del><gap/></del>7</hi> <del>Would</del> '<rs type="person" ref="#amp_person_4">Chester</rs>'. Would it <unclear>be</unclear> helpful <unclear>a</unclear>t this<lb/>
                     ✓<unclear>f</unclear>irst mention of him to add the sur<unclear>n</unclear>ame , i.e.<lb/>
-                    'Chester Kallman'. ?
+                    '<rs type="person" ref="#amp_person_4">Chester Kallman</rs>'. ?
                 </p>
                 <p>
                     <hi rend="italics">IN RETROSPECT.</hi>
@@ -115,20 +114,20 @@
                     life as one" or "if his life as a whole" ?
                 </p>
                 <p>
-                    <hi rend="italics">p·3</hi> <hi rend="italics">Para 2</hi> Money pinched from Chesters jacket at party.<lb/>
+                    <hi rend="italics">p·3</hi> <hi rend="italics">Para 2</hi> Money pinched from <rs type="person" ref="#amp_person_4">Chesters</rs> jacket at party.<lb/>
                     <unclear>I</unclear>ncident already referred to in bottom par<unclear>a</unclear> P·13<lb/>
-                    of " Auden in Kirchs<unclear>t</unclear>etten ". Since this para is<lb/>
+                    of " <rs type="person" ref="#amp_person_54">Auden</rs> in <rs type="place" ref="#amp_place_id_5">Kirchs<unclear>t</unclear>etten</rs> ". Since this para is<lb/>
                     in brackets perhaps this is an indicatio<unclear>n</unclear> <unclear>t</unclear>hat<lb/>
                     you in<unclear>t</unclear>ended to omit it<unclear>?</unclear>
                 </p>
                 <p>
-                    Chec<unclear>k</unclear> wi<unclear>th</unclear> <unclear>Müller</unclear> <lb/>
+                    Chec<unclear>k</unclear> wi<unclear>th</unclear> <unclear><rs type="person" ref="#amp_person_119">Müller</rs></unclear> <lb/>
                     wh<unclear>a</unclear>t is in his mṣ .
                 </p>
                 <p>
                     <hi rend="italics">p3</hi> <hi rend="italics">Line <unclear>4</unclear> fr<unclear>om</unclear> bottom</hi><lb/>
-                    " at Hinterholz 6" ?? Desirabl<unclear>e</unclear> to add<lb/>
-                    <unclear>`</unclear>Kirchstetten<unclear>'</unclear> for <unclear>s</unclear>ake of clari<unclear>t</unclear>y ?
+                    " at <rs type="place" ref="#amp_place_id_2">Hinterholz 6</rs>" ?? Desirabl<unclear>e</unclear> to add<lb/>
+                    <unclear>`</unclear><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs><unclear>'</unclear> for <unclear>s</unclear>ake of clari<unclear>t</unclear>y ?
                 </p>
                 <p>
                     <hi rend="italics">P· 16.</hi> <hi rend="italics"><del>Bottom <gap/></del></hi><lb/>
@@ -136,7 +135,7 @@
                     <hi rend="italics">o<unclear>v</unclear>er <unclear>to</unclear> t<unclear>o</unclear>p P.17</hi>✓<lb/>
                     <unclear>I</unclear>ncident of "he who<unclear>s</unclear>e name w<unclear>e</unclear> never mention<unclear>'</unclear> at<lb/>
                     funeral. ? Repe<unclear>ti</unclear>tion of mention of this on<lb/>
-                    <hi rend="italics">P·14</hi> , to<unclear>p</unclear> para, of "Auden in Kirchstetten<unclear>".</unclear>
+                    <hi rend="italics">P·14</hi> , to<unclear>p</unclear> para, of "<rs type="person" ref="#amp_person_1">Auden</rs> in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs><unclear>".</unclear>
                 </p>
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0180/" type="sheet"/>
             </div>
