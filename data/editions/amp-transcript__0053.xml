@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Typed Letter Stella Musulin to [Edith Silbermann] [1969]-05-29</title>
+            <title level="a">Typed Letter Stella Musulin to [Edith Silbermann] 1969-05-29</title>
             <author>Musulin, Stella</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 9</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate>[1969]-05-29</origDate></origin>
+                        <origin><origDate notBefore="1969-05-29" notAfter="1969-05-29">1969-05-29</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,13 +71,13 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
          </langUsage>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2021-12-15">text transcribed</change>
          <change who="tfruehwirth" when="2021-12-15">text transcribed using Transkribus</change>
          <change who="smayer tfruehwirth" when="2021-12-15">transcriptions collated</change>
+         <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -88,80 +88,82 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0220/"/>
       </surface>
    </facsimile>
-   <text type="letter">
+   <text type="letter" hand="#typed">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0219/" type="sheet"/>
                <p>
-                  29.Mai.
+                  <space quantity="35" unit="char"/>29.Mai.
                </p>
                <p>
                   <del>Liebling,</del>
-                  Ich habe schon sehr lange nicht geschrieben, Du wirst<lb/>
-                  Dich, fürchte ich, schon kränken.  Sehr schön war es, Deine<lb/>
+                  <space quantity="5" unit="char"/>Ich habe schon sehr lange nicht geschrieben, Du wirst<lb/>
+                  Dich, fürchte ich, schon kränken. <space quantity="1" unit="char"/>Sehr schön war es, Deine<lb/>
                   Stimme zu hören, leider hattest Du nicht viel davon.<lb/>
-                  Heute stehe ich immer noch unter dem Eindruck des gest<del>ir</del>rigen<lb/>
-                  Ausflugs nach Kirchstetten wohin ich Fritz Heer verabredeter-<lb/>
-                  maßen zum Essen mitnahm.  Diese manisch-depressive Genie,<del>und</del><lb/>
-                  dieser innerlich verschreckte Lausbub Friedrich Heer, und der<lb/>
-                  grosse englische Dichter Auden, von Kallman ganz zu schweigen -<lb/>
-                  wie würde das gehen?  Es ging großartig.  Fritz war wie ein aus<lb/>
-                  dem Gefängnis entlassener Mensch.  Monatelang kommt er nicht aus<lb/>
+                  <space quantity="5" unit="char"/>Heute stehe ich immer noch unter dem Eindruck des gest<del>ir</del>rigen<lb/>
+                  Ausflugs nach Kirchstetten wohin ich <rs type="person" ref="#amp_person_54">Fritz Heer</rs> verabredeter-<lb/>
+                  maßen zum Essen mitnahm. <space quantity="1" unit="char"/>Diese manisch-depressive Genie,<del>und</del><lb/>
+                  dieser innerlich verschreckte Lausbub <rs type="person" ref="#amp_person_54">Friedrich Heer</rs>, und der<lb/>
+                  grosse englische Dichter <rs type="person" ref="#amp_person_1">Auden</rs>, von <rs type="person" ref="#amp_person_4">Kallman</rs> ganz zu schweigen -<lb/>
+                  wie würde das gehen? <space quantity="1" unit="char"/>Es ging großartig. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_54">Fritz</rs> war wie ein aus<lb/>
+                  dem Gefängnis entlassener Mensch. <space quantity="1" unit="char"/>Monatelang kommt er nicht aus<lb/>
                   der Arbeitsroutine heraus, er freute sich so über das satte Grün<lb/>
                   des Wienerwalds, über die Akazienbäume die immer wieder silbern<lb/>
                   schimmernd aus dem dü<del>h</del>nkleren Hintergrund herausleuchteten, ü<del>v</del>ber<lb/>
                   die gute Luft, die klare Sicht nach dem Sturm vor zwei Tagen.<lb/>
                   Ich habe ein wenig Angst gehabt, die beiden Großredner würden<lb/>
                   gleichzeitig oder aneinander vorbeireden, aber das taten sie<lb/>
-                  nur manchmal:  sie wollten von einander etwas erfahren,<lb/>
+                  nur manchmal: <space quantity="1" unit="char"/>sie wollten von einander etwas erfahren,<lb/>
                   konnten aber natürlich nur immer wieder große Themen streifen,<lb/>
-                  Anekdoten erzählen und so.  Jedenfalls war die Stimmung herrlich,<lb/>
-                  Fritz entpuppte sich als begabter "mimic", der nicht nur Hitler<lb/>
+                  Anekdoten erzählen und so. <space quantity="1" unit="char"/>Jedenfalls war die Stimmung herrlich,<lb/>
+                  <rs type="person" ref="#amp_person_54">Fritz</rs> entpuppte sich als begabter "mimic", der nicht nur <rs type="person" ref="#amp_person_130">Hitler</rs><lb/>
                   zum besten nachmachen konnte, das können viele, sondern auf<lb/>
-                  ganz unheimliche Weise Mussolini dem er plötzlich unglaublich<lb/>
-                  ähnlich sah.  Hatte er also die verdorbenen deutschen und<lb/>
+                  ganz unheimliche Weise <rs type="person" ref="#amp_person_55">Mussolini</rs> dem er plötzlich unglaublich<lb/>
+                  ähnlich sah. <space quantity="1" unit="char"/>Hatte er also die verdorbenen deutschen und<lb/>
                   italienischen Sprachen illustriert, so ging er später auf die<lb/>
-                  französischen Intellektuellen los:  ein zimperlich-geschwollene<del>n</del>s<lb/>
-                  Gespräch zwischen Gide und Claudel.  Es wurde über Wagners<lb/>
-                  Texte gesprochen, über Liturgie-Reform, über Weinheber, Rudolf<lb/>
-                  Kassner und Freud - über<del>d</del><unclear>i</unclear>diese drei hatte Fritz persönliche<lb/>
-                  Erlebnisse zu berichten gehabt.  Wenn ich Fritz beobachte, kann<lb/>
+                  französischen Intellektuellen los: <space quantity="1" unit="char"/>ein zimperlich-geschwollene<del>n</del>s<lb/>
+                  Gespräch zwischen <rs type="person" ref="#amp_person_56">Gide</rs> und <rs type="person" ref="#amp_person_132">Claudel</rs>. <space quantity="1" unit="char"/>Es wurde über <rs type="person" ref="#amp_person_18">Wagners</rs><lb/>
+                  Texte gesprochen, über Liturgie-Reform, über <rs type="person" ref="#amp_person_5">Weinheber</rs>, <rs type="person" ref="#amp_person_57">Rudolf<lb/>
+                  Kassner</rs> und <rs type="person" ref="#amp_person_58">Freud</rs> - über<del>d</del><unclear>i</unclear>diese drei hatte <rs type="person" ref="#amp_person_54">Fritz</rs> persönliche<lb/>
+                  Erlebnisse zu berichten gehabt. <space quantity="1" unit="char"/>Wenn ich <rs type="person" ref="#amp_person_54">Fritz</rs> beobachte, kann<lb/>
                   es sehr oft vorkommen, daß ich sein Gehaben mit den Augen der<lb/>
                   Konvention sehe, ohne diese Vor<del>ein</del>urteile zu empfinden - wenn<lb/>
-                  Du das irgendwie verstehen kannst.  So hat er, als Auden ihn<lb/>
+                  Du das irgendwie verstehen kannst. <space quantity="1" unit="char"/>So hat er, als <rs type="person" ref="#amp_person_1">Auden</rs> ihn<lb/>
                   begrüßte, ihm die Hand geküßt, und das war einerseits "unmöglich"<lb/>
                   und grenzte auch tatsächlich ans Lächerliche, wa<del>f</del>r es aber doch<lb/>
-                  nicht, weil Fritz einfach aus allen Kategorien, in die man ihn<lb/>
-                  hineinpressen möchte, herausplatzt.  Die Erklärung dafür, daß<lb/>
+                  nicht, weil <rs type="person" ref="#amp_person_54">Fritz</rs> einfach aus allen Kategorien, in die man ihn<lb/>
+                  hineinpressen möchte, herausplatzt. <space quantity="1" unit="char"/>Die Erklärung dafür, daß<lb/>
                   er doch nicht ganz lächerlich wirkt, ist die Natürlichkeit, die<lb/>
                   kind<del>ische</del>liche Freude, die er empfindet, im gegeben Fall das plötzliche<lb/>
                   und völlig unaffektierte Bedürfnis, einen großen Mann zu<lb/>
-                  huldigen.   Interessant, daß Heer mit der Droste-Hülshoff und<lb/>
-                  auch mit Bertha Suttner verwandt ist.<lb/>
-                  Ohne Zweifel liegt in und um das Wesen Heers etwas Tragisches<unclear>.</unclear>
-                  Er ist ebenso unentbehrlich wie unbrauchbar.  Seine große Linie<lb/>
+                  huldigen. <space quantity="1" unit="char"/>Interessant, daß <rs type="person" ref="#amp_person_54">Heer</rs> mit der <rs type="person" ref="#amp_person_133">Droste-Hülshoff</rs> und<lb/>
+                  auch mit <rs type="person" ref="#amp_person_134">Bertha Suttner</rs> verwandt ist.
+                </p>
+               <p>
+                  <space quantity="5" unit="char"/>Ohne Zweifel liegt in und um das Wesen <rs type="person" ref="#amp_person_54">Heers</rs> etwas Tragisches<unclear>.</unclear>
+                  Er ist ebenso unentbehrlich wie unbrauchbar. <space quantity="1" unit="char"/>Seine große Linie<lb/>
                   stimmt, die Details nicht, das geht für seine geistige Arbeit<lb/>
-                  wie für seine Persönlichkeit.  Die akademische Welt, wo immer<lb/>
+                  wie für seine Persönlichkeit. <space quantity="1" unit="char"/>Die akademische Welt, wo immer<lb/>
                   sie von sturer, g<del>e</del>radliniger Mittelmäßigkeit (wie in Wien)<lb/>
                   beherrscht wird, empört sich und schiebt ihn von sich:  er ist<lb/>
                   frivol, frevelhaft, frech, unorthodox, unberechenbar und - fast<lb/>
                   übertreibe ich da ein bißl - im soziologisch-biologischen Sinne<lb/>
-                  artfremd.  Aber nicht nur in Österreich:  er sagte mir, vor<lb/>
+                  artfremd. <space quantity="1" unit="char"/>Aber nicht nur in Österreich: <space quantity="1" unit="char"/>er sagte mir, vor<lb/>
                   kurzem sagte ihm ein deutscher Universitätsprofessor ("er konnte<lb/>
-                  es sagen, weil er Naturwissenschaftler ist"):  "Sie müssen es<lb/>
+                  es sagen, weil er Naturwissenschaftler ist"): <space quantity="1" unit="char"/>"Sie müssen es<lb/>
                   mir glauben, daß es sich kein deutsches Professorenkollegium<lb/>
                   leisten kann, Sie zu sich zu nehmen." Ist er einfach zu<lb/>
-                  unbequem?  Was aber seine Person enbelangt, so empfindet er es
+                  unbequem? <space quantity="1" unit="char"/>Was aber seine Person enbelangt, so empfindet er es
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0220/" type="sheet"/>
                <p>
                   als weitaus schwieriger, mit sich selbst auszukommen, als<lb/>
-                  dies für d<del>en</del>ie Mitmenschen der Fall ist.  "Ich bin noch immer das<lb/>
+                  dies für d<del>en</del>ie Mitmenschen der Fall ist. <space quantity="1" unit="char"/>"Ich bin noch immer das<lb/>
                   verschreckte, verheulte Kind, das sich irgendwie durchschlagen<lb/>
-                  mußte.  Ich bin nie reif geworden.  Ich heiratete zu früh, für<lb/>
+                  mußte. <space quantity="1" unit="char"/>Ich bin nie reif geworden. <space quantity="1" unit="char"/>Ich heiratete zu früh, für<lb/>
                   die Ehe völlig unreif, mußte kämpfen, um meine F<del>q<gap/></del>amilie zu<lb/>
                   ernähren und hatte nie Zeit und Ruhe, um nachzudenken...<lb/>
-                  ein völliges Versagen...  Mein Leben lang ringe ich mit dem<lb/>
+                  ein völliges Versagen... <space quantity="1" unit="char"/>Mein Leben lang ringe ich mit dem<lb/>
                   Tod, kämpfe ich gegen Selbstmordgedanken... Ich bin passé:<lb/>
                   man schreibt aus meinen alten Arbeiten kommentarlos ab"usw. usf.<lb/>
                   Diese und <del><unclear>ü</unclear></del>ähnliche Dinge erzählte er mir auf der Rückfahrt,<lb/>
@@ -170,57 +172,66 @@ for any purpose, even commercially.</p>
                   über die schöne Natur glücklich, über ruhige Dörfer und hübsche<lb/>
                   Häuser. sprach über diesen uralten Kulturboden, "wo die Leute<lb/>
                   noch heute Sachen tun, die vier, fünf Jahrtausende zurück<del>liegen</del><lb/>
-                  reichen, und sie wissen es nicht."<lb/>
-                  Des Rätsels Lösung, des fast überentwickelten Geistes neben<lb/>
+                  reichen, und sie wissen es nicht."
+               </p>
+               <p>
+                  <space quantity="5" unit="char"/>Des Rätsels Lösung, des fast überentwickelten Geistes neben<lb/>
                   der zerrissenen, ungleichmäßig ausgereiften Persönlichkeit,<lb/>
-                  kennt er selbst, oder wenigstens zum Teil.  Es liegt i<del><gap/></del>m<lb/>
+                  kennt er selbst, oder wenigstens zum Teil. <space quantity="1" unit="char"/>Es liegt i<del>n</del>m<lb/>
                   Entsetzen des 4-jährigen Kindes und in den seelischen<lb/>
-                  Entbehrungen, die die Scheidung seiner Eltern verursachte.<lb/>
-                  Ärgerst Du Dich schon darüber, daß ich so viel über Fritz<lb/>
-                  Heer schreibe und wahrscheinlich deshalb weniger über andere<lb/>
-                  Dinge weil die Zeit fehlen wird?  Ich tue es teils weil <del>e</del> ich<lb/>
+                  Entbehrungen, die die Scheidung seiner Eltern verursachte.
+               </p>
+               <p>
+                  <space quantity="5" unit="char"/>Ärgerst Du Dich schon darüber, daß ich so viel über <rs type="person" ref="#amp_person_54">Fritz<lb/>
+                  Heer</rs> schreibe und wahrscheinlich deshalb weniger über andere<lb/>
+                  Dinge weil die Zeit fehlen wird? <space quantity="1" unit="char"/>Ich tue es teils weil <del>e</del> ich<lb/>
                   Dir darüber erzählen möchte, teils als eine Art von self-<lb/>
                   expression, weil mich der Mann seit 20 Jahren interessiert, seit<lb/>
                   ich seine Stimme zum ersten Mal 1948 in der "Furche" hörte.<lb/>
-                  Damals habe ich sofort gewusst:  hier ist etwas Gr<del>ßs</del>oßes, das wir<lb/>
-                  jetzt brauchen wie ein bißchen Brot.  (Damals keine abgedroschene<lb/>
-                  Phrase.)  Und er ist auch für Dich interessant:  ich liefere<lb/>
+                  Damals habe ich sofort gewusst: <space quantity="1" unit="char"/>hier ist etwas Gr<del>ßs</del>oßes, das wir<lb/>
+                  jetzt brauchen wie ein bißchen Brot. <space quantity="1" unit="char"/>(Damals keine abgedroschene<lb/>
+                  Phrase.) <space quantity="1" unit="char"/>Und er ist auch für Dich interessant: <space quantity="1" unit="char"/>ich liefere<lb/>
                   Dir gern Zeugnisse, daß es Menschen gibt - Österreicher! - dem<lb/>
                   die nötigen Eigenschaften, die Zutaten aus dem ein Faschist<lb/>
-                  geformt werden kann, gänzlich fehlen.  Plötzlich sagte er mir<lb/>
-                  <del>stah</del> strahlend:  "Kallman hat mir er<del>äz</del>zählt, seine Vorfahren<lb/>
-                  waren Juden aus Riga... Juden aus Riga."  Aus irgend einen Grund<lb/>
+                  geformt werden kann, gänzlich fehlen. <space quantity="1" unit="char"/>Plötzlich sagte er mir<lb/>
+                  <del>stah</del> strahlend: <space quantity="1" unit="char"/>"<rs type="person" ref="#amp_person_4">Kallman</rs> hat mir er<del>äz</del>zählt, seine Vorfahren<lb/>
+                  waren Juden aus Riga... Juden aus <hi rend="underline">Riga</hi>." <space quantity="1" unit="char"/>Aus irgend einen Grund<lb/>
                   freute ihn das enorm, und gleich <del><unclear>k</unclear>rie</del> kreisten seine Gedanken<lb/>
-                  <del>u</del>in weiß Gott was für Konvolutionen.  Ach ja, jetzt weiß ich<lb/>
+                  <del>u</del>in weiß Gott was für Konvolutionen. <space quantity="1" unit="char"/>Ach ja, jetzt weiß ich<lb/>
                   warum, er hat in Riga studiert und kannte wahrscheinlich jüdische<lb/>
-                  Menschen dort.<lb/>
-                  Also Schluß.  Pfingsten:  fast durchwegs herrliches Wetter,<lb/>
-                  es war zum T. Besuch draussen, u.a. Sony, ihre Mutter und die<lb/>
-                  Amélie.  Marko und ich sind Samstag vormittag hinaus- und<lb/>
-                  erst Dienstag am späten Nachmittag hereingefahren.  Ich habe<lb/>
+                  Menschen dort.
+               </p>
+               <p>
+                  <space quantity="5" unit="char"/>Also Schluß. <space quantity="1" unit="char"/>Pfingsten: <space quantity="1" unit="char"/>fast durchwegs herrliches Wetter,<lb/>
+                  es war zum T. Besuch draussen, u.a. <rs type="person" ref="#amp_person_141">Sony</rs>, <rs type="person" ref="#amp_person_146">ihre Mutter</rs> und die<lb/>
+                  <rs type="person" ref="#amp_person_142">Amélie</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_94">Marko</rs> und ich sind Samstag vormittag hinaus- und<lb/>
+                  erst Dienstag am späten Nachmittag hereingefahren. <space quantity="1" unit="char"/>Ich habe<lb/>
                   einen sehr netten Brief vom foreign editor der Financial Times<lb/>
                   bekommen, <del>um</del> in dem er sagt, er ist mit meiner Arbeit sehr<lb/>
                   zufrieden und war auch darüber freudig überrascht, daß ich<lb/>
                   imstande bin, in ih<del>e</del>rem Stil zu schreiben - "wenigen gelingt es".<lb/>
                   Jetzt will ich Deine Fragen beantworten und sonst noch schauen<lb/>
-                  was in Deinem letzten Brief steht.  Die grande toilette der Eva<lb/>
+                  was in Deinem letzten Brief steht. <space quantity="1" unit="char"/>Die grande toilette der <rs type="person" ref="#amp_person_147">Eva</rs><lb/>
                   für Schönbrunn war - ich kann Kleider so schlecht schildern -<lb/>
                   ein bis zum Boden reichendes Kleid in sanft grüner Farbe, aus<lb/>
-                  <del>einer</del> mit winzigen Perlen besticker, schwerer Seide.  Der Mantel<lb/>
+                  <del>einer</del> mit winzigen Perlen besticker, schwerer Seide. <space quantity="1" unit="char"/>Der Mantel<lb/>
                   mit ein wenig hochstehendem Kragen war aus dem gleichen aber<lb/>
-                  unbesticktem Stoff.  Mein eigenes Kleid für die Oper war leider<lb/>
+                  unbesticktem Stoff. <space quantity="1" unit="char"/>Mein eigenes Kleid für die Oper war leider<lb/>
                   auch grün, ganz schlicht, gold-lurex Art, mit Seitenschlitz<lb/>
-                  links bis zum Knie.  Für den makellosen Teint der Königin ist<lb/>
+                  links bis zum Knie. <space quantity="1" unit="char"/>Für den makellosen Teint der <rs type="person" ref="#amp_person_138">Königin</rs> ist<lb/>
                   Veranlagung verantwortlich, ich habe selten jemanden mit einem<lb/>
-                  so herrlichen Teint gesehen wie seinerzeit <del>die</del> ihre Mutter,<lb/>
-                  und diesen hat auch die Prinzessin Anne gee<del>h</del>rbt.<lb/>
+                  so herrlichen Teint gesehen wie seinerzeit <del>die</del> ihre <rs type="person" ref="#amp_person_139">Mutter</rs>,<lb/>
+                  und diesen hat auch die <rs type="person" ref="#amp_person_140">Prinzessin Anne</rs> gee<del>h</del>rbt.<lb/>
                   Daß Deine Haut im Augenblick <del>k</del>in keinem guten Zustand ist,<lb/>
                   ist sehr ärgerlich und ich frage mich, was die Ursache sein<lb/>
-                  könnte.  Daß Du Schuppen hast, habe ich nie gemerkt, aber nimm<lb/>
-                  doch einen guten Schuppen-Schaumpon.  Freilich kann das alles<lb/>
-                  mit dem Alter zu tun <del><unclear>z</unclear></del>haben.  Freuen wir uns auf den Teint, den<lb/>
-                  Du nachher haben wirst...  Ich will mir Livias Stimme, wie sie
+                  könnte.
                </p>
+               <p>
+                  <space quantity="5" unit="char"/>Daß Du Schuppen hast, habe ich nie gemerkt, aber nimm<lb/>
+                  doch einen guten Schuppen-Schaumpon. <space quantity="1" unit="char"/>Freilich kann das alles<lb/>
+                  mit dem Alter zu tun <del><unclear>z</unclear></del>haben. <space quantity="1" unit="char"/>Freuen wir uns auf den Teint, den<lb/>
+                  Du nachher haben wirst... <space quantity="1" unit="char"/>Ich will mir <rs type="person" ref="#amp_person_148">Livias</rs> Stimme, wie sie
+                </p>
          </div>
       </body>
    </text>

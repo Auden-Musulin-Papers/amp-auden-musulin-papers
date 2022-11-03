@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Note Signed Michael O'Sullivan to Stella Musulin [?]</title>
+            <title level="a">Autograph Note Signed Michael O'Sullivan to Stella Musulin 1984-08-15--1996-01-21</title>
             <author>O'Sullivan, Michael</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 19</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate>[?]</origDate></origin>
+                        <origin><origDate notBefore="1984-08-15" notAfter="1996-01-21">1984-08-15--1996-01-21</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -70,14 +70,14 @@ for any purpose, even commercially.</p>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
-         </langUsage>
-         
+         </langUsage>  
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="tfruehwirth" when="2021-10-29">text transcribed</change>
          <change who="smayer" when="2021-10-29">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-10-29">transcriptions collated</change>
+         <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -88,12 +88,12 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0246/"/>
       </surface>
    </facsimile>
-   <text type="letter">
+   <text type="letter" hand="#handwritten">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0245/" type="card"/>
-               <p>
-                  W.H. AUDEN (1907-1973)<lb/>
+               <p hand="#printed">
+                  <rs type="person" ref="#amp_person_1">W.H. AUDEN</rs> (1907-1973)<lb/>
                   English poet, as a young man
                </p>
                <p>
@@ -101,13 +101,13 @@ for any purpose, even commercially.</p>
                   Dub<unclear>l</unclear>in 2 .
                </p>
                <p>
-                  F<unclear>o</unclear>r Stella<lb/>
+                  F<unclear>o</unclear>r <rs type="person" ref="#amp_person_2">Stella</rs><lb/>
                   <unclear>W</unclear>ith e<unclear>v</unclear>ery good<lb/>
                   <unclear>wi</unclear>sh<lb/>
-                  — <unclear>Mic</unclear>hael.
-               </p>
-               <p>
-                  Photograph by Carl Van Vechten/Beinecke Library, Yale U.<lb/>
+                  — <rs type="person" ref="#amp_person_99"><unclear>Mic</unclear>hael</rs>.
+                </p>
+               <p hand="#printed">
+                  Photograph by  <rs type="person" ref="#amp_person_128">Carl Van Vechten</rs>/Beinecke Library, Yale U.<lb/>
                   © Crossing Cards<lb/>
                   Trumansburg, N.Y. 14886<lb/>
                   No. 19
