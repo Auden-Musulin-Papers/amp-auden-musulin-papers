@@ -291,6 +291,14 @@
     <rico:hasContentOfType>text</rico:hasContentOfType>
     <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
   </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0037">
+    <rico:hasOrHadIdentifier>amp_0037</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Note Signed Michael O'Sullivan to Stella Musulin 1984-08-15--1996-01-21</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1984-08-15--1996-01-21</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/o'sullivan_m.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
+  </rico:Record>
   <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0038">
     <rico:hasOrHadIdentifier>amp_0038</rico:hasOrHadIdentifier>
     <rico:hasOrHadName>Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-03-15</rico:hasOrHadName>
@@ -391,6 +399,14 @@
     <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/spiel_h.html</rico:hasAuthor>
     <rico:hasContentOfType>text</rico:hasContentOfType>
     <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0053">
+    <rico:hasOrHadIdentifier>amp_0053</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Typed Letter Stella Musulin to [Edith Silbermann] 1969-05-29</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1969-05-29</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_s.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu</rico:hasOrHadLanguage>
   </rico:Record>
   <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0057">
     <rico:hasOrHadIdentifier>amp_0057</rico:hasOrHadIdentifier>
