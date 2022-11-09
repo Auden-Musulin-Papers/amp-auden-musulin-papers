@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Notes [?] on Stella Musulin "Auden in Kirchstetten" and "In Retrospect" [?]</title>
+            <title level="a">Autograph Notes [?] on Stella Musulin "Auden in Kirchstetten" and "In Retrospect" 1985-11-29--1990-03-28</title>
             <author>[?]</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 7</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate>[?]</origDate></origin>
+                        <origin><origDate notBefore="1985-11-29" notAfter="1990-03-28">1985-11-29--1990-03-28</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,13 +71,13 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
          </langUsage>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2022-01-05">text transcribed</change>
          <change who="tfruehwirth" when="2022-01-05">text transcribed</change>
          <change who="smayer tfruehwirth" when="2022-01-05">transcriptions collated</change>
+         <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -88,52 +88,54 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0180/"/>
       </surface>
    </facsimile>
-   <text type="letter">
+   <text type="letter" hand="#handwritten">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0179/" type="sheet"/>
                <p>
-                  AUDEN IN KIRCHSTETTEN
-               </p>
+                  <hi rend="underline"><rs type="person" ref="#amp_person_1">AUDEN</rs> IN KIRCHSTETTEN</hi>
+                </p>
                <p>
-                  P. 7 Line 8 "Eliot ha<unclear>r</unclear>dly deserved it<unclear>`:" </unclear> Does this mean that you dont<lb/>
-                  think Eliot w<unclear>a</unclear>s worth translating? Or that Auden didnt? Or what?<lb/>
+                  <hi rend="underline">P. 7</hi> <hi rend="underline">Line 8</hi> "<rs type="person" ref="#amp_person_27">Eliot</rs> ha<unclear>r</unclear>dly deserved it<unclear>`:" </unclear> Does this mean that you dont<lb/>
+                  think <rs type="person" ref="#amp_person_27">Eliot</rs> w<unclear>a</unclear>s worth translating? Or that <rs type="person" ref="#amp_person_1">Auden</rs> didnt? Or what?<lb/>
                   (see p<unclear>.</unclear> 16-17)
                </p>
                <p>
-                  <unclear>R. 2</unclear> Line <del><gap/></del>7 <del>Would</del> 'Chester'. Would it <unclear>be</unclear> helpful <unclear>a</unclear>t this<lb/>
+                  <hi rend="underline"><unclear>R. 2</unclear></hi> <hi rend="underline">Line <del><gap/></del>7</hi> <del>Would</del> '<rs type="person" ref="#amp_person_4">Chester</rs>'. Would it <unclear>be</unclear> helpful <unclear>a</unclear>t this<lb/>
                   ✓<unclear>f</unclear>irst mention of him to add the sur<unclear>n</unclear>ame , i.e.<lb/>
-                  'Chester Kallman'. ?
-               </p>
+                  '<rs type="person" ref="#amp_person_4">Chester Kallman</rs>'. ?
+                </p>
                <p>
-                  IN RETROSPECT.
-               </p>
+                  <hi rend="underline">IN RETROSPECT.</hi>
+                </p>
                <p>
-                  P1. Line <unclear>6</unclear> from bottom<unclear>:</unclear><lb/>
+                  <hi rend="underline">P1.</hi> <hi rend="underline">Line <unclear>6</unclear></hi> from bottom<unclear>:</unclear><lb/>
                   "if his life as a". Sh<unclear>ou</unclear>ld this be "if his<lb/>
                   life as one" or "if his life as a whole" ?
                </p>
                <p>
-                  p·3 Para 2 Money pinched from Chesters jacket at party.<lb/>
+                  <hi rend="underline">p·3</hi> <hi rend="underline">Para 2</hi> Money pinched from <rs type="person" ref="#amp_person_4">Chesters</rs> jacket at party.<lb/>
                   <unclear>I</unclear>ncident already referred to in bottom par<unclear>a</unclear> P·13<lb/>
-                  of " Auden in Kirchs<unclear>t</unclear>etten ". Since this para is<lb/>
+                  of " <rs type="person" ref="#amp_person_54">Auden</rs> in Kirchs<unclear>t</unclear>etten ". Since this para is<lb/>
                   in brackets perhaps this is an indicatio<unclear>n</unclear> <unclear>t</unclear>hat<lb/>
                   you in<unclear>t</unclear>ended to omit it<unclear>?</unclear>
                </p>
                <p>
-                  Chec<unclear>k</unclear> wi<unclear>th</unclear> <unclear>Müller</unclear> <lb/>
+                  Chec<unclear>k</unclear> wi<unclear>th</unclear> <unclear><rs type="person" ref="#amp_person_119">Müller</rs></unclear> <lb/>
                   wh<unclear>a</unclear>t is in his mṣ .
                </p>
                <p>
-                  p3 Line <unclear>4</unclear> fr<unclear>om</unclear> bottom<lb/>
+                  <hi rend="underline">p3</hi> <hi rend="underline">Line <unclear>4</unclear> fr<unclear>om</unclear> bottom</hi><lb/>
                   " at Hinterholz 6" ?? Desirabl<unclear>e</unclear> to add<lb/>
                   <unclear>`</unclear>Kirchstetten<unclear>'</unclear> for <unclear>s</unclear>ake of clari<unclear>t</unclear>y ?
                </p>
                <p>
-                  P· 16. <del>Bottom <gap/></del> Last sentence <gap/> o<unclear>v</unclear>er <unclear>to</unclear> t<unclear>o</unclear>p P.17✓<lb/>
+                  <hi rend="underline">P· 16</hi>. <del>Bottom <gap/></del><lb/>
+                  <hi rend="underline">Last sentence <gap/></hi><lb/>
+                  <hi rend="underline">o<unclear>v</unclear>er <unclear>to</unclear> t<unclear>o</unclear>p P.17</hi>✓<lb/>
                   <unclear>I</unclear>ncident of "he who<unclear>s</unclear>e name w<unclear>e</unclear> never mention<unclear>'</unclear> at<lb/>
                   funeral. ? Repe<unclear>ti</unclear>tion of mention of this on<lb/>
-                  P·14 , to<unclear>p</unclear> para, of "Auden in Kirchstetten<unclear>".</unclear>
+                  <hi rend="underline">P·14</hi> , to<unclear>p</unclear> para, of "Auden in Kirchstetten<unclear>".</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0180/" type="sheet"/>
          </div>
