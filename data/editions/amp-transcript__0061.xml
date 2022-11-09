@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>A2</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1977-04-05">1977-04-05</origDate></origin>
+                        <origin><origDate notBefore="1977-04-05" notAfter="1977-04-05">1977-04-05</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,13 +71,13 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="de">German</language>
          </langUsage>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2022-01-25">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2022-01-27">text transcribed</change>
          <change who="tfruehwirth" when="2022-01-28">text transcribed</change>
          <change who="smayer tfruehwirth" when="2022-02-28">transcriptions collated</change>
+         <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -88,37 +88,47 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0252/"/>
       </surface>
    </facsimile>
-   <text type="letter">
+   <text type="letter" hand="#typed">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0251/" type="sheet"/>
-               <p>
+               <p hand="#printed">
                   NEULINGGASSE 26/14<lb/>
                   1030 WIEN<lb/>
                   TEL. 73 94 015
                </p>
                <p>
-                  5. April 1977
+                  <space quantity="44" unit="char"/>5. April 1977
                </p>
-               <p>
+               <p hand="#handwritten">
                   <unclear>A2</unclear>
                </p>
                <p>
-                  Herrn Dr. Wolfgang Kraus,<lb/>
+                  Herrn <rs type="person" ref="#amp_person_137">Dr. Wolfgang Kraus</rs>,<lb/>
                   Österreichische Gesellschaft<lb/>
-                  für Literatur<lb/>
+                  <space quantity="6" unit="char"/>für Literatur<lb/>
                   1010 Wien,<lb/>
                   Palais Wilczek, He<del>e</del>rrengasse 5.
                </p>
                <p>
-                  Sehr geehrter, lieber Herr Doktor !<lb/>
-                  Es wird für mich eine Ehre sein, am 5. Mai<lb/>
-                  über Auden sprechen zu dürfen.<lb/>
-                  Wie wäre es mit "Auden und die Österreicher"?<lb/>
-                  Aber wenn nicht, ist mir Alles recht!<lb/>
-                  Mit herzlichen Grüßen,<lb/>
-                  Stella Musulin <unclear>´</unclear><lb/>
-                  Stella Musulin.
+                  Sehr geehrter, lieber Herr Doktor !
+               </p>
+               <p>
+                  <space quantity="5" unit="char"/>Es wird für mich eine Ehre sein, am 5. Mai<lb/>
+                  über <rs type="person" ref="#amp_person_1">Auden</rs> sprechen zu dürfen.
+                </p>
+               <p>
+                  <space quantity="5" unit="char"/>Wie wäre es mit "Auden und die Österreicher"?<lb/>
+                  Aber wenn nicht, ist mir Alles recht!
+               </p>
+               <p>
+                  <space quantity="15" unit="char"/>Mit herzlichen Grüßen,
+               </p>
+               <p hand="#handwritten">
+                  <rs type="person" ref="#amp_person_2">Stella Musulin</rs> <unclear>´</unclear>
+               </p>
+               <p>
+                  <space quantity="15" unit="char"/><rs type="person" ref="#amp_person_2">Stella Musulin</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0252/" type="sheet"/>
          </div>

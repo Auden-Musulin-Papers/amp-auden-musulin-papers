@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>A2</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1977-03-22">1977-03-22</origDate></origin>
+                        <origin><origDate notBefore="1977-03-22" notAfter="1977-03-22">1977-03-22</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,13 +71,13 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="de">German</language>
          </langUsage>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2022-01-25">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2022-01-27">text transcribed</change>
          <change who="tfruehwirth" when="2022-01-28">text transcribed</change>
          <change who="smayer tfruehwirth" when="2022-02-28">transcriptions collated</change>
+         <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -88,35 +88,45 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0254/"/>
       </surface>
    </facsimile>
-   <text type="letter">
+   <text type="letter" hand="#typed">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0253/" type="sheet"/>
-               <p>
+               <p hand="#handwritten">
                   <unclear>A2</unclear>
                </p>
                <p>
                   Frau<lb/>
-                  Stella von Musulin<lb/>
+                  <rs type="person" ref="#amp_person_2">Stella von Musulin</rs><lb/>
                   Friedau<lb/>
                   3200 Obergrafendorf
                </p>
                <p>
-                  Wien, 22.März 1977
+                  <space quantity="34" unit="char"/>Wien, 22.März 1977
+                </p>
+               <p>
+                  Sehr verehrte, liebe gnädige Frau,
                </p>
                <p>
-                  Sehr verehrte, liebe gnädige Frau,<lb/>
-                  wie mit Frau Bronold mündlich vereinbart, möchte ich nun<lb/>
+                  wie mit Frau <rs type="person" ref="#amp_person_135">Bronold</rs> mündlich vereinbart, möchte ich nun<lb/>
                   auch schriftlich festhalten, daß wir Sie sehr herzlich<lb/>
-                  einladen, Ihren Vortrag über W.H.Auden am Donnerstag, den<lb/>
+                  einladen, Ihren Vortrag über <rs type="person" ref="#amp_person_15">W.H.Auden</rs> am Donnerstag, den<lb/>
                   5.Mai, bei uns zu halten. Wir haben dafür den Figaro-Saal<lb/>
                   im Palais Palffy reserviert, Zeit 20 Uhr. Als Honorar<lb/>
-                  können wir 1.500 Schilling anbieten.<lb/>
+                  können wir 1.500 Schilling anbieten.
+               </p>
+               <p>
                   Ich wäre Ihnen nur sehr dankbar, wenn Sie uns umgehend<lb/>
-                  den genauen Titel bekanntgeben könnten.<lb/>
-                  Mit herzlichen Empfehlungen und Wünschen<lb/>
-                  Ihr<lb/>
-                  (Dr.Wolfgang Kraus)
+                  den genauen Titel bekanntgeben könnten.
+               </p>
+               <p>
+                  Mit herzlichen Empfehlungen und Wünschen
+               </p>
+               <p>
+                  <space quantity="42" unit="char"/>Ihr
+               </p>
+               <p>
+                  <space quantity="32" unit="char"/>(<rs type="person" ref="#amp_person_137">Dr.Wolfgang Kraus</rs>)
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0254/" type="sheet"/>
          </div>
