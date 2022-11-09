@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Invitation Card Österreichische Gesellschaft für Literatur Poetry Reading W. H. Auden [1973]</title>
+            <title level="a">Invitation Card Österreichische Gesellschaft für Literatur Poetry Reading W. H. Auden 1973-01-01--1973-09-28</title>
             <author>Österreichische Gesellschaft für Literatur</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 25</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1973-01-01" notAfter="1973-12-31">[1973]</origDate></origin>
+                        <origin><origDate notBefore="1973-01-01" notAfter="1973-09-28">1973-01-01--1973-09-28</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,13 +71,13 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
          </langUsage>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2022-01-07">text transcribed</change>
          <change who="tfruehwirth" when="2022-01-07">text transcribed</change>
          <change who="smayer tfruehwirth" when="2022-01-07">transcriptions collated</change>
+         <change who="tfruehwirth" when="2022-11-09">transcriptions updated v0.1</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -88,7 +88,7 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0244/"/>
       </surface>
    </facsimile>
-   <text type="letter">
+   <text type="letter" hand="#printed">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0243/" type="nan"/>
