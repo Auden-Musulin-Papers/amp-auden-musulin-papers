@@ -97,8 +97,8 @@
                     English poet, as a young man
                 </p>
                 <p>
-                    <rs type="place" ref="#amp_place_id_173">22 Kildare St.</rs><lb/>
-                    <rs type="place" ref="#amp_place_id_108">Dub<unclear>l</unclear>in</rs> 2 .
+                    <rs type="place" ref="#amp_place_id_173">22 Kildare St.<lb/>
+                    Dub<unclear>l</unclear>in 2</rs> .
                 </p>
                 <p>
                     F<unclear>o</unclear>r <rs type="person" ref="#amp_person_2">Stella</rs><lb/>
@@ -107,9 +107,9 @@
                     — <rs type="person" ref="#amp_person_99"><unclear>Mic</unclear>hael</rs>.
                 </p>
                 <p>
-                    Photograph by <rs type="person" ref="#amp_person_128">Carl Van Vechten</rs>/<rs type="place" ref="#amp_place_id_207">Beinecke Library</rs>, <rs type="place" ref="#amp_place_id_208">Yale U</rs>.<lb/>
+                    Photograph by <rs type="person" ref="#amp_person_128">Carl Van Vechten</rs>/<rs type="place" ref="#amp_place_id_207">Beinecke Library, Yale U</rs>.<lb/>
                     © <rs type="org" ref="#amp_organization_22">Crossing Cards</rs><lb/>
-                    <rs type="place" ref="#amp_place_id_210">Trumansburg, <rs type="place" ref="#amp_place_id_28">N.Y.</rs> 14886<lb/>
+                    <rs type="place" ref="#amp_place_id_210">Trumansburg, N.Y. 14886<lb/>
                     No. 19</rs>
                 </p>
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0246/" type="card"/>
