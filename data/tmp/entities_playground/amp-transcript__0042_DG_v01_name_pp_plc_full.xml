@@ -114,15 +114,15 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0033/" type="envelope"/>
                <p hand="#handwritten">
                   Die Baronin<lb/>
-                  S<del><unclear>e</unclear></del>tella Musulin<lb/>
-                  <del>1040</del> Wien <del>IV</del><lb/>
-                  Neulingasse 26
+                  <rs type="person" ref="#amp_person_2">S<del><unclear>e</unclear></del>tella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11"><del>1040</del> Wien <del>IV</del><lb/>
+                  Neulingasse 26</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0034/" type="envelope"/>
                <p hand="#printed">
-                  KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0103/" type="sheet"/>
                <p>
@@ -142,7 +142,7 @@ for any purpose, even commercially.</p>
                   <space quantity="9" unit="char"/>___
                </p>
                <p hand="#handwritten">
-                  Dear Stell<unclear>a</unclear>,<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stell<unclear>a</unclear></rs>,<lb/>
                   Terribly sorry about <unclear>l</unclear>ast Sunday.<lb/>
                   Since I had no idea whe<unclear>n</unclear> we should be<lb/>
                   a<unclear>b</unclear>le to get to you, I tho<unclear>u</unclear>g<unclear>ht</unclear> it was unfair<lb/>
@@ -150,16 +150,16 @@ for any purpose, even commercially.</p>
                   Ha<unclear>ve</unclear> a ni<unclear>c</unclear>e <unclear>win</unclear>ter and <unclear>wi</unclear>ll see you, I hop<unclear>e</unclear>,<lb/>
                   early in Apr<unclear>il</unclear><lb/>
                   love<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0104/" type="sheet"/>
                <p>
-                  <hi rend="underline">ELEGY</hi><lb/>
-                  (<hi rend="underline">In Memoriam Emma Eiermann</hi>. <del>ob</del><lb/>
+                  <rs type="lit_work" ref="#lit_work_id_58"><hi rend="underline">ELEGY</hi></rs><lb/>
+                  (<hi rend="underline">In Memoriam <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></hi>. <del>ob</del><lb/>
                   <hi rend="underline">ob.Nov 4th,I967)</hi>
                </p>
                <lg>
-                  <l><hi rend="underline">Liebe Frau Emma</hi>,</l>
+                  <l><hi rend="underline">Liebe Frau <rs type="person" ref="#amp_person_16">Emma</rs></hi>,</l>
                   <l><hi rend="underline">na,was hast Du denn gemacht?</hi></l>
                   <l>You who always made</l>
                   <l>such conscience of our comfort,</l>
@@ -180,7 +180,7 @@ for any purpose, even commercially.</p>
                   <l>would spell for your cats and ours:</l>
                   <l>all had to be put away.</l>
                   <l>You came with the house,</l>
-                  <l>you and your brother Josef,</l>
+                  <l>you and your brother <rs type="person" ref="#amp_person_17">Josef</rs>,</l>
                   <l><del>Sudeten deutsche,</del> <hi rend="underline">Sudetendeutsche</hi>,</l>
                   <l>made homeless paupers when Czechs</l>
                   <l>got their turn to be brutal:</l>
@@ -219,9 +219,9 @@ for any purpose, even commercially.</p>
                   <l>But when in good form,</l>
                   <l>how enchanting your shy grin,</l>
                   <l>your soft cat-language:</l>
-                  <l>no,no,Frau E,dear oddling,</l>
+                  <l>no,no,Frau <rs type="person" ref="#amp_person_16">E</rs>,dear oddling,</l>
                   <l>we shall always be grateful.</l>
-                  <l>After Josef died</l>
+                  <l>After <rs type="person" ref="#amp_person_17">Josef</rs> died</l>
                   <l>(siblings can live in a bond</l>
                   <l>as close as wedlock),</l>
                   <l>you were all amort,your one</l>
