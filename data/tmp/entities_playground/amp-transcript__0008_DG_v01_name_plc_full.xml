@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0020.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0008.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1973-09-24</title>
+            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12</title>
             <author>Auden, W. H.</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -44,7 +44,7 @@ for any purpose, even commercially.</p>
                </licence>
                <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
             </availability>
-         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C319-A</idno></publicationStmt>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C30D-8</idno></publicationStmt>
          <seriesStmt>
             <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
          </seriesStmt>
@@ -57,10 +57,10 @@ for any purpose, even commercially.</p>
                         <settlement>St. Pölten</settlement>
                         <repository>State Collections of Lower Austria</repository>
                         <collection>Stella Musulin (Depot)</collection>
-                        <idno>1, 33</idno>
+                        <idno>1, 19</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1973-09-24" notAfter="1973-09-24">1973-09-24</origDate></origin>
+                        <origin><origDate notBefore="1968-10-12" notAfter="1968-10-12">1968-10-12</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -76,7 +76,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <persName ref="#auden-w-h">Auden, W. H.</persName>
                <placeName ref="#"/>
-               <date notBefore="1973-09-24" notAfter="1973-09-24">1973-09-24</date>
+               <date notBefore="1968-10-12" notAfter="1968-10-12">1968-10-12</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#musulin-stella">Musulin, Stella</persName>
@@ -88,73 +88,78 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
-         <change who="tfruehwirth" when="2021-10-18">text transcribed</change>
-         <change who="smayer" when="2021-10-19">text transcribed</change>
-         <change who="smayer tfruehwirth" when="2021-10-19">transcriptions collated</change>
-         <change who="smayer tfruehwirth" when="2022-03-16">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="tfruehwirth" when="2021-09-29">text transcribed</change>
+         <change who="smayer" when="2021-10-01">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-01">transcriptions collated</change>
+         <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="4586" lry="3446">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0095/"/>
+      <surface ulx="0" uly="0" lrx="4144" lry="3604">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0039/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4588" lry="3448">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0096/"/>
+      <surface ulx="0" uly="0" lrx="4146" lry="3608">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0040/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4210" lry="5696">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0097/"/>
+      <surface ulx="0" uly="0" lrx="3948" lry="4918">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0041/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4214" lry="5686">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0098/"/>
+      <surface ulx="0" uly="0" lrx="3946" lry="4920">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0042/"/>
       </surface>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0095/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0039/" type="envelope"/>
                <p>
-                  L<hi rend="underline">ast letter</hi> .
+                  <hi rend="underline">Air-Mail</hi>
                </p>
                <p>
-                  Die B<unclear>a</unclear>ronin<lb/>
-                  Stella <unclear>M</unclear>usulin<lb/>
-                  A-1030 Wien<lb/>
-                  Neulingasse 26/14
+                  <unclear>L</unclear>eft US driving<lb/>
+                  licence behind <unclear>·</unclear>
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0096/" type="envelope"/>
                <p>
-                  <unclear>W.H.</unclear>Auden<lb/>
+                  Die Baroninin<lb/>
+                  <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11"><del>Vi</del> Wien I<del>V</del>II<lb/>
+                  Neulinggasse 26<lb/>
+                  Au<hi rend="underline">str</hi>ia</rs>
                </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0040/" type="envelope"/>
+               <p>
+                  <rs type="person" ref="#amp_person_1">WH<unclear>_</unclear>Auden</rs><lb/>
+                  ℅ <rs type="person" ref="#amp_person_19">Heyworth</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_45">32 Bryanston Sq<unclear>u</unclear>are<lb/>
+                  London. <del><unclear>N.,</unclear></del> W.I<lb/>
+                  England</rs>
+               </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0041/" type="sheet"/>
                <p hand="#printed">
-                  3062 KIRCHSTETTEN<lb/>
-                  BEZ. ST. PÖLTEN<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
-               </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0097/" type="sheet"/>
-               <p hand="#printed">
-                  3062 KIRCHSTETTEN<lb/>
-                  BEZ. ST. PÖLTEN<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  <rs type="org" ref="#amp_organization_6">CHRIST CHURCH,<lb/>
+                  OXFORD</rs>.
                </p>
                <p>
-                  <del>Dear</del> <del><unclear>O</unclear></del>Sept 24th
+                  Oct 12 th
                </p>
                <p>
-                  Dear Stella:<lb/>
-                  I dont yet <unclear>k</unclear>now a<unclear>t</unclear> w<unclear>h</unclear>at time<lb/>
-                  the re<unclear>a</unclear>ding is to be. If not until 8<unclear>·o</unclear>.p.<lb/>
-                  I shall eat first,beca<unclear>u</unclear>se I like to go<lb/>
-                  to bed early<unclear>_</unclear><lb/>
-                  Many tha<unclear>n</unclear>ks for the invitation to stay<lb/>
-                  the nig<unclear>h</unclear>t <unclear>with</unclear> y<unclear>ou</unclear>, but I have already<lb/>
-                  booked a roo<unclear>m</unclear> <unclear>a</unclear>t t<unclear>h</unclear>e <unclear>H</unclear>otel <del>Altburg<gap reason="deleted"/></del>hof<lb/>
-                  Altburgenhof<unclear>,</unclear><lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>.</unclear><lb/>
+                  Like an idiot<unclear>,</unclear> I<unclear>v</unclear>e<del><gap reason="deleted"/></del> gone and<lb/>
+                  left my American Dr<del><gap reason="deleted"/></del>iving Licence<lb/>
+                  behind.<lb/>
+                  It sh<unclear>ou</unclear>ld be in an envelope in<lb/>
+                  the drawer of my bed-table upstairs.<lb/>
+                  Could you be an angel and look for<lb/>
+                  it next time you ar<unclear>e</unclear> going to <rs type="place" ref="#amp_place_id_7">Fridau</rs><lb/>
+                  and air-mail to me<lb/>
+                  ℅ Mr <rs type="person" ref="#amp_person_19">Peter Heyworth</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_45">32 Bryanston Square<lb/>
+                  London . W .I .</rs><lb/>
+                  So sorry to be such a nuisance.<lb/>
                   love<lb/>
-                  Wystan<unclear>,</unclear>
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0098/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0042/" type="sheet"/>
          </div>
       </body>
    </text>

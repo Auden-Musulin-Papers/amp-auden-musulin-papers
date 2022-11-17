@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0021.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0014.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</title>
+            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1969-05-21</title>
             <author>Auden, W. H.</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -44,7 +44,7 @@ for any purpose, even commercially.</p>
                </licence>
                <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
             </availability>
-         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C31A-9</idno></publicationStmt>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C313-0</idno></publicationStmt>
          <seriesStmt>
             <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
          </seriesStmt>
@@ -57,10 +57,10 @@ for any purpose, even commercially.</p>
                         <settlement>St. Pölten</settlement>
                         <repository>State Collections of Lower Austria</repository>
                         <collection>Stella Musulin (Depot)</collection>
-                        <idno>1, 2</idno>
+                        <idno>1, 25</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1961-10-13" notAfter="1961-10-13">1961-10-13</origDate></origin>
+                        <origin><origDate notBefore="1969-05-21" notAfter="1969-05-21">1969-05-21</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -76,7 +76,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <persName ref="#auden-w-h">Auden, W. H.</persName>
                <placeName ref="#"/>
-               <date notBefore="1961-10-13" notAfter="1961-10-13">1961-10-13</date>
+               <date notBefore="1969-05-21" notAfter="1969-05-21">1969-05-21</date>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#musulin-stella">Musulin, Stella</persName>
@@ -88,67 +88,75 @@ for any purpose, even commercially.</p>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
-         <change who="tfruehwirth" when="2021-10-20">text transcribed</change>
-         <change who="smayer" when="2021-10-20">text transcribed</change>
-         <change who="smayer tfruehwirth" when="2021-10-21">transcriptions collated</change>
-         <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="tfruehwirth" when="2021-10-08">text transcribed</change>
+         <change who="smayer" when="2021-10-11">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-11">transcriptions collated</change>
+         <change who="smayer tfruehwirth" when="2022-03-16">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="4552" lry="3472">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/"/>
+      <surface ulx="0" uly="0" lrx="4586" lry="3444">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0063/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4550" lry="3472">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0114/"/>
+      <surface ulx="0" uly="0" lrx="4590" lry="3446">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0064/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4268" lry="5694">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0115/"/>
+      <surface ulx="0" uly="0" lrx="5750" lry="7686">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0065/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4272" lry="5688">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0116/"/>
+      <surface ulx="0" uly="0" lrx="5750" lry="7694">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0066/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text type="letter" hand="#handwritten">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/" type="envelope"/>
-               <p hand="#handwritten">
-                  Die Baroni<unclear>n</unclear><lb/>
-                  Stella von Mussolin<lb/>
-                  <hi rend="underline">Wien III</hi><lb/>
-                  Neulingasse 26 <unclear>,</unclear>
-               </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0114/" type="envelope"/>
-               <p hand="#handwritten">
-                  W.H.Auden<lb/>
-               </p>
-               <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
-               </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0115/" type="sheet"/>
-               <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0063/" type="envelope"/>
+               <p>
+                  <hi rend="underline">Express</hi>
                </p>
                <p>
-                  Friday
+                  "<unclear>L</unclear>onging to hear abo<unclear>u</unclear>t<lb/>
+                  royal visi<unclear>t</unclear> .<unclear>"</unclear>
                </p>
                <p>
-                  <space quantity="13" unit="char"/>Dear Stella:<lb/>
-                  <space quantity="5" unit="char"/>Many thanks for your letter. Ac<del>r</del>tually,we<lb/>
-                  shall be here till the end of October.<lb/>
-                  <space quantity="2" unit="char"/>So far as I know,any week-day which suits you<lb/>
-                  and Herr Fritsch would be O.K.for us,so just<lb/>
-                  <space quantity="1" unit="char"/>drop us a p.c.when you fix the day.<lb/>
-                  <space quantity="7" unit="char"/>longing to see you<lb/>
+                  Die Baronin<lb/>
+                  <rs type="person" ref="#amp_person_2">Stella Musuli</rs><unclear>m</unclear><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
+                  Neulinggasse 26/14</rs>
                </p>
-               <p hand="#handwritten">   
-                  Wystan
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0064/" type="envelope"/>
+               <p>
+                  <rs type="person" ref="#amp_person_1">W<unclear>H.</unclear> Auden</rs>
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0116/" type="sheet"/>
+               <p hand="#printed">
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA</rs>
+               </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0065/" type="sheet"/>
+               <p hand="#printed">
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA</rs>
+               </p>
+               <p>
+                  May 21 st<unclear>.</unclear>. 1969
+               </p>
+               <p>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>,</unclear><lb/>
+                  Ma<unclear>n</unclear>y thank f<unclear>o</unclear> your card<unclear>,</unclear> Had<lb/>
+                  tried several <unclear>ti</unclear>mes t<unclear>o</unclear> reach you<lb/>
+                  by phone,but w<unclear>ithou</unclear>t succ<unclear>e</unclear>ss<lb/>
+                  Wed<unclear>n</unclear>esday <del>lunch</del> May 28th is fine<lb/>
+                  for us,and we shall much look<lb/>
+                  forward to seeing you both<unclear>-</unclear><lb/>
+                  <del>H</del> Longing to hear about the<lb/>
+                  Royal v<unclear>s</unclear>it.<lb/>
+                  love<lb/>
+                  <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>'</unclear>
+               </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0066/" type="sheet"/>
          </div>
       </body>
    </text>
