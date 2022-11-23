@@ -91,7 +91,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0247/" type="nan"/>
                <p>
-                  Photograph of W. H. Auden (left) and Mary McCarthy (middle) by Otto Breicha, Palais Pálffy, April 1967.
+                  Photograph of <rs type="person" ref="#amp_person_1">W. H. Auden</rs> (left) and <rs type="person" ref="#amp_person_72">Mary McCarthy</rs> (middle) by <rs type="person" ref="#amp_person_152">Otto Breicha</rs>, <rs type="place" ref="#amp_place_id_85">Palais Pálffy</rs>, April 1967.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0248/" type="nan"/>
                <p>
@@ -99,9 +99,9 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   AUFNAHME:<lb/>
-                  OTTO BREICHA<lb/>
-                  ALSERSTRASSE 48/31<lb/>
-                  WIEN 9
+                  <rs type="person" ref="#amp_person_152">OTTO BREICHA</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_217">ALSERSTRASSE 48/31<lb/>
+                  WIEN 9</rs>
                </p>
          </div>
       </body>

@@ -113,41 +113,41 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0083/" type="envelope"/>
                <p>
-                  "A Certain World<unclear>"</unclear>.
+                  <rs type="lit_work" ref="#lit_work_id_33">"A Certain World</rs><unclear>"</unclear>.
                </p>
                <p>
                   Die Baronin<lb/>
-                  Stella Musulin<lb/>
-                  1030 Wien III<lb/>
-                  Neulinggasse 26/14
+                  <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11">1030 Wien III<lb/>
+                  Neulinggasse 26/14</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0084/" type="envelope"/>
                <p>
-                  WH Auden<lb/>
+                  <rs type="person" ref="#amp_person_1">WH Auden</rs><lb/>
                </p>
                <p hand="#printed">
-                  3062 KIRCHSTETTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                   BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0085/" type="sheet"/>
                <p>
                   June 4th.
                </p>
                <p hand="#printed">
-                  3062 KIRCHSTETTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                   BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
-                  Dear Stella:<lb/>
-                  I have <unclear>a</unclear> copy of <hi rend="underline">A Cert<unclear>a</unclear>in World</hi><lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+                  I have <unclear>a</unclear> copy of <rs type="lit_work" ref="#lit_work_id_33"><hi rend="underline">A Cert<unclear>a</unclear>in World</hi></rs><lb/>
                   for you ,t<unclear>o</unclear> pi<unclear>c</unclear>k up any time at<lb/>
                   your convenience.<lb/>
                   love<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0086/" type="sheet"/>
          </div>

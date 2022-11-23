@@ -113,43 +113,43 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0019/" type="envelope"/>
                <p>
-                  W.H.Auden<lb/>
-                  77 St Mark's Place<lb/>
+                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                   New York City 3<lb/>
                   New York IOOO3<lb/>
-                  U.S.A.
+                  U.S.A.</rs>
                </p>
                <p>
                   <hi rend="underline">Air-Mail</hi>
                </p>
                <p>
                   Die Baronin<lb/>
-                  <space quantity="3" unit="char"/>Stella Musulin<lb/>
-                  <space quantity="5" unit="char"/>Fridau<lb/>
+                  <space quantity="3" unit="char"/><rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  <space quantity="5" unit="char"/><rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                   <space quantity="6" unit="char"/>32<del>o</del>OO Obergrafendorf<lb/>
                   <space quantity="8" unit="char"/>N.<unclear>Ö</unclear>.<lb/>
-                  <space quantity="9" unit="char"/>Austria
+                  <space quantity="9" unit="char"/>Austria</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0020/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0021/" type="sheet"/>
                <p>
-                  77 St Mark's Place<lb/>
+                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                   New <space quantity="1" unit="char"/>York City 3<lb/>
-                  New York IOOO3
+                  New York IOOO3</rs>
                </p>
                <p>
                   Feb 3rd,I96<del>5</del>6
                </p>
                <p>
-                  <space quantity="19" unit="char"/>Dear Stella:<lb/>
-                  <space quantity="7" unit="char"/>Many thanks for your nice long letter. Stephen has a genius for<lb/>
+                  <space quantity="19" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+                  <space quantity="7" unit="char"/>Many thanks for your nice long letter. <rs type="person" ref="#amp_person_8">Stephen</rs> has a genius for<lb/>
                   <space quantity="4" unit="char"/>subtle misrepresentation. "Serious insistence on unseriousness'<lb/>
                   <space quantity="4" unit="char"/>telescopes two <del>cnvictuons</del>distinct convictions of mine,falsifying both.<lb/>
                   <space quantity="5" unit="char"/>I) I believe it to be a serious moral error when an artist overestimates<lb/>
                   <space quantity="8" unit="char"/>the importance of art and,by implication,of himself. One must admit<lb/>
                   <space quantity="8" unit="char"/>that the <del>plotical</del> political history of Eur<del>i</del>ope,with <del>all its</del>the same horrors,<lb/>
-                  <space quantity="8" unit="char"/>would be what it has been,if Dante,Shakespeare,Goethe,Titian,<lb/>
-                  <space quantity="8" unit="char"/>Mo<del>x</del>zart,et al,had never existed.<lb/>
+                  <space quantity="8" unit="char"/>would be what it has been,if <rs type="person" ref="#amp_person_9">Dante</rs>,<rs type="person" ref="#amp_person_10">Shakespeare</rs>,<rs type="person" ref="#amp_person_11">Goethe</rs>,<rs type="person" ref="#amp_person_12">Titian</rs>,<lb/>
+                  <space quantity="8" unit="char"/><rs type="person" ref="#amp_person_13">Mo<del>x</del>zart</rs>,et al,had never existed.<lb/>
                   <space quantity="4" unit="char"/>2) I believe that the only way in which,to-day at any rate,one can<lb/>
                   <space quantity="7" unit="char"/>speak <del>seroiu</del> <del>s eriously</del> <hi rend="underline">seriously</hi> about serious matters(the alternati<del>c</del>ve<lb/>
                   <space quantity="7" unit="char"/>is silence) is comically. I am surprised to hear from you that<lb/>
@@ -165,7 +165,7 @@ for any purpose, even commercially.</p>
                   <space quantity="2" unit="char"/>So! you encountered the one-whose-name-we-never-mention. Why Chest<del>r</del>er should<lb/>
                   <space quantity="1" unit="char"/>have been so foolish as <space quantity="1" unit="char"/>to invite him to a p<del>e</del>arty,I cannot imagine. If he<lb/>
                   is to be seen at all,he <del>jy</del>must be seen alone. Incidentally,next time you see<lb/>
-                  Chester,scold him a) for not writing to me b) for not answering Harrison's<lb/>
+                  <rs type="person" ref="#amp_person_4">Chester</rs>,scold him a) for not writing to me b) for not answering Harrison's<lb/>
                   cable.<lb/>
                   <space quantity="1" unit="char"/>All well here.except for a leaking kit<del>v</del>chen roof. No doubt you read about<lb/>
                   our Black-Out and Transit Strike.(My typewriter is on the blink,hence the<lb/>
@@ -174,8 +174,8 @@ for any purpose, even commercially.</p>
                   mentioned me. "<del>i</del>I happen to know him quite well",said my friend. To which the<lb/>
                   girl in astonishment:"You mean to say,he's still <hi rend="underline">alive</hi>!".<lb/>
                   <space quantity="2" unit="char"/>Expect to get back to Kirchstetten about April 20th.<lb/>
-                  <space quantity="21" unit="char"/>much love and <unclear>g</unclear>reetings to son and mum-in-law<lb/>
-                  Wystan.
+                  <space quantity="21" unit="char"/>much love and <unclear>g</unclear>reetings to <rs type="person" ref="#amp_person_94">son</rs> and <rs type="person" ref="#amp_person_93">mum-in-law</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0022/" type="sheet"/>
          </div>

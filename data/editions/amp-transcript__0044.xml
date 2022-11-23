@@ -107,14 +107,14 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0101/" type="sheet"/>
                <p hand="#printed">
-                  from Peter Heyworth<lb/>
-                  32 BRYANSTON SQUARE <space quantity="1" unit="char"/>LONDON W1 <space quantity="1" unit="char"/>· <space quantity="1" unit="char"/>AMBASSADOR 8906
+                  from <rs type="person" ref="#amp_person_19">Peter Heyworth</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_45">32 BRYANSTON SQUARE <space quantity="1" unit="char"/>LONDON W1 <space quantity="1" unit="char"/>· <space quantity="1" unit="char"/>AMBASSADOR 8906</rs>
                </p>
                <p>
                   Oct 24th
                </p>
                <p>
-                  Dear Stella:<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Many thanks for your lette<unclear>r</unclear> and the<lb/>
                   Dr<unclear>viv</unclear>ing li<unclear>c</unclear>ence <unclear>w</unclear>hich I am mu<unclear>c</unclear>h relieved<lb/>
                   to get.<lb/>
@@ -122,14 +122,14 @@ for any purpose, even commercially.</p>
                   shivering,so I enclose a cheque for<lb/>
                   S.2000 for extra fuel,and will send<lb/>
                   more if and when needed.<lb/>
-                  Wh<unclear>a</unclear>t is Mr Langers first name.? Does<lb/>
+                  Wh<unclear>a</unclear>t is Mr <rs type="person" ref="#amp_person_155">Langers</rs> first name.? Does<lb/>
                   he underst<unclear>a</unclear>nd English? I <unclear>m</unclear>u<unclear>s</unclear>t w<unclear>ri</unclear>te<lb/>
                   him a note of welcome.<lb/>
                   I leave <unclear><del><gap reason="deleted"/></del>to-</unclear>day week for Ne<unclear>w</unclear> York.<lb/>
-                  <unclear>A</unclear>ddress. 77 St Mark's Place. New<lb/>
-                  York City. New York 10003.<lb/>
+                  <unclear>A</unclear>ddress. <rs type="place" ref="#amp_place_id_29">77 St Mark's Place. New<lb/>
+                  York City. New York 10003.</rs><lb/>
                   much love and thanks<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0102/" type="sheet"/>
          </div>

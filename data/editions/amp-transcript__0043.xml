@@ -143,16 +143,16 @@ for any purpose, even commercially.</p>
                   May 21st.
                </p>
                <p hand="#handwritten">
-                  Dear S<del><unclear>e</unclear></del>tella<unclear>·</unclear><lb/>
+                  Dear <rs type="person" ref="#amp_person_2">S<del><unclear>e</unclear></del>tella</rs><unclear>·</unclear><lb/>
                   You're an angel. I have to deliver this<lb/>
-                  in Neulengbach on Sun<unclear>day</unclear>, June 14th.<lb/>
+                  in <rs type="place" ref="#amp_place_id_47">Neulengbach</rs> on Sun<unclear>day</unclear>, June 14th.<lb/>
                   In case your dictionary doesn't give it, the<lb/>
                   German for the technical word <hi rend="underline">buddle</hi> (page I, near<lb/>
                   bottom) is <hi rend="underline">Erzwaschtrog</hi> .<lb/>
                   I hope there is an equivalent German euphemism<lb/>
                   for <unclear>"t</unclear>e Senior Citizen."<unclear>,</unclear><lb/>
                   If there is a special honary title of adress<lb/>
-                  for a <hi rend="underline">Landeshaupt<unclear>m</unclear>an</hi>,please supply.<lb/>
+                  for a <hi rend="underline"><rs type="person" ref="#amp_person_112">Landeshaupt<unclear>m</unclear>an</rs></hi>,please supply.<lb/>
                   love<lb/>
                   Wystan<lb/>
                   P<unclear>_</unclear>S. <hi rend="underline">Adit</hi>= <hi rend="underline">Stollen</hi>.<lb/>
@@ -165,7 +165,7 @@ for any purpose, even commercially.</p>
                   (<unclear>1</unclear>
                </p>
                <p>
-                  <space quantity="17" unit="char"/>Sehr vee<del>rh</del>hrter Herr Landeshauptman<unclear>n,</unclear>meine Damen und Herren:<lb/>
+                  <space quantity="17" unit="char"/>Sehr vee<del>rh</del>hrter Herr <rs type="person" ref="#amp_person_112">Landeshauptman<unclear>n,</unclear></rs> meine Damen und Herren:<lb/>
                   <space quantity="10" unit="char"/>I hope you will pardon me if I speak somewhat personally. I do so,<lb/>
                   not out of vanity,but bec<del>ua</del>ause <space quantity="1" unit="char"/>I do <del>j</del>not wish to give the impression that I<lb/>
                   am attempting to lay down absolute laws which are valid for all. I give you my<lb/>
@@ -176,7 +176,7 @@ for any purpose, even commercially.</p>
                   itself.<lb/>
                   <space quantity="2" unit="char"/>Between the ages of six and twelve,I spent a great many of my waking hours in<lb/>
                   the fab<del>o</del>rication of a private secondary sacred world,the basic elements of which<lb/>
-                  were <del><del><unclear>at</unclear></del><unclear>O</unclear></del> a) a limestone landscape mainly derived from the Pennine Moors in the<lb/>
+                  were <del><del><unclear>at</unclear></del><unclear>O</unclear></del> a) a limestone landscape mainly derived from the <rs type="place" ref="#amp_place_id_41">Pennine Moors</rs> in the<lb/>
                   North of England and b) an industry - lead-mining.<lb/>
                   <space quantity="3" unit="char"/>It is no doubt psychologically significant that my sacred world was autistic -<lb/>
                   that is to say,I had no wish to share it with others no<del>t</del>r could I have done so.<lb/>
@@ -267,7 +267,7 @@ for any purpose, even commercially.</p>
                   only been my exper<del>ei</del>ience is accidental. What the poet or any artist has to convey<lb/>
                   is a perception of a reality common to all,but seen from a unique perpsective,<lb/>
                   which it is his duty as well as his pleasure to share with others. To small<lb/>
-                  truths as well as great,St Augustine's words apply.
+                  truths as well as great,<rs type="person" ref="#amp_person_112">St Augustine</rs>'s words apply.
                </p>
                <p>
                   <space quantity="12" unit="char"/><hi rend="underline">The truth is neither mine nor his nor another's;but belongs</hi><lb/>
@@ -283,8 +283,8 @@ for any purpose, even commercially.</p>
                   <space quantity="3" unit="char"/>Every genuine work of art,I believe,exhibits two qualities,Nowness and<lb/>
                   Permanence. By Nowness I mean the quality which enables an art-historian<lb/>
                   to date a work,at least,approximately. If,for example,one listens to<lb/>
-                  a composition by Palestrina and one by Mozart,one knows immediately that,<lb/>
-                  quite aside from their artistic merits,Palestrina must have lived earlier<lb/>
+                  a composition by <rs type="person" ref="#amp_person_24">Palestrina</rs> and one by <rs type="person" ref="#amp_person_113">Mozart</rs>,one knows immediately that,<lb/>
+                  quite aside from their artistic merits,<rs type="person" ref="#amp_person_24">Palestrina</rs> must have lived earlier<lb/>
                   than Mozart: he could not possibly have written as he did after Mozart.<lb/>
                   By <del>p</del>Perman<del>a</del>ence,I mean <space quantity="1" unit="char"/>that the work continues to have relevance and<lb/>
                   importance lo<unclear>m</unclear>g after its creator is dead. In the history of Art,unlike<lb/>
@@ -313,7 +313,7 @@ for any purpose, even commercially.</p>
                   In my own case,for example,I know how much I owe to Anglo-Saxon and<lb/>
                   Medie<del>av</del>val Poetry.<lb/>
                   <space quantity="4" unit="char"/>When I <del>revei<unclear>w</unclear></del> review the contemporary artistic scene,<del>I</del><unclear>i</unclear>t strikes me how<lb/>
-                  <del>extraorinary</del> extraordinarily fortunate men like Stravinsky,Picasso,Eliot,<lb/>
+                  <del>extraorinary</del> extraordinarily fortunate men like <rs type="person" ref="#amp_person_25">Stravinsky</rs>,<rs type="person" ref="#amp_person_26">Picasso</rs>,<rs type="person" ref="#amp_person_27">Eliot</rs>,<lb/>
                   etc,that is,those persons we think of as the founders of 'modern' art,<lb/>
                   were in being born when they were,so that they came to manhood before<lb/>
                   I9I4. Until the <del>Fis </del> First World War,western society was still pretty much<lb/>
@@ -323,11 +323,11 @@ for any purpose, even commercially.</p>
                   kind of music to compose or picture to paint or poem to write in the year<lb/>
                   I9I2.?" <space quantity="1" unit="char"/>Secondly,their <del>audiences</del> contemporary audiences <space quantity="1" unit="char"/>were mostly<lb/>
                   cons<del>r</del>ervative,but honestly so. <space quantity="1" unit="char"/>Those,for instance,who were scandalised by<lb/>
-                  <hi rend="underline">Le Sacre du Printemps</hi>,may seem to us now to have been old <del>fgi</del> fogies,but<lb/>
+                  <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_35">Le Sacre du Printemps</rs></hi>,may seem to us now to have been old <del>fgi</del> fogies,but<lb/>
                   their reaction was genuine. They did not say to themselves:"Times have<lb/>
                   changed and we must change with them in order <del>to be up to date." </del> not to<lb/>
                   be left behind."<lb/>
-                  <space quantity="5" unit="char"/>Here are a few statements by Stravinsky to <del>whcih</del> which the young,<del>w<unclear>h</unclear>ere</del><del>where</del>whether<lb/>
+                  <space quantity="5" unit="char"/>Here are a few statements by <rs type="person" ref="#amp_person_25">Stravinsky</rs> to <del>whcih</del> which the young,<del>w<unclear>h</unclear>ere</del><del>where</del>whether<lb/>
                   artists or critics would do well to listen and <del>pknde </del> ponder over.
                </p>
                <p>
@@ -360,14 +360,14 @@ for any purpose, even commercially.</p>
                   he is a member shall function properly and improve. But the poet,qua poet,<lb/>
                   has only one political function. Since lang<del>i</del>uage is his medium,it is his duty,<lb/>
                   by his own example,to defend his <del>mot<del>eh</del>her</del>mothermother-tongue against corruption by demagogues,<lb/>
-                  journalists,the mass-media etc. As Karl Kraus<del>s</del> said:"D<hi rend="underline">ie Sprache ist die</hi> <del>Muuet</del><lb/>
+                  journalists,the mass-media etc. As <rs type="person" ref="#amp_person_81">Karl Kraus</rs><del>s</del> said:"D<hi rend="underline">ie Sprache ist die</hi> <del>Muuet</del><lb/>
                   <space quantity="1" unit="char"/><hi rend="underline">Mutter,nicht das Magd,des <del>d</del> <del>g</del>Gedankens"</hi>,and when language loses its meaning,<lb/>
                   its <del>palce</del> place is taken by violence. Of course,the poet may use political and<lb/>
                   social events as subject-matter for poems - they are as much a part of human<lb/>
                   experience as love or nature - but he must never imagine that his poems have<lb/>
                   the power to affect the course of history. The political and social history<lb/>
-                  of Europe w<unclear>o</unclear>uld be what it <del>ahs</del> has been if Dante,Shakepeare,Goethe,Micha<del>le</del>el<lb/>
-                  Angelo,Tit<del>ai</del>ian,Mozart,Beethoven,e<del>y</del>tc,<del>ahd</del> had never existed.
+                  of <rs type="place" ref="#amp_place_id_30">Europe</rs> w<unclear>o</unclear>uld be what it <del>ahs</del> has been if <rs type="person" ref="#amp_person_9">Dante</rs>,<rs type="person" ref="#amp_person_10">Shakepeare</rs>,<rs type="person" ref="#amp_person_11">Goethe</rs>,<rs type="person" ref="#amp_person_28">Micha<del>le</del>el<lb/>
+                  Angelo</rs>,<rs type="person" ref="#amp_person_12">Tit<del>ai</del>ian</rs>,<rs type="person" ref="#amp_person_13">Mozart</rs>,<rs type="person" ref="#amp_person_29">Beethoven</rs>,e<del>y</del>tc,<del>ahd</del> had never existed.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0150/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0151/" type="sheet"/>
@@ -392,7 +392,7 @@ for any purpose, even commercially.</p>
                   strictest censure<del>e</del>ship of the Arts,forbidding anything to be said which <del>was</del> is<lb/>
                   <del>not</del> out of keeping with the official 'line.'<lb/>
                   <space quantity="3" unit="char"/>The third confusion,typical of our western <del>civilisat</del> 'free' <del>soncietis</del><lb/>
-                  societies at this time,is the opposite of Plato's,namely to take political<lb/>
+                  societies at this time,is the opposite of <rs type="person" ref="#amp_person_30">Plato</rs>'s,namely to take political<lb/>
                   act<del>u</del>ion as the model for arti<del>t</del>stic fabrication. Political action is a necessity,<lb/>
                   that is to say,a<del>y</del>t very moment something has to be done,and <del>politicla</del> it<lb/>
                   is momentary - action at this moment is immeiately followed by another action<lb/>
@@ -423,7 +423,7 @@ for any purpose, even commercially.</p>
                   <hi rend="underline">Laborans</hi> is also <hi rend="underline">Homo Ludens.</hi><lb/>
                   <space quantity="9" unit="char"/>And now,I hope those of you who know no English will forgive me i<del>s</del>f<lb/>
                   I conclude<del>d</del> these remarks with a light poem of my own,entitled<lb/>
-                  <hi rend="underline">Doggerel <del>of</del> by a Senior Citizen</hi>.
+                  <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_57">Doggerel <del>of</del> by a Senior Citizen</rs></hi>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0152/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0153/" type="sheet"/>
@@ -436,7 +436,7 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="7" unit="char"/>At this p<del>in</del>oint,a little digression on the subject of 'free' verse,which<lb/>
                   <space quantity="2" unit="char"/>seems now to be almost universal among young poets. Though excellent<lb/>
-                  <space quantity="1" unit="char"/>examples,the poems of D.H.Lawrence,for example,exist,i<del>n my opinion </del>they are,<unclear>in</unclear> my opinio<unclear>n</unclear><lb/>
+                  <space quantity="1" unit="char"/>examples,the poems of <rs type="person" ref="#amp_person_31">D.H.Lawrence</rs>,for example,exist,i<del>n my opinion </del>they are,<unclear>in</unclear> my opinio<unclear>n</unclear><lb/>
                   the exception,not the rule. The great virtue of formal metrical rules is<lb/>
                   that they forbid automatic <del>reposnse</del> resp<del>i</del>onses and,by forcing the <del>piet</del> poet<lb/>
                   to have second thoughts,free <del>f</del>him f<del>or</del>rom the fetters of self. All too often,the<lb/>

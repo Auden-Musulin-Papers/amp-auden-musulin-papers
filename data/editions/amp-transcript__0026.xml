@@ -95,15 +95,15 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0249/" type="nan"/>
                <p>
-                  W<unclear>,</unclear>H.Auden<lb/>
-                  ℅ Spender<lb/>
-                  15 Loudoun Rd<lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>,</unclear>H.Auden</rs><lb/>
+                  ℅ <rs type="person" ref="#amp_person_8">Spender</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_69">15 Loudoun Rd<lb/>
                   St John's Wood<lb/>
-                  London. N.W. <unclear>8</unclear>
+                  London. N.W. <unclear>8</unclear></rs>
                </p>
                <p>
-                  Johann-Strauß-Gasse 28 <unclear>.</unclear><lb/>
-                  1040 Wien .
+                  <rs type="place" ref="#amp_place_id_224">Johann-Strauß-Gasse 28 <unclear>.</unclear><lb/>
+                  1040 Wien .</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0250/" type="nan"/>
          </div>

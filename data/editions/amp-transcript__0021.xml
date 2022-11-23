@@ -114,39 +114,39 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/" type="envelope"/>
                <p hand="#handwritten">
                   Die Baroni<unclear>n</unclear><lb/>
-                  Stella von Mussolin<lb/>
-                  <hi rend="underline">Wien III</hi><lb/>
-                  Neulingasse 26 <unclear>,</unclear>
+                  <rs type="person" ref="#amp_person_2">Stella von Mussolin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
+                  Neulingasse 26</rs> <unclear>,</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0114/" type="envelope"/>
                <p hand="#handwritten">
-                  W.H.Auden<lb/>
+                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0115/" type="sheet"/>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
                   Friday
                </p>
                <p>
-                  <space quantity="13" unit="char"/>Dear Stella:<lb/>
+                  <space quantity="13" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   <space quantity="5" unit="char"/>Many thanks for your letter. Ac<del>r</del>tually,we<lb/>
                   shall be here till the end of October.<lb/>
                   <space quantity="2" unit="char"/>So far as I know,any week-day which suits you<lb/>
-                  and Herr Fritsch would be O.K.for us,so just<lb/>
+                  and <rs type="person" ref="#amp_person_59">Herr Fritsch</rs> would be O.K.for us,so just<lb/>
                   <space quantity="1" unit="char"/>drop us a p.c.when you fix the day.<lb/>
                   <space quantity="7" unit="char"/>longing to see you<lb/>
                </p>
                <p hand="#handwritten">   
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0116/" type="sheet"/>
          </div>

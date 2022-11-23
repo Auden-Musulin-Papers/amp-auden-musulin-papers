@@ -126,28 +126,28 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0011/" type="envelope"/>
                <p hand="#handwritten">
                   Die Baronin<lb/>
-                  S<unclear>t</unclear>ella Musulin<lb/>
-                  <del>Fridau</del><lb/>
+                  <rs type="person" ref="#amp_person_2">S<unclear>t</unclear>ella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_78"><del>Fridau</del><lb/>
                   <del>Obergrabe<unclear>m</unclear>d<unclear>o</unclear>r<unclear>f</unclear></del><lb/>
                   <del>b<unclear>e</unclear>i S. Pölten</del><lb/>
                   <del>N.Ö</del><lb/>
-                  Osterreich
+                  Osterreich</rs>
                </p>
                <p hand="#handwritten">
-                  Wien III<lb/>
-                  Neuling<unclear>g</unclear>. 2<unclear>6</unclear>/1<unclear>4</unclear>
+                  <rs type="place" ref="#amp_place_id_26">Wien III<lb/>
+                  Neuling<unclear>g</unclear>. 2<unclear>6</unclear>/1<unclear>4</unclear></rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0012/" type="envelope"/>
                <p hand="#handwritten">
-                  W.H. Auden<lb/>
-                  Berlin-Dahlem<lb/>
+                  <rs type="person" ref="#amp_person_1">W.H. Auden</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_19">Berlin-Dahlem<lb/>
                   Hubertusbaderstrasse <unclear>4</unclear>3<lb/>
-                  Germany
+                  Germany</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0133/" type="sheet"/>
                <p>
-                  <space quantity="5" unit="char"/><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
-                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi>
+                  <space quantity="5" unit="char"/><rs type="lit_work" ref="#lit_work_id_61"><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
+                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
                </p>
                <lg>
                   <l>Reachi<del>j</del>ng my gate a narrow</l>
@@ -305,17 +305,17 @@ for any purpose, even commercially.</p>
                </lg>
                <p>
                   <space quantity="23" unit="char"/>___<lb/>
-                  <del>N</del> <space quantity="1" unit="char"/>I) Quotation from W<del>8</del><unclear>'</unclear>s poem <hi rend="underline">Auf das Unabwendbare</hi>.<lb/>
-                  <space quantity="3" unit="char"/>2) Quotation from W's poem <hi rend="underline">Kammermusik</hi>.<lb/>
+                  <del>N</del> <space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_5">W<del>8</del><unclear>'</unclear>s</rs> poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.<lb/>
+                  <space quantity="3" unit="char"/>2) Quotation from <rs type="person" ref="#amp_person_5">W'</rs>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_41">Kammermusik</rs></hi>.<lb/>
                   <space quantity="24" unit="char"/>__
                </p>
                <p>
-                  <space quantity="9" unit="char"/>Dear Stella:<lb/>
-                  <space quantity="1" unit="char"/>Kirchstetten is intending to have a cer<del>o</del>emony in memory of the twentieth<lb/>
-                  <space quantity="1" unit="char"/>anniversary of Weinheber'<del>w</del>s <space quantity="1" unit="char"/>death. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
+                  <space quantity="9" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+                  <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> is intending to have a cer<del>o</del>emony in memory of the twentieth<lb/>
+                  <space quantity="1" unit="char"/>anniversary of <rs type="person" ref="#amp_person_5">Weinheber'<del>w</del>s</rs> <space quantity="1" unit="char"/>death. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
                   <space quantity="1" unit="char"/><hi rend="underline">Gemeindepflicht.</hi><lb/>
                   <space quantity="17" unit="char"/>love<lb/>
-                  Wystan.<!-- markup handwriting -->
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>.<!-- markup handwriting -->
                </p>
                <p hand="#handwritten">
                   P.S. Expect to return K April 22nd. Do hope you<lb/>

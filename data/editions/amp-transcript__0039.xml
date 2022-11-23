@@ -120,18 +120,18 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0013/" type="envelope"/>
                <p hand="#handwritten">
                   Die Baronin<lb/>
-                  Stella Musulin<lb/>
-                  Fridau<lb/>
+                  <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_78">Fridau<lb/>
                   Obergra<del><gap reason="deleted"/></del><gap reason="illegible"/>endorf<lb/>
                   bei S. Pölten<lb/>
-                  N.Ö.
+                  N.Ö.</rs>
                </p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0014/" type="envelope"/>
                <p hand="#handwritten">
-                  W<unclear>.</unclear>H<unclear>.</unclear> Auden<lb/>
-                  Kirchstetten (Westb<unclear>a</unclear>h<unclear>n</unclear>)<lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear> Auden</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_5">Kirchstetten (Westb<unclear>a</unclear>h<unclear>n</unclear>)<lb/>
                   Hint<unclear>e</unclear>rholz# 6<lb/>
-                  N.Ö<lb/>
+                  N.Ö</rs><lb/>
                   <unclear>·</unclear>
                </p>            
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0009/" type="sheet"/>
@@ -183,24 +183,24 @@ for any purpose, even commercially.</p>
                   re<unclear>v.</unclear>
                </p>
                <p hand="#handwritten">
-                  Wednesday . Kirch<unclear>s</unclear>t<unclear>e</unclear>tten
+                  Wednesday . <rs type="place" ref="#amp_place_id_5">Kirch<unclear>s</unclear>t<unclear>e</unclear>tten</rs>
                </p>
                <p hand="#handwritten">
-                  Dear Stella:<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Many thanks for your letter. Will try and call you<lb/>
                   to-day by phone.<lb/>
-                  I enclose a pr<unclear>o</unclear>se translation ma<unclear>d</unclear>e by me and a German friend<unclear>;</unclear><lb/>
+                  I enclose a <rs type="lit_work" ref="#lit_work_id_60">pr<unclear>o</unclear>se</rs> translation ma<unclear>d</unclear>e by me and a German friend<unclear>;</unclear><lb/>
                   <gap reason="illegible"/> <del><gap reason="deleted"/></del> Sin<unclear>ce</unclear> the copy I sent you , <del><gap reason="deleted"/></del> I have made <unclear>a</unclear> few slig<unclear>h</unclear>t<lb/>
                   changes in stanza 3. (see above)<lb/>
                   Could you che<unclear>c</unclear>k the translat<unclear>io</unclear>n for errors.<lb/>
                   love<lb/>
-                  Wystan.
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0010/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0139/" type="sheet"/>
                <p>
-                  <space quantity="26" unit="char"/><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
-                  <space quantity="28" unit="char"/>(<hi rend="underline">I892-I945)</hi>
+                  <space quantity="26" unit="char"/><rs type="lit_work" ref="#lit_work_id_62"><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
+                  <space quantity="28" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
                </p>
                <p hand="#handwritten">
                   1

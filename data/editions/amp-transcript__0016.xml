@@ -117,39 +117,39 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Die Baronin<lb/>
-                  Stella Musulin<lb/>
-                  Fridau<lb/>
+                  <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                   3200 Obergrafendorf<lb/>
-                  N.Ö
+                  N.Ö</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0080/" type="envelope"/>
                <p>
-                  W<unclear>.H.</unclear> Auden<lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>.H.</unclear> Auden</rs>lb/>
                </p>
                <p hand="#printed">
-                  3062 KIRCHSTETTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                   BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0081/" type="sheet"/>
                <p>
                   Sept 18th.
                </p>
                <p hand="#printed">
-                  3062 KIRCHSTETTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                   BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
-                  Dear Stella.<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>.<lb/>
                   Del<unclear>i</unclear>ght<unclear>e</unclear>d to hear you are<lb/>
                   back.<lb/>
-                  Could you and your mother<lb/>
+                  Could you and <rs type="person" ref="#amp_person_162">your mother</rs><lb/>
                   come to lunch <del><unclear>on</unclear></del> next Tuesday ?<lb/>
                   love<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0082/" type="sheet"/>
          </div>

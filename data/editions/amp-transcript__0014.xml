@@ -121,30 +121,30 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Die Baronin<lb/>
-                  Stella Musuli<unclear>m</unclear><lb/>
-                  Wien III<lb/>
-                  Neulinggasse 26/14
+                  <rs type="person" ref="#amp_person_2">Stella Musuli</rs><unclear>m</unclear><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
+                  Neulinggasse 26/14</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0064/" type="envelope"/>
                <p>
-                  W<unclear>H.</unclear> Auden
+                  <rs type="person" ref="#amp_person_1">W<unclear>H.</unclear> Auden</rs>
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0065/" type="sheet"/>
                <p hand="#printed">
-                  KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
                   May 21 st<unclear>.</unclear>. 1969
                </p>
                <p>
-                  Dear Stella<unclear>,</unclear><lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>,</unclear><lb/>
                   Ma<unclear>n</unclear>y thank f<unclear>o</unclear> your card<unclear>,</unclear> Had<lb/>
                   tried several <unclear>ti</unclear>mes t<unclear>o</unclear> reach you<lb/>
                   by phone,but w<unclear>ithou</unclear>t succ<unclear>e</unclear>ss<lb/>
@@ -154,7 +154,7 @@ for any purpose, even commercially.</p>
                   <del>H</del> Longing to hear about the<lb/>
                   Royal v<unclear>s</unclear>it.<lb/>
                   love<lb/>
-                  Wystan<unclear>'</unclear>
+                  <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>'</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0066/" type="sheet"/>
          </div>

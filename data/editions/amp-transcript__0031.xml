@@ -99,22 +99,22 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0223/" type="sheet"/>
                <p>
-                  <space quantity="40" unit="char"/>Fridau<lb/>
+                  <rs type="place" ref="#amp_place_id_78"><space quantity="40" unit="char"/>Fridau<lb/>
                   <space quantity="36" unit="char"/>A-3200 Obergrafendorf<lb/>
-                  <space quantity="42" unit="char"/>bei St.Pölten, Austria.<lb/>
+                  <space quantity="42" unit="char"/>bei St.Pölten, Austria</rs>.<lb/>
                   <space quantity="46" unit="char"/>15 De<del>d</del>cember 1985.
                </p>
                <p>
-                  Dear Ed,
+                  Dear <rs type="person" ref="#amp_person_98">Ed</rs>,
                </p>
                <p>
                   <space quantity="4" unit="char"/>The time has come to send out a signal to you from this<lb/>
-                  ancient, scandal-ridden, provincial dump. <space quantity="1" unit="char"/>Peter Müller has<lb/>
-                  not been sleeping over his plan to edit a book on Auden´s<lb/>
+                  ancient, scandal-ridden, provincial dump. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_119">Peter Müller</rs> has<lb/>
+                  not been sleeping over his plan to edit a book on <rs type="person" ref="#amp_person_1">Auden</rs>´s<lb/>
                   time here, he has been writing books himself in addition to<lb/>
                   his full time profession. <space quantity="1" unit="char"/>Now - you may know this - it is<lb/>
                   definite and the book is to come out in February 1987 in<lb/>
-                  time for A´s 80th.
+                  time for <rs type="person" ref="#amp_person_1">A</rs>´s 80th.
                </p>
                <p>
                   <space quantity="4" unit="char"/>So he got me back to my desk, to, in his words, combine<lb/>
@@ -129,37 +129,37 @@ for any purpose, even commercially.</p>
                   things which hap<del>e</del>pened subsequently. <space quantity="1" unit="char"/>So we agreed that we would<lb/>
                   leave the texts to stand and that I would say, roughly, okay,<lb/>
                   that was how it looked then; <space quantity="1" unit="char"/>what has happened since, what<lb/>
-                  is there still be said by us, who knew Auden in Kirchstetten<lb/>
-                  in view of the fact that Carpenter did no research on this<lb/>
+                  is there still be said by us, who knew <rs type="lit_work" ref="#lit_work_id_50">Auden in Kirchstetten</rs><lb/>
+                  in view of the fact that <rs type="person" ref="#amp_person_100">Carpenter</rs> did no research on this<lb/>
                   location<unclear>s</unclear>? <space quantity="1" unit="char"/>For a long time the idea was only to write a<lb/>
                   German text, I mean that the book would be sol<del>t´</del>ely German<lb/>
                   l<del>n</del>anguage production, and this I thought until quite recently.<lb/>
-                  Suddenly, Peter bounced me with the comment that he would<lb/>
+                  Suddenly, <rs type="person" ref="#amp_person_119">Peter</rs> bounced me with the comment that he would<lb/>
                   "like an English version as well." <space quantity="1" unit="char"/>I had thought my two texts<lb/>
                   were only to be combined and the sequel written in German.<lb/>
                   This presents technical problems. <space quantity="1" unit="char"/>For example, and now my<lb/>
                   questions to you begin:
                </p>
                <p>
-                  <space quantity="4" unit="char"/>We ihave here a copy of Auden´s declaration to the tax<lb/>
+                  <space quantity="4" unit="char"/>We ihave here a copy of <rs type="person" ref="#amp_person_1">Auden</rs>´s declaration to the tax<lb/>
                   authorities. <space quantity="1" unit="char"/>(I have been determined all along that this<lb/>
                   document should be published AND RIGHT HERE. <space quantity="1" unit="char"/>Apart from making<lb/>
                   Them look stupid, it must be unique in literary history that a<lb/>
                   great poet should explain to the tax authorities how poetry<lb/>
                   comes to be written.) <space quantity="1" unit="char"/>Do you have the English original, or where<lb/>
-                  is it;  did it ever exist or was the German drafted by Auden<lb/>
+                  is it;  did it ever exist or was the German drafted by <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
                   and put together by, s<del>y</del>ay, his lawyer? <space quantity="1" unit="char"/>Or could this have been<lb/>
-                  done by whoever it was who wrote the prose version of the<lb/>
-                  Weinheber poem? <space quantity="1" unit="char"/>I have that text which A. gave me, but there<lb/>
+                  done by whoever it was <rs type="person" ref="#amp_person_157">who</rs> wrote the prose version of the<lb/>
+                  Weinheber poem? <space quantity="1" unit="char"/>I have that text which <rs type="person" ref="#amp_person_1">A.</rs> gave me, but there<lb/>
                   is no record of who wrote it. <space quantity="1" unit="char"/>In my first dr<del>s</del>aft of the talk<lb/>
-                  given at the PEN Club in London in 1976 I wrote: "I have the<lb/>
+                  given at the <rs type="org" ref="#amp_organization_10">PEN Club</rs> in <rs type="place" ref="#amp_place_id_56">London</rs> in 1976 I wrote: "I have the<lb/>
                   statement in German translation, so that what I am reading is<lb/>
                   my own re-translation back into English and not the original.
                </p>
                <p>
                   <space quantity="4" unit="char"/>I should be very grateful if you could help me over the<lb/>
-                  address which Auden held at Neulengbach. <space quantity="1" unit="char"/>I have the original<lb/>
-                  English text which to my horror Auden asked me to translate:<lb/>
+                  address which <rs type="person" ref="#amp_person_1">Auden</rs> held at <rs type="place" ref="#amp_place_id_47">Neulengbach</rs>. <space quantity="1" unit="char"/>I have the original<lb/>
+                  English text which to my horror <rs type="person" ref="#amp_person_1">Auden</rs> asked me to translate:<lb/>
                   although capable of creative writing in German, to deal with<lb/>
                   this tough text was too m<del>k</del>uch and it was corrected by my husband.<lb/>
                   Müller possesses the German text taken from a tape. <space quantity="1" unit="char"/>Now this<lb/>
@@ -170,7 +170,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0225/" type="sheet"/>
                <p>
                   - 2 -<lb/>
-                  to what extent Auden´s speech contains hitherto unknown material,<lb/>
+                  to what extent <rs type="person" ref="#amp_person_1">Auden</rs>´s speech contains hitherto unknown material,<lb/>
                   if any. <space quantity="1" unit="char"/>I said air<del>l</del>ily that he had probably said i<del>a</del>t a<del>s</del>ll before,<lb/>
                   in Secondary Worlds and so on, but this is not true. <space quantity="1" unit="char"/>After a<lb/>
                   preamble the speech begins:
@@ -179,7 +179,7 @@ for any purpose, even commercially.</p>
                   <space quantity="4" unit="char"/>Between the ages of six and twelve, I spent a great many of<lb/>
                   <space quantity="4" unit="char"/>my waking hours in the fabrication of a private secondary<lb/>
                   s <space quantity="2" unit="char"/>sacred world, the basic elements of which were a) a limestone<lb/>
-                  landscape mainly derived from the Pennine Moors in the North of<lb/>
+                  landscape mainly derived from the <rs type="place" ref="#amp_place_id_41">Pennine Moors</rs> in the North of<lb/>
                   <space quantity="4" unit="char"/>England and b) an industry - lead-mining.<lb/>
                   <space quantity="4" unit="char"/>I<del>r</del>t is no doubt psychologically significant that my sacred<lb/>
                   <space quantity="4" unit="char"/>world was autistic - that is to say I had no wish to share<lb/>
@@ -195,12 +195,12 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="4" unit="char"/>If you like I can have the whole thing photo-copied and<lb/>
                   send it along, but you see what it´s about. <space quantity="1" unit="char"/>I cannot believe<lb/>
-                  that Wystan chose Neulengbach to make a one-time-only<lb/>
+                  that <rs type="person" ref="#amp_person_1">Wystan</rs> chose <rs type="place" ref="#amp_place_id_47">Neulengbach</rs> to make a one-time-only<lb/>
                   statement of this length and weight, the idea is absurd and<lb/>
-                  the point of my quotation in my talk in 1976 was to show Auden<lb/>
+                  the point of my quotation in my talk in 1976 was to show <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
                   in one aspect of his contact with the Austrians, not without<lb/>
                   a touch of hilarity. <space quantity="1" unit="char"/>But this is not in Secondary Worlds,<lb/>
-                  I have leafed through your Early Auden page by page and finkd<lb/>
+                  I have leafed through your <rs type="lit_work" ref="#lit_work_id_49">Early Auden</rs> page by page and finkd<lb/>
                   no reference, nor can I find it anywhere else. <space quantity="1" unit="char"/>Can you<lb/>
                   el<del>i</del>ucidate?
                </p>
@@ -214,12 +214,12 @@ for any purpose, even commercially.</p>
                   If so it would be nice to know about it so I can refer to it.
                </p>
                <p>
-                  <space quantity="4" unit="char"/>The chaplain sto the British Embassy in Vienna gave me the<lb/>
-                  name and addre<del>e</del>ss of the clergyman who took the service with the<lb/>
-                  RC pasrish priest and I wrote to him to find o<del>iu</del>ut´whether he<lb/>
+                  <space quantity="4" unit="char"/>The chaplain sto the <rs type="org" ref="#amp_organization_27">British Embassy in Vienna</rs> gave me the<lb/>
+                  name and addre<del>e</del>ss of the <rs type="person" ref="#amp_person_118">clergyman</rs> who took the service with the<lb/>
+                  <rs type="person" ref="#amp_person_156">RC pasrish priest</rs> and I wrote to him to find o<del>iu</del>ut´whether he<lb/>
                   can remember the form of service etc. but no answer so far.<lb/>
                   This would be of interest here because though common practice<lb/>
-                  in England such an ecumenical service was a novelty here and<lb/>
+                  in <rs type="place" ref="#amp_place_id_93">England</rs> such an ecumenical service was a novelty here and<lb/>
                   caused much comment.
                </p>
                <p>
@@ -230,11 +230,11 @@ for any purpose, even commercially.</p>
                   which can be kept pretty well under control these days. <space quantity="1" unit="char"/>My<lb/>
                   relations organised a splendid surprise party for my 70th<lb/>
                   birthday which went on all day, at breakfast I didn´t yet<lb/>
-                  know <del>t</del>what lay ahead. <space quantity="1" unit="char"/>My son plotted this and steered it from<lb/>
-                  New York but was there on the day. <space quantity="1" unit="char"/>He built up the Austrian<lb/>
-                  bank Creditanstalt-Bankverein in NY, and if ever you need to<lb/>
+                  know <del>t</del>what lay ahead. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_94">My son</rs> plotted this and steered it from<lb/>
+                  <rs type="place" ref="#amp_place_id_28">New York</rs> but was there on the day. <space quantity="1" unit="char"/>He built up the Austrian<lb/>
+                  bank <rs type="org" ref="#amp_organization_11">Creditanstalt-Bankverein</rs> in <rs type="place" ref="#amp_place_id_28">NY</rs>, and if ever you need to<lb/>
                   send me bulky papers or whatever - not that you will - contact<lb/>
-                  him at 212-702-9101. <space quantity="1" unit="char"/>His <del>m</del>name is Marko.<lb/>
+                  him at 212-702-9101. <space quantity="1" unit="char"/>His <del>m</del>name is <rs type="person" ref="#amp_person_94">Marko</rs>.<lb/>
                   <space quantity="14" unit="char"/>Good health and suc<unclear>c</unclear>ess i<del>j</del>n 1986,
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0226/" type="sheet"/>

@@ -117,42 +117,42 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Die B<unclear>a</unclear>ronin<lb/>
-                  Stella <unclear>M</unclear>usulin<lb/>
+                  <rs type="person" ref="#amp_person_2">Stella <unclear>M</unclear>usulin</rs><lb/>
                   A-1030 Wien<lb/>
                   Neulingasse 26/14
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0096/" type="envelope"/>
                <p>
-                  <unclear>W.H.</unclear>Auden<lb/>
+                  <rs type="person" ref="#amp_person_1"><unclear>W.H.</unclear>Auden</rs><lb/>
                </p>
                <p hand="#printed">
-                  3062 KIRCHSTETTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                   BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0097/" type="sheet"/>
                <p hand="#printed">
-                  3062 KIRCHSTETTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                   BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
                   <del>Dear</del> <del><unclear>O</unclear></del>Sept 24th
                </p>
                <p>
-                  Dear Stella:<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   I dont yet <unclear>k</unclear>now a<unclear>t</unclear> w<unclear>h</unclear>at time<lb/>
                   the re<unclear>a</unclear>ding is to be. If not until 8<unclear>·o</unclear>.p.<lb/>
                   I shall eat first,beca<unclear>u</unclear>se I like to go<lb/>
                   to bed early<unclear>_</unclear><lb/>
                   Many tha<unclear>n</unclear>ks for the invitation to stay<lb/>
                   the nig<unclear>h</unclear>t <unclear>with</unclear> y<unclear>ou</unclear>, but I have already<lb/>
-                  booked a roo<unclear>m</unclear> <unclear>a</unclear>t t<unclear>h</unclear>e <unclear>H</unclear>otel <del>Altburg<gap reason="deleted"/></del>hof<lb/>
-                  Altburgenhof<unclear>,</unclear><lb/>
+                  booked a roo<unclear>m</unclear> <unclear>a</unclear>t t<unclear>h</unclear>e <rs type="place" ref="#amp_place_id_225"><unclear>H</unclear>otel <del>Altburg<gap reason="deleted"/></del></rs><rs type="place" ref="#amp_place_id_225">hof<lb/>
+                  Altburgenhof</rs><unclear>,</unclear><lb/>
                   love<lb/>
-                  Wystan<unclear>,</unclear>
+                  <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>,</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0098/" type="sheet"/>
          </div>

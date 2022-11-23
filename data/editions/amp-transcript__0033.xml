@@ -93,17 +93,17 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0229/" type="sheet"/>
                <p>
-                  <space quantity="45" unit="char"/>39 Claremont Ave, apt 31<lb/>
-                  <space quantity="45" unit="char"/>New York NY  10027<lb/>
+                  <space quantity="45" unit="char"/><rs type="place" ref="#amp_place_id_171">39 Claremont Ave, apt 31<lb/>
+                  <space quantity="45" unit="char"/>New York NY  10027</rs><lb/>
                </p>
                <p>
                   <space quantity="45" unit="char"/>21 Novembe<del>er</del>r  1981
                </p>
                <p>
-                  Dear Stella,
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>,
                </p>
                <p>
-                  Delighted you got that EARLY AUDEN, and even more delighted you find<lb/>
+                  Delighted you got that <rs type="lit_work" ref="#lit_work_id_49">EARLY AUDEN</rs>, and even more delighted you find<lb/>
                   it worth looking into. <space quantity="1" unit="char"/><del>As I suppose you've experienced yourself,</del>Is it a universal experience among authors to<lb/>
                   be surprised that someone actually reads one's book?  I'm so familiar<lb/>
                   with the thing by now, and so aware of its deficiencies, that I wish<lb/>
@@ -115,25 +115,25 @@ for any purpose, even commercially.</p>
                   number. <space quantity="1" unit="char"/>Phone number still 212 222-0679.
                </p>
                <p>
-                  Yes, I saw the you<del>g</del>ng man who was doing advance work f<del>ro</del>or Robert Robinson,<lb/>
+                  Yes, I saw the you<del>g</del>ng man who was doing advance work f<del>ro</del>or <rs type="person" ref="#amp_person_158">Robert Robinson</rs>,<lb/>
                   but haven't heard from him since July. <space quantity="1" unit="char"/>I gather <del>wor</del>that work progresses,<lb/>
-                  though. <space quantity="1" unit="char"/>There was an hour on Wystan on BBC <hi rend="underline"></hi>Radio the other week--a<lb/>
+                  though. <space quantity="1" unit="char"/>There was an hour on <rs type="person" ref="#amp_person_1">Wystan</rs> on <rs type="org" ref="#amp_organization_28">BBC</rs> <hi rend="underline"></hi>Radio the other week--a<lb/>
                   "dramatization" with an actor reading the poems and lots of ominous<lb/>
                   <space quantity="1" unit="char"/>noises off. <space quantity="1" unit="char"/>I'm told it was fairly dreadful, but perh<del><gap reason="deleted"/></del>aps the TV film<lb/>
-                  will be better. <space quantity="1" unit="char"/>I saw quite a good one from the BBC on Benjamin Britten.<lb/>
+                  will be better. <space quantity="1" unit="char"/>I saw quite a good one from the <rs type="org" ref="#amp_organization_28">BBC</rs> on <rs type="person" ref="#amp_person_136">Benjamin Britten</rs>.<lb/>
                   Its only fault--and I'm not sure <del><gap reason="deleted"/></del>this was a fault, given the usual tone<lb/>
                   of TV journalism--was an awed tone of worship.
                </p>
                <p>
                   <del>A</del>Easy answers to important questions. <space quantity="1" unit="char"/>Those two volumes <del><gap reason="deleted"/>f</del>by and about<lb/>
-                  Auden sound very attractive. <space quantity="1" unit="char"/>(Which publisher is interested?) <space quantity="1" unit="char"/>The<lb/>
+                  <rs type="person" ref="#amp_person_1">Auden</rs> sound very attractive. <space quantity="1" unit="char"/>(Which publisher is interested?) <space quantity="1" unit="char"/>The<lb/>
                   place to write for permissions is to the agents, specifically, to<lb/>
-                  <space quantity="24" unit="char"/>Maureen Walters<lb/>
-                  <space quantity="24" unit="char"/>Curtis Brown Ltd<lb/>
-                  <space quantity="24" unit="char"/>575 Madison Avenue<lb/>
+                  <space quantity="24" unit="char"/><rs type="person" ref="#amp_person_159">Maureen Walters</rs><lb/>
+                  <space quantity="24" unit="char"/><rs type="org" ref="#amp_organization_29">Curtis Brown Ltd</rs><lb/>
+                  <space quantity="24" unit="char"/><rs type="place" ref="#amp_place_id_221">575 Madison Avenue<lb/>
                   <space quantity="24" unit="char"/>New York NY  10022<lb/>
-                  <space quantity="24" unit="char"/>USA<lb/>
-                  Mention my name, and things will be easier. <space quantity="1" unit="char"/>But they should be easy<lb/>
+                  <space quantity="24" unit="char"/>USA</rs><lb/>
+                  Mention <rs type="person" ref="#amp_person_98">my name</rs>, and things will be easier. <space quantity="1" unit="char"/>But they should be easy<lb/>
                   anyway.
                </p>
                <p>
@@ -141,7 +141,7 @@ for any purpose, even commercially.</p>
                   different people that they had seen (or knew someone else who had seen)<lb/>
                   a German text of your Wystan memoir in print. <space quantity="1" unit="char"/>Are they right, or are<lb/>
                   they confusing this with an occasion when you read it aloud (and it was<lb/>
-                  reported)? <space quantity="1" unit="char"/>I had an Austrian student here this summer working on Wystan,<lb/>
+                  reported)? <space quantity="1" unit="char"/>I had an Austrian student here this summer working on <rs type="person" ref="#amp_person_1">Wystan</rs>,<lb/>
                   and I wanted to tell her about the piece, but didn't know where to find<lb/>
                   it. <space quantity="1" unit="char"/>Please, <hi rend="underline">please</hi> tell me if you printed it, and if so, where. <space quantity="1" unit="char"/>No need<lb/>
                   for a long letter: just a "No, calm down, I never printed it" or a "Yes,<lb/>
@@ -150,19 +150,19 @@ for any purpose, even commercially.</p>
                   so please do help.
                </p>
                <p>
-                  Have I told you <del><gap reason="deleted"/>ny</del>any of my news? <space quantity="1" unit="char"/>I'm now at Columbia University permanently,<lb/>
+                  Have I told you <del><gap reason="deleted"/>ny</del>any of my news? <space quantity="1" unit="char"/>I'm now at <rs type="org" ref="#amp_organization_30">Columbia University</rs> permanently,<lb/>
                   if I want to be. <space quantity="1" unit="char"/>I have a flat with a small guest room and bath--so please<lb/>
                   take note if you're in th<del>e</del>is country for any reason. <space quantity="1" unit="char"/>I have a lady friend,<lb/>
                   the first whom I expect to be with for a very long time, and we are quite<lb/>
-                  happy about things in general. <space quantity="1" unit="char"/>Next June we'll be in Europe, certainly in<lb/>
+                  happy about things in general. <space quantity="1" unit="char"/>Next June we'll be in <rs type="place" ref="#amp_place_id_30">Europe</rs>, certainly in<lb/>
                   Paris, possibly father <del><gap reason="deleted"/></del>south, <del>t</del>although we may put off the southern trip<lb/>
                   for another year or so. <space quantity="1" unit="char"/>I haven't been across the Atlantic this year; too<lb/>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0230/" type="sheet"/>
                <p>
-                  Mendelson<lb/>
-                  39 Claremont Ave, apt 31<lb/>
-                  New York NY  10027
+                  <rs type="person" ref="#amp_person_98">Mendelson</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_171">39 Claremont Ave, apt 31<lb/>
+                  New York NY  10027</rs>
                </p>
                <p>
                   Red<unclear>aktion</unclear> 11-12.<lb/>
@@ -172,29 +172,29 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="36" unit="char"/>Frau Baronin<lb/>
-                  <space quantity="36" unit="char"/>Stella Musulin<lb/>
-                  <space quantity="36" unit="char"/>Sch<del><gap reason="deleted"/></del>l<del>t</del>össelgasse 8/17<lb/>
+                  <space quantity="36" unit="char"/><rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  <space quantity="36" unit="char"/><rs type="place" ref="#amp_place_id_172">Sch<del><gap reason="deleted"/></del>l<del>t</del>össelgasse 8/17<lb/>
                   <space quantity="36" unit="char"/>A-1080 Vienna<lb/>
-                  <space quantity="36" unit="char"/>Austria
+                  <space quantity="36" unit="char"/>Austria</rs>
                </p>
                <p>
-                  preoccupied, too broke, too much to do in New York to feel much of an<lb/>
-                  i<del><unclear>p</unclear></del>mpulse to get away. <space quantity="1" unit="char"/>My years in New Haven always left me panting to<lb/>
+                  preoccupied, too broke, too much to do in <rs type="place" ref="#amp_place_id_28">New York</rs> to feel much of an<lb/>
+                  i<del><unclear>p</unclear></del>mpulse to get away. <space quantity="1" unit="char"/>My years in <rs type="place" ref="#amp_place_id_222">New Haven</rs> always left me panting to<lb/>
                   get overseas, but now I feel at home again.
                </p>
                <p>
-                  Did you see Humphrey Carpenter's book on Wystan?  Not bad, as biographies<lb/>
+                  Did you see <rs type="person" ref="#amp_person_id_100">Humphrey Carpenter</rs>'s <rs type="lit_work" ref="#lit_work_id_39">book</rs> on <rs type="person" ref="#amp_person_id_100">Wystan</rs>?  Not bad, as biographies<lb/>
                   <unclear>g</unclear>o, but not very deep either. <space quantity="1" unit="char"/>It seems to have most of the facts right,<lb/>
-                  which is something. <space quantity="1" unit="char"/>Now a life of Chester is being written, by the woman<lb/>
-                  who recently married Chester's father, and who knew Chester since 1942.<lb/>
-                  Full of surprises and purple passages; Chester would be pleased, I think,<lb/>
-                  although I don't like to imagine how Wystan would have taken it.
+                  which is something. <space quantity="1" unit="char"/>Now a life of <rs type="person" ref="#amp_person_4">Chester</rs> is being written, by the <rs type="person" ref="#amp_person_150">woman</rs><lb/>
+                  who recently married <rs type="person" ref="#amp_person_160">Chester's father</rs>, and who knew <rs type="person" ref="#amp_person_4">Chester</rs> since 1942.<lb/>
+                  Full of surprises and purple passages; <rs type="person" ref="#amp_person_4">Chester</rs> would be pleased, I think,<lb/>
+                  although I don't like to imagine how <rs type="person" ref="#amp_person_1">Wystan</rs> would have taken it.
                </p>
                <p hand="#handwritten">
                   A<unclear>ff</unclear>ection<unclear>a</unclear>tely,
                </p>
                <p hand="#handwritten">
-                  Ed
+                  <rs type="person" ref="#amp_person_98">Ed</rs>
                </p>
          </div>
       </body>

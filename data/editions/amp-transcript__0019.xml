@@ -113,22 +113,22 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0091/" type="envelope"/>
                <p>
-                  W<unclear>.</unclear>H.Auden<lb/>
-                  77 St Mark's Place<lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H.Auden</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                   New York City<lb/>
                   N.Y . 10003<lb/>
-                  U.S.A
+                  U.S.A</rs>
                </p>
               <p>
-                 Not <unclear>q</unclear>uitti<unclear>n</unclear>g Kirchstetten <unclear>·</unclear>
+                 Not <unclear>q</unclear>uitti<unclear>n</unclear>g <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> <unclear>·</unclear>
               </p>
               <p>
                   Die Baronin<lb/>
-                  Stella Musulin<lb/>
-                  Fridau<lb/>
+                 <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                 <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                   Obergrabendorf<lb/>
                   N. Ö<lb/>
-                  Austria
+                  Austria</rs>
                </p>
                <p>
                   3200
@@ -140,19 +140,19 @@ for any purpose, even commercially.</p>
                   Feb 22nd, 1972
                </p>
                <p>
-                  77 St Mark's Place<lb/>
+                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                   New York City<lb/>
-                  N.Y. 10003
+                  N.Y. 10003</rs>
                </p>
                <p>
-                  Dear Stella<unclear>;</unclear><lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>;</unclear><lb/>
                   Many thanks for your letter<unclear>,</unclear> Whate<unclear>ve</unclear>r<lb/>
-                  ma<unclear>d</unclear>e you imagine I was quitting Kirchst<unclear>e</unclear>tten<unclear>?</unclear><lb/>
+                  ma<unclear>d</unclear>e you imagine I was quitting <rs type="place" ref="#amp_place_id_5">Kirchst<unclear>e</unclear>tten<unclear>?</unclear></rs><lb/>
                   Of course I'm not<unclear>,</unclear> The change is that I<lb/>
-                  shall be spending my winters in Oxford<lb/>
-                  not in New York.<lb/>
+                  shall be spending my winters in <rs type="place" ref="#amp_place_id_46">Oxford</rs><lb/>
+                  not in <rs type="place" ref="#amp_place_id_5">New York</rs>.<lb/>
                   love<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0094/" type="sheet"/>
          </div>

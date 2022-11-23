@@ -110,18 +110,18 @@ for any purpose, even commercially.</p>
                   <gap reason="illegible"/>
                </p>
                <p>
-                  Die Baro<unclear>n</unclear>in Stell<unclear>a</unclear> Mus<unclear>so</unclear>lin<lb/>
-                  Wien III<lb/>
-                  Neulingasse 26.
+                  Die Baro<unclear>n</unclear>in <rs type="person" ref="#amp_person_2">Stell<unclear>a</unclear> Mus<unclear>so</unclear>lin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
+                  Neulingasse 26</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0032/" type="envelope"/>
                <p>
-                  W<unclear>.</unclear>H<unclear>.</unclear> Auden
+                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear> Auden</rs>
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
          </div>
       </body>

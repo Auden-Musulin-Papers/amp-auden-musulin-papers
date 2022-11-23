@@ -95,7 +95,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0143/" type="sheet"/>
                <p>
-                  <space quantity="21" unit="char"/>JOSEPH WEINHEBER<lb/>
+                  <space quantity="21" unit="char"/><rs type="person" ref="#amp_person_5">JOSEPH WEINHEBER</rs><lb/>
                   <space quantity="22" unit="char"/>(1892-1945)<lb/>
                   <space quantity="5" unit="char"/>Von meiner Garten<del>n</del>tür führt ein schmaler Pfad vom Dorf weiter<lb/>
                   einen Wald. <space quantity="1" unit="char"/>Auf meinen Gängen dorthin scheint es gehörig, stehen z<lb/>
@@ -113,7 +113,7 @@ for any purpose, even commercially.</p>
                   "In Ruah lassen!" entgegnetest? <space quantity="1" unit="char"/>Aber Krethi und Plethi ziehen<lb/>
                   einen Stunk vor, und die Jungen verdammen dich ungelesen.<lb/>
                   <space quantity="5" unit="char"/>Was wohl würde dir, dem Österreicher, dem Dichter, dein Herz<lb/>
-                  gesagt haben, hättest du je von Franz Jägerstätter, dem Sankt<lb/>
+                  gesagt haben, hättest du je von <rs type="person" ref="#amp_person_7">Franz Jägerstätter</rs>, dem Sankt<lb/>
                   Radegunder Bauern, gehört, der sein einsames Nein zu dem Ariersta<del>t</del>at<lb/>
                   sagte und geköpft wurde? <space quantity="1" unit="char"/>Natürlich sorgte man dafür, daß nichts<lb/>
                   davon zu Ohren kam,<lb/>

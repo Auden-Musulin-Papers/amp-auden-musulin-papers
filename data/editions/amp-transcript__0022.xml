@@ -114,38 +114,38 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0117/" type="envelope"/>
                <p>
                   Die Baronin<lb/>
-                  Stella Mu<del><gap reason="deleted"/></del><unclear>s</unclear>silin<lb/>
-                  <hi rend="underline">Wien III</hi><lb/>
-                  Neulingasse 26.
+                  <rs type="person" ref="#amp_person_2">Stella Mu<del><gap reason="deleted"/></del><unclear>s</unclear>silin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
+                  Neulingasse 26</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0118/" type="envelope"/>
                <p>
-                  W.H.Auden
+                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs>
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0119/" type="sheet"/>
                <p>
                   August 16th
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
-                  <del>De</del>Dear Stella:<lb/>
+                  <del>De</del>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Del<unclear>i</unclear>ghted to hear yo<del><gap reason="deleted"/></del><unclear>u</unclear> are<lb/>
                   back and would love to see you<lb/>
-                  anytime<unclear>:</unclear> Are you living in Wien or<lb/>
-                  in Obergrabendorf.?<lb/>
-                  I read your piece in <hi rend="underline">Die Presse</hi><lb/>
+                  anytime<unclear>:</unclear> Are you living in <rs type="place" ref="#amp_place_id_1">Wien</rs> or<lb/>
+                  in <rs type="place" ref="#amp_place_id_8">Obergrabendorf</rs>.?<lb/>
+                  I read your piece in <rs type="lit_work" ref="#lit_work_id_64"><hi rend="underline">Die Presse</hi></rs><lb/>
                   last Sunday <unclear>wi</unclear>th great int<unclear>e</unclear>re<unclear>s</unclear>t<unclear>,</unclear><lb/>
                   yours ever<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0120/" type="sheet"/>
          </div>

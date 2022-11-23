@@ -116,48 +116,48 @@ for any purpose, even commercially.</p>
                   <hi rend="underline">mit Luft Post</hi>
                </p>
                <p>
-                  Weinheber-Gedicht
+                  <rs type="lit_work" ref="#lit_work_id_">Weinheber-Gedicht</rs>
                </p>
                <p>
                   Die Baronin<lb/>
-                  Stella Musulin<lb/>
-                  <del>Fridau</del><lb/>
+                  <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_7"><del>Fridau</del><lb/>
                   <del>Obergrafendorf</del><lb/>
                   <del>bei<unclear>.</unclear> S. Pölten</del><lb/>
                   <del>NÖ</del><lb/>
-                  Osterreich
+                  Osterreich</rs>
                </p>
                <p>
-                  Wien IV<lb/>
-                  Neulinggasse 26/14
+                  <rs type="place" ref="#amp_place_id_11">Wien IV<lb/>
+                  Neulinggasse 26/14</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0008/" type="envelope"/>
                <p>
-                  W H Auden<lb/>
-                  Berlin<unclear>-</unclear>Dahlem<lb/>
+                  <rs type="person" ref="#amp_person_1">W H Auden</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_19">Berlin<unclear>-</unclear>Dahlem<lb/>
                   Hubertusbaderstrasse 43<lb/>
-                  Deut<unclear>s</unclear>c<unclear>h</unclear>land<unclear>·</unclear>
+                  Deut<unclear>s</unclear>c<unclear>h</unclear>land</rs><unclear>·</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0005/" type="sheet"/>
                <p>
                   Dec 23rd
                </p>
                <p>
-                  Berlin<unclear>.</unclear>Dahlem<lb/>
-                  Hubertusbaderstrasse 43
+                  <rs type="place" ref="#amp_place_id_19">Berlin<unclear>.</unclear>Dahlem<lb/>
+                  Hubertusbaderstrasse 43</rs>
                </p>
                <p>
-                  Dear Stella:<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   It <hi rend="underline">was</hi> sweet of you to think of me at<lb/>
                   Christmas ,especially since it's a little einsam here.<lb/>
                   Am beginning to know some local inhabitants. Oddly enough,<lb/>
-                  the ones I can talk to most easily ar from <unclear>O</unclear>st-Berlin<unclear>,</unclear><lb/>
+                  the ones I can talk to most easily ar from <rs type="place" ref="#amp_place_id_21"><unclear>O</unclear>st-Berlin</rs><unclear>,</unclear><lb/>
                   The most awful thi<unclear>ng</unclear> about the Bifk<unclear>e</unclear>s is that<lb/>
                   they are so much nicer under a little <hi rend="underline">Druck</hi>.<lb/>
                   When they feel their oats they are so apt to become<lb/>
                   uppish.<lb/>
-                  If I'd known,I'd have warned you about <hi rend="underline"><unclear>T</unclear>he<lb/>
-                  National Review</hi>. I once reviewed a Charles Williams<lb/>
+                  If I'd known,I'd have warned you about <rs type="org" ref="#amp_organization_24"><hi rend="underline"><unclear>T</unclear>he<lb/>
+                  National Review</hi></rs>. I once reviewed a <rs type="person" ref="#amp_person_6">Charles Williams</rs><lb/>
                   book for them - never again. Of course <unclear>y</unclear>ou're right<lb/>
                   about the lib-labs ostrich attitude to those who<lb/>
                   wish to destroy them, but one cannot let one's name<lb/>
@@ -169,7 +169,7 @@ for any purpose, even commercially.</p>
                   come from? What class? Whom do they marry?<lb/>
                   <del>Have you ever met one<unclear>?</unclear></del> To what pubs do they go?<lb/>
                   much love and best wishes for 1<unclear>9</unclear>65<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0006/" type="sheet"/>
          </div>

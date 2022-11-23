@@ -114,40 +114,40 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0125/" type="envelope"/>
                <p>
                   Die Baronin<lb/>
-                  Stella Musuli<unclear>m</unclear><lb/>
-                  Wien III<lb/>
-                  Neulinggasse 26.
+                  <rs type="person" ref="#amp_person_2">Stella Musuli<unclear>m</unclear></rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
+                  Neulinggasse 26</rs>.
                </p>
                <p>
                   14
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0126/" type="envelope"/>
                <p>
-                  W<unclear>.H</unclear> Auden<lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>.H</unclear> Auden</rs><lb/>
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0127/" type="sheet"/>
                <p>
                  Dienstag. 
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
-                  Dear <del>Sell</del> Stella:<lb/>
+                  Dear <rs type="person" ref="#amp_person_1"><del>Sell</del> Stella</rs>:<lb/>
                   Many thanks for your card.<lb/>
-                  Cant get i<unclear>m</unclear> t<unclear>o</unclear> Vienna before<lb/>
+                  Cant get i<unclear>m</unclear> t<unclear>o</unclear> <rs type="place" ref="#amp_place_id_1">Vienna</rs> before<lb/>
                   <unclear>Fr</unclear>iday<unclear>,</unclear> but do come and see us<lb/>
                   eith<unclear>e</unclear>r on your way to or from<lb/>
-                  Fridau,or let us know when we<lb/>
+                  <rs type="place" ref="#amp_place_id_7">Fridau</rs>,or let us know when we<lb/>
                   could call <unclear>,_</unclear><lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0128/" type="sheet"/>
          </div>

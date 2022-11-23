@@ -1,3 +1,5 @@
+
+<?xml-stylesheet type='text/xsl' href='filenameamp-transcript__0061_DG_v01_name_plc_full.xsl'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0055.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
@@ -91,7 +93,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0235/" type="nan"/>
                <p>
-                  Private photograph of W. H. Auden (left), Elsa Musulin (middle), and Chester Kallman (right), Fridau, Ober-Grafendorf, ca. 1960.<lb/>
+                  Private photograph of <rs type="person" ref="#amp_person_1">W. H. Auden</rs> (left), <rs type="person" ref="#amp_person_2">Elsa Musulin</rs> (middle), and <rs type="person" ref="#amp_person_4">Chester Kallman</rs> (right), <rs type="place" ref="#amp_place_id_7">Fridau, Ober-Grafendorf</rs>, ca. 1960.<lb/>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0236/" type="nan"/>
          </div>

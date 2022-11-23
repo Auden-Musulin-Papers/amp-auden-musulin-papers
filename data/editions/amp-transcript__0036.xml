@@ -93,21 +93,21 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0241/" type="card"/>
                <p>
-                  22 Kildare Street,<lb/>
-                  Dublin<unclear>,</unclear> 2
+                  <rs type="place" ref="#amp_place_id_173">22 Kildare Street,<lb/>
+                  Dublin<unclear>,</unclear> 2</rs>
                </p>
                <p>
                   15th August 1984
                </p>
                <p>
-                  Dear Barone<unclear>s</unclear>s Musulin,
+                  Dear Barone<unclear>s</unclear>s <rs type="person" ref="#amp_person_2">Musulin</rs>,
                </p>
                <p>
                   I shall<lb/>
-                  be arriving in Vienna on 1st Sept.<lb/>
-                  I have taken Prof. Hans Raimund's<lb/>
-                  <unclear>F</unclear>lat at : <del>Z</del>LACKIERERGASSE 5<lb/>
-                  (Peter Müller has the telephone<lb/>
+                  be arriving in <rs type="place" ref="#amp_place_id_1">Vienna</rs> on 1st Sept.<lb/>
+                  I have taken <rs type="person" ref="#amp_person_127">Prof. Hans Raimund</rs>'s<lb/>
+                  <unclear>F</unclear>lat at : <rs type="place" ref="#amp_place_id_174"><del>Z</del>LACKIERERGASSE 5</rs><lb/>
+                  (<rs type="person" ref="#amp_person_119">Peter Müller</rs> has the telephone<lb/>
                   nu<unclear>m</unclear>ber). 4279 394
                </p>
                <p>

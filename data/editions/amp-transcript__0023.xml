@@ -114,37 +114,37 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0121/" type="envelope"/>
                <p>
                   Die Baronin<lb/>
-                  Stella Mus<del><gap reason="deleted"/></del><unclear>s</unclear>ulin<lb/>
-                  Fridau<lb/>
+                  <rs type="person" ref="#amp_person_2">Stella Mus<del><gap reason="deleted"/></del><unclear>s</unclear>ulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                   <unclear>O</unclear>bergrabendorf,<lb/>
-                  N. O <unclear>,</unclear> bei S. Pölten
+                  N. O <unclear>,</unclear> bei S. Pölten</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0122/" type="envelope"/>
                <p>
-                  W.H.Auden
+                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs>
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0123/" type="sheet"/>
                <p>
                   July 23rd.
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
-                  Dear Stella:<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   How are you and where are<lb/>
                   you?<lb/>
-                  If in Fridau,we would love to<lb/>
-                  see you. Am expecting Christiane<lb/>
-                  Zimmer here about <del><gap reason="deleted"/></del> August 5th.<lb/>
-                  Wystan
+                  If in <rs type="place" ref="#amp_place_id_7">Fridau</rs>,we would love to<lb/>
+                  see you. Am expecting <rs type="person" ref="#amp_person_3">Christiane<lb/>
+                  Zimmer</rs> here about <del><gap reason="deleted"/></del> August 5th.<lb/>
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0124/" type="sheet"/>
          </div>

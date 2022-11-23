@@ -112,47 +112,47 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope"/>
-            <p><unclear>Ch</unclear>ester in Florence<unclear>.</unclear></p>
+            <p><rs type="person" ref="#amp_person_4"><unclear>Ch</unclear>ester</rs> in <rs type="place" ref="#amp_place_id_29">Florence</rs><unclear>.</unclear></p>
             <p>
                Die Ba<unclear>ron</unclear>in<lb/>
-               Stella M<unclear>eu</unclear>ss<unclear>u</unclear>lin<lb/>
-               <del>Wien III</del><lb/>
-               <del>Neulinggasse 26</del>
+               <rs type="person" ref="#amp_person_2">Stella M<unclear>eu</unclear>ss<unclear>u</unclear>lin</rs><lb/>
+               <rs type="place" ref="#amp_place_id_11"><del>Wien III</del><lb/>
+               <del>Neulinggasse 26</del></rs>
             </p>
             <p>
-               Fridau,<lb/>
+               <rs type="place" ref="#amp_place_id_7">Fridau,<lb/>
                Obergrafendorf,<lb/>
                bei ST.PÖLTEN,<lb/>
-               NÖ
+               NÖ</rs>
             </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0002/" type="envelope"/>
             <p>
-               W.H.Auden<unclear>,</unclear><lb/>
+               <rs type="person" ref="#amp_person_1">W.H.Auden</rs><unclear>,</unclear><lb/>
             </p>
             <p hand="#printed">
-               KIRCHSTETTEN (WESTBAHN)<lb/>
+               <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                HINTERHOLZ 6<lb/>
-               N.-Ö., AUSTRIA
+               N.-Ö., AUSTRIA</rs>
             </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0003/" type="letter"/>
             <p>Sunday.</p>
             <p hand="#printed">
-               KIRCHSTETTEN (WESTBAHN)<lb/>
+               <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                HINTERHOLZ 6<lb/>
-               N.-Ö., AUSTRIA               
+               N.-Ö., AUSTRIA</rs>               
             </p>
             <p>
-               Dear Stella:<lb/>
-               Delighted to hear you are zu Haus.<lb/>
+               Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+               Delighted to hear you are <rs type="place" ref="#amp_place_id_7">zu Haus</rs>.<lb/>
                No, I d<unclear>i</unclear>dnt get any letter from you. <unclear>Pe</unclear>rhaps<lb/>
-               it is in the <unclear>.</unclear>U.S.<unclear>,</unclear> I shall be in Vienna this<lb/>
+               it is in the <unclear>.</unclear><rs type="place" ref="#amp_place_id_15">U.S.</rs><unclear>,</unclear> I shall be in <rs type="place" ref="#amp_place_id_1">Vienna</rs> this<lb/>
                coming week on Monday, <del>T<unclear>hur</unclear></del> Wednesday and Friday.<lb/>
                Wi<unclear>ll</unclear> try to call you to-mo<unclear>rrow</unclear> to arrange<lb/>
                a meeting.<lb/>
-               Chester is at the moment in Florence,but<lb/>
+               <rs type="person" ref="#amp_person_4">Chester</rs> is at the moment in <rs type="place" ref="#amp_place_id_29">Florence</rs>,but<lb/>
                I expect him back on Tuesday.<lb/>
                love<lb/>
-               Wystan
+               <rs type="person" ref="#amp_person_1">Wystan</rs>
             </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0004/" type="letter"/>
          </div>

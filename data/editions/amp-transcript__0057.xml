@@ -108,24 +108,24 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0105/" type="envelope"/>
                <p>
                   Die Baronin<lb/>
-                  Stella Mussolin<lb/>
-                  <del>WIEN III</del><lb/>
-                  <del>Neulinggasse 26</del>
+                  <rs type="person" ref="#amp_person_2">Stella Mussolin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_26"><del>WIEN III</del><lb/>
+                  <del>Neulinggasse 26</del></rs>
                </p>
                <p hand="#handwritten">
-                  FRIDAU<lb/>
+                  <rs type="place" ref="#amp_place_id_7">FRIDAU<lb/>
                   OBERGRAFENDORF<lb/>
                   BEI ST<unclear>-</unclear>PÖLTEN<lb/>
-                  N.Ö.
+                  N.Ö</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0106/" type="envelope"/>
                <p>
-                  W.H.Auden
+                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs>
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
          </div>
       </body>

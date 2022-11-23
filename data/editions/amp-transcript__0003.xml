@@ -117,27 +117,27 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <unclear>D</unclear>ie Baronin<lb/>
-                  Stella Musulin<lb/>
-                  Wien III<lb/>
-                  Neu<unclear>l</unclear>ingg<unclear>a</unclear>sse 26 .
+                  <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
+                  Neu<unclear>l</unclear>ingg<unclear>a</unclear>sse 26</rs> .
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0016/" type="envelope"/>
                <p hand="#printed">
-                  W. H. AUDEN<lb/>
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="person" ref="#amp_person_1">W. H. AUDEN</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
-                  <unclear>1·</unclear> Buch Ne<unclear>u</unclear>linggasse<lb/>
-                  26/14<lb/>
+                  <unclear>1·</unclear> <rs type="place" ref="#amp_place_id_11">Buch Ne<unclear>u</unclear>linggasse<lb/>
+                  26/14</rs><lb/>
                   27.9.<lb/>
                   beigefügter Brief<lb/>
                   schlamp<unclear>e</unclear>rte Post<lb/>
                   feste Adresse
                </p>
                <p>
-                  aus München a<unclear>m</unclear><lb/>
+                  aus <rs type="place" ref="#amp_place_id_26">München</rs> a<unclear>m</unclear><lb/>
                   4<unclear>:</unclear>5<unclear>:</unclear>6<unclear>:</unclear> <unclear>nic</unclear>ht<lb/>
                   d<unclear>a</unclear>
                </p>
@@ -152,29 +152,29 @@ for any purpose, even commercially.</p>
                   Mittwoch
                </p>
                <p hand="#printed">
-                  W. H. AUDEN
+                  <rs type="person" ref="#amp_person_1">W. H. AUDEN</rs>
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
-                  Dear Stella:<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Many thanks for your letter. Shall be delighted to<lb/>
                   see you both anyday any time. I can't get<lb/>
-                  to Vienna this week. Will you be there next<lb/>
+                  to <rs type="place" ref="#amp_place_id_1">Vienna</rs> this week. Will you be there next<lb/>
                   T<unclear>u</unclear>esday? I have to go to a reception at<lb/>
-                  Amerika Haus 6-8. If you were free,it<lb/>
+                  <rs type="place" ref="#amp_place_id_27">Amerika Haus 6-8</rs>. If you were free,it<lb/>
                   woul<unclear>d</unclear> be fun t<unclear>o</unclear> have dinner to-gether. I<lb/>
                   certainly shan't stay at the do after <unclear>7</unclear>·30.<lb/>
                   I ag<unclear>re</unclear>e about the cutting. Will keep it till<lb/>
                   you come or bring it with me next week.<lb/>
                   love<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
                <p>
-                  P.S. The N.D.R arri<unclear>ve</unclear>d. Translation quite good,<lb/>
+                  P.S. The <rs type="lit_work" ref="#lit_work_id_42">N.D.R</rs> arri<unclear>ve</unclear>d. Translation quite good,<lb/>
                   but <hi rend="underline">why</hi> turn <hi rend="underline">bars</hi> into <hi rend="underline">Theke</hi>?
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0018/" type="sheet"/>

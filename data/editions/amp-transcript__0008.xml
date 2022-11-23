@@ -121,43 +121,43 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Die Baroninin<lb/>
-                  Stella Musulin<lb/>
-                  <del>Vi</del> Wien I<del>V</del>II<lb/>
+                  <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11"><del>Vi</del> Wien I<del>V</del>II<lb/>
                   Neulinggasse 26<lb/>
-                  Au<hi rend="underline">str</hi>ia
+                  Au<hi rend="underline">str</hi>ia</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0040/" type="envelope"/>
                <p>
-                  WH<unclear>_</unclear>Auden<lb/>
-                  ℅ Heyworth<lb/>
-                  32 Bryanston Sq<unclear>u</unclear>are<lb/>
+                  <rs type="person" ref="#amp_person_1">WH<unclear>_</unclear>Auden</rs><lb/>
+                  ℅ <rs type="person" ref="#amp_person_19">Heyworth</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_45">32 Bryanston Sq<unclear>u</unclear>are<lb/>
                   London. <del><unclear>N.,</unclear></del> W.I<lb/>
-                  England
+                  England</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0041/" type="sheet"/>
                <p hand="#printed">
-                  CHRIST CHURCH,<lb/>
-                  OXFORD.
+                  <rs type="org" ref="#amp_organization_6">CHRIST CHURCH,<lb/>
+                  OXFORD</rs>.
                </p>
                <p>
                   Oct 12 th
                </p>
                <p>
-                  Dear Stella<unclear>.</unclear><lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>.</unclear><lb/>
                   Like an idiot<unclear>,</unclear> I<unclear>v</unclear>e<del><gap reason="deleted"/></del> gone and<lb/>
                   left my American Dr<del><gap reason="deleted"/></del>iving Licence<lb/>
                   behind.<lb/>
                   It sh<unclear>ou</unclear>ld be in an envelope in<lb/>
                   the drawer of my bed-table upstairs.<lb/>
                   Could you be an angel and look for<lb/>
-                  it next time you ar<unclear>e</unclear> going to Fridau<lb/>
+                  it next time you ar<unclear>e</unclear> going to <rs type="place" ref="#amp_place_id_7">Fridau</rs><lb/>
                   and air-mail to me<lb/>
-                  ℅ Mr Peter Heyworth<lb/>
-                  32 Bryanston Square<lb/>
-                  London . W .I .<lb/>
+                  ℅ Mr <rs type="person" ref="#amp_person_19">Peter Heyworth</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_45">32 Bryanston Square<lb/>
+                  London . W .I .</rs><lb/>
                   So sorry to be such a nuisance.<lb/>
                   love<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0042/" type="sheet"/>
          </div>

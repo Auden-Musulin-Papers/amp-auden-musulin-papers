@@ -107,10 +107,10 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0233/" type="sheet"/>
                <p>
-                  MUSULIN NEULINGGASSE <space quantity="1" unit="char"/>26/14 <space quantity="1" unit="char"/>1030/WIEN
+                  <rs type="person" ref="#amp_person_2">MUSULIN</rs> <rs type="place" ref="#amp_place_id_11">NEULINGGASSE <space quantity="1" unit="char"/>26/14 <space quantity="1" unit="char"/>1030/WIEN</rs>
                </p>
                <p>
-                  = <space quantity="1" unit="char"/>KOMMEN SAMSTAG = <space quantity="1" unit="char"/>LOVE <space quantity="1" unit="char"/>WYSTAN
+                  = <space quantity="1" unit="char"/>KOMMEN SAMSTAG = <space quantity="1" unit="char"/>LOVE <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">WYSTAN</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0234/" type="sheet"/>
          </div>

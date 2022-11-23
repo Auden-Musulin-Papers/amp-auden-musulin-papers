@@ -111,21 +111,21 @@ for any purpose, even commercially.</p>
                   <unclear>a</unclear>ns<unclear>t</unclear>att Donnerstag zum Abend<unclear>e</unclear>ssen kommen<lb/>
                </p>
                <p>
-                  Auden
+                  <rs type="person" ref="#amp_person_1">Auden</rs>
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
                   <unclear>S</unclear>onntag.
                </p>
                <p>
-                  Dear Stella:<lb/>
-                  Good. Will be at your place<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+                  Good. Will be at <rs type="place" ref="#amp_place_id_78">your place</rs><lb/>
                   on Thu<unclear>r</unclear>sday (19th) at 6.p.m<unclear>.</unclear><lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0108/" type="sheet"/>
          </div>

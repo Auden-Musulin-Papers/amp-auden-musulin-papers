@@ -113,53 +113,53 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0027/" type="envelope"/>
                <p>
-                  W<unclear>.</unclear>H<unclear>:</unclear>Auden<lb/>
-                  77 St Mark's Place<lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>:</unclear>Auden</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                   New York City<lb/>
                   New York 10003<lb/>
-                  U.S.A
+                  U.S.A</rs>
                </p>
                <p>
                   Air-Mail
                </p>
                <p>
                   Die Baronin<lb/>
-                  Stella M<del><gap reason="deleted"/></del>usulin<lb/>
-                  Vienna III<lb/>
+                  <rs type="person" ref="#amp_person_2">Stella M<del><gap reason="deleted"/></del>usulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Vienna III<lb/>
                   26 Neulingasse<lb/>
-                  Austria
+                  Austria</rs>
                </p>
                <p>
                   Re arrival interview<lb/>
-                  Strobl.
+                  <rs type="person" ref="#amp_person_32">Strobl</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0028/" type="envelope"/>
                <p>
                   52 6320<lb/>
-                  Wa<unclear>n</unclear>dl<unclear>;</unclear><lb/>
-                  Elizabeth <unclear>.</unclear><lb/>
-                  Austria <unclear>.</unclear>
+                  <rs type="person" ref="#amp_person_103">Wa<unclear>n</unclear>dl<unclear>;</unclear><lb/>
+                  Elizabeth</rs> <unclear>.</unclear><lb/>
+                  <rs type="place" ref="#amp_place_id_10">Austria</rs> <unclear>.</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0029/" type="sheet"/>
                <p>
                   Feb 6th<unclear>,</unclear>
                </p>
                <p>
-                  77 St Mark's Place<lb/>
-                  N.Y.C 3.
+                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                  N.Y.C 3</rs>.
                </p>
                <p>
-                  Dear Stella.<lb/>
-                  I shall be arriving in Vienna next<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>.<lb/>
+                  I shall be arriving in <rs type="place" ref="#amp_place_id_1">Vienna</rs> next<lb/>
                   Monday morning (12th) and staying till<lb/>
                   the 16th in order to interview a<lb/>
                   prospective couple to take the Eiermanns place<unclear>.</unclear><lb/>
-                  Expect to be staying at the Hotel<lb/>
-                  <hi rend="underline">Königin von Hungarn <unclear>.</unclear></hi><lb/>
+                  Expect to be staying at the <rs type="place" ref="#amp_place_id_42">Hotel<lb/>
+                  <hi rend="underline">Königin von Hungarn <unclear>.</unclear></hi></rs><lb/>
                   Will phone you. Do hope you are<lb/>
                   around<unclear>·</unclear><lb/>
                   love<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0030/" type="sheet"/>
          </div>

@@ -116,21 +116,21 @@ for any purpose, even commercially.</p>
                   <hi rend="underline">Air<unclear>∼</unclear>Mail</hi>
                </p>
                <p>
-                  W<unclear>.</unclear>H.Auden<lb/>
-                  77 St Mark's Place<lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H.Auden</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                   New York City<lb/>
                   New Yo<unclear>r</unclear>k 10003<lb/>
-                  U.S<unclear>,</unclear>A.
+                  U.S<unclear>,</unclear>A.</rs>
                </p>
                <p>
-                  Boras
+                  <rs type="person" ref="#amp_person_23">Boras</rs>
                </p>
                <p>
                   Die Baronin<lb/>
-                  Stella M<unclear>u</unclear>sulin<lb/>
-                  Wien <del>IV</del><lb/>
+                  <rs type="person" ref="#amp_person_2">Stella M<unclear>u</unclear>sulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Wien <del>IV</del><lb/>
                   Neulinggasse 2<unclear>6</unclear>/14<lb/>
-                  Austria<unclear>,</unclear>
+                  Austria<unclear>,</unclear></rs>
                </p>
                <p>
                   1030
@@ -138,18 +138,18 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0060/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0061/" type="sheet"/>
                <p>
-                  <unclear>7</unclear>7 St Mark's Place<lb/>
+                  <rs type="place" ref="#amp_place_id_29"><unclear>7</unclear>7 St Mark's Place<lb/>
                   New York City<lb/>
                   New Y<unclear>or</unclear>k 10003<lb/>
-                  U.S.A.
+                  U.S.A.</rs>
                </p>
                <p>
                   Jan 4th
                </p>
                <p>
-                  Dear Stella:<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Many thanks for your letter. I gather<lb/>
-                  that,in the end, Chester deci<unclear>de</unclear>d not t<unclear>o</unclear><lb/>
+                  that,in the end, <rs type="person" ref="#amp_person_4">Chester</rs> deci<unclear>de</unclear>d not t<unclear>o</unclear><lb/>
                   go to Vienna.<lb/>
                   Meanwhile, I am in despair about the<lb/>
                   practical matter of the whereabouts and<lb/>
@@ -158,17 +158,17 @@ for any purpose, even commercially.</p>
                   grateful if you would call him or on h<unclear>i</unclear>m.<lb/>
                   to find out what is the matter. Among other<lb/>
                   things he has the cheques for my Hausmeisterin.<lb/>
-                  Address Otto Hoff<unclear>m</unclear>a<unclear>n</unclear>n. Wien VII. Karl S<unclear>c</unclear>hweighofegasse<lb/>
-                  4/21. Tel. 93/88/155.<lb/>
+                  Address <rs type="person" ref="#amp_person_21">Otto Hoff<unclear>m</unclear>a<unclear>n</unclear>n</rs>. <rs type="place" ref="#amp_place_id_48">Wien VII. Karl S<unclear>c</unclear>hweighofegasse<lb/>
+                  4/21</rs>. Tel. 93/88/155.<lb/>
                   I hear that my old lawyer <del><gap reason="deleted"/></del> is supervising<lb/>
                   the case but have till now heard nothing from<lb/>
                   him. Again coul<unclear>d</unclear> you call hi<unclear>m</unclear> for me.<lb/>
-                  Dr Walter Redlich. Wien <unclear>X</unclear>IX . Paradisgasse 55.<lb/>
+                  <rs type="person" ref="#amp_person_14">Dr Walter Redlich</rs>. <rs type="place" ref="#amp_place_id_49">Wien <unclear>X</unclear>IX . Paradisgasse 55.</rs><lb/>
                   Tel: 36/43/83.<lb/>
                   Terribly sorry to be such a nuis<unclear>a</unclear>nce, <unclear>b</unclear>ut<lb/>
                   I don't k<unclear>now</unclear> what to do. I can't get intouch<lb/>
                   <gap reason="illegible"/> the Insurance till I know more<lb/>
-                  love   Wystan<unclear>-·</unclear>
+                  love   <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>-·</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0062/" type="sheet"/>
                <p>

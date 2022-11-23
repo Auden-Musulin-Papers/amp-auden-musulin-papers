@@ -113,24 +113,24 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0051/" type="envelope"/>
                <p>
-                  WH.Auden<lb/>
-                  77 St Mark's Place<lb/>
+                  <rs type="person" ref="#amp_person_1">WH.Auden</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                   New York City<lb/>
                   New York 10003<lb/>
-                  U.S.A<unclear>.</unclear>
+                  U.S.A<unclear>.</unclear></rs>
                </p>
                <p>
                   <hi rend="underline">Air-Mail</hi>
                </p>
                <p>
-                  Death Jean Boras
+                  Death <rs type="person" ref="#amp_person_23">Jean Boras</rs>
                </p>
                <p>
                   Die Baronin<lb/>
-                  Stella Musulin<lb/>
-                  Wien <del>IV .</del><lb/>
+                  <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Wien <del>IV .</del><lb/>
                   Neulin<unclear>g</unclear>gasse 26/14<lb/>
-                  Austria
+                  Austria</rs>
                </p>
                <p>
                   1030
@@ -141,27 +141,27 @@ for any purpose, even commercially.</p>
                   Dec 13th <unclear>'</unclear>
                </p>
                <p>
-                  7 St Mark's Place<lb/>
+                  <rs type="place" ref="#amp_place_id_29">7 St Mark's Place<lb/>
                   New York City<lb/>
-                  N.Y. 10003<lb/>
+                  N.Y. 10003</rs><lb/>
                   <del><gap reason="deleted"/></del>
                </p>
                <p>
-                  Dear Stella:<lb/>
-                  Chester has just telephoned me from Athens to say<lb/>
-                  that <unclear>his</unclear> Greek fr<unclear>i</unclear>end Jean Boras,whom I<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+                  <rs type="person" ref="#amp_person_4">Chester</rs> has just telephoned me from <rs type="place" ref="#amp_place_id_13">Athens</rs> to say<lb/>
+                  that <unclear>his</unclear> Greek fr<unclear>i</unclear>end <rs type="person" ref="#amp_person_23">Jean Boras</rs>,whom I<lb/>
                   think you have met, while driving my car<lb/>
-                  between Vienna and Kirchstetten coll<unclear>e</unclear>ded with<lb/>
+                  between <rs type="place" ref="#amp_place_id_1">Vienna</rs> and <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> coll<unclear>e</unclear>ded with<lb/>
                   a Lastwagen and was killed.<lb/>
-                  Chester is going to Vienna,but he was too<lb/>
+                  <rs type="person" ref="#amp_person_4">Chester</rs> is going to <rs type="place" ref="#amp_place_id_1">Vienna</rs>,but he was too<lb/>
                   upset for <del><gap reason="deleted"/></del><unclear>m</unclear>e to find out where he would<lb/>
-                  stay. I presume in Kirchstetten.<lb/>
+                  stay. I presume in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>.<lb/>
                   If you can get in touch him and help him<lb/>
                   in any way (there are purely practical matters to<lb/>
                   be cons<unclear>i</unclear>de<unclear>re</unclear>d,like the car<unclear>-</unclear>papers and insurance policy)<lb/>
                   I should be most grateful<unclear>,</unclear><lb/>
                   love<lb/>
-                  Wystan<unclear>,</unclear>
+                  <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>,</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0054/" type="sheet"/>
                <p>

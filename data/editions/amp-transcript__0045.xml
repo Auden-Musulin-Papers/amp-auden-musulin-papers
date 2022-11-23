@@ -113,40 +113,40 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0109/" type="envelope"/>
                <p>
-                  W. H<unclear>.</unclear> Auden<lb/>
-                  Kirchstetten (West Bah<unclear>n</unclear>)<lb/>
+                  <rs type="person" ref="#amp_person_1">W. H<unclear>.</unclear> Auden<lb/></rs>
+                  <rs type="place" ref="#amp_place_id_2">Kirchstetten (West Bah<unclear>n</unclear>)<lb/>
                   Hinterholz # 6.<lb/>
-                  N.O.
+                  N.O.</rs>
                </p>
                <p>
                   Die Baronin<lb/>
-                  Stella M<unclear>us</unclear>ulin<lb/>
-                  Fridau<lb/>
+                  <rs type="person" ref="#amp_person_2">Stella M<unclear>us</unclear>ulin<lb/></rs>
+                  <rs type="place" ref="#amp_place_id_78">Fridau<lb/>
                   Obergrafendorf<lb/>
                   bei St. Pölten<lb/>
-                  N.<unclear>O</unclear>
+                  N.<unclear>O</unclear></rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0110/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0111/" type="sheet"/>
                <p>
-                  Kirstetten.
+                  <rs type="place" ref="#amp_place_id_5">Kirstetten.</rs>
                </p>
                <p>
                   Thursday
                </p>
                <p hand="#printed">
-                  <del>CHRIST CHURCH,</del><lb/>
-                  <del>OXFORD.</del>
+                  <rs type="org" ref="#amp_organization_4"><del>CHRIST CHURCH,</del><lb/>
+                  <del>OXFORD.</del></rs>
                </p>
                <p>
-                  Dear Baroness Musulin:<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:<lb/>
                   Delighted to get your ca<unclear>rd</unclear>. We<lb/>
                   shall look forw<unclear>a</unclear>rd to seeing you<lb/>
                   on Saturday aftern<unclear>o</unclear>on.<lb/>
                   We have a gramophone now <hi rend="underline">and</hi> a<lb/>
                   tape-rec<unclear>o</unclear>rder.<lb/>
                   yours sinc<unclear>e</unclear>rely<lb/>
-                  Wystan Auden
+                  <rs type="person" ref="#amp_person_1">Wystan Auden</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0112/" type="sheet"/>
          </div>

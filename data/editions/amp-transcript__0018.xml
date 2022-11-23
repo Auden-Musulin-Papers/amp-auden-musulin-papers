@@ -120,10 +120,10 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Die Baro<unclear>n</unclear>in<lb/>
-                  Stella Musulin<lb/>
-                  Wien <del>IV</del> 1030<lb/>
+                  <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Wien <del>IV</del> 1030<lb/>
                   Neulinggasse 26/14<lb/>
-                  Austria
+                  Austria</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0088/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0089/" type="sheet"/>
@@ -131,31 +131,31 @@ for any purpose, even commercially.</p>
                   Oct 19 th .
                </p>
                <p>
-                  ℅ Spender<lb/>
-                  15 Loudoun Rd<lb/>
-                  London. N.W.8
+                  ℅ <rs type="person" ref="#amp_person_8">Spender</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_69">15 Loudoun Rd<lb/>
+                  London. N.W.8</rs>
                </p>
                <p>
-                  Dear Stella<unclear>;</unclear><lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>;</unclear><lb/>
                   Were very disappointed that we didn't<lb/>
                   see you again before we left. You seem<lb/>
-                  to have stayed in England much longer than<lb/>
+                  to have stayed in <rs type="place" ref="#amp_place_id_93">England</rs> much longer than<lb/>
                   usual.<lb/>
-                  This morning a copy of <hi rend="underline">Austri<unclear>a</unclear></hi> ar<unclear>r</unclear>ived<lb/>
-                  from Faber's. <unclear>:</unclear> The illustrations, which I hadn't<lb/>
+                  This morning a copy of <rs type="place" ref="#amp_place_id_10"><hi rend="underline">Austri<unclear>a</unclear></hi></rs> ar<unclear>r</unclear>ived<lb/>
+                  from <rs type="org" ref="#amp_organization_5">Faber's</rs>. <unclear>:</unclear> The illustrations, which I hadn't<lb/>
                   seen before seem excellent<lb/>
                   Overleaf a poem I want to dedicate to<lb/>
                   you. Fir<unclear>s</unclear>tly , because of its subject and,<lb/>
                   se<unclear>c</unclear>ondly, bec<unclear>a</unclear>use it is written in an i<unclear>m</unclear>itat<unclear>in</unclear><lb/>
                   of a medieval Welsh metre called a <hi rend="underline">Cywydd<unclear>,</unclear></hi><lb/>
-                  Return to New York on N<unclear>Ov</unclear> 1st.<lb/>
+                  Return to <rs type="place" ref="#amp_place_id_28">New York</rs> on N<unclear>Ov</unclear> 1st.<lb/>
                   love<lb/>
                   Wystan
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0090/" type="sheet"/>
                <p hand="#typed">
-                  <hi rend="underline">STARK BEW<unclear>Ö</unclear>LKT</hi><lb/>
-                  (<hi rend="underline">for Stella Musulin</hi>)
+                  <rs type="lit_work" ref="#lit_work_id_53"><hi rend="underline">STARK BEW<unclear>Ö</unclear>LKT</hi></rs><lb/>
+                  (<hi rend="underline">for <rs type="person" ref="#amp_person_2">Stella Musulin</rs></hi>)
                   <lg>
                      <l>I'm no photophil who burns</l>
                      <l>his body brown on beaches:</l>

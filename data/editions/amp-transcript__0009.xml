@@ -113,21 +113,21 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0043/" type="envelope"/>
                <p>
-                  W<unclear>.</unclear>H<unclear>.</unclear>Auden<lb/>
-                  ℅ Heyworth<lb/>
-                  32 Bryanston Square<lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear>Auden</rs><lb/>
+                  ℅ <rs type="person" ref="#amp_person_19">Heyworth</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_45">32 Bryanston Square<lb/>
                   London. W.I.<lb/>
-                  England
+                  England</rs>
                </p>
                <p>
                   <del><gap reason="deleted"/></del>A<hi rend="underline">ir-M<unclear>ail</unclear></hi>
                </p>
                <p>
                   Die Baronin<lb/>
-                  Stella Musulin<lb/>
-                  Wien <del>IV</del>III<lb/>
+                  <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Wien <del>IV</del>III<lb/>
                   Neulinggasse 26<lb/>
-                  A<hi rend="underline">ustria </hi>.
+                  A<hi rend="underline">ustria </hi></rs>.
                </p>
                <p>
                   Re Czech refugees .
@@ -135,17 +135,17 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0044/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0045/" type="sheet"/>
                <p>
-                  ℅ Heyworth
+                  ℅ <rs type="person" ref="#amp_person_19">Heyworth</rs>
                </p>
                <p hand="#printed">
-                  32 BRYANSTON SQUARE <space quantity="1" unit="char"/>LONDON W1 · AMBASSADOR 8906
+                  <rs type="place" ref="#amp_place_id_45">32 BRYANSTON SQUARE <space quantity="1" unit="char"/>LONDON W1 · AMBASSADOR 8906</rs>
                </p>
                <p>
                   Tuesday
                </p>
                <p>
-                  Dear Stella:<lb/>
-                  Got back from Oxford yesterday and found your<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+                  Got back from <rs type="place" ref="#amp_place_id_46">Oxford</rs> yesterday and found your<lb/>
                   lett<unclear>e</unclear>r waiting.<lb/>
                   1) I think I ought to take the couple in , but<lb/>
                   I must leave it to you to decide whether<lb/>
@@ -157,24 +157,24 @@ for any purpose, even commercially.</p>
                   I return in April,<unclear>w</unclear>hen <unclear>I</unclear>'m afraid there will<lb/>
                   not be room for them.?<lb/>
                   4) I'm worried about how they will get gas-cylinders<lb/>
-                  for cooking from Neulengbach ,since, presumably <unclear>.</unclear> they<lb/>
+                  for cooking from <rs type="place" ref="#amp_place_id_47">Neulengbach</rs> ,since, presumably <unclear>.</unclear> they<lb/>
                   have no car. I expect someone in the village<lb/>
                   will help.<lb/>
                   5). <unclear>If</unclear> and when they come, I must know in advance<lb/>
                   so that I can write a note to the<lb/>
-                  Burgomeister.<lb/>
+                  <rs type="person" ref="#amp_person_22">Burgomeister</rs>.<lb/>
                   Shall be here <unclear>in</unclear> my address until Oc<unclear>t</unclear> 31.st After that<lb/>
-                  77 St Mark's Place .N.Y.C. N.Y 10003 .<lb/>
+                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place .N.Y.C. N.Y 10003</rs> .<lb/>
                   love<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_2">Wystan</rs>
                </p>
                <p>
                   Here, I suggest<lb/>
                   you cont<unclear>a</unclear>ct<lb/>
-                  Otto Hoffmann.<lb/>
-                  Wien VII<lb/>
+                  <rs type="person" ref="#amp_person_21">Otto Hoffmann</rs>.<lb/>
+                  <rs type="place" ref="#amp_place_id_48">Wien VII<lb/>
                   Karl Schweighofgasse<lb/>
-                  4/21<lb/>
+                  4/21</rs><lb/>
                   Tel. 93/88/155.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0046/" type="sheet"/>
