@@ -225,6 +225,7 @@
                 <valList type="closed" mode="replace">
                   <valItem ident="sheet"/>
                   <valItem ident="envelope"/>
+                  <valItem ident="letter"/>
                 </valList>
               </attDef>
             </attList>
@@ -281,6 +282,7 @@
                   <valItem ident="bibl"/>
                   <valItem ident="event"/>
                   <valItem ident="org"/>
+                  <valItem ident="lit_work"/>
                 </valList>
               </attDef>
               <attDef ident="ref" mode="change" usage="req">
