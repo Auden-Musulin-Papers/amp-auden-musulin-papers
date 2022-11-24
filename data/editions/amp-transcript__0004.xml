@@ -123,7 +123,8 @@ for any purpose, even commercially.</p>
                   <hi rend="underline">Air-Mail</hi>
                </p>
                <p>
-                  Die Baronin<lb/>
+                  Die<rs type="person" ref="#amp_person_2">Baronin<lb/>
+                  <space quantity="3" unit="char"/>Stella Musulin</rs><lb/>
                   <space quantity="3" unit="char"/><rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
                   <space quantity="5" unit="char"/><rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                   <space quantity="6" unit="char"/>32<del>o</del>OO Obergrafendorf<lb/>
