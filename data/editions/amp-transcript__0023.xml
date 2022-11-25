@@ -113,8 +113,8 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0121/" type="envelope"/>
                <p>
-                  Die Baronin<lb/>
-                  <rs type="person" ref="#amp_person_2">Stella Mus<del><gap reason="deleted"/></del><unclear>s</unclear>ulin</rs><lb/>
+                  Die <rs type="person" ref="#amp_person_2">Baronin<lb/>
+                  Stella Mus<del><gap reason="deleted"/></del><unclear>s</unclear>ulin</rs><lb/>
                   <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                   <unclear>O</unclear>bergrabendorf,<lb/>
                   N. O <unclear>,</unclear> bei S. Pölten</rs>

@@ -552,7 +552,7 @@ for any purpose, even commercially.</p>
                   5.
                </p>
                <p>
-                  - crystallized in "<rs type="lit_work" ref="lit_work_id_79">Whitsunday in Kirchstetten</rs>" - the local school<lb/>
+                  - crystallized in "<rs type="lit_work" ref="#lit_work_id_79">Whitsunday in Kirchstetten</rs>" - the local school<lb/>
                   mistress <rs type="person" ref="#amp_person_97">Frau Seitz</rs> and her silent husband, and as I came in I ran into<lb/>
                   <rs type="person" ref="#amp_person_1">Auden</rs> who was shuffling out to the kitchen.<lb/>
                   <space quantity="5" unit="char"/>"Thank goodness you've come" he hissed, "go and look after<lb/>
@@ -1195,7 +1195,7 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="5" unit="char"/>On May 24th 1965,<rs type="person" ref="#amp_person_1">Auden<del>Auden</del></rs> under the auspices of the <rs type="org" ref="#amp_organization_35">Austro-British<lb/>
                   Council</rs> and <rs type="org" ref="#amp_organization_9">the Society for Literat<unclear>u</unclear>re</rs>, <rs type="person" ref="#amp_person_1">Auden</rs> gave a talk on <rs type="person" ref="#amp_person_27">T.S. Eliot</rs> in the lecture hall of<lb/>
-                  <rs type="org" ref="amp_place_id_229">the <del>Museum of</del> Natural History Museum on the Ring</rs>. <space quantity="2" unit="char"/><unclear>I</unclear>t was very<lb/>
+                  <rs type="org" ref="#amp_place_id_229">the <del>Museum of</del> Natural History Museum on the Ring</rs>. <space quantity="2" unit="char"/><unclear>I</unclear>t was very<lb/>
                   well attended, largely by crowds of note-taking students of<lb/>
                   Eng. Lit, and I have never been quite sure whether, at one moment,<lb/>
                   he was treating us to a bit of traditional stage business. <space quantity="1" unit="char"/>He<lb/>
@@ -1224,7 +1224,7 @@ for any purpose, even commercially.</p>
                   students, with poised biros, blank-faced and puzzled, were<lb/>
                   waiting for all this to stop.<lb/>
                   <space quantity="5" unit="char"/>He was understandably proud of having been asked to preach<lb/>
-                  in <rs type="place" ref="amp_place_id_87">Westminster Ab<del>n</del>bey</rs>. <space quantity="1" unit="char"/>His triumphant comment to me was:<lb/>
+                  in <rs type="place" ref="#amp_place_id_87">Westminster Ab<del>n</del>bey</rs>. <space quantity="1" unit="char"/>His triumphant comment to me was:<lb/>
                   "<hi rend="underline"><rs type="person" ref="#amp_person_27">Eliot</rs></hi> never did that".
                </p>
                <p>
@@ -1236,8 +1236,8 @@ for any purpose, even commercially.</p>
                   b<del>a</del>y invitation, but no interv<del>n</del>ention from the floor was allowed<lb/>
                   and seldom desired by the listeners. <space quantity="1" unit="char"/><unclear>I</unclear>t was enough to hear<lb/>
                   <rs type="person" ref="#amp_person_73">Francis Bondy</rs> and <rs type="person" ref="#amp_person_72">Mary McCarthy</rs>, to enjoy the striking contrast<lb/>
-                  between <rs type="person" ref="#amp_person_74">Yefrim Etkind of Leningrad</rs> <del>(now at the <rs type="org" ref="amp_organization_36">University of Paris</rs>),</del><lb/>
-                  and the square-headed commissar type from <rs type="place" ref="amp_place_id_138">Moscow</rs>. <space quantity="1" unit="char"/>And if some<lb/>
+                  between <rs type="person" ref="#amp_person_74">Yefrim Etkind of Leningrad</rs> <del>(now at the <rs type="org" ref="#amp_organization_36">University of Paris</rs>),</del><lb/>
+                  and the square-headed commissar type from <rs type="place" ref="#amp_place_id_138">Moscow</rs>. <space quantity="1" unit="char"/>And if some<lb/>
                   of the read contributions were dry, lifeless and badly delivered,<lb/>
                   we only had to wait for the knockout blow from <rs type="person" ref="#amp_person_75">Mar<del>f</del>cel Reich-Ranicki</rs>.<lb/>
                   On the whole it was this leading West German critic with his<lb/>
@@ -1245,11 +1245,11 @@ for any purpose, even commercially.</p>
                   who dominated the platform, but it was <rs type="person" ref="#amp_person_74">Etkind</rs> who with his quiet,<lb/>
                   reasonable argument and his good manners won the affection of<lb/>
                   everyone in the room. <space quantity="1" unit="char"/><del>SA</del> A face-the-public session in the<lb/>
-                  <rs type="place" ref="amp_place_id_89">Redoutensaal</rs> on the other side of the <rs type="place" ref="amp_place_id_88">Josefsplatz</rs> ended the<lb/>
+                  <rs type="place" ref="#amp_place_id_89">Redoutensaal</rs> on the other side of the <rs type="place" ref="#amp_place_id_88">Josefsplatz</rs> ended the<lb/>
                   congress. <space quantity="1" unit="char"/>I asked <rs type="person" ref="#amp_person_1">Auden</rs> whether there was <del><unclear>Q</unclear></del>anything I could do <del>for</del><lb/>
                   to help such as lending him my flat, and he promptly replied:<lb/>
                   "Yes, help me to look after <rs type="person" ref="#amp_person_91">Philip</rs> and <rs type="person" ref="#amp_person_72">Mary</rs>." <space quantity="1" unit="char"/>We agreed that<lb/>
-                  we would all meet for supper in the <rs type="place" ref="amp_place_id_11">Neulinggasse</rs> after the public
+                  we would all meet for supper in the <rs type="place" ref="#amp_place_id_11">Neulinggasse</rs> after the public
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0388/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0389/" type="sheet"/>
@@ -1273,13 +1273,13 @@ for any purpose, even commercially.</p>
                   at last fought my way out and the search began for <rs type="person" ref="#amp_person_74">Yefrim <del>Yek</del>Etkind</rs><lb/>
                   whom I had invited as an eastern foil for the westerners<del>!</del> <space quantity="1" unit="char"/>He<lb/>
                   was run to ground in a back passage, surrounded by fans. <space quantity="1" unit="char"/>It was<lb/>
-                  only with the help of the <rs type="place" ref="amp_place_id_1">Vienn<del>s</del>a<del>se</del></rs> <del>F</del>fire <del>B</del>brigade who were clearing<lb/>
+                  only with the help of the <rs type="place" ref="#amp_place_id_1">Vienn<del>s</del>a<del>se</del></rs> <del>F</del>fire <del>B</del>brigade who were clearing<lb/>
                   the bui<del>o</del>lding that I was at last able to extract him from the<lb/>
                   admiring group and take him out to my car. <space quantity="1" unit="char"/>Knowing that the<lb/>
                   rest of the party would be standing outside a locked door<del>k</del>, I<lb/>
                   drove fast. <space quantity="1" unit="char"/>Etkind settled himself comfortably, stretched out<lb/>
                   his legs for a better purchase and said affably: <space quantity="1" unit="char"/>"<del>Y</del>One day you<lb/>
-                  must come to <rs type="place" ref="amp_place_id_90">Leningrad</rs>, you'd love to drive there - large, wide,<lb/>
+                  must come to <rs type="place" ref="#amp_place_id_90">Leningrad</rs>, you'd love to drive there - large, wide,<lb/>
                   empty streets." <space quantity="1" unit="char"/>Since then I have dreamed, Toad-like, of tearing<lb/>
                   down the almost deserted <rs type="place" ref="#amp_place_id_230">Nevsky Prospect</rs>, but in the meantime<lb/>
                   <rs type="person" ref="#amp_person_74">Etkind</rs>, about whom <rs type="person" ref="#amp_person_1">Auden</rs> worried greatly as time went on, mainly<lb/>
@@ -1292,12 +1292,12 @@ for any purpose, even commercially.</p>
                   food the party soon cheered up, and <rs type="person" ref="#amp_person_72">Mary</rs>sighed: <space quantity="1" unit="char"/>"What heaven<lb/>
                   it is to get away from that man <rs type="person" ref="#amp_person_75">Reich-Ranicki</rs>!" <space quantity="1" unit="char"/>There was a<lb/>
                   chorus of assent.<lb/>
-                  <space quantity="5" unit="char"/>In August 1966 <rs type="lit_work_id_5">The Bassarids§</rs> had had its première at the<lb/>
+                  <space quantity="5" unit="char"/>In August 1966 <rs type="lit_work" ref="#lit_work_id_5">The Bassarids§</rs> had had its première at the<lb/>
                   Salzburg Festival. <space quantity="1" unit="char"/>Now, in the following year, <rs type="person" ref="#amp_person_1">Auden</rs> was invited
                </p>
                <p>
-                  <rs type="lit_work_id_5">The Bassarids, Opera Seria</rs> with Intermezzo in One Act bas<del>s</del>ed on<lb/>
-                  <rs type="lit_work_id_75">The Bacchae of Euripides</rs> by <rs type="person" ref="#amp_person_1">W.H. Auden</rs> and <rs type="person" ref="#amp_person_4">Chester Kallman</rs>.<lb/>
+                  <rs type="lit_work" ref="#lit_work_id_5">The Bassarids, Opera Seria</rs> with Intermezzo in One Act bas<del>s</del>ed on<lb/>
+                  <rs type="lit_work" ref="#lit_work_id_75">The Bacchae of Euripides</rs> by <rs type="person" ref="#amp_person_1">W.H. Auden</rs> and <rs type="person" ref="#amp_person_4">Chester Kallman</rs>.<lb/>
                   Music by <rs type="person" ref="#amp_person_79">Hans Werner Henze</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0390/" type="sheet"/>
@@ -2201,7 +2201,7 @@ for any purpose, even commercially.</p>
                   <space quantity="4" unit="char"/>capacities: <space quantity="1" unit="char"/>on the staff of a Middle Western college; <space quantity="1" unit="char"/>at a<lb/>
                   <space quantity="4" unit="char"/>cultural congress in <rs type="place" ref="#amp_place_id_98">India</rs>; <space quantity="1" unit="char"/>on a grand jury in <rs type="place" ref="#amp_place_id_28">New York City</rs>,<lb/>
                   <space quantity="4" unit="char"/>deciding the fate of gangsters; <space quantity="1" unit="char"/>on a committee of the<lb/>
-                  <space quantity="4" unit="char"/><rs type="org" ref="amp_organization_2">American Academy</rs>, making handouts to needy writers. <space quantity="1" unit="char"/>He has<lb/>
+                  <space quantity="4" unit="char"/><rs type="org" ref="#amp_organization_2">American Academy</rs>, making handouts to needy writers. <space quantity="1" unit="char"/>He has<lb/>
                   <space quantity="4" unit="char"/>above all withstood the ordeal of <del><del><unclear>L</unclear></del>Y</del><rs type="place" ref="#amp_place_id_15">America</rs> through a habitation<lb/>
                   <space quantity="4" unit="char"/>of seventeen years; <space quantity="1" unit="char"/>he has even 'succeeded' here." And he<lb/>
                   <space quantity="4" unit="char"/>has made all these exploits contribute to the work of a great<lb/>
@@ -2317,7 +2317,7 @@ for any purpose, even commercially.</p>
                   38.
                </p>
                <p>
-                  A nd in his <rs type="lit_work" ref="lit_work_id_38">Prologue at Sixty</rs>:
+                  A nd in his <rs type="lit_work" ref="#lit_work_id_38">Prologue at Sixty</rs>:
                </p>
                <lg>
                   <space quantity="10" unit="char"/><l>Though the absence of hedge-rows is odd to me</l>
@@ -2336,7 +2336,7 @@ for any purpose, even commercially.</p>
                   all that he had put on one side, and return to the lecture circuit<lb/>
                   in the <rs type="place" ref="#amp_place_id_15">States</rs>, a prospect which he viewed with dread.<lb/>
                   <space quantity="5" unit="char"/>"Do you know" he said to me, "they're accusing me of having<lb/>
-                  been inspired by the Austrian landscape! <space quantity="1" unit="char"/>The <rs type="lit_work" ref="lit_work_id_61">Weinheber poem</rs> and<lb/>
+                  been inspired by the Austrian landscape! <space quantity="1" unit="char"/>The <rs type="lit_work" ref="#lit_work_id_61">Weinheber poem</rs> and<lb/>
                   all that." <space quantity="1" unit="char"/>I said: <space quantity="1" unit="char"/>"You wrote the poem in <rs type="place" ref="#amp_place_id_17">Berlin</rs>" and he<lb/>
                   shrugged. <space quantity="1" unit="char"/>At that time I had no idea how serious the whole thing<lb/>
                   was. <space quantity="1" unit="char"/>As <del>r</del>the result of an appeal in high quarters the sum <del>a</del>was<lb/>
@@ -2381,8 +2381,8 @@ for any purpose, even commercially.</p>
                   since the war in the countries that lost it, that is to say,<lb/>
                   not only <rs type="place" ref="#amp_place_id_10">Austria</rs>, but also <rs type="place" ref="#amp_place_id_20">Germany</rs> and <rs type="place" ref="#amp_place_id_159">Italy</rs>.<lb/>
                   <space quantity="5" unit="char"/>Then again: <space quantity="1" unit="char"/>in 1964 I wrote a poem with the ti<del>e</del>tle<lb/>
-                  <del>"</del><unclear>'</unclear><rs type="lit_work" ref="lit_work_id_79">Whitsunday in Kirchstetten</rs><del>"</del><unclear>'</unclear> because I happened to be there<lb/>
-                  at the time. <space quantity="1" unit="char"/>But the place is unimportant. <space quantity="1" unit="char"/>What this <rs type="lit_work" ref="lit_work_id_79">poem</rs> is<lb/>
+                  <del>"</del><unclear>'</unclear><rs type="lit_work" ref="#lit_work_id_79">Whitsunday in Kirchstetten</rs><del>"</del><unclear>'</unclear> because I happened to be there<lb/>
+                  at the time. <space quantity="1" unit="char"/>But the place is unimportant. <space quantity="1" unit="char"/>What this <rs type="lit_work" ref="#lit_work_id_79">poem</rs> is<lb/>
                   actually about is the question: <space quantity="1" unit="char"/><del>"</del><unclear>'</unclear>What is the significance<lb/>
                   for a Christian of the Feast of Pen<del>e</del>tecost<del><unclear>?</unclear></del>?' <space quantity="1" unit="char"/>And this applies<lb/>
                   to all countries alike.<lb/>
@@ -2472,7 +2472,7 @@ for any purpose, even commercially.</p>
                   wouldn't have it. <space quantity="1" unit="char"/>Knowing Austrian burial customs it was evident<lb/>
                   t<del>t</del>hat we were faced with a cultural clash of no mean proportions.<lb/>
                   A hurried private funeral of the kind envisaged by <rs type="person" ref="#amp_person_4">Chester</rs> might<lb/>
-                  seem normal <del>to</del> in western intellectual circles. <space quantity="1" unit="char"/>In <rs type="place" ref="amp_place_id_10">Austria</rs> it<lb/>
+                  seem normal <del>to</del> in western intellectual circles. <space quantity="1" unit="char"/>In <rs type="place" ref="#amp_place_id_10">Austria</rs> it<lb/>
                   was an affront to the decencies and carried a whiff of pauperism,<lb/>
                   suicide or both. <space quantity="1" unit="char"/>Now the mayor had his say. <space quantity="1" unit="char"/>"First of all" he<lb/>
                   said, "the body has not yet been released. <space quantity="1" unit="char"/>As in all cases of<lb/>
@@ -2481,7 +2481,7 @@ for any purpose, even commercially.</p>
                   these things take time." <space quantity="1" unit="char"/>And then: <space quantity="1" unit="char"/>"Imagine not even informing<lb/>
                   the ministry, the department of culture of the <hi rend="underline">Land</hi> government -<lb/>
                   it would be more than my job is worth." <space quantity="1" unit="char"/>Frau <rs type="person" ref="#amp_person_97">Seitz</rs> now gave it as<lb/>
-                  her view that <rs type="place" ref="amp_place_id_6">Kirchstetten</rs> would hardly bury a dog in the w<del>q</del>ay<lb/>
+                  her view that <rs type="place" ref="#amp_place_id_6">Kirchstetten</rs> would hardly bury a dog in the w<del>q</del>ay<lb/>
                   intended by Herr <del>H</del><rs type="person" ref="#amp_person_4">Kallma</rs>n, let alone a major poet, a man moreover<lb/>
                   whom they had all known and loved.<lb/>
                   <space quantity="5" unit="char"/>The discussion continued, the young people drifted like<lb/>
@@ -2489,11 +2489,11 @@ for any purpose, even commercially.</p>
                   Frau <rs type="person" ref="#amp_person_32">Strobl</rs> made frequent dramatic entrances for reasons which<lb/>
                   were never quite clear. <space quantity="2" unit="char"/>It was not, it occurred to us, only a<lb/>
                   question of when and how much, but: <space quantity="1" unit="char"/>what kind of a funeral service<lb/>
-                  should it be? <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> was a practising member of the <rs type="org" ref="amp_organization_4">Church of<lb/>
-                  England§</rs>- or of the <rs type="org" ref="amp_organization_3">Episcopalian Church in the States</rs> - but he<lb/>
-                  had regularly attended Mass in the <rs type="place" ref="amp_place_id_104">Catholic Church of Kirchstetten</rs><lb/>
+                  should it be? <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> was a practising member of the <rs type="org" ref="#amp_organization_4">Church of<lb/>
+                  England§</rs>- or of the <rs type="org" ref="#amp_organization_3">Episcopalian Church in the States</rs> - but he<lb/>
+                  had regularly attended Mass in the <rs type="place" ref="#amp_place_id_104">Catholic Church of Kirchstetten</rs><lb/>
                   and had wished to be buried there. <space quantity="1" unit="char"/>Should not the Anglican<lb/>
-                  chaplain in <rs type="place" ref="amp_place_id_1">Vienna</rs> be asked to participate? <space quantity="2" unit="char"/><gap reason="illegible"/>No one seemed to<lb/>
+                  chaplain in <rs type="place" ref="#amp_place_id_1">Vienna</rs> be asked to participate? <space quantity="2" unit="char"/><gap reason="illegible"/>No one seemed to<lb/>
                   have any ideas, but it was finally agreed that an ecumenical<lb/>
                   service would be appropriate, the texts to be spoken being left to<lb/>
                   <rs type="person" ref="#amp_person_88">John Auden</rs> to decide in conjunction with the clergy.
@@ -2514,7 +2514,7 @@ for any purpose, even commercially.</p>
                   broken up. <space quantity="1" unit="char"/>The chance came when <rs type="person" ref="#amp_person_4">Chester</rs> agreed to have the<lb/>
                   funeral postponed. <space quantity="1" unit="char"/>If my memory of events is correct, agreement<lb/>
                   was first reached only over the vital point that Tuesday was<lb/>
-                  impossible and that people in <space quantity="1" unit="char"/>In <rs type="place" ref="amp_place_id_93">England</rs> should be notified at once,<lb/>
+                  impossible and that people in <space quantity="1" unit="char"/>In <rs type="place" ref="#amp_place_id_93">England</rs> should be notified at once,<lb/>
                   leaving the final date over for the moment. <space quantity="1" unit="char"/>This decision<lb/>
                   conveniently created a natural pause, and now the <rs type="person" ref="#amp_person_95 #amp_person_96 #amp_person_169">Clarks</rs> undertook<lb/>
                   to send the telegrams and were driven to the <del>P</del>post <del>O</del>office by Frau<lb/>
@@ -2545,7 +2545,7 @@ for any purpose, even commercially.</p>
                   being brought to the door. <space quantity="1" unit="char"/>What he wanted was for the coffin to<lb/>
                   be carried to the bottom of the hill, if not further, and only then<lb/>
                   placed in the hearse. <space quantity="1" unit="char"/>But the thought of the weighty coffin<lb/>
-                  being <rs type="person" ref="tralala">carried</rs> down a narrow lane, pitted with ruts and potholes<lb/>
+                  being carried down a narrow lane, pitted with ruts and potholes<lb/>
                   and strewn with loose stones, made my hair stand on end. <space quantity="1" unit="char"/>The<lb/>
                   mayor and Frau <rs type="person" ref="#amp_person_97">Seitz</rs> felt the same wa<del>s</del>y, and here too, Chester<lb/>
                   later agreed to our compromise. <space quantity="1" unit="char"/>Subsequently, I was to blame<lb/>

@@ -125,8 +125,8 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0011/" type="envelope"/>
                <p hand="#handwritten">
-                  Die Baronin<lb/>
-                  <rs type="person" ref="#amp_person_2">S<unclear>t</unclear>ella Musulin</rs><lb/>
+                  Die <rs type="person" ref="#amp_person_2">Baronin<lb/>
+                  S<unclear>t</unclear>ella Musulin</rs><lb/>
                   <rs type="place" ref="#amp_place_id_78"><del>Fridau</del><lb/>
                   <del>Obergrabe<unclear>m</unclear>d<unclear>o</unclear>r<unclear>f</unclear></del><lb/>
                   <del>b<unclear>e</unclear>i S. Pölten</del><lb/>
@@ -305,8 +305,8 @@ for any purpose, even commercially.</p>
                </lg>
                <p>
                   <space quantity="23" unit="char"/>___<lb/>
-                  <del>N</del> <space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_5">W<del>8</del><unclear>'</unclear>s</rs> poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.<lb/>
-                  <space quantity="3" unit="char"/>2) Quotation from <rs type="person" ref="#amp_person_5">W'</rs>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_41">Kammermusik</rs></hi>.<lb/>
+                  <del>N</del> <space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_5">W</rs><del>8</del><unclear>'</unclear>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.<lb/>
+                  <space quantity="3" unit="char"/>2) Quotation from <rs type="person" ref="#amp_person_5">W</rs>'s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_41">Kammermusik</rs></hi>.<lb/>
                   <space quantity="24" unit="char"/>__
                </p>
                <p>
@@ -318,7 +318,7 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">Wystan</rs>.<!-- markup handwriting -->
                </p>
                <p hand="#handwritten">
-                  P.S. Expect to return K April 22nd. Do hope you<lb/>
+                  P.S. Expect to return <rs type="place" ref="#amp_place_id_5">K</rs> April 22nd. Do hope you<lb/>
                   wil<unclear>l</unclear> be around<unclear>.</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0138/" type="sheet"/>

@@ -113,8 +113,8 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/" type="envelope"/>
                <p hand="#handwritten">
-                  Die Baroni<unclear>n</unclear><lb/>
-                  <rs type="person" ref="#amp_person_2">Stella von Mussolin</rs><lb/>
+                  Die <rs type="person" ref="#amp_person_2">Baroni<unclear>n</unclear><lb/>
+                  Stella von Mussolin</rs><lb/>
                   <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
                   Neulingasse 26</rs> <unclear>,</unclear>
                </p>

@@ -137,7 +137,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0099/" type="sheet"/>
                <p>
-                  <hi rend="underline">FREEDOM AND NECESSITY IN THE ARTS</hi>
+                  <rs type="lit_work" ref="#lit_work_id_85"><hi rend="underline">FREEDOM AND NECESSITY IN THE ARTS</hi></rs>
                </p>
                <p hand="#handwritten">
                   May 21st.
@@ -150,7 +150,7 @@ for any purpose, even commercially.</p>
                   German for the technical word <hi rend="underline">buddle</hi> (page I, near<lb/>
                   bottom) is <hi rend="underline">Erzwaschtrog</hi> .<lb/>
                   I hope there is an equivalent German euphemism<lb/>
-                  for <unclear>"t</unclear>e Senior Citizen."<unclear>,</unclear><lb/>
+                  for <rs type="lit_work" ref="#lit_work_id_57"><unclear>"t</unclear>e Senior Citizen."</rs><unclear>,</unclear><lb/>
                   If there is a special honary title of adress<lb/>
                   for a <hi rend="underline"><rs type="person" ref="#amp_person_112">Landeshaupt<unclear>m</unclear>an</rs></hi>,please supply.<lb/>
                   love<lb/>
@@ -378,7 +378,7 @@ for any purpose, even commercially.</p>
                   <space quantity="3" unit="char"/>Where <del>politicla</del> political and social <del>eveils</del> evils are concerned,only<lb/>
                   t<del>k</del>wo things are effective<del>*</del><unclear>:</unclear> political action and straightforward,truthful,<lb/>
                   detailed journalistic rapportage of the facts. The Arts are powerless.<lb/>
-                  <space quantity="2" unit="char"/>The second confusion,of which Plato is the most famous example,is to take<lb/>
+                  <space quantity="2" unit="char"/>The second confusion,of which <rs type="person" ref="#amp_person_30">Plato</rs> is the most famous example,is to take<lb/>
                   arti<del>t</del>stic fabrication as the model for a good society. <del>The aim of any artist <space quantity="1" unit="char"/></del><lb/>
                   Such a model,if put into practice,is bound to produce a tyrrany. The aim of<lb/>
                   the artist<del>s</del> is to produce an object which is complete and will endure without<lb/>

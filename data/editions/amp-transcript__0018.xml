@@ -116,11 +116,11 @@ for any purpose, even commercially.</p>
                   Air<unclear>_</unclear>Mail
                </p>
                <p>
-                  Poem dedicated to S<unclear>_</unclear>M<unclear>_</unclear>
+                  Poem dedicated to <rs type="person" ref="#amp_person_2">S<unclear>_</unclear>M<unclear>_</unclear></rs>
                </p>
                <p>
-                  Die Baro<unclear>n</unclear>in<lb/>
-                  <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  Die <rs type="person" ref="#amp_person_2">Baro<unclear>n</unclear>in<lb/>
+                  Stella Musulin</rs><lb/>
                   <rs type="place" ref="#amp_place_id_11">Wien <del>IV</del> 1030<lb/>
                   Neulinggasse 26/14<lb/>
                   Austria</rs>
@@ -141,7 +141,7 @@ for any purpose, even commercially.</p>
                   see you again before we left. You seem<lb/>
                   to have stayed in <rs type="place" ref="#amp_place_id_93">England</rs> much longer than<lb/>
                   usual.<lb/>
-                  This morning a copy of <rs type="place" ref="#amp_place_id_10"><hi rend="underline">Austri<unclear>a</unclear></hi></rs> ar<unclear>r</unclear>ived<lb/>
+                  This morning a copy of <rs type="lit_work" ref="#lit_work_id_45"><hi rend="underline">Austri<unclear>a</unclear></hi></rs> ar<unclear>r</unclear>ived<lb/>
                   from <rs type="org" ref="#amp_organization_5">Faber's</rs>. <unclear>:</unclear> The illustrations, which I hadn't<lb/>
                   seen before seem excellent<lb/>
                   Overleaf a poem I want to dedicate to<lb/>
@@ -208,14 +208,14 @@ for any purpose, even commercially.</p>
                   </lg>
                   <lg>
                      <l>Who or what are you mad at?</l>
-                     <l>What has poor Austria done</l>
+                     <l>What has poor <rs type="place" ref="#amp_place_id_10">Austria</rs> done</l>
                      <l>to draw such disapproval?</l>
                      <l>The <hi rend="underline">Beamterei</hi>,it's true,</l>
                      <l>is as awful as ever,</l>
                      <l>the drivers are dangerous,</l>
-                     <l>standards at the <hi rend="underline">Staatsoper</hi></l>
+                     <l>standards at the <rs type="place" ref="#amp_place_id_157"><hi rend="underline">Staatsoper</hi></rs></l>
                      <l>steadily decline each year,</l>
-                     <l>and <hi rend="underline">Wien</hi>'s become provincial</l>
+                     <l>and <hi rend="underline"><rs type="place" ref="#amp_place_id_1">Wien</rs></hi>'s become provincial</l>
                      <l>compared to the pride she was.</l>
                      <l>Still,it's a cosy country,</l>
                      <l>unracked by riots or strikes</l>

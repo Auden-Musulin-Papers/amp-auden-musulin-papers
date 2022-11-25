@@ -107,8 +107,8 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0105/" type="envelope"/>
                <p>
-                  Die Baronin<lb/>
-                  <rs type="person" ref="#amp_person_2">Stella Mussolin</rs><lb/>
+                  Die <rs type="person" ref="#amp_person_2">Baronin<lb/>
+                  Stella Mussolin</rs><lb/>
                   <rs type="place" ref="#amp_place_id_26"><del>WIEN III</del><lb/>
                   <del>Neulinggasse 26</del></rs>
                </p>

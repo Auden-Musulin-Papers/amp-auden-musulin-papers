@@ -113,11 +113,11 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0083/" type="envelope"/>
                <p>
-                  <rs type="lit_work" ref="#lit_work_id_33">"A Certain World</rs><unclear>"</unclear>.
+                  <rs type="lit_work" ref="#lit_work_id_33">"A Certain World<unclear>"</unclear></rs>.
                </p>
                <p>
-                  Die Baronin<lb/>
-                  <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  Die <rs type="person" ref="#amp_person_2">Baronin<lb/>
+                  Stella Musulin</rs><lb/>
                   <rs type="place" ref="#amp_place_id_11">1030 Wien III<lb/>
                   Neulinggasse 26/14</rs>
                </p>

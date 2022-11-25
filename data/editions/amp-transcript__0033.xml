@@ -146,7 +146,7 @@ for any purpose, even commercially.</p>
                   it. <space quantity="1" unit="char"/>Please, <hi rend="underline">please</hi> tell me if you printed it, and if so, where. <space quantity="1" unit="char"/>No need<lb/>
                   for a long letter: just a "No, calm down, I never printed it" or a "Yes,<lb/>
                   it appeared in such-in-such a journal" would be more than enough. <space quantity="1" unit="char"/>This is<lb/>
-                  the one min<del><gap reason= "deleted"/></del>or mystery of writings-about-Wystan I haven't been able to solve,<lb/>
+                  the one min<del><gap reason= "deleted"/></del>or mystery of writings-about-<rs type="person" ref="#amp_person_1">Wystan</rs> I haven't been able to solve,<lb/>
                   so please do help.
                </p>
                <p>
@@ -155,7 +155,7 @@ for any purpose, even commercially.</p>
                   take note if you're in th<del>e</del>is country for any reason. <space quantity="1" unit="char"/>I have a lady friend,<lb/>
                   the first whom I expect to be with for a very long time, and we are quite<lb/>
                   happy about things in general. <space quantity="1" unit="char"/>Next June we'll be in <rs type="place" ref="#amp_place_id_30">Europe</rs>, certainly in<lb/>
-                  Paris, possibly father <del><gap reason="deleted"/></del>south, <del>t</del>although we may put off the southern trip<lb/>
+                  <rs type="place" ref="#amp_place_id_84">Paris</rs>, possibly father <del><gap reason="deleted"/></del>south, <del>t</del>although we may put off the southern trip<lb/>
                   for another year or so. <space quantity="1" unit="char"/>I haven't been across the Atlantic this year; too<lb/>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0230/" type="sheet"/>
@@ -166,13 +166,13 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Red<unclear>aktion</unclear> 11-12.<lb/>
-                  Kr<unclear>on</unclear>e<unclear>nz</unclear>ei<unclear>tung.</unclear> ½ 2-<unclear>5</unclear><lb/>
+                  <rs type="lit_work" ref="#lit_work_id_84"> Kr<unclear>on</unclear>e<unclear>nz</unclear>ei<unclear>tung.</unclear></rs> ½ 2-<unclear>5</unclear><lb/>
                   M<unclear>or</unclear>gen  197<unclear>7.</unclear> ·<lb/>
                   1.Nu<unclear>mer.</unclear> <unclear>Heft.</unclear>
                </p>
                <p>
-                  <space quantity="36" unit="char"/>Frau Baronin<lb/>
-                  <space quantity="36" unit="char"/><rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  <space quantity="36" unit="char"/>Frau <rs type="person" ref="#amp_person_2">Baronin<lb/>
+                  <space quantity="36" unit="char"/>Stella Musulin</rs><lb/>
                   <space quantity="36" unit="char"/><rs type="place" ref="#amp_place_id_172">Sch<del><gap reason="deleted"/></del>l<del>t</del>össelgasse 8/17<lb/>
                   <space quantity="36" unit="char"/>A-1080 Vienna<lb/>
                   <space quantity="36" unit="char"/>Austria</rs>

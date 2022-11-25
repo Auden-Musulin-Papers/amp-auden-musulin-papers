@@ -118,11 +118,11 @@ for any purpose, even commercially.</p>
                   Meine Herren !<lb/>
                   <space quantity="6" unit="char"/>Mein Standpunkt ist sehr einfach : Man bezahlt dort<lb/>
                   Einkommensteuer, wo man Geld verdient, das heisst in meinem<lb/>
-                  Fall, als Schriftsteller, der englisch schreibt, in den Ver-<lb/>
-                  einigten Staaten und in England. In Österreich verdiene ich<lb/>
+                  Fall, als Schriftsteller, der englisch schreibt, in den <rs type="place" ref="#amp_place_id_10">Ver-<lb/>
+                  einigten Staaten</rs> und in <rs type="place" ref="#amp_place_id_93">England</rs>. In <rs type="place" ref="#amp_place_id_15">Österreich</rs> verdiene ich<lb/>
                   keinen Groschen, ich gebe lediglich Schillinge aus.<lb/>
                   <space quantity="6" unit="char"/>Sie behaupten, dass ich ein 'materielles Interesse' an<lb/>
-                  Österreich habe, womit Sie vermutlich ein 'finanziell<unclear>e</unclear>s' In-<lb/>
+                  <rs type="place" ref="#amp_place_id_10">Österreich</rs> habe, womit Sie vermutlich ein 'finanziell<unclear>e</unclear>s' In-<lb/>
                   teresse meinen. Das könnte nur da<unclear>nn</unclear> möglicherweise richtig sein,<lb/>
                   wenn ich mir sagen müsste :'Ich muss nach Österreich gehen,<lb/>
                   weil ich nur in Österreich arbeiten kann!. Das ist aber nicht<lb/>
@@ -137,11 +137,11 @@ for any purpose, even commercially.</p>
                   reichischen Literaturpreis erhalten habe. Das war e<del><gap reason="deleted"/></del>ine grosse<lb/>
                   Ehre, a<del>z</del>uf die ich sehr stolz bin. Aber Sie können doch nicht<lb/>
                   ernstlich glauben, meine Herren, dass ich mir ausgerechnet habe:<lb/>
-                  '<del>Q</del>Wenn ich  weiter nach Österreich gehe, wird mir vielleicht ein<lb/>
+                  '<del>Q</del>Wenn ich  weiter nach <rs type="place" ref="#amp_place_id_10">Österreich</rs> gehe, wird mir vielleicht ein<lb/>
                   Preis verliehen werden'? Bevor er mir zuerkannt wurde, hatte<lb/>
                   ich noch nie von diesem Preis gehört. Es ist auch klar, dass ich<lb/>
                   ihn kein zweites Mal erhalten kann. Dann sagen Sie auch, dass<lb/>
-                  man in Kirchstetten eine Strasse nach m<del><unclear>n</unclear></del>ir Audenstrasse genannt<lb/>
+                  man in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> eine Strasse nach m<del><unclear>n</unclear></del>ir <rs type="place" ref="#amp_place_id_2">Audenstrasse</rs> genannt<lb/>
                   hat. Das war eine sehr liebenswürdige Geste von Seiten der
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0172/" type="sheet"/>
@@ -155,7 +155,7 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>Sie sagen ferner wahrheitsgemäss, dass ich einige Gedichte<lb/>
                   mit österreichischer Thematik geschrieben habe. Dazu möchte<lb/>
                   ich drei Feststellungen machen :<lb/>
-                  <space quantity="5" unit="char"/>1. Ich habe in Österreich niemals auch nur einen Penny<lb/>
+                  <space quantity="5" unit="char"/>1. Ich habe in <rs type="place" ref="#amp_place_id_10">Österreich</rs> niemals auch nur einen Penny<lb/>
                   <space quantity="8" unit="char"/>für meine Gedichte erhalten. Ein paar v<del><unclear>i</unclear></del>on ihnen wurden<lb/>
                   <space quantity="8" unit="char"/>ins Deutsche übersetzt, aber in diesem Fall bekamen die<lb/>
                   <space quantity="8" unit="char"/>Übers<del>t</del>etzer das Geld, nicht ich.<lb/>
@@ -165,14 +165,14 @@ for any purpose, even commercially.</p>
                   <space quantity="8" unit="char"/>Gedanken über die Natur, über Gott, die Geschichte, die<lb/>
                   <space quantity="8" unit="char"/>Menschheit usw. Ausdruck zu verleihen, die der Dichter<lb/>
                   <space quantity="8" unit="char"/>schon sehr lange im Kopf <space quantity="1" unit="char"/>gehabt haben mag. Ich habe<lb/>
-                  <space quantity="8" unit="char"/>zum Beispiel ein Gedicht zum 20. Todestag von Josef<lb/>
-                  <space quantity="8" unit="char"/>Weinheber geschrieben. Aber das Gedicht handelt im<lb/>
+                  <space quantity="8" unit="char"/>zum Beispiel ein Gedicht zum 20. Todestag von <rs type="person" ref="#amp_person_1">Josef<lb/>
+                  <space quantity="8" unit="char"/>Weinheber</rs> geschrieben. Aber das Gedicht handelt im<lb/>
                   <space quantity="8" unit="char"/>Grunde von anderen Dingen : erstens von der Liebe, die<lb/>
                   <space quantity="8" unit="char"/>jeder gute Dichter, von welcher Nationalität er auch sei,<lb/>
                   <space quantity="8" unit="char"/>zu seiner Muttersprache hegt , und zweitens davon, was<lb/>
                   <space quantity="8" unit="char"/>nach dem Krieg in den Ländern geschehen ist, die ihn<lb/>
-                  <space quantity="8" unit="char"/>verloren hatten, das heisst, nicht nur Österreich, sondern<lb/>
-                  <space quantity="8" unit="char"/>auch Deutschland und Italien.<lb/>
+                  <space quantity="8" unit="char"/>verloren hatten, das heisst, nicht nur <rs type="place" ref="#amp_place_id_10">Österreich</rs>, sondern<lb/>
+                  <space quantity="8" unit="char"/>auch <rs type="place" ref="#amp_place_id_20">Deutschland</rs> und <rs type="place" ref="#amp_place_id_159">Italien</rs>.<lb/>
                   <space quantity="8" unit="char"/>1964 wiederum habe ich ein Gedicht mit dem Titel<lb/>
                   <space quantity="8" unit="char"/>'Pfingstsonntag in Kirchstetten' geschrieben, weil ich<lb/>
                   <space quantity="8" unit="char"/>mich zuf<del>ü</del>ällig dort aufhielt. Aber der Ort ist unwichtig.<lb/>
@@ -199,37 +199,37 @@ for any purpose, even commercially.</p>
                   <space quantity="11" unit="char"/>Übersetzen die Rede ist : Sie sagen wahrheitsgemäss,<lb/>
                   <space quantity="11" unit="char"/>dass ich ein grosses Interesse an deutscher und öster-<lb/>
                   <space quantity="11" unit="char"/>reichischer Literatur habe - ich darf hinzufü<del><unclear>f</unclear></del>gen, auch<lb/>
-                  <space quantity="11" unit="char"/>an der Musik - , aber ich muss nicht nach Österreich<lb/>
+                  <space quantity="11" unit="char"/>an der Musik - , aber ich muss nicht nach <rs type="place" ref="#amp_place_id_10">Österreich</rs><lb/>
                   <space quantity="11" unit="char"/>kommen, um sie zu lesen oder zu hör<unclear>o</unclear>n.<lb/>
                   <space quantity="4" unit="char"/>Sie sehen aus all dem, dass die von Ihnen angeführten Gründe,<lb/>
                   aus denen Sie mich besteuern wollen, nicht stichhaltig sind. Am<lb/>
                   meisten aber spricht dagegen, dass ich im Laufe eines Jahres immer<lb/>
-                  weniger als sechs Monate in Österreich verbringe und mich niemals<lb/>
+                  weniger als sechs Monate in <rs type="place" ref="#amp_place_id_10">Österreich</rs> verbringe und mich niemals<lb/>
                   auch nur drei Monate lang laufend hier aufhalte.<lb/>
                   <space quantity="4" unit="char"/>Ein Wort zum Schluss. Wenn dieser für mein Gefühl völlig un-<lb/>
-                  gerechtfertigte Unsinn nicht aufhört, werde ich Österreich verlas-<lb/>
+                  gerechtfertigte Unsinn nicht aufhört, werde ich <rs type="place" ref="#amp_place_id_10">Österreich</rs> verlas-<lb/>
                   sen, um nie wiederzukehren, was für mich und vielleicht auch für<lb/>
-                  die Ladenbesitzer von Kirchstetten sehr traurig wäre. Eines aber<lb/>
+                  die Ladenbesitzer von <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> sehr traurig wäre. Eines aber<lb/>
                   kann ich Ihnen nicht verhehlen, meine Herren : sollte dies ein-<lb/>
                   treten, dann könnte es einen weltweiten Skandal nach sich ziehen.
                </p>
                <p>
-                  <space quantity="43" unit="char"/>W.H.Auden
+                  <space quantity="43" unit="char"/><rs type="person" ref="#amp_person_1">W.H.Auden</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0176/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0177/" type="sheet"/>
                <p>
                   <space quantity="5" unit="char"/>Sie fragen, weshalb ich <del>die</del>me<unclear>i</unclear>ne Hälfte <del>meines</del><unclear>uns</unclear>ere<unclear>s</unclear> Besitzes<lb/>
-                  in Kirchstetten an Mr Chester Kallmann überschrieben habe,<lb/>
-                  der ja nicht mit mir verwandt ist. Mr Kallmann ist mein<lb/>
+                  in Kirchstetten an Mr <rs type="person" ref="#amp_person_4">Chester Kallmann</rs> überschrieben habe,<lb/>
+                  der ja nicht mit mir verwandt ist. Mr <rs type="person" ref="#amp_person_4">Kallmann</rs> ist mein<lb/>
                   Erbe. Ich habe keine Kinder und er ist seit Jahren mein<lb/>
                   literarischer Mitarbeiter. Wir haben gemeinsam fünf<lb/>
-                  neue Opernlibretti verfasst, 'The Rake's Progress', 'Elegy<lb/>
-                  for Young Lovers', 'The Bassarids' und 'Love's Labours <unclear>L</unclear><del>i</del>ost'.<lb/>
-                  ('Weg eines Wüstlings', 'Elegie für junge Liebende', 'Die<lb/>
-                  Bassariden' und 'Verlorene Liebesm<del>a</del>üh') . Und wir haben ge-<lb/>
-                  meinsam 'Die Zauberflöte', 'Don Giovanni', 'Die sieben Tod-<lb/>
-                  sünden','Mahagonny' und 'Archifanfaro' neu ins Englische<lb/>
+                  neue Opernlibretti verfasst, <rs type="lit_work" ref="#lit_work_id_16">'The Rake's Progress'</rs>, <rs type="lit_work" ref="#lit_work_id_17">'Elegy<lb/>
+                  for Young Lovers'</rs>, <rs type="lit_work" ref="#lit_work_id_18">'The Bassarids'</rs> und <rs type="lit_work" ref="#lit_work_id_20">'Love's Labours</rs> <unclear>L</unclear><del>i</del>ost'.<lb/>
+                  (<rs type="lit_work" ref="#lit_work_id_3">'Weg eines Wüstlings'</rs>, <rs type="lit_work" ref="#lit_work_id_4">'Elegie für junge Liebende'</rs>, <rs type="lit_work" ref="#lit_work_id_5">'Die<lb/>
+                  Bassariden'</rs> und <rs type="lit_work" ref="#lit_work_id_19">'Verlorene Liebesm<del>a</del>üh'</rs>) . Und wir haben ge-<lb/>
+                  meinsam <rs type="lit_work" ref="#lit_work_id_21">'Die Zauberflöte'</rs>, <rs type="lit_work" ref="#lit_work_id_122">'Don Giovanni'</rs>, <rs type="lit_work" ref="#lit_work_id_23">'Die sieben Tod-<lb/>
+                  sünden'</rs>,<rs type="lit_work" ref="#lit_work_id_24">'Mahagonny'</rs> und <rs type="lit_work" ref="#lit_work_id_25">'Archifanfaro'</rs> neu ins Englische<lb/>
                   übersetzt. Ich bin<damage><gap reason="illegible"/></damage> jetzt fünfundsechzig Jahre alt und muss<lb/>
                   mit jeder Möglichkeit rechnen, etwa mit einem Herzanfall.<lb/>
                   Wie Sie selbst besser wissen als ich, e<del>e</del>rgeben sich im Falle<lb/>
