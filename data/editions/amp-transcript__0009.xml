@@ -123,14 +123,14 @@ for any purpose, even commercially.</p>
                   <del><gap reason="deleted"/></del>A<hi rend="underline">ir-M<unclear>ail</unclear></hi>
                </p>
                <p>
-                  Die Baronin<lb/>
-                  <rs type="person" ref="#amp_person_2">Stella Musulin</rs><lb/>
+                  Die <rs type="person" ref="#amp_person_2">Baronin<lb/>
+                  Stella Musulin</rs><lb/>
                   <rs type="place" ref="#amp_place_id_11">Wien <del>IV</del>III<lb/>
                   Neulinggasse 26<lb/>
                   A<hi rend="underline">ustria </hi></rs>.
                </p>
                <p>
-                  Re Czech refugees .
+                  Re <rs type="person" ref="#amp_person_155 #amp_person_171">Czech refugees</rs> .
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0044/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0045/" type="sheet"/>
