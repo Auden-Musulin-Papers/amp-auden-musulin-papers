@@ -113,8 +113,8 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0117/" type="envelope"/>
                <p>
-                  Die Baronin<lb/>
-                  <rs type="person" ref="#amp_person_2">Stella Mu<del><gap reason="deleted"/></del><unclear>s</unclear>silin</rs><lb/>
+                  Die <rs type="person" ref="#amp_person_2">Baronin<lb/>
+                  Stella Mu<del><gap reason="deleted"/></del><unclear>s</unclear>silin</rs><lb/>
                   <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
                   Neulingasse 26</rs>.
                </p>

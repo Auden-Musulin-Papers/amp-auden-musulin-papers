@@ -145,7 +145,7 @@ for any purpose, even commercially.</p>
                   Please do forgive me for the muddle over the book. <space quantity="1" unit="char"/>And please do keep<lb/>
                   in touch. <space quantity="1" unit="char"/>Incidentally I finished that critical book--to be published<lb/>
                   in the spring--after doing nothing but work on it for a year. <space quantity="1" unit="char"/>My "summer"<lb/>
-                  trip to England got postponed to November while I revised.
+                  trip to <rs type="place" ref="#amp_place_id_93">England</rs> got postponed to November while I revised.
                </p>
                <p>
                   Yours ever,
@@ -160,11 +160,11 @@ for any purpose, even commercially.</p>
                   New York NY  10027</rs>
               </p>
               <p>
-                  <space quantity="41" unit="char"/>Frl Baronin<lb/>
-                  <space quantity="41" unit="char"/>Stella Musulin<lb/>
-                  <space quantity="41" unit="char"/>Schlösselgasse 8/17<lb/>
+                  <space quantity="41" unit="char"/>Frl <rs type="person" ref="#amp_person_98">Baronin<lb/>
+                  <space quantity="41" unit="char"/>Stella Musulin</rs><lb/>
+                  <space quantity="41" unit="char"/><rs type="place" ref="#amp_place_id_172">Schlösselgasse 8/17<lb/>
                   <space quantity="41" unit="char"/>A-1080 Wien<lb/>
-                  <space quantity="41" unit="char"/>Austria 
+                  <space quantity="41" unit="char"/>Austria</rs> 
               </p>
          </div>
       </body>
