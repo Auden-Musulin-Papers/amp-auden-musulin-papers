@@ -61,7 +61,7 @@
           <moduleRef key="tei"/>
           <moduleRef key="textstructure" include="TEI text body div"/>
           <moduleRef key="textcrit" include="listWit witness"/>
-          <moduleRef key="transcr" include="fw space facsimile surface"/>
+          <moduleRef key="transcr" include="fw space facsimile surface damage"/>
           <moduleRef key="linking" include="ab"/>
         
           <!-- element availability -->
@@ -226,6 +226,7 @@
                   <valItem ident="sheet"/>
                   <valItem ident="envelope"/>
                   <valItem ident="letter"/>
+                  <valItem ident="card"/>
                 </valList>
               </attDef>
             </attList>
