@@ -74,14 +74,14 @@ for any purpose, even commercially.</p>
          
          <correspDesc>
             <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
-               <date notBefore="1968-12-29" notAfter="1968-12-29">1968-12-29</date>
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_29">77 St Mark's Place</placeName>
+               <date notBefore="1968-12-30" notAfter="1968-12-30">1968-12-30</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"/>
-                <date/>
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26/14</placeName>
+               <date>unknown</date>
             </correspAction>
          </correspDesc>
          
