@@ -119,9 +119,9 @@ for any purpose, even commercially.</p>
                   N.O.</rs>
                </p>
                <p>
-                  Die <rs type="person" ref="#amp_person_2">Baronin<lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella M<unclear>us</unclear>ulin<lb/></rs>
-                  <rs type="place" ref="#amp_place_id_78">Fridau<lb/>
+                  <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                   Obergrafendorf<lb/>
                   bei St. Pölten<lb/>
                   N.<unclear>O</unclear></rs>
@@ -129,18 +129,18 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0110/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0111/" type="sheet"/>
                <p>
-                  <rs type="place" ref="#amp_place_id_5">Kirstetten.</rs>
+                  <rs type="place" ref="#amp_place_id_5">Kirstetten</rs>.
                </p>
                <p>
                   Thursday
                </p>
                <p hand="#printed">
-                  <rs type="org" ref="#amp_organization_4"><del>CHRIST CHURCH,</del><lb/>
+                  <rs type="org" ref="#amp_organization_6"><del>CHRIST CHURCH,</del><lb/>
                   <del>OXFORD.</del></rs>
                </p>
                <p>
                   Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:<lb/>
-                  Delighted to get your ca<unclear>rd</unclear>. We<lb/>
+                  Delighted to get your ca<unclear>rd</unclear>. <rs type="person" ref="#amp_person_1 #amp_person_4">We</rs><lb/>
                   shall look forw<unclear>a</unclear>rd to seeing you<lb/>
                   on Saturday aftern<unclear>o</unclear>on.<lb/>
                   We have a gramophone now <hi rend="underline">and</hi> a<lb/>
