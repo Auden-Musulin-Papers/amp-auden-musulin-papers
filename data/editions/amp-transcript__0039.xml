@@ -119,7 +119,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0013/" type="envelope"/>
                <p hand="#handwritten">
-                  Die <rs type="person" ref="#amp_person_2">Baronin<lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <rs type="place" ref="#amp_place_id_78">Fridau<lb/>
                   Obergra<del><gap reason="deleted"/></del><gap reason="illegible"/>endorf<lb/>

@@ -113,7 +113,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0033/" type="envelope"/>
                <p hand="#handwritten">
-                  Die <rs type="person" ref="#amp_person_2">Baronin<lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   S<del><unclear>e</unclear></del>tella Musulin</rs><lb/>
                   <rs type="place" ref="#amp_place_id_11"><del>1040</del> Wien <del>IV</del><lb/>
                   Neulingasse 26</rs>

@@ -124,7 +124,7 @@ for any purpose, even commercially.</p>
                   <rs type="lit_work" ref="#lit_work_id_">Weinheber-Gedicht</rs>
                </p>
                <p>
-                  Die <rs type="person" ref="#amp_person_2">Baronin<lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <rs type="place" ref="#amp_place_id_7"><del>Fridau</del><lb/>
                   <del>Obergrafendorf</del><lb/>
