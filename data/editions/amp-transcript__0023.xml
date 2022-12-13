@@ -113,7 +113,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0121/" type="envelope"/>
                <p>
-                  Die <rs type="person" ref="#amp_person_2">Baronin<lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Mus<del><gap reason="deleted"/></del><unclear>s</unclear>ulin</rs><lb/>
                   <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                   <unclear>O</unclear>bergrabendorf,<lb/>
@@ -141,7 +141,7 @@ for any purpose, even commercially.</p>
                   Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   How are you and where are<lb/>
                   you?<lb/>
-                  If in <rs type="place" ref="#amp_place_id_7">Fridau</rs>,we would love to<lb/>
+                  If in <rs type="place" ref="#amp_place_id_7">Fridau</rs>,<rs type="person" ref="#amp_person_1 #amp_person_4">we</rs> would love to<lb/>
                   see you. Am expecting <rs type="person" ref="#amp_person_3">Christiane<lb/>
                   Zimmer</rs> here about <del><gap reason="deleted"/></del> August 5th.<lb/>
                   <rs type="person" ref="#amp_person_1">Wystan</rs>
