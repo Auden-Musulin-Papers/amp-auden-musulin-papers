@@ -165,6 +165,7 @@
               <attDef ident="rend" mode="change" usage="req">
                 <valList type="closed" mode="replace">
                   <valItem ident="underline"/>
+                  <valItem ident="italics"/>
                 </valList>
               </attDef>
             </attList>
@@ -290,12 +291,6 @@
                 <datatype>
                   <dataRef name="token" restriction="#.+"/>
                 </datatype>
-                <!--<constraintSpec ident="startswith-hashtag" scheme="schematron">
-                  <constraint>
-                    <!-\-<sch:ns prefix="tei" uri="http://www.tei-c.org/ns/1.0"/>-\->
-                    <sch:report test="starts-with(., '#')">String in @ref does not match pattern. Must start with hashtag #.</sch:report>
-                  </constraint>
-                </constraintSpec>-->
               </attDef>
             </attList>
           </elementSpec>

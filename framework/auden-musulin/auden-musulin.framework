@@ -379,7 +379,7 @@
 									<String></String>
 								</field>
 								<field name="buildFilePath">
-									<String>${frameworksDir}/auden-musulin/tei/xml/tei/stylesheet/relaxng/build-to.xml</String>
+									<String>/home/daniel/Oxygen XML Editor 23/frameworks/tei/xml/tei/stylesheet/relaxng/build-to.xml</String>
 								</field>
 								<field name="ditaParams">
 									<list>
@@ -391,7 +391,7 @@
 												<String>TEI source file.</String>
 											</field>
 											<field name="value">
-												<String>${frameworks}/tei/xml/tei/odd/p5subset.xml</String>
+												<String>${frameworksDir}/tei/xml/tei/odd/p5subset.xml</String>
 											</field>
 											<field name="defaultValue">
 												<null/>
