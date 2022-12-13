@@ -113,7 +113,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/" type="envelope"/>
                <p hand="#handwritten">
-                  Die <rs type="person" ref="#amp_person_2">Baroni<unclear>n</unclear><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baroni<unclear>n</unclear><lb/>
                   Stella von Mussolin</rs><lb/>
                   <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
                   Neulingasse 26</rs> <unclear>,</unclear>
@@ -138,7 +138,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="13" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
-                  <space quantity="5" unit="char"/>Many thanks for your letter. Ac<del>r</del>tually,we<lb/>
+                  <space quantity="5" unit="char"/>Many thanks for your letter. Ac<del>r</del>tually,<rs type="person" ref="#amp_person_1 #amp_person_4">we</rs><lb/>
                   shall be here till the end of October.<lb/>
                   <space quantity="2" unit="char"/>So far as I know,any week-day which suits you<lb/>
                   and <rs type="person" ref="#amp_person_59">Herr Fritsch</rs> would be O.K.for us,so just<lb/>
