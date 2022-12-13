@@ -112,16 +112,16 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0105/" type="envelope"/>
                <p>
-                  Die <rs type="person" ref="#amp_person_2">Baronin<lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Mussolin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_26"><del>WIEN III</del><lb/>
+                  <rs type="place" ref="#amp_place_id_11"><del>WIEN III</del><lb/>
                   <del>Neulinggasse 26</del></rs>
                </p>
                <p hand="#handwritten">
                   <rs type="place" ref="#amp_place_id_7">FRIDAU<lb/>
                   OBERGRAFENDORF<lb/>
                   BEI ST<unclear>-</unclear>PÖLTEN<lb/>
-                  N.Ö</rs>.
+                  N.Ö.</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0106/" type="envelope"/>
                <p>
