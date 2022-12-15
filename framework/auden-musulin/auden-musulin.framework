@@ -379,7 +379,7 @@
 									<String></String>
 								</field>
 								<field name="buildFilePath">
-									<String>/home/daniel/Oxygen XML Editor 23/frameworks/tei/xml/tei/stylesheet/relaxng/build-to.xml</String>
+									<String>${frameworkDir}/xml/tei/stylesheet/relaxng/build-to.xml</String>
 								</field>
 								<field name="ditaParams">
 									<list>
