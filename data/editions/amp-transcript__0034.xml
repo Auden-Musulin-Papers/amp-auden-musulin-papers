@@ -71,6 +71,25 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
          </langUsage>
+         
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#amp_person_99">O'Sullivan, Michael</persName>
+               <placeName ref="#amp_place_id_173">22, Kildare Street</placeName>
+               <date>unknown</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName>unknown</placeName>
+               <date>unknown</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0033.xml">Aerogram Signed Edward Mendelson to Stella Musulin 1981-11-21</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0036.xml">Autograph Note Michael O'Sullivan to Stella Musulin 1984-08-15</ref>
+            </correspContext>
+         </correspDesc>
+         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -119,7 +138,7 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_122">Molly Keane</rs> when I visited you with <rs type="person" ref="#amp_person_119">Peter Muller</rs> in October of last year. I<lb/>
                   was delighted to see that <rs type="org" ref="#amp_organization_13">Virago Press</rs> have decided to reprint her early<lb/>
                   novels and I thought of you when I saw them <del><unclear>o</unclear></del>in the bookshops.  I am sending<lb/>
-                  you herewith <hi rend="underline"><rs type='lit_work' ref="lit_work_id_26">The Rising Tide</rs></hi> - the first in the series of reprints and I very<lb/>
+                  you herewith <hi rend="underline"><rs type='lit_work' ref="#lit_work_id_26">The Rising Tide</rs></hi> - the first in the series of reprints and I very<lb/>
                   much hope you enjoy reading it.
                </p>
                <p>

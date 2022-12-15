@@ -71,6 +71,25 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
          </langUsage>
+         
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#amp_person_2">Mendelson, Edward</persName>
+               <placeName ref="#amp_place_id_171">39 Claremont Ave, apt 31</placeName>
+               <date>unknown</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName>unknown</placeName>
+               <date>unknown</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0032.xml">Aerogram Signed Edward Mendelson to Stella Musulin 1980-12-01</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0034.xml">Typed Letter Signed Michael O'Sullivan to Stella Musulin 1984-05-31</ref>
+            </correspContext>
+         </correspDesc>
+         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
