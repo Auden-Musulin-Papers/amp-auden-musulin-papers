@@ -112,10 +112,10 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0231/" type="sheet"/>
                <p hand="#printed">
-                  <rs type="org" ref="#amp_organization_id_31">UNIVERSITY OF DUBLIN</rs>
+                  <rs type="org" ref="#amp_organization_31">UNIVERSITY OF DUBLIN</rs>
                </p>
                <p hand="#printed">
-                  <rs type="org" ref="#amp_organization_id_32">TRINITY COLLEGE<lb/>
+                  <rs type="org" ref="#amp_organization_32">TRINITY COLLEGE<lb/>
                   DUBLIN 2</rs>
                </p>
                <p>
@@ -171,7 +171,7 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="21" unit="char"/>I had a letter from <rs type="person" ref="#amp_person_98">Edward Mendelson</rs> yesterday and he asked<lb/>
                   me to send you his very best wishes which I do along with my own.  I hope this<lb/>
-                  finds you in good spirits and that Summer is <del>being</del> better behaved in <rs type="place" ref="#amp_place_id_100">Austria</rs> <del><gap reason="deleted"/></del>than<lb/>
+                  finds you in good spirits and that Summer is <del>being</del> better behaved in <rs type="place" ref="#amp_place_id_10">Austria</rs> <del><gap reason="deleted"/></del>than<lb/>
                   it is here in <rs type="place" ref="#amp_place_id_93">Ireland</rs>.
                </p>
                <p>
