@@ -83,6 +83,11 @@ for any purpose, even commercially.</p>
                <placeName ref="#amp_place_id_7">Fridau</placeName>
                <date>unknown</date>
             </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0041.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1970-07-06</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0016.xml">Telegram W. H. Auden to Stella Musulin 1971-05-13</ref>
+            </correspContext>
          </correspDesc>
          
       </profileDesc>
