@@ -119,7 +119,7 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
-                  Neulinggasse 26.</rs>
+                  Neulinggasse 26</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0130/" type="envelope"/>
                <p>
@@ -139,7 +139,7 @@ for any purpose, even commercially.</p>
                <p>
                   Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Friday or Satu<unclear>r</unclear>day fine,except<lb/>
-                  we dine <unclear>wi</unclear>t<unclear>h</unclear> the <rs type="person" ref="#amp_person_109">Pfarrer</rs> Saturday eve<unclear>ni</unclear>ng.<lb/>
+                  <rs type="person" ref="#amp_person_1 #amp_person_4">we</rs> dine <unclear>wi</unclear>t<unclear>h</unclear> the <rs type="person" ref="#amp_person_109">Pfarrer</rs> Saturday eve<unclear>ni</unclear>ng.<lb/>
                   Do come to l<unclear>u</unclear>nch.<lb/>
                   <rs type="person" ref="#amp_person_1">Wystan</rs>.
                </p>
