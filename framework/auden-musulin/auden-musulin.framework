@@ -379,7 +379,7 @@
 									<String></String>
 								</field>
 								<field name="buildFilePath">
-									<String>${frameworkDir}/xml/tei/stylesheet/relaxng/build-to.xml</String>
+									<String>${frameworkDir}/tei/xml/tei/stylesheet/relaxng/build-to.xml</String>
 								</field>
 								<field name="ditaParams">
 									<list>
