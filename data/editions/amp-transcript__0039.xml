@@ -126,7 +126,7 @@ for any purpose, even commercially.</p>
                <p hand="#handwritten">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_78">Fridau<lb/>
+                  <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                   Obergra<del><gap reason="deleted"/></del><gap reason="illegible"/>endorf<lb/>
                   bei S. Pölten<lb/>
                   N.Ö.</rs>
@@ -134,7 +134,7 @@ for any purpose, even commercially.</p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0014/" type="envelope"/>
                <p hand="#handwritten">
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear> Auden</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_5">Kirchstetten (Westb<unclear>a</unclear>h<unclear>n</unclear>)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">Kirchstetten (Westb<unclear>a</unclear>h<unclear>n</unclear>)<lb/>
                   Hint<unclear>e</unclear>rholz# 6<lb/>
                   N.Ö</rs><lb/>
                   <unclear>·</unclear>
@@ -194,8 +194,8 @@ for any purpose, even commercially.</p>
                   Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Many thanks for your letter. Will try and call you<lb/>
                   to-day by phone.<lb/>
-                  I enclose a <rs type="lit_work" ref="#lit_work_id_60">pr<unclear>o</unclear>se</rs> translation ma<unclear>d</unclear>e by me and a German friend<unclear>;</unclear><lb/>
-                  <gap reason="illegible"/> <del><gap reason="deleted"/></del> Sin<unclear>ce</unclear> the copy I sent you , <del><gap reason="deleted"/></del> I have made <unclear>a</unclear> few slig<unclear>h</unclear>t<lb/>
+                  I enclose a <rs type="lit_work" ref="#lit_work_id_60">pr<unclear>o</unclear>se translation</rs> ma<unclear>d</unclear>e by me and <rs type="person" ref="#amp_person_157">a German friend</rs><unclear>;</unclear><lb/>
+                  <gap reason="illegible"/> <del><gap reason="deleted"/></del> Sin<unclear>ce</unclear> <rs type="lit_work" ref="#lit_work_id_61">the copy I sent you</rs> , <del><gap reason="deleted"/></del> I have made <unclear>a</unclear> few slig<unclear>h</unclear>t<lb/>
                   changes in stanza 3. (see above)<lb/>
                   Could you che<unclear>c</unclear>k the translat<unclear>io</unclear>n for errors.<lb/>
                   love<lb/>

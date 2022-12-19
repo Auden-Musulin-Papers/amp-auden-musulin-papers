@@ -135,13 +135,13 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0011/" type="envelope"/>
                <p hand="#handwritten">
-                  Die <rs type="person" ref="#amp_person_2">Baronin<lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   S<unclear>t</unclear>ella Musulin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_78"><del>Fridau</del><lb/>
+                  <rs type="place" ref="#amp_place_id_7"><del>Fridau</del><lb/>
                   <del>Obergrabe<unclear>m</unclear>d<unclear>o</unclear>r<unclear>f</unclear></del><lb/>
                   <del>b<unclear>e</unclear>i S. Pölten</del><lb/>
-                  <del>N.Ö</del><lb/>
-                  Osterreich</rs>
+                  <del>N.Ö</del></rs><lb/>
+                  <rs type="place" ref="#amp_place_id_10">Osterreich</rs>
                </p>
                <p hand="#handwritten">
                   <rs type="place" ref="#amp_place_id_26">Wien III<lb/>
@@ -197,8 +197,8 @@ for any purpose, even commercially.</p>
                </lg>   
                <lg>   
                   <l>What,had you ever heard of</l>
-                  <l>Franz J<unclear>ä</unclear>gerst<unclear>ä</unclear>tter,</l>
-                  <l>The St.Radegund peasant</l>
+                  <l><rs type="person" ref="#amp_person_7">Franz J<unclear>ä</unclear>gerst<unclear>ä</unclear>tter</rs>,</l>
+                  <l>The <rs type="place" ref="#amp_place_id_22">St.Radegund</rs> peasant</l>
                   <l>Who said his lonely</l>
                   <l><hi rend="underline">Nein</hi> to the Aryan State</l>
                   <l>And was beheaded,</l>
@@ -322,7 +322,7 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="9" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> is intending to have a cer<del>o</del>emony in memory of the twentieth<lb/>
-                  <space quantity="1" unit="char"/>anniversary of <rs type="person" ref="#amp_person_5">Weinheber'<del>w</del>s</rs> <space quantity="1" unit="char"/>death. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
+                  <space quantity="1" unit="char"/>anniversary of <rs type="person" ref="#amp_person_5">Weinheber</rs>'<del>w</del>s <space quantity="1" unit="char"/>death. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
                   <space quantity="1" unit="char"/><hi rend="underline">Gemeindepflicht.</hi><lb/>
                   <space quantity="17" unit="char"/>love<lb/>
                   <rs type="person" ref="#amp_person_1">Wystan</rs>.<!-- markup handwriting -->
