@@ -60,7 +60,7 @@
                                 <idno>A2</idno>
                             </msIdentifier>
                             <history>
-                                <origin><origDate when-iso="1977-04-05">1977-04-05</origDate></origin>
+                                <origin><origDate notBefore="1977-04-05" notAfter="1977-04-05">1977-04-05</origDate></origin>
                             </history>
                         </msDesc>
                     </witness>
@@ -109,7 +109,7 @@
     </facsimile>
     <text type="letter" hand="#typed">
         <body>
-            <div xml:id="transcription__0061">
+            <div xml:id="transcription">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0251/" type="sheet"/>
                 <p>
                     <space quantity="48" unit="char"/><rs type="place" ref="#amp_place_id_11">NEULINGGASSE 26/14<lb/>
@@ -143,7 +143,7 @@
                 <p>
                     <space quantity="15" unit="char"/>Mit herzlichen Grüßen,
                 </p>
-                <p>
+                <p hand="#handwritten">
                     <rs type="person" ref="#amp_person_2">Stella Musulin</rs> <unclear>´</unclear>
                 </p>
                 <p>

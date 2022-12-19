@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-                <title level="a">Autograph Notes [?] on Stella Musulin "Auden in Kirchstetten" and "In Retrospect" [?]</title>
+                <title level="a">Autograph Notes [?] on Stella Musulin "Auden in Kirchstetten" and "In Retrospect" 1985-11-29--1990-03-28</title>
                 <author>[?]</author>
                 <editor>
                     <name>Mayer, Sandra</name>
@@ -60,7 +60,7 @@
                                 <idno>2, 7</idno>
                             </msIdentifier>
                             <history>
-                                <origin><origDate>[?]</origDate></origin>
+                                <origin><origDate notBefore="1985-11-29" notAfter="1990-03-28">1985-11-29--1990-03-28</origDate></origin>
                             </history>
                         </msDesc>
                     </witness>
@@ -93,28 +93,28 @@
             <div xml:id="transcription">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0179/" type="sheet"/>
                 <p>
-                    <hi rend="italics"><rs type="lit_work" ref="#lit_work_id_50">AUDEN IN KIRCHSTETTEN</rs></hi>
+                    <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_50">AUDEN IN KIRCHSTETTEN</rs></hi>
                 </p>
                 <p>
-                    <hi rend="italics">P. 7 Line 8</hi> "<rs type="person" ref="#amp_person_27">Eliot</rs> ha<unclear>r</unclear>dly deserved it<unclear>`:" </unclear> Does this mean that you dont<lb/>
+                    <hi rend="underline">P. 7 Line 8</hi> "<rs type="person" ref="#amp_person_27">Eliot</rs> ha<unclear>r</unclear>dly deserved it<unclear>`:" </unclear> Does this mean that you dont<lb/>
                     think <rs type="person" ref="#amp_person_27">Eliot</rs> w<unclear>a</unclear>s worth translating? Or that <rs type="person" ref="#amp_person_1">Auden</rs> didnt? Or what?<lb/>
                     (see p<unclear>.</unclear> 16-17)
                 </p>
                 <p>
-                    <hi rend="italics"><unclear>R. 2</unclear> Line <del><gap/></del>7</hi> <del>Would</del> '<rs type="person" ref="#amp_person_4" xml:id="chka">Chester</rs>'. Would it <unclear>be</unclear> helpful <unclear>a</unclear>t this<lb/>
+                    <hi rend="underline"><unclear>R. 2</unclear> Line <del><gap reason="deleted"/></del>7</hi> <del>Would</del> '<rs type="person" ref="#amp_person_4" xml:id="chka">Chester</rs>'. Would it <unclear>be</unclear> helpful <unclear>a</unclear>t this<lb/>
                     ✓<unclear>f</unclear>irst mention of <rs type="person" ref="#amp_person_4" subtype="reference" ana="#chka">him</rs> to add the sur<unclear>n</unclear>ame , i.e.<lb/>
                     '<rs type="person" ref="#amp_person_4">Chester Kallman</rs>'. ?
                 </p>
                 <p>
-                    <hi rend="italics"><rs type="lit_work" ref="#lit_work_id_46">IN RETROSPECT</rs>.</hi>
+                    <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_46">IN RETROSPECT</rs>.</hi>
                 </p>
                 <p>
-                    <hi rend="italics">P1.</hi> <hi rend="italics">Line <unclear>6</unclear></hi> from bottom<unclear>:</unclear><lb/>
+                    <hi rend="underline">P1.</hi> <hi rend="underline">Line <unclear>6</unclear></hi> from bottom<unclear>:</unclear><lb/>
                     "if <rs type="person" ref="#amp_person_1">his</rs> life as a". Sh<unclear>ou</unclear>ld this be "if <rs type="person" ref="#amp_person_1">his</rs><lb/>
                     life as one" or "if <rs type="person" ref="#amp_person_1">his</rs> life as a whole" ?
                 </p>
                 <p>
-                    <hi rend="italics">p·3</hi> <hi rend="italics">Para 2</hi> Money pinched from <rs type="person" ref="#amp_person_4">Chesters</rs> jacket at party.<lb/>
+                    <hi rend="underline">p·3</hi> <hi rend="underline">Para 2</hi> Money pinched from <rs type="person" ref="#amp_person_4">Chesters</rs> jacket at party.<lb/>
                     <unclear>I</unclear>ncident already referred to in bottom par<unclear>a</unclear> P·13<lb/>
                     of " <rs type="lit_work" ref="#lit_work_id_50">Auden in Kirchs<unclear>t</unclear>etten</rs> ". Since this para is<lb/>
                     in brackets perhaps this is an indicatio<unclear>n</unclear> <unclear>t</unclear>hat<lb/>
@@ -125,17 +125,17 @@
                     wh<unclear>a</unclear>t is in <rs type="person" ref="#amp_person_119">his</rs> mṣ .
                 </p>
                 <p>
-                    <hi rend="italics">p3</hi> <hi rend="italics">Line <unclear>4</unclear> fr<unclear>om</unclear> bottom</hi><lb/>
+                    <hi rend="underline">p3</hi> <hi rend="underline">Line <unclear>4</unclear> fr<unclear>om</unclear> bottom</hi><lb/>
                     " at <rs type="place" ref="#amp_place_id_2">Hinterholz 6</rs>" ?? Desirabl<unclear>e</unclear> to add<lb/>
                     <unclear>`</unclear><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs><unclear>'</unclear> for <unclear>s</unclear>ake of clari<unclear>t</unclear>y ?
                 </p>
                 <p>
-                    <hi rend="italics">P· 16.</hi> <hi rend="italics"><del>Bottom <gap/></del></hi><lb/>
-                    <hi rend="italics">Last sentence <gap/></hi><lb/> 
-                    <hi rend="italics">o<unclear>v</unclear>er <unclear>to</unclear> t<unclear>o</unclear>p P.17</hi>✓<lb/>
-                    <unclear>I</unclear>ncident of "<rs type="person">he who<unclear>s</unclear>e name w<unclear>e</unclear> never mention<unclear>'</unclear></rs> at<lb/>
+                    <hi rend="underline">P· 16.</hi> <hi rend="underline"><del>Bottom <gap reason="deleted"/></del></hi><lb/>
+                    <hi rend="underline">Last sentence <gap reason="illegible"/></hi><lb/> 
+                    <hi rend="underline">o<unclear>v</unclear>er <unclear>to</unclear> t<unclear>o</unclear>p P.17</hi>✓<lb/>
+                    <unclear>I</unclear>ncident of "<rs type="person" ref="#amp_person_2299">he who<unclear>s</unclear>e name w<unclear>e</unclear> never mention<unclear>'</unclear></rs> at<lb/>
                     funeral. ? Repe<unclear>ti</unclear>tion of mention of this on<lb/>
-                    <hi rend="italics">P·14</hi> , to<unclear>p</unclear> para, of "<rs type="lit_work" ref="#lit_work_id_50">Auden in Kirchstetten</rs><unclear>".</unclear>
+                    <hi rend="underline">P·14</hi> , to<unclear>p</unclear> para, of "<rs type="lit_work" ref="#lit_work_id_50">Auden in Kirchstetten</rs><unclear>".</unclear>
                 </p>
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0180/" type="sheet"/>
             </div>
