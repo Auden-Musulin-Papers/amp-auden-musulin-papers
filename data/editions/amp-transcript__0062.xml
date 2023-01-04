@@ -688,8 +688,8 @@ for any purpose, even commercially.</p>
                   8.
                </p>
                <p>
-                  filmed, and the <rs type="place" ref="#amp_organization_9">Gesellschaft für Literatur</rs> did it<del>x</del>s duty by him<lb/>
-                  and more, from start to finish. <space quantity="1" unit="char"/><unclear>I</unclear>t still does. <space quantity="1" unit="char"/>But the <rs type="place" ref="#amp_organization_9">Austrian<lb/>
+                  filmed, and the <rs type="org" ref="#amp_organization_9">Gesellschaft für Literatur</rs> did it<del>x</del>s duty by him<lb/>
+                  and more, from start to finish. <space quantity="1" unit="char"/><unclear>I</unclear>t still does. <space quantity="1" unit="char"/>But the <rs type="org" ref="#amp_organization_9">Austrian<lb/>
                   Soci<del>a</del>ety for Literature</rs> is nei<del>gh</del>ther a club nor a coffee house<lb/>
                   but a society for the promotion of literature with a particular<lb/>
                   mission to writers in communist eastern <rs type="place" ref="#amp_place_id_30">Europe</rs>. <space quantity="1" unit="char"/>Somehow, in the<lb/>
@@ -740,7 +740,7 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>The cultural historian <rs type="person" ref="#amp_person_54">Friedrich Heer</rs>, on the other hand,<lb/>
                   asked whether he would like to go out to lunch in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>,<lb/>
                   replied that he would <unclear>g</unclear>o - he has a tendency towards hyperbole - "on my knees".<lb/>
-                  The day is <del>a</del>describe<del>e</del>d in a letter of mine to a friend in <rs type="place" ref="#amp_place_id_0">Germany</rs><lb/>
+                  The day is <del>a</del>describe<del>e</del>d in a letter of mine to a friend in <rs type="place" ref="#amp_place_id_20">Germany</rs><lb/>
                   dated 29th May ...<lb/>
                   <space quantity="5" unit="char"/>"I still can't put yesterday's expedition to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs><lb/>
                   ou<del>r</del>t of my mind. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_54">Fritz Heer</rs> and I drove out to lunch. <space quantity="1" unit="char"/>This manic-<lb/>
@@ -803,7 +803,7 @@ for any purpose, even commercially.</p>
                   apart from lack of time, which could have got in the way of<lb/>
                   personal contact between <rs type="person" ref="#amp_person_1">Auden</rs> and his translators. <space quantity="1" unit="char"/>During his<lb/>
                   early years in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> <rs type="person" ref="#amp_person_1">Auden</rs> did feel slighted by some of<lb/>
-                  his translators in <rs type="person" ref="#amp_place_id_10">Austria</rs> and <rs type="place" ref="#amp_place_id_20">Germany</rs> who would publish their<lb/>
+                  his translators in <rs type="place" ref="#amp_place_id_10">Austria</rs> and <rs type="place" ref="#amp_place_id_20">Germany</rs> who would publish their<lb/>
                   work in literary magazines, and if the poet himself ever heard<lb/>
                   of it, it was by pure chance. <space quantity="1" unit="char"/>"They don't" he said indignantly,<lb/>
                   "even send me a copy of their paper". <space quantity="2" unit="char"/>Nor, in those days, was<lb/>
@@ -854,7 +854,7 @@ for any purpose, even commercially.</p>
                   impressive passage, not surprisingly, was <rs type="person" ref="#amp_person_164">Helmut Qualtinger</rs>'s<lb/>
                   monologue as <rs type="person" ref="#amp_person_165">Herod</rs>. <space quantity="2" unit="char"/>In the following year there was a reading<lb/>
                   of <rs type="lit_work" ref="#lit_work_id_66">"Hier und Jetzt"</rs> in the <rs type="place" ref="#amp_place_id_85">Palais Palffy</rs> under the auspices of<lb/>
-                  the <rs type="org" ref="#amp_place_id_85">Society for Literature</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> read a short passage in<lb/>
+                  the <rs type="org" ref="#amp_organization_9">Society for Literature</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> read a short passage in<lb/>
                   English and an actor took over and read in German. <space quantity="1" unit="char"/>It appears<lb/>
                   that <rs type="person" ref="#amp_person_1">Auden</rs> was not satisfied, a<del>n</del>s he kept muttering "Nonsense -<lb/>
                   completely wrong!" and making notes in the margin.<lb/>
@@ -1195,7 +1195,7 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="5" unit="char"/>On May 24th 1965,<rs type="person" ref="#amp_person_1">Auden<del>Auden</del></rs> under the auspices of the <rs type="org" ref="#amp_organization_35">Austro-British<lb/>
                   Council</rs> and <rs type="org" ref="#amp_organization_9">the Society for Literat<unclear>u</unclear>re</rs>, <rs type="person" ref="#amp_person_1">Auden</rs> gave a talk on <rs type="person" ref="#amp_person_27">T.S. Eliot</rs> in the lecture hall of<lb/>
-                  <rs type="org" ref="#amp_place_id_229">the <del>Museum of</del> Natural History Museum on the Ring</rs>. <space quantity="2" unit="char"/><unclear>I</unclear>t was very<lb/>
+                  <rs type="place" ref="#amp_place_id_229">the <del>Museum of</del> Natural History Museum on the Ring</rs>. <space quantity="2" unit="char"/><unclear>I</unclear>t was very<lb/>
                   well attended, largely by crowds of note-taking students of<lb/>
                   Eng. Lit, and I have never been quite sure whether, at one moment,<lb/>
                   he was treating us to a bit of traditional stage business. <space quantity="1" unit="char"/>He<lb/>
@@ -1511,7 +1511,7 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>Soon I was asking what I could do for him and in what order.<lb/>
                   What was the most urgent thing?<lb/>
                   <space quantity="5" unit="char"/>"I'm almost out of gin". <space quantity="1" unit="char"/>Perhaps I would be kind enough<lb/>
-                  to ring up <rs type="org" ref="#amp_organization_38">Wild</rs>, the grocers on the <rs type="place" ref="#amp_place_id_955">Neuer Markt in Vienna</rs>, and<lb/>
+                  to ring up <rs type="org" ref="#amp_organization_38">Wild</rs>, the grocers on the <rs type="place" ref="#amp_place_id_95">Neuer Markt in Vienna</rs>, and<lb/>
                   ask them to send some down. <space quantity="2" unit="char"/>But why, I asked, couldn't I<lb/>
                   drive to <rs type="place" ref="#amp_place_id_79">Böheimkirchen</rs> right away and fetch some? <space quantity="1" unit="char"/>They'd have<lb/>
                   the usual brands. <space quantity="1" unit="char"/>No, call up <rs type="org" ref="#amp_organization_38">Wild</rs>.<lb/>
@@ -2034,8 +2034,8 @@ for any purpose, even commercially.</p>
                   and more <del><unclear>G</unclear></del>English; <space quantity="1" unit="char"/>this natural process of reverting to type annoyed<lb/>
                   <rs type="person" ref="#amp_person_4">Chester</rs> who would expostulate at signs of it. <space quantity="1" unit="char"/>He liked to listen<lb/>
                   to the cool, rounded tones of the British county gentry, he intensely<lb/>
-                  admired "<rs type="place" ref="#amp_place_id_163">Akenfield</rs>", he loved the <rs type="lit_work" ref="#lit_work_1">Lucia novels</rs> by <rs type="person" ref="#amp_person_39">E.F. Benson</rs>, he<lb/>
-                  happily read and reviewed <rs type="lit_work" ref="#lit_work_36">"The History of the British Nannie"</rs> and<lb/>
+                  admired "<rs type="place" ref="#amp_place_id_163">Akenfield</rs>", he loved the <rs type="lit_work" ref="#lit_work_id_1">Lucia novels</rs> by <rs type="person" ref="#amp_person_39">E.F. Benson</rs>, he<lb/>
+                  happily read and reviewed <rs type="lit_work" ref="#lit_work_id_36">"The History of the British Nannie"</rs> and<lb/>
                   he was addicted to English detective novels - his collection is now<lb/>
                   at <rs type="place" ref="#amp_place_id_7">Fridau</rs>. <space quantity="1" unit="char"/>I dropped in one early afternoon on my way to <rs type="place" ref="#amp_place_id_1">Vienna</rs>,<lb/>
                   just to leave something for him, <del><unclear>I</unclear></del>I forg<unclear><del>e</del>o</unclear>t what. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> came pounding<lb/>
@@ -2044,7 +2044,7 @@ for any purpose, even commercially.</p>
                   I must get on. <space quantity="1" unit="char"/>"Oh!" he exclaimed, and it was as though he were<lb/>
                   begging me not to infringe the most basic rule of British hospitality:<lb/>
                   "But you <hi rend="underline">can't</hi> go without having a cup of tea!"<lb/>
-                  <space quantity="5" unit="char"/>That study of his is so bare now: <space quantity="1" unit="char"/>it is <del>t</del><rs type="lit_work" ref="#lit_work_37">"The Cave of Making"</rs><lb/>
+                  <space quantity="5" unit="char"/>That study of his is so bare now: <space quantity="1" unit="char"/>it is <del>t</del><rs type="lit_work" ref="#lit_work_id_37">"The Cave of Making"</rs><lb/>
                   which he wished he could have <del>d</del>shown to <rs type="person" ref="#amp_person_71">Louis MacNeice</rs>, and the house<lb/>
                   and garden.
                </p>
