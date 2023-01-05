@@ -149,9 +149,9 @@ for any purpose, even commercially.</p>
                <p hand="#handwritten">
                   Dear <rs type="person" ref="#amp_person_2">Stell<unclear>a</unclear></rs>,<lb/>
                   Terribly sorry about <unclear>l</unclear>ast Sunday.<lb/>
-                  Since I had no idea whe<unclear>n</unclear> we should be<lb/>
+                  Since I had no idea whe<unclear>n</unclear> <rs type="person" ref="#amp_person_1 #amp_person_4">we</rs> should be<lb/>
                   a<unclear>b</unclear>le to get to you, I tho<unclear>u</unclear>g<unclear>ht</unclear> it was unfair<lb/>
-                  to t<unclear>he</unclear> kitchen not to cancel.<lb/>
+                  to t<unclear>he</unclear> <rs type="place" ref="#amp_place_id_">kitchen</rs> not to cancel.<lb/>
                   Ha<unclear>ve</unclear> a ni<unclear>c</unclear>e <unclear>win</unclear>ter and <unclear>wi</unclear>ll see you, I hop<unclear>e</unclear>,<lb/>
                   early in Apr<unclear>il</unclear><lb/>
                   love<lb/>
@@ -164,7 +164,7 @@ for any purpose, even commercially.</p>
                   <hi rend="underline">ob.Nov 4th,I967)</hi>
                </p>
                <lg>
-                  <l><hi rend="underline">Liebe Frau <rs type="person" ref="#amp_person_16">Emma</rs></hi>,</l>
+                  <l><hi rend="underline">Liebe <rs type="person" ref="#amp_person_16">Frau Emma</rs></hi>,</l>
                   <l><hi rend="underline">na,was hast Du denn gemacht?</hi></l>
                   <l>You who always made</l>
                   <l>such conscience of our comfort,</l>
