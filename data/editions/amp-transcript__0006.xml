@@ -141,7 +141,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0028/" type="envelope"/>
                <p>
                   52 6320<lb/>
-                  <rs type="person" ref="#amp_person_103">Wa<unclear>n</unclear>dl</rs><unclear>;</unclear><lb/>
+                  Wa<unclear>n</unclear>dl<unclear>;</unclear><lb/>
                   <rs type="person" ref="#amp_person_177">Elizabeth</rs> <unclear>.</unclear><lb/>
                   <rs type="place" ref="#amp_place_id_10">Austria</rs> <unclear>.</unclear>
                </p>
@@ -158,7 +158,7 @@ for any purpose, even commercially.</p>
                   I shall be arriving in <rs type="place" ref="#amp_place_id_1">Vienna</rs> next<lb/>
                   Monday morning (12th) and staying till<lb/>
                   the 16th in order to interview a<lb/>
-                  <rs type="person" ref="#amp_person_32 #amp_person_176">prospective couple</rs> to take the <rs type="person" ref="#amp_person_16">Eiermanns</rs> place<unclear>.</unclear><lb/>
+                  <rs type="person" ref="#amp_person_32 #amp_person_176">prospective couple</rs> to take the <rs type="person" ref="#amp_person_16 amp_person_16">Eiermanns</rs> place<unclear>.</unclear><lb/>
                   Expect to be staying at the <rs type="place" ref="#amp_place_id_42">Hotel<lb/>
                   <hi rend="underline">Königin von Hungarn</hi></rs><hi rend="underline"> <unclear>.</unclear></hi><lb/>
                   Will phone you. Do hope you are<lb/>
