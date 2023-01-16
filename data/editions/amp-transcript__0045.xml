@@ -117,14 +117,14 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0109/" type="envelope"/>
                <p>
-                  <rs type="person" ref="#amp_person_1">W. H<unclear>.</unclear> Auden<lb/></rs>
+                  <rs type="person" ref="#amp_person_1">W. H<unclear>.</unclear> Auden</rs><lb/>
                   <rs type="place" ref="#amp_place_id_2">Kirchstetten (West Bah<unclear>n</unclear>)<lb/>
                   Hinterholz # 6.<lb/>
                   N.O.</rs>
                </p>
                <p>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella M<unclear>us</unclear>ulin<lb/></rs>
+                  Stella M<unclear>us</unclear>ulin</rs><lb/>
                   <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                   Obergrafendorf<lb/>
                   bei St. Pölten<lb/>
