@@ -180,7 +180,9 @@ for any purpose, even commercially.</p>
                   <l>Prefer a stink,and the young</l>
                   <l>Condemn you unread.</l>
                </lg>
-               <l>What,had you ever heard of <space quantity="1" unit="char"/>etc</l>
+               <lg>
+                  <l>What,had you ever heard of <space quantity="1" unit="char"/>etc</l>
+               </lg>   
                <p hand="#handwritten">
                   Re<unclear>v .</unclear>
                </p>
@@ -194,8 +196,8 @@ for any purpose, even commercially.</p>
                   Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Many thanks for your letter. Will try and call you<lb/>
                   to-day by phone.<lb/>
-                  I enclose a <rs type="lit_work" ref="#lit_work_id_60">pr<unclear>o</unclear>se translation</rs> ma<unclear>d</unclear>e by me and <rs type="person" ref="#amp_person_157">a German friend</rs><unclear>;</unclear><lb/>
-                  <gap reason="illegible"/> <del><gap reason="deleted"/></del> Sin<unclear>ce</unclear> <rs type="lit_work" ref="#lit_work_id_61">the copy I sent you</rs> , <del><gap reason="deleted"/></del> I have made <unclear>a</unclear> few slig<unclear>h</unclear>t<lb/>
+                  I enclose a <rs type="lit_work" ref="#lit_work_id_92">pr<unclear>o</unclear>se translation</rs> ma<unclear>d</unclear>e by me and <rs type="person" ref="#amp_person_157">a German friend</rs><unclear>;</unclear><lb/>
+                  <gap reason="illegible"/> <del><gap reason="deleted"/></del> Sin<unclear>ce</unclear> <rs type="lit_work" ref="#lit_work_id_92">the copy I sent you</rs> , <del><gap reason="deleted"/></del> I have made <unclear>a</unclear> few slig<unclear>h</unclear>t<lb/>
                   changes in stanza 3. (see above)<lb/>
                   Could you che<unclear>c</unclear>k the translat<unclear>io</unclear>n for errors.<lb/>
                   love<lb/>
@@ -204,7 +206,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0010/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0139/" type="sheet"/>
                <p>
-                  <space quantity="26" unit="char"/><rs type="lit_work" ref="#lit_work_id_62"><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
+                  <space quantity="26" unit="char"/><rs type="lit_work" ref="#lit_work_id_92"><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
                   <space quantity="28" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
                </p>
                <p hand="#handwritten">

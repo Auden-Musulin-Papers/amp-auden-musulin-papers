@@ -179,7 +179,7 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
                <p>
-                  P.S. The <rs type="lit_work" ref="#lit_work_id_42">N.D.R</rs> arri<unclear>ve</unclear>d. <rs type="lit_work" ref="#lit_work_id_89">Translation</rs> quite good,<lb/>
+                  P.S. The <rs type="org" ref="#amp_organization_41">N.D.R</rs> arri<unclear>ve</unclear>d. <rs type="lit_work" ref="#lit_work_id_89">Translation</rs> quite good,<lb/>
                   but <hi rend="underline">why</hi> turn <hi rend="underline">bars</hi> into <hi rend="underline">Theke</hi>?
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0018/" type="sheet"/>
