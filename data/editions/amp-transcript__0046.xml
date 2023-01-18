@@ -66,6 +66,7 @@ for any purpose, even commercially.</p>
                   </msDesc>
                </witness>
             </listWit>
+            <bibl type="lit_work" xml:id="lit_work_id_94">Josef Weinheber notes</bibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -95,7 +96,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0141/" type="sheet"/>
                <p>
-                  <rs type="lit_work" ref="#lit_work_id_94">1</rs>. In dem <hi rend="underline">man</hi><unclear>✓</unclear> dich — begrub ·
+                  1. In dem <hi rend="underline">man</hi><unclear>✓</unclear> dich — begrub ·
                </p>
                <p>
                   2. Kategorisiert<unclear>.</unclear><lb/>
