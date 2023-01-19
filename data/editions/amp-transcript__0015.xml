@@ -119,7 +119,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0071/" type="envelope"/>
                <p>
                   <rs type="lit_work" ref="#lit_work_id_91">Translation</rs> rec<unclear>d.</unclear><lb/>
-                  Wedding <unclear>n</unclear>ear<rs type="place" ref="#amp_place_id_62">Kre<unclear>m</unclear>s</rs><lb/>
+                  <rs type="event" ref="#amp_event_id_14">Wedding <unclear>n</unclear>ear<rs type="place" ref="#amp_place_id_62">Kre<unclear>m</unclear>s</rs></rs><lb/>
                </p>
                <p>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
@@ -152,7 +152,7 @@ for any purpose, even commercially.</p>
                   <rs type="lit_work" ref="#lit_work_id_90">Translation</rs> just received. Thanks<lb/>
                   <unclear>e</unclear> million.<lb/>
                   On Saturday <rs type="person" ref="#amp_person_4">Chester</rs> and I have<lb/>
-                  to attend a wedding <del><unclear>in</unclear></del>near<lb/>
+                  to attend a <rs type="event" ref="#amp_event_id_14">wedding</rs> <del><unclear>in</unclear></del>near<lb/>
                   <rs type="place" ref="#amp_place_id_62">Kr<unclear>e</unclear>ms</rs> at 3<unclear>·</unclear>0.p.m,which means<lb/>
                   we shall have to lunch at 12<unclear>·</unclear>0<unclear>,</unclear><lb/>
                   Could you possibly make that<unclear>?</unclear><lb/>

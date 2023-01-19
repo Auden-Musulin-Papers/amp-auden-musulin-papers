@@ -135,7 +135,7 @@ for any purpose, even commercially.</p>
                   Austria</rs>
                </p>
                <p>
-                  Re arrival interview<lb/>
+                  Re arrival <rs type="event" ref="#amp_event_id_10">interview</rs><lb/>
                   <rs type="person" ref="#amp_person_32 #amp_person_176">Strobl</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0028/" type="envelope"/>
@@ -157,7 +157,7 @@ for any purpose, even commercially.</p>
                   Dear <rs type="person" ref="#amp_person_2">Stella</rs>.<lb/>
                   I shall be arriving in <rs type="place" ref="#amp_place_id_1">Vienna</rs> next<lb/>
                   Monday morning (12th) and staying till<lb/>
-                  the 16th in order to interview a<lb/>
+                  the 16th in order to <rs type="event" ref="#amp_event_id_10">interview</rs> a<lb/>
                   <rs type="person" ref="#amp_person_32 #amp_person_176">prospective couple</rs> to take the <rs type="person" ref="#amp_person_16 amp_person_16">Eiermanns</rs> place<unclear>.</unclear><lb/>
                   Expect to be staying at the <rs type="place" ref="#amp_place_id_42">Hotel<lb/>
                   <hi rend="underline">Königin von Hungarn</hi></rs><hi rend="underline"> <unclear>.</unclear></hi><lb/>

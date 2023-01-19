@@ -122,8 +122,8 @@ for any purpose, even commercially.</p>
                   <hi rend="underline">Air-Mail</hi>
                </p>
                <p>
-                  <unclear>L</unclear>eft US driving<lb/>
-                  licence behind <unclear>·</unclear>
+                  <rs type="event" ref="#amp_event_id_11"><unclear>L</unclear>eft US driving<lb/>
+                  licence <rs type="place" ref="#amp_place_id_2">behind</rs></rs> <unclear>·</unclear>
                </p>
                <p>
                   <rs type="person" ref="#amp_person_2">Die Baroninin<lb/>
@@ -154,7 +154,7 @@ for any purpose, even commercially.</p>
                   left my American Dr<del><gap reason="deleted"/></del>iving Licence<lb/>
                   behind.<lb/>
                   It sh<unclear>ou</unclear>ld be in an envelope in<lb/>
-                  the drawer of my bed-table upstairs.<lb/>
+                  the drawer of my bed-table <rs type="place" ref="#amp_place_id_2">upstairs</rs>.<lb/>
                   Could you be an angel and look for<lb/>
                   it next time you ar<unclear>e</unclear> going to <rs type="place" ref="#amp_place_id_7">Fridau</rs><lb/>
                   and air-mail to me<lb/>
