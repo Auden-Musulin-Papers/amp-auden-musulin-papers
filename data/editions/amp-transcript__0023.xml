@@ -147,8 +147,8 @@ for any purpose, even commercially.</p>
                   How are you and where are<lb/>
                   you?<lb/>
                   If in <rs type="place" ref="#amp_place_id_7">Fridau</rs>,<rs type="person" ref="#amp_person_1 #amp_person_4">we</rs> would love to<lb/>
-                  see you. Am expecting <rs type="person" ref="#amp_person_3">Christiane<lb/>
-                  Zimmer</rs> here about <del><gap reason="deleted"/></del> August 5th.<lb/>
+                  see you. Am <rs type="event" ref="#amp_event_id_15">expecting <rs type="person" ref="#amp_person_3">Christiane<lb/>
+                  Zimmer</rs></rs> <rs type="place" ref="#amp_place_id_2">here</rs> about <del><gap reason="deleted"/></del> August 5th.<lb/>
                   <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0124/" type="sheet"/>
