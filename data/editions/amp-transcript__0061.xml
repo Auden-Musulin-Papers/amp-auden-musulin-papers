@@ -134,10 +134,10 @@
                 </p>
                 <p>
                     <space quantity="5" unit="char"/>Es wird für mich eine Ehre sein, am 5. Mai<lb/>
-                    über <rs type="person" ref="#amp_person_1">Auden</rs> sprechen zu dürfen.
+                    <rs type="event" ref="#amp_event_id_23">über <rs type="person" ref="#amp_person_1">Auden</rs> sprechen</rs> zu dürfen.
                 </p>
                 <p>
-                    <space quantity="5" unit="char"/>Wie wäre es mit "Auden und die Österreicher"?<lb/>
+                    <space quantity="5" unit="char"/>Wie wäre es mit "<rs type="person" ref="#amp_person_1">Auden</rs> und die Österreicher"?<lb/>
                     Aber wenn nicht, ist mir Alles recht!
                 </p>
                 <p>
