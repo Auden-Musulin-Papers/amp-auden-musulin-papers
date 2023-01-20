@@ -99,8 +99,8 @@ for any purpose, even commercially.</p>
                   Einladung
                </p>
                <p>
-                  <rs type="person" ref="#amp_person_1">W. H. AUDEN</rs><lb/>
-                  GEDICHTE/POEMS
+                  <rs type="event" ref="#amp_event_id_3"><rs type="person" ref="#amp_person_1">W. H. AUDEN</rs><lb/>
+                  GEDICHTE/POEMS</rs>
                </p>
                <p>
                   Zum Erscheinen der neuen, zweisprachigen Ausgabe im <rs type="org" ref="#amp_organization_26">Europa Verlag</rs>, <rs type="place" ref="#amp_place_id_1">Wien</rs><lb/>

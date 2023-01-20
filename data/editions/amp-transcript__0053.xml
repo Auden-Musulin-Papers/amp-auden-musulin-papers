@@ -118,8 +118,8 @@
                     <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_2">Ich</rs> habe schon sehr lange nicht geschrieben, <rs type="person" ref="#amp_person_151">Du</rs> wirst<lb/>
                     <rs type="person" ref="#amp_person_151">Dich</rs>, fürchte <rs type="person" ref="#amp_person_2">ich</rs>, schon kränken. <space quantity="1" unit="char"/>Sehr schön war es, Deine<lb/>
                     Stimme zu hören, leider hattest <rs type="person" ref="#amp_person_151">Du</rs> nicht viel davon.<lb/>
-                    <space quantity="5" unit="char"/>Heute stehe ich immer noch unter dem Eindruck des gest<del>ir</del>rigen<lb/>
-                    Ausflugs nach <rs type="place" ref="#amp_place_id_2">Kirchstetten</rs> wohin <rs type="person" ref="#amp_person_2">ich</rs> <rs type="person" ref="#amp_person_54" xml:id="hefr">Fritz Heer</rs> verabredeter-<lb/>
+                    <space quantity="5" unit="char"/>Heute stehe ich immer noch unter dem Eindruck des <rs type="event" ref="#amp_event_id_22">gest<del>ir</del>rigen<lb/>
+                    Ausflugs</rs> nach <rs type="place" ref="#amp_place_id_2">Kirchstetten</rs> wohin <rs type="person" ref="#amp_person_2">ich</rs> <rs type="person" ref="#amp_person_54" xml:id="hefr">Fritz Heer</rs> verabredeter-<lb/>
                     maßen zum Essen mitnahm. <space quantity="1" unit="char"/>Diese manisch-depressive Genie,<del>und</del><lb/>
                     dieser innerlich verschreckte Lausbub <rs type="person" ref="#amp_person_54">Friedrich Heer</rs>, und der<lb/>
                     grosse englische Dichter <rs type="person" ref="#amp_person_1">Auden</rs>, von <rs type="person" ref="#amp_person_4">Kallman</rs> ganz zu schweigen -<lb/>

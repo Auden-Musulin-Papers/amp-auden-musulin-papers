@@ -112,7 +112,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0171/" type="sheet"/>
                <p>
-                  <space quantity="16" unit="char"/><hi rend="underline">Erklärung</hi>
+                  <rs type="lit_work" ref="#lit_work_id_98"><space quantity="16" unit="char"/><hi rend="underline">Erklärung</hi></rs>
                </p>
                <p>
                   Meine Herren !<lb/>
