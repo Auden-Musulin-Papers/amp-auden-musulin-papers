@@ -118,7 +118,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0129/" type="envelope"/>
                <p>
-                  Dines wi<unclear>th</unclear> <rs type="person" ref="#amp_person_109">Pfa<unclear>rr</unclear>er</rs>.
+                  <rs type="event" ref="#amp_event_id_17">Dines wi<unclear>th</unclear> <rs type="person" ref="#amp_person_109">Pfa<unclear>rr</unclear>er</rs></rs>.
                </p>
                <p>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
