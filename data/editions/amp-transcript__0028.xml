@@ -194,7 +194,7 @@ for any purpose, even commercially.</p>
                <p>
                   <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_46">In Retrospect</rs>.</hi><lb/>
                   <space quantity="5" unit="char"/>Since then the <rs type="person" ref="#amp_person_1">Auden</rs> industry has not been idle. <space quantity="1" unit="char"/>An<lb/>
-                  excellent <rs type="lit_work" ref="#lit_work_id_39">biography</rs> was published <hi rendition="#footnotemarker_text">1</hi> <note type="footnote" place="foot">1 <rs type="person" ref="#amp_person_100">Hum<del>ö</del>phrey Carpenter</rs>: <rs type="lit_work" ref="#lit_work_id_39">W.H. Auden, a Biography</rs> (<rs type="org" ref="#amp_organization_7">Houghton Miffli<unclear>n</unclear><lb/>
+                  excellent <rs type="lit_work" ref="#lit_work_id_39">biography</rs> was published 1 <note type="footnote" xml:id="amp_foot_1" n="1" place="foot">1 <rs type="person" ref="#amp_person_100">Hum<del>ö</del>phrey Carpenter</rs>: <rs type="lit_work" ref="#lit_work_id_39">W.H. Auden, a Biography</rs> (<rs type="org" ref="#amp_organization_7">Houghton Miffli<unclear>n</unclear><lb/>
                   Company, Boston</rs> 1981.)</note>and <del>k</del>in this the Austrian<lb/>
                   period was dealt with but not locally researched. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_98">Edward<lb/>
                   Mendelson</rs> edited <rs type="person" ref="#amp_person_1">Auden</rs>´s early works and wrote superb commentaries.<lb/>
@@ -249,13 +249,16 @@ for any purpose, even commercially.</p>
                   fundamental questions: <space quantity="1" unit="char"/>about the depths of the <rs type="person" ref="#amp_person_1">poet</rs>´s personality,<lb/>
                   his "otherness" (to confine this to his homosexuality would be to<lb/>
                   oversimplify) and the basis of his all-important relationship<lb/>
-                  with <rs type="person" ref="#amp_person_4">Chester Kallman</rs>. <space quantity="1" unit="char"/>As a star<del>it</del>ting point, <rs type="lit_work" ref="#lit_work_id_49">"Early Auden"</rs>1 which<lb/>
+                  with <rs type="person" ref="#amp_person_4">Chester Kallman</rs>. <space quantity="1" unit="char"/>As a star<del>it</del>ting point, <rs type="lit_work" ref="#lit_work_id_49">"Early Auden"</rs>1 <note type="footnote" xml:id="amp_foot_2" n="1" place="foot"> 1<rs type="person" ref="#amp_person_98">Edward Mendelson</rs>: <rs type="lit_work" ref="#lit_work_id_49">Early Auden</rs>, <rs type="org" ref="#amp_organization_5">Faber and Faber</rs> 1981. Also:<lb/>
+                  <rs type="lit_work" ref="#lit_work_id_28">W.H. Auden: Collected Poems</rs>, ed.by <rs type="person" ref="#amp_person_98">E.Mendelson</rs>, <rs type="org" ref="#amp_organization_7">Faber</rs> 1976, and<lb/>
+                  <rs type="lit_work" ref="#lit_work_id_80">The English Auden</rs>, <rs type="person" ref="#amp_person_98">same Editor</rs>, <rs type="org" ref="#amp_organization_7">Faber</rs> 1977.<lb/></note> which<lb/>
                   presents an<del>s</del>d comments on the poetry, drama and prose up to 1939<lb/>
                   is most valuable, and <rs type="person" ref="#amp_person_98">Edward Mendelson</rs> will produce further works<lb/>
                   of scholarship.<lb/>
                   <space quantity="5" unit="char"/>What would <rs type="person" ref="#amp_person_1">Wystan Auden</rs> say if he could read <rs type="lit_work" ref="#lit_work_id_48">"Auden in Love"</rs><lb/>
                   by <rs type="person" ref="#amp_person_4">Chester</rs>´s old coll<del>a</del>ege friend and last-minute stepmother <rs type="person" ref="#amp_person_150">Dorothy<lb/>
-                  J. Farnon</rs>?2 <space quantity="1" unit="char"/>In July 1985 the <rs type="org" ref="#amp_organization_20">Sunday Times</rs> published a list of<lb/>
+                  J. Farnon</rs>?2 <note type="footnote" xml:id="amp_foot_3" n="2" place="foot">2<rs type="person" ref="#amp_person_150">Dorothy J Farnon</rs>: <rs type="lit_work" ref="#lit_work_id_48">Auden in Love</rs>. <rs type="org" ref="#amp_organization_8">Simon &amp; Schuster, NY</rs>, <rs type="org" ref="#amp_organization_5">Faber<lb/>
+                  London 1</rs></note> <space quantity="1" unit="char"/>In July 1985 the <rs type="org" ref="#amp_organization_20">Sunday Times</rs> published a list of<lb/>
                   recommended holiday <del>books</del> reading. <space quantity="1" unit="char"/>The assessment of <rs type="lit_work" ref="#lit_work_id_48">"Auden in<lb/>
                   Love"</rs> was a model of compression: <space quantity="1" unit="char"/>"emetic but compulsive".<lb/>
                   I more than once came up against <rs type="person" ref="#amp_person_1">Auden</rs>´s idée fixe about the<lb/>
@@ -277,13 +280,6 @@ for any purpose, even commercially.</p>
                   intellectuals of both sexes. <space quantity="1" unit="char"/>He was a <rs type="person" ref="#amp_person_149">Dorian Grey</rs> figure,<lb/>
                   sparkling<del>a</del>and damned, hero and victim, immature and over-ripe,<lb/>
                   sensitive and heartless, a man capable of loving and of being
-               </p>
-               <p>
-                  1<rs type="person" ref="#amp_person_98">Edward Mendelson</rs>: <rs type="lit_work" ref="#lit_work_id_49">Early Auden</rs>, <rs type="org" ref="#amp_organization_5">Faber and Faber</rs> 1981. Also:<lb/>
-                  <rs type="lit_work" ref="#lit_work_id_28">W.H. Auden: Collected Poems</rs>, ed.by <rs type="person" ref="#amp_person_98">E.Mendelson</rs>, <rs type="org" ref="#amp_organization_7">Faber</rs> 1976, and<lb/>
-                  <rs type="lit_work" ref="#lit_work_id_80">The English Auden</rs>, <rs type="person" ref="#amp_person_98">same Editor</rs>, <rs type="org" ref="#amp_organization_7">Faber</rs> 1977.<lb/>
-                  2<rs type="person" ref="#amp_person_150">Dorothy J Farnon</rs>: <rs type="lit_work" ref="#lit_work_id_48">Auden in Love</rs>. <rs type="org" ref="#amp_organization_8">Simon &amp; Schuster, NY</rs>, <rs type="org" ref="#amp_organization_5">Faber<lb/>
-                  London 1</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0184/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0185/" type="sheet"/>
