@@ -73,9 +73,13 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_45">32 Bryanston Square</placeName>
+               <date notBefore="1968-10-15" notAfter="1968-10-15">1968-10-15</date>
+            </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <persName ref="#amp_person_19">Heyworth, Peter</persName>
                <placeName ref="#amp_place_id_45">32 Bryanston Square</placeName>
                <date notBefore="1968-10-15" notAfter="1968-10-15">1968-10-15</date>
             </correspAction>
@@ -86,6 +90,7 @@ for any purpose, even commercially.</p>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
                <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0008.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12</ref>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0044.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-24</ref>
             </correspContext>
@@ -98,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer" when="2021-10-01">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-10-01">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -153,9 +159,9 @@ for any purpose, even commercially.</p>
                   Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Got back from <rs type="place" ref="#amp_place_id_46">Oxford</rs> yesterday and found your<lb/>
                   lett<unclear>e</unclear>r waiting.<lb/>
-                  1) I think I ought to <rs type="event" ref="#amp_event_id_12">take the <rs type="person" ref="#amp_person_155 #amp_person_171">couple</rs></rs> in , but<lb/>
+                  1) I think I ought to <rs type="event" ref="#amp_event_id_12">take the <rs type="person" ref="#amp_person_155 #amp_person_171">couple</rs> in</rs> , but<lb/>
                   I must leave it to you to decide whether<lb/>
-                  they are O.K. If they are , all rooms, includi<unclear>ng</unclear><lb/>
+                  they are O.K. If they are , <rs type="place" ref="#amp_place_id_2">all rooms</rs>, includi<unclear>ng</unclear><lb/>
                   my study ( which can't be heated are open to them<unclear>.</unclear><lb/>
                   2). How much money will they need to keep going ?<lb/>
                   And how shall I make the arrangements for payment.<lb/>
@@ -164,7 +170,7 @@ for any purpose, even commercially.</p>
                   not be room for them.?<lb/>
                   4) I'm worried about how they will get gas-cylinders<lb/>
                   for cooking from <rs type="place" ref="#amp_place_id_47">Neulengbach</rs> ,since, presumably <unclear>.</unclear> they<lb/>
-                  have no car. I expect someone in the village<lb/>
+                  have no car. I expect someone in the <rs type="place" ref="#amp_place_id_5">village</rs><lb/>
                   will help.<lb/>
                   5). <unclear>If</unclear> and when they come, I must know in advance<lb/>
                   so that I can write a note to the<lb/>

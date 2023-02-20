@@ -73,6 +73,11 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
+               <date notBefore="1963-05-12" notAfter="1963-05-12">1963-05-12</date>
+            </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
                <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
@@ -90,6 +95,7 @@ for any purpose, even commercially.</p>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
                <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0025.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1962-10-17</ref>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0002.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23</ref>
             </correspContext>
@@ -102,6 +108,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-09-20">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-09-20">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -153,7 +160,7 @@ for any purpose, even commercially.</p>
             </p>
             <p>
                Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
-               Delighted to hear you are <rs type="place" ref="#amp_place_id_78">zu Haus</rs>.<lb/>
+               Delighted to hear you are <rs type="place" ref="#amp_place_id_11">zu Haus</rs>.<lb/>
                No, I d<unclear>i</unclear>dnt get any letter from you. <unclear>Pe</unclear>rhaps<lb/>
                it is in the <unclear>.</unclear><rs type="place" ref="#amp_place_id_15">U.S.</rs><unclear>,</unclear> I shall be in <rs type="place" ref="#amp_place_id_1">Vienna</rs> this<lb/>
                coming week on Monday, <del>T<unclear>hur</unclear></del> Wednesday and Friday.<lb/>

@@ -73,6 +73,11 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_29">77 St Mark's Place</placeName>
+               <date notBefore="1968-02-06" notAfter="1968-02-06">1968-02-06</date>
+            </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
                <placeName ref="#amp_place_id_29">77 St Mark's Place</placeName>
@@ -85,6 +90,7 @@ for any purpose, even commercially.</p>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
                <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0005.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1967-11-08</ref>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0042.xml">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescripts W. H. Auden "August 1968" and "Elegy" 1968-10-04</ref>
             </correspContext>
@@ -97,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer" when="2021-09-28">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-09-28">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -135,8 +142,8 @@ for any purpose, even commercially.</p>
                   Austria</rs>
                </p>
                <p>
-                  Re arrival <rs type="event" ref="#amp_event_id_10">interview</rs><lb/>
-                  <rs type="person" ref="#amp_person_32 #amp_person_176">Strobl</rs>.
+                  Re arrival <rs type="event" ref="#amp_event_id_10">interview<lb/>
+                  <rs type="person" ref="#amp_person_32 #amp_person_176">Strobl</rs></rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0028/" type="envelope"/>
                <p>
@@ -157,8 +164,8 @@ for any purpose, even commercially.</p>
                   Dear <rs type="person" ref="#amp_person_2">Stella</rs>.<lb/>
                   I shall be arriving in <rs type="place" ref="#amp_place_id_1">Vienna</rs> next<lb/>
                   Monday morning (12th) and staying till<lb/>
-                  the 16th in order to <rs type="event" ref="#amp_event_id_10">interview</rs> a<lb/>
-                  <rs type="person" ref="#amp_person_32 #amp_person_176">prospective couple</rs> to take the <rs type="person" ref="#amp_person_16 amp_person_16">Eiermanns</rs> place<unclear>.</unclear><lb/>
+                  the 16th in order to <rs type="event" ref="#amp_event_id_10">interview a<lb/>
+                  <rs type="person" ref="#amp_person_32 #amp_person_176">prospective couple</rs></rs> to take the <rs type="person" ref="#amp_person_16 amp_person_17">Eiermanns</rs> place<unclear>.</unclear><lb/>
                   Expect to be staying at the <rs type="place" ref="#amp_place_id_42">Hotel<lb/>
                   <hi rend="underline">Königin von Hungarn</hi></rs><hi rend="underline"> <unclear>.</unclear></hi><lb/>
                   Will phone you. Do hope you are<lb/>

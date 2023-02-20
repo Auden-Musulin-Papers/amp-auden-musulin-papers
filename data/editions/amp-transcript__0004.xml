@@ -73,6 +73,11 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_29">77 St Mark's Place</placeName>
+               <date notBefore="1966-02-03" notAfter="1966-02-03">1966-02-03</date>
+            </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
                <placeName ref="#amp_place_id_29">77 St Mark's Place</placeName>
@@ -85,6 +90,7 @@ for any purpose, even commercially.</p>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
                <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0003.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1965-09-29</ref>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0005.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1967-11-08</ref>
             </correspContext>
@@ -97,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer" when="2021-09-23">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-09-24">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -179,7 +186,7 @@ for any purpose, even commercially.</p>
                   mentioned me. "<del>i</del>I happen to know him quite well",said <rs type="person" ref="#amp_person_174">my friend</rs>. To which the<lb/>
                   girl in astonishment:"You mean to say,he's still <hi rend="underline">alive</hi>!".<lb/>
                   <space quantity="2" unit="char"/>Expect to get back to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> about April 20th.<lb/>
-                  <space quantity="21" unit="char"/>much love and <unclear>g</unclear>reetings to <rs type="person" ref="#amp_person_94">son</rs> and <rs type="person" ref="#amp_person_93">mum-in-law</rs><lb/>
+                  <space quantity="21" unit="char"/>much love and <unclear>g</unclear>reetings to <hi rend="handwritten"><rs type="person" ref="#amp_person_94">son</rs> and <rs type="person" ref="#amp_person_93">mum-in-law</rs></hi><lb/>
                   <rs type="person" ref="#amp_person_1">Wystan</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0022/" type="sheet"/>

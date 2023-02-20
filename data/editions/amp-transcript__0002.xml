@@ -73,9 +73,14 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_19">Hubertusbader Straße 43</placeName>
+               <date notBefore="1964-12-23" notAfter="1964-12-23">1964-12-23</date>
+            </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_19">Hubertusbaderstrasse 43</placeName>
+               <placeName ref="#amp_place_id_19">Hubertusbader Straße 43</placeName>
                <date notBefore="1964-12-23" notAfter="1964-12-23">1964-12-23</date>
             </correspAction>
             <correspAction type="received">
@@ -90,6 +95,7 @@ for any purpose, even commercially.</p>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
                <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0001.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1963-05-12</ref>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0038.xml">Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-03-15</ref>
             </correspContext>
@@ -102,6 +108,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-09-20">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-09-21">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -166,8 +173,8 @@ for any purpose, even commercially.</p>
                   they are so much nicer under a little <hi rend="underline">Druck</hi>.<lb/>
                   When they feel their oats they are so apt to become<lb/>
                   uppish.<lb/>
-                  If I'd known,I'd have warned you about <rs type="org" ref="#amp_organization_24"><hi rend="underline"><unclear>T</unclear>he<lb/>
-                  National Review</hi></rs>. I once <rs type="lit_work" ref="#lit_work_id_96">reviewed</rs> a <rs type="person" ref="#amp_person_6">Charles Williams</rs><lb/>
+                  If I'd known,I'd have warned you about <rs type="org" ref="#amp_organization_24"><hi rend="underline"><unclear>T</unclear>he</hi><lb/>
+                  <hi rend="underline">National Review</hi></rs>. I once <rs type="lit_work" ref="#lit_work_id_96">reviewed</rs> a <rs type="person" ref="#amp_person_6">Charles Williams</rs><lb/>
                   <rs type="lit_work" ref="#lit_work_id_95">book</rs> for them - never again. Of course <unclear>y</unclear>ou're right<lb/>
                   about the lib-labs ostrich attitude to those who<lb/>
                   wish to destroy them, but one cannot let one's name<lb/>
