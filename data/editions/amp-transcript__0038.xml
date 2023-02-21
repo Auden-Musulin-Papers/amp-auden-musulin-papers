@@ -217,7 +217,7 @@ for any purpose, even commercially.</p>
                   <l>Retribution was ever</l>
                   <l>A bungler at it:</l>
                   <l><hi rend="underline">Dies alles ist furchtbar,hier</hi></l>
-                  <l><hi rend="underline">Nur Schweigen gem<unclear>ä</unclear>ss</hi>.(I)</l>
+                  <l><hi rend="underline">Nur Schweigen gem<unclear>ä</unclear>ss</hi>.<note type="footnote" xml:id="amp_foot_8" n="(I)" place="foot"><del>N</del><space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_5">W</rs><del>8</del><unclear>'</unclear>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.</note></l>
                </lg>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0134/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0135/" type="sheet"/>
@@ -311,12 +311,12 @@ for any purpose, even commercially.</p>
                   <space quantity="15" unit="char"/><l>To hear the viols playing</l>
                   <space quantity="15" unit="char"/><l>On the impaled green,</l>
                   <space quantity="15" unit="char"/><l>Committed thereafter <hi rend="underline">den</hi></l>
-                  <space quantity="15" unit="char"/><l><hi rend="underline">Abgrund zu nennen</hi>.(2)</l>
+                  <space quantity="15" unit="char"/><l><hi rend="underline">Abgrund zu nennen</hi>.<note type="footnote" xml:id="amp_foot_9" n="(2)" place="foot"><space quantity="3" unit="char"/>2) Quotation from <rs type="person" ref="#amp_person_5">W</rs>'s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_41">Kammermusik</rs></hi></note></l>
                </lg>
                <p>
                   <space quantity="23" unit="char"/>___<lb/>
-                  <del>N</del> <space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_5">W</rs><del>8</del><unclear>'</unclear>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.<lb/>
-                  <space quantity="3" unit="char"/>2) Quotation from <rs type="person" ref="#amp_person_5">W</rs>'s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_41">Kammermusik</rs></hi>.<lb/>
+                  <lb/>
+                  <lb/>
                   <space quantity="24" unit="char"/>__
                </p>
                <p>
