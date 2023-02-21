@@ -80,6 +80,7 @@ for any purpose, even commercially.</p>
          <change who="smayer" when="2021-10-28">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-10-28">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-10">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -96,7 +97,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0249/" type="nan"/>
                <p>
                   <rs type="person" ref="#amp_person_1">W<unclear>,</unclear>H.Auden</rs><lb/>
-                  ℅ <rs type="person" ref="#amp_person_8">Spender</rs><lb/>
+                  ℅ <rs type="person" ref="#amp_person_8 #amp_person_191">Spender</rs><lb/>
                   <rs type="place" ref="#amp_place_id_69">15 Loudoun Rd<lb/>
                   St John's Wood<lb/>
                   London. N.W. <unclear>8</unclear></rs>
