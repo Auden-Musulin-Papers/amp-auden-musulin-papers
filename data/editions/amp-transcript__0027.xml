@@ -134,7 +134,7 @@ for any purpose, even commercially.</p>
                </p>
                <p hand="#handwritten">
                   <unclear>E</unclear>ngl<unclear>i</unclear>s<unclear>h</unclear> orig<unclear>inal</unclear> of <rs type="person" ref="#amp_person_1">Auden</rs><unclear>'</unclear>s<lb/>
-                  Speech delivered in German at <rs type="place" ref="#amp_place_id_47">Neulengbach</rs> , 2? of May 1970
+                  <rs type="lit_work" ref="#lit_work_id_85">Speech delivered in German</rs> at <rs type="event" ref="#amp_event_id_37"><rs type="place" ref="#amp_place_id_47">Neulengbach</rs> , 2? of May 1970</rs>
                </p>
                <p hand="#handwritten">
                   Need exact<lb/>
@@ -152,7 +152,7 @@ for any purpose, even commercially.</p>
                   it
                </p>
                <p>
-                  <space quantity="17" unit="char"/>Sehr vee<del>rh</del>hrter Herr <rs type="person" ref="#amp_person_112">Landeshauptman<unclear>n,</unclear></rs>meine Damen und Herren:<lb/>
+                  <space quantity="17" unit="char"/>Sehr vee<del>rh</del>hrter Herr <rs type="person" ref="#amp_person_112">Landeshauptman<unclear>n</unclear>></rs><unclear>,</unclear>meine Damen und Herren:<lb/>
                   <space quantity="10" unit="char"/>I hope you will pardon me if I speak somewhat personally. I do so,<lb/>
                   not out of vanity,but bec<del>ua</del>ause <space quantity="1" unit="char"/>I do <del>j</del>not wish to give the impression that I<lb/>
                   am attempting to lay down absolute laws which are valid for all. I give you my<lb/>
@@ -168,7 +168,7 @@ for any purpose, even commercially.</p>
                   <space quantity="3" unit="char"/>It is no doubt psychologically significant that my sacred world was autistic -<lb/>
                   that is to say,I had no wish to share it with others no<del>t</del>r could I have done so.<lb/>
                   However,though constructed for and inhabited by myself alone,I needed the help of<lb/>
-                  others,my parents in particular,in collecting its basic materials; others had to<lb/>
+                  others,<rs type="person" ref="#amp_person_183 #amp_person_194">my parents</rs> in particular,in collecting its basic materials; others had to<lb/>
                   procure for me the necessary text-books on geology and machinery,maps,catalog<del>i</del>ues,<lb/>
                   guide-books and photographs,and,when occasion offered<del>,to</del> ta<del>l</del>ke me down real mines,<lb/>
                   tasks which they performed with unfailing patience and generosity.<lb/>
@@ -479,13 +479,13 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="9" unit="char"/>And now,I hope those of you who know no English will forgive me i<del>s</del>f<lb/>
                   I conclude<del>d</del> these remarks with a light poem of my own,entitled<lb/>
-                  <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_57">Doggerel <del>of</del> by a Senior Citizen</rs></hi><del>.</del> (see <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_28">CP</rs></hi> 638-9).
+                  <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_57">Doggerel <del>of</del> by a Senior Citizen</rs></hi><del>.</del> <handShift new="#handwritten"/>(see <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_28">CP</rs></hi> 638-9).
                </p>
                <p hand="#handwritten">
                   I have added commas in lists after fin<unclear>al</unclear> item and bef<unclear>o</unclear>re etc<lb/>
                   since they are a<unclear>l</unclear>ready <unclear>the</unclear>re in <hi rend="underline">most</hi> o<unclear>f</unclear> the lists -<lb/>
                   I have a<unclear>ls</unclear>o <unclear>a</unclear>dded a <unclear>f</unclear>ew o<unclear>th</unclear>er comma<gap reason="illegible"/> (<unclear>usuall</unclear>y <unclear>t</unclear>o co<unclear>m</unclear>ple<unclear>te</unclear> a set <unclear>o</unclear>f <unclear>pa</unclear>renthetical comma<unclear>s)</unclear><lb/>
-                  I have n<unclear>o</unclear><gap reason="illegible"/> ch<unclear>an</unclear>ged c<hi rend="underline">olon</hi>s <unclear>though</unclear> I wou<unclear>l</unclear>d <unclear>lik</unclear>e to <unclear>:</unclear> Are <unclear>th</unclear>ese <rs type="person" ref="#amp_person_1">A's</rs> ?
+                  I have n<unclear>o</unclear><gap reason="illegible"/> ch<unclear>an</unclear>ged c<hi rend="underline">olon</hi>s <unclear>though</unclear> I wou<unclear>l</unclear>d <unclear>lik</unclear>e to <unclear>:</unclear> Are <unclear>th</unclear>ese <rs type="person" ref="#amp_person_1">A</rs>'s ?
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0162/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0163/" type="sheet"/>
@@ -498,7 +498,7 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="7" unit="char"/>At this p<del>in</del>oint,a little digression on the subject of 'free' verse,which<lb/>
                   <space quantity="2" unit="char"/>seems now to be almost universal among young poets. Though excellent<lb/>
-                  <space quantity="1" unit="char"/>examples,the poems of <rs type="person" ref="#amp_person_31">D.H.Lawrence</rs>,for example,exist,i<del>n my opinion </del>they are,<unclear>in</unclear> my opinio<unclear>n</unclear><lb/>
+                  <space quantity="1" unit="char"/>examples,the poems of <rs type="person" ref="#amp_person_31">D.H.Lawrence</rs>,for example,exist,i<del>n my opinion </del>they are<handShift new="#handwritten"/>,<unclear>in</unclear> my opinio<unclear>n</unclear><handShift new="#typed"/><lb/>
                   the exception,not the rule. The great virtue of formal metrical rules is<lb/>
                   that they forbid automatic <del>reposnse</del> resp<del>i</del>onses and,by forcing the <del>piet</del> poet<lb/>
                   to have second thoughts,free <del>f</del>him f<del>or</del>rom the fetters of self. All too often,the<lb/>
