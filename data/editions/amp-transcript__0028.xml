@@ -713,7 +713,7 @@ for any purpose, even commercially.</p>
                   <unclear>-1</unclear>2-
                </p>
                <p>
-                  <space quantity="5" unit="char"/>The <rs type="event" ref="#amp_event_id_40">sittingroom seemed to be full of people</rs>. <space quantity="1" unit="char"/><del>-</del><rs type="person" ref="#amp_person_4">Chester</rs> was<lb/>
+                  <space quantity="5" unit="char"/>The <rs type="event" ref="#amp_event_id_2"><rs type="place" ref="#amp_place_id_5">sittingroom</rs> seemed to be full of people</rs>. <space quantity="1" unit="char"/><del>-</del><rs type="person" ref="#amp_person_4">Chester</rs> was<lb/>
                   sitting on the corner-seat facing the door, where <rs type="person" ref="#amp_person_1">Auden</rs> always<lb/>
                   used to sit, every <del>seat</del>chair appeared to be occupied and two young<lb/>
                   men were sitting <del>in the back</del> on the floor. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs> hurried<lb/>
@@ -761,8 +761,8 @@ for any purpose, even commercially.</p>
                   is not wholly clear certain<unclear>k</unclear>formalities are obligatory, and even<lb/>
                   intervention at a high level would not work miracles. <space quantity="1" unit="char"/>Everything<lb/>
                   takes time. <space quantity="1" unit="char"/>And how could anyone expect it of him, the <rs type="person" ref="#amp_person_22">Bürgermeister</rs><unclear>,</unclear><lb/>
-                  that he should refrain from notifying the Ministry and the Cultural<lb/>
-                  department of the Council of the <del>e</del>death of <rs type="person" ref="#amp_person_1">Professor _Auden</rs> ?<space quantity="1" unit="char"/>It<lb/>
+                  that he should refrain from notifying the <rs type="org" ref="#amp_organization_43">Ministry</rs> and the Cultural<lb/>
+                  department of <rs type="org" ref="#amp_organization_44">the Council</rs> of the <del>e</del>death of <rs type="person" ref="#amp_person_1">Professor _Auden</rs> ?<space quantity="1" unit="char"/>It<lb/>
                   was as much as his job was worth. <space quantity="1" unit="char"/>Now <rs type="person" ref="#amp_person_97">Frau Seitz</rs> spoke. <space quantity="1" unit="char"/>The<lb/>
                   inhabitants of <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, she believed, would hardly bury a dog<lb/>
                   in the manner proposed by <rs type="person" ref="#amp_person_4">Herr Kallman</rs>, let alone a great poet.<lb/>
@@ -807,20 +807,20 @@ for any purpose, even commercially.</p>
                   <space quantity="4" unit="char"/>The points at issue were not only When and How Much; <space quantity="1" unit="char"/>there<lb/>
                   was also the matter of the church service and the prayers at the<lb/>
                   graveside. <space quantity="1" unit="char"/>Many people in <rs type="place" ref="#amp_place_id_10">Akustria</rs> had assumed <rs type="person" ref="#amp_person_1">Auden</rs> to be of the<lb/>
-                  Roman Catholic faith; <space quantity="1" unit="char"/>he had of course remained <hi rend="underline"><del>a</del></hi>:<del>s</del>member of the<lb/>
-                  <rs type="org" ref="#amp_organization_4">Anglican and Episcopalian churche<del><unclear>e</unclear></del>s</rs>. <space quantity="1" unit="char"/>The misunderstanding arose<lb/>
+                  <rs type="org" ref="#amp_organization_46">Roman Catholic</rs> faith; <space quantity="1" unit="char"/>he had of course remained <hi rend="underline"><del>a</del></hi>:<del>s</del>member of the<lb/>
+                  <rs type="org" ref="#amp_organization_4">Anglican</rs> and <rs type="org" ref="#amp_organization_45">Episcopalian churche<del><unclear>e</unclear></del>s</rs>. <space quantity="1" unit="char"/>The misunderstanding arose<lb/>
                   from his regular attendance at mass in the parish church and his<lb/>
                   friendly relationship with <rs type="person" ref="#amp_person_109">Father Lustkandl</rs>, the parish priest<lb/>
                   referred to in <rs type="lit_work" ref="#lit_work_id_79">"Whitsunday in Kirchstetten"</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> asked<lb/>
-                  <rs type="person" ref="#amp_person_109">Lustkandl</rs>´s sucessor for permission to be buried in the churchyard,<lb/>
+                  <rs type="person" ref="#amp_person_109">Lustkandl</rs>´s <rs type="person" ref="#amp_person_">sucessor</rs> for permission to be buried in the churchyard,<lb/>
                   and his wish was accede<del>o</del><unclear>d</unclear> to. <space quantity="2" unit="char"/>Evid<del>n</del>ently<unclear>,</unclear> <del>T</del>the next logical thing to do, then,<lb/>
                   was to approach the chaplain to the <rs type="org" ref="#amp_organization_27">British Embassy in Vienna</rs>,´<lb/>
-                  the <rs type="person" ref="#amp_person_159">Revd. Bruce Duncan</rs>, and ask him to officiate. <space quantity="1" unit="char"/>What form of<lb/>
+                  the <rs type="person" ref="#amp_person_156">Revd. Bruce Duncan</rs>, and ask him to officiate. <space quantity="1" unit="char"/>What form of<lb/>
                   service this should be - there could be no question of a funeral<lb/>
                   mass - left everyone present at a loss. <space quantity="1" unit="char"/>We agreed at last that<lb/>
                   it ought to be some kind of ecumenical ceremony held jointly by<lb/>
-                  the two clergymen, but that first of all, the plan must be put<lb/>
-                  before <rs type="person" ref="#amp_person_109"><hi rend="underline">D</hi><del>D</del>r John Auden</rs>.<lb/>
+                  the <rs type="person" ref="#amp_person_ #amp_person_156">two clergymen</rs>, but that first of all, the plan must be put<lb/>
+                  before <rs type="person" ref="#amp_person_88"><hi rend="underline">D</hi><del>D</del>r John Auden</rs>.<lb/>
                   <space quantity="5" unit="char"/>At this juncture <rs type="person" ref="#amp_person_4">Chester Kallman</rs> withdrew his insistence on<lb/>
                   <del>an all too early funeral.</del> <space quantity="1" unit="char"/>the impossibly early date for the<lb/>
                   funeral. <space quantity="1" unit="char"/>The room had become much too warm, the oxygen was<lb/>
@@ -829,7 +829,7 @@ for any purpose, even commercially.</p>
                   free him from our burdensome presence. <space quantity="1" unit="char"/>Once everyone had agreed<lb/>
                   that <rs type="person" ref="#amp_person_1">Auden</rs>´s relations must be told immediately that the <rs type="event" ref="#amp_event_id_19">funeral</rs><lb/>
                   <del>ah</del>had been postponed, the moment had come to dissolve the meeting.<lb/>
-                  Mrs <rs type="person" ref="#amp_person_96">Clark</rs> undertook to telephone to <rs type="place" ref="#amp_place_id_56">London</rs> and <rs type="person" ref="#amp_person_32">Frau Strobl</rs> would<lb/>
+                  <rs type="person" ref="#amp_person_96">Mrs Clark</rs> undertook to telephone to <rs type="place" ref="#amp_place_id_56">London</rs> and <rs type="person" ref="#amp_person_32">Frau Strobl</rs> would<lb/>
                   drive her to the Post Office. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs> asked me to talk everything<lb/>
                   over with <rs type="person" ref="#amp_person_97">Frau Seitz</rs> and <rs type="person" ref="#amp_person_22">Herr Enzinger</rs> and reach definite concl<del>i</del>u-<lb/>
                   sions. <space quantity="1" unit="char"/>We all stood up, <rs type="person" ref="#amp_person_4"><hi rend="underline">C</hi>hester</rs> came across the room to me and<lb/>
@@ -849,28 +849,28 @@ for any purpose, even commercially.</p>
                   or if it was, <rs type="person" ref="#amp_person_4">Chester</rs> had said, <rs type="person" ref="#amp_person_1">Auden</rs> crossed himself.<lb/>
                   <space quantity="5" unit="char"/>At the lowest point in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> where the roads divide<lb/>
                   thr procession halted while the coffin was transferred from the<lb/>
-                  hearse to a hand-drawn bier. <space quantity="1" unit="char"/>At this point the <rs type="org" ref="#amp_organization_4">Church</rs> took charge<lb/>
+                  hearse to a hand-drawn bier. <space quantity="1" unit="char"/>At this point the Church took charge<lb/>
                   and the procession resumed its steady pace; <space quantity="1" unit="char"/>photographs exist<lb/>
                   which were taken during the brief interval.<lb/>
                   <space quantity="5" unit="char"/>To British ears quite unremarkable, the <rs type="event" ref="#amp_event_id_19">ecumenic<del>la</del>al service</rs><lb/>
                   was much ta<del>o</del>Iked about in A<del>ku</del>ustrian circles because nothing of the<lb/>
-                  kind had been known <del>n</del>before. <space quantity="1" unit="char"/>The <rs type="person" ref="#amp_person_156">Revd. Bruce Du<del><unclear>c</unclear></del>ncan</rs>, today <rs type="person" ref="#amp_person_156">Rector<lb/>
-                  of Crediton in Devon</rs>, can remember little <del>more</del> about the general<lb/>
+                  kind had been known <del>n</del>before. <space quantity="1" unit="char"/>The <rs type="person" ref="#amp_person_156">Revd. Bruce Du<del><unclear>c</unclear></del>ncan</rs>, today Rector<lb/>
+                  of Crediton in Devon, can remember little <del>more</del> about the general<lb/>
                   circumstances but confirms that he used the <rs type="lit_work" ref="#lit_work_id_13">Book of Common Prayer</rs><lb/>
-                  and the long reading from the first <del>book</del><rs type="lit_work" ref="#lit_work_id_14 #lit_work_id_15">Letter of <rs type="person" ref="#amp_person_190">St.Paul</rs> to the<lb/>
-                  Corin<del>g</del>thians, chapter 15, verses 20-58</rs>. Beyond that, all he recalls<lb/>
+                  and the long reading from the first <del>book</del><rs type="lit_work" ref="#lit_work_id_14">Letter of <rs type="person" ref="#amp_person_190">St.Paul</rs> to the<lb/>
+                  Corin<del>g</del>thians</rs>, chapter 15, verses 20-58. Beyond that, all he recalls<lb/>
                   <del>is the hysterical behaviour </del> is his difficulties with <rs type="person" ref="#amp_person_4">Chester</rs>.<lb/>
                   <space quantity="5" unit="char"/>Reaching for my <rs type="lit_work" ref="#lit_work_id_82">Authorised Version</rs>, for surely no one would<lb/>
                   have dared to use any other, on second thoughts I also took out the<lb/>
                   <rs type="lit_work" ref="#lit_work_id_12">New Testament</rs> as translated into German by <rs type="person" ref="#amp_person_102">Martin Luther</rs>. <space quantity="1" unit="char"/>After<lb/>
                   reading the English text through ve<del>d</del>ry slowly, and then a second<lb/>
-                  time, I did the same with the Luther<del>n</del>an <rs type="lit_work" ref="#lit_work_id_59">Bible</rs> and lost in thought<lb/>
+                  time, I did the same with the <rs type="lit_work" ref="#lit_work_id_109">Luther<del>n</del>an Bible</rs> and lost in thought<lb/>
                   compared the two, verse by verse.<lb/>
                   <space quantity="5" unit="char"/>"How nice to see you" said <rs type="person" ref="#amp_person_1">Auden</rs> who was sitting on one of the<lb/>
                   white garden chairs with the red covers, "it´s a bit <hi rend="underline">einsam</hi> here.<lb/>
                   And I wanted to write and tell you that the technical word for<lb/>
                   <hi rend="underline">buddle</hi> is <hi rend="underline">Erzwaschtrog</hi>. <space quantity="1" unit="char"/>I hope there is an equivalent German<lb/>
-                  euphemism for <rs type="lit_work" ref="#lit_work_id_57">`senior citizen´</rs>. <space quantity="1" unit="char"/>Oh and <hi rend="underline">adit</hi> is <hi rend="underline">stollen,</hi> and although<lb/>
+                  euphemism for `senior citizen´. <space quantity="1" unit="char"/>Oh and <hi rend="underline">adit</hi> is <hi rend="underline">stollen,</hi> and although<lb/>
                   I may be wrong, I guess <hi rend="underline">concentrating mill</hi> is <hi rend="underline">Vereinigungsmühle.</hi>"<lb/>
                   <space quantity="5" unit="char"/>"What a mercy you´ve told me" I said, relieved. <space quantity="1" unit="char"/>"I should have<lb/>
                   to have dug up such frightful words in the British Council library.<lb/>
@@ -889,13 +889,13 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   star differeth from another in glory."<lb/>
-                  <space quantity="4" unit="char"/>"Ah" he said, "you´ve been reading <rs type="lit_work" ref="#lit_work_id_14">Corinthians One, chapter 15</rs>.<lb/>
+                  <space quantity="4" unit="char"/>"Ah" he said, "you´ve been reading <rs type="lit_work" ref="#lit_work_id_14">Corinthians One</rs>, chapter 15.<lb/>
                   `Let us eat and drink; for tomorrow we die.´ <rs type="person" ref="#amp_person_4">Chester</rs> and I took<lb/>
                   that bidding rather too literally."<lb/>
                   <space quantity="5" unit="char"/>"Who would know where that familiar quotation comes from?"<lb/>
                   I wondered.<lb/>
                   <space quantity="5" unit="char"/>"I would" said <rs type="person" ref="#amp_person_1">Auden</rs>. <space quantity="1" unit="char"/>"I´ve been looking up the German text.<lb/>
-                  Have you ever compared the <rs type="lit_work" ref="#lit_work_id_82">Autho<del>s</del>rized Version</rs> with <rs type="lit_work" ref="#lit_work_id_12">Martin Luther</rs>?"<lb/>
+                  Have you ever compared the <rs type="lit_work" ref="#lit_work_id_82">Autho<del>s</del>rized Version</rs> with <rs type="lit_work" ref="#lit_work_id_109">Martin Luther</rs>?"<lb/>
                   <space quantity="5" unit="char"/>"Funny you should ask that" I said. <space quantity="1" unit="char"/>"It´s one of the things<lb/>
                   I forgot to talk to you about. <space quantity="1" unit="char"/>`Be not deceived: <space quantity="1" unit="char"/>evil<del>,</del>comm<del>ku</del>unica-<lb/>
                   tions corrupt good manners.´ He renders that as `Lasset euch nicht<lb/>
@@ -906,7 +906,7 @@ for any purpose, even commercially.</p>
                   printing the more quotable bits in bold-face. <space quantity="1" unit="char"/>But in the next<lb/>
                   verse <rs type="person" ref="#amp_person_102">Luther</rs> seems to flounder. <space quantity="1" unit="char"/>`Werdet doch einmal recht nüchtern<lb/>
                   und sündiget nicht!´" Do be a bit sober for once, he pleads. <space quantity="1" unit="char"/>And<lb/>
-                  sin not. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_170">King James</rs>´s translators fancied that St Paul cried out<lb/>
+                  sin not. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_170">King James</rs>´s translators fancied that <rs type="person" ref="#amp_person_190">St Paul</rs> cried out<lb/>
                   <del><unclear><del>s</del>S</unclear></del>`Awake to righteousness!"<lb/>
                   <space quantity="5" unit="char"/>"Who knows what he really said."<lb/>
                   <space quantity="5" unit="char"/>"<rs type="person" ref="#amp_person_102">Luther</rs>´s language is very fine as he reaches the clim<del>x</del>ax:<lb/>
@@ -916,8 +916,8 @@ for any purpose, even commercially.</p>
                   in the twinkling of an eye, at the last trump: <space quantity="1" unit="char"/>for the trumpet<lb/>
                   shall sound, and the dead shall be raised incorruptible, and we<lb/>
                   shall be changed.´" <space quantity="1" unit="char"/>And with that he vanished. <space quantity="1" unit="char"/>Now wide awake, I<lb/>
-                  put the two books back on their shelf and settled down to re-type<lb/>
-                  <rs type="person" ref="#amp_person_1">Auden</rs>´s <rs type="event" ref="#amp_event_id_37">speech</rs> at <rs type="place" ref="#amp_place_id_47">Neulengbach</rs>.
+                  put the <rs type="lit_work" ref="#lit_work_id_82 #lit_work_id_109">two books</rs> back on their shelf and settled down to re-type<lb/>
+                  <rs type="person" ref="#amp_person_1">Auden</rs>´s <rs type="lit_work" ref="#lit_work_id_85">speech</rs> at <rs type="place" ref="#amp_place_id_47">Neulengbach</rs>.
                </p>
                <p>
                   Sehr verehrter <rs type="person" ref="#amp_person_22">Herr Landeshauptmann</rs>, Ladies and gentlemen:<lb/>
