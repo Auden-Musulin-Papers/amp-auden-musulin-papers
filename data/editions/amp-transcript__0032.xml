@@ -73,18 +73,24 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_98">Mendelson, Edward</persName>
+               <placeName ref="#amp_place_id_171">39 Claremont Ave, apt 32</placeName>
+               <date notBefore="1980-12-01" notAfter="1980-12-01">1980-12-01</date>
+            </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_2">Mendelson, Edward</persName>
+               <persName ref="#amp_person_98">Mendelson, Edward</persName>
                <placeName ref="#amp_place_id_171">39 Claremont Ave, apt 32</placeName>
                <date>unknown</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>unknown</placeName>
+               <placeName ref="#amp_place_id_172">Schlösselgasse 8/17</placeName>
                <date>unknown</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_98">Mendelson, Edward</ref>
                <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0061.xml">Typed Letter Signed Stella Musulin to Wolfgang Kraus 1977-04-05</ref>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0033.xml">Aerogram Signed Edward Mendelson to Stella Musulin 1981-11-21</ref>
             </correspContext>
@@ -97,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-12-06">text transcribed using Transkribus</change>
          <change who="smayer tfruehwirth" when="2021-12-06">transcriptions collated</change>
          <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-23">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

@@ -73,6 +73,11 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_19">Hubertusbaderstrasse 43</placeName>
+               <date notBefore="1965-03-14" notAfter="1965-03-14">1965-03-14</date>
+            </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
                <placeName ref="#amp_place_id_19">Hubertusbaderstrasse 43</placeName>
@@ -90,6 +95,7 @@ for any purpose, even commercially.</p>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
                <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0002.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23</ref>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0039.xml">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-04-28 and with Typescript W. H. Auden Translation "Joseph Weinheber"</ref>
             </correspContext>
@@ -102,6 +108,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-12-20">text transcribed using Transkribus</change>
          <change who="smayer tfruehwirth" when="2021-12-21">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-23">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

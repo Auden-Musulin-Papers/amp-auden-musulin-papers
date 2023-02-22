@@ -73,6 +73,11 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_99">O'Sullivan, Michael</persName>
+               <placeName ref="#amp_place_id_173">22, Kildare Street</placeName>
+               <date notBefore="1984-05-31" notAfter="1984-05-31">1984-05-31</date>
+            </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_99">O'Sullivan, Michael</persName>
                <placeName ref="#amp_place_id_173">22, Kildare Street</placeName>
@@ -85,6 +90,7 @@ for any purpose, even commercially.</p>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_99">O'Sullivan, Michael</ref>
                <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0033.xml">Aerogram Signed Edward Mendelson to Stella Musulin 1981-11-21</ref>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0036.xml">Autograph Note Michael O'Sullivan to Stella Musulin 1984-08-15</ref>
             </correspContext>
@@ -97,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-12-16">text transcribed using Transkribus</change>
          <change who="smayer tfruehwirth" when="2021-12-16">transcriptions collated</change>
          <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-23">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
