@@ -153,9 +153,9 @@ for any purpose, even commercially.</p>
                   and I am very grateful to you for sharing those memories with me.  Plans for<lb/>
                   the <rs type="event" ref="#amp_event_id_21">Auden Exhibition in the <rs type="place" ref="#amp_place_id_223">Kunstlerhaus</rs></rs> are now very far advanced.  I have<lb/>
                   put togther a complete collection of <rs type="person" ref="#amp_person_1">Auden</rs>'s first editions, selections from<lb/>
-                  his contributions to periodicals, representative anthologies, his films for<lb/>
-                  the <rs type="org" ref="#amp_organization_19">G.P.O Film Unit</rs>, many items connected with his work for the <rs type="org" ref="#amp_organization_33">Group Theatre</rs>,<lb/>
-                  all the opera libretti, <del>his</del><rs type="person" ref="#amp_person_136">Britten</rs>'s arrangements of his poems and many other items.<lb/>
+                  his contributions to periodicals, representative anthologies, <rs type='lit_work' ref="#lit_work_id_121 #lit_work_id_122">his films for<lb/>
+                  the <rs type="org" ref="#amp_organization_19">G.P.O Film Unit</rs></rs>, many items connected with his work for the <rs type="org" ref="#amp_organization_33">Group Theatre</rs>,<lb/>
+                  <rs type='lit_work' ref="#lit_work_id_16 #lit_work_id_17 #lit_work_id_18 #lit_work_id_20 #lit_work_id_21 #lit_work_id_22 #lit_work_id_23 #lit_work_id_24 #lit_work_id_25">all the opera libretti</rs>, <del>his</del><rs type='lit_work' ref="#lit_work_id_123"><rs type="person" ref="#amp_person_136">Britten</rs>'s arrangements of his poems</rs> and many other items.<lb/>
                   I have also arranged for various portraits of <rs type="person" ref="#amp_person_1">Auden</rs> to be sent to <rs type="place" ref="#amp_place_id_1">Vienna</rs> ; they<lb/>
                   include <rs type="person" ref="#amp_person_123">Sir William Coldstream</rs><unclear>'</unclear>s 1937 portrait, a portrait by <rs type="person" ref="#amp_person_124">Mervyn Peake</rs> painted<lb/>
                   in the same year, two drawings by <rs type="person" ref="#amp_person_125">Maurice Field</rs> and a portrait by <rs type="person" ref="#amp_person_126">Don Bachardy</rs>.<lb/>
@@ -164,7 +164,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="21" unit="char"/><rs type="person" ref="#amp_person_8">Stephen Spender</rs> has agreed to come to <rs type="place" ref="#amp_place_id_1">Vienna</rs> during the<lb/>
-                  period of the Exhibition - that is 11th October to 3rd November. <space quantity="1" unit="char"></space><rs type="person" ref="#amp_person_100">Humphrey<lb/>
+                  period of <rs type="event" ref="#amp_event_id_21">the Exhibition</rs> - that is 11th October to 3rd November. <space quantity="1" unit="char"></space><rs type="person" ref="#amp_person_100">Humphrey<lb/>
                   Carpenter</rs> will lecture on <rs type="person" ref="#amp_person_1">Auden</rs> at the invitation of the <rs type="org" ref="#amp_organization_16">British Council</rs>, so it<lb/>
                   all promises to be a splendid celebration of <rs type="person" ref="#amp_person_1">Auden</rs>'s life and work.
                </p>
