@@ -81,11 +81,11 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <persName ref="#amp_person_98">Mendelson, Edward</persName>
                <placeName ref="#amp_place_id_171">39 Claremont Ave, apt 31</placeName>
-               <date>unknown</date>
+               <date notBefore="1980-11-23" notAfter="1980-11-23">1980-11-23</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>unknown</placeName>
+               <placeName ref="#amp_place_id_172">Schlösselgasse 8/17</placeName>
                <date>unknown</date>
             </correspAction>
             <correspContext>
@@ -119,7 +119,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0229/" type="sheet"/>
                <p>
-                  <space quantity="45" unit="char"/><rs type="place" ref="#amp_place_id_171">39 Claremont Ave, apt 31<lb/>
+                  <space quantity="45" unit="char"/><rs type="place" ref="#amp_place_id_248">39 Claremont Ave, apt 31<lb/>
                   <space quantity="45" unit="char"/>New York NY  10027</rs><lb/>
                </p>
                <p>
@@ -132,20 +132,20 @@ for any purpose, even commercially.</p>
                   Delighted you got that <rs type="lit_work" ref="#lit_work_id_49">EARLY AUDEN</rs>, and even more delighted you find<lb/>
                   it worth looking into. <space quantity="1" unit="char"/><del>As I suppose you've experienced yourself,</del>Is it a universal experience among authors to<lb/>
                   be surprised that someone actually reads one's book?  I'm so familiar<lb/>
-                  with the thing by now, and so aware of its deficiencies, that I wish<lb/>
-                  I could recall the edition and rewrite the whole <del>thing from</del>book from the start.<lb/>
+                  with <rs type="lit_work" ref="#lit_work_id_49">the thing</rs> by now, and so aware of its deficiencies, that I wish<lb/>
+                  I could recall the edition and rewrite <rs type="lit_work" ref="#lit_work_id_49">the whole <del>thing from</del>book</rs> from the start.<lb/>
                   Luckily, t<del>h</del>eaching, reviewing and miscellaneous annoyances keep the<lb/>
                   mind elsewhere. <space quantity="1" unit="char"/>One of those miscellaneous annoy<del><gap reason="deleted"/></del>ances was a move<lb/>
-                  from my o<del>d</del>ld flat to an<del>t</del>other one on the same floor in the same building.<lb/>
-                  The new address is up above, and the only change is in the apartment<lb/>
+                  from <rs type="place" ref="#amp_place_id_171">my o<del>d</del>ld flat</rs> to <rs type="place" ref="#amp_place_id_248">an<del>t</del>other one</rs> on the same floor in the same building.<lb/>
+                  The <rs type="place" ref="#amp_place_id_171">new address</rs> is up above, and the only change is in the apartment<lb/>
                   number. <space quantity="1" unit="char"/>Phone number still 212 222-0679.
                </p>
                <p>
-                  Yes, I saw the you<del>g</del>ng man who was doing advance work f<del>ro</del>or <rs type="person" ref="#amp_person_158">Robert Robinson</rs>,<lb/>
-                  but haven't heard from him since July. <space quantity="1" unit="char"/>I gather <del>wor</del>that work progresses,<lb/>
-                  though. <space quantity="1" unit="char"/>There was an hour on <rs type="person" ref="#amp_person_1">Wystan</rs> on <rs type="org" ref="#amp_organization_28">BBC</rs> <hi rend="underline"></hi>Radio the other week--a<lb/>
+                  Yes, I saw the <rs type="person" ref="#amp_person_">you<del>g</del>ng man</rs> who was doing advance work f<del>ro</del>or <rs type="person" ref="#amp_person_158">Robert Robinson</rs>,<lb/>
+                  but haven't heard from him since July. <space quantity="1" unit="char"/>I gather <rs type="lit_work" ref="#lit_work_id_118"><del>wor</del>that work</rs> progresses,<lb/>
+                  though. <space quantity="1" unit="char"/>There was <rs type="lit_work" ref="#lit_work_id_119">an hour on <rs type="person" ref="#amp_person_1">Wystan</rs> on <rs type="org" ref="#amp_organization_28">BBC</rs> <hi rend="underline"></hi>Radio</rs> the other week--a<lb/>
                   "dramatization" with an actor reading the poems and lots of ominous<lb/>
-                  <space quantity="1" unit="char"/>noises off. <space quantity="1" unit="char"/>I'm told it was fairly dreadful, but perh<del><gap reason="deleted"/></del>aps the TV film<lb/>
+                  <space quantity="1" unit="char"/>noises off. <space quantity="1" unit="char"/>I'm told it was fairly dreadful, but perh<del><gap reason="deleted"/></del>aps <rs type="lit_work" ref="#lit_work_id_118">the TV film</rs><lb/>
                   will be better. <space quantity="1" unit="char"/>I saw quite a good one from the <rs type="org" ref="#amp_organization_28">BBC</rs> on <rs type="person" ref="#amp_person_136">Benjamin Britten</rs>.<lb/>
                   Its only fault--and I'm not sure <del><gap reason="deleted"/></del>this was a fault, given the usual tone<lb/>
                   of TV journalism--was an awed tone of worship.

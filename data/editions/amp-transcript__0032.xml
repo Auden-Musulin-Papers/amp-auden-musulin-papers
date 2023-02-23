@@ -81,7 +81,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <persName ref="#amp_person_98">Mendelson, Edward</persName>
                <placeName ref="#amp_place_id_171">39 Claremont Ave, apt 32</placeName>
-               <date>unknown</date>
+               <date notBefore="1980-12-02" notAfter="1980-12-02">1980-12-02</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
@@ -133,32 +133,32 @@ for any purpose, even commercially.</p>
                   I just got back from a month in <rs type="place" ref="#amp_place_id_293">England</rs> to find your letter.  I was<lb/>
                   rather worried as to how you were, and am delighted to hear that<lb/>
                   you're on the ascent after a "decline." <space quantity="1" unit="char"/>I'm also abashed not to have<lb/>
-                  been in touch with you before about the collapse of our four-memoir<lb/>
-                  book, but the whole thing has been farcical and uncertain. <space quantity="1" unit="char"/>Here are<lb/>
+                  been in touch with you before about the collapse of <rs type="lit_work" ref="#lit_work_id_117">our four-memoir<lb/>
+                  book</rs>, but the whole thing has been farcical and uncertain. <space quantity="1" unit="char"/>Here are<lb/>
                   the basics. <space quantity="1" unit="char"/>First, there should be no need to repay any of the<lb/>
                   advance (I haven't spoken with <rs type="org" ref="#amp_organization_12">Random House</rs> about this, except with<lb/>
                   an ill-informed assitant, but there shouldn't be any problem), and<lb/>
-                  second, I hope you haven't gone out of your way to work on the thing<lb/>
+                  second, I hope you haven't gone out of your way to work on <rs type="lit_work" ref="#lit_work_id_47">the thing</rs><lb/>
                   again. <space quantity="1" unit="char"/>The structure collapsed in two or three stages. <space quantity="1" unit="char"/>First <rs type="person" ref="#amp_person_114">Lincoln<lb/>
                   Kirstein</rs> read the forthcoming <rs type="lit_work" ref="#lit_work_id_39">biography</rs> by <rs type="person" ref="#amp_person_100">Humphrey Carpenter</rs> (not bad,<lb/>
                   not spectacularly good), and decided he didn't know enough <rs type="person" ref="#amp_person_1">Auden</rs> to<lb/>
                   add new facts, that he wasn't really worthy to be a memoirist, etc.<lb/>
                   None of this has any truth, but <rs type="person" ref="#amp_person_114">Kirstein</rs> is not a person to argue with.<lb/>
-                  He managed to persuade me, in September, that the book should at least<lb/>
+                  He managed to persuade me, in September, that <rs type="lit_work" ref="#lit_work_id_117">the book</rs> should at least<lb/>
                   be left to stew for a while. <space quantity="1" unit="char"/>Then <rs type="person" ref="#amp_person_8">Spender</rs> finally sent in a first<lb/>
                   draft of his piece, which, between us, was a disaster. <space quantity="1" unit="char"/>At this time<lb/>
                   <rs type="person" ref="#amp_person_120">Charles Monteith</rs> had a look at it, and agreed. <space quantity="1" unit="char"/>When I saw <rs type="person" ref="#amp_person_120">Charles</rs><lb/>
-                  in <rs type="place" ref="#amp_place_id_56">London</rs> a couple of weeks ago, we formally let the thing drop, and<lb/>
+                  in <rs type="place" ref="#amp_place_id_56">London</rs> a couple of weeks ago, we formally let <rs type="lit_work" ref="#lit_work_id_117">the thing</rs> drop, and<lb/>
                   I think he already wrote you about it.
                </p>
                <p>
-                  I still think your piece is first-rate (the copyright is yours, by the<lb/>
+                  I still think <rs type="lit_work" ref="#lit_work_id_47">your piece</rs> is first-rate (the copyright is yours, by the<lb/>
                   way), and I hope you'll publish it, perhaps with a word or two of<lb/>
                   information from <rs type="person" ref="#amp_person_121">Christa Esders</rs> if that's possible. <space quantity="1" unit="char"/>(Did you learn<lb/>
-                  anything from her??) <space quantity="1" unit="char"/>If you want me to try to place it in this country,<lb/>
+                  anything from her??) <space quantity="1" unit="char"/>If you want me to try to place it in <rs type="place" ref="#amp_place_id_15">this country</rs>,<lb/>
                   I'll do my best with it. <space quantity="1" unit="char"/>Do let me know. <space quantity="1" unit="char"/>I feel very sorry that you<lb/>
                   went to all this trouble for--up to now--nothing, and for many reasons<lb/>
-                  I should like to see the piece in print.
+                  I should like to see <rs type="lit_work" ref="#lit_work_id_47">the piece</rs> in print.
                </p>
                <p>
                   No, I haven't got to <rs type="place" ref="#amp_place_id_1">Vienna</rs> for five years now, and couldn't afford<lb/>
@@ -168,8 +168,8 @@ for any purpose, even commercially.</p>
                   is 212 222-0679 if there's ever a reason to need it.
                </p>
                <p>
-                  Please do forgive me for the muddle over the book. <space quantity="1" unit="char"/>And please do keep<lb/>
-                  in touch. <space quantity="1" unit="char"/>Incidentally I finished that critical book--to be published<lb/>
+                  Please do forgive me for the muddle over <rs type="lit_work" ref="#lit_work_id_117">the book</rs>. <space quantity="1" unit="char"/>And please do keep<lb/>
+                  in touch. <space quantity="1" unit="char"/>Incidentally I finished that <rs type="lit_work" ref="#lit_work_id_49">critical book</rs>--to be published<lb/>
                   in the spring--after doing nothing but work on it for a year. <space quantity="1" unit="char"/>My "summer"<lb/>
                   trip to <rs type="place" ref="#amp_place_id_93">England</rs> got postponed to November while I revised.
                </p>
