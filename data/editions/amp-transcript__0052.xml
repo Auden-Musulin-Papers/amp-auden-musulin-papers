@@ -124,8 +124,8 @@ for any purpose, even commercially.</p>
                   <space quantity="6" unit="char"/>Sie behaupten, dass ich ein 'materielles Interesse' an<lb/>
                   <rs type="place" ref="#amp_place_id_10">Österreich</rs> habe, womit Sie vermutlich ein 'finanziell<unclear>e</unclear>s' In-<lb/>
                   teresse meinen. Das könnte nur da<unclear>nn</unclear> möglicherweise richtig sein,<lb/>
-                  wenn ich mir sagen müsste :'Ich muss nach Österreich gehen,<lb/>
-                  weil ich nur in Österreich arbeiten kann!. Das ist aber nicht<lb/>
+                  wenn ich mir sagen müsste :'Ich muss nach <rs type="place" ref="#amp_place_id_10">Österreich</rs> gehen,<lb/>
+                  weil ich nur in <rs type="place" ref="#amp_place_id_10">Österreich</rs> arbeiten kann!. Das ist aber nicht<lb/>
                   der Fall. Ich habe an vielen Orten und in den verschiedensten<lb/>
                   Ländern gelebt, und war imstande, zu arbeiten, wo immer ich<lb/>
                   auch war.<lb/>
@@ -176,7 +176,7 @@ for any purpose, even commercially.</p>
                   <space quantity="8" unit="char"/>1964 wiederum habe ich ein Gedicht mit dem Titel<lb/>
                   <space quantity="8" unit="char"/><rs type="lit_work" ref="#lit_work_id_79">'Pfingstsonntag in Kirchstetten'</rs> geschrieben, weil ich<lb/>
                   <space quantity="8" unit="char"/>mich zuf<del>ü</del>ällig dort aufhielt. Aber der Ort ist unwichtig.<lb/>
-                  <space quantity="8" unit="char"/>In Wahrheit geht es in diesem Gedicht um die Frage :<lb/>
+                  <space quantity="8" unit="char"/>In Wahrheit geht es in <rs type="lit_work" ref="#lit_work_id_79">diesem Gedicht</rs> um die Frage :<lb/>
                   <space quantity="8" unit="char"/>Worin besteht für einen Christen die Bedeutung des Pente-<lb/>
                   <space quantity="8" unit="char"/><del><gap reason="deleted"/></del>cost-Festes'. Und dies gilt für alle Länder auf gle<del><unclear>u</unclear></del>iche Art.
                </p>
@@ -195,7 +195,7 @@ for any purpose, even commercially.</p>
                   <space quantity="11" unit="char"/>grösste Tei<del><gap reason="deleted"/></del>l meines Einkommens nicht aus dem Verkauf<lb/>
                   <space quantity="11" unit="char"/>meiner Gedichtbände, sondern aus Buchrezensionen,<lb/>
                   <space quantity="11" unit="char"/>Übersetzungen, Vorträgen, usw., Tätigk<del>w</del>eiten, die mit<lb/>
-                  <space quantity="11" unit="char"/>Österreich nichts zu<unclear><del><gap reason="deleted"/></del></unclear> tun haben. Und wenn schon vom<lb/>
+                  <space quantity="11" unit="char"/><rs type="place" ref="#amp_place_id_10">Österreich</rs> nichts zu<unclear><del><gap reason="deleted"/></del></unclear> tun haben. Und wenn schon vom<lb/>
                   <space quantity="11" unit="char"/>Übersetzen die Rede ist : Sie sagen wahrheitsgemäss,<lb/>
                   <space quantity="11" unit="char"/>dass ich ein grosses Interesse an deutscher und öster-<lb/>
                   <space quantity="11" unit="char"/>reichischer Literatur habe - ich darf hinzufü<del><unclear>f</unclear></del>gen, auch<lb/>
@@ -221,7 +221,7 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="5" unit="char"/>Sie fragen, weshalb ich <del>die</del>me<unclear>i</unclear>ne Hälfte <del>meines</del><unclear>uns</unclear>ere<unclear>s</unclear> Besitzes<lb/>
                   in Kirchstetten an Mr <rs type="person" ref="#amp_person_4">Chester Kallmann</rs> überschrieben habe,<lb/>
-                  der ja nicht mit mir verwandt ist. Mr <rs type="person" ref="#amp_person_4">Kallmann</rs> ist mein<lb/>
+                  der ja nicht mit mir verwandt ist. <rs type="person" ref="#amp_person_4">Mr Kallmann</rs> ist mein<lb/>
                   Erbe. Ich habe keine Kinder und er ist seit Jahren mein<lb/>
                   literarischer Mitarbeiter. Wir haben gemeinsam fünf<lb/>
                   neue Opernlibretti verfasst, <rs type="lit_work" ref="#lit_work_id_16">'The Rake's Progress'</rs>, <rs type="lit_work" ref="#lit_work_id_17">'Elegy<lb/>

@@ -118,7 +118,7 @@
                     Frau<lb/>
                     <rs type="person" ref="#amp_person_2">Stella von Musulin</rs><lb/>
                     <rs type="place" ref="#amp_place_id_7">Friedau<lb/>
-                        3200 Obergrafendorf</rs>
+                    3200 Obergrafendorf</rs>
                 </p>
                 <p>
                     <space quantity="34" unit="char"/><rs type="place" ref="#amp_place_id_1">Wien</rs>, 22.März 1977
@@ -127,7 +127,7 @@
                     Sehr verehrte, liebe <rs type="person" ref="#amp_person_2">gnädige Frau</rs>,
                 </p>
                 <p>
-                    wie mit Frau <rs type="person" ref="#amp_person_135">Bronold</rs> mündlich vereinbart, möchte ich nun<lb/>
+                    wie mit <rs type="person" ref="#amp_person_135">Frau Bronold</rs> mündlich vereinbart, möchte ich nun<lb/>
                     auch schriftlich festhalten, daß wir Sie sehr herzlich<lb/>
                     einladen, Ihren <rs type="event" ref="#amp_event_id_23">Vortrag über <rs type="person" ref="#amp_person_15">W.H.Auden</rs></rs> am Donnerstag, den<lb/>
                     5.Mai, bei uns zu halten. Wir haben dafür den <rs type="place" ref="#amp_place_id_212">Figaro-Saal</rs><lb/>
