@@ -80,6 +80,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-12-20">text transcribed using Transkribus</change>
          <change who="smayer tfruehwirth" when="2021-12-20">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-10">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-28">entities collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -109,7 +110,7 @@ for any purpose, even commercially.</p>
                   geführt.<lb/>
                   <space quantity="5" unit="char"/>Ja, ja, es muss gesagt werden, Machthaber, Männer grossen<lb/>
                   Unheils und Übelwollens, nahmen dich auf; <space quantity="1" unit="char"/>für wie lang, doch,<lb/>
-                  wickelten sie dich ein, dich, der auf Goebbels Angebot von Kultur<lb/>
+                  wickelten sie dich ein, dich, der auf <rs type="person" ref="#amp_person_196">Goebbel</rs>s Angebot von Kultur<lb/>
                   "In Ruah lassen!" entgegnetest? <space quantity="1" unit="char"/>Aber Krethi und Plethi ziehen<lb/>
                   einen Stunk vor, und die Jungen verdammen dich ungelesen.<lb/>
                   <space quantity="5" unit="char"/>Was wohl würde dir, dem Österreicher, dem Dichter, dein Herz<lb/>
@@ -148,8 +149,8 @@ for any purpose, even commercially.</p>
                   rasch zunehmenden Farbtönen bis zum ungestümen Herbst, wenn bei<lb/>
                   jedem stotternden Windstoss Äpfel auf den Boden plumpsen.<lb/>
                   <space quantity="4" unit="char"/><unclear>W</unclear>enn ich über unser Tal - human bescheiden und sanft im Umris<lb/>
-                  schaue, in dem der Sichelbach westwärts gurgelt, um sich mit der<lb/>
-                  Perschling zu vereinigen, bin ich mir bedeutenderen Nachbarn<lb/>
+                  schaue, in dem der <rs type="place" ref="#amp_place_id_252">Sichelbach</rs> westwärts gurgelt, um sich mit der<lb/>
+                  <rs type="place" ref="#amp_place_id_251">Perschling</rs> zu vereinigen, bin ich mir bedeutenderen Nachbarn<lb/>
                   ehrfürchtig bewusst, der Berge, die hinter mir aufragen, vor mi<lb/>
                   des noblen Flusses,<lb/>
                   <space quantity="4" unit="char"/>doch möcht ich auch dir Achtung erweisen, Nachbar und Kolle<lb/>

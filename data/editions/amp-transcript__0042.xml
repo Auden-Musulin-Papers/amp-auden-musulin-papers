@@ -103,7 +103,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-11-04">text transcribed using Transkribus</change>
          <change who="smayer tfruehwirth" when="2021-11-09">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
-         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-23">entities and correspDesc collated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-28">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -166,36 +166,36 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0104/" type="sheet"/>
                <p>
-                  <rs type="lit_work" ref="#lit_work_id_58"><hi rend="underline">ELEGY</hi></rs><lb/>
+                  <rs type="lit_work" ref="#lit_work_id_58"><hi rend="underline">ELEGY</hi><lb/>
                   (<hi rend="underline">In Memoriam <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></hi>. <del>ob</del><lb/>
-                  <hi rend="underline">ob.Nov 4th,I967)</hi>
+                  <hi rend="underline">ob.Nov 4th,I967)</hi></rs>
                </p>
                <lg>
                   <l><hi rend="underline">Liebe <rs type="person" ref="#amp_person_16">Frau Emma</rs></hi>,</l>
                   <l><hi rend="underline">na,was hast Du denn gemacht?</hi></l>
                   <l>You who always made</l>
                   <l>such conscience of our comfort,</l>
-                  <l>Oh,how could you go and die,</l>
+                  <l>Oh,how could you go and <rs type="event" ref="#amp_event_id_1">die</rs>,</l>
                   <l>as if you didn't know</l>
                   <l>that in a permissive age,</l>
                   <l>so rife with envy,</l>
                   <l>a housekeeper is harder</l>
                   <l>to replace than a lover,</l>
-                  <l>and die,too,when we</l>
+                  <l>and <rs type="event" ref="#amp_event_id_1">die</rs>,too,when <rs type="person" ref="#amp_person_1 #amp_person_4">we</rs></l>
                   <l>were thousands of miles away,</l>
                   <l>leaving no one there</l>
                   <l>to prune and transplant before</l>
                   <l>the winter cold should set in.</l>
                   <l>Good witch that you were,</l>
                   <l><del>S</del>surely you should have foreseen</l>
-                  <l>the doom that your death</l>
-                  <l>would spell for your cats and ours:</l>
+                  <l>the doom that <rs type="event" ref="#amp_event_id_1">your death</rs></l>
+                  <l>would spell for your cats and <rs type="person" ref="#amp_person_1 #amp_person_4">ours</rs>:</l>
                   <l>all had to be put away.</l>
                   <l>You came with the house,</l>
                   <l>you and your brother <rs type="person" ref="#amp_person_17">Josef</rs>,</l>
                   <l><del>Sudeten deutsche,</del> <hi rend="underline">Sudetendeutsche</hi>,</l>
-                  <l>made homeless paupers when Czechs</l>
-                  <l>got their turn to be brutal:</l>
+                  <l>made homeless paupers when <rs type="event" ref="#amp_event_id_42">Czechs</rs></l>
+                  <l><rs type="event" ref="#amp_event_id_42">got their turn to be brutal</rs>:</l>
                   <l>but catastrophe</l>
                   <l>had failed to modernise you,</l>
                   <l>Child of the Old World,</l>
@@ -207,7 +207,7 @@ for any purpose, even commercially.</p>
                   <l>well tendered and observed by</l>
                   <l>loyal but critical eyes.</l>
                   <l>From the first,I think,</l>
-                  <l>you liked us but to the last</l>
+                  <l>you liked <rs type="person" ref="#amp_person_1 #amp_person_4">us</rs> but to the last</l>
                   <l>assumed most callers</l>
                   <l>knocked with some evil intent</l>
                   <l>(now and again you were right).</l>
@@ -231,9 +231,9 @@ for any purpose, even commercially.</p>
                   <l>But when in good form,</l>
                   <l>how enchanting your shy grin,</l>
                   <l>your soft cat-language:</l>
-                  <l>no,no,Frau <rs type="person" ref="#amp_person_16">E</rs>,dear oddling,</l>
-                  <l>we shall always be grateful.</l>
-                  <l>After <rs type="person" ref="#amp_person_17">Josef</rs> died</l>
+                  <l>no,no,<rs type="person" ref="#amp_person_16">Frau E</rs>,<rs type="person" ref="#amp_person_16">dear oddling</rs>,</l>
+                  <l><rs type="person" ref="#amp_person_1 #amp_person_4">we</rs> shall always be grateful.</l>
+                  <l><rs type="event" ref="#amp_event_id_51">After <rs type="person" ref="#amp_person_17">Josef</rs> died</rs></l>
                   <l>(siblings can live in a bond</l>
                   <l>as close as wedlock),</l>
                   <l>you were all amort,your one</l>
