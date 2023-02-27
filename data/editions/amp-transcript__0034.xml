@@ -103,7 +103,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-12-16">text transcribed using Transkribus</change>
          <change who="smayer tfruehwirth" when="2021-12-16">transcriptions collated</change>
          <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
-         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-23">entities and correspDesc collated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-27">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -122,8 +122,8 @@ for any purpose, even commercially.</p>
                   <rs type="org" ref="#amp_organization_31">UNIVERSITY OF DUBLIN</rs>
                </p>
                <p hand="#printed">
-                  <rs type="org" ref="#amp_organization_32">TRINITY COLLEGE<lb/>
-                  DUBLIN 2</rs>
+                  <rs type="org" ref="#amp_organization_32">TRINITY COLLEGE</rs><lb/>
+                  DUBLIN 2
                </p>
                <p>
                   <space quantity="60" unit="char"/>Home address :<lb/>
@@ -155,12 +155,12 @@ for any purpose, even commercially.</p>
                   put togther a complete collection of <rs type="person" ref="#amp_person_1">Auden</rs>'s first editions, selections from<lb/>
                   his contributions to periodicals, representative anthologies, <rs type='lit_work' ref="#lit_work_id_121 #lit_work_id_122">his films for<lb/>
                   the <rs type="org" ref="#amp_organization_19">G.P.O Film Unit</rs></rs>, many items connected with his work for the <rs type="org" ref="#amp_organization_33">Group Theatre</rs>,<lb/>
-                  <rs type='lit_work' ref="#lit_work_id_16 #lit_work_id_17 #lit_work_id_18 #lit_work_id_20 #lit_work_id_21 #lit_work_id_22 #lit_work_id_23 #lit_work_id_24 #lit_work_id_25">all the opera libretti</rs>, <del>his</del><rs type='lit_work' ref="#lit_work_id_123"><rs type="person" ref="#amp_person_136">Britten</rs>'s arrangements of his poems</rs> and many other items.<lb/>
+                  <rs type='lit_work' ref="#lit_work_id_16 #lit_work_id_17 #lit_work_id_18 #lit_work_id_20 #lit_work_id_21 #lit_work_id_22 #lit_work_id_23 #lit_work_id_24 #lit_work_id_25">all the opera libretti</rs>, <del>his</del><rs type="person" ref="#amp_person_136">Britten</rs>'s arrangements of his poems and many other items.<lb/>
                   I have also arranged for various portraits of <rs type="person" ref="#amp_person_1">Auden</rs> to be sent to <rs type="place" ref="#amp_place_id_1">Vienna</rs> ; they<lb/>
                   include <rs type="person" ref="#amp_person_123">Sir William Coldstream</rs><unclear>'</unclear>s 1937 portrait, a portrait by <rs type="person" ref="#amp_person_124">Mervyn Peake</rs> painted<lb/>
                   in the same year, two drawings by <rs type="person" ref="#amp_person_125">Maurice Field</rs> and a portrait by <rs type="person" ref="#amp_person_126">Don Bachardy</rs>.<lb/>
                   I have also managed to get 26 lithographs by <rs type="person" ref="#amp_person_82">Henry Moore</rs> which he did in 1973 to<lb/>
-                  illustrate a selection of <rs type="person" ref="#amp_person_1">Auden</rs>'s poems.
+                  illustrate <rs type="lit_work" ref="#lit_work_id_123">a selection of <rs type="person" ref="#amp_person_1">Auden</rs>'s poems</rs>.
                </p>
                <p>
                   <space quantity="21" unit="char"/><rs type="person" ref="#amp_person_8">Stephen Spender</rs> has agreed to come to <rs type="place" ref="#amp_place_id_1">Vienna</rs> during the<lb/>
@@ -173,7 +173,7 @@ for any purpose, even commercially.</p>
                   in <rs type="place" ref="#amp_place_id_1">Vienna</rs> in March but alas I was at the mercy of my friends who have cars and,<lb/>
                   as luck would have it,they were all so busy at various things I was left stranded in<lb/>
                   <rs type="place" ref="#amp_place_id_1">Vienna</rs> throughout my brief visit.  However I shall be spending September, October<lb/>
-                  and November in <rs type="place" ref="#amp_place_id_100">Austria</rs> and I very much look forward to seeing you then.
+                  and November in <rs type="place" ref="#amp_place_id_10">Austria</rs> and I very much look forward to seeing you then.
                </p>
                <p>
                   <space quantity="21" unit="char"/>I had a letter from <rs type="person" ref="#amp_person_98">Edward Mendelson</rs> yesterday and he asked<lb/>
