@@ -73,18 +73,24 @@
             </langUsage>
             
             <correspDesc>
+                <correspAction type="composed">
+                    <persName ref="#amp_person_2">Musulin, Stella</persName>
+                    <placeName>uknown</placeName>
+                    <date>unknown</date>
+                </correspAction>
                 <correspAction type="sent">
                     <persName ref="#amp_person_2">Musulin, Stella</persName>
-                    <placeName>uknown4</placeName>
+                    <placeName>uknown</placeName>
                     <date>unknown</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#amp_person_151">Silbermann. Edith</persName>
+                    <persName ref="#amp_person_151">Silbermann Edith</persName>
                     <placeName>unknown</placeName>
                     <date>unknown</date>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+                    <ref type="belongsToCorrespondence" target="#amp_person_151">Silbermann Edith</ref>
                     <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0060.xml">Typed Letter Wolfgang Kraus to Stella Musulin 1977-03-22</ref>
                 </correspContext>
             </correspDesc>
@@ -96,6 +102,7 @@
             <change who="tfruehwirth" when="2021-12-15">text transcribed using Transkribus</change>
             <change who="smayer tfruehwirth" when="2021-12-15">transcriptions collated</change>
             <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
+            <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -212,7 +219,7 @@
                     <rs type="person" ref="#amp_person_2">Dir</rs> gern Zeugnisse, daß es Menschen gibt - Österreicher! - dem<lb/>
                     die nötigen Eigenschaften, die Zutaten aus dem ein Faschist<lb/>
                     geformt werden kann, gänzlich fehlen. <space quantity="1" unit="char"/>Plötzlich sagte <rs type="person" ref="#amp_person_54">er</rs> <rs type="person" ref="#amp_person_2">mir</rs><lb/>
-                    <del>stah</del> strahlend: <space quantity="1" unit="char"/>"<rs type="person" ref="#amp_person_4" xml:id="chka">Kallman</rs> hat <rs type="person" ref="#amp_person_54">mir</rs> <rs type="person" ref="#amp_person_54" subtype="reference">er</rs><del>äz</del>zählt, <rs type="person" ref="#amp_person_4">seine</rs> Vorfahren<lb/>
+                    <del>stah</del> strahlend: <space quantity="1" unit="char"/>"<rs type="person" ref="#amp_person_4">Kallman</rs> hat <rs type="person" ref="#amp_person_54">mir</rs> er<del>äz</del>zählt, <rs type="person" ref="#amp_person_4">seine</rs> Vorfahren<lb/>
                     waren Juden aus <rs type="place" ref="#amp_place_id_176">Riga</rs>... Juden aus <hi rend="underline"><rs type="place" ref="#amp_place_id_176">Riga</rs></hi>." <space quantity="1" unit="char"/>Aus irgend einen Grund<lb/>
                     freute ihn das enorm, und gleich <del><unclear>k</unclear>rie</del> kreisten seine Gedanken<lb/>
                     <del>u</del>in weiß Gott was für Konvolutionen. <space quantity="1" unit="char"/>Ach ja, jetzt weiß <rs type="person" ref="#amp_person_2">ich</rs><lb/>

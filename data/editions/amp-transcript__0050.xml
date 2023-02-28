@@ -76,6 +76,7 @@ for any purpose, even commercially.</p>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer tfruehwirth" when="2022-01-07">text transcribed and caption created</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

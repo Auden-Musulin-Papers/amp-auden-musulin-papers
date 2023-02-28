@@ -79,6 +79,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2022-01-03">text transcribed using Transkribus</change>
          <change who="smayer tfruehwirth" when="2022-01-03">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -112,15 +113,15 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0171/" type="sheet"/>
                <p>
-                  <rs type="lit_work" ref="#lit_work_id_98"><space quantity="16" unit="char"/><hi rend="underline">Erklärung</hi></rs>
+                  <rs type="lit_work" ref="#lit_work_id_103"><space quantity="16" unit="char"/><hi rend="underline">Erklärung</hi></rs>
                </p>
                <p>
                   Meine Herren !<lb/>
                   <space quantity="6" unit="char"/>Mein Standpunkt ist sehr einfach : Man bezahlt dort<lb/>
                   Einkommensteuer, wo man Geld verdient, das heisst in meinem<lb/>
                   Fall, als Schriftsteller, der englisch schreibt, in den <rs type="place" ref="#amp_place_id_15">Ver-<lb/>
-                  einigten Staaten</rs> und in <rs type="place" ref="#amp_place_id_93">England</rs>. In <rs type="place" ref="#amp_place_id_10">Österreich</rs> verdiene ich<lb/>
-                  keinen Groschen, <rs type="person" ref="#amp_person_1">ich</rs> gebe lediglich Schillinge aus.<lb/>
+                  einigten Staaten</rs> und in <rs type="place" ref="#amp_place_id_93">England</rs>. In <rs type="place" ref="#amp_place_id_10">Österreich</rs> verdiene <rs type="person" ref="#amp_person_1">ich</rs><lb/>
+                  keinen Groschen, ich gebe lediglich Schillinge aus.<lb/>
                   <space quantity="6" unit="char"/>Sie behaupten, dass ich ein 'materielles Interesse' an<lb/>
                   <rs type="place" ref="#amp_place_id_10">Österreich</rs> habe, womit Sie vermutlich ein 'finanziell<unclear>e</unclear>s' In-<lb/>
                   teresse meinen. Das könnte nur da<unclear>nn</unclear> möglicherweise richtig sein,<lb/>
@@ -133,8 +134,8 @@ for any purpose, even commercially.</p>
                   reich, sonst käme ich nicht hierher. Mir gefällt die Landschaft<lb/>
                   und ich finde die Österreicher, die ich kennen lerne, freundlich<lb/>
                   und charmant.<lb/>
-                  <space quantity="7" unit="char"/>Sie sagen wahrheitsgemäss, dass ich einmal einen öster-<lb/>
-                  reichischen Literaturpreis erhalten habe. Das war e<del><gap reason="deleted"/></del>ine grosse<lb/>
+                  <space quantity="7" unit="char"/>Sie sagen wahrheitsgemäss, dass ich einmal <rs type="event" ref="#amp_event_id_46">einen öster-<lb/>
+                  reichischen Literaturpreis</rs> erhalten habe. Das war e<del><gap reason="deleted"/></del>ine grosse<lb/>
                   Ehre, a<del>z</del>uf die ich sehr stolz bin. Aber Sie können doch nicht<lb/>
                   ernstlich glauben, meine Herren, dass ich mir ausgerechnet habe:<lb/>
                   '<del>Q</del>Wenn ich  weiter nach <rs type="place" ref="#amp_place_id_10">Österreich</rs> gehe, wird mir vielleicht ein<lb/>
