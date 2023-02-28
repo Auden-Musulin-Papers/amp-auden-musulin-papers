@@ -148,8 +148,8 @@ for any purpose, even commercially.</p>
                </p>            
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0009/" type="sheet"/>
                <p>
-                  <space quantity="5" unit="char"/><rs type="lit_work" ref="#lit_work_id_62"><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
-                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
+                  <space quantity="5" unit="char"/><rs type="lit_work" ref="#lit_work_id_62"><hi rend="underline"><rs type="person" ref="#amp_person_5"></rs>JOSEPH WEINHEBER</hi></rs><lb/>
+                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi>
                </p>
                <lg>
                   <l>Reaching my gate a narrow</l>
@@ -180,7 +180,7 @@ for any purpose, even commercially.</p>
                   <l>Men of great damage</l>
                   <l>And malengine took you up.</l>
                   <l>Did they for long,though,</l>
-                  <l>Take you in,who to <rs type="person" ref="#amp_person_196">Goebbel</rs><del>l</del>s'</l>
+                  <l>Take you in,who to <rs type="person" ref="#amp_person_196">Goebbel<del>l</del>s</rs>'</l>
                   <l>Offer of culture</l>
                   <l>Countered <hi rend="underline">In Ruah lassen</hi>!?</l>
                   <l>But Rag,Tag,Bobtail</l>
@@ -203,8 +203,8 @@ for any purpose, even commercially.</p>
                   Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Many thanks for your letter. Will try and call you<lb/>
                   to-day by phone.<lb/>
-                  I enclose a <rs type="lit_work" ref="#lit_work_id_92">pr<unclear>o</unclear>se translation</rs> ma<unclear>d</unclear>e by me and <rs type="person" ref="#amp_person_157">a German friend</rs><unclear>;</unclear><lb/>
-                  <gap reason="illegible"/> <del><gap reason="deleted"/></del> Sin<unclear>ce</unclear> <rs type="lit_work" ref="#lit_work_id_92">the copy I sent you</rs> , <del><gap reason="deleted"/></del> I have made <unclear>a</unclear> few slig<unclear>h</unclear>t<lb/>
+                  I enclose a <rs type="lit_work" ref="#lit_work_id_92">pr<unclear>o</unclear>se translation</rs> ma<unclear>d</unclear>e by <rs type="person" ref="#amp_person_1">me</rs> and <rs type="person" ref="#amp_person_157">a German friend</rs><unclear>;</unclear><lb/>
+                  <gap reason="illegible"/> <del><gap reason="deleted"/></del> Sin<unclear>ce</unclear> <rs type="lit_work" ref="#lit_work_id_61">the copy I sent you</rs> , <del><gap reason="deleted"/></del> I have made <unclear>a</unclear> few slig<unclear>h</unclear>t<lb/>
                   changes in stanza 3. (see above)<lb/>
                   Could you che<unclear>c</unclear>k the translat<unclear>io</unclear>n for errors.<lb/>
                   love<lb/>
@@ -213,7 +213,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0010/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0139/" type="sheet"/>
                <p>
-                  <space quantity="26" unit="char"/><rs type="lit_work" ref="#lit_work_id_92"><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
+                  <space quantity="26" unit="char"/><rs type="lit_work" ref="#lit_work_id_92"><rs type="person" ref="#amp_person_5"><hi rend="underline">JOSEPH WEINHEBER</hi></rs><lb/>
                   <space quantity="28" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
                </p>
                <p hand="#handwritten">
@@ -240,7 +240,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="6" unit="char"/>Ja,ja,es muss gesagt werden,Machthaber,die grosses Unheil stifteten und <hi rend="underline">B<unclear>ö</unclear>ses</hi><lb/>
-                  <hi rend="underline">pl<del>na</del>anten</hi>,nahmen dich auf;f<unclear>ü</unclear>r wie lang,doch,wickelten sie dich ein,dich,der auf <rs type="person" ref="#amp_person_196">Goebbel</rs>s<lb/>
+                  <hi rend="underline">pl<del>na</del>anten</hi>,nahmen dich auf;f<unclear>ü</unclear>r wie lang,doch,wickelten sie dich ein,dich,der auf <rs type="person" ref="#amp_person_196">Goebbels</rs><lb/>
                   Angebot von Kultur "In Ruah lassen!" entgegnetest? <del>a</del>Aber <space quantity="1" unit="char"/>/? <gap reason="illegible"/> Rag,Tag, Bobta<unclear>il ?</unclear> <space quantity="3" unit="char"/><del>x</del>ziehen einen Stunk<lb/>
                   vor,und die Jungen verdammen dich ungelesen.
                </p>
@@ -249,7 +249,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="6" unit="char"/>Was wohl w<unclear>ü</unclear>rde dir,dem Osterreicher,dem Dichter,dein Herz gesagt haben,h<unclear>ä</unclear>ttest<lb/>
-                  du je von <rs type="person" ref="#amp_person_7">Franz J<unclear>ä</unclear>gerst<unclear>ä</unclear>tter</rs>,dem <rs type="place" ref="#amp_place_id_22">Sankt Radegunder</rs> Bauern,geh<unclear>ö</unclear>rt,der sein einsames<lb/>
+                  du je von <rs type="person" ref="#amp_person_7">Franz J<unclear>ä</unclear>gerst<unclear>ä</unclear>tter</rs>,dem <rs type="place" ref="#amp_place_id_22">Sankt Radegund</rs>er Bauern,geh<unclear>ö</unclear>rt,der sein einsames<lb/>
                   Nein zu dem Arierstaat sagte und gek<unclear>ö</unclear>p<del>t</del>ft wurde? Naturlich sorgte man daf<unclear>ü</unclear>r,dass nichts<lb/>
                   davon zu Ohren kam,
                </p>
@@ -313,7 +313,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="4" unit="char"/>Wenn ich <unclear>ü</unclear>ber unser Tal - human <del>un</del> bescheiden und sanft im Umriss - schaue,in dem<lb/>
-                  der Sichelbach westwarts gurgelt,um sich mit dem <rs type="place" ref="amp_place_id_251">Perschling</rs> zu vereinigen,bin ich<lb/>
+                  der <rs type="place" ref="amp_place_id_252">Sichelbach</rs> westwarts gurgelt,um sich mit dem <rs type="place" ref="amp_place_id_251">Perschling</rs> zu vereinigen,bin ich<lb/>
                   mir bedeutendere Nachbarn ehrf<unclear>ü</unclear>rchtig bewusst,der Berge,die hinter mir aufragen,<lb/>
                   vor mir des noblen Flusses,
                </p>

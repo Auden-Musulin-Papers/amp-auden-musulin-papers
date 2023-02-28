@@ -156,15 +156,15 @@ for any purpose, even commercially.</p>
                </p>
                <p hand="#handwritten">
                   Dear <rs type="person" ref="#amp_person_2">S<del><unclear>e</unclear></del>tella</rs><unclear>·</unclear><lb/>
-                  You're an angel. I have to <rs type="event" ref="#amp_event_id_37">deliver this<lb/>
-                  in <rs type="place" ref="#amp_place_id_47">Neulengbach</rs> on Sun<unclear>day</unclear>, June 14th</rs>.<lb/>
+                  You're an angel. I have to deliver <rs type="lit_work" ref="#lit_work_id_90">this</rs><lb/>
+                  in <rs type="event" ref="#amp_event_id_37"><rs type="place" ref="#amp_place_id_47">Neulengbach</rs> on Sun<unclear>day</unclear>, June 14th</rs>.<lb/>
                   In case your dictionary doesn't give it, the<lb/>
                   German for the technical word <hi rend="underline">buddle</hi> (page I, near<lb/>
                   bottom) is <hi rend="underline">Erzwaschtrog</hi> .<lb/>
                   I hope there is an equivalent German euphemism<lb/>
-                  for <rs type="lit_work" ref="#lit_work_id_57"><unclear>"t</unclear>e Senior Citizen."</rs><unclear>,</unclear><lb/>
+                  for <unclear>"t</unclear>e Senior Citizen."<unclear>,</unclear><lb/>
                   If there is a special honary title of adress<lb/>
-                  for a <hi rend="underline"><rs type="person" ref="#amp_person_112">Landeshaupt<unclear>m</unclear>an</rs></hi>,please supply.<lb/>
+                  for a <hi>Landeshaupt<unclear>m</unclear>an</hi>,please supply.<lb/>
                   love<lb/>
                   <rs type="person" ref="#amp_person_1">Wystan</rs><lb/>
                   P<unclear>_</unclear>S. <hi rend="underline">Adit</hi>= <hi rend="underline">Stollen</hi>.<lb/>
@@ -204,7 +204,7 @@ for any purpose, even commercially.</p>
                   is an imperative,that is to<unclear>´</unclear> say,one is not free to choose the object or the event<lb/>
                   that arouses it. Though every work of art is a secondary world,it cannot be<lb/>
                   constructed <hi rend="underline">ex nihilo</hi>,but is a selection from and a recombination of the contents of<lb/>
-                  the Primary World. Even the 'purest' poem,in the French Symboliste sense,is<lb/>
+                  the Primary World. Even the 'purest' poem,in the <rs type="org" ref="#amp_organization_48">French Symboliste</rs> sense,is<lb/>
                   made of words which are not the poet's private property,but the communal creation<lb/>
                   of the linguistic group to whom he belongs,so that their meaning can be looked up<lb/>
                   in a dictionary.<lb/>
@@ -215,7 +215,7 @@ for any purpose, even commercially.</p>
                   only be realised in a choice between alternati<del>c</del>ves. A secondary world,be it a poem,<lb/>
                   or a game of football or bridge,must be as much a world of law as the Primary,the<lb/>
                   only difference being that in the world of games one is free to decide what its<lb/>
-                  laws shall be. But to all games as to real life,Goethe's lines apply.
+                  laws shall be. But to all games as to real life,<rs type="person" ref="#amp_person_11">Goethe</rs>'s lines apply.
                </p>
                <lg>
                   <l><space quantity="14" unit="char"/><hi rend="underline">In der Beschr<unclear>ä</unclear>nkung zeigt sich erst der Meister</hi>,</l>
@@ -257,7 +257,7 @@ for any purpose, even commercially.</p>
                   and writing poetry,there is,of course,a profound difference. A <del>fanatsy</del><lb/>
                   fantasy world exists only in the head of its creator: a poem is a public<lb/>
                   verbal object intended to be read and enjoyed by others. To become conscious<lb/>
-                  of others is to become conscious of historical time/. in various ways. The<lb/>
+                  of others is to become conscious of historical time<del>.</del> in various ways. The<lb/>
                   contents of a poem are necessarily past <del>expereinces</del> experiences,and the goal of<lb/>
                   a poem is <del>necessaily</del> necessarily in the future,since it cannot be read until<lb/>
                   it has been written. Again<unclear>,</unclear>to write a poem is to engage in an activity which<lb/>
@@ -295,9 +295,9 @@ for any purpose, even commercially.</p>
                   <space quantity="3" unit="char"/>Every genuine work of art,I believe,exhibits two qualities,Nowness and<lb/>
                   Permanence. By Nowness I mean the quality which enables an art-historian<lb/>
                   to date a work,at least,approximately. If,for example,one listens to<lb/>
-                  a composition by <rs type="person" ref="#amp_person_24">Palestrina</rs> and one by <rs type="person" ref="#amp_person_113">Mozart</rs>,one knows immediately that,<lb/>
+                  a composition by <rs type="person" ref="#amp_person_24">Palestrina</rs> and one by <rs type="person" ref="#amp_person_13">Mozart</rs>,one knows immediately that,<lb/>
                   quite aside from their artistic merits,<rs type="person" ref="#amp_person_24">Palestrina</rs> must have lived earlier<lb/>
-                  than Mozart: he could not possibly have written as he did after Mozart.<lb/>
+                  than <rs type="person" ref="#amp_person_13">Mozart</rs>: he could not possibly have written as he did after <rs type="person" ref="#amp_person_13">Mozart</rs>.<lb/>
                   By <del>p</del>Perman<del>a</del>ence,I mean <space quantity="1" unit="char"/>that the work continues to have relevance and<lb/>
                   importance lo<unclear>m</unclear>g after its creator is dead. In the history of Art,unlike<lb/>
                   the history of Science,no genuine work of art is made obsolete by a<lb/>
@@ -328,7 +328,7 @@ for any purpose, even commercially.</p>
                   <del>extraorinary</del> extraordinarily fortunate men like <rs type="person" ref="#amp_person_25">Stravinsky</rs>,<rs type="person" ref="#amp_person_26">Picasso</rs>,<rs type="person" ref="#amp_person_27">Eliot</rs>,<lb/>
                   etc,that is,those persons we think of as the founders of 'modern' art,<lb/>
                   were in being born when they were,so that they came to manhood before<lb/>
-                  I9I4. Until the <del>Fis </del> First World War,western society was still pretty much<lb/>
+                  I9I4. Until the <del>Fis </del> <rs type="event" ref="#amp_event_id_53">First World War</rs>,western society was still pretty much<lb/>
                   what it had been in the nineteenth century. This meant that for these artists,<lb/>
                   the felt need to create something new arose from an artistic imperative,<lb/>
                   not a <del>histroi</del> historic imperative. No one asked himself:"What is the proper<lb/>
@@ -422,7 +422,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="3" unit="char"/>What then,can the Arts do for us? In my opi<del>o</del>nion,they can do two things.<lb/>
-                  They can,as Dr Johns<del>t</del>on said,'enable us a little better to enjoy life or a<lb/>
+                  They can,as <rs type="person" ref="#amp_person_33">Dr Johns<del>t</del>on</rs> said,'enable us a little better to enjoy life or a<lb/>
                   little better to <del>enjoy</del>endure it". And,<del>bec<unclear>aas</unclear>e</del> because they are objects <del>permant</del><lb/>
                   permanently on hand in the world,they are the chief means by which the <del>lvi</del><lb/>
                   living are able to break bread with the dead,and,without a communication<lb/>
