@@ -73,9 +73,9 @@ for any purpose, even commercially.</p>
          </langUsage>
          <particDesc>
             <listPerson>
-               <person xml:id="amp_person_1"/>
-               <person xml:id="amp_person_72"/>
-               <person xml:id="amp_person_152"/>
+               <person ref="amp_person_1"/>
+               <person ref="amp_person_72"/>
+               <person ref="amp_person_152"/>
             </listPerson>   
          </particDesc>
       </profileDesc>
