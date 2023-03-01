@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Photographs [?] of W. H. Auden, Chester Kallman, and Elsa Musulin [1960]</title>
+            <title level="a">Photographs [Stella Musulin] of W. H. Auden, Chester Kallman, and Elsa Musulin 1960-07-21--1960-11-02</title>
             <author>[?]</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 17</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate>[1960]</origDate></origin>
+                        <origin><origDate notBefore="1960-07-21" notAfter="1960-11-02">1960-07-21--1960-11-02</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -76,7 +76,7 @@ for any purpose, even commercially.</p>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer tfruehwirth" when="2022-01-07">texts transcribed and captions created</change>
-         <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated, caption removed, renamed, date added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -92,23 +92,17 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/" type="nan"/>
                <p>
-                  Top left.<lb/>
-                  Baroque Pietà ,Loreto.<lb/>
+                  Baroque Pietà ,<rs type="place" ref="amp_place_id_254">Loreto</rs>.<lb/>
                </p>
                <p>
-                  Top right: Private photograph of <rs type="person" ref="#amp_person_1">W. H. Auden</rs> (left) and <rs type="person" ref="#amp_person_93">Elsa Musulin</rs> (right), <rs type="place" ref="#amp_place_id_7">Fridau, Ober-Grafendorf</rs>, ca. 1960.
                   <rs type="person" ref="#amp_person_1">Wystan Auden</rs>
                </p>
                <p>
-                  Bottom left: Private photograph of <rs type="person" ref="#amp_person_1">W. H. Auden</rs> (left), <rs type="person" ref="#amp_person_93">Elsa Musulin</rs> (middle), and <rs type="person" ref="#amp_person_4">Chester Kallman</rs> (right), <rs type="place" ref="#amp_place_id_7">Fridau, Ober-Grafendorf</rs>, ca. 1960.<lb/>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear>A.</rs> <rs type="person" ref="#amp_person_162">Mama</rs>, <rs type="person" ref="#amp_person_4">Chester Kalmann</rs>.
-               </p>
-               <p>
-                  Bottom right: Private photograph of <rs type="person" ref="#amp_person_93">Elsa Musulin</rs> (left) and <rs type="person" ref="#amp_person_1">W. H. Auden</rs> (right), <rs type="place" ref="#amp_place_id_7">Fridau, Ober-Grafendorf</rs>, ca. 1960.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/" type="nan"/>
                <p>
-                  Top left: Private photograph of <rs type="person" ref="#amp_person_192">Marga Tacoli</rs> (left), <rs type="person" ref="#amp_person_172">Gherardo Tacoli</rs> (middle), and Alexander Tacoli, <rs type="place" ref="#amp_place_id_7">Fridau, Ober-Grafendorf</rs>, November 1960.
+                  <rs type="person" ref="#amp_person_192">Marga Tacoli</rs>, <rs type="person" ref="#amp_person_172">Gherardo Tacoli</rs> <rs type="person" ref="#amp_person_193">Alexander Tacoli</rs>, <rs type="place" ref="#amp_place_id_7">Fridau, Ober-Grafendorf</rs>, November 1960.
                </p>
                <p>
                   Top right: Private photograph of <rs type="person" ref="#amp_person_93">Elsa Musulin</rs> (left), <rs type="person" ref="#amp_person_193">Alexander Tacoli</rs> (middle), <rs type="person" ref="#amp_person_172">Gherardo Tacoli</rs> (right, back), <rs type="person" ref="#amp_person_192">Marga Tacoli</rs> (right, front), <rs type="place" ref="#amp_place_id_7">Fridau, Ober-Grafendorf</rs>, November 1960.
