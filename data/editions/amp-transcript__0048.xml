@@ -92,15 +92,15 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0237/" type="nan"/>
                <p>
-                  Portrait photograph of <rs type="person" ref="#amp_person_2">Stella Musulin</rs> by Rudolf Blaha, undated.
+                  Portrait photograph of <rs type="person" ref="#amp_person_2">Stella Musulin</rs> by <rs type="person" ref="#amp_person_198">Rudolf Blaha</rs>, undated.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0238/" type="nan"/>
                <p>
                   Copyright by<lb/>
-                  RUDOLF BLAHA<lb/>
-                  BILDREPORTER<lb/>
-                  Leystraße 23/13/16<lb/>
-                  1200 WIEN<lb/>
+                  <rs type="person" ref="#amp_person_198">RUDOLF BLAHA<lb/>
+                  BILDREPORTER</rs><lb/>
+                  <rs type="type" ref="#amp_place_id_253">Leystraße 23/13/16<lb/>
+                  1200 WIEN</rs><lb/>
                   Tel.:
                </p>
          </div>
