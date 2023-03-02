@@ -102,7 +102,7 @@
             <change who="tfruehwirth" when="2021-12-15">text transcribed using Transkribus</change>
             <change who="smayer tfruehwirth" when="2021-12-15">transcriptions collated</change>
             <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
-            <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated</change>
+            <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">and correspDesc collated</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
