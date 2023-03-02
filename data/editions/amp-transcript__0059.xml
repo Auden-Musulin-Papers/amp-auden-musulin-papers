@@ -76,7 +76,7 @@ for any purpose, even commercially.</p>
             <correspAction type="composed">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
                <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
-               <date>unknown</date>
+               <date notBefore="1962-04-30" notAfter="1962-04-30">1962-04-30</date>
             </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_1">Auden, W. H.</persName>

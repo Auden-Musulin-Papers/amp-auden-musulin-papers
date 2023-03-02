@@ -380,8 +380,8 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>Half an hour from the outskirts of <rs type="place" ref="#amp_place_id_1">Vienna</rs> an invisible<lb/>
                   thread bisect<del>x</del>s the motorway. <space quantity="1" unit="char"/>It leads from the church which<lb/>
                   lies to the north, more accurately speaking from the churchyard,<lb/>
-                  disregards entirely the traffic as it thunders to and from the<lb/>
-                  capital, wriggles across a field to the south, passes a small<lb/>
+                  disregards entirely the traffic as it thunders to and from <rs type="place" ref="#amp_place_id_1">the<lb/>
+                  capital</rs>, wriggles across a field to the south, passes a small<lb/>
                   house which was once a garage. <space quantity="1" unit="char"/>Up a steep path, plum trees<lb/>
                   on one side and apple trees on the other, through a wicket<lb/>
                   gate, and now the thread, which has turned neither to right nor<lb/>
@@ -433,8 +433,8 @@ for any purpose, even commercially.</p>
                   matter of days, <rs type="person" ref="#amp_person_1">Auden</rs> could make a new book look like a lending<lb/>
                   library reject: <space quantity="1" unit="char"/>the content was all, the package irrelevant.<lb/>
                   Here lie, precariously balanced, collapsing, upended, volumes of<lb/>
-                  poetry, cookery books, <rs type="lit_work" ref="#lit_work_id_1">Benson's Lucia novels</rs>, <rs type="lit_work" ref="#lit_work_id_100">Akenfield</rs>, whodunnits<lb/>
-                  a new translation of the Bible. <space quantity="1" unit="char"/>Over the years, the content of<lb/>
+                  poetry, cookery books, <rs type="lit_work" ref="#lit_work_id_1"><rs type="person" ref="#amp_person_39">Benson</rs>'s Lucia novels</rs>, <rs type="lit_work" ref="#lit_work_id_100">Akenfield</rs>, whodunnits<lb/>
+                  a new translation of the <rs type="lit_work" ref="#lit_work_id_59">Bible</rs>. <space quantity="1" unit="char"/>Over the years, the content of<lb/>
                   the heap varied but the overall appearance scarcely at all.<lb/>
                   And now the stove, country style, a white dome with round green<lb/>
                   tiles set in it, one of the glories of Austrian <hi rend="underline">Wohnkultur</hi>.<lb/>
@@ -442,7 +442,7 @@ for any purpose, even commercially.</p>
                   <rs type="place" ref="#amp_place_id_13">Athens</rs> now, along with the cupboard and the original drawings of<lb/>
                   <rs type="person" ref="#amp_person_25">Stravinsky</rs> and <rs type="person" ref="#amp_person_153">Richard Strauss</rs>. <space quantity="1" unit="char"/>Books also lie along the top<lb/>
                   ledge of the corner seat, and a volume or two of the <rs type="lit_work" ref="#lit_work_id_51">OED</rs> on the<lb/>
-                  upright chairs by the dinner table, adjuncts to the <rs type="lit_work" ref="#lit_work_id_52">Times</rs><lb/>
+                  upright chairs by the dinner table, adjuncts to the <rs type="org" ref="#amp_organization_59">Times</rs><lb/>
                   crossword. <space quantity="1" unit="char"/>Was it, I asked, essential to have the complete<lb/>
                   <rs type="lit_work" ref="#lit_work_id_51">Oxford English Dictionary</rs>, all thirteen volumes of it, at each<lb/>
                   of ones residences? <space quantity="1" unit="char"/>"Of cour<del>x</del>se" said <rs type="person" ref="#amp_person_1">Auden</rs>, surprised at such a<lb/>
@@ -495,10 +495,10 @@ for any purpose, even commercially.</p>
                   to fill in one or two gaps in what is generally known.<lb/>
                   <space quantity="5" unit="char"/>I got to know <rs type="person" ref="#amp_person_1">Wystan</rs> and <rs type="person" ref="#amp_person_4">Chester</rs> through <del>Chris</del> the daughter<lb/>
                   of <rs type="person" ref="#amp_person_42">Hugo von Hofmannsthal</rs>, <rs type="person" ref="#amp_person_3">Christiane Zimmer</rs>, who was a friend of<lb/>
-                  <rs type="person" ref="#amp_person_1">Auden</rs>'s in <rs type="place" ref="#amp_place_id_28">New York</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_43">Gerty von Hofmannsthal</rs>, widow of the poet, who died in 1929,<lb/>
-                  owned <rs type="place" ref="#amp_place_id_73">Sch<del>,</del>loss Prielau</rs> at the northern tip of the <rs type="place" ref="#amp_place_id_74">lake of Zell-<lb/>
-                  am-See</rs> in <rs type="place" ref="#amp_place_id_37">Salzburg</rs> province. <space quantity="1" unit="char"/>She had been forced to sell when the<lb/>
-                  Nazis overran <rs type="place" ref="#amp_place_id_10">Austria</rs> but had regained possession at about the
+                  <rs type="person" ref="#amp_person_1">Auden</rs>'s in <rs type="place" ref="#amp_place_id_28">New York</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_43">Gerty von Hofmannsthal</rs>, widow of <rs type="person" ref="#amp_person_42">the poet</rs>, who died in 1929,<lb/>
+                  owned <rs type="place" ref="#amp_place_id_73">Sch<del>,</del>loss Prielau</rs> at the northern tip of the <rs type="place" ref="#amp_place_id_256">lake of <rs type="place" ref="#amp_place_id_75">Zell-<lb/>
+                  am-See</rs></rs> in <rs type="place" ref="#amp_place_id_37">Salzburg</rs> province. <space quantity="1" unit="char"/>She had been forced to sell when the<lb/>
+                  <rs type="event" ref="#amp_event_id_55">Nazis overran <rs type="place" ref="#amp_place_id_10">Austria</rs></rs> but had regained possession at about the
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0356/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0357/" type="sheet"/>
@@ -506,34 +506,34 @@ for any purpose, even commercially.</p>
                   4.
                </p>
                <p>
-                  turn of the fifties, and t<del>e</del>here she spent her summers until she<lb/>
+                  turn of the fifties, and <rs type="place" ref="#amp_place_id_73">t<del>e</del>here</rs> she spent her summers until she<lb/>
                   died, filling the house with her friends, often like herself Anglo-Austrian<lb/>
                   émigrés - the writers, artists and scholars who had lived and<lb/>
                   worked in <rs type="place" ref="#amp_place_id_1">Vienna</rs> during the twilight of that great explosion of<lb/>
-                  talent which coincided with the decline and end of the Austro-<lb/>
-                  Hungarian Empire. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_44">Raimund</rs> and <rs type="person" ref="#amp_person_45">Liz von Hofmannsthal</rs> were often<lb/>
+                  talent which coincided with the decline and end of the <rs type="place" ref="#amp_place_id_257">Austro-<lb/>
+                  Hungarian Empire</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_44">Raimund</rs> and <rs type="person" ref="#amp_person_45">Liz von Hofmannsthal</rs> were often<lb/>
                   there, with their children <rs type="person" ref="#amp_person_46">Arabella</rs> and <rs type="person" ref="#amp_person_47">Octavian</rs>. <space quantity="1" unit="char"/>There was<lb/>
                   a constant coming and going between <rs type="place" ref="#amp_place_id_75">Pri<del>l</del>elau</rs> and the rehearsals<lb/>
-                  and then the performances of the Salzburg Festival; <space quantity="1" unit="char"/>it was a<lb/>
+                  and then the performances of the <rs type="event" ref="#amp_event_id_56">Salzburg Festival</rs>; <space quantity="1" unit="char"/>it was a<lb/>
                   great meeting place for retired birds of paradise such as <rs type="person" ref="#amp_person_48">Lady<lb/>
                   Diana Cooper</rs>, <del>X</del> <rs type="person" ref="#amp_person_181">Ledebur</rs> and the dancer and choreographer <rs type="person" ref="#amp_person_49">Grete Wiesenthal</rs>. <space quantity="1" unit="char"/>Gradually, a well-<lb/>
-                  worn track developed between <rs type="place" ref="#amp_place_id_75">Prielau</rs> and our house at the upper<lb/>
+                  worn track developed between <rs type="place" ref="#amp_place_id_75">Prielau</rs> and <rs type="place" ref="#amp_place_id_258">our house</rs> at the upper<lb/>
                   end of the <rs type="place" ref="#amp_place_id_76">Schmittenhöhe valley</rs>, and friendships <del>developed</del>grew between<lb/>
-                  <rs type="person" ref="#amp_person_94 #amp_person_93 #amp_person_167 #amp_person_162">my family</rs> and the <rs type="person" ref="#amp_person_44 #amp_place_45 #amp_person_46 #amp_person_47 #amp_person_42 #amp_person_43 #amp_person_3">Hofmannsthals</rs> and several of their friends<lb/>
+                  <rs type="person" ref="#amp_person_94 #amp_person_93 #amp_person_2">my family</rs> and the <rs type="person" ref="#amp_person_44 #amp_place_45 #amp_person_46 #amp_person_47 #amp_person_42 #amp_person_43 #amp_person_3">Hofmannsthals</rs> and several of their friends<lb/>
                   which have survived and have been continued by our children.<lb/>
-                  My <rs type="event" ref="#amp_event_id_24">marriage broke up</rs> during 1957-58 and my son <rs type="person" ref="#amp_person_94">Marko</rs> and I went<lb/>
-                  to live with my mother-in-law <rs type="person" ref="#amp_person_93">Els<del>e</del>a Musulin</rs> at her home <rs type="place" ref="#amp_place_id_78">Schloss Fridau</rs>,<lb/>
+                  <rs type="event" ref="#amp_event_id_24">My marriage broke up</rs> during 1957-58 and my son <rs type="person" ref="#amp_person_94">Marko</rs> and I went<lb/>
+                  to live with my mother-in-law <rs type="person" ref="#amp_person_93">Els<del>e</del>a Musulin</rs> at her home <rs type="place" ref="#amp_place_id_7">Schloss Fridau</rs>,<lb/>
                   in <rs type="place" ref="#amp_place_id_6">Lower Austria</rs>, about half an hour's drive from <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>.<lb/>
                   She will rate<del>s</del> a mention here because of the entertainment value<lb/>
                   she was to acquire for <rs type="person" ref="#amp_person_1">Auden</rs>. <space quantity="2" unit="char"/>It was in 1958 that by chance I<lb/>
-                  met <rs type="person" ref="#amp_person_3">Christiane Zimmer</rs> at <rs type="place" ref="#amp_place_id_75">Prielau</rs>, and <rs type="person" ref="#amp_person_93">she</rs> suggested I should call<lb/>
+                  met <rs type="person" ref="#amp_person_3">Christiane Zimmer</rs> at <rs type="place" ref="#amp_place_id_75">Prielau</rs>, and she suggested I should call<lb/>
                   on <rs type="person" ref="#amp_person_1">Auden</rs>: <space quantity="1" unit="char"/>"After all, he's your neighbour now". <space quantity="1" unit="char"/>I demurred with<lb/>
                   some energy, having a great di<del>l</del>slike of pursuing the famous<lb/>
                   except inthe way of business where an interview i<del>f</del>s called for.<lb/>
                   The next time I saw her - in 1959 - she asked whether I had seen<lb/>
                   <rs type="person" ref="#amp_person_1">Auden</rs>, I again scoffed at the very idea that he might "love to<lb/>
-                  meet <rs type="person" ref="#amp_person_93">me</rs>", and she said "All right. <space quantity="1" unit="char"/>I'm just off to spend a<lb/>
-                  week there now and I shall fix it <del>up</del> ."<lb/>
+                  meet me", and she said "All right. <space quantity="1" unit="char"/>I'm just off <rs type="event" ref="#amp_event_id_57">to spend a<lb/>
+                  week</rs> there now and I shall fix it <del>up</del> ."<lb/>
                   So in due course I <del>du</del> came to be standing at the green door,<lb/>
                   and yet <del>not a</del>the memory <del>of it</del><unclear>th</unclear>at remains <del>excep</del>is the shock of <rs type="person" ref="#amp_person_4">Chester</rs>'s<lb/>
                   appearance as he stood in the doorway in the strong sunlight:<lb/>
@@ -553,7 +553,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   - crystallized in <rs type="lit_work" ref="#lit_work_id_79">"Whitsunday in Kirchstetten"</rs> - the local school<lb/>
-                  mistress <rs type="person" ref="#amp_person_97">Frau Seitz</rs> and her silent husband, and as I came in I ran into<lb/>
+                  mistress <rs type="person" ref="#amp_person_97">Frau Seitz</rs> and her silent <rs type="person" ref="#amp_person_100">husband</rs>, and as I came in I ran into<lb/>
                   <rs type="person" ref="#amp_person_1">Auden</rs> who was shuffling out to the kitchen.<lb/>
                   <space quantity="5" unit="char"/>"Thank goodness you've come" he hissed, "go and look after<lb/>
                   them, will you, keep the conversation going and hand round the<lb/>
@@ -566,7 +566,7 @@ for any purpose, even commercially.</p>
                   their local poet laureate before, and now they had one again.<lb/>
                   This was a cause for great satisfaction, but not for any transports<lb/>
                   of ecstasy over the celebrity in their midst.<lb/>
-                  <space quantity="5" unit="char"/>What was so "American" about the"kitchen in <rs type="place" ref="#amp_place_id_6">Lower Austria</rs>?"<lb/>
+                  <space quantity="5" unit="char"/>What was so "American" about the <rs type="lit_work" ref="lit_work_id_101">"kitchen in <rs type="place" ref="#amp_place_id_6">Lower Austria</rs>?"</rs><lb/>
                   Nothing much, so far as I could see. <space quantity="1" unit="char"/>When fitted kitchens first<lb/>
                   came in, Austrians <del>called</del>dubbed them "American"<unclear>,</unclear> <del>kitchen<del>.</del>s.</del> <space quantity="1" unit="char"/>The term is<lb/>
                   now as extinct as "Russian" tea, but must still have been<lb/>
@@ -606,7 +606,7 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>The small heap of correspondence lying on the filing cabinet<lb/>
                   beside my desk puts me in mind of the rise and fall of the<lb/>
                   telegram as a means of social communication. <space quantity="1" unit="char"/>In English novels<lb/>
-                  during the period up to and even well beyond the first world war -<lb/>
+                  during the period up to and even well beyond the <rs type="event" ref="#amp_event_id_53">first world war</rs> -<lb/>
                   particularly in detective stories - the in<del><gap reason="deleted"/></del>cessant despatch and<lb/>
                   receipt of telegrams, often of some length, play a prominent<lb/>
                   part in human relationships. <space quantity="1" unit="char"/>They were an <del>s</del>astonishingly rapid<lb/>
@@ -624,15 +624,15 @@ for any purpose, even commercially.</p>
                   records of what I wrote, for his letters to me, and especially<lb/>
                   for the telegrams. <space quantity="1" unit="char"/>"We are here, where are you?" or "Wednesday<lb/>
                   would suit perfectly" and so on, are messages which mark the<lb/>
-                  development of a cosy routine of coming and going between <rs type="place" ref="#amp_place_id_78">Schloss<lb/>
+                  development of a cosy routine of coming and going between <rs type="place" ref="#amp_place_id_7">Schloss<lb/>
                   Fridau</rs>, my <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_93">mother-in-law</rs>'s place where I have a flat, and<lb/>
-                  <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>. <space quantity="1" unit="char"/>"Mama" was an eccentric of the old-fashioned kind<lb/>
+                  <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_93">"Mama"</rs> was an eccentric of the old-fashioned kind<lb/>
                   to be met with in many countries. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> recognised the type at<lb/>
                   once and rejoi<del>f</del>ced: <space quantity="1" unit="char"/>a rough exterior and an abrupt manner, one<lb/>
                   who had feared neither Nazis nor Russian occupiers, obstinate,<lb/>
                   shy, cultured, not troubled by surface blemishes, hospitable,<lb/>
                   terrifyingly outspoken, fond of good food. <space quantity="1" unit="char"/><del><rs type="person" ref="#amp_person_1">Auden</rs></del>He liked to be<lb/>
-                  asked out in any case, and Fridau is an easy 25 minutes drive from<lb/>
+                  asked out in any case, and <rs type="place" ref="#amp_place_id_7">Fridau</rs> is an easy 25 minutes drive from<lb/>
                   <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, as it were across the fields: <space quantity="1" unit="char"/>not round by<lb/>
                   <rs type="place" ref="#amp_place_id_79">Böheimkirchen</rs> and <rs type="place" ref="#amp_place_id_9">St.Pölten</rs>, but across farmland and through<lb/>
                   villages, <space quantity="1" unit="char"/>along lanes so winding that only a snake could have<lb/>
@@ -668,7 +668,7 @@ for any purpose, even commercially.</p>
                   to follow the customs of <del>a</del> the country he lived in, and above all<lb/>
                   he had no special voice for <del>inferiors</del>employees.. <space quantity="1" unit="char"/>He got on well with<lb/>
                   Austrian people who sometimes - without the natural excuse of<lb/>
-                  his food storekeeper in <rs type="place" ref="#amp_place_id_29">St. Mark's Place</rs> - had no idea of the calibre of<lb/>
+                  his food storekeeper in <rs type="place" ref="#amp_place_id_259">St. Mark's Place</rs> - had no idea of the calibre of<lb/>
                   the man with whom, in his home or theirs, they were having a meal.<lb/>
                   As I knew him, the only thing he couldn't bear was pretension.<lb/>
                   <space quantity="5" unit="char"/>So one would have supposed that writers young and older<lb/>
