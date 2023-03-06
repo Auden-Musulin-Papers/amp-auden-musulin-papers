@@ -224,8 +224,8 @@ for any purpose, even commercially.</p>
                   <l>Retribution was ever</l>
                   <l>A bungler at it:</l>
                   <l><hi rend="underline">Dies alles ist furchtbar,hier</hi></l>
-                  <l><hi rend="underline">Nur Schweigen gem<unclear>ä</unclear>ss</hi>. <note type="endnote" xml:id="amp_foot_8" n="(I)" place="foot"><del>N</del><space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_5">W</rs><del>8</del><unclear>'</unclear>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.</note></l>
-               </lg>
+                  <l><hi rend="underline">Nur Schweigen gem<unclear>ä</unclear>ss</hi>.(I)</l> 
+               </lg>  
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0134/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0135/" type="sheet"/>
                <p>
@@ -318,8 +318,14 @@ for any purpose, even commercially.</p>
                   <space quantity="15" unit="char"/><l>To hear the viols playing</l>
                   <space quantity="15" unit="char"/><l>On the impaled green,</l>
                   <space quantity="15" unit="char"/><l>Committed thereafter <hi rend="underline">den</hi></l>
-                  <space quantity="15" unit="char"/><l><hi rend="underline">Abgrund zu nennen</hi>. <note type="endnote" xml:id="amp_foot_9" n="(2)" place="foot"><space quantity="3" unit="char"/>2) Quotation from <rs type="person" ref="#amp_person_5">W</rs>'s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_41">Kammermusik</rs></hi></note></l>
+                  <space quantity="15" unit="char"/><l><hi rend="underline">Abgrund zu nennen</hi>.(2)</l>
                </lg>
+                <p>
+                  <space quantity="23" unit="char"/>___<lb/>
+                  <del>N</del> <space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_1">W<del>8</del></rs><unclear>'</unclear>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.<lb/>
+                  <space quantity="3" unit="char"/>2) Quotation from <rs type="person" ref="#amp_person_1">W</rs>'s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_41">Kammermusik</rs></hi>.<lb/>
+                  <space quantity="24" unit="char"/>__
+               </p>
                <p>
                   <space quantity="9" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> is intending to have a <rs type="event" ref="#amp_event_id_49">cer<del>o</del>emony in memory of the twentieth<lb/>
