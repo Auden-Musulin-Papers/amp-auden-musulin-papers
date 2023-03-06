@@ -73,11 +73,17 @@ for any purpose, even commercially.</p>
          </langUsage>
          <particDesc>
             <listPerson>
-               <person ref="amp_person_1"/>
-               <person ref="amp_person_72"/>
-               <person ref="amp_person_152"/>
+               <person sameAs="amp_person_1"/>
+               <person sameAs="amp_person_72"/>
+               <person sameAs="amp_person_152"/>
             </listPerson>   
          </particDesc>
+         <settingDesc>
+            <setting>
+               <name sameAs="amp_place_id_85">Palais Pálffy</name>
+               <date>April 1967</date>
+            </setting>
+         </settingDesc>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
