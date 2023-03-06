@@ -92,7 +92,7 @@ for any purpose, even commercially.</p>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
                <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
                <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0014.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1969-05-21</ref>
-               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0015.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1970-06-10</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0043.xml">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Freedom and Necessity in the Arts" 1970-05-21</ref>
             </correspContext>
          </correspDesc>
          
@@ -103,7 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer" when="2021-10-29">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-10-29">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-04-01">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
-         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-23">entities and correspDesc collated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-27">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

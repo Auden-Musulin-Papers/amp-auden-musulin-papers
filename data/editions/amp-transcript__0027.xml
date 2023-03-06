@@ -152,7 +152,7 @@ for any purpose, even commercially.</p>
                   it
                </p>
                <p>
-                  <space quantity="17" unit="char"/>Sehr vee<del>rh</del>hrter Herr <rs type="person" ref="#amp_person_112">Landeshauptman<unclear>n</unclear>></rs><unclear>,</unclear>meine Damen und Herren:<lb/>
+                  <space quantity="17" unit="char"/>Sehr vee<del>rh</del>hrter <rs type="person" ref="#amp_person_112">Herr Landeshauptman<unclear>n</unclear></rs><unclear>,</unclear>meine Damen und Herren:<lb/>
                   <space quantity="10" unit="char"/>I hope you will pardon me if I speak somewhat personally. I do so,<lb/>
                   not out of vanity,but bec<del>ua</del>ause <space quantity="1" unit="char"/>I do <del>j</del>not wish to give the impression that I<lb/>
                   am attempting to lay down absolute laws which are valid for all. I give you my<lb/>
@@ -163,8 +163,8 @@ for any purpose, even commercially.</p>
                   itself.<lb/>
                   <space quantity="2" unit="char"/>Between the ages of six and twelve,I spent a great many of my waking hours in<lb/>
                   the fab<del>o</del>rication of a private secondary sacred world,the basic elements of which<lb/>
-                  were <del><del><unclear>at</unclear></del><unclear>O</unclear></del> a) a limestone landscape mainly derived from the Pennine Moors in the<lb/>
-                  North of England and b) an industry - lead-mining.<lb/>
+                  were <del><del><unclear>at</unclear></del><unclear>O</unclear></del> a) a limestone landscape mainly derived from the <rs type="place" ref="#amp_place_id_41">Pennine Moors in the<lb/>
+                  North of England</rs> and b) an industry - lead-mining.<lb/>
                   <space quantity="3" unit="char"/>It is no doubt psychologically significant that my sacred world was autistic -<lb/>
                   that is to say,I had no wish to share it with others no<del>t</del>r could I have done so.<lb/>
                   However,though constructed for and inhabited by myself alone,I needed the help of<lb/>
@@ -179,7 +179,7 @@ for any purpose, even commercially.</p>
                   is an imperative,that is to<unclear>´</unclear> say,one is not free to choose the object or the event<lb/>
                   that arouses it. Though every work of art is a secondary world,it cannot be<lb/>
                   constructed <hi rend="underline">ex nihilo</hi>,but is a selection from and a recombination of the contents of<lb/>
-                  the Primary World. Even the 'purest' poem,in the French Symboliste sense,is<lb/>
+                  the Primary World. Even the 'purest' poem,in the <rs type="org" ref="#amp_organization_48">French Symboliste</rs> sense,is<lb/>
                   made of words which are not the poet's private property,but the communal creation<lb/>
                   of the linguistic group to whom he belongs,so that their meaning can be looked up<lb/>
                   in a dictionary.<lb/>
@@ -245,7 +245,7 @@ for any purpose, even commercially.</p>
                   and writing poetry,there is,of course,a profound difference. A <del>fanatsy</del><lb/>
                   fantasy world exists only in the head of its creator: a poem is a public<lb/>
                   verbal object intended to be read and enjoyed by others. To become conscious<lb/>
-                  of others is to become conscious of historical time<del><gap reason="deleted"/></del> in various ways. The<lb/>
+                  of others is to become conscious of historical time<del><del>.</del></del> in various ways. The<lb/>
                   contents of a poem are necessarily past <del>expereinces</del> experiences,and the goal of<lb/>
                   a poem is <del>necessaily</del> necessarily in the future,since it cannot be read until<lb/>
                   it has been written. Again<unclear>,</unclear>to write a poem is to engage in an activity which<lb/>
@@ -344,7 +344,7 @@ for any purpose, even commercially.</p>
                   <del>extraorinary</del> extraordinarily fortunate men like <rs type="person" ref="#amp_person_25">Stravinsky</rs>,<rs type="person" ref="#amp_person_26">Picasso</rs>,<rs type="person" ref="#amp_person_27">Eliot</rs>,<lb/>
                   etc,that is,those persons we think of as the founders of 'modern' art,<lb/>
                   were in being born when they were,so that they came to manhood before<lb/>
-                  I9I4. Until the <del>Fis </del> First World War,western society was still pretty much<lb/>
+                  I9I4. Until the <rs type="event" ref="#amp_event_id_53"><del>Fis </del> First World War</rs>,western society was still pretty much<lb/>
                   what it had been in the nineteenth century. This meant that for these artists,<lb/>
                   the felt need to create something new arose from an artistic imperative,<lb/>
                   not a <del>histroi</del> historic imperative. No one asked himself:<del>"</del>'What is the proper<lb/>

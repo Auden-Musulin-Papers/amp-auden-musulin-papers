@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Photograph Rudolf Blaha of Stella Musulin [?]</title>
+            <title level="a">Portrait Photograph Rudolf Blaha of Stella Musulin 1968-01-01--1996-01-21</title>
             <author>Blaha, Rudolf</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 18</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate>[?]</origDate></origin>
+                        <origin><origDate notBefore="1968-01-01" notAfter="1996-01-21">1968-01-01--1996-01-21</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -76,6 +76,7 @@ for any purpose, even commercially.</p>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer tfruehwirth" when="2022-01-07">text transcribed and caption created</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated, caption removed, renamed, date added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -90,16 +91,13 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0237/" type="nan"/>
-               <p>
-                  Portrait photograph of <rs type="person" ref="#amp_person_2">Stella Musulin</rs> by Rudolf Blaha, undated.
-               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0238/" type="nan"/>
-               <p>
+               <p hand="#stamp">
                   Copyright by<lb/>
-                  RUDOLF BLAHA<lb/>
+                  <rs type="person" ref="#amp_person_198">RUDOLF BLAHA</rs><lb/>
                   BILDREPORTER<lb/>
-                  Leystraße 23/13/16<lb/>
-                  1200 WIEN<lb/>
+                  <rs type="type" ref="#amp_place_id_253">Leystraße 23/13/16<lb/>
+                  1200 WIEN</rs><lb/>
                   Tel.:
                </p>
          </div>

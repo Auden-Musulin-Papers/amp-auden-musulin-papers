@@ -73,18 +73,24 @@
             </langUsage>
             
             <correspDesc>
+                <correspAction type="composed">
+                    <persName ref="#amp_person_2">Musulin, Stella</persName>
+                    <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
+                    <date notBefore="1977-04-05" notAfter="1977-04-05">1977-04-05</date>
+                </correspAction>    
                 <correspAction type="sent">
                     <persName ref="#amp_person_2">Musulin, Stella</persName>
-                    <placeName ref="#amp_place_id_11">Neulinggasse 26/14</placeName>
+                    <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
                     <date>unknown</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#amp_person_137">Kraus, Dr. Wolfgang</persName>
+                    <persName ref="#amp_person_137">Kraus, Wolfgang</persName>
                     <placeName ref="#amp_place_id_85">Herrengasse 5</placeName>
                     <date>unknown</date>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+                    <ref type="belongsToCorrespondence" target="#amp_person_137">Kraus, Wolfgang</ref>
                     <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0060.xml">Typed Letter Signed Stella Musulin to Wolfgang Kraus 1977-04-05</ref>
                     <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0032.xml">Aerogram Signed Edward Mendelson to Stella Musulin 1980-12-01</ref>
                 </correspContext>
@@ -97,6 +103,7 @@
             <change who="tfruehwirth" when="2022-01-28">text transcribed</change>
             <change who="smayer tfruehwirth" when="2022-02-28">transcriptions collated</change>
             <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
+            <change who="dgrigoriou smayer tfruehwirth" when="2023-03-02">entities and correspDesc collated</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -126,7 +133,7 @@
                     <rs type="person" ref="#amp_person_137">Herrn Dr. Wolfgang Kraus</rs>,<lb/>
                     <rs type="org" ref="#amp_organization_9">Österreichische Gesellschaft<lb/>
                     <space quantity="6" unit="char"/>für Literatur</rs><lb/>
-                    <rs type="place" ref="#amp_place_id_85">1010 Wien,<lb/>
+                    <rs type="place" ref="#amp_place_id_177">1010 Wien,<lb/>
                     Palais Wilczek, He<del>e</del>rrengasse 5</rs>.
                 </p>
                 <p>
@@ -137,7 +144,7 @@
                     <rs type="event" ref="#amp_event_id_23">über <rs type="person" ref="#amp_person_1">Auden</rs> sprechen</rs> zu dürfen.
                 </p>
                 <p>
-                    <space quantity="5" unit="char"/>Wie wäre es mit "<rs type="person" ref="#amp_person_1">Auden</rs> und die Österreicher"?<lb/>
+                    <space quantity="5" unit="char"/>Wie wäre es mit <rs type="event" ref="#amp_event_id_23"><rs type="lit_work" ref="#lit_work_id_126">"<rs type="person" ref="#amp_person_1">Auden</rs> und die Österreicher"</rs></rs>?<lb/>
                     Aber wenn nicht, ist mir Alles recht!
                 </p>
                 <p>

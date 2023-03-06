@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Photograph Otto Breicha of W. H. Auden and Mary McCarthy 1967-04</title>
+            <title level="a">Photograph Otto Breicha of W. H. Auden and Mary McCarthy 1967-04-24--1967-04-26</title>
             <author>Breicha, Otto</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 26</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1967-04-24" notAfter="1967-04-26">1967-04</origDate></origin>
+                        <origin><origDate notBefore="1967-04-24" notAfter="1967-04-26">1967-04-24--1967-04-26</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,11 +71,18 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
          </langUsage>
-         
+         <particDesc>
+            <listPerson>
+               <person ref="amp_person_1"/>
+               <person ref="amp_person_72"/>
+               <person ref="amp_person_152"/>
+            </listPerson>   
+         </particDesc>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer tfruehwirth" when="2022-01-07">text transcribed and caption created</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated, caption removed, renamed, date added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -94,10 +101,10 @@ for any purpose, even commercially.</p>
                   Photograph of <rs type="person" ref="#amp_person_1">W. H. Auden</rs> (left) and <rs type="person" ref="#amp_person_72">Mary McCarthy</rs> (middle) by <rs type="person" ref="#amp_person_152">Otto Breicha</rs>, <rs type="place" ref="#amp_place_id_85">Palais Pálffy</rs>, April 1967.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0248/" type="nan"/>
-               <p>
+               <p hand="#handwritten">
                   <unclear>Wien</unclear>, IV.67
                </p>
-               <p>
+               <p hand="#stamp">
                   AUFNAHME:<lb/>
                   <rs type="person" ref="#amp_person_152">OTTO BREICHA</rs><lb/>
                   <rs type="place" ref="#amp_place_id_217">ALSERSTRASSE 48/31<lb/>
