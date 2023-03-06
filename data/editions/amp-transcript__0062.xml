@@ -1296,8 +1296,8 @@ for any purpose, even commercially.</p>
                   <rs type="event" ref="#amp_event_56">Salzburg Festival</rs>. <space quantity="1" unit="char"/>Now, in the following year, <rs type="person" ref="#amp_person_1">Auden</rs> was invited
                </p>
                <p>
-                  <rs type="lit_work" ref="#lit_work_id_5">The Bassarids, Opera Seria with Intermezzo in One Act bas<del>s</del>ed on<lb/>
-                  <rs type="lit_work" ref="#lit_work_id_75">The Bacchae</rs> of <rs type="person" ref="#amp_person_1">Euripides</rs></rs> by <rs type="person" ref="#amp_person_1">W.H. Auden</rs> and <rs type="person" ref="#amp_person_4">Chester Kallman</rs>.<lb/>
+                  §<rs type="lit_work" ref="#lit_work_id_5">The Bassarids, Opera Seria with Intermezzo in One Act bas<del>s</del>ed on<lb/>
+                  <rs type="lit_work" ref="#lit_work_id_75">The Bacchae</rs> of <rs type="person" ref="#amp_person_203">Euripides</rs></rs> by <rs type="person" ref="#amp_person_1">W.H. Auden</rs> and <rs type="person" ref="#amp_person_4">Chester Kallman</rs>.<lb/>
                   Music by <rs type="person" ref="#amp_person_79">Hans Werner Henze</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0390/" type="sheet"/>
@@ -1332,8 +1332,8 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>The <rs type="place" ref="#amp_place_id_28">New York</rs> postmark usually meant an announcement of<lb/>
                   domestic disaster and a request for help, and the winter of 1967<lb/>
                   brought serious disruption to the peaceful running of <rs type="place" ref="#amp_place_id_2">the house<lb/>
-                  at Kirchstetten</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs>'s <rs type="lit_work" ref="#lit_work_id_58">poem to <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></rs> begins in German:<rs type="letter" ref="#amp-transcript__0042.xml"><lb/>
-                  <l>Liebe <rs type="person" ref="#amp_person_16">Frau Emma</rs>,</l> / <l>na, was hast du denn gemacht?</l></rs><lb/>
+                  at Kirchstetten</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs>'s <rs type="lit_work" ref="#lit_work_id_58">poem to <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></rs> begins in <rs type="letter" ref="#amp-transcript__0042.xml">German:</rs><lb/>
+                  <l>Liebe <rs type="person" ref="#amp_person_16">Frau Emma</rs>,</l> / <l>na, was hast du denn gemacht?</l><lb/>
                   and it contains just about all there is to say about her, and her<lb/>
                   relationship with t<del>he two men</del> <rs type="person" ref="#amp_person_1">Auden</rs> and <rs type="person" ref="#amp_person_4">Kallman</rs>. <space quantity="1" unit="char"/><del><unclear>h</unclear></del>How, the poet<lb/>
                   <del>asks</del>exclaims,, could she go and die when they were both away - and what<lb/>
