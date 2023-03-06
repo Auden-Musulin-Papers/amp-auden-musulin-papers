@@ -123,14 +123,14 @@
                     <unclear>A2</unclear>
                 </p>
                 <p>
-                    Herrn <rs type="person" ref="#amp_person_137">Dr. Wolfgang Kraus</rs>,<lb/>
+                    <rs type="person" ref="#amp_person_137">Herrn Dr. Wolfgang Kraus</rs>,<lb/>
                     <rs type="org" ref="#amp_organization_9">Österreichische Gesellschaft<lb/>
                     <space quantity="6" unit="char"/>für Literatur</rs><lb/>
                     <rs type="place" ref="#amp_place_id_85">1010 Wien,<lb/>
                     Palais Wilczek, He<del>e</del>rrengasse 5</rs>.
                 </p>
                 <p>
-                    Sehr geehrter, lieber Herr <rs type="person" ref="#amp_person_137">Doktor</rs> !
+                    Sehr geehrter, lieber <rs type="person" ref="#amp_person_137">Herr Doktor</rs> !
                 </p>
                 <p>
                     <space quantity="5" unit="char"/>Es wird für mich eine Ehre sein, am 5. Mai<lb/>
