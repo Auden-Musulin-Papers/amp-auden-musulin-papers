@@ -71,7 +71,19 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
          </langUsage>
-         
+         <particDesc>
+            <listPerson>
+               <person sameAs="amp_person_1"/>
+               <person sameAs="amp_person_4"/>
+               <person sameAs="amp_person_93"/>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <setting>
+               <name sameAs="amp_place_id_254">Loreto</name>
+               <date>November 1960</date>
+            </setting>
+         </settingDesc>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>

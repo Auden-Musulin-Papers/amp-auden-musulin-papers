@@ -71,7 +71,25 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
          </langUsage>
-         
+         <particDesc>
+         <listPerson>
+            <person sameAs="amp_person_1"/>
+            <person sameAs="amp_person_162"/>
+            <person sameAs="amp_person_4"/>
+            <person sameAs="amp_person_192"/>
+            <person sameAs="amp_person_172"/>
+            <person sameAs="amp_person_193"/>
+            <person sameAs="amp_person_93"/>
+         </listPerson>
+         </particDesc>
+         <settingDesc>
+            <setting>
+               <name sameAs="amp_place_id_254">Loreto</name>
+               <date>November 1960</date>
+               <name sameAs="amp_place_id_7">Fridau, Ober-Grafendorf</name>
+               <date>November 1960</date>
+            </setting>
+         </settingDesc>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -92,7 +110,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/" type="nan"/>
                <p>
-                  Baroque Pietà ,<rs type="place" ref="amp_place_id_254">Loreto</rs>.<lb/>
+                  Baroque Pietà ,<rs type="place" ref="#amp_place_id_254">Loreto</rs>.<lb/>
                </p>
                <p>
                   <rs type="person" ref="#amp_person_1">Wystan Auden</rs>
@@ -102,16 +120,7 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/" type="nan"/>
                <p>
-                  <rs type="person" ref="#amp_person_192">Marga Tacoli</rs>, <rs type="person" ref="#amp_person_172">Gherardo Tacoli</rs> <rs type="person" ref="#amp_person_193">Alexander Tacoli</rs>, <rs type="place" ref="#amp_place_id_7">Fridau, Ober-Grafendorf</rs>, November 1960.
-               </p>
-               <p>
-                  Top right: Private photograph of <rs type="person" ref="#amp_person_93">Elsa Musulin</rs> (left), <rs type="person" ref="#amp_person_193">Alexander Tacoli</rs> (middle), <rs type="person" ref="#amp_person_172">Gherardo Tacoli</rs> (right, back), <rs type="person" ref="#amp_person_192">Marga Tacoli</rs> (right, front), <rs type="place" ref="#amp_place_id_7">Fridau, Ober-Grafendorf</rs>, November 1960.
-               </p>
-               <p>
                   Allerheiligen 1960 .
-               </p>
-               <p>
-                  Bottom: Private photograph of <rs type="person" ref="#amp_person_192">Marga Tacoli</rs> (back) and <rs type="person" ref="#amp_person_193">Alexander Tacoli</rs> (front), <rs type="place" ref="#amp_place_id_7">Fridau, Ober-Grafendorf</rs>, November 1960.
                </p>
          </div>
       </body>
