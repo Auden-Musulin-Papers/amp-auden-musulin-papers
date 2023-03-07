@@ -220,8 +220,8 @@
   </rico:Record>
   <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0028">
     <rico:hasOrHadIdentifier>amp_0028</rico:hasOrHadIdentifier>
-    <rico:hasOrHadName>Typescript Stella Musulin "In Retrospect" 1985-11-29--1990-03-13</rico:hasOrHadName>
-    <rico:isAssociatedWithDate>1985-11-29--1990-03-13</rico:isAssociatedWithDate>
+    <rico:hasOrHadName>Typescript Stella Musulin "In Retrospect" 1985-11-29--1990-03-28</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1985-11-29--1990-03-28</rico:isAssociatedWithDate>
     <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_s.html</rico:hasAuthor>
     <rico:hasContentOfType>text</rico:hasContentOfType>
     <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
@@ -384,9 +384,33 @@
     <rico:hasContentOfType>text</rico:hasContentOfType>
     <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
   </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0048">
+    <rico:hasOrHadIdentifier>amp_0048</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Portrait Photograph Rudolf Blaha of Stella Musulin 1968-01-01--1996-01-21</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1968-01-01--1996-01-21</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/blaha_r.html</rico:hasAuthor>
+    <rico:hasContentOfType>photographic image</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0049">
+    <rico:hasOrHadIdentifier>amp_0049</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Invitation Card Österreichische Gesellschaft für Literatur Poetry Reading W. H. Auden 1973-01-01--1973-09-28</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1973-01-01--1973-09-28</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/kraus_w.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0050">
+    <rico:hasOrHadIdentifier>amp_0050</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Photograph Otto Breicha of W. H. Auden and Mary McCarthy 1967-04-24--1967-04-26</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1967-04-24--1967-04-26</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/breicha_o.html</rico:hasAuthor>
+    <rico:hasContentOfType>photographic image</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu</rico:hasOrHadLanguage>
+  </rico:Record>
   <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0051">
     <rico:hasOrHadIdentifier>amp_0051</rico:hasOrHadIdentifier>
-    <rico:hasOrHadName>Typed Notes [Janko Musulin] on W. H. Auden "Freedom and Necessity in the Arts" 1970-05-19--1970-06-10</rico:hasOrHadName>
+    <rico:hasOrHadName>Typescript [Janko Musulin] Translation W. H. Auden "Freedom and Necessity in the Arts" 1970-05-19--1970-06-10</rico:hasOrHadName>
     <rico:isAssociatedWithDate>1970-05-19--1970-06-10</rico:isAssociatedWithDate>
     <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_j.html</rico:hasAuthor>
     <rico:hasContentOfType>text</rico:hasContentOfType>
@@ -407,6 +431,28 @@
     <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_s.html</rico:hasAuthor>
     <rico:hasContentOfType>text</rico:hasContentOfType>
     <rico:hasOrHadLanguage>deu</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0054">
+    <rico:hasOrHadIdentifier>amp_0054</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Photographs [Stella Musulin] of W. H. Auden, Chester Kallman, and Elsa Musulin 1960-07-21--1960-11-02</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1960-07-21--1960-11-02</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_t.html</rico:hasAuthor>
+    <rico:hasContentOfType>photographic image</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0055">
+    <rico:hasOrHadIdentifier>amp_0055</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Photograph [Stella Musulin] of W. H. Auden, Chester Kallman, and Elsa Musulin 1960-07-21--1960-11-02</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1960-07-21--1960-11-02</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_t.html</rico:hasAuthor>
+    <rico:hasContentOfType>photographic image</rico:hasContentOfType>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0056">
+    <rico:hasOrHadIdentifier>amp_0056</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Autograph Notes [?] on Stella Musulin "Auden in Kirchstetten" and "In Retrospect" 1985-11-29--1990-03-28</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1985-11-29--1990-03-28</rico:isAssociatedWithDate>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>eng</rico:hasOrHadLanguage>
   </rico:Record>
   <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0057">
     <rico:hasOrHadIdentifier>amp_0057</rico:hasOrHadIdentifier>
@@ -432,6 +478,22 @@
     <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/auden_w.html</rico:hasAuthor>
     <rico:hasContentOfType>text</rico:hasContentOfType>
     <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0060">
+    <rico:hasOrHadIdentifier>amp_0060</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Typed Letter Wolfgang Kraus to Stella Musulin 1977-03-22</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1977-03-22</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/kraus_w.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu</rico:hasOrHadLanguage>
+  </rico:Record>
+  <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0061">
+    <rico:hasOrHadIdentifier>amp_0061</rico:hasOrHadIdentifier>
+    <rico:hasOrHadName>Typed Letter Signed Stella Musulin to Wolfgang Kraus 1977-04-05</rico:hasOrHadName>
+    <rico:isAssociatedWithDate>1977-04-05</rico:isAssociatedWithDate>
+    <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_s.html</rico:hasAuthor>
+    <rico:hasContentOfType>text</rico:hasContentOfType>
+    <rico:hasOrHadLanguage>deu</rico:hasOrHadLanguage>
   </rico:Record>
   <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0062">
     <rico:hasOrHadIdentifier>amp_0062</rico:hasOrHadIdentifier>
@@ -459,10 +521,22 @@
   <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/musulin_e.html">
     <rico:hasOrHadAgentName>Musulin, Elsa</rico:hasOrHadAgentName>
   </rico:Agent>
+  <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/blaha_r.html">
+    <rico:hasOrHadAgentName>Blaha, Rudolf</rico:hasOrHadAgentName>
+  </rico:Agent>
+  <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/kraus_w.html">
+    <rico:hasOrHadAgentName>Kraus, Wolfgang</rico:hasOrHadAgentName>
+  </rico:Agent>
+  <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/breicha_o.html">
+    <rico:hasOrHadAgentName>Breicha, Otto</rico:hasOrHadAgentName>
+  </rico:Agent>
   <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/musulin_j.html">
     <rico:hasOrHadAgentName>Musulin, Janko</rico:hasOrHadAgentName>
   </rico:Agent>
   <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/spiel_h.html">
     <rico:hasOrHadAgentName>Spiel, Hilde</rico:hasOrHadAgentName>
+  </rico:Agent>
+  <rico:Agent rdf:about="https://amp.acdh.oeaw.ac.at/musulin_t.html">
+    <rico:hasOrHadAgentName>Musulin,Stella</rico:hasOrHadAgentName>
   </rico:Agent>
 </rdf:RDF>
