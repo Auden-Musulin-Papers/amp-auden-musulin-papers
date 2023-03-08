@@ -1236,7 +1236,7 @@ for any purpose, even commercially.</p>
                   b<del>a</del>y invitation, but no interv<del>n</del>ention from the floor was allowed<lb/>
                   and seldom desired by the listeners. <space quantity="1" unit="char"/><unclear>I</unclear>t was enough to hear<lb/>
                   <rs type="person" ref="#amp_person_73">Francis Bondy</rs> and <rs type="person" ref="#amp_person_72">Mary McCarthy</rs>, to enjoy the striking contrast<lb/>
-                  between <rs type="person" ref="#amp_person_74">Yefrim Etkind</rs> of Leningrad <del>(now at the <rs type="org" ref="#amp_organization_36">University of Paris</rs>),</del><lb/>
+                  between <rs type="person" ref="#amp_person_74">Yefrim Etkind</rs> of <rs type="place" ref="#amp_place_id_135">Leningrad</rs> <del>(now at the <rs type="org" ref="#amp_organization_36">University of Paris</rs>),</del><lb/>
                   and <rs type="person" ref="#amp_person_182">the square-headed commissar type from <rs type="place" ref="#amp_place_id_138">Moscow</rs></rs>. <space quantity="1" unit="char"/>And if some<lb/>
                   of the read contributions were dry, lifeless and badly delivered,<lb/>
                   we only had to wait for the knockout blow from <rs type="person" ref="#amp_person_75">Mar<del>f</del>cel Reich-Ranicki</rs>.<lb/>
@@ -1333,7 +1333,26 @@ for any purpose, even commercially.</p>
                   domestic disaster and a request for help, and the winter of 1967<lb/>
                   brought serious disruption to the peaceful running of <rs type="place" ref="#amp_place_id_2">the house<lb/>
                   at Kirchstetten</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs>'s <rs type="lit_work" ref="#lit_work_id_58">poem to <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></rs> begins in <rs type="letter" ref="#amp-transcript__0042.xml">German:</rs><lb/>
-                  <lg><l>Liebe <rs type="person" ref="#amp_person_16">Frau Emma</rs>,</l> / <l>na, was hast du denn gemacht?</l></lg><lb/>
+                  <lg><l>Liebe <rs type="person" ref="#amp_person_16">Frau Emma</rs>,</l> / <l>na, was hast du denn gemacht?</l>         <particDesc>
+                     <listPerson>
+                        <person sameAs="amp_person_1"/>
+                        <person sameAs="amp_person_162"/>
+                        <person sameAs="amp_person_4"/>
+                        <person sameAs="amp_person_192"/>
+                        <person sameAs="amp_person_172"/>
+                        <person sameAs="amp_person_193"/>
+                        <person sameAs="amp_person_93"/>
+                     </listPerson>
+                  </particDesc>
+                     <settingDesc>
+                        <setting>
+                           <name sameAs="amp_place_id_254">Loreto</name>
+                           <date>November 1960</date>
+                           <name sameAs="amp_place_id_7">Fridau, Ober-Grafendorf</name>
+                           <date>November 1960</date>
+                        </setting>
+                     </settingDesc>
+                     </profileDesc></lg><lb/>
                   and it contains just about all there is to say about her, and her<lb/>
                   relationship with t<del>he two men</del> <rs type="person" ref="#amp_person_1">Auden</rs> and <rs type="person" ref="#amp_person_4">Kallman</rs>. <space quantity="1" unit="char"/><del><unclear>h</unclear></del>How, the poet<lb/>
                   <del>asks</del>exclaims,, could she go and die when they were both away - and what<lb/>
@@ -2586,7 +2605,7 @@ for any purpose, even commercially.</p>
                   it never seemed to me that it was any business of mine to try to do so.<lb/>
                   But I saw something of <rs type="person" ref="#amp_person_4">Chester</rs> without <rs type="person" ref="#amp_person_1">Wystan</rs><del>´</del>: <space quantity="1" unit="char"/>during the winter<lb/>
                   that he spent alone in <rs type="place" ref="#amp_place_id_1">Vienna</rs> in a flat in the <rs type="place" ref="#amp_place_id_71">Esslar<del>h</del>ngasse</rs> not far<lb/>
-                  from <rs type="place" ref="#amp_place_id_11">my own</rs>, and when he was in <rs type="place" ref="#amp_place_id_105">hospital in St.Pölten</rs> for treatment.<lb/>
+                  from <rs type="place" ref="#amp_place_id_11">my own</rs>, and when he was in <rs type="org" ref="#amp_organization_42">hospital in St.Pölten</rs> for treatment.<lb/>
                   He was a person full of contrasts where vulgarity and second-rate<lb/>
                   humour and tastes lived side by side<del>e</del> with a remarkable personal<lb/>
                   sensitivity and with talent and discrimination in the <del>e</del>spheres of<lb/>
