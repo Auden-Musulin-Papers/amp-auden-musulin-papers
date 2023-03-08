@@ -774,7 +774,7 @@ for any purpose, even commercially.</p>
                   speak from personal <del>ex</del> knowledge." <space quantity="1" unit="char"/>(The letter continues with an
                </p>
                <p>
-                  § in th<del>4</del>e <rs type="place" ref="#amp_place_id_218">Burgtheater</rs>, where<del>,such is Austrian logic,</del> he works as a<lb/>
+                  § in th<del>4</del>e <rs type="org" ref="#amp_organization_59">Burgtheater</rs>, where<del>,such is Austrian logic,</del> he works as a<lb/>
                   <del>chief</del> dramatu<del>g</del>rgist.  
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0368/" type="sheet"/>
@@ -1195,7 +1195,7 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="5" unit="char"/>On May 24th 1965,<rs type="person" ref="#amp_person_1">Auden<del>Auden</del></rs> under the auspices of the <rs type="org" ref="#amp_organization_35">Austro-<rs type="org" ref="#amp_organization_16">British<lb/>
                   Council</rs></rs> and <rs type="org" ref="#amp_organization_9">the Society for Literat<unclear>u</unclear>re</rs>, <rs type="person" ref="#amp_person_1">Auden</rs> gave a <rs type="event" ref="#amp_event_id_29">talk on <rs type="person" ref="#amp_person_27">T.S. Eliot</rs></rs> in the lecture hall of<lb/>
-                  <rs type="place" ref="#amp_place_id_229">the <del>Museum of</del> Natural History Museum on the Ring</rs>. <space quantity="2" unit="char"/><unclear>I</unclear>t was very<lb/>
+                  <rs type="org" ref="#amp_organization_61">the <del>Museum of</del> Natural History Museum on the Ring</rs>. <space quantity="2" unit="char"/><unclear>I</unclear>t was very<lb/>
                   well attended, largely by crowds of note-taking students of<lb/>
                   Eng. Lit, and I have never been quite sure whether, at one moment,<lb/>
                   he was treating us to a bit of traditional stage business. <space quantity="1" unit="char"/>He<lb/>
@@ -1319,7 +1319,7 @@ for any purpose, even commercially.</p>
                   Towards the end, where he should be riding high in an appeal for<lb/>
                   devotion to <del>the</del> optimal standards in music and the arts in general<lb/>
                   and opera in particular, he was grumbling about the <del>functional</del><lb/>
-                  erratic workings of the curtain in the <rs type="place" ref="#amp_place_id_231">Festspielhaus</rs> and the lack<lb/>
+                  erratic workings of the curtain in the <rs type="org" ref="#amp_organization_62">Festspielhaus</rs> and the lack<lb/>
                   of canteen facilities for the scen<del>s</del>eshifters. <space quantity="1" unit="char"/>It was a horrible<lb/>
                   anticlimax. <space quantity="1" unit="char"/><del>It was not easy to say</del>How could one tell him this in such a way as to<lb/>
                   get results without offending him? <space quantity="1" unit="char"/>And there was another thing:<lb/>
@@ -1333,26 +1333,7 @@ for any purpose, even commercially.</p>
                   domestic disaster and a request for help, and the winter of 1967<lb/>
                   brought serious disruption to the peaceful running of <rs type="place" ref="#amp_place_id_2">the house<lb/>
                   at Kirchstetten</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs>'s <rs type="lit_work" ref="#lit_work_id_58">poem to <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></rs> begins in <rs type="letter" ref="#amp-transcript__0042.xml">German:</rs><lb/>
-                  <lg><l>Liebe <rs type="person" ref="#amp_person_16">Frau Emma</rs>,</l> / <l>na, was hast du denn gemacht?</l>         <particDesc>
-                     <listPerson>
-                        <person sameAs="amp_person_1"/>
-                        <person sameAs="amp_person_162"/>
-                        <person sameAs="amp_person_4"/>
-                        <person sameAs="amp_person_192"/>
-                        <person sameAs="amp_person_172"/>
-                        <person sameAs="amp_person_193"/>
-                        <person sameAs="amp_person_93"/>
-                     </listPerson>
-                  </particDesc>
-                     <settingDesc>
-                        <setting>
-                           <name sameAs="amp_place_id_254">Loreto</name>
-                           <date>November 1960</date>
-                           <name sameAs="amp_place_id_7">Fridau, Ober-Grafendorf</name>
-                           <date>November 1960</date>
-                        </setting>
-                     </settingDesc>
-                     </profileDesc></lg><lb/>
+                  <lg><l>Liebe <rs type="person" ref="#amp_person_16">Frau Emma</rs>,</l> / <l>na, was hast du denn gemacht?</l></lg><lb/>
                   and it contains just about all there is to say about her, and her<lb/>
                   relationship with t<del>he two men</del> <rs type="person" ref="#amp_person_1">Auden</rs> and <rs type="person" ref="#amp_person_4">Kallman</rs>. <space quantity="1" unit="char"/><del><unclear>h</unclear></del>How, the poet<lb/>
                   <del>asks</del>exclaims,, could she go and die when they were both away - and what<lb/>
