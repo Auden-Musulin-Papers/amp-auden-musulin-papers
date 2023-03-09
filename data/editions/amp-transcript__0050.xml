@@ -72,11 +72,72 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
          </langUsage>
          <particDesc>
-            <listPerson>
-               <person sameAs="amp_person_1"/>
-               <person sameAs="amp_person_72"/>
-               <person sameAs="amp_person_152"/>
-            </listPerson>   
+               <listPerson type="identified">
+               <person role="participant" sameAs="amp_person_1">
+                  <persName>
+                     <forename>W. H.</forename>
+                     <surname>Auden</surname>
+                  </persName>   
+                  <birth>
+                     <date when-iso="1907-02-21">1907-02-21</date>
+                     <settlement key="amp_place_id_3">
+                        <placeName>York</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="1973-09-29">1973-09-29</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/118650963</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q178698</idno>        
+            </person>
+               </listPerson>
+             <listPerson type="identified">   
+              <person role="participant" sameAs="amp_person_72">
+                <persName>
+                   <forename>Mary</forename>
+                   <surname>McCarthy</surname>
+                </persName>
+                <birth>
+                   <date when-iso="1912-06-21">1912-06-21</date>
+                   <settlement key="amp_place_id_134">
+                      <placeName>Seattle</placeName>
+                   </settlement>
+                </birth>
+                <death>
+                   <date when-iso="1989-10-25">1989-10-25</date>
+                   <settlement key="amp_place_id_28">
+                      <placeName>New York City</placeName>
+                   </settlement>
+                </death>
+                <idno type="GND">https://d-nb.info/gnd/118575686</idno>
+                <idno type="WIKIDATA">http://www.wikidata.org/entity/Q268147</idno>
+                </person>
+             </listPerson>
+               <listPerson type="identified">   
+               <person role="participant" sameAs="amp_person_152">
+                  <persName>
+                     <forename>Otto</forename>
+                     <surname>Breicha</surname>
+                  </persName>
+                  <birth>
+                     <date when-iso="1932-07-26">1932-07-26</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </birth>
+                  <death>
+                     <date when-iso="2003-12-28">2003-12-28</date>
+                     <settlement key="amp_place_id_1">
+                        <placeName>Vienna</placeName>
+                     </settlement>
+                  </death>
+                  <idno type="GND">https://d-nb.info/gnd/116469986</idno>
+                  <idno type="WIKIDATA">http://www.wikidata.org/entity/Q2038348</idno>
+               </person>       
+               </listPerson>
          </particDesc>
          <settingDesc>
             <setting>
