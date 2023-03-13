@@ -72,10 +72,16 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
          </langUsage>
          <particDesc>
-            <listPerson>
-               <person sameAs="amp_person_1"/>
-               <person sameAs="amp_person_4"/>
-               <person sameAs="amp_person_93"/>
+            <listPerson type="identified">
+               <person role="participant" sameAs="amp_person_1">
+                  <note type="description">left side</note>
+               </person>
+               <person role="participant" sameAs="amp_person_162">    
+                  <note type="description">middle</note>
+               </person>
+               <person role="participant" sameAs="amp_person_4">    
+                  <note type="description">right side</note>  
+               </person>  
             </listPerson>
          </particDesc>
          <settingDesc>
@@ -102,8 +108,8 @@ for any purpose, even commercially.</p>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0235/" type="nan"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0236/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0235/" type="photo"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0236/" type="photo"/>
          </div>
       </body>
    </text>

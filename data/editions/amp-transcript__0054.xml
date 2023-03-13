@@ -72,14 +72,52 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
          </langUsage>
          <particDesc>
-         <listPerson>
-            <person sameAs="amp_person_1"/>
-            <person sameAs="amp_person_162"/>
-            <person sameAs="amp_person_4"/>
-            <person sameAs="amp_person_192"/>
-            <person sameAs="amp_person_172"/>
-            <person sameAs="amp_person_193"/>
-            <person sameAs="amp_person_93"/>
+           <listPerson type="identified">
+            <person role="participant" sameAs="amp_person_1">
+               <note>Front page: Top right</note>
+            </person>  
+            <person role="participant" sameAs="amp_person_1">
+               <note>Front page: Bottom left, left side</note>
+            </person> 
+            <person role="participant" sameAs="amp_person_162">
+               <note>Front page: Bottom left, middle</note>
+            </person>
+            <person sameAs="amp_person_4">
+               <note>Front page: Bottom left, right side</note>
+            </person>
+              <person role="participant" sameAs="amp_person_162">
+                 <note>Front page: Bottom right, left side</note>
+              </person> 
+              <person role="participant" sameAs="amp_person_1">
+                 <note>Front page: Bottom right, right side</note>
+              </person>
+              <person role="participant" sameAs="amp_person_192">
+                 <note>Back page: Top left, left side</note>
+              </person>
+              <person role="participant" sameAs="amp_person_172">
+                 <note>Back page: Top left, middle</note>
+              </person>
+              <person role="participant" sameAs="amp_person_193">
+                 <note>Back page: Top left, right side</note>
+              </person>
+              <person role="participant" sameAs="amp_person_162">
+                 <note>Back page: Top right, left side</note>
+              </person>
+              <person role="participant" sameAs="amp_person_193">
+                 <note>Back page: Top right, middle</note>
+              </person>
+              <person role="participant" sameAs="amp_person_172">
+                 <note>Back page: Top right, right side back</note>
+              </person>
+              <person role="participant" sameAs="amp_person_192">
+                 <note>Back page: Top right, right side front</note>
+              </person>
+              <person role="participant" sameAs="amp_person_192">
+                 <note>Back page: Bottom left, back</note>
+              </person>
+              <person role="participant" sameAs="amp_person_193">
+                 <note>Back page: Bottom left, front</note>
+              </person>
          </listPerson>
          </particDesc>
          <settingDesc>
@@ -108,7 +146,7 @@ for any purpose, even commercially.</p>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/" type="photo"/>
                <p>
                   Baroque Pietà ,<rs type="place" ref="#amp_place_id_254">Loreto</rs>.<lb/>
                </p>
@@ -118,7 +156,7 @@ for any purpose, even commercially.</p>
                <p>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear>A.</rs> <rs type="person" ref="#amp_person_162">Mama</rs>, <rs type="person" ref="#amp_person_4">Chester Kalmann</rs>.
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/" type="photo"/>
                <p>
                   Allerheiligen 1960 .
                </p>
