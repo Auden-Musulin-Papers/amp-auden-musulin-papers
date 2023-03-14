@@ -80,7 +80,7 @@ for any purpose, even commercially.</p>
             </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_29">77 St Mark's Place</placeName>
+               <placeName ref="#amp_place_id_28">New York City</placeName>
                <date notBefore="1972-02-23" notAfter="1972-02-23">1972-02-23</date>
             </correspAction>
             <correspAction type="received">

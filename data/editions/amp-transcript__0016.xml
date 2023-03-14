@@ -80,7 +80,7 @@ for any purpose, even commercially.</p>
             </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
+               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore="1970-09-18" notAfter="1970-09-18">1970-09-18</date>
             </correspAction>
             <correspAction type="received">

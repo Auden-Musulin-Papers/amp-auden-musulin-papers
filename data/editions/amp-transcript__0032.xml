@@ -80,7 +80,7 @@ for any purpose, even commercially.</p>
             </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_98">Mendelson, Edward</persName>
-               <placeName ref="#amp_place_id_171">39 Claremont Ave, apt 32</placeName>
+               <placeName>unknown</placeName>
                <date notBefore="1980-12-02" notAfter="1980-12-02">1980-12-02</date>
             </correspAction>
             <correspAction type="received">

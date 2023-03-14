@@ -80,7 +80,7 @@ for any purpose, even commercially.</p>
             </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName type="place" ref="#amp_place_id_7">Fridau</placeName>
+               <placeName>unknown</placeName>
                <date>unknown</date>
             </correspAction>
             <correspAction type="received">

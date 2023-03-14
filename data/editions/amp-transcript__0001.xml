@@ -75,12 +75,12 @@ for any purpose, even commercially.</p>
          <correspDesc>
             <correspAction type="composed">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
+               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
                <date notBefore="1963-05-12" notAfter="1963-05-12">1963-05-12</date>
             </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
+               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore="1963-05-13" notAfter="1963-05-13">1963-05-13</date>
             </correspAction>
             <correspAction type="received">
@@ -126,6 +126,26 @@ for any purpose, even commercially.</p>
       </surface>
    </facsimile>
    <text type="letter" hand="#handwritten">
+      <envelope type="220x110">
+         <envPart side="front">
+            <persName sameAs="#amp_person_2">Musulin, Stella</persName>
+            <address type="receiver">
+               <addrLine sameAs="#amp_place_id_11">Neulinggasse 26</addrLine>
+               <note>deleted address</note>
+            </address>
+            <address type="receiver">
+               <addrLine sameAs="#amp_place_id_7">Fridau</addrLine>
+               <note>redirected address</note>
+            </address>
+            <postmark>
+               <placeName sameAs="#amp_place_id_5">Kirchstetten</placeName>
+               <date value="1963-05-12">13.V.63'13</date>
+            </postmark>
+            <envPart side="back">
+               <address type="sender">
+                  <persName sameAs="#amp_person_1">Auden, W. H</persName>
+                  <addrLine sameAs="#amp_place_id_5">Kirchstetten</addrLine>
+      </envelope>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope"/>
