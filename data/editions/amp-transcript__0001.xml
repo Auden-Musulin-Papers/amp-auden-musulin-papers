@@ -126,27 +126,6 @@ for any purpose, even commercially.</p>
       </surface>
    </facsimile>
    <text type="letter" hand="#handwritten">
-      <envelope type="220x110">
-         <envPart side="front">
-            <persName sameAs="#amp_person_2">Musulin, Stella</persName>
-            <address type="receiver">
-               <addrLine sameAs="#amp_place_id_11">Neulinggasse 26</addrLine>
-               <note>deleted address</note>
-            </address>
-            <address type="receiver">
-               <addrLine sameAs="#amp_place_id_7">Fridau</addrLine>
-               <note>redirected address</note>
-            </address>
-            <postmark>
-               <placeName sameAs="#amp_place_id_5">Kirchstetten</placeName>
-               <date value="1963-05-13">13.V.63'13</date>
-            </postmark>
-            <envPart side="back">
-               <address type="sender">
-                  <persName sameAs="#amp_person_1">Auden, W. H</persName>
-                  <addrLine sameAs="#amp_place_id_5">Kirchstetten</addrLine>
-               </address>
-      </envelope>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope"/>
