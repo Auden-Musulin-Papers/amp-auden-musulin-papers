@@ -145,6 +145,7 @@ for any purpose, even commercially.</p>
                <address type="sender">
                   <persName sameAs="#amp_person_1">Auden, W. H</persName>
                   <addrLine sameAs="#amp_place_id_5">Kirchstetten</addrLine>
+               </address>
       </envelope>
       <body>
          <div xml:id="transcription">
