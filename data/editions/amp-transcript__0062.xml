@@ -835,7 +835,7 @@ for any purpose, even commercially.</p>
                   on the eve of Epiphany - 5 January 1967 -</rs> in which the libretto
                </p>
                <p>
-                  § <rs type="lit_work" ref="#lit_work_id_127">Article</rs> in <rs type="lit_work" ref="#lit_work_id_65">Die Zeit</rs>, <rs type="place" ref="#amp_place_id_126">Hamburg</rs>, 23.4.1965, by <rs type="person" ref="#amp_person_163">Cornelia Jacobsen</rs>
+                  § <rs type="lit_work" ref="#lit_work_id_127">Article</rs> in <rs type="org" ref="#amp_organization_66">Die Zeit</rs>, <rs type="place" ref="#amp_place_id_126">Hamburg</rs>, 23.4.1965, by <rs type="person" ref="#amp_person_163">Cornelia Jacobsen</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0370/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0371/" type="sheet"/>
@@ -1050,7 +1050,7 @@ for any purpose, even commercially.</p>
                   to torture. <space quantity="1" unit="char"/>And I had complained that certain attitudes found<lb/>
                   in so-called liberal circles tended to push one further to the<lb/>
                   right than one wished to go. <space quantity="1" unit="char"/>After a sharp comment on the<lb/>
-                  American magazine <rs type="lit_work" ref="#lit_work_id_73">"The National Review"</rs> he continues: <space quantity="1" unit="char"/>"Of<lb/>
+                  American magazine <rs type="org" ref="#amp_organization_24">"The National Review"</rs> he continues: <space quantity="1" unit="char"/>"Of<lb/>
                   course you're right about the lib-labs' ostrich attitude to<lb/>
                   those who wish to destroy them, but one cannot let ones name be<lb/>
                   associated with shits. <space quantity="1" unit="char"/>Torture is the iniquity which utterly<lb/>
@@ -1082,7 +1082,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   This was the private <rs type="person" ref="#amp_person_1">Auden</rs>. <space quantity="1" unit="char"/>The publi<del>s</del>c <rs type="person" ref="#amp_person_1">Auden</rs> in <rs type="lit_work" ref="#lit_work_id_127">the interview</rs><lb/>
-                  with <rs type="lit_work" ref="#lit_work_id_65">"Die Zeit"</rs> quoted earlier, hotly denied that he had been<lb/>
+                  with <rs type="org" ref="#amp_organization_66">"Die Zeit"</rs> quoted earlier, hotly denied that he had been<lb/>
                   lonely. <space quantity="2" unit="char"/>Many of his predecessors, said the interviewer, had<lb/>
                   repeatedly complain<del><gap reason="deleted"/></del>ed that little notice had been taken of<lb/>
                   them and that their stay was far from enjoyable. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs>'s<lb/>
