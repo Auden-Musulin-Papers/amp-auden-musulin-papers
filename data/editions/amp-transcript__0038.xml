@@ -297,8 +297,8 @@ for any purpose, even commercially.</p>
                   (3
                </p>
                <lg>
-                  <space quantity="15" unit="char"/><l>Looking across <del>u</del>our valley</l>
-                  <space quantity="15" unit="char"/><l>Where,hidden from view,</l>
+                  <l><space quantity="15" unit="char"/>Looking across <del>u</del>our valley</l>
+                  <l><space quantity="15" unit="char"/>Where,hidden from view,</l>
                   <space quantity="15" unit="char"/><l><rs type="place" ref="#amp_place_id_252">Sichelbach</rs> tottles westward</l>
                   <space quantity="15" unit="char"/><l>To join the <rs type="place" ref="#amp_place_id_251">Perschling</rs>,</l>
                   <space quantity="15" unit="char"/><l>Humanely modest in scale</l>
