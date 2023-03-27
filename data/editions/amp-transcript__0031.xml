@@ -124,7 +124,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0223/" type="sheet"/>
                <p>
-                  <rs type="place" ref="#amp_place_id_7"><space quantity="40" unit="char"/>Fridau<lb/>
+                  <space quantity="40" unit="char"/><rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                   <space quantity="36" unit="char"/>A-3200 Obergrafendorf<lb/>
                   <space quantity="42" unit="char"/>bei St.Pölten, Austria</rs>.<lb/>
                   <space quantity="46" unit="char"/>15 De<del>d</del>cember 1985.
