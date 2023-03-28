@@ -79,6 +79,9 @@ for any purpose, even commercially.</p>
                   <person role="participant" sameAs="amp_person_72">    
                      <note type="description">middle</note>
                      </person>
+                  <person role="participant">    
+                     <note type="description">right side</note>
+                  </person>
                      <person role="participant" sameAs="amp_person_152">    
                        <note type="description">photographer</note>  
                   </person>  
