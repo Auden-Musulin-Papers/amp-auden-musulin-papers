@@ -85,12 +85,12 @@ for any purpose, even commercially.</p>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_11">Neulinggasse 26/14</placeName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
                <date>unknown</date>
             </correspAction>
             <correspAction type="redirected">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_215">2 Seaforth St. Julian's Street</placeName>
+               <placeName ref="#amp_place_id_215">St Julian's Street</placeName>
                <date notBefore="1970-07-11" notAfter="1970-07-11">1970-07-11</date>
             </correspAction>
             <correspContext>

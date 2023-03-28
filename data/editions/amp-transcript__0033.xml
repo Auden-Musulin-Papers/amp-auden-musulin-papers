@@ -80,12 +80,12 @@ for any purpose, even commercially.</p>
             </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_98">Mendelson, Edward</persName>
-               <placeName>unknown</placeName>
+               <placeName ref="#amp_place_id_28">New York City</placeName>
                <date notBefore="1980-11-23" notAfter="1980-11-23">1980-11-23</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_172">Schlösselgasse 8/17</placeName>
+               <placeName ref="#amp_place_id_172">Schlösselgasse 8</placeName>
                <date>unknown</date>
             </correspAction>
             <correspContext>

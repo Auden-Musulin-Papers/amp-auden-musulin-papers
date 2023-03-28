@@ -80,7 +80,7 @@
                 </correspAction>     
                 <correspAction type="sent">
                     <persName ref="#amp_person_99">O'Sullivan, Michael</persName>
-                    <placeName ref="#amp_place_id_173">22, Kildare Street</placeName>
+                    <placeName>unknown</placeName>
                     <date>unknown</date>
                 </correspAction>
                 <correspAction type="received">

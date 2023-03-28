@@ -85,7 +85,7 @@ for any purpose, even commercially.</p>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_11">Neulinggasse 26, Wien III</placeName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
                <date>unknown</date>
             </correspAction>
             <correspAction type="redirected">
