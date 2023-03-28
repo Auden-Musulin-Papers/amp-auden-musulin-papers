@@ -75,7 +75,7 @@ for any purpose, even commercially.</p>
          <correspDesc>
             <correspAction type="composed">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName>unknown</placeName>
+               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
                <date>unknown</date>
             </correspAction>
             <correspAction type="sent">
