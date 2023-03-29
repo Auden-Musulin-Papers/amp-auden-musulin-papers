@@ -73,16 +73,27 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
+               <date notBefore="1961-08-16" notAfter="1961-08-16">1961-08-16</date>
+            </correspAction>
             <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore="1961-08-16" notAfter="1961-08-16">1961-08-16</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="#musulin-stella">Musulin, Stella</persName>
-               <placeName ref="#"/>
-               <date/>
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
+               <date>unknown</date>
             </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0058.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1960-07-22--1965-09-28</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0057.xml">Envelope W. H. Auden to Stella Musulin 1961-04-25--1961-10-25</ref>
+            </correspContext>
          </correspDesc>
          
       </profileDesc>
@@ -92,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer" when="2021-10-21">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-10-22">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-17">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -113,39 +125,39 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0117/" type="envelope"/>
                <p>
-                  Die Baronin<lb/>
-                  Stella Mu<del><gap reason="deleted"/></del><unclear>s</unclear>silin<lb/>
-                  <hi rend="underline">Wien III</hi><lb/>
-                  Neulingasse 26.
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
+                  Stella Mu<del><gap reason="deleted"/></del><unclear>s</unclear>silin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
+                  Neulingasse 26</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0118/" type="envelope"/>
                <p>
-                  W.H.Auden
+                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs>
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0119/" type="sheet"/>
                <p>
                   August 16th
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
-                  <del>De</del>Dear Stella:<lb/>
+                  <del>De</del>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Del<unclear>i</unclear>ghted to hear yo<del><gap reason="deleted"/></del><unclear>u</unclear> are<lb/>
-                  back and would love to see you<lb/>
-                  anytime<unclear>:</unclear> Are you living in Wien or<lb/>
-                  in Obergrabendorf.?<lb/>
-                  I read your piece in <hi rend="underline">Die Presse</hi><lb/>
+                  <rs type="place" ref="#amp_place_id_10">back</rs> and would love to see you<lb/>
+                  anytime<unclear>:</unclear> Are you living in <rs type="place" ref="#amp_place_id_1">Wien</rs> or<lb/>
+                  in <rs type="place" ref="#amp_place_id_8">Obergrabendorf</rs>.?<lb/>
+                  I read <rs type="lit_work" ref="#lit_work_id_87">your piece in <rs type="org" ref="#amp_organization_39"><hi rend="underline">Die Presse</hi></rs></rs><lb/>
                   last Sunday <unclear>wi</unclear>th great int<unclear>e</unclear>re<unclear>s</unclear>t<unclear>,</unclear><lb/>
                   yours ever<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0120/" type="sheet"/>
          </div>

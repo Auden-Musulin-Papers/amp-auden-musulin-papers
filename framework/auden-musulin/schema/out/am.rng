@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2022-10-11T13:16:12Z. .
+Schema generated from ODD source 2022-12-15T08:39:33Z. .
 TEI Edition: Version 4.1.0. Last updated on
 	19th August 2020, revision b414ba550
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.1.0/
@@ -280,6 +280,52 @@ Sample values include: 1] all; 2] most; 3] range</a:documentation>
          <attribute name="hand">
             <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">points to a <code xmlns="http://www.w3.org/1999/xhtml">&lt;handNote&gt;</code> element describing the hand considered responsible for the content of the element concerned.</a:documentation>
             <data type="anyURI"/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.damaged.attributes">
+      <ref name="att.dimensions.attributes"/>
+      <ref name="att.written.attributes"/>
+      <ref name="att.damaged.attribute.agent"/>
+      <ref name="att.damaged.attribute.degree"/>
+      <ref name="att.damaged.attribute.group"/>
+   </define>
+   <define name="att.damaged.attribute.agent">
+      <optional>
+         <attribute name="agent">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">categorizes the cause of the damage, if it can be identified.
+Sample values include: 1] rubbing; 2] mildew; 3] smoke</a:documentation>
+            <data type="token">
+               <param name="pattern">[^\p{C}\p{Z}]+</param>
+            </data>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.damaged.attribute.degree">
+      <optional>
+         <attribute name="degree">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">provides a coded representation of the degree of damage, either as a number between 0 (undamaged) and 1 (very extensively damaged), or as one of the codes high, medium, low, or unknown. The <code xmlns="http://www.w3.org/1999/xhtml">&lt;damage&gt;</code> element with the <code xmlns="http://www.w3.org/1999/xhtml">@degree</code> attribute should only be used where the text may be read with some confidence; text supplied from other sources should be tagged as <code xmlns="http://www.w3.org/1999/xhtml">&lt;supplied&gt;</code>.</a:documentation>
+            <choice>
+               <data type="double"/>
+               <choice>
+                  <value>high</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>medium</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>low</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>unknown</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+               </choice>
+            </choice>
+         </attribute>
+      </optional>
+   </define>
+   <define name="att.damaged.attribute.group">
+      <optional>
+         <attribute name="group">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">assigns an arbitrary number to each stretch of damage regarded as forming part of the same physical phenomenon.</a:documentation>
+            <data type="nonNegativeInteger"/>
          </attribute>
       </optional>
    </define>
@@ -1565,6 +1611,7 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
          <ref name="add"/>
          <ref name="del"/>
          <ref name="unclear"/>
+         <ref name="damage"/>
       </choice>
    </define>
    <define name="model.pPart.transcriptional_alternation">
@@ -1574,6 +1621,7 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
          <ref name="add"/>
          <ref name="del"/>
          <ref name="unclear"/>
+         <ref name="damage"/>
       </choice>
    </define>
    <define name="model.pPart.transcriptional_sequence">
@@ -1582,6 +1630,7 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       <ref name="add"/>
       <ref name="del"/>
       <ref name="unclear"/>
+      <ref name="damage"/>
    </define>
    <define name="model.pPart.transcriptional_sequenceOptional">
       <optional>
@@ -1598,6 +1647,9 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       </optional>
       <optional>
          <ref name="unclear"/>
+      </optional>
+      <optional>
+         <ref name="damage"/>
       </optional>
    </define>
    <define name="model.pPart.transcriptional_sequenceOptionalRepeatable">
@@ -1616,6 +1668,9 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       <zeroOrMore>
          <ref name="unclear"/>
       </zeroOrMore>
+      <zeroOrMore>
+         <ref name="damage"/>
+      </zeroOrMore>
    </define>
    <define name="model.pPart.transcriptional_sequenceRepeatable">
       <oneOrMore>
@@ -1632,6 +1687,9 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
       </oneOrMore>
       <oneOrMore>
          <ref name="unclear"/>
+      </oneOrMore>
+      <oneOrMore>
+         <ref name="damage"/>
       </oneOrMore>
    </define>
    <define name="model.pPart.edit">
@@ -2604,10 +2662,18 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
          <ref name="note"/>
       </choice>
    </define>
+   <define name="model.correspContextPart">
+      <choice>
+         <ref name="model.ptrLike"/>
+         <ref name="model.pLike"/>
+         <ref name="note"/>
+      </choice>
+   </define>
    <define name="model.correspDescPart">
       <choice>
          <ref name="note"/>
          <ref name="correspAction"/>
+         <ref name="correspContext"/>
       </choice>
    </define>
    <define name="model.resource">
@@ -2735,6 +2801,8 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
                <oneOrMore>
                   <choice>
                      <value>underline</value>
+                     <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                     <value>italics</value>
                      <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   </choice>
                </oneOrMore>
@@ -3032,6 +3100,8 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</a:documentation>
                <value>event</value>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                <value>org</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+               <value>lit_work</value>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
             </choice>
          </attribute>
@@ -3515,6 +3585,10 @@ Elements]</a:documentation>
                <value>sheet</value>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                <value>envelope</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+               <value>letter</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+               <value>card</value>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
             </choice>
          </attribute>
@@ -4534,6 +4608,16 @@ Suggested values include: 1] sent; 2] received; 3] transmitted; 4] redirected; 5
                </choice>
             </attribute>
          </optional>
+         <empty/>
+      </element>
+   </define>
+   <define name="correspContext">
+      <element name="correspContext">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(correspondence context) provides references to preceding or following correspondence related to this piece of correspondence. [2.4.6. Correspondence Description]</a:documentation>
+         <oneOrMore>
+            <ref name="model.correspContextPart"/>
+         </oneOrMore>
+         <ref name="att.global.attributes"/>
          <empty/>
       </element>
    </define>
@@ -6464,6 +6548,16 @@ Sample values include: 1] glued; 2] pinned; 3] sewn</a:documentation>
                <data type="boolean"/>
             </attribute>
          </optional>
+         <empty/>
+      </element>
+   </define>
+   <define name="damage">
+      <element name="damage">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains an area of damage to the text witness. [11.3.3.1. Damage, Illegibility, and Supplied Text]</a:documentation>
+         <ref name="macro.paraContent"/>
+         <ref name="att.global.attributes"/>
+         <ref name="att.typed.attributes"/>
+         <ref name="att.damaged.attributes"/>
          <empty/>
       </element>
    </define>

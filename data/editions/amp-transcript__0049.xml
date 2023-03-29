@@ -78,6 +78,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2022-01-07">text transcribed</change>
          <change who="smayer tfruehwirth" when="2022-01-07">transcriptions collated</change>
          <change who="tfruehwirth" when="2022-11-09">transcriptions updated v0.1</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -93,21 +94,21 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0243/" type="nan"/>
                <p>
-                  ÖSTERREICHISCHE GESELLSCHAFT FÜR LITERATUR
+                  <rs type="org" ref="#amp_organization_9">ÖSTERREICHISCHE GESELLSCHAFT FÜR LITERATUR</rs>
                </p>
                <p>
                   Einladung
                </p>
                <p>
-                  W. H. AUDEN<lb/>
-                  GEDICHTE/POEMS
+                  <rs type="event" ref="#amp_event_id_3"><rs type="person" ref="#amp_person_1">W. H. AUDEN</rs><lb/>
+                  GEDICHTE/POEMS</rs>
                </p>
                <p>
-                  Zum Erscheinen der neuen, zweisprachigen Ausgabe im Europa Verlag, Wien<lb/>
-                  Es lesen der Autor und Achim Benning
+                  Zum Erscheinen <rs type="lit_work" ref="#lit_work_id_124">der neuen, zweisprachigen Ausgabe</rs> im <rs type="org" ref="#amp_organization_26">Europa Verlag</rs>, <rs type="place" ref="#amp_place_id_1">Wien</rs><lb/>
+                  Es lesen der <rs type="person" ref="#amp_person_1">Autor</rs> und <rs type="person" ref="#amp_person_129">Achim Benning</rs>
                </p>
                <p>
-                  Freitag, 28. September, 20 Uhr, Palais Palffy, Großer Saal, Wien I., Josefsplatz 6
+                  Freitag, 28. September, 20 Uhr, <rs type="place" ref="#amp_place_id_85">Palais Palffy</rs>, Großer Saal, Wien I., Josefsplatz 6
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0244/" type="nan"/>
          </div>

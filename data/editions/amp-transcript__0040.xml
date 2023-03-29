@@ -73,16 +73,27 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
+               <date>unknown</date>
+            </correspAction>
             <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore="1969-06-10" notAfter="1969-06-10">1969-06-10</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"/>
-                <date/>
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
+               <date>unknown</date>
             </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0014.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1969-05-21</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0043.xml">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Freedom and Necessity in the Arts" 1970-05-21</ref>
+            </correspContext>
          </correspDesc>
          
       </profileDesc>
@@ -92,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer" when="2021-10-29">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-10-29">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-04-01">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-27">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -116,28 +128,28 @@ for any purpose, even commercially.</p>
                   Express<unclear>,</unclear>
                </p>
                <p>
-                  Die Baronin<lb/>
-                  Stella Musulin<lb/>
-                  Wien III<lb/>
-                  Neulingg<unclear>as</unclear>se 26/14
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
+                  Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
+                  Neulingg<unclear>as</unclear>se 26/14</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0068/" type="envelope"/>
                <p>
-                  WH<unclear>.</unclear> A<unclear>uden</unclear>
+                  <rs type="person" ref="#amp_person_1">WH<unclear>.</unclear> A<unclear>uden</unclear></rs>
                </p>
                <p hand="#printed">
-                  3062 KIRCHSTETTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                   BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0069/" type="sheet"/>
                <p>
-                  Dear Stella:<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Saturday w<unclear>i</unclear>ll be fine. Shall<lb/>
                   look forward to it<unclear>,</unclear><lb/>
                   love<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0070/" type="sheet"/>
          </div>

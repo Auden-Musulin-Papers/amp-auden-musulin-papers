@@ -73,16 +73,27 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
+               <date notBefore="1965-09-29" notAfter="1965-09-29">1965-09-29</date>
+            </correspAction>
             <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore="1965-09-29" notAfter="1965-09-29">1965-09-29</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"/>
-                <date/>
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
+               <date>unknown</date>
             </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0039.xml">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-04-28 and with Typescript W. H. Auden Translation "Joseph Weinheber"</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0004.xml">Typed Letter Signed W. H. Auden to Stella Musulin 1966-02-03</ref>
+            </correspContext>
          </correspDesc>
          
       </profileDesc>
@@ -92,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer" when="2021-09-22">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-09-22">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -116,28 +128,28 @@ for any purpose, even commercially.</p>
                   <hi rend="underline">Eil-Post</hi>
                </p>
                <p>
-                  <unclear>D</unclear>ie Baronin<lb/>
-                  Stella Musulin<lb/>
-                  Wien III<lb/>
-                  Neu<unclear>l</unclear>ingg<unclear>a</unclear>sse 26 .
+                  <rs type="person" ref="#amp_person_2"><unclear>D</unclear>ie Baronin<lb/>
+                  Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
+                  Neu<unclear>l</unclear>ingg<unclear>a</unclear>sse 26</rs> .
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0016/" type="envelope"/>
                <p hand="#printed">
-                  W. H. AUDEN<lb/>
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="person" ref="#amp_person_1">W. H. AUDEN</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
-                  <unclear>1·</unclear> Buch Ne<unclear>u</unclear>linggasse<lb/>
-                  26/14<lb/>
+                  <unclear>1·</unclear> Buch <rs type="place" ref="#amp_place_id_11">Ne<unclear>u</unclear>linggasse<lb/>
+                  26/14</rs><lb/>
                   27.9.<lb/>
                   beigefügter Brief<lb/>
-                  schlamp<unclear>e</unclear>rte Post<lb/>
+                  schlamp<unclear>e</unclear>rte <rs type="org" ref="#amp_organization_40">Post</rs><lb/>
                   feste Adresse
                </p>
                <p>
-                  aus München a<unclear>m</unclear><lb/>
+                  aus <rs type="place" ref="#amp_place_id_26">München</rs> a<unclear>m</unclear><lb/>
                   4<unclear>:</unclear>5<unclear>:</unclear>6<unclear>:</unclear> <unclear>nic</unclear>ht<lb/>
                   d<unclear>a</unclear>
                </p>
@@ -152,29 +164,29 @@ for any purpose, even commercially.</p>
                   Mittwoch
                </p>
                <p hand="#printed">
-                  W. H. AUDEN
+                  <rs type="person" ref="#amp_person_1">W. H. AUDEN</rs>
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
-                  Dear Stella:<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Many thanks for your letter. Shall be delighted to<lb/>
-                  see you both anyday any time. I can't get<lb/>
-                  to Vienna this week. Will you be there next<lb/>
+                  see <rs type="person" ref="#amp_person_2 #amp_person_179">you both</rs> anyday any time. I can't get<lb/>
+                  to <rs type="place" ref="#amp_place_id_1">Vienna</rs> this week. Will you be there next<lb/>
                   T<unclear>u</unclear>esday? I have to go to a reception at<lb/>
-                  Amerika Haus 6-8. If you were free,it<lb/>
+                  <rs type="place" ref="#amp_place_id_27">Amerika Haus</rs> 6-8. If you were free,it<lb/>
                   woul<unclear>d</unclear> be fun t<unclear>o</unclear> have dinner to-gether. I<lb/>
                   certainly shan't stay at the do after <unclear>7</unclear>·30.<lb/>
                   I ag<unclear>re</unclear>e about the cutting. Will keep it till<lb/>
                   you come or bring it with me next week.<lb/>
                   love<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
                <p>
-                  P.S. The N.D.R arri<unclear>ve</unclear>d. Translation quite good,<lb/>
+                  P.S. The <rs type="org" ref="#amp_organization_41">N.D.R</rs> arri<unclear>ve</unclear>d. <rs type="lit_work" ref="#lit_work_id_89">Translation</rs> quite good,<lb/>
                   but <hi rend="underline">why</hi> turn <hi rend="underline">bars</hi> into <hi rend="underline">Theke</hi>?
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0018/" type="sheet"/>

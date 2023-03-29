@@ -73,16 +73,27 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_29">77 St Mark's Place</placeName>
+               <date notBefore="1968-11-06" notAfter="1968-11-06">1968-11-06</date>
+            </correspAction>
             <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_28">New York City</placeName>
                <date notBefore="1968-11-06" notAfter="1968-11-06">1968-11-06</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"/>
-                <date/>
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
+               <date>unknown</date>
             </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0044.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-24</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0011.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-13</ref>
+            </correspContext>
          </correspDesc>
          
       </profileDesc>
@@ -92,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer" when="2021-10-05">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-10-05">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -113,40 +125,40 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0047/" type="envelope"/>
                <p>
-                  WH Auden<lb/>
-                  77 St Mark's Place<lb/>
+                  <rs type="person" ref="#amp_person_1">WH Auden</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                   New York City<lb/>
                   N.Y. 10003<lb/>
-                  U.S.A<unclear>.</unclear>
+                  U.S.A<unclear>.</unclear></rs>
                </p>
                <p>
                   A<hi rend="underline">ir-Mail</hi>
                </p>
                <p>
-                  Die Baronin<lb/>
-                  Stella Musulin<lb/>
-                  Wien A-1030<lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
+                  Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Wien A-1030<lb/>
                   Neulinggasse 26/14<lb/>
-                  Austria
+                  Austria</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0048/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0049/" type="sheet"/>
                <p>
-                  77 St Mark's Place<lb/>
+                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                   N.Y.C.<lb/>
-                  N.Y. 1003
+                  N.Y. 1003</rs>
                </p>
                <p>
                   Nov 6 th .
                </p>
                <p>
-                  Dear Stella:<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Many thanks for your letter. Of course,<lb/>
                   selfishly, I'm rather reli<unclear><del>v</del></unclear>eved. How horrid<lb/>
                   one is !<lb/>
-                  The U.S. is grim.<lb/>
+                  The <rs type="place" ref="#amp_place_id_15">U.S.</rs> is grim.<lb/>
                   love<lb/>
-                  Wystan<unclear>.</unclear>
+                  <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>.</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0050/" type="sheet"/>
          </div>

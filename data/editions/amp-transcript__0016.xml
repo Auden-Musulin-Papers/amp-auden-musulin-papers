@@ -73,16 +73,27 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
+               <date notBefore="1970-09-18" notAfter="1970-09-18">1970-09-18</date>
+            </correspAction>
             <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore="1970-09-18" notAfter="1970-09-18">1970-09-18</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"/>
-                <date/>
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_7">Fridau</placeName>
+               <date>unknown</date>
             </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0041.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1970-07-06</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0035.xml">Telegram W. H. Auden to Stella Musulin 1971-05-13</ref>
+            </correspContext>
          </correspDesc>
          
       </profileDesc>
@@ -92,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer" when="2021-10-13">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-10-13">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -116,40 +128,40 @@ for any purpose, even commercially.</p>
                   <hi rend="underline"><unclear>Ex</unclear>press<unclear>.</unclear></hi>
                </p>
                <p>
-                  Die Baronin<lb/>
-                  Stella Musulin<lb/>
-                  Fridau<lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
+                  Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                   3200 Obergrafendorf<lb/>
-                  N.Ö
+                  N.Ö</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0080/" type="envelope"/>
                <p>
-                  W<unclear>.H.</unclear> Auden<lb/>
+                  <rs type="person" ref="#amp_person_1">W<unclear>.H.</unclear> Auden</rs>
                </p>
                <p hand="#printed">
-                  3062 KIRCHSTETTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                   BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0081/" type="sheet"/>
                <p>
                   Sept 18th.
                </p>
                <p hand="#printed">
-                  3062 KIRCHSTETTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                   BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
-                  Dear Stella.<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>.<lb/>
                   Del<unclear>i</unclear>ght<unclear>e</unclear>d to hear you are<lb/>
                   back.<lb/>
-                  Could you and your mother<lb/>
+                  Could you and <rs type="person" ref="#amp_person_162">your mother</rs><lb/>
                   come to lunch <del><unclear>on</unclear></del> next Tuesday ?<lb/>
                   love<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0082/" type="sheet"/>
          </div>

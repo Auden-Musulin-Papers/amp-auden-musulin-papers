@@ -73,16 +73,32 @@ for any purpose, even commercially.</p>
          </langUsage>
                 
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
+               <date>unknown</date>
+            </correspAction>
             <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore="1961-04-25" notAfter="1961-10-25">1961-04-25--1961-10-25</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="#musulin-stella">Musulin, Stella</persName>
-               <placeName ref="#"/>
-               <date/>
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
+               <date>unknown</date>
             </correspAction>
+            <correspAction type="redirected">
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_7">Fridau</placeName>
+               <date>unknown</date>
+            </correspAction>
+         <correspContext>
+            <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+            <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+            <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0022.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1961-08-16</ref>
+            <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0021.xml">Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</ref>
+         </correspContext>
          </correspDesc>
          
       </profileDesc>
@@ -92,6 +108,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-11-23">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-11-23">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-10">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -107,25 +124,25 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0105/" type="envelope"/>
                <p>
-                  Die Baronin<lb/>
-                  Stella Mussolin<lb/>
-                  <del>WIEN III</del><lb/>
-                  <del>Neulinggasse 26</del>
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
+                  Stella Mussolin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11"><del>WIEN III</del><lb/>
+                  <del>Neulinggasse 26</del></rs>
                </p>
                <p hand="#handwritten">
-                  FRIDAU<lb/>
+                  <rs type="place" ref="#amp_place_id_7">FRIDAU<lb/>
                   OBERGRAFENDORF<lb/>
                   BEI ST<unclear>-</unclear>PÖLTEN<lb/>
-                  N.Ö.
+                  N.Ö.</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0106/" type="envelope"/>
                <p>
-                  W.H.Auden
+                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs>
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
          </div>
       </body>

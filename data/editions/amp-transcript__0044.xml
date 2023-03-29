@@ -73,16 +73,27 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_45">32 Bryanston Square</placeName>
                <date notBefore="1968-10-24" notAfter="1968-10-24">1968-10-24</date>
             </correspAction>
-            <correspAction type="received">
-                <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"/>
-                <date/>
+            <correspAction type="sent">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName>unknown</placeName>
+               <date>unknown</date>
             </correspAction>
+            <correspAction type="received">
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+                <placeName>uknown</placeName>
+                <date>unknown</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0009.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-15</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0010.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-11-06</ref>
+            </correspContext>
          </correspDesc>
          
       </profileDesc>
@@ -92,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-11-05">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-11-08">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-04-05">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-28">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -107,29 +119,29 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0101/" type="sheet"/>
                <p hand="#printed">
-                  from Peter Heyworth<lb/>
-                  32 BRYANSTON SQUARE <space quantity="1" unit="char"/>LONDON W1 <space quantity="1" unit="char"/>· <space quantity="1" unit="char"/>AMBASSADOR 8906
+                  from <rs type="person" ref="#amp_person_19">Peter Heyworth</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_45">32 BRYANSTON SQUARE <space quantity="1" unit="char"/>LONDON W1 <space quantity="1" unit="char"/>· <space quantity="1" unit="char"/>AMBASSADOR 8906</rs>
                </p>
                <p>
                   Oct 24th
                </p>
                <p>
-                  Dear Stella:<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Many thanks for your lette<unclear>r</unclear> and the<lb/>
                   Dr<unclear>viv</unclear>ing li<unclear>c</unclear>ence <unclear>w</unclear>hich I am mu<unclear>c</unclear>h relieved<lb/>
                   to get.<lb/>
-                  I can't possibly have the Langers<lb/>
+                  I can't possibly have the <rs type="person" ref="#amp_person_155 #amp_person_171">Langers</rs><lb/>
                   shivering,so I enclose a cheque for<lb/>
                   S.2000 for extra fuel,and will send<lb/>
                   more if and when needed.<lb/>
-                  Wh<unclear>a</unclear>t is Mr Langers first name.? Does<lb/>
+                  Wh<unclear>a</unclear>t is <rs type="person" ref="#amp_person_155">Mr Langer</rs>s first name.? Does<lb/>
                   he underst<unclear>a</unclear>nd English? I <unclear>m</unclear>u<unclear>s</unclear>t w<unclear>ri</unclear>te<lb/>
                   him a note of welcome.<lb/>
-                  I leave <unclear><del><gap reason="deleted"/></del>to-</unclear>day week for Ne<unclear>w</unclear> York.<lb/>
-                  <unclear>A</unclear>ddress. 77 St Mark's Place. New<lb/>
-                  York City. New York 10003.<lb/>
+                  I leave <unclear><del><gap reason="deleted"/></del>to-</unclear>day week for<rs type="place" ref="#amp_place_id_28"> Ne<unclear>w</unclear> York</rs>.<lb/>
+                  <unclear>A</unclear>ddress. <rs type="place" ref="#amp_place_id_29">77 St Mark's Place. New<lb/>
+                  York City. New York 10003.</rs><lb/>
                   much love and thanks<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0102/" type="sheet"/>
          </div>

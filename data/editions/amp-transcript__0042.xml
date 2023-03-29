@@ -73,16 +73,27 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
+               <date>unknown</date>
+            </correspAction>
             <correspAction type="sent">
                <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
+               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore="1968-10-04" notAfter="1968-10-04">1968-10-04</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"/>
-                <date/>
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
+               <date>unknown</date>
             </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0006.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-02-06</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0007.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-06</ref>
+            </correspContext>
          </correspDesc>
          
       </profileDesc>
@@ -92,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-11-04">text transcribed using Transkribus</change>
          <change who="smayer tfruehwirth" when="2021-11-09">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-28">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -113,20 +125,20 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0033/" type="envelope"/>
                <p hand="#handwritten">
-                  Die Baronin<lb/>
-                  S<del><unclear>e</unclear></del>tella Musulin<lb/>
-                  <del>1040</del> Wien <del>IV</del><lb/>
-                  Neulingasse 26
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
+                  S<del><unclear>e</unclear></del>tella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11"><del>1040</del> Wien <del>IV</del><lb/>
+                  Neulingasse 26</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0034/" type="envelope"/>
                <p hand="#printed">
-                  KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0103/" type="sheet"/>
                <p>
-                  <space quantity="7" unit="char"/><hi rend="underline">AUGUST I<del>(</del>968</hi>
+                  <space quantity="7" unit="char"/><rs type="lit_work" ref="#lit_work_id_88"><hi rend="underline">AUGUST I<del>(</del>968</hi></rs>
                </p>
                <lg>
                   <l>The ogre does what ogres can,</l>
@@ -142,7 +154,7 @@ for any purpose, even commercially.</p>
                   <space quantity="9" unit="char"/>___
                </p>
                <p hand="#handwritten">
-                  Dear Stell<unclear>a</unclear>,<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stell<unclear>a</unclear></rs>,<lb/>
                   Terribly sorry about <unclear>l</unclear>ast Sunday.<lb/>
                   Since I had no idea whe<unclear>n</unclear> we should be<lb/>
                   a<unclear>b</unclear>le to get to you, I tho<unclear>u</unclear>g<unclear>ht</unclear> it was unfair<lb/>
@@ -150,40 +162,40 @@ for any purpose, even commercially.</p>
                   Ha<unclear>ve</unclear> a ni<unclear>c</unclear>e <unclear>win</unclear>ter and <unclear>wi</unclear>ll see you, I hop<unclear>e</unclear>,<lb/>
                   early in Apr<unclear>il</unclear><lb/>
                   love<lb/>
-                  Wystan
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0104/" type="sheet"/>
                <p>
-                  <hi rend="underline">ELEGY</hi><lb/>
-                  (<hi rend="underline">In Memoriam Emma Eiermann</hi>. <del>ob</del><lb/>
-                  <hi rend="underline">ob.Nov 4th,I967)</hi>
+                  <rs type="lit_work" ref="#lit_work_id_58"><hi rend="underline">ELEGY</hi><lb/>
+                  (<hi rend="underline">In Memoriam <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></hi>. <del>ob</del><lb/>
+                  <hi rend="underline">ob.Nov 4th,I967)</hi></rs>
                </p>
                <lg>
-                  <l><hi rend="underline">Liebe Frau Emma</hi>,</l>
+                  <l><hi rend="underline">Liebe <rs type="person" ref="#amp_person_16">Frau Emma</rs></hi>,</l>
                   <l><hi rend="underline">na,was hast Du denn gemacht?</hi></l>
                   <l>You who always made</l>
                   <l>such conscience of our comfort,</l>
-                  <l>Oh,how could you go and die,</l>
+                  <l>Oh,how could you go and <rs type="event" ref="#amp_event_id_1">die</rs>,</l>
                   <l>as if you didn't know</l>
                   <l>that in a permissive age,</l>
                   <l>so rife with envy,</l>
                   <l>a housekeeper is harder</l>
                   <l>to replace than a lover,</l>
-                  <l>and die,too,when we</l>
+                  <l>and <rs type="event" ref="#amp_event_id_1">die</rs>,too,when we</l>
                   <l>were thousands of miles away,</l>
                   <l>leaving no one there</l>
                   <l>to prune and transplant before</l>
                   <l>the winter cold should set in.</l>
                   <l>Good witch that you were,</l>
                   <l><del>S</del>surely you should have foreseen</l>
-                  <l>the doom that your death</l>
+                  <l>the doom that <rs type="event" ref="#amp_event_id_1">your death</rs></l>
                   <l>would spell for your cats and ours:</l>
                   <l>all had to be put away.</l>
                   <l>You came with the house,</l>
-                  <l>you and your brother Josef,</l>
+                  <l>you and your brother <rs type="person" ref="#amp_person_17">Josef</rs>,</l>
                   <l><del>Sudeten deutsche,</del> <hi rend="underline">Sudetendeutsche</hi>,</l>
-                  <l>made homeless paupers when Czechs</l>
-                  <l>got their turn to be brutal:</l>
+                  <l>made homeless paupers when <rs type="event" ref="#amp_event_id_52">Czechs</rs></l>
+                  <l><rs type="event" ref="#amp_event_id_52">got their turn to be brutal</rs>:</l>
                   <l>but catastrophe</l>
                   <l>had failed to modernise you,</l>
                   <l>Child of the Old World,</l>
@@ -219,9 +231,9 @@ for any purpose, even commercially.</p>
                   <l>But when in good form,</l>
                   <l>how enchanting your shy grin,</l>
                   <l>your soft cat-language:</l>
-                  <l>no,no,Frau E,dear oddling,</l>
+                  <l>no,no,<rs type="person" ref="#amp_person_16">Frau E</rs>,dear oddling,</l>
                   <l>we shall always be grateful.</l>
-                  <l>After Josef died</l>
+                  <l><rs type="event" ref="#amp_event_id_51">After <rs type="person" ref="#amp_person_17">Josef</rs> died</rs></l>
                   <l>(siblings can live in a bond</l>
                   <l>as close as wedlock),</l>
                   <l>you were all amort,your one</l>

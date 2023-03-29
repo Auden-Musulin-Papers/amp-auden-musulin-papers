@@ -73,16 +73,27 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_29">77 St Mark's Place</placeName>
+               <date notBefore="1968-12-13" notAfter="1968-12-13">1968-12-13</date>
+            </correspAction>
             <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_28">New York City</placeName>
                <date notBefore="1968-12-13" notAfter="1968-12-13">1968-12-13</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"/>
-                <date/>
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
+               <date>unknown</date>
             </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0010.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-11-06</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0012.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-29</ref>
+            </correspContext>
          </correspDesc>
          
       </profileDesc>
@@ -92,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer" when="2021-10-05">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-10-05">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -113,27 +125,27 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0051/" type="envelope"/>
                <p>
-                  WH.Auden<lb/>
-                  77 St Mark's Place<lb/>
+                  <rs type="person" ref="#amp_person_1">WH.Auden</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                   New York City<lb/>
                   New York 10003<lb/>
-                  U.S.A<unclear>.</unclear>
+                  U.S.A<unclear>.</unclear></rs>
                </p>
                <p>
                   <hi rend="underline">Air-Mail</hi>
                </p>
                <p>
-                  Death Jean Boras
+                  <rs type="event" ref="#amp_event_id_2">Death <rs type="person" ref="#amp_person_23">Jean Boras</rs></rs>
                </p>
                <p>
-                  Die Baronin<lb/>
-                  Stella Musulin<lb/>
-                  Wien <del>IV .</del><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
+                  Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Wien <del>IV .</del><lb/>
                   Neulin<unclear>g</unclear>gasse 26/14<lb/>
                   Austria
-               </p>
-               <p>
-                  1030
+               <lb/>
+               <lb/>
+                  1030</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0052/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0053/" type="sheet"/>
@@ -141,27 +153,27 @@ for any purpose, even commercially.</p>
                   Dec 13th <unclear>'</unclear>
                </p>
                <p>
-                  7 St Mark's Place<lb/>
+                  <rs type="place" ref="#amp_place_id_29">7 St Mark's Place<lb/>
                   New York City<lb/>
-                  N.Y. 10003<lb/>
+                  N.Y. 10003</rs><lb/>
                   <del><gap reason="deleted"/></del>
                </p>
                <p>
-                  Dear Stella:<lb/>
-                  Chester has just telephoned me from Athens to say<lb/>
-                  that <unclear>his</unclear> Greek fr<unclear>i</unclear>end Jean Boras,whom I<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+                  <rs type="person" ref="#amp_person_4">Chester</rs> has just telephoned me from <rs type="place" ref="#amp_place_id_13">Athens</rs> to say<lb/>
+                  that <unclear>his</unclear> Greek fr<unclear>i</unclear>end <rs type="person" ref="#amp_person_23">Jean Boras</rs>,whom I<lb/>
                   think you have met, while driving my car<lb/>
-                  between Vienna and Kirchstetten coll<unclear>e</unclear>ded with<lb/>
-                  a Lastwagen and was killed.<lb/>
-                  Chester is going to Vienna,but he was too<lb/>
+                  between <rs type="place" ref="#amp_place_id_1">Vienna</rs> and <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> <rs type="event" ref="#amp_event_id_2">coll<unclear>e</unclear>ded with<lb/>
+                  a Lastwagen and was killed</rs>.<lb/>
+                  <rs type="person" ref="#amp_person_4">Chester</rs> is going to <rs type="place" ref="#amp_place_id_1">Vienna</rs>,but he was too<lb/>
                   upset for <del><gap reason="deleted"/></del><unclear>m</unclear>e to find out where he would<lb/>
-                  stay. I presume in Kirchstetten.<lb/>
+                  stay. I presume in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>.<lb/>
                   If you can get in touch him and help him<lb/>
                   in any way (there are purely practical matters to<lb/>
                   be cons<unclear>i</unclear>de<unclear>re</unclear>d,like the car<unclear>-</unclear>papers and insurance policy)<lb/>
                   I should be most grateful<unclear>,</unclear><lb/>
                   love<lb/>
-                  Wystan<unclear>,</unclear>
+                  <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>,</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0054/" type="sheet"/>
                <p>

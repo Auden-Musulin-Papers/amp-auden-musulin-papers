@@ -70,6 +70,31 @@
          <langUsage>
             <language ident="en">English</language>
          </langUsage>
+         
+         <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName>unknown</placeName>
+               <date notBefore="1985-11-29" notAfter="1985-11-29">1985-11-29</date>
+            </correspAction>
+            <correspAction type="sent">
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName>unknown</placeName>
+               <date>unknown</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#amp_person_99">Duncan, Bruce</persName>
+               <placeName ref="#amp_place_id_170">The Vicarage, Crediton</placeName>
+               <date>unknown</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_99">Duncan, Bruce</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0036.xml">Autograph Note Michael O'Sullivan to Stella Musulin 1984-08-15</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0031.xml">Typed Letter Stella Musulin to Edward Mendelson 1985-12-15</ref>
+            </correspContext>
+         </correspDesc>
+         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -77,6 +102,7 @@
          <change who="tfruehwirth" when="2022-01-03">text transcribed using Transkribus</change>
          <change who="smayer tfruehwirth" when="2022-01-03">transcriptions collated</change>
          <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-23">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -95,50 +121,50 @@
                   <space quantity="40" unit="char"/>29th November 1985.
                </p>
                <p>
-                  The Revd. Br<del><unclear>i</unclear></del>uce Duncan,<lb/>
-                  The Vicarage,<lb/>
+                  <rs type="person" ref="#amp_person_156">The Revd. Br<del><unclear>i</unclear></del>uce Duncan</rs>,<lb/>
+                  <rs type="place" ref="#amp_place_id_170">The Vicarage,<lb/>
                   Crediton<lb/>
-                  Devon  EX17 2AS.
+                  Devon  EX17 2AS.</rs>
                </p>
                <p>
-                    Dear Mr. Duncan,
+                  Dear <rs type="person" ref="#amp_person_156">Mr. Duncan</rs>,
                </p>
                <p>
                   <space quantity="5" unit="char"/>I am a more or less retired journalist and author,<lb/>
-                  and am working on a memoir of W.H. Auden´s years in Austria<lb/>
-                  when I got to know him very well. <space quantity="2" unit="char"/>As he and Chester Kallman<lb/>
+                  and am working on <rs type="lit_work" ref="#lit_work_id_46">a memoir of W.H. Auden´s years in Austria</rs><lb/>
+                  when I got to know him very well. <space quantity="2" unit="char"/>As he and <rs type="person" ref="#amp_person_4">Chester Kallman</rs><lb/>
                   were used to involving me in domestic catastrophes of various<lb/>
-                  kinds, <del>C</del><del>t</del><unclear>T</unclear>hester asked me to bring order into the chaos which so<lb/>
-                  often follows upon a deathöand in this case was acute because<lb/>
+                  kinds, <rs type="person" ref="#amp_person_4"><del>C</del><del>t</del><unclear>T</unclear>hester</rs> asked me to bring order into the chaos which so<lb/>
+                  often follows upon a deathöand in <rs type="event" ref="#amp_event_id_18">this case</rs> was acute because<lb/>
                   of the total lack of comprehension between the anglo-american<lb/>
                   side and the local Austrian authorities. <space quantity="1" unit="char"/>Hence my approach<lb/>
                   to you;  on enquiry I was given your name by the present<lb/>
-                  incumbent of the Chaplaincy to the British Embassy in Vienna,<lb/>
-                  Canon Phillips.
+                  incumbent of the Chaplaincy to the <rs type="org" ref="#amp_organization_27">British Embassy in Vienna</rs>,<lb/>
+                  <rs type="person" ref="#amp_person_118">Canon Phillips</rs>.
                </p>
                <p>
                   <space quantity="4" unit="char"/>Would you be so kind as to confirm that you took the<lb/>
-                  ecumenical service - shall I<del>S</del>scall it that? in the church at<lb/>
-                  Kirchstetten in October 1973, jointly with the parish priest?
+                  <rs type="event" ref="#amp_event_id_19">ecumenical service</rs> - shall I<del>S</del>scall it that? in the <rs type="place" ref="#amp_place_id_104">church at<lb/>
+                  Kirchstetten</rs> in October 1973, jointly with the <rs type="person" ref="#amp_person_">parish priest</rs>?
                </p>
                <p>
-                  <space quantity="5" unit="char"/>Do you recall the form of service used, and did John Auden<lb/>
-                  consult you about it? <space quantity="1" unit="char"/>I simply cannot remember, and al<del><gap/></del>s<del>h</del>though<lb/>
-                  there was a long and magnificent passage from the NT which I<lb/>
-                  could have sworn was from Corinthians, reading throu<del>t</del>gh Cor.I &amp; II<lb/>
+                  <space quantity="5" unit="char"/>Do you recall the form of service used, and did <rs type="person" ref="#amp_person_88">John Auden</rs><lb/>
+                  consult you about it? <space quantity="1" unit="char"/>I simply cannot remember, and al<del><gap reason="deleted"/></del>s<del>h</del>though<lb/>
+                  there was a long and magnificent passage from the <rs type="lit_work" ref="#lit_work_id_113">NT</rs> which I<lb/>
+                  could have sworn was from  <rs type="lit_work" ref="#lit_work_id_14 #lit_work_id_110">Corinthians</rs>, reading throu<del>t</del>gh <rs type="lit_work" ref="#lit_work_id_14">Cor.I</rs> &amp; <rs type="lit_work" ref="#lit_work_id_110">II</rs><lb/>
                   nothing seems to ring the right bell. <space quantity="1" unit="char"/>Then there was the burial<lb/>
                   service.  I am told that the whole occasion aroused a great deal<lb/>
                   of interest here and was m<del>u</del>k<del>u</del>ch discussed:  so normal to the<lb/>
-                  British, in Lower Austria it was a sensation. <space quantity="1" unit="char"/>I should be<lb/>
+                  British, in <rs type="place" ref="#amp_place_id_6">Lower Austria</rs> it was a sensation. <space quantity="1" unit="char"/>I should be<lb/>
                   extremely grateful if you could find time to tell me anything<lb/>
                   that you remember, and give me permission to quote you. <space quantity="1" unit="char"/>Not<lb/>
-                  everything about Wystan Auden was very appetising, his private<lb/>
+                  everything about <rs type="person" ref="#amp_person_1">Wystan Auden</rs> was very appetising, his private<lb/>
                   life was a mess. <space quantity="1" unit="char"/>But he was kind, generous and totally<lb/>
                   unpreten<del>s</del>tious, and personally I was devoted to him. <space quantity="1" unit="char"/>It is
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0222/" type="sheet"/>
                <p>
-                  my dim recollection that some verse or other in the Bible<lb/>
+                  my dim recollection that some verse or other in the <rs type="lit_work" ref="#lit_work_id_59">Bible</rs><lb/>
                   reading might help me to describe that amazing mixture of<lb/>
                   awe-inspiring talent and high scholarship, wretchedness and squalor.
                </p>
@@ -146,7 +172,7 @@
                   <space quantity="28" unit="char"/>Yours sincerely,
                </p>
                <p>
-                  <space quantity="28" unit="char"/>Stella Musulin.
+                  <space quantity="28" unit="char"/><rs type="person" ref="#amp_person_2">Stella Musulin</rs>.
                </p>
          </div>
       </body>

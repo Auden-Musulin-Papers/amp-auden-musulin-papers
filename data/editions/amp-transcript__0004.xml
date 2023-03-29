@@ -73,16 +73,27 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_29">77 St Mark's Place</placeName>
+               <date notBefore="1966-02-03" notAfter="1966-02-03">1966-02-03</date>
+            </correspAction>
             <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_28">New York City</placeName>
                <date notBefore="1966-02-03" notAfter="1966-02-03">1966-02-03</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"/>
-                <date/>
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_7">Fridau</placeName>
+               <date>unknown</date>
             </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0003.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1965-09-29</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0005.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1967-11-08</ref>
+            </correspContext>
          </correspDesc>
          
       </profileDesc>
@@ -92,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer" when="2021-09-23">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-09-24">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -113,43 +125,43 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0019/" type="envelope"/>
                <p>
-                  W.H.Auden<lb/>
-                  77 St Mark's Place<lb/>
+                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                   New York City 3<lb/>
                   New York IOOO3<lb/>
-                  U.S.A.
+                  U.S.A.</rs>
                </p>
                <p>
                   <hi rend="underline">Air-Mail</hi>
                </p>
                <p>
-                  Die Baronin<lb/>
-                  <space quantity="3" unit="char"/>Stella Musulin<lb/>
-                  <space quantity="5" unit="char"/>Fridau<lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
+                  <space quantity="3" unit="char"/>Stella Musulin</rs><lb/>
+                  <space quantity="5" unit="char"/><rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                   <space quantity="6" unit="char"/>32<del>o</del>OO Obergrafendorf<lb/>
                   <space quantity="8" unit="char"/>N.<unclear>Ö</unclear>.<lb/>
-                  <space quantity="9" unit="char"/>Austria
+                  <space quantity="9" unit="char"/>Austria</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0020/" type="envelope"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0021/" type="sheet"/>
                <p>
-                  77 St Mark's Place<lb/>
+                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                   New <space quantity="1" unit="char"/>York City 3<lb/>
-                  New York IOOO3
+                  New York IOOO3</rs>
                </p>
                <p>
                   Feb 3rd,I96<del>5</del>6
                </p>
                <p>
-                  <space quantity="19" unit="char"/>Dear Stella:<lb/>
-                  <space quantity="7" unit="char"/>Many thanks for your nice long letter. Stephen has a genius for<lb/>
+                  <space quantity="19" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+                  <space quantity="7" unit="char"/>Many thanks for your nice long letter. <rs type="person" ref="#amp_person_8">Stephen</rs> has a genius for<lb/>
                   <space quantity="4" unit="char"/>subtle misrepresentation. "Serious insistence on unseriousness'<lb/>
                   <space quantity="4" unit="char"/>telescopes two <del>cnvictuons</del>distinct convictions of mine,falsifying both.<lb/>
                   <space quantity="5" unit="char"/>I) I believe it to be a serious moral error when an artist overestimates<lb/>
                   <space quantity="8" unit="char"/>the importance of art and,by implication,of himself. One must admit<lb/>
-                  <space quantity="8" unit="char"/>that the <del>plotical</del> political history of Eur<del>i</del>ope,with <del>all its</del>the same horrors,<lb/>
-                  <space quantity="8" unit="char"/>would be what it has been,if Dante,Shakespeare,Goethe,Titian,<lb/>
-                  <space quantity="8" unit="char"/>Mo<del>x</del>zart,et al,had never existed.<lb/>
+                  <space quantity="8" unit="char"/>that the <del>plotical</del> political history of <rs type="place" ref="#amp_place_id_30">Eur<del>i</del>ope</rs>,with <del>all its</del>the same horrors,<lb/>
+                  <space quantity="8" unit="char"/>would be what it has been,if <rs type="person" ref="#amp_person_9">Dante</rs>,<rs type="person" ref="#amp_person_10">Shakespeare</rs>,<rs type="person" ref="#amp_person_11">Goethe</rs>,<rs type="person" ref="#amp_person_12">Titian</rs>,<lb/>
+                  <space quantity="8" unit="char"/><rs type="person" ref="#amp_person_13">Mo<del>x</del>zart</rs>,et al,had never existed.<lb/>
                   <space quantity="4" unit="char"/>2) I believe that the only way in which,to-day at any rate,one can<lb/>
                   <space quantity="7" unit="char"/>speak <del>seroiu</del> <del>s eriously</del> <hi rend="underline">seriously</hi> about serious matters(the alternati<del>c</del>ve<lb/>
                   <space quantity="7" unit="char"/>is silence) is comically. I am surprised to hear from you that<lb/>
@@ -162,20 +174,20 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>cou<del>o</del>ld make a wonderful living", or "Truth rests with God alone,and<lb/>
                   <space quantity="5" unit="char"/>a little bit with me",or "God will provide - ah,if only He wou<del>o</del>ld till<lb/>
                   <space quantity="5" unit="char"/>He does so."<lb/>
-                  <space quantity="2" unit="char"/>So! you encountered the one-whose-name-we-never-mention. Why Chest<del>r</del>er should<lb/>
+                  <space quantity="2" unit="char"/>So! you encountered the <rs type="person" ref="#amp_person_175">one-whose-name-we-never-mention</rs>. Why <rs type="person" ref="#amp_person_4">Chest<del>r</del>er</rs> should<lb/>
                   <space quantity="1" unit="char"/>have been so foolish as <space quantity="1" unit="char"/>to invite him to a p<del>e</del>arty,I cannot imagine. If he<lb/>
                   is to be seen at all,he <del>jy</del>must be seen alone. Incidentally,next time you see<lb/>
-                  Chester,scold him a) for not writing to me b) for not answering Harrison's<lb/>
+                  <rs type="person" ref="#amp_person_4">Chester</rs>,scold him a) for not writing to me b) for not answering <rs type="person" ref="#amp_person_108">Harrison</rs>'s<lb/>
                   cable.<lb/>
                   <space quantity="1" unit="char"/>All well here.except for a leaking kit<del>v</del>chen roof. No doubt you read about<lb/>
-                  our Black-Out and Transit Strike.(My typewriter is on the blink,hence the<lb/>
-                  hiatuses.) <space quantity="1" unit="char"/>A <del>firen</del> friend of mine who teaches schyzophrenics,has a seventeen<lb/>
+                  our <rs type="event" ref="#amp_event_id_4">Black-Out</rs> and <rs type="event" ref="#amp_event_id_5">Transit Strike</rs>.(My typewriter is on the blink,hence the<lb/>
+                  hiatuses.) <space quantity="1" unit="char"/>A <rs type="person" ref="#amp_person_174"><del>firen</del> friend of mine who teaches schyzophrenics</rs>,has a seventeen<lb/>
                   year old girl who is interested in poetry. Asked what poets she liked,she<lb/>
-                  mentioned me. "<del>i</del>I happen to know him quite well",said my friend. To which the<lb/>
+                  mentioned me. "<del>i</del>I happen to know him quite well",said <rs type="person" ref="#amp_person_174">my friend</rs>. To which the<lb/>
                   girl in astonishment:"You mean to say,he's still <hi rend="underline">alive</hi>!".<lb/>
-                  <space quantity="2" unit="char"/>Expect to get back to Kirchstetten about April 20th.<lb/>
-                  <space quantity="21" unit="char"/>much love and <unclear>g</unclear>reetings to son and mum-in-law<lb/>
-                  Wystan.
+                  <space quantity="2" unit="char"/>Expect to get back to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> about April 20th.<lb/>
+                  <space quantity="21" unit="char"/>much love <handShift new="#handwritten"/>and <unclear>g</unclear>reetings to <rs type="person" ref="#amp_person_94">son</rs> and <rs type="person" ref="#amp_person_93">mum-in-law</rs><lb/>
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0022/" type="sheet"/>
          </div>

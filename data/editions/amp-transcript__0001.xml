@@ -73,16 +73,32 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
                <date notBefore="1963-05-12" notAfter="1963-05-12">1963-05-12</date>
             </correspAction>
-            <correspAction type="received">
-                <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"/>
-                <date/>
+            <correspAction type="sent">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
+               <date notBefore="1963-05-13" notAfter="1963-05-13">1963-05-13</date>
             </correspAction>
+            <correspAction type="received">
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26, Wien III</placeName>
+               <date>unknown</date>
+            </correspAction>
+            <correspAction type="redirected">
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_7">Fridau</placeName>
+               <date>unknown</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0025.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1962-10-17</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0002.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23</ref>
+            </correspContext>
          </correspDesc>
          
       </profileDesc>
@@ -92,6 +108,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-09-20">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-09-20">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -112,47 +129,47 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope"/>
-            <p><unclear>Ch</unclear>ester in Florence<unclear>.</unclear></p>
+            <p><rs type="person" ref="#amp_person_4"><unclear>Ch</unclear>ester</rs> in <rs type="place" ref="#amp_place_id_14">Florence</rs><unclear>.</unclear></p>
             <p>
-               Die Ba<unclear>ron</unclear>in<lb/>
-               Stella M<unclear>eu</unclear>ss<unclear>u</unclear>lin<lb/>
-               <del>Wien III</del><lb/>
-               <del>Neulinggasse 26</del>
+               <rs type="person" ref="#amp_person_2">Die Ba<unclear>ron</unclear>in<lb/>
+               Stella M<unclear>eu</unclear>ss<unclear>u</unclear>lin</rs><lb/>
+               <rs type="place" ref="#amp_place_id_11"><del>Wien III</del><lb/>
+               <del>Neulinggasse 26</del></rs>
             </p>
             <p>
-               Fridau,<lb/>
+               <rs type="place" ref="#amp_place_id_7">Fridau,<lb/>
                Obergrafendorf,<lb/>
                bei ST.PÖLTEN,<lb/>
-               NÖ
+               NÖ</rs>
             </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0002/" type="envelope"/>
             <p>
-               W.H.Auden<unclear>,</unclear><lb/>
+               <rs type="person" ref="#amp_person_1">W.H.Auden</rs><unclear>,</unclear><lb/>
             </p>
             <p hand="#printed">
-               KIRCHSTETTEN (WESTBAHN)<lb/>
+               <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                HINTERHOLZ 6<lb/>
-               N.-Ö., AUSTRIA
+               N.-Ö., AUSTRIA</rs>
             </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0003/" type="letter"/>
             <p>Sunday.</p>
             <p hand="#printed">
-               KIRCHSTETTEN (WESTBAHN)<lb/>
+               <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                HINTERHOLZ 6<lb/>
-               N.-Ö., AUSTRIA               
+               N.-Ö., AUSTRIA</rs>               
             </p>
             <p>
-               Dear Stella:<lb/>
-               Delighted to hear you are zu Haus.<lb/>
+               Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+               Delighted to hear you are <rs type="place" ref="#amp_place_id_11">zu Haus</rs>.<lb/>
                No, I d<unclear>i</unclear>dnt get any letter from you. <unclear>Pe</unclear>rhaps<lb/>
-               it is in the <unclear>.</unclear>U.S.<unclear>,</unclear> I shall be in Vienna this<lb/>
+               it is in the <unclear>.</unclear><rs type="place" ref="#amp_place_id_15">U.S.</rs><unclear>,</unclear> I shall be in <rs type="place" ref="#amp_place_id_1">Vienna</rs> this<lb/>
                coming week on Monday, <del>T<unclear>hur</unclear></del> Wednesday and Friday.<lb/>
                Wi<unclear>ll</unclear> try to call you to-mo<unclear>rrow</unclear> to arrange<lb/>
                a meeting.<lb/>
-               Chester is at the moment in Florence,but<lb/>
+               <rs type="person" ref="#amp_person_4">Chester</rs> is at the moment in <rs type="place" ref="#amp_place_id_14">Florence</rs>,but<lb/>
                I expect him back on Tuesday.<lb/>
                love<lb/>
-               Wystan
+               <rs type="person" ref="#amp_person_1">Wystan</rs>
             </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0004/" type="letter"/>
          </div>

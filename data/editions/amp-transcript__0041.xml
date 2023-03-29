@@ -73,16 +73,32 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
+               <date notBefore="1970-07-06" notAfter="1970-07-06">1970-07-06</date>
+            </correspAction>
             <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore="1970-07-06" notAfter="1970-07-06">1970-07-06</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"/>
-                <date/>
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
+               <date>unknown</date>
             </correspAction>
+            <correspAction type="redirected">
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_215">St Julian's Street</placeName>
+               <date notBefore="1970-07-11" notAfter="1970-07-11">1970-07-11</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0015.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1970-06-10</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0016.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1970-09-18</ref>
+            </correspContext>
          </correspDesc>
          
       </profileDesc>
@@ -92,6 +108,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-11-02">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-11-08">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-04-01">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-23">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -119,43 +136,43 @@ for any purpose, even commercially.</p>
                   <hi rend="underline">Bitte Weiterschicken</hi>
                </p>
                <p>
-                  ENGLAND
+                  <rs type="place" ref="#amp_place_id_293">ENGLAND</rs>
                </p>
                <p>
-                  Die Baronin<lb/>
-                  Stella Mus<unclear>u</unclear>l<unclear>in</unclear><lb/>
-                  <del>W<gap reason="deleted"/>en IV</del> <del>Wien III</del><lb/>
-                  <del>Neuling gasse 26/14</del>.
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
+                  Stella Mus<unclear>u</unclear>l<unclear>in</unclear></rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11"><del>W<gap reason="deleted"/>en IV</del> <del>Wien III</del><lb/>
+                  <del>Neuling gasse 26/14</del></rs>.
                </p>
                <p>
-                  2 Sea<unclear>f</unclear>orth<lb/>
+                  <rs type="place" ref="#amp_place_id_215">2 Sea<unclear>f</unclear>orth<lb/>
                   St. <unclear>J</unclear>ulian's Street<lb/>
                   <hi rend="underline">TENBY</hi><lb/>
-                  Pembrokeshire
+                  Pembrokeshire</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0076/" type="envelope"/>
                <p>
-                  W<unclear>.</unclear>H.Auden
+                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H.Auden</rs>
                </p>
                <p hand="#printed">
-                  3062 KIRCHSTETTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                   BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0077/" type="sheet"/>
                <p>
                   July 6th<unclear>.</unclear>
                </p>
                <p hand="#printed">
-                  3062 KIRCHSTETTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                   BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
-                  Dear Stella:<lb/>
-                  Have just f<unclear>in</unclear>ish<unclear>e</unclear>d reading <hi rend="underline">Aust<unclear>ria"</unclear></hi><lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+                  Have just f<unclear>in</unclear>ish<unclear>e</unclear>d reading <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_45">Aust<unclear>ria"</unclear></rs></hi><lb/>
                   by which I was enchanted a<unclear>s</unclear> w<unclear>e</unclear>ll as<lb/>
                   <unclear>i</unclear>nstructed. My<unclear>!</unclear> how er<unclear>u</unclear>dit<unclear>e</unclear> you are<unclear>,</unclear> Where <hi rend="underline">did</hi><lb/>
                   you dig up all th<unclear>os</unclear>e stories ?<lb/>
@@ -163,21 +180,21 @@ for any purpose, even commercially.</p>
                   to<unclear>u</unclear>rist<unclear>s</unclear>,which I'<unclear>m</unclear> sure you don't welco<unclear>m</unclear>e<lb/>
                   any m<unclear>or</unclear>e than I do. (Thanks , by t<unclear>he</unclear> way,<lb/>
                   for the reference to my garage.)<unclear>.</unclear><lb/>
-                  Am very cur<unclear>iou</unclear>s to learn mor<unclear>e</unclear> about "<hi rend="underline">The L<unclear>i</unclear>fe</hi><lb/>
-                  <hi rend="underline">and A<unclear>d</unclear>venture s of Peter Prosch</hi>.<unclear>"</unclear> Is it in print?<lb/>
+                  Am very cur<unclear>iou</unclear>s to learn mor<unclear>e</unclear> about <rs type="lit_work" ref="#lit_work_id_44">"<hi rend="underline">The L<unclear>i</unclear>fe</hi><lb/>
+                     <hi rend="underline">and A<unclear>d</unclear>venture s of <rs type="person" ref="#amp_person_34">Peter Prosch</rs></hi>.<unclear>"</unclear></rs> Is it in print?<lb/>
                   Shoul<unclear>d</unclear>n't it be translated?<lb/>
                   As you say, the relati<unclear>on</unclear> <unclear>b</unclear>etw<unclear>e</unclear>n art and society<lb/>
-                  <unclear>i</unclear>s <unclear>v</unclear>ery odd. Why should <unclear>th</unclear>e Vienna of 1<unclear>8</unclear>90-1918<lb/>
-                  ha<unclear>ve</unclear> pro<unclear>d</unclear>uced such a florescence<unclear>,</unclear>? (Chester can<lb/>
-                  appreciate Bruckner better than I)<unclear>.</unclear>. Even odder to<lb/>
-                  me is the Biedermayer peri<unclear>od,</unclear> No one can<lb/>
-                  possibly approv<unclear>e</unclear> of Metternich's police state,yet,<lb/>
-                  in a more liberal mil<del>e</del>ieu, could St<unclear>i</unclear>fter,<lb/>
-                  Rai<unclear>m</unclear>und, Nestroy, have <unclear>wr</unclear>itten what they did?<lb/>
+                  <unclear>i</unclear>s <unclear>v</unclear>ery odd. Why should <unclear>th</unclear>e <rs type="place" ref="#amp_place_id_1">Vienna</rs> of 1<unclear>8</unclear>90-1918<lb/>
+                  ha<unclear>ve</unclear> pro<unclear>d</unclear>uced such a florescence<unclear>,</unclear>? (<rs type="person" ref="#amp_person_4">Chester</rs> can<lb/>
+                  appreciate <rs type="person" ref="#amp_person_35">Bruckner</rs> better than I)<unclear>.</unclear>. Even odder to<lb/>
+                  me is the <rs type="event" ref="#amp_event_id_8">Biedermayer peri<unclear>od,</unclear></rs> No one can<lb/>
+                  possibly approv<unclear>e</unclear> of <rs type="person" ref="#amp_person_178">Metternich</rs>'s police state,yet,<lb/>
+                  in a more liberal mil<del>e</del>ieu, could <rs type="person" ref="#amp_person_36">St<unclear>i</unclear>fter</rs>,<lb/>
+                  <rs type="person" ref="#amp_person_37">Rai<unclear>m</unclear>und</rs>, <rs type="person" ref="#amp_person_38">Nestroy</rs>, have <unclear>wr</unclear>itten what they did?<lb/>
                   Hope this reaches yo<unclear>u.</unclear> Loo<unclear>k</unclear>ing forw<unclear>ar</unclear>d to se<unclear>e</unclear>ing yo<unclear>u</unclear><lb/>
                   in Sept<unclear><gap reason="illegible"/></unclear><lb/>
-                  love and ad<unclear>m</unclear>irat<unclear>ion</unclear>
-                  Wystan
+                  love and ad<unclear>m</unclear>irat<unclear>ion</unclear><lb/>
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0078/" type="sheet"/>
          </div>

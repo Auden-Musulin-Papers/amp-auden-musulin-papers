@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Photograph [?] of W. H. Auden, Chester Kallman, and Elsa Musulin [1960]</title>
+            <title level="a">Photograph [Stella Musulin] of W. H. Auden, Chester Kallman, and Elsa Musulin 1960-07-21--1960-11-02</title>
             <author>[?]</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 16</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1960-01-01" notAfter="1960-12-31">[1960]</origDate></origin>
+                        <origin><origDate notBefore="1960-07-21" notAfter="1960-11-02">1960-07-21--1960-11-02</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,11 +71,30 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
          </langUsage>
-         
+         <particDesc>
+            <listPerson type="identified">
+               <person role="participant" sameAs="amp_person_1">
+                  <note type="description">left side</note>
+               </person>
+               <person role="participant" sameAs="amp_person_93">    
+                  <note type="description">middle</note>
+               </person>
+               <person role="participant" sameAs="amp_person_4">    
+                  <note type="description">right side</note>  
+               </person>  
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <setting>
+               <name sameAs="amp_place_id_254">Loreto</name>
+               <date>November 1960</date>
+            </setting>
+         </settingDesc>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer tfruehwirth" when="2022-01-07">caption created</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated, caption removed, renamed, date added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -89,11 +108,8 @@ for any purpose, even commercially.</p>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0235/" type="nan"/>
-               <p>
-                  Private photograph of W. H. Auden (left), Elsa Musulin (middle), and Chester Kallman (right), Fridau, Ober-Grafendorf, ca. 1960.<lb/>
-               </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0236/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0235/" type="photo"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0236/" type="photo"/>
          </div>
       </body>
    </text>

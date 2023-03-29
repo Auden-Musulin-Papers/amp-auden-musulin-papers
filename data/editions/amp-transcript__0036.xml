@@ -71,6 +71,31 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
          </langUsage>
+           
+         <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_99">O'Sullivan, Michael</persName>
+               <placeName ref="#amp_place_id_173">22, Kildare Street</placeName>
+               <date notBefore="1984-08-15" notAfter="1984-08-15">1984-08-15</date>
+            </correspAction>
+            <correspAction type="sent">
+               <persName ref="#amp_person_99">O'Sullivan, Michael</persName>
+               <placeName>unknown</placeName>
+               <date>unknown</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName>unknown</placeName>
+               <date>unknown</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_99">O'Sullivan, Michael</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0034.xml">Typed Letter Signed Michael O'Sullivan to Stella Musulin 1984-05-31</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0037.xml">Autograph Note Signed Michael O'Sullivan to Stella Musulin [?]</ref>
+            </correspContext>
+         </correspDesc>
+         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -78,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer" when="2021-10-28">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-10-28">transcriptions collated</change>
          <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-27">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -93,21 +119,21 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0241/" type="card"/>
                <p>
-                  22 Kildare Street,<lb/>
-                  Dublin<unclear>,</unclear> 2
+                  <rs type="place" ref="#amp_place_id_173">22 Kildare Street,<lb/>
+                  Dublin<unclear>,</unclear> 2</rs>
                </p>
                <p>
                   15th August 1984
                </p>
                <p>
-                  Dear Barone<unclear>s</unclear>s Musulin,
+                  Dear <rs type="person" ref="#amp_person_2">Barone<unclear>s</unclear>s Musulin</rs>,
                </p>
                <p>
                   I shall<lb/>
-                  be arriving in Vienna on 1st Sept.<lb/>
-                  I have taken Prof. Hans Raimund's<lb/>
-                  <unclear>F</unclear>lat at : <del>Z</del>LACKIERERGASSE 5<lb/>
-                  (Peter Müller has the telephone<lb/>
+                  be arriving in <rs type="place" ref="#amp_place_id_1">Vienna</rs> on 1st Sept.<lb/>
+                  I have taken <rs type="person" ref="#amp_person_127">Prof. Hans Raimund</rs>'s<lb/>
+                  <unclear>F</unclear>lat at : <rs type="place" ref="#amp_place_id_174"><del>Z</del>LACKIERERGASSE 5</rs><lb/>
+                  (<rs type="person" ref="#amp_person_119">Peter Müller</rs> has the telephone<lb/>
                   nu<unclear>m</unclear>ber). 4279 394
                </p>
                <p>

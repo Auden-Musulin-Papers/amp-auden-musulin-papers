@@ -73,16 +73,27 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
+               <date notBefore="1962-04-30" notAfter="1962-04-30">1962-04-30</date>
+            </correspAction>
             <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore="1962-04-30" notAfter="1962-04-30">1962-04-30</date>
             </correspAction>
             <correspAction type="received">
-               <persName ref="#musulin-stella">Musulin, Stella</persName>
-               <placeName ref="#"/>
-               <date/>
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
+               <date>unknown</date>
             </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0021.xml">Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0023.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1962-07-23</ref>
+            </correspContext>
          </correspDesc>
          
       </profileDesc>
@@ -92,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-11-23">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-11-23">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-04-06">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-03-02">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -110,18 +122,18 @@ for any purpose, even commercially.</p>
                   <gap reason="illegible"/>
                </p>
                <p>
-                  Die Baro<unclear>n</unclear>in Stell<unclear>a</unclear> Mus<unclear>so</unclear>lin<lb/>
-                  Wien III<lb/>
-                  Neulingasse 26.
+                  <rs type="person" ref="#amp_person_2">Die Baro<unclear>n</unclear>in Stell<unclear>a</unclear> Mus<unclear>so</unclear>lin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
+                  Neulingasse 26</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0032/" type="envelope"/>
                <p>
-                  W<unclear>.</unclear>H<unclear>.</unclear> Auden
+                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear> Auden</rs>
                </p>
                <p hand="#printed">
-                  KIRCHSTETTEN (WESTBAHN)<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
          </div>
       </body>

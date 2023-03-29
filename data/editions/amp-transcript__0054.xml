@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Photographs [?] of W. H. Auden, Chester Kallman, and Elsa Musulin [1960]</title>
+            <title level="a">Photographs [Stella Musulin] of W. H. Auden, Chester Kallman, and Elsa Musulin 1960-07-21--1960-11-02</title>
             <author>[?]</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 17</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate>[1960]</origDate></origin>
+                        <origin><origDate notBefore="1960-07-21" notAfter="1960-11-02">1960-07-21--1960-11-02</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,11 +71,68 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
          </langUsage>
-         
+         <particDesc>
+           <listPerson type="identified">
+            <person role="participant" sameAs="amp_person_1">
+               <note>Front page: Top right</note>
+            </person>  
+            <person role="participant" sameAs="amp_person_1">
+               <note>Front page: Bottom left, left side</note>
+            </person> 
+            <person role="participant" sameAs="amp_person_93">
+               <note>Front page: Bottom left, middle</note>
+            </person>
+              <person role="participant" sameAs="amp_person_4">
+               <note>Front page: Bottom left, right side</note>
+            </person>
+              <person role="participant" sameAs="amp_person_93">
+                 <note>Front page: Bottom right, left side</note>
+              </person> 
+              <person role="participant" sameAs="amp_person_1">
+                 <note>Front page: Bottom right, right side</note>
+              </person>
+              <person role="participant" sameAs="amp_person_192">
+                 <note>Back page: Top left, left side</note>
+              </person>
+              <person role="participant" sameAs="amp_person_172">
+                 <note>Back page: Top left, middle</note>
+              </person>
+              <person role="participant" sameAs="amp_person_193">
+                 <note>Back page: Top left, right side</note>
+              </person>
+              <person role="participant" sameAs="amp_person_93">
+                 <note>Back page: Top right, left side</note>
+              </person>
+              <person role="participant" sameAs="amp_person_193">
+                 <note>Back page: Top right, middle</note>
+              </person>
+              <person role="participant" sameAs="amp_person_172">
+                 <note>Back page: Top right, right side back</note>
+              </person>
+              <person role="participant" sameAs="amp_person_192">
+                 <note>Back page: Top right, right side front</note>
+              </person>
+              <person role="participant" sameAs="amp_person_192">
+                 <note>Back page: Bottom left, back</note>
+              </person>
+              <person role="participant" sameAs="amp_person_193">
+                 <note>Back page: Bottom left, front</note>
+              </person>
+         </listPerson>
+         </particDesc>
+         <settingDesc>
+            <setting>
+               <name sameAs="amp_place_id_254">Loreto</name>
+               <date>November 1960</date>
+               <name sameAs="amp_place_id_7">Fridau, Ober-Grafendorf</name>
+               <date>November 1960</date>
+            </setting>
+         </settingDesc>
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer tfruehwirth" when="2022-01-07">texts transcribed and captions created</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated, caption removed, renamed, date added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -89,34 +146,19 @@ for any purpose, even commercially.</p>
    <text type="letter">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/" type="photo"/>
                <p>
-                  Top left.<lb/>
-                  Baroque Pietà ,Loreto.<lb/>
+                  Baroque Pietà ,<rs type="place" ref="#amp_place_id_254">Loreto</rs>.<lb/>
                </p>
                <p>
-                  Top right: Private photograph of W. H. Auden (left) and Elsa Musulin (right), Fridau, Ober-Grafendorf, ca. 1960.
-                  Wystan Auden
+                  <rs type="person" ref="#amp_person_1">Wystan Auden</rs>
                </p>
                <p>
-                  Bottom left: Private photograph of W. H. Auden (left), Elsa Musulin (middle), and Chester Kallman (right), Fridau, Ober-Grafendorf, ca. 1960.<lb/>
-                  W<unclear>.</unclear>H<unclear>.</unclear>A. Mama, Chester Kalmann.
+                  <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear>A.</rs> <rs type="person" ref="#amp_person_162">Mama</rs>, <rs type="person" ref="#amp_person_4">Chester Kalmann</rs>.
                </p>
-               <p>
-                  Bottom right: Private photograph of Elsa Musulin (left) and W. H. Auden (right), Fridau, Ober-Grafendorf, ca. 1960.
-               </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/" type="nan"/>
-               <p>
-                  Top left: Private photograph of Marga Tacoli (left), Gherardo Tacoli (middle), and Alexander Tacoli, Fridau, Ober-Grafendorf, November 1960.
-               </p>
-               <p>
-                  Top right: Private photograph of Elsa Musulin (left), Alexander Tacoli (middle), Gherardo Tacoli (right, back), Marga Tacoli (right, front), Fridau, Ober-Grafendorf, November 1960.
-               </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/" type="photo"/>
                <p>
                   Allerheiligen 1960 .
-               </p>
-               <p>
-                  Bottom: Private photograph of Marga Tacoli (back) and Alexander Tacoli (front), Fridau, Ober-Grafendorf, November 1960.
                </p>
          </div>
       </body>

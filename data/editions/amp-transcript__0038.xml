@@ -73,16 +73,32 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName>unknown</placeName>
+               <date>unknown</date>
+            </correspAction>
             <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_17">Berlin</placeName>
                <date notBefore="1965-03-15" notAfter="1965-03-15">1965-03-15</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"/>
-                <date/>
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_7">Fridau</placeName>
+               <date>unknown</date>
             </correspAction>
+            <correspAction type="redirected">
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
+               <date>unknown</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0002.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0039.xml">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-04-28 and with Typescript W. H. Auden Translation "Joseph Weinheber"</ref>
+            </correspContext>
          </correspDesc>
          
       </profileDesc>
@@ -92,6 +108,7 @@ for any purpose, even commercially.</p>
          <change who="tfruehwirth" when="2021-12-20">text transcribed using Transkribus</change>
          <change who="smayer tfruehwirth" when="2021-12-21">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-27">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -125,29 +142,29 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0011/" type="envelope"/>
                <p hand="#handwritten">
-                  Die Baronin<lb/>
-                  S<unclear>t</unclear>ella Musulin<lb/>
-                  <del>Fridau</del><lb/>
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
+                  S<unclear>t</unclear>ella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_7"><del>Fridau</del><lb/>
                   <del>Obergrabe<unclear>m</unclear>d<unclear>o</unclear>r<unclear>f</unclear></del><lb/>
                   <del>b<unclear>e</unclear>i S. Pölten</del><lb/>
-                  <del>N.Ö</del><lb/>
-                  Osterreich
+                  <del>N.Ö</del></rs><lb/>
+                  <rs type="place" ref="#amp_place_id_10">Osterreich</rs>
                </p>
                <p hand="#handwritten">
-                  Wien III<lb/>
-                  Neuling<unclear>g</unclear>. 2<unclear>6</unclear>/1<unclear>4</unclear>
+                  <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
+                  Neuling<unclear>g</unclear>. 2<unclear>6</unclear>/1<unclear>4</unclear></rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0012/" type="envelope"/>
                <p hand="#handwritten">
-                  W.H. Auden<lb/>
-                  Berlin-Dahlem<lb/>
+                  <rs type="person" ref="#amp_person_1">W.H. Auden</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_19">Berlin-Dahlem<lb/>
                   Hubertusbaderstrasse <unclear>4</unclear>3<lb/>
-                  Germany
+                  Germany</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0133/" type="sheet"/>
                <p>
-                  <space quantity="5" unit="char"/><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
-                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi>
+                  <space quantity="5" unit="char"/><rs type="lit_work" ref="#lit_work_id_61"><hi rend="underline"><rs type="person" ref="#amp_person_5">JOSEPH WEINHEBER</rs></hi><lb/>
+                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
                </p>
                <lg>
                   <l>Reachi<del>j</del>ng my gate a narrow</l>
@@ -178,7 +195,7 @@ for any purpose, even commercially.</p>
                   <l>Men of great damage</l>
                   <l>And malengine took you up.</l>
                   <l>Did they,though,ever</l>
-                  <l>Take you in,who to Goebbels'</l>
+                  <l>Take you in,who to <rs type="person" ref="#amp_person_196">Goebbels</rs>'</l>
                   <l>Offer of culture</l>
                   <l>Countered <hi rend="underline">In Ruah lassen!</hi>?</l>
                   <l>But the crowd prefers</l>
@@ -187,8 +204,8 @@ for any purpose, even commercially.</p>
                </lg>   
                <lg>   
                   <l>What,had you ever heard of</l>
-                  <l>Franz J<unclear>ä</unclear>gerst<unclear>ä</unclear>tter,</l>
-                  <l>The St.Radegund peasant</l>
+                  <l><rs type="person" ref="#amp_person_7">Franz J<unclear>ä</unclear>gerst<unclear>ä</unclear>tter</rs>,</l>
+                  <l>The <rs type="place" ref="#amp_place_id_22">St.Radegund</rs> peasant</l>
                   <l>Who said his lonely</l>
                   <l><hi rend="underline">Nein</hi> to the Aryan State</l>
                   <l>And was beheaded,</l>
@@ -207,8 +224,8 @@ for any purpose, even commercially.</p>
                   <l>Retribution was ever</l>
                   <l>A bungler at it:</l>
                   <l><hi rend="underline">Dies alles ist furchtbar,hier</hi></l>
-                  <l><hi rend="underline">Nur Schweigen gem<unclear>ä</unclear>ss</hi>.(I)</l>
-               </lg>
+                  <l><hi rend="underline">Nur Schweigen gem<unclear>ä</unclear>ss</hi>.(I)</l> 
+               </lg>  
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0134/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0135/" type="sheet"/>
                <p>
@@ -219,7 +236,7 @@ for any purpose, even commercially.</p>
                   <l>The hour of your death,</l>
                   <l>Unhailed by you the moment</l>
                   <l>When,providence-led,</l>
-                  <l>I first beheld Kirchstetten</l>
+                  <l>I first beheld <rs type='place' ref="#amp_place_id_5">Kirchstetten</rs></l>
                   <l>On a pouring wet</l>
                   <l>October day in a year</l>
                   <l>That changed our Cosmos,</l>
@@ -280,46 +297,48 @@ for any purpose, even commercially.</p>
                   (3
                </p>
                <lg>
-                  <space quantity="15" unit="char"/><l>Looking across <del>u</del>our valley</l>
-                  <space quantity="15" unit="char"/><l>Where,hidden from view,</l>
-                  <space quantity="15" unit="char"/><l>Sichelbach tottles westward</l>
-                  <space quantity="15" unit="char"/><l>To join the Perschling,</l>
-                  <space quantity="15" unit="char"/><l>Humanely modest in scale</l>
-                  <space quantity="15" unit="char"/><l>And mild in contour,</l>
-                  <space quantity="15" unit="char"/><l>Conscious of grander neighbors</l>
-                  <space quantity="15" unit="char"/><l>To bow to,mountains</l>
-                  <space quantity="15" unit="char"/><l>Soaring behind me,ahead</l>
-                  <space quantity="15" unit="char"/><l>A noble river,</l>
+                  <l><space quantity="15" unit="char"/>Looking across <del>u</del>our valley</l>
+                  <l><space quantity="15" unit="char"/>Where,hidden from view,</l>
+                  <l><space quantity="15" unit="char"/><rs type="place" ref="#amp_place_id_252">Sichelbach</rs> tottles westward</l>
+                  <l><space quantity="15" unit="char"/>To join the <rs type="place" ref="#amp_place_id_251">Perschling</rs>,</l>
+                  <l><space quantity="15" unit="char"/>Humanely modest in scale</l>
+                  <l><space quantity="15" unit="char"/>And mild in contour,</l>
+                  <l><space quantity="15" unit="char"/>Conscious of grander neighbors</l>
+                  <l><space quantity="15" unit="char"/>To bow to,mountains</l>
+                  <l><space quantity="15" unit="char"/>Soaring behind me,ahead</l>
+                  <l><space quantity="15" unit="char"/>A noble river,</l>
                </lg>
                <lg>
-                  <space quantity="15" unit="char"/><l>I would respect you also,</l>
-                  <space quantity="15" unit="char"/><l>Neighbor and colleague,</l>
-                  <space quantity="15" unit="char"/><l>For even my English ear</l>
-                  <space quantity="15" unit="char"/><l>Gets in your German</l>
-                  <space quantity="15" unit="char"/><l>The workmanship and the note</l>
-                  <space quantity="15" unit="char"/><l>Of one who was graced</l>
-                  <space quantity="15" unit="char"/><l>To hear the viols playing</l>
-                  <space quantity="15" unit="char"/><l>On the impaled green,</l>
-                  <space quantity="15" unit="char"/><l>Committed thereafter <hi rend="underline">den</hi></l>
-                  <space quantity="15" unit="char"/><l><hi rend="underline">Abgrund zu nennen</hi>.(2)</l>
+                  <l><space quantity="15" unit="char"/>I would respect you also,</l>
+                  <l><space quantity="15" unit="char"/>Neighbor and colleague,</l>
+                  <l><space quantity="15" unit="char"/>For even my English ear</l>
+                  <l><space quantity="15" unit="char"/>Gets in your German</l>
+                  <l><space quantity="15" unit="char"/>The workmanship and the note</l>
+                  <l><space quantity="15" unit="char"/>Of one who was graced</l>
+                  <l><space quantity="15" unit="char"/>To hear the viols playing</l>
+                  <l><space quantity="15" unit="char"/>On the impaled green,</l>
+                  <l><space quantity="15" unit="char"/>Committed thereafter <hi rend="underline">den</hi></l>
+                  <l><space quantity="15" unit="char"/><hi rend="underline">Abgrund zu nennen</hi>.(2)</l>
                </lg>
-               <p>
+                <p>
                   <space quantity="23" unit="char"/>___<lb/>
-                  <del>N</del> <space quantity="1" unit="char"/>I) Quotation from W<del>8</del><unclear>'</unclear>s poem <hi rend="underline">Auf das Unabwendbare</hi>.<lb/>
-                  <space quantity="3" unit="char"/>2) Quotation from W's poem <hi rend="underline">Kammermusik</hi>.<lb/>
+                  <del>N</del> <space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_1">W<del>8</del></rs><unclear>'</unclear>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.<lb/>
+                  <space quantity="3" unit="char"/>2) Quotation from <rs type="person" ref="#amp_person_1">W</rs>'s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_41">Kammermusik</rs></hi>.<lb/>
                   <space quantity="24" unit="char"/>__
                </p>
                <p>
-                  <space quantity="9" unit="char"/>Dear Stella:<lb/>
-                  <space quantity="1" unit="char"/>Kirchstetten is intending to have a cer<del>o</del>emony in memory of the twentieth<lb/>
-                  <space quantity="1" unit="char"/>anniversary of Weinheber'<del>w</del>s <space quantity="1" unit="char"/>death. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
+                  <space quantity="9" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+                  <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> is intending to have a <rs type="event" ref="#amp_event_id_49">cer<del>o</del>emony in memory of the twentieth<lb/>
+                  <space quantity="1" unit="char"/>anniversary of <rs type="event" ref="#amp_event_id_50"><rs type="person" ref="#amp_person_5">Weinheber</rs>'<del>w</del>s <space quantity="1" unit="char"/>death</rs></rs>. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
                   <space quantity="1" unit="char"/><hi rend="underline">Gemeindepflicht.</hi><lb/>
                   <space quantity="17" unit="char"/>love<lb/>
-                  Wystan.<!-- markup handwriting -->
                </p>
                <p hand="#handwritten">
-                  P.S. Expect to return K April 22nd. Do hope you<lb/>
-                  wil<unclear>l</unclear> be around<unclear>.</unclear>
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>.<!-- markup handwriting -->
+               </p>
+               <p hand="#handwritten">
+                  P.S. Expect to return <rs type="place" ref="#amp_place_id_5">K</rs> April 22nd. Do hope you<lb/>
+                  wil<unclear>l</unclear> be <rs type="place" ref="#amp_place_id_10">around</rs><unclear>.</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0138/" type="sheet"/>
          </div>

@@ -73,16 +73,27 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
-            <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName ref="#"/>
+            <correspAction type="composed">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
                <date notBefore="1968-10-06" notAfter="1968-10-06">1968-10-06</date>
             </correspAction>
-            <correspAction type="received">
-                <persName ref="#musulin-stella">Musulin, Stella</persName>
-                <placeName ref="#"/>
-                <date/>
+            <correspAction type="sent">
+               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
+               <date notBefore="1968-10-07" notAfter="1968-10-07">1968-10-07</date>
             </correspAction>
+            <correspAction type="received">
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
+               <date>unknown</date>
+            </correspAction>
+            <correspContext>
+               <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
+               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__00042.xml">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescripts W. H. Auden "August 1968" and "Elegy" 1968-10-04</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0008.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12</ref>
+            </correspContext>
          </correspDesc>
          
       </profileDesc>
@@ -92,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer" when="2021-09-29">text transcribed</change>
          <change who="smayer tfruehwirth" when="2021-09-29">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -116,41 +128,41 @@ for any purpose, even commercially.</p>
                   <hi rend="underline">Eil<unclear>·</unclear>Brief</hi>
                </p>
                <p>
-                  Die Ba<unclear>r</unclear>onin<lb/>
-                  Stella Musulin<lb/>
-                  <hi rend="underline">1030</hi> Wien <del>IV</del><lb/>
-                  Neulingasse 26
+                  <rs type="person" ref="#amp_person_2">Die Ba<unclear>r</unclear>onin<lb/>
+                  Stella Musulin</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11"><hi rend="underline">1030</hi> Wien <del>IV</del><lb/>
+                  Neulingasse 26</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0036/" type="envelope"/>
                <p hand="#printed">
-                  KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
-                  A<unclear>rri</unclear>val, Christiane
+                  A<unclear>rri</unclear>val, <rs type="person" ref="#amp_person_3">Christiane</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0037/" type="sheet"/>
                <p hand="#printed">
-                  KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
                   HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
                   Sunday.
                </p>
                <p>
-                  Dear Stella:<lb/>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   I got your telegram yesterday just before<lb/>
                   lu<unclear>n</unclear>ch. Tried twice in the afternoon and once<lb/>
                   this morning to reach you , but umsonst.<lb/>
-                  Am off to England to-morrow, s<unclear>o</unclear> don't see how<lb/>
+                  Am off to <rs type="place" ref="#amp_place_id_239">England</rs> to-morrow, s<unclear>o</unclear> don't see how<lb/>
                   anything can now be arranged<unclear>.</unclear><lb/>
                   If you think these can, please write me<lb/>
-                  ℅ Faber and Faber, 24 Russell Square,W.C<unclear>.</unclear> I<lb/>
+                  ℅ <rs type="org" ref="#amp_organization_5">Faber and Faber</rs>, <rs type="place" ref="#amp_place_id_44">24 Russell Square,W.C</rs><unclear>.</unclear> I<lb/>
                   So sorry<lb/>
                   love<lb/>
-                  Wystan.
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>.
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0038/" type="sheet"/>
          </div>
