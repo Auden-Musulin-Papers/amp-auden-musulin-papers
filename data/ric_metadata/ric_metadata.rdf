@@ -389,7 +389,7 @@
     <rico:hasOrHadName>Portrait Photograph Rudolf Blaha of Stella Musulin 1968-01-01--1996-01-21</rico:hasOrHadName>
     <rico:isAssociatedWithDate>1968-01-01--1996-01-21</rico:isAssociatedWithDate>
     <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/blaha_r.html</rico:hasAuthor>
-    <rico:hasContentOfType>photographic image</rico:hasContentOfType>
+    <rico:hasContentOfType>image</rico:hasContentOfType>
     <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
   </rico:Record>
   <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0049">
@@ -405,7 +405,7 @@
     <rico:hasOrHadName>Photograph Otto Breicha of W. H. Auden and Mary McCarthy 1967-04-24--1967-04-26</rico:hasOrHadName>
     <rico:isAssociatedWithDate>1967-04-24--1967-04-26</rico:isAssociatedWithDate>
     <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/breicha_o.html</rico:hasAuthor>
-    <rico:hasContentOfType>photographic image</rico:hasContentOfType>
+    <rico:hasContentOfType>image</rico:hasContentOfType>
     <rico:hasOrHadLanguage>deu</rico:hasOrHadLanguage>
   </rico:Record>
   <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0051">
@@ -437,7 +437,7 @@
     <rico:hasOrHadName>Photographs [Stella Musulin] of W. H. Auden, Chester Kallman, and Elsa Musulin 1960-07-21--1960-11-02</rico:hasOrHadName>
     <rico:isAssociatedWithDate>1960-07-21--1960-11-02</rico:isAssociatedWithDate>
     <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_t.html</rico:hasAuthor>
-    <rico:hasContentOfType>photographic image</rico:hasContentOfType>
+    <rico:hasContentOfType>image</rico:hasContentOfType>
     <rico:hasOrHadLanguage>deu, eng</rico:hasOrHadLanguage>
   </rico:Record>
   <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0055">
@@ -445,7 +445,7 @@
     <rico:hasOrHadName>Photograph [Stella Musulin] of W. H. Auden, Chester Kallman, and Elsa Musulin 1960-07-21--1960-11-02</rico:hasOrHadName>
     <rico:isAssociatedWithDate>1960-07-21--1960-11-02</rico:isAssociatedWithDate>
     <rico:hasAuthor>https://amp.acdh.oeaw.ac.at/musulin_t.html</rico:hasAuthor>
-    <rico:hasContentOfType>photographic image</rico:hasContentOfType>
+    <rico:hasContentOfType>image</rico:hasContentOfType>
   </rico:Record>
   <rico:Record rdf:about="https://amp.acdh.oeaw.ac.at/amp-transcript__0056">
     <rico:hasOrHadIdentifier>amp_0056</rico:hasOrHadIdentifier>
