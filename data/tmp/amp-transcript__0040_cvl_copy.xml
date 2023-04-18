@@ -94,44 +94,30 @@ for any purpose, even commercially.</p>
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="tfruehwirth" when="2021-10-29">text transcribed</change>
          <change who="smayer" when="2021-10-29">text transcribed</change>
-         <change who="smayer tfruehwirth" when="2021-10-29">transcriptions collated</change>
+         <change who="smayer tfruehwirth" when="2023-04-18">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
-   <facsimile>
-      <surface ulx="0" uly="0" lrx="4584" lry="3466">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0067/"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="4580" lry="3466">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0068/"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5676" lry="7806">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0069/"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5676" lry="7808">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0070/"/>
-      </surface>
-   </facsimile>
    <text type="letter">
       <body>
          <div xml:id="transcription">
             <pb/><!-- anp-cvl_1r-a/ad-g_mirr.tif -->
                <p>
-                  <hi rend="underline"><gap/></hi><lb/>
+                  <hi rend="underline"><gap quantity="19" unit="char" reason="illegible"/></hi><lb/>
                   <lg>
-                     <l><hi rend="underline"><gap/></hi> <gap/>n<unclear>k</unclear><gap/> <gap/>o<gap/> g<unclear>od</unclear>f<gap/>thers"</l>
-                     <l>y<unclear>o</unclear>u <gap/>ote i<gap/> <gap/>u<unclear>r</unclear> gue<gap/>-<unclear>bo</unclear><gap/>k,<gap/>i<unclear>c</unclear><gap/> w<gap/><unclear>s</unclear> fl<unclear>a</unclear>tteri<unclear>n</unclear>g<unclear>:</unclear></l>
-                     <l><space quantity="3" unit="char"/>t<unclear>h</unclear>oug<unclear>h</unclear> <unclear>I</unclear>'ve <gap/>e<gap/><unclear>c</unclear><gap/> t<gap/><unclear>e</unclear> <unclear>y</unclear><gap/><unclear>r</unclear><gap/> <unclear>n</unclear> discretion</l>
-                     <l><space quantity="3" unit="char"/>c<unclear>a</unclear>lls for <gap/> <gap/>e<gap/>rl<gap/> m<unclear>e</unclear><gap/>ic<gap/>l c<unclear>h</unclear>ec<gap/>-up,</l>
+                     <l><hi rend="underline"><gap reason="illegible"/></hi><gap reason="illegible"/>n<gap reason="illegible"/><unclear>o</unclear><gap reason="illegible"/>o<gap quantity="1" unit="char" reason="illegible"/>y<gap quantity="1" unit="char" reason="illegible"/>g<unclear>od</unclear>f<gap quantity="2" unit="char" reason="illegible"/>thers"</l>
+                     <l>y<gap quantity="1" unit="char" reason="illegible"/>u<gap quantity="2" unit="char" reason="illegible"/>ote<gap quantity="1" unit="char" reason="illegible"/>i<gap reason="illegible"/>u<unclear>r</unclear><gap quantity="1" unit="char" reason="illegible"/>gue<gap reason="illegible"/>-<gap quantity="3" unit="char" reason="illegible"/>k,<gap quantity="2" unit="char" reason="illegible"/>i<gap quantity="3" unit="char" reason="illegible"/>w<gap quantity="1" unit="char" reason="illegible"/>s<gap quantity="1" unit="char" reason="illegible"/>fl<gap quantity="1" unit="char" reason="illegible"/>tteri<unclear>m</unclear>g<unclear>:</unclear></l>
+                     <l><space quantity="3" unit="char"/>t<gap quantity="1" unit="char" reason="illegible"/>ou<unclear>g</unclear>h<gap quantity="2" unit="char" reason="illegible"/>'<unclear>v</unclear>e<gap quantity="2" unit="char" reason="illegible"/>e<unclear>s</unclear><gap quantity="1" unit="char" reason="illegible"/><unclear>k</unclear><gap quantity="2" unit="char" reason="illegible"/>t<gap quantity="3" unit="char" reason="illegible"/>y<gap reason="illegible"/><gap reason="illegible"/>n<gap quantity="1" unit="char" reason="illegible"/>discretion</l>
+                     <l><space quantity="3" unit="char"/><unclear>c</unclear><gap quantity="1" unit="char" reason="illegible"/>ll<unclear>s</unclear><gap quantity="1" unit="char" reason="illegible"/>for<gap quantity="4" unit="char" reason="illegible"/>e<unclear>a</unclear>rl<gap quantity="2" unit="char" reason="illegible"/>m<unclear>e</unclear><gap quantity="1" unit="char" reason="illegible"/>ic<gap quantity="1" unit="char" reason="illegible"/>l<gap quantity="1" unit="char" reason="illegible"/>check-up,</l>
                   </lg>
                   <lg>
-                     <l><gap/>ho <gap/><unclear>I</unclear> to <gap/><unclear>vo</unclear><gap/>c<unclear>h</unclear> <gap/><unclear>r</unclear> <unclear>a</unclear> <unclear>Ch</unclear>ri<unclear>s</unclear>ti<gap/>n</l>
-                     <l><gap/>a<gap/>y,f<gap/>r le<gap/> offe<unclear>r</unclear> <gap/>o<gap/>tly<gap/> <gap/>ti<gap/>u<gap/><unclear>es</unclear></l>
-                     <l><space quantity="3" unit="char"/>to <unclear>a</unclear> <gap/>oun<gap/> <unclear>man</unclear><gap/> <unclear>I</unclear><gap/> ye<gap/>te<gap/> <unclear>t</unclear>i<gap/>es it</l>
-                     <l><space quantity="3" unit="char"/>was <gap/>i<gap/><unclear>r</unclear>ent: th<gap/> old coul<gap/> be hel<unclear>p</unclear>ful</l>
+                     <l><gap quantity="1" unit="char" reason="illegible"/>ho<gap reason="illegible"/>to<gap quantity="2" unit="char" reason="illegible"/>v<gap quantity="2" unit="char" reason="illegible"/><unclear>ch</unclear><gap reason="illegible"/><unclear>a</unclear><gap quantity="2" unit="char" reason="illegible"/><unclear>h</unclear>ri<gap quantity="2" unit="char" reason="illegible"/>ti<gap reason="illegible"/></l>
+                     <l><gap quantity="1" unit="char" reason="illegible"/><unclear>a</unclear><gap quantity="1" unit="char" reason="illegible"/>y,f<gap quantity="1" unit="char" reason="illegible"/>r<gap quantity="1" unit="char" reason="illegible"/>le<gap quantity="3" unit="char" reason="illegible"/>offe<unclear>r</unclear><gap reason="illegible"/>o<gap quantity="1" unit="char" reason="illegible"/>tly<gap/><gap reason="illegible"/>ti<gap quantity="1" unit="char" reason="illegible"/>u<gap quantity="12" unit="char" reason="illegible"/><unclear>s</unclear></l>
+                     <l><space quantity="3" unit="char"/>to<gap quantity="1" unit="char" reason="illegible"/><unclear>a</unclear><gap quantity="1" unit="char" reason="illegible"/>you<gap quantity="4" unit="char" reason="illegible"/><unclear>n</unclear><gap reason="illegible"/>y<gap quantity="2" unit="char" reason="illegible"/>te<gap quantity="2" unit="char" reason="illegible"/><unclear>t</unclear>i<gap quantity="1" unit="char" reason="illegible"/>es<gap quantity="1" unit="char" reason="illegible"/>it</l>
+                     <l><space quantity="3" unit="char"/>w<unclear>a</unclear>s<gap quantity="2" unit="char" reason="illegible"/>i<gap quantity="3" unit="char" reason="illegible"/><unclear>ren</unclear>t:<gap quantity="1" unit="char" reason="illegible"/>t<unclear>h</unclear><gap reason="illegible"/>old<gap quantity="1" unit="char" reason="illegible"/>coul<gap quantity="2" unit="char" reason="illegible"/><unclear>b</unclear>e<gap quantity="1" unit="char" reason="illegible"/>hel<unclear>p</unclear>f<unclear>u</unclear>l</l>
                   </lg>
                   <lg>
-                     <l>when <gap/>h<gap/> <unclear>c</unclear><gap/>ul<unclear>d</unclear> ni<gap/> e<unclear>n</unclear>vi<gap/><unclear>g</unclear><gap/> <gap/>he <unclear>f</unclear>uture</l>
-                     <l><gap/>s <unclear>a</unclear> <gap/>le set<unclear>t</unclear>l<unclear>e</unclear><gap/> <unclear>l</unclear><gap/><unclear>n</unclear><gap/><unclear>c</unclear><gap/><unclear>p</unclear><gap/> <gap/><unclear>i</unclear><gap/> chil<unclear>d</unclear>ren</l>
+                     <l>when<gap quantity="2" unit="char" reason="illegible"/><unclear>h</unclear><gap quantity="1" unit="char" reason="illegible"/><unclear>y</unclear><gap quantity="3" unit="char" reason="illegible"/>ul<unclear>d</unclear><gap quantity="1" unit="char" reason="illegible"/>ni<gap reason="illegible"/>e<unclear>n</unclear>vi<gap/><gap quantity="2" unit="char" reason="illegible"/><unclear>g</unclear><gap quantity="3" unit="char" reason="illegible"/><unclear>h</unclear><gap quantity="3" unit="char" reason="illegible"/>uture</l>
+                     <l><gap quantity="1" unit="char" reason="illegible"/>s<gap quantity="1" unit="char" reason="illegible"/><unclear>a</unclear><gap quantity="7" unit="char" reason="illegible"/>le<gap quantity="1" unit="char" reason="illegible"/>set<unclear>t</unclear>l<unclear>e</unclear><gap reason="illegible"/><unclear>l</unclear><gap quantity="12" unit="char" reason="illegible"/>i<gap quantity="2" unit="char" reason="illegible"/><unclear>ch</unclear>il<unclear>d</unclear>ren</l>
                      <l><space quantity="3" unit="char"/><gap/><unclear>o</unclear>ul<gap/> <gap/><unclear>ke</unclear> t<gap/><unclear>e</unclear> <gap/><unclear>e</unclear> <gap/><unclear>e</unclear><gap/>e o<gap/> <gap/> t<unclear>h</unclear>e<gap/> <unclear>d</unclear>id,</l>
                      <l><space quantity="3" unit="char"/><unclear>l</unclear><gap/>ug<gap/>in<unclear>g</unclear> <unclear>a</unclear>n<unclear>d</unclear> <gap/>e<unclear>e</unclear><gap/>ing at the s<unclear>a</unclear>me stories.</l>
                   </lg>
