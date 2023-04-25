@@ -93,7 +93,7 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0142/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#handwritten">
+   <text type="notes" hand="#handwritten">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0141/" type="sheet"/>

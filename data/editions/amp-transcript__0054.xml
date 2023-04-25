@@ -143,7 +143,7 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/"/>
       </surface>
    </facsimile>
-   <text type="letter">
+   <text type="photograph">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/" type="photo"/>
