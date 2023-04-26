@@ -79,6 +79,7 @@
                            <list rend="bulleted">
                               <item>original text features: deletions, underlines, additional typographic whitespace</item>
                               <item>indications of unclear characters, which cannot be transcribed with certainty</item>
+                              <item>labeling of entities (persons, places, institutions, works, events)</item>
                               <item>choice of fonts and font sizes</item>
                               <item>full-screen view</item>
                               <item>text-focus view without facsimile</item>
