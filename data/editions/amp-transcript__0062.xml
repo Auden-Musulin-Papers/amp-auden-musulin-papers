@@ -60,7 +60,9 @@ for any purpose, even commercially.</p>
                         <idno>nan</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate>1976-09-04--1980-12-01</origDate></origin>
+                        <origin>
+                        <origDate notBefore="1961-10-13" notAfter="1961-10-13">1976-09-04--1980-12-01</origDate>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
