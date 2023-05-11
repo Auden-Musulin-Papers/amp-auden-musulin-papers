@@ -153,7 +153,6 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
             <pb facs="" type=""/><!-- anp-cvl_1r_depth+albedo.jpg -->
-               <div>
                   <p>
                      <space unit="char" quantity="37"/>(2<lb/>
                   </p>
@@ -223,10 +222,8 @@ for any purpose, even commercially.</p>
                      <l><space quantity="3" unit="char"/><hi rend="underline">th<unclear>e</unclear>n,turn your toes out <unclear>a</unclear>s<gap quantity="1" unit="char" reason="illegible"/>you w<gap quantity="1" unit="char" reason="illegible"/>lk,de<gap quantity="1" unit="char" reason="illegible"/>r</hi>,</l>
                      <l><space quantity="3" unit="char"/><hi rend="underline">and remember who y<gap quantity="1" unit="char" reason="illegible"/>u are,a<gap quantity="2" unit="char" reason="illegible"/><unclear>p</unclear>ender</hi>.</l>
                   </lg>
-               </div>   
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0070/" type="sheet"/>
             <pb facs="" type=""/><!-- anp-cvl_1v_depth+albedo.jpg -->
-               <div>
                   <p>
                      <space unit="char" quantity="10"></space><hi rend="underline"><unclear>E</unclear><gap quantity="7" unit="char" reason="illegible"/>TO<gap reason="illegible"/>GODS<gap quantity="2" unit="char" reason="illegible"/></hi><lb/>
                   </p>
@@ -305,7 +302,6 @@ for any purpose, even commercially.</p>
                   <p>
                      <space quantity="31" unit="char"/>P.T.O.
                   </p>
-               </div>      
          </div>
       </body>
    </text>
