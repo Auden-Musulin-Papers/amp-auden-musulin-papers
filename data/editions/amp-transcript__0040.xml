@@ -104,6 +104,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-10-29">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-04-01">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-27">entities and correspDesc collated</change>
+         <change who="smayer tfruehwirth" when="2023-05-11">CVL transcription inserted</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
