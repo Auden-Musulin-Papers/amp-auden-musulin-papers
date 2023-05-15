@@ -114,7 +114,7 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0246/"/>
         </surface>
     </facsimile>
-    <text type="letter" hand="#handwritten">
+    <text type="card" hand="#handwritten">
         <body>
             <div xml:id="transcription">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0245/" type="card"/>

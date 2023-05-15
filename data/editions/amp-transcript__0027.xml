@@ -116,7 +116,7 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0164/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text type="notes speech" hand="#typed">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0155/" type="sheet"/>
