@@ -149,8 +149,8 @@ for any purpose, even commercially.</p>
                </p>            
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0009/" type="sheet"/>
                <p>
-                  <space quantity="5" unit="char"/><rs type="lit_work" ref="#lit_work_id_62"><rs type="person" ref="#amp_person_5"><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
-                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs></rs>
+                  <space quantity="5" unit="char"/><head><rs type="lit_work" ref="#lit_work_id_62"><rs type="person" ref="#amp_person_5"><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
+                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs></rs></head>
                </p>
                <lg>
                   <l>Reaching my gate a narrow</l>
@@ -214,8 +214,8 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0010/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0139/" type="sheet"/>
                <p>
-                  <space quantity="26" unit="char"/><rs type="lit_work" ref="#lit_work_id_92"><rs type="person" ref="#amp_person_5"><hi rend="underline">JOSEPH WEINHEBER</hi></rs><lb/>
-                  <space quantity="28" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
+                  <space quantity="26" unit="char"/><head><rs type="lit_work" ref="#lit_work_id_92"><rs type="person" ref="#amp_person_5"><hi rend="underline">JOSEPH WEINHEBER</hi></rs><lb/>
+                  <space quantity="28" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs></head>
                </p>
                <p hand="#handwritten">
                   1
