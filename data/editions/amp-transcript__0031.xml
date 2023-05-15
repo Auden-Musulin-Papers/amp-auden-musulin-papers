@@ -194,7 +194,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0224/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0225/" type="sheet"/>
                <p>
-                  - 2 -<lb/>
+                  <space quantity="28" unit="char"/>- 2 -<lb/>
                   to what extent <rs type="lit_work" ref="#lit_work_id_90"><rs type="person" ref="#amp_person_1">Auden</rs>´s speech</rs> contains hitherto unknown material,<lb/>
                   if any. <space quantity="1" unit="char"/>I said air<del>l</del>ily that he had probably said i<del>a</del>t a<del>s</del>ll before,<lb/>
                   in <rs type="lit_work" ref="#lit_work_id_116">Secondary Worlds</rs> and so on, but this is not true. <space quantity="1" unit="char"/>After a<lb/>
