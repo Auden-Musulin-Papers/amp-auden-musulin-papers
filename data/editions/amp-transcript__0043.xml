@@ -150,7 +150,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0099/" type="sheet"/>
                <p>
-                  <rs type="lit_work" ref="#lit_work_id_90"><hi rend="underline">FREEDOM AND NECESSITY IN THE ARTS</hi></rs>
+                  <head><rs type="lit_work" ref="#lit_work_id_90"><hi rend="underline">FREEDOM AND NECESSITY IN THE ARTS</hi></rs></head>
                </p>
                <p hand="#handwritten">
                   May 21st.
