@@ -338,7 +338,7 @@ for any purpose, even commercially.</p>
                   M<unclear>y</unclear> dictionary gives <hi rend="underline">Krethi und Plethi</hi> .<lb/>
                   I<unclear>s</unclear> that right<unclear>?</unclear>
                </p>
-            <pb facs="" type=""/><!-- anp-cvl_2r_depth+albedo.jpg -->
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0459/" type="cv_sheet"/>
                <lg>
                   <l><space quantity="1" unit="char"/><unclear>A</unclear>ll folk-t<unclear>a</unclear>les mean that end with</l>
                   <l><space quantity="4" unit="char"/>A palace wed<unclear>d</unclear>ing,</l>
@@ -403,7 +403,7 @@ for any purpose, even commercially.</p>
                   <l><space quantity="4" unit="char"/><gap quantity="1" unit="char" reason="illegible"/>ermi<gap quantity="1" unit="char" reason="illegible"/>n <gap quantity="1" unit="char" reason="illegible"/>urg<unclear>e</unclear>s.</l>
                </lg>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0140/" type="sheet"/>
-            <pb facs="" type=""/><!-- anp-cvl_2v_depth+albedo.jpg -->
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0460/" type="cv_sheet"/>
          </div>
       </body>
    </text>
