@@ -379,7 +379,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0351/" type="sheet"/>
                <p>
-                  <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_47">The Years in Austria</rs>.</hi><lb/>
+                  <space quantity="17" unit="char"/><head><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_47">The Years in Austria</rs>.</hi></head><lb/>
                   <space quantity="5" unit="char"/>Half an hour from the outskirts of <rs type="place" ref="#amp_place_id_1">Vienna</rs> an invisible<lb/>
                   thread bisect<del>x</del>s the motorway. <space quantity="1" unit="char"/>It leads from the church which<lb/>
                   lies to the north, more accurately speaking from the churchyard,<lb/>
@@ -537,7 +537,7 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">Auden</rs>, I again scoffed at the very idea that he might "love to<lb/>
                   meet me", and she said "All right. <space quantity="1" unit="char"/>I'm just off <rs type="event" ref="#amp_event_id_57">to spend a<lb/>
                   week</rs> there now and I shall fix it <del>up</del> ."<lb/>
-                  So in due course I <del>du</del> came to be standing at the green door,<lb/>
+                  <space quantity="5" unit="char"/>So in due course I <del>du</del> came to be standing at the green door,<lb/>
                   and yet <del>not a</del>the memory <del>of it</del><unclear>th</unclear>at remains <del>excep</del>is the shock of <rs type="person" ref="#amp_person_4">Chester</rs>'s<lb/>
                   appearance as he stood in the doorway in the strong sunlight:<lb/>
                   pale, misshapen, fish-e<del>s</del>yed, loose-,<del><unclear>o</unclear></del>mouthed; <space quantity="1" unit="char"/>it was the<lb/>
@@ -943,6 +943,12 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_27">Eliot</rs> hardly deserved it: <space quantity="1" unit="char"/>Not long<del>o</del> ago <rs type="person" ref="#amp_person_166">George Steiner</rs> referred<lb/>
                   to English writers' lack of <del><gap reason="deleted"/></del>a sympathy towards the German<lb/>
                   classics and mentioned <rs type="person" ref="#amp_person_1">Auden</rs> as a striking exception.
+               </p>   
+               <p>
+                  § Leaving <rs type="person" ref="#amp_person_10">Shakespeare</rs> on one side, as no modern translators have<lb/>
+                  managed to banish the <rs type="person" ref="#amp_person_202">Schlegel-<rs type="person" ref="#amp_person_201">Tieck</rs></rs> <rs type="lit_work" ref="#lit_work_id_129">version</rs> from the stage,<lb/>
+                  <rs type="person" ref="#amp_person_67">Eva Hesse</rs> made her name <del>as the translator </del> with <rs type="person" ref="#amp_person_68">Ezra <del>C</del>Pound</rs>'s<lb/>
+                  <rs type="lit_work" ref="#lit_work_id_69">Cantos</rs>, a <rs type="lit_work" ref="#lit_work_id_130 #lit_work_id_131">masterpiece</rs> of the translator's art.    
                </p>
                <p>
                   <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> immensely enjoyed working on <rs type="person" ref="#amp_person_11">Goethe</rs>'s <rs type="lit_work" ref="#lit_work_id_70">"Italian<lb/>
@@ -959,12 +965,6 @@ for any purpose, even commercially.</p>
                   further greeting he gasped out:<lb/>
                   <space quantity="4" unit="char"/>"I have come to the concl<del>i</del>usion that <rs type="person" ref="#amp_person_11">Goethe</rs> was a very<lb/>
                   lonely man."
-               </p>
-               <p>
-                  § Leaving <rs type="person" ref="#amp_person_10">Shakespeare</rs> on one side, as no modern translators have<lb/>
-                  managed to banish the <rs type="person" ref="#amp_person_202">Schlegel-<rs type="person" ref="#amp_person_201">Tieck</rs></rs> <rs type="lit_work" ref="#lit_work_id_129">version</rs> from the stage,<lb/>
-                  <rs type="person" ref="#amp_person_67">Eva Hesse</rs> made her name <del>as the translator </del> with <rs type="person" ref="#amp_person_68">Ezra <del>C</del>Pound</rs>'s<lb/>
-                  <rs type="lit_work" ref="#lit_work_id_69">Cantos</rs>, a <rs type="lit_work" ref="#lit_work_id_130 #lit_work_id_131">masterpiece</rs> of the translator's art.    
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0376/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0377/" type="sheet"/>
@@ -1299,7 +1299,7 @@ for any purpose, even commercially.</p>
                   <rs type="event" ref="#amp_event_56">Salzburg Festival</rs>. <space quantity="1" unit="char"/>Now, in the following year, <rs type="person" ref="#amp_person_1">Auden</rs> was invited
                </p>
                <p>
-                  §<rs type="lit_work" ref="#lit_work_id_5">The Bassarids, Opera Seria with Intermezzo in One Act bas<del>s</del>ed on<lb/>
+                  <rs type="lit_work" ref="#lit_work_id_5">The Bassarids, Opera Seria with Intermezzo in One Act bas<del>s</del>ed on<lb/>
                   <rs type="lit_work" ref="#lit_work_id_75">The Bacchae</rs> of <rs type="person" ref="#amp_person_203">Euripides</rs></rs> by <rs type="person" ref="#amp_person_1">W.H. Auden</rs> and <rs type="person" ref="#amp_person_4">Chester Kallman</rs>.<lb/>
                   Music by <rs type="person" ref="#amp_person_79">Hans Werner Henze</rs>.
                </p>
@@ -1420,14 +1420,14 @@ for any purpose, even commercially.</p>
                   they speak absolute drivel.<lb/>
                   <space quantity="5" unit="char"/>'Thirdly, and lastly, taking drugs as a short cut to God<lb/>
                   is absolute drivel as well.' "<lb/>
-                  It is true,<del> incidentally,</del> that the progressive "vulgarisation"<lb/>
+                  <space quantity="5" unit="char"/>It is true,<del> incidentally,</del> that the progressive "vulgarisation"<lb/>
                   of <rs type="place" ref="#amp_place_id_56">London</rs> struck him like a bl<del><gap reason="deleted"/></del>ow in the face every time he went<lb/>
                   there. <space quantity="1" unit="char"/>He seldom failed to mention the subje<del>f</del>ct when he <del>had</del><lb/>
                   c<del>o</del>ame back to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, and was particularly angry about the<lb/>
                   advertisements on the <rs type="org" ref="#amp_organization_54">London Underground</rs>, which he said beat anything<lb/>
                   to be found any<del>t</del>where.
                </p>
-               <p>
+               <p hand="#handwritten">
                   + + +
                </p>
                <p>
