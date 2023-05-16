@@ -150,8 +150,8 @@ for any purpose, even commercially.</p>
                </p>            
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0009/" type="sheet"/>
                <p>
-                  <space quantity="5" unit="char"/><head><rs type="lit_work" ref="#lit_work_id_62"><rs type="person" ref="#amp_person_5"><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
-                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs></rs></head>
+                  <space quantity="5" unit="char"/><rs type="lit_work" ref="#lit_work_id_62"><rs type="person" ref="#amp_person_5"><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
+                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs></rs>
                </p>
                <lg>
                   <l>Reaching my gate a narrow</l>
@@ -215,8 +215,8 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0010/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0139/" type="sheet"/>
                <p>
-                  <space quantity="26" unit="char"/><head><rs type="lit_work" ref="#lit_work_id_92"><rs type="person" ref="#amp_person_5"><hi rend="underline">JOSEPH WEINHEBER</hi></rs><lb/>
-                  <space quantity="28" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs></head>
+                  <space quantity="26" unit="char"/><rs type="lit_work" ref="#lit_work_id_92"><rs type="person" ref="#amp_person_5"><hi rend="underline">JOSEPH WEINHEBER</hi></rs><lb/>
+                  <space quantity="28" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
                </p>
                <p hand="#handwritten">
                   1
@@ -315,7 +315,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="4" unit="char"/>Wenn ich <unclear>ü</unclear>ber unser Tal - human <del>un</del> bescheiden und sanft im Umriss - schaue,in dem<lb/>
-                  der <rs type="place" ref="amp_place_id_252">Sichelbach</rs> westwarts gurgelt,um sich mit dem <rs type="place" ref="amp_place_id_251">Perschling</rs> zu vereinigen,bin ich<lb/>
+                  der <rs type="place" ref="#amp_place_id_252">Sichelbach</rs> westwarts gurgelt,um sich mit dem <rs type="place" ref="#amp_place_id_251">Perschling</rs> zu vereinigen,bin ich<lb/>
                   mir bedeutendere Nachbarn ehrf<unclear>ü</unclear>rchtig bewusst,der Berge,die hinter mir aufragen,<lb/>
                   vor mir des noblen Flusses,
                </p>
