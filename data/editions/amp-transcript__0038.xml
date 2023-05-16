@@ -164,8 +164,8 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0133/" type="sheet"/>
                <p>
-                  <space quantity="5" unit="char"/><head><rs type="lit_work" ref="#lit_work_id_61"><hi rend="underline"><rs type="person" ref="#amp_person_5">JOSEPH WEINHEBER</rs></hi><lb/>
-                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs></head>
+                  <space quantity="5" unit="char"/><rs type="lit_work" ref="#lit_work_id_61"><hi rend="underline"><rs type="person" ref="#amp_person_5">JOSEPH WEINHEBER</rs></hi><lb/>
+                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
                </p>
                <lg>
                   <l>Reachi<del>j</del>ng my gate a narrow</l>
