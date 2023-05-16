@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Typescript W. H. Auden "Freedom and Necessity in the Arts" 1970-05-21--1995-12-31</title>
+            <title level="a">Notes Stella Musulin Speech W. H. Auden "Freedom and Necessity in the Arts" 1970-05-21--1995-12-31</title>
             <author>Auden, W. H.</author>
             <author>Musulin, Stella</author>
             <editor>
@@ -71,6 +71,7 @@ for any purpose, even commercially.</p>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
+            <language ident="de">German</language>
          </langUsage>
          
       </profileDesc>
@@ -115,7 +116,7 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0164/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text type="notes speech" hand="#typed">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0155/" type="sheet"/>
@@ -440,8 +441,6 @@ for any purpose, even commercially.</p>
                   its <del>D</del>director,a <del>al</del>large slave cla<del>a</del>ss kept out of sight in <del>f</del>cellars,and the<lb/>
                   strictest censure<del>e</del>ship of the Arts,forbidding anything to be said which <del>was</del> is<lb/>
                   <del>not</del> out of keeping with the official 'line<del>.'</del>'.
-               </p>
-               <p>
                   <space quantity="3" unit="char"/>The third confusion,typical of our western <del>civilisat</del> 'free' <del>soncietis</del><lb/>
                   societies at this time,is the opposite of <rs type="person" ref="#amp_person_30">Plato</rs>'s,namely to take political<lb/>
                   act<del>u</del>ion as the model for arti<del>t</del>stic fabrication. Political action is a necessity,<lb/>

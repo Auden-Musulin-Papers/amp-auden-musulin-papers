@@ -118,10 +118,10 @@
         <body>
             <div xml:id="transcription">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0251/" type="sheet"/>
-                <p>
-                    <space quantity="48" unit="char"/><rs type="place" ref="#amp_place_id_11">NEULINGGASSE 26/14<lb/>
-                    <space quantity="48" unit="char"/>1030 WIEN</rs><lb/>
-                    <space quantity="48" unit="char"/>TEL. 73 94 015
+                <p hand="#printed">
+                    <rs type="place" ref="#amp_place_id_11">NEULINGGASSE 26/14<lb/>
+                    1030 WIEN</rs><lb/>
+                    TEL. 73 94 015
                 </p>
                 <p>
                     <space quantity="44" unit="char"/>5. April 1977

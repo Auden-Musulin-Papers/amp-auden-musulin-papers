@@ -70,6 +70,7 @@ for any purpose, even commercially.</p>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
+            <language ident="de">German</language>
          </langUsage>
          
       </profileDesc>
@@ -148,7 +149,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0172/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0173/" type="sheet"/>
                <p>
-                  2
+                  <space quantity="56" unit="char"/>2
                </p>
                <p>
                   Gemeinde, aber man kann nicht behaupten, dass ich finanziellen<lb/>
@@ -184,7 +185,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0174/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0175/" type="sheet"/>
                <p>
-                  3
+                  <space quantity="53" unit="char"/>3
                </p>
                <p>
                   <space quantity="8" unit="char"/>3. <del><gap reason="deleted"/></del>Ich glaube, Sie sind sich nicht i<del><gap reason="deleted"/></del>m Klaren über die<lb/>

@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Note Michael O'Sullivan to Stella Musulin 1984-08-15</title>
+            <title level="a">Autograph Card Michael O'Sullivan to Stella Musulin 1984-08-15</title>
             <author>O'Sullivan, Michael</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -114,7 +114,7 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0242/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#handwritten">
+   <text type="card" hand="#handwritten">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0241/" type="card"/>

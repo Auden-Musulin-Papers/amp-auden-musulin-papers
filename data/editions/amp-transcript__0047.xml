@@ -71,6 +71,7 @@ for any purpose, even commercially.</p>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
+            <language ident="de">German</language>
          </langUsage>
          
       </profileDesc>
@@ -91,13 +92,13 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0144/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text type="card" hand="#typed">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0143/" type="sheet"/>
                <p>
-                  <space quantity="21" unit="char"/><rs type="lit_work" ref="#lit_work_id_93"><rs type="person" ref="#amp_person_5">JOSEPH WEINHEBER<lb/>
-                  <space quantity="22" unit="char"/>(1892-1945)</rs></rs><lb/>
+                  <space quantity="21" unit="char"/><head><rs type="lit_work" ref="#lit_work_id_93"><rs type="person" ref="#amp_person_5">JOSEPH WEINHEBER<lb/>
+                  <space quantity="22" unit="char"/>(1892-1945)</rs></rs></head><lb/>
                   <space quantity="5" unit="char"/>Von meiner Garten<del>n</del>tür führt ein schmaler Pfad vom Dorf weiter<lb/>
                   einen Wald. <space quantity="1" unit="char"/>Auf meinen Gängen dorthin scheint es gehörig, stehen z<lb/>
                   bleiben und durch den Zaun deines Gartens zu schauen, in dem man<lb/>
@@ -156,8 +157,8 @@ for any purpose, even commercially.</p>
                   <space quantity="4" unit="char"/>doch möcht ich auch dir Achtung erweisen, Nachbar und Kolle<lb/>
                   <del>de</del>
                </p>
-               <p hand="#handwritten">
-                  &#x2052;
+               <p>
+                  <space quantity="57" unit="char"/>&#x2052;
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0144/" type="sheet"/>
                <p>

@@ -88,7 +88,7 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0180/"/>
         </surface>
     </facsimile>
-    <text type="letter" hand="#handwritten">
+    <text type="notes" hand="#handwritten">
         <body>
             <div xml:id="transcription">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0179/" type="sheet"/>

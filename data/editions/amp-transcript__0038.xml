@@ -70,6 +70,7 @@ for any purpose, even commercially.</p>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
+            <language ident="de">German</language>
          </langUsage>
          
          <correspDesc>
@@ -163,8 +164,8 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0133/" type="sheet"/>
                <p>
-                  <space quantity="5" unit="char"/><rs type="lit_work" ref="#lit_work_id_61"><hi rend="underline"><rs type="person" ref="#amp_person_5">JOSEPH WEINHEBER</rs></hi><lb/>
-                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
+                  <space quantity="5" unit="char"/><head><rs type="lit_work" ref="#lit_work_id_61"><hi rend="underline"><rs type="person" ref="#amp_person_5">JOSEPH WEINHEBER</rs></hi><lb/>
+                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs></head>
                </p>
                <lg>
                   <l>Reachi<del>j</del>ng my gate a narrow</l>
@@ -229,7 +230,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0134/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0135/" type="sheet"/>
                <p>
-                  (2
+                  <space quantity="39" unit="char"/>(2
                </p>
                <lg>
                   <l>Unmarked by me,unmourned for,</l>
@@ -294,7 +295,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0136/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0137/" type="sheet"/>
                <p>
-                  (3
+                  <space quantity="53" unit="char"/>(3
                </p>
                <lg>
                   <l><space quantity="15" unit="char"/>Looking across <del>u</del>our valley</l>
@@ -330,7 +331,9 @@ for any purpose, even commercially.</p>
                   <space quantity="9" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> is intending to have a <rs type="event" ref="#amp_event_id_49">cer<del>o</del>emony in memory of the twentieth<lb/>
                   <space quantity="1" unit="char"/>anniversary of <rs type="event" ref="#amp_event_id_50"><rs type="person" ref="#amp_person_5">Weinheber</rs>'<del>w</del>s <space quantity="1" unit="char"/>death</rs></rs>. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
-                  <space quantity="1" unit="char"/><hi rend="underline">Gemeindepflicht.</hi><lb/>
+                  <space quantity="1" unit="char"/><hi rend="underline">Gemeindepflicht.</hi>
+               </p>
+               <p>
                   <space quantity="17" unit="char"/>love<lb/>
                </p>
                <p hand="#handwritten">

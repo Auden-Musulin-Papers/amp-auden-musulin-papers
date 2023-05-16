@@ -70,6 +70,7 @@ for any purpose, even commercially.</p>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
+            <language ident="de">German</language>
          </langUsage>
          <particDesc>
             <listPerson type="identified">
@@ -95,7 +96,7 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0238/"/>
       </surface>
    </facsimile>
-   <text type="letter">
+   <text type="photograph">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0237/" type="nan"/>

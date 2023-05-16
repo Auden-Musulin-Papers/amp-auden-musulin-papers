@@ -70,6 +70,7 @@ for any purpose, even commercially.</p>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
+            <language ident="de">German</language>
          </langUsage>
          
          <correspDesc>
@@ -166,9 +167,8 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0090/" type="sheet"/>
                <p hand="#typed">
-                  <rs type="lit_work" ref="#lit_work_id_43"><hi rend="underline">STARK BEW<unclear>Ö</unclear>LKT</hi></rs><lb/>
-                  (<hi rend="underline">for <rs type="person" ref="#amp_person_2">Stella Musulin</rs></hi>)
-                  <cb n="1"/>
+                  <space quantity="26" unit="char"/><head><rs type="lit_work" ref="#lit_work_id_43"><hi rend="underline">STARK BEW<unclear>Ö</unclear>LKT</hi></rs><lb/>
+                  <space quantity="22" unit="char"/>(<hi rend="underline">for <rs type="person" ref="#amp_person_2">Stella Musulin</rs></hi>)</head>
                   <lg>
                      <l>I'm no photophil who burns</l>
                      <l>his body brown on beaches:</l>

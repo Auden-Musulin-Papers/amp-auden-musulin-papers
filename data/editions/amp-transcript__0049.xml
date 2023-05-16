@@ -70,6 +70,7 @@ for any purpose, even commercially.</p>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
+            <language ident="de">German</language>
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
@@ -89,7 +90,7 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0244/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#printed">
+   <text type="invitation_card" hand="#printed">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0243/" type="nan"/>

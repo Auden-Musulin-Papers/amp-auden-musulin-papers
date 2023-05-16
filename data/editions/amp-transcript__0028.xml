@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Typescript Stella Musulin "In Retrospect" 1985-11-29--1990-03-28</title>
+            <title level="a">Typed Memoir Stella Musulin "In Retrospect" 1985-11-29--1990-03-28</title>
             <author>Musulin, Stella</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -72,6 +72,7 @@ for any purpose, even commercially.</p>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
+            <language ident="de">German</language>
          </langUsage>
          
       </profileDesc>
@@ -188,7 +189,7 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0214/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text type="memoir" hand="#typed">
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0181/" type="sheet"/>
@@ -241,7 +242,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0182/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0183/" type="sheet"/>
                <p>
-                  - 2 -
+                  <space quantity="29" unit="char"/>- 2 -
                </p>
                <p>
                   <space quantity="4" unit="char"/><rs type="person" ref="#amp_person_100">Carpenter</rs>´s <rs type="lit_work" ref="#lit_work_id_39">book</rs> calls itself "a first biography", and the<lb/>
@@ -289,7 +290,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0184/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0185/" type="sheet"/>
                <p>
-                  - 3 -
+                  <space quantity="28" unit="char"/>- 3 -
                </p>
                <p>
                   loved but who was already - though <rs type="person" ref="#amp_person_1">Auden</rs> did not know it -<lb/>
@@ -333,7 +334,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0186/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0187/" type="sheet"/>
                <p>
-                  - 4 -
+                  <space quantity="30" unit="char"/>- 4 -
                </p>
                <p>
                   smirk of satisfaction: "I sent him up on to the roof to mend tiles."<lb/>
@@ -379,7 +380,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0188/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0189/" type="sheet"/>
                <p>
-                  - 5 -
+                  <space quantity="25" unit="char"/>- 5 -
                </p>
                <p>
                   lost his roots in <rs type="place" ref="#amp_place_id_30">Europe</rs>.<lb/>
@@ -425,7 +426,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0190/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0191/" type="sheet"/>
                <p>
-                  - 5a -
+                  <space quantity="23" unit="char"/>- 5a -
                </p>
                <p>
                   It turned out that he lived not far from <rs type="place" ref="#amp_place_id_11">my flat</rs> so we drove<lb/>
@@ -437,7 +438,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0192/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0193/" type="sheet"/>
                <p>
-                  - 6 -
+                  <space quantity="28" unit="char"/>- 6 -
                </p>
                <p>
                   <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> the question cropped <del>i</del>up whether he would be willing<lb/>
@@ -498,7 +499,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0194/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0195/" type="sheet"/>
                <p>
-                  - 7 -
+                  <space quantity="26" unit="char"/>- 7 -
                </p>
                <p>
                   the doctor but the man from the accounts offic<del>d</del>e who wants to<lb/>
@@ -545,7 +546,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0196/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0197/" type="sheet"/>
                <p>
-                  - 8 -
+                  <space quantity="27" unit="char"/>- 8 -
                </p>
                <p>
                   to the enormous fat content of some of the dishes. <space quantity="1" unit="char"/>I remember<lb/>
@@ -596,7 +597,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0198/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0199/" type="sheet"/>
                <p>
-                  - 9 -
+                  <space quantity="31" unit="char"/>- 9 -
                </p>
                <p>
                   second time. <space quantity="1" unit="char"/>You also go on to say that a road in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs><lb/>
@@ -643,7 +644,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0200/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0201/" type="sheet"/>
                <p>
-                  - 10 -
+                  <space quantity="25" unit="char"/>- 10 -
                </p>
                <p>
                   <space quantity="10" unit="char"/>on the subject of translation<del><unclear>:</unclear></del>s <space quantity="1" unit="char"/>you rightly say that<lb/>
@@ -684,7 +685,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0202/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0203/" type="sheet"/>
                <p>
-                  - 11 -
+                  <space quantity="22" unit="char"/>- 11 -
                </p>
                <p>
                   <space quantity="5" unit="char"/>"Every day f<del>p</del>or the past year" said <rs type="person" ref="#amp_person_4">Chester</rs> "I have stood<lb/>
@@ -816,7 +817,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0208/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0209/" type="sheet"/>
                <p>
-                  - 14 -
+                  <space quantity="30" unit="char"/>- 14 -
                </p>
                <p>
                   fetched more beer, <rs type="person" ref="#amp_person_32">Frau Strobl</rs> walked in and out and rolled a<lb/>
@@ -859,7 +860,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0210/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0211/" type="sheet"/>
                <p>
-                  - 17 -
+                  <space quantity="27" unit="char"/>- 17 -
                </p>
                <p>
                   the chief mourners. <space quantity="1" unit="char"/>It was <rs type="person" ref="#amp_person_175">"he-whose-name-we-never-mention"</rs>;<lb/>
@@ -877,6 +878,8 @@ for any purpose, even commercially.</p>
                   and the long reading from the first <del>book</del><rs type="lit_work" ref="#lit_work_id_14">Letter of <rs type="person" ref="#amp_person_190">St.Paul</rs> to the<lb/>
                   Corin<del>g</del>thians</rs>, chapter 15, verses 20-58. Beyond that, all he recalls<lb/>
                   <del>is the hysterical behaviour </del> is his difficulties with <rs type="person" ref="#amp_person_4">Chester</rs>.<lb/>
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>Reaching for my <rs type="lit_work" ref="#lit_work_id_82">Authorised Version</rs>, for surely no one would<lb/>
                   have dared to use any other, on second thoughts I also took out the<lb/>
                   <rs type="lit_work" ref="#lit_work_id_12">New Testament</rs> as translated into German by <rs type="person" ref="#amp_person_102">Martin Luther</rs>. <space quantity="1" unit="char"/>After<lb/>
@@ -902,7 +905,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0212/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0213/" type="sheet"/>
                <p>
-                  - 18 -
+                  <space quantity="30" unit="char"/>- 18 -
                </p>
                <p>
                   star differeth from another in glory."<lb/>
