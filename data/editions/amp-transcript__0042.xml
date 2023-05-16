@@ -139,7 +139,7 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0103/" type="sheet"/>
                <p>
-                  <space quantity="7" unit="char"/><head><rs type="lit_work" ref="#lit_work_id_88"><hi rend="underline">AUGUST I<del>(</del>968</hi></rs></head>
+                  <space quantity="7" unit="char"/><rs type="lit_work" ref="#lit_work_id_88"><hi rend="underline">AUGUST I<del>(</del>968</hi></rs>
                </p>
                <lg>
                   <l>The ogre does what ogres can,</l>
@@ -167,9 +167,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0104/" type="sheet"/>
                <p>
-                  <space quantity="4" unit="char"/><head><rs type="lit_work" ref="#lit_work_id_58"><hi rend="underline">ELEGY</hi><lb/>
+                  <space quantity="4" unit="char"/><rs type="lit_work" ref="#lit_work_id_58"><hi rend="underline">ELEGY</hi><lb/>
                   (<hi rend="underline">In Memoriam <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></hi>. <del>ob</del><lb/>
-                  <space quantity="1" unit="char"/><hi rend="underline">ob.Nov 4th,I967)</hi></rs></head>
+                  <space quantity="1" unit="char"/><hi rend="underline">ob.Nov 4th,I967)</hi></rs>
                </p>
                <cb n="1"/>
                <lg>
