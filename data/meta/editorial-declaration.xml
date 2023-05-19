@@ -128,8 +128,9 @@
                               <item n="3.3">For manuscripts, when spaces before or after punctuation marks are significantly smaller than the spaces separating words in the surrounding text, no spaces are transcribed.</item><!-- (example: Letter W. H. Auden to Stella Musulin 1962-09-11, page 3, line 12)-->
                               <item n="3.4">For manuscripts, the length of spaces between words is regularized and represented as either single space or no space.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12, page 3, line 6) -->
                               <item n="3.5">For typescripts, the exact number of spaces within sentences is preserved and marked up as <![CDATA[<]]>space<![CDATA[>]]> in XML.</item><!-- (example: Typescript Stella Musulin "In Retrospect" [?], page 1, line 2) -->
-                              <item n="3.6">Spaces that precede printed text are disregarded.</item><!-- (example: transcript_0001, page 2, line 3) -->
-                              <item n="3.7">Blank lines between lines of writing are disregarded.</item>
+                              <item n="3.6">Changes in the left-hand margins of typescripts are not marked up as indentations (by means of <![CDATA[<]]>space<![CDATA[>]]>) if they appear to result from reinsertations of the sheets of paper or resets of margins on the typewriter that do not appear meaningful.</item><!-- doc 18, p 17; docs 27, 43, p 3 -->
+                              <item n="3.7">Spaces that precede printed text are disregarded.</item><!-- (example: transcript_0001, page 2, line 3) -->
+                              <item n="3.8">Blank lines between lines of writing are disregarded.</item>
                            </list>
                         </item>
                      </list>
