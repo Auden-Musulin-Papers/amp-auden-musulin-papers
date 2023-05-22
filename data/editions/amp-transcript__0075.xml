@@ -3,7 +3,7 @@
         <fileDesc>
             <titleStmt>
                 <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-                <title level="a">Photograph [Stella Musulin] at W. H. Auden's Funeral 1973-10-04",1973-10-04</title>
+                <title level="a">Photograph [Stella Musulin] at W. H. Auden's Funeral 1973-10-04</title>
                 <editor>
                     <name>Mayer, Sandra</name>
                     <name>Frühwirth, Timo</name>
@@ -55,10 +55,8 @@
                         <msDesc>
                             <msIdentifier>
                                 <country>A</country>
-                                <settlement>St. Pölten</settlement>
-                                <repository>State Collections of Lower Austria</repository>
-                                <collection>Stella Musulin (Depot)</collection>
-                                <idno>2, 26</idno>
+                                <settlement>Vienna</settlement><!-- add repository? -->
+                                <collection>Musulin private collection</collection>
                             </msIdentifier>
                             <history>
                                 <origin><origDate notBefore="1973-10-04" notAfter="1973-10-04">1973-10-04</origDate></origin>
@@ -79,21 +77,18 @@
             <settingDesc>
                 <setting>
                     <name sameAs="amp_place_id_5">Kirchstetten</name>
-                    <date>October 1973</date>
+                    <date notBefore="1973-10-04" notAfter="1973-10-04">4 October 1973</date>
                 </setting>
             </settingDesc>
         </profileDesc>
         <revisionDesc status="draft">
             <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
-            <change who="dgrigoriou smayer tfruehwirth" when="2023-05-22">file created, metadata inserted</change>
+            <change who="dgrigoriou tfruehwirth" when="2023-05-22">file created, metadata inserted</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
         <surface ulx="0" uly="0" lrx="4960" lry="3496">
-            <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0247/"/>
-        </surface>
-        <surface ulx="0" uly="0" lrx="4732" lry="3542">
-            <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0248/"/>
+            <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0458/"/>
         </surface>
     </facsimile>
 </TEI>

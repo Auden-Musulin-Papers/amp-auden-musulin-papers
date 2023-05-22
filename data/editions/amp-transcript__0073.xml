@@ -55,10 +55,8 @@
                         <msDesc>
                             <msIdentifier>
                                 <country>A</country>
-                                <settlement>St. Pölten</settlement>
-                                <repository>State Collections of Lower Austria</repository>
-                                <collection>Stella Musulin (Depot)</collection>
-                                <idno>2, 26</idno>
+                                <settlement>Vienna</settlement><!-- add repository? -->
+                                <collection>Musulin private collection</collection>
                             </msIdentifier>
                             <history>
                                 <origin><origDate notBefore="1973-10-04" notAfter="1973-10-04">1973-10-04</origDate></origin>
@@ -75,14 +73,19 @@
             <particDesc>
                 <listPerson type="identified">
                     <person role="participant" sameAs="amp_person_4">
+                        <note type="description">second from left</note>  
                     </person>
                     <person role="participant" sameAs="amp_person_88">
+                        <note type="description">fifth from left</note>  
                     </person>
                     <person role="participant" sameAs="amp_person_120">
+                        <note type="description">seventh from right</note>  
                     </person>
                     <person role="participant" sameAs="amp_person_8">
+                        <note type="description">fifth from right</note>  
                     </person>
                     <person role="participant" sameAs="amp_person_169">
+                        <note type="description">first from right</note>  
                     </person>
                     <person role="participant" sameAs="amp_person_2">    
                         <note type="description">photographer</note>  
@@ -92,30 +95,27 @@
             <settingDesc>
                 <setting>
                     <name sameAs="amp_place_id_5">Kirchstetten</name>
-                    <date>October 1973</date>
+                    <date notBefore="1973-10-04" notAfter="1973-10-04">4 October 1973</date>
                 </setting>
             </settingDesc>
         </profileDesc>
         <revisionDesc status="draft">
             <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
-            <change who="dgrigoriou smayer tfruehwirth" when="2023-05-22">file created, metadata inserted</change>
+            <change who="dgrigoriou tfruehwirth" when="2023-05-22">file created, metadata inserted</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
         <surface ulx="0" uly="0" lrx="4960" lry="3496">
-            <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0247/"/>
-        </surface>
-        <surface ulx="0" uly="0" lrx="4732" lry="3542">
-            <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0248/"/>
+            <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0456/"/>
         </surface>
     </facsimile>
     <text type="photograph">
         <body>
             <div xml:id="transcription">
-                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0247/" type="photo"/>
+                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0456/" type="photograph"/>
                 <p hand="#handwritten">
-                    <rs type="person" ref="#amp_person_4">Kallman</rs> <rs type="person" ref="#amp_person_88">John Auden</rs> <rs type="person" ref="#amp_person_120">Monteith</rs> <rs type="person" ref="#amp_person_8">Spender</rs><lb/>
-                    <rs type="person" ref="#amp_person_169">Lisa Clark</rs>
+                    <rs type="person" ref="#amp_person_4">Chester</rs> <rs type="person" ref="#amp_person_88">John A .</rs> <rs type="person" ref="#amp_person_120">Charles Monteith</rs><lb/>
+                    <rs type="event" ref="#amp_event_id_19">Funeral Auden</rs> . <rs type="person" ref="#amp_person_8">Stephen Spender</rs> 
                 </p>
             </div>
         </body>

@@ -55,10 +55,8 @@
                         <msDesc>
                             <msIdentifier>
                                 <country>A</country>
-                                <settlement>St. Pölten</settlement>
-                                <repository>State Collections of Lower Austria</repository>
-                                <collection>Stella Musulin (Depot)</collection>
-                                <idno>2, 26</idno>
+                                <settlement>Vienna</settlement><!-- add repository? -->
+                                <collection>Musulin private collection</collection>
                             </msIdentifier>
                             <history>
                                 <origin><origDate notBefore="1969-05-28" notAfter="1969-05-28">1969-05-28</origDate></origin>
@@ -72,13 +70,13 @@
             <particDesc>
                 <listPerson type="identified">
                     <person role="participant" sameAs="amp_person_54">
-                        <note>Left side</note>
+                        <note type="description">left side</note>
                     </person> 
                     <person role="participant" sameAs="amp_person_4">
-                        <note>Middle</note>
+                        <note type="description">middle</note>
                     </person>
                     <person role="participant" sameAs="amp_person_1">
-                        <note>Right side</note>
+                        <note type="description">right side</note>
                     </person>
                     <person role="participant" sameAs="amp_person_2">    
                         <note type="description">photographer</note>  
@@ -88,30 +86,26 @@
             <settingDesc>
                 <setting>
                     <name sameAs="amp_place_id_2">Hinterholz 6</name>
-                    <date>May 1969</date>
+                    <date notBefore="1969-05-28" notAfter="1969-05-28">28 May 1969</date>
                 </setting>
             </settingDesc>
         </profileDesc>
         <revisionDesc status="draft">
             <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
-            <change who="dgrigoriou smayer tfruehwirth" when="2023-05-22">file created, metadata inserted</change>
+            <change who="dgrigoriou tfruehwirth" when="2023-05-22">file created, metadata inserted</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
         <surface ulx="0" uly="0" lrx="4960" lry="3496">
-            <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0247/"/>
-        </surface>
-        <surface ulx="0" uly="0" lrx="4732" lry="3542">
-            <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0248/"/>
+            <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0449/"/>
         </surface>
     </facsimile>
     <text type="photograph">
         <body>
             <div xml:id="transcription">
-                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0247/" type="photo"/>
+                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0449/" type="photograph"/>
                 <p hand="#handwritten">
-                    <rs type="person" ref="#amp_person_54">Fritz Heer</rs> <rs type="person" ref="#amp_person_4">Kallman</rs><lb/>
-                    <rs type="person" ref="#amp_person_1">Auden</rs>
+                    <rs type="person" ref="#amp_person_54">Fritz Heer</rs> , <rs type="person" ref="#amp_person_4">Chester</rs>, <rs type="person" ref="#amp_person_1">W.H.A.</rs>
                 </p>
             </div>
         </body>
