@@ -28,6 +28,10 @@
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
             </respStmt>
+            <respStmt>
+               <resp>Generation of computer-vision visualizations</resp>
+               <name>Brenner, Simon</name>
+            </respStmt>
          </editionStmt>
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
