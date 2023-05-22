@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
               <person role="participant" sameAs="amp_person_1">
                  <note>Front page: Bottom right, right side</note>
               </person>
+              <person role="participant" sameAs="amp_person_2">    
+                 <note type="description">photographer</note>  
+              </person>
               <person role="participant" sameAs="amp_person_192">
                  <note>Back page: Top left, left side</note>
               </person>
@@ -118,7 +121,7 @@ for any purpose, even commercially.</p>
               </person>
               <person role="participant" sameAs="amp_person_193">
                  <note>Back page: Bottom left, front</note>
-              </person>
+              </person> 
          </listPerson>
          </particDesc>
          <settingDesc>
