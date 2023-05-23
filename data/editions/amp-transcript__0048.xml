@@ -99,8 +99,8 @@ for any purpose, even commercially.</p>
    <text type="photograph">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0237/" type="nan"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0238/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0237/" type="photograph"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0238/" type="photograph"/>
                <p hand="#stamp">
                   Copyright by<lb/>
                   <rs type="person" ref="#amp_person_198">RUDOLF BLAHA</rs><lb/>

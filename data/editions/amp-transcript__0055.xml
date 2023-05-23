@@ -87,7 +87,7 @@ for any purpose, even commercially.</p>
          <settingDesc>
             <setting>
                <name sameAs="amp_place_id_254">Loreto</name>
-               <date>November 1960</date>
+               <date notBefore="1960-07-21" notAfter="1960-11-02">1960-07-21--1960-11-02</date>
             </setting>
          </settingDesc>
       </profileDesc>
@@ -108,8 +108,8 @@ for any purpose, even commercially.</p>
    <text type="photograph">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0235/" type="photo"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0236/" type="photo"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0235/" type="photograph"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0236/" type="photograph"/>
          </div>
       </body>
    </text>
