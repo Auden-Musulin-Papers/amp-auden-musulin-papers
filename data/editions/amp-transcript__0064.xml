@@ -94,5 +94,12 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0447/"/>
         </surface>
     </facsimile>
+    <text type="photograph">
+        <body>
+            <div xml:id="transcript">
+                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0447/" type="photograph"/>
+            </div>
+        </body>
+    </text>
 </TEI>
 
