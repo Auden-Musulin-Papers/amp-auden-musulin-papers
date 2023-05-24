@@ -142,10 +142,10 @@ for any purpose, even commercially.</p>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="6846" lry="7740">
+      <surface ulx="0" uly="0" lrx="8528" lry="10073">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="6850" lry="7738">
+      <surface ulx="0" uly="0" lrx="8488" lry="10281">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/"/>
       </surface>
    </facsimile>

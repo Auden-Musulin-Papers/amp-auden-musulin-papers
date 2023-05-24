@@ -98,10 +98,10 @@ for any purpose, even commercially.</p>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="3504" lry="2798">
+      <surface ulx="0" uly="0" lrx="4186" lry="3148">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0235/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="3508" lry="2798">
+      <surface ulx="0" uly="0" lrx="4187" lry="3109">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0236/"/>
       </surface>
    </facsimile>

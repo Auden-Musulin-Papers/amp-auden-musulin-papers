@@ -101,10 +101,10 @@ for any purpose, even commercially.</p>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="4960" lry="3496">
+      <surface ulx="0" uly="0" lrx="5800" lry="4263">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0247/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4732" lry="3542">
+      <surface ulx="0" uly="0" lrx="5800" lry="4263">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0248/"/>
       </surface>
    </facsimile>

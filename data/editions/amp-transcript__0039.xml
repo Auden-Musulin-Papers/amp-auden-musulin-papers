@@ -124,11 +124,17 @@ for any purpose, even commercially.</p>
       <surface ulx="0" uly="0" lrx="5692" lry="7752">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0010/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5698" lry="7744">
+      <surface ulx="0" uly="0" lrx="7340" lry="10393">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0139/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5696" lry="7748">
+      <surface ulx="0" uly="0" lrx="" lry="">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0459/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="7340" lry="10393">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0140/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="" lry="">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0460/"/>
       </surface>
    </facsimile>
    <text type="letter" hand="#typed">
