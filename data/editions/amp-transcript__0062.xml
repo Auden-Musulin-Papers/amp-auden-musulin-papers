@@ -379,7 +379,7 @@ for any purpose, even commercially.</p>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0351/" type="sheet"/>
                <p>
-                  <space quantity="17" unit="char"/><head><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_47">The Years in Austria</rs>.</hi></head><lb/>
+                  <space quantity="17" unit="char"/><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_47">The Years in Austria</rs>.</hi><lb/>
                   <space quantity="5" unit="char"/>Half an hour from the outskirts of <rs type="place" ref="#amp_place_id_1">Vienna</rs> an invisible<lb/>
                   thread bisect<del>x</del>s the motorway. <space quantity="1" unit="char"/>It leads from the church which<lb/>
                   lies to the north, more accurately speaking from the churchyard,<lb/>
@@ -975,12 +975,12 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>Which I think we may doubt. <space quantity="1" unit="char"/>But <rs type="person" ref="#amp_person_1">Auden</rs> knew loneliness.
                </p>
                <lg>
-                  <space quantity="5" unit="char"/><l>Gate-crashing ghost, aggressive</l>
-                  <space quantity="5" unit="char"/><l>invisible visitor,</l>
-                  <space quantity="5" unit="char"/><l>tactless gooseberry, spoiling</l>
-                  <space quantity="5" unit="char"/><l>my téte-à-tête with myself,</l>
-                  <space quantity="5" unit="char"/><l>blackmailing brute, behaving</l>
-                  <space quantity="5" unit="char"/><l>as if the house were your own...</l>
+                  <l><space quantity="5" unit="char"/>Gate-crashing ghost, aggressive</l>
+                  <l><space quantity="5" unit="char"/>invisible visitor,</l>
+                  <l><space quantity="5" unit="char"/>tactless gooseberry, spoiling</l>
+                  <l><space quantity="5" unit="char"/>my téte-à-tête with myself,</l>
+                  <l><space quantity="5" unit="char"/>blackmailing brute, behaving</l>
+                  <l><space quantity="5" unit="char"/>as if the house were your own...</l>
                </lg>
                <p>
                   The strengt<del>t</del>h, the violence of the pictures <rs type="lit_work" ref="#lit_work_id_132">in this poem</rs> can<lb/>
@@ -993,11 +993,11 @@ for any purpose, even commercially.</p>
                   when fast asleep. Yet: <space quantity="1" unit="char"/>tomorrow
                </p>
                <lg>
-                  <space quantity="5" unit="char"/><l><rs type="person" ref="#amp_person_4">Chester</rs>, my chum, will return.</l>
-                  <space quantity="5" unit="char"/><l>Then you'll be through: <space quantity="1" unit="char"/>in no time</l>
-                  <space quantity="5" unit="char"/><l>he'll throw you out neck-and-crop,</l>
-                  <space quantity="5" unit="char"/><l>We'll merry-make your cadence</l>
-                  <space quantity="5" unit="char"/><l>with music, feasting and fun.</l>
+                  <l><space quantity="5" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs>, my chum, will return.</l>
+                  <l><space quantity="5" unit="char"/>Then you'll be through: <space quantity="1" unit="char"/>in no time</l>
+                  <l><space quantity="5" unit="char"/>he'll throw you out neck-and-crop,</l>
+                  <l><space quantity="5" unit="char"/>We'll merry-make your cadence</l>
+                  <l><space quantity="5" unit="char"/>with music, feasting and fun.</l>
                </lg>
                <p>
                   <space quantity="5" unit="char"/>When <rs type="person" ref="#amp_person_1">Auden</rs> walked into <rs type="place" ref="#amp_place_id_11">Neulinggasse 26</rs> and said what<lb/>
@@ -1139,12 +1139,12 @@ for any purpose, even commercially.</p>
                   MacNeice</rs>.)</rs> <space quantity="1" unit="char"/>He often emphasizes how unsensational it all is:
                </p>
                <lg>
-                  <space quantity="5" unit="char"/><l>"In a house backed by orderly woods,</l>
-                  <space quantity="6" unit="char"/><l>Facing a tractored sugar-beet country,</l>
-                  <space quantity="6" unit="char"/><l>Your working hosts engaged to their stint,</l>
-                  <space quantity="6" unit="char"/><l><del>S</del>You are unlike<del>ly</del> to encounter</l>
-                  <space quantity="6" unit="char"/><l>Dragons or romance: <space quantity="1" unit="char"/>were drama a craving,</l>
-                  <space quantity="6" unit="char"/><l>You would not have come."</l>
+                  <l><space quantity="5" unit="char"/>"In a house backed by orderly woods,</l>
+                  <l><space quantity="6" unit="char"/>Facing a tractored sugar-beet country,</l>
+                  <l><space quantity="6" unit="char"/>Your working hosts engaged to their stint,</l>
+                  <l><space quantity="6" unit="char"/><del>S</del>You are unlike<del>ly</del> to encounter</l>
+                  <l><space quantity="6" unit="char"/>Dragons or romance: <space quantity="1" unit="char"/>were drama a craving,</l>
+                  <l><space quantity="6" unit="char"/>You would not have come."</l>
                </lg>
                <p>
                   <space quantity="27" unit="char"/>(<rs type="lit_work" ref="#lit_work_id_102">For Friends Only - for <rs type="person" ref="#amp_person_95">John</rs> and<lb/>
@@ -1184,16 +1184,16 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">Auden</rs> knew that he would have got on with the man next door.
                </p>
                <lg>
-                  <space quantity="12" unit="char"/><l>Categorised enemies</l>
-                  <space quantity="12" unit="char"/><l><del>T</del>twenty <space quantity="1" unit="char"/>years ago,</l>
-                  <space quantity="12" unit="char"/><l>now next-door neighbours, we might</l>
-                  <space quantity="12" unit="char"/><l>have become good friends,</l>
-                  <space quantity="12" unit="char"/><l>sharing a common ambit</l>
-                  <space quantity="12" unit="char"/><l>and love of the <del>w</del>Word,</l>
-                  <space quantity="12" unit="char"/><l>over a golden Kremser</l>
-                  <space quantity="12" unit="char"/><l>had many a long</l>
-                  <space quantity="12" unit="char"/><l>language on syntax, commas,</l>
-                  <space quantity="12" unit="char"/><l>versification.</l>
+                  <l><space quantity="12" unit="char"/>Categorised enemies</l>
+                  <l><space quantity="12" unit="char"/><del>T</del>twenty <space quantity="1" unit="char"/>years ago,</l>
+                  <l><space quantity="12" unit="char"/>now next-door neighbours, we might</l>
+                  <l><space quantity="12" unit="char"/>have become good friends,</l>
+                  <l><space quantity="12" unit="char"/>sharing a common ambit</l>
+                  <l><space quantity="12" unit="char"/>and love of the <del>w</del>Word,</l>
+                  <l><space quantity="12" unit="char"/>over a golden Kremser</l>
+                  <l><space quantity="12" unit="char"/>had many a long</l>
+                  <l><space quantity="12" unit="char"/>language on syntax, commas,</l>
+                  <l><space quantity="12" unit="char"/>versification.</l>
                </lg>
                <p>
                   <space quantity="5" unit="char"/>On May 24th 1965,<rs type="person" ref="#amp_person_1">Auden<del>Auden</del></rs> under the auspices of the <rs type="org" ref="#amp_organization_35">Austro-<rs type="org" ref="#amp_organization_16">British<lb/>
@@ -1562,7 +1562,7 @@ for any purpose, even commercially.</p>
                   at <rs type="place" ref="#amp_place_id_7">Fridau</rs> I was shown, with some amusement, a bullet hole in<lb/>
                   the car - just <del><unclear>c</unclear></del>b<del>ene</del> below the windscreen, in line with the<lb/>
                   driver's seat. <space quantity="1" unit="char"/>Having had a little experience of some of<lb/>
-                  <rs type="person" ref="#amp_person_4">Chester</rs>'s friends in <rs type="place" ref="#amp_place_id_1">Vienna</rs> I wasn't altogether surprised, <space quantity="1" unit="char"/><del>In <lb/>
+                  <rs type="person" ref="#amp_person_4">Chester</rs>'s friends in <rs type="place" ref="#amp_place_id_1">Vienna</rs> I wasn't altogether surprised, <space quantity="1" unit="char"/><del>In<lb/>
                      the end, that car became a total wreck, and the circumstances<lb/>
                      are the subject of various letters before and after</del> C<lb/>
                   but it later transpired that I was wrong. <space quantity="1" unit="char"/>Naturally, no one had<lb/>
@@ -2052,19 +2052,19 @@ for any purpose, even commercially.</p>
                   and garden.
                </p>
                <lg>
-                  <space quantity="38" unit="char"/><l>... Devoid of</l>
-                  <space quantity="7" unit="char"/><l>flowers and family photographs, all is subordinate</l>
-                  <space quantity="10" unit="char"/><l>here to a function, de<del>g</del>signed to</l>
-                  <space quantity="7" unit="char"/><l>discourage daydreams - hence windows averted from plausible</l>
-                  <space quantity="10" unit="char"/><l>videnda but admitting a light one</l>
-                  <space quantity="7" unit="char"/><l>could mend a watch by - and to sharpen hearing: <space quantity="1" unit="char"/>reached</l>
-                  <space quantity="55" unit="char"/><l>by an</l>
+                  <l><space quantity="38" unit="char"/>... Devoid of</l>
+                  <l><space quantity="7" unit="char"/>flowers and family photographs, all is subordinate</l>
+                  <l><space quantity="10" unit="char"/>here to a function, de<del>g</del>signed to</l>
+                  <l><space quantity="7" unit="char"/>discourage daydreams - hence windows averted from plausible</l>
+                  <l><space quantity="10" unit="char"/>videnda but admitting a light one</l>
+                  <l><space quantity="7" unit="char"/>could mend a watch by - and to sharpen hearing: <space quantity="1" unit="char"/>reached</l>
+                  <l><space quantity="55" unit="char"/>by an</l>
                </lg>
                <lg>
-                  <space quantity="10" unit="char"/><l>outside staircase, domestic</l>
-                  <space quantity="7" unit="char"/><l>noises and odours, the vast background of natural</l>
-                  <space quantity="10" unit="char"/><l>life are shut off. <space quantity="1" unit="char"/>Here silence</l>
-                  <space quantity="7" unit="char"/><l>is turned into objects.</l>
+                  <l><space quantity="10" unit="char"/>outside staircase, domestic</l>
+                  <l><space quantity="7" unit="char"/>noises and odours, the vast background of natural</l>
+                  <l><space quantity="10" unit="char"/>life are shut off. <space quantity="1" unit="char"/>Here silence</l>
+                  <l><space quantity="7" unit="char"/>is turned into objects.</l>
                </lg>
                <p>
                   <space quantity="5" unit="char"/>To write to <rs type="person" ref="#amp_person_1">Auden</rs> unnecessarily would have been to encroach on<lb/>
@@ -2303,16 +2303,16 @@ for any purpose, even commercially.</p>
                   He had felt at peace in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>:
                </p>
                <lg>
-                  <space quantity="11" unit="char"/><l>Here, though, I feel as at home</l>
-                  <space quantity="11" unit="char"/><l>as you did: <space quantity="1" unit="char"/>the same</l>
-                  <space quantity="11" unit="char"/><l>short-<del>öo</del>lived creatures re-utter</l>
-                  <space quantity="11" unit="char"/><l>the same care-free songs,</l>
-                  <space quantity="11" unit="char"/><l>orchards cling to the regime</l>
-                  <space quantity="11" unit="char"/><l>they know, from April's</l>
-                  <space quantity="11" unit="char"/><l>rapid augment of colour</l>
-                  <space quantity="11" unit="char"/><l>till boisterous Fall,</l>
-                  <space quantity="11" unit="char"/><l>when at each stammering gust</l>
-                  <space quantity="11" unit="char"/><l>apples thump the ground.</l>
+                  <l><space quantity="11" unit="char"/>Here, though, I feel as at home</l>
+                  <l><space quantity="11" unit="char"/>as you did: <space quantity="1" unit="char"/>the same</l>
+                  <l><space quantity="11" unit="char"/>short-<del>öo</del>lived creatures re-utter</l>
+                  <l><space quantity="11" unit="char"/>the same care-free songs,</l>
+                  <l><space quantity="11" unit="char"/>orchards cling to the regime</l>
+                  <l><space quantity="11" unit="char"/>they know, from April's</l>
+                  <l><space quantity="11" unit="char"/>rapid augment of colour</l>
+                  <l><space quantity="11" unit="char"/>till boisterous Fall,</l>
+                  <l><space quantity="11" unit="char"/>when at each stammering gust</l>
+                  <l><space quantity="11" unit="char"/>apples thump the ground.</l>
                </lg>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0432/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0433/" type="sheet"/>
@@ -2323,11 +2323,11 @@ for any purpose, even commercially.</p>
                   A nd in his <rs type="lit_work" ref="#lit_work_id_38">Prologue at Sixty</rs>:
                </p>
                <lg>
-                  <space quantity="10" unit="char"/><l>Though the absence of hedge-rows is odd to me</l>
-                  <space quantity="10" unit="char"/><l>(no Whi<del>t</del>g landlord, the landscape vaunts,</l>
-                  <space quantity="10" unit="char"/><l>ever <del><unclear>u</unclear></del>empired on Austrian ground),</l>
-                  <space quantity="10" unit="char"/><l>this unenglish tract after ten years</l>
-                  <space quantity="10" unit="char"/><l>into my love has looked itself...</l>
+                  <l><space quantity="10" unit="char"/>Though the absence of hedge-rows is odd to me</l>
+                  <l><space quantity="10" unit="char"/>(no Whi<del>t</del>g landlord, the landscape vaunts,</l>
+                  <l><space quantity="10" unit="char"/>ever <del><unclear>u</unclear></del>empired on Austrian ground),</l>
+                  <l><space quantity="10" unit="char"/>this unenglish tract after ten years</l>
+                  <l><space quantity="10" unit="char"/>into my love has looked itself...</l>
                </lg>
                <p>
                   <space quantity="5" unit="char"/>But then worry invaded it. <space quantity="1" unit="char"/>While all the time believing<lb/>
@@ -2632,11 +2632,11 @@ for any purpose, even commercially.</p>
                   thoughts about nature, about God..." <space quantity="1" unit="char"/>In other words:
                </p>
                <lg>
-                  <space quantity="10" unit="char"/><l>To speak is human because human to listen,</l>
-                  <space quantity="10" unit="char"/><l>beyond hope, for an Eighth Day,</l>
-                  <space quantity="10" unit="char"/><l>when the creature'<del>a</del>s Image shall become the Likeness:</l>
-                  <space quantity="10" unit="char"/><l><del>T</del>Giver-of-Life, translate for me</l>
-                  <space quantity="10" unit="char"/><l>till I accomplish my corpse at last.</l>
+                  <l><space quantity="10" unit="char"/>To speak is human because human to listen,</l>
+                  <l><space quantity="10" unit="char"/>beyond hope, for an Eighth Day,</l>
+                  <l><space quantity="10" unit="char"/>when the creature'<del>a</del>s Image shall become the Likeness:</l>
+                  <l><space quantity="10" unit="char"/><del>T</del>Giver-of-Life, translate for me</l>
+                  <l><space quantity="10" unit="char"/>till I accomplish my corpse at last.</l>
                </lg>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0446/" type="sheet"/>
          </div>

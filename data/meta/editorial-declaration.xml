@@ -63,7 +63,7 @@
                         <item>
                            The default view offers the following features:
                            <list rend="bulleted">
-                              <item>one view per page recto and verso</item>
+                              <item>one view per page recto and verso (with the exception of photographs glued onto pages of photo albums)</item>
                               <item>vertical arrangements of texts that partially represent the original layout</item>
                               <item>different fonts to represent handwriting (Times New Roman), typewriting (Courier New), and print (Arial)</item>
                               <item>reading versions of texts that do not contain deletions, underlines, additional typographic whitespace, or indications of unclear characters</item>
@@ -92,7 +92,11 @@
                   <p>The documents have been reproduced at 600 dpi and 24 bit/RGB through an Image Access WideTEK®25 color flatbed scanner and saved in an uncompressed TIFF format. Selected materials (images 5 and 6 in https://amp.acdh.oeaw.ac.at/amp-transcript__0039.html, images 3 and 4 in https://amp.acdh.oeaw.ac.at/amp-transcript__0040.html) have been digitized at 603.1 dpi and 24 bit by means of a Phase One XF IQ3 100MP medium-format camera with a Schneider Kreuznach 80mm f/2.8 leaf shutter lens. The high-resolution digital reproductions can be accessed via https://id.acdh.oeaw.ac.at/auden-musulin-papers/facs. On the website, images are provided through IIIF.</p>
                </div>
                <div>
-               <head>Transcription and Markup Guidelines of v0.1</head>
+                  <head>Disclaimer v0.3</head>
+                  <p>The facsimile view is not yet optimized for the mobile version of the web application.</p>
+               </div>   
+               <div>
+               <head>Transcription and Markup Guidelines of v0.3</head>
                   <p>Source transcriptions as encoded in TEI/XML represent the spelling, punctuation, and revisions as they appear, aiming for minimal editorial intervention or interpretation.</p>                   
                      <list rend="numbered">
                         <item n="1">
@@ -122,9 +126,10 @@
                               <item n="3.2">Punctuation signs that cannot be transcribed with certainty are rendered by UTF-8/Unicode symbols that represent a graphical approximation, marked up as <![CDATA[<]]>unclear<![CDATA[>]]> in XML.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1965-09-29, page 3, line 16) -->
                               <item n="3.3">For manuscripts, when spaces before or after punctuation marks are significantly smaller than the spaces separating words in the surrounding text, no spaces are transcribed.</item><!-- (example: Letter W. H. Auden to Stella Musulin 1962-09-11, page 3, line 12)-->
                               <item n="3.4">For manuscripts, the length of spaces between words is regularized and represented as either single space or no space.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12, page 3, line 6) -->
-                              <item n="3.5">For typescripts, the exact number of spaces within sentences is preserved (but not before titles and page numbers) and marked up as <![CDATA[<]]>space<![CDATA[>]]> in XML.</item><!-- (example: Typescript Stella Musulin "In Retrospect" [?], page 1, line 2) -->
-                              <item n="3.6">Spaces that precede printed text are disregarded.</item><!-- (example: transcript_0001, page 2, line 3) -->
-                              <item n="3.7">Blank lines between lines of writing are disregarded.</item>
+                              <item n="3.5">For typescripts, the exact number of spaces within sentences is preserved and marked up as <![CDATA[<]]>space<![CDATA[>]]> in XML.</item><!-- (example: Typescript Stella Musulin "In Retrospect" [?], page 1, line 2) -->
+                              <item n="3.6">Changes in the left-hand margins of typescripts are not marked up as indentations (by means of <![CDATA[<]]>space<![CDATA[>]]>) if they appear to result from reinsertations of the sheets of paper or resets of margins on the typewriter that do not appear meaningful.</item><!-- doc 18, p 17; docs 27, 43, p 3 -->
+                              <item n="3.7">Spaces that precede printed text are disregarded.</item><!-- (example: transcript_0001, page 2, line 3) -->
+                              <item n="3.8">Blank lines between lines of writing are disregarded.</item>
                            </list>
                         </item>
                      </list>
@@ -154,7 +159,7 @@
                         <item n="7">Revisions
                            <list rend="numbered">
                               <item n="7.1">Deletions of text are marked up as <![CDATA[<]]>del<![CDATA[>]]> in XML and can be represented on the web page.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23, page 3, line 26) -->
-                              <item n="7.2">For overwritings in manuscripts and typescripts, we have accepted the orthographically or grammatically accurate versions as corrections, even if the actual sequences of textual layers cannot be reconstructed.</item><!--  (example: Typescript Stella Musulin "In Retrospect" [?], page 1, line 27) -->
+                              <item n="7.2">For revisions in manuscripts and typescripts, we have accepted the orthographically or grammatically accurate versions as corrections, even if the actual sequences of textual layers cannot be reconstructed.</item><!--  (example: Typescript Stella Musulin "In Retrospect" [?], page 1, line 27) -->
                               <item n="7.3">For transcriptions of typescripts - in addition to handwritten deletions - we accept the use of the typed signs 'x', 'm', 'z', 'y', '-', and '/' as indicating deletions where such deletion seems plausible.</item>
                               <item n="7.4">Additions have not yet been marked up and are not represented on the website, but are treated as part of the original documents.</item>
                               <item n="7.5">When additions are inserted into manuscripts or typescripts, surrounding spaces are included in ways that are coherent with the general use of spaces in the respective texts.</item><!-- examples!  (that especially concerns spaces after punctuation in typescripts) -->
@@ -178,8 +183,10 @@
                      </list>
                      <list rend="numbered">
                         <item n="9">Writing technologies
-                           <item n="9.1">Writing technologies (handwriting, typewriting, print) are marked up by means of the <![CDATA[<]]>... hand="..."<![CDATA[>]]> attribute in XML and are represented through different fonts on the web page.</item>
-                           <item n="9.2">The <![CDATA[<]]>handShift<![CDATA[>]]> element indicates an immediate change of writing technologies.</item>
+                           <list rend="numbered">
+                              <item n="9.1">Writing technologies (handwriting, typewriting, print) are marked up by means of the <![CDATA[<]]>... hand="..."<![CDATA[>]]> attribute in XML and are represented through different fonts on the web page.</item>
+                              <item n="9.2">The <![CDATA[<]]>handShift<![CDATA[>]]> element indicates an immediate change of writing technologies.</item>
+                           </list>
                         </item>
                      </list>
                      <list rend="numbered">       

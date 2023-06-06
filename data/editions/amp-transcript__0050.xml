@@ -90,7 +90,7 @@ for any purpose, even commercially.</p>
          <settingDesc>
             <setting>
                <name sameAs="amp_place_id_85">Palais Pálffy</name>
-               <date>April 1967</date>
+               <date notBefore="1967-04-24" notAfter="1967-04-26">1967-04-24--1967-04-26</date>
             </setting>
          </settingDesc>
       </profileDesc>
@@ -101,18 +101,18 @@ for any purpose, even commercially.</p>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="4960" lry="3496">
+      <surface ulx="0" uly="0" lrx="5800" lry="4263">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0247/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4732" lry="3542">
+      <surface ulx="0" uly="0" lrx="5800" lry="4263">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0248/"/>
       </surface>
    </facsimile>
    <text type="photograph">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0247/" type="photo"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0248/" type="photo"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0247/" type="photograph"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0248/" type="photograph"/>
                <p hand="#handwritten">
                   <unclear>Wien</unclear>, IV.67
                </p>
