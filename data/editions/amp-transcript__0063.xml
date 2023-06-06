@@ -3,11 +3,12 @@
         <fileDesc>
             <titleStmt>
                 <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-                <title level="a">Envelope W. H. Auden to Stella Musulin 1962-04-30</title>
+                <title level="a">Autograph Letter Signed Stella Musulin to Christine Busta 1962-05-23</title>
                 <author>Auden, W. H.</author>
                 <editor>
                     <name>Mayer, Sandra</name>
                     <name>Frühwirth, Timo</name>
+                    <name>Grigoriou, Dimitra</name>
                 </editor>
                 <funder>
                     <name>FWF Austrian Science Fund</name>
@@ -61,7 +62,7 @@
                                 <idno>1, 16</idno>
                             </msIdentifier>
                             <history>
-                                <origin><origDate notBefore="1962-04-30" notAfter="1962-04-30">1962-04-30</origDate></origin>
+                                <origin><origDate notBefore="1962-05-23" notAfter="1962-05-23">1962-05-23</origDate></origin>
                             </history>
                         </msDesc>
                     </witness>
@@ -70,13 +71,13 @@
         </fileDesc>
         <profileDesc>
             <langUsage>
-                <language ident="en">English</language>
+                <language ident="de">German</language>
             </langUsage>
             <correspDesc>
                 <correspAction type="composed">
                     <persName ref="#amp_person_2">Musulin, Stella</persName>
                     <placeName ref="#amp_place_id_7">Fridau 6</placeName>
-                    <date notBefore="-05-23" notAfter="-05-23"></date>
+                    <date notBefore="1962-05-23" notAfter="1962-05-23">1962-05-23</date>
                 </correspAction>
                 <correspAction type="sent">
                     <persName ref="#amp_person_2">Musulin, Stella</persName>
@@ -90,7 +91,7 @@
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
-                    <ref type="belongsToCorrespondence" target="#amp_person_ ">Busta,</ref>
+                    <ref type="belongsToCorrespondence" target="#amp_person_204 ">Busta, Christine</ref>
                     <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__ ">Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</ref>
                     <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__ ">Autograph Letter Signed W. H. Auden to Stella Musulin 1962-07-23</ref>
                 </correspContext>
@@ -103,10 +104,10 @@
         </revisionDesc>
     </teiHeader>
     <facsimile>
-        <surface ulx="0" uly="0" lrx="4558" lry="3452">
+        <surface ulx="0" uly="0" lrx="7282" lry="5226">
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/"/>
         </surface>
-        <surface ulx="0" uly="0" lrx="4556" lry="3454">
+        <surface ulx="0" uly="0" lrx="7283" lry="5226">
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp//"/>
         </surface>
     </facsimile>
@@ -134,7 +135,7 @@
                     Ich wollte Sie heute Abend nicht<lb/>
                     aufhalten. Sie hatten sich wahrscheinlich hielt<lb/>
                     an mich errinert __ vor drei, vier Jahren<lb/>
-                    habe ich Sie im Caféhaus "Drei Viertel"<lb/>
+                    habe ich Sie im <rs type="place" ref="#amp_place_id_301">Caféhaus "Drei Viertel"</rs><lb/>
                     "interviewed"; und doch möchte ich mich<lb/>
                     für die Freude, die <del>Sich</del> Sie um heute gemacht<lb/>
                     haben, bedanken.    
@@ -143,8 +144,8 @@
                     Dieser Brief hat aber einen weiteren Grund<lb/>
                     <rs type="person" ref="#amp_person_1">Professor Auden</rs> begrüßte Sie und Verschwand.<lb/>
                     Er ist ein erstaunlich bescheidener Mensch<lb/>
-                    und veraschent es, Sich __ auch im Kleinsten<lb/>
-                    Dorf _ eigendurė bemerkbar zu machen. Ich<lb/>
+                    und veraschent es, Sich __ auch im <rs type="place" ref="#amp_place_id_5">Kleinsten<lb/>
+                    Dorf</rs> _ eigendurė bemerkbar zu machen. Ich<lb/>
                     wollten Ihnen daher sagen, daß er gleich<lb/>
                     darauf und auch beim αhendessen <hi rend="underline">sehr</hi><lb/>
                     anerkennende Worte über Sie Dichtern<lb/>
@@ -170,7 +171,7 @@
                     Übrigens: warum wohl niemand <del>die</del> nach dem<lb/>
                     "Ankündigen" applaudiert hat?  Aus Ihrer<lb/>
                     Schönsten gedichten, hat es etwas<lb/>
-                    (ärgern Sie sich nicht) Hofmannstahl sehen<lb/>
+                    (ärgern Sie sich nicht) <rs type="person" ref="#amp_person_42">Hofmannstahl</rs> sehen<lb/>
                     an sich.
                 </p>
                 <p>
@@ -178,7 +179,7 @@
                     Brief sofort beenden, es ist ohnehin schon<lb/> 
                     halb eins ! Halten Sie diesen Brief<lb/> 
                     <hi rend="underline">....</hi> nicht zu drigen eine Augen vom<lb/>
-                    Wichtigtuerei, ich wollte um Audens<lb/>
+                    Wichtigtuerei, ich wollte um <rs type="person" ref="#amp_person_1">Auden</rs>s<lb/>
                     Job weiterreichen.
                 </p>
                 <p>
