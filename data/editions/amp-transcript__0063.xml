@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0063.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
+                <title level="a">Envelope W. H. Auden to Stella Musulin 1962-04-30</title>
+                <author>Auden, W. H.</author>
+                <editor>
+                    <name>Mayer, Sandra</name>
+                    <name>Frühwirth, Timo</name>
+                </editor>
+                <funder>
+                    <name>FWF Austrian Science Fund</name>
+                    <address>
+                        <street>Sensengasse 1</street>
+                        <postCode>1090 Vienna</postCode>
+                        <placeName>
+                            <country>A</country>
+                            <settlement>Vienna</settlement>
+                        </placeName>
+                    </address>
+                </funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>AMP</edition>
+                <respStmt>
+                    <resp>Transcription and commentary</resp>
+                    <name>Mayer, Sandra</name>
+                    <name>Frühwirth, Timo</name>
+                    <name>Grigoriou, Dimitra</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+                <pubPlace>Vienna</pubPlace>
+                <date when="2021">2021</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                        <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
+                            for any purpose, even commercially.</p>
+                        <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
+                        <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+                        <p>Notices:</p>
+                        <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
+                    </licence>
+                    <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
+                </availability>
+                <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C340-D</idno></publicationStmt>
+            <seriesStmt>
+                <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
+            </seriesStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness n="1">
+                        <msDesc>
+                            <msIdentifier>
+                                <country>A</country>
+                                <settlement>St. Pölten</settlement>
+                                <repository>State Collections of Lower Austria</repository>
+                                <collection>Stella Musulin (Depot)</collection>
+                                <idno>1, 16</idno>
+                            </msIdentifier>
+                            <history>
+                                <origin><origDate notBefore="1962-04-30" notAfter="1962-04-30">1962-04-30</origDate></origin>
+                            </history>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <correspDesc>
+                <correspAction type="composed">
+                    <persName ref="#amp_person_2">Musulin, Stella</persName>
+                    <placeName ref="#amp_place_id_7">Fridau 6</placeName>
+                    <date notBefore="-05-23" notAfter="-05-23"></date>
+                </correspAction>
+                <correspAction type="sent">
+                    <persName ref="#amp_person_2">Musulin, Stella</persName>
+                    <placeName>unknown</placeName>
+                    <date>unknown</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#amp_person_">Busta, </persName>
+                    <placeName>unknown</placeName>
+                    <date>unknown</date>
+                </correspAction>
+                <correspContext>
+                    <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
+                    <ref type="belongsToCorrespondence" target="#amp_person_ ">Busta,</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__ ">Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__ ">Autograph Letter Signed W. H. Auden to Stella Musulin 1962-07-23</ref>
+                </correspContext>
+            </correspDesc>
+            
+        </profileDesc>
+        <revisionDesc status="draft">
+            <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
+            <change who="dgrigoriou" when="2023-03-13">text transcribed</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <surface ulx="0" uly="0" lrx="4558" lry="3452">
+            <graphic url="https://iiif.acdh.oeaw.ac.at/amp/"/>
+        </surface>
+        <surface ulx="0" uly="0" lrx="4556" lry="3454">
+            <graphic url="https://iiif.acdh.oeaw.ac.at/amp//"/>
+        </surface>
+    </facsimile>
+    <text type="letter" hand="#handwritten">
+        <body>
+            <div xml:id="transcription">
+                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0031/" type="letter"/>
+                <p hand="#handwritten">
+                    <rs type="person" ref="#amp_person_2">STELLA MUSULIN</rs>.
+                </p>
+                <p hand="#printed">
+                    <rs type="place" ref="#amp_place_id_11">WIEN III.,<lb/>
+                    NEULINGGASSE 26</rs>
+                </p>
+                <p hand="#printed">
+                    <rs type="place" ref="#amp_place_id_7">FRIDAU<lb/>
+                    OBERGRAFENDORF<lb/>
+                    bei ST. PÖLTEN, N.Ö.</rs>
+                </p>
+                <p hand="#handwritten">
+                    23. Mai .
+                </p>
+                <p>
+                    Sehr geeherte <rs type="person" ref="#amp_person_204">Frau Busta</rs>,<lb/>
+                    Ich wollte Sie heute Abend nicht<lb/>
+                    aufhalten. Sie hatten sich wahrscheinlich hielt<lb/>
+                    an mich errinert __ vor drei, vier Jahren<lb/>
+                    habe ich Sie im Caféhaus "Drei Viertel"<lb/>
+                    "interviewed"; und doch möchte ich mich<lb/>
+                    für die Freude, die <del>Sich</del> Sie um heute gemacht<lb/>
+                    haben, bedanken.    
+                </p>
+                <p>
+                    Dieser Brief hat aber einen weiteren Grund<lb/>
+                    <rs type="person" ref="#amp_person_1">Professor Auden</rs> begrüßte Sie und Verschwand.<lb/>
+                    Er ist ein erstaunlich bescheidener Mensch<lb/>
+                    und veraschent es, Sich __ auch im Kleinsten<lb/>
+                    Dorf _ eigendurė bemerkbar zu machen. Ich<lb/>
+                    wollten Ihnen daher sagen, daß er gleich<lb/>
+                    darauf und auch beim αhendessen <hi rend="underline">sehr</hi><lb/>
+                    anerkennende Worte über Sie Dichtern<lb/>
+                    gesprochen hat. Wenn Sie erlauten: auch<lb/>
+                    Ihr Wesen und die Art, wie Sie vorlesen<lb/>
+                    st<unclear>att</unclear> ihm sehr sympathisch.
+                </p>
+                <p>
+                    Sein Freund und lebensfahrer <rs type="person" ref="#amp_person_4">Chester<lb/>
+                    Kallman</rs>, war auch da. Er ist ebenfalls<lb/>
+                    Dichter. Vor allem Librettist (<rs type="person" ref="#amp_person_25">Stravinsky</rs>,<lb/>
+                    <rs type="person" ref="#amp_person_79">Henze</rs>, <rs type="person" ref="#amp_person_115">Brecht</rs> usw.) Er versteht zu wenig<lb/>
+                    Deutsch, es hat mich interessiert,
+                </p>
+                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0031/" type="letter"/>
+                <p>
+                    daß er im Stade war, vor der Technik<lb/>
+                    Ihrer Dichtung eine Menge herauszuhoren<lb/>
+                    die der Lar..., wenn er nun zu den Inhalt<lb/>
+                    Ohren hat. oft überhört.
+                </p>
+                <p>
+                    Übrigens: warum wohl niemand <del>die</del> nach dem<lb/>
+                    "Ankündigen" applaudiert hat?  Aus Ihrer<lb/>
+                    Schönsten gedichten, hat es etwas<lb/>
+                    (ärgern Sie sich nicht) Hofmannstahl sehen<lb/>
+                    an sich.
+                </p>
+                <p>
+                    Sehr geeherte <rs type="person" ref="#amp_person_204">Frau Busta</rs>, ich werde diesen<lb/> 
+                    Brief sofort beenden, es ist ohnehin schon<lb/> 
+                    halb eins ! Halten Sie diesen Brief<lb/> 
+                    <hi rend="underline">....</hi> nicht zu drigen eine Augen vom<lb/>
+                    Wichtigtuerei, ich wollte um Audens<lb/>
+                    Job weiterreichen.
+                </p>
+                <p>
+                    Mit hertzlichen Grüssen und<lb/>
+                    besten Wünschen
+                </p>
+                <p>
+                    Ihre
+                </p>
+                <p>
+                    <rs type="person" ref="#amp_person_4">Stella Musulin</rs> .
+                </p>
+                <p>
+                    beatw , 3.6.62
+                </p>    
+            </div>
+        </body>
+    </text>
+</TEI>
