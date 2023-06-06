@@ -79,12 +79,15 @@ for any purpose, even commercially.</p>
                <person role="participant" sameAs="amp_person_4">    
                   <note type="description">right side</note>  
                </person>  
+               <person role="participant" sameAs="amp_person_2">    
+                  <note type="description">photographer</note>  
+               </person> 
             </listPerson>
          </particDesc>
          <settingDesc>
             <setting>
                <name sameAs="amp_place_id_254">Loreto</name>
-               <date>November 1960</date>
+               <date notBefore="1960-07-21" notAfter="1960-11-02">1960-07-21--1960-11-02</date>
             </setting>
          </settingDesc>
       </profileDesc>
@@ -95,18 +98,18 @@ for any purpose, even commercially.</p>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="3504" lry="2798">
+      <surface ulx="0" uly="0" lrx="4186" lry="3148">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0235/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="3508" lry="2798">
+      <surface ulx="0" uly="0" lrx="4187" lry="3109">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0236/"/>
       </surface>
    </facsimile>
    <text type="photograph">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0235/" type="photo"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0236/" type="photo"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0235/" type="photograph"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0236/" type="photograph"/>
          </div>
       </body>
    </text>
