@@ -85,15 +85,15 @@
                     <date>unknown</date>
                 </correspAction>
                 <correspAction type="received">
-                    <persName ref="#amp_person_">Busta, </persName>
+                    <persName ref="#amp_person_204">Busta, Christine</persName>
                     <placeName>unknown</placeName>
                     <date>unknown</date>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
-                    <ref type="belongsToCorrespondence" target="#amp_person_204 ">Busta, Christine</ref>
-                    <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__ ">Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</ref>
-                    <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__ ">Autograph Letter Signed W. H. Auden to Stella Musulin 1962-07-23</ref>
+                    <ref type="belongsToCorrespondence" target="#amp_person_204">Busta, Christine</ref>
+                    <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0059.xml">Envelope W. H. Auden to Stella Musulin 1962-04-30</ref>
+                    <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0023.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1962-07-23</ref>
                 </correspContext>
             </correspDesc>
             
