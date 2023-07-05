@@ -75,8 +75,11 @@
                     <person role="participant" sameAs="amp_person_98">
                         <note type="description">second from left</note>
                     </person>
+                    <person role="participant" sameAs="amp_person_90">
+                        <note type="description">third from left</note>  
+                    </person>
                     <person role="participant" sameAs="amp_person_227">
-                        <note type="description">third from left</note>
+                        <note type="description">fourth from left</note>
                     </person>
                     <person role="participant" sameAs="amp_person_89">
                         <note type="description">fifth from left</note>
@@ -91,10 +94,10 @@
                         <note type="description">eighth from left</note>
                     </person>
                     <person role="participant" sameAs="amp_person_229">
-                        <note type="description">nineth from left</note>
+                        <note type="description">ninth from left</note>
                     </person>
                     <person role="participant" sameAs="amp_person_135">
-                        <note type="description">twelvth from left</note>
+                        <note type="description">twelfth from left</note>
                     </person>
                     <person role="participant" sameAs="amp_person_137">
                         <note type="description">thirteenth from left</note>
