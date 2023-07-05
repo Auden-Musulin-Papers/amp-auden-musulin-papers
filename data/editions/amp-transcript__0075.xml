@@ -69,6 +69,9 @@
         <profileDesc>
             <particDesc>
                 <listPerson type="identified">
+                    <person role="participant" sameAs="amp_person_230">    
+                        <note type="description">fifth from left</note>  
+                    </person>
                     <person role="participant" sameAs="amp_person_156">    
                         <note type="description">sixth from left</note>  
                     </person> 
