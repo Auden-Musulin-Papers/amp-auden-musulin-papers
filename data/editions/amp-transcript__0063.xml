@@ -46,7 +46,7 @@
                     </licence>
                     <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
                 </availability>
-                <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C340-D</idno></publicationStmt>
+            </publicationStmt>
             <seriesStmt>
                 <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
             </seriesStmt>
@@ -56,10 +56,11 @@
                         <msDesc>
                             <msIdentifier>
                                 <country>A</country>
-                                <settlement>St. Pölten</settlement>
-                                <repository>State Collections of Lower Austria</repository>
-                                <collection>Stella Musulin (Depot)</collection>
-                                <idno>1, 16</idno>
+                                <settlement>Vienna</settlement>
+                                <institution>Austrian National Library</institution>
+                                <repository>Literary Archive</repository>
+                                <collection>Christine Busta</collection>
+                                <idno>LIT 202/B34</idno>
                             </msIdentifier>
                             <history>
                                 <origin><origDate notBefore="1962-05-23" notAfter="1962-05-23">1962-05-23</origDate></origin>
@@ -101,20 +102,21 @@
         <revisionDesc status="draft">
             <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
             <change who="dgrigoriou" when="2023-03-13">text transcribed</change>
+            <change who="dgrigoriou smayer tfruehwirth" when="2023-07-05">transcription collated</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
-        <surface ulx="0" uly="0" lrx="7282" lry="5226">
-            <graphic url="https://iiif.acdh.oeaw.ac.at/amp/"/>
+        <surface ulx="0" uly="0" lrx="5226" lry="7282">
+            <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0463/"/>
         </surface>
-        <surface ulx="0" uly="0" lrx="7283" lry="5226">
-            <graphic url="https://iiif.acdh.oeaw.ac.at/amp//"/>
+        <surface ulx="0" uly="0" lrx="5226" lry="7283">
+            <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0464/"/>
         </surface>
     </facsimile>
     <text type="letter" hand="#handwritten">
         <body>
             <div xml:id="transcription">
-                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0031/" type="letter"/>
+                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0463/" type="sheet"/>
                 <p hand="#handwritten">
                     <rs type="person" ref="#amp_person_2">STELLA MUSULIN</rs>.
                 </p>
@@ -125,75 +127,73 @@
                 <p hand="#printed">
                     <rs type="place" ref="#amp_place_id_7">FRIDAU<lb/>
                     OBERGRAFENDORF<lb/>
-                    bei ST. PÖLTEN, N.Ö.</rs>
-                </p>
-                <p hand="#handwritten">
-                    23. Mai .
+                    bei ST. PÖLTEN, N. Ö.</rs>
                 </p>
                 <p>
-                    Sehr geeherte <rs type="person" ref="#amp_person_204">Frau Busta</rs>,<lb/>
+                    23. <unclear>M</unclear>ai .
+                </p>
+                <p>
+                    Sehr geehrte <rs type="person" ref="#amp_person_204">Frau Busta</rs>,<lb/>
                     Ich wollte Sie heute Abend nicht<lb/>
-                    aufhalten. Sie hatten sich wahrscheinlich hielt<lb/>
-                    an mich errinert __ vor drei, vier Jahren<lb/>
-                    habe ich Sie im <rs type="place" ref="#amp_place_id_301">Caféhaus "Drei Viertel"</rs><lb/>
+                    aufhalten<unclear>.</unclear> Sie hätten sich wahrscheinlich nicht<lb/>
+                    an mich erinnert <unclear>_</unclear> vor drei, vier Jahren<lb/>
+                    habe ich Sie im <rs type="place" ref="#amp_place_id_301">Caféhaus "<unclear>D</unclear>rei viertel"</rs><lb/>
                     "interviewed"; und doch möchte ich mich<lb/>
-                    für die Freude, die <del>Sich</del> Sie um heute gemacht<lb/>
+                    für die Freude, die <del>sich</del> Sie mir heute gemacht<lb/>
                     haben, bedanken.    
                 </p>
                 <p>
-                    Dieser Brief hat aber einen weiteren Grund<lb/>
-                    <rs type="person" ref="#amp_person_1">Professor Auden</rs> begrüßte Sie und Verschwand.<lb/>
+                    Dieser Brief hat aber einen weiteren Grund.<lb/>
+                    <rs type="person" ref="#amp_person_1">Professor Auden</rs> begrüsste Sie <unclear>_</unclear> und verschwand.<lb/>
                     Er ist ein erstaunlich bescheidener Mensch<lb/>
-                    und veraschent es, Sich __ auch im <rs type="place" ref="#amp_place_id_5">Kleinsten<lb/>
-                    Dorf</rs> _ eigendurė bemerkbar zu machen. Ich<lb/>
-                    wollten Ihnen daher sagen, daß er gleich<lb/>
-                    darauf und auch beim αhendessen <hi rend="underline">sehr</hi><lb/>
-                    anerkennende Worte über Sie Dichtern<lb/>
-                    gesprochen hat. Wenn Sie erlauten: auch<lb/>
-                    Ihr Wesen und die Art, wie Sie vorlesen<lb/>
-                    st<unclear>att</unclear> ihm sehr sympathisch.
+                    und verabscheut es<unclear>,</unclear> sich _ auch im kleinsten<lb/>
+                    Dorf - irgendwie bemerkbar zu machen. Ich<lb/>
+                    wollte Ihnen daher sagen, daß er gleich<lb/>
+                    darauf und auch beim Abendessen <hi rend="underline">sehr</hi><lb/>
+                    anerkennende Worte über Ihre Dichtung<lb/>
+                    gesprochen hat. Wenn Sie erlauben: auch<lb/>
+                    Ihr Wesen, und die Art, wie Sie vorlesen,<lb/>
+                    <del><gap reason="deleted"/></del>sind ihm sehr sympathisch .
                 </p>
                 <p>
-                    Sein Freund und lebensfahrer <rs type="person" ref="#amp_person_4">Chester<lb/>
-                    Kallman</rs>, war auch da. Er ist ebenfalls<lb/>
-                    Dichter. Vor allem Librettist (<rs type="person" ref="#amp_person_25">Stravinsky</rs>,<lb/>
-                    <rs type="person" ref="#amp_person_79">Henze</rs>, <rs type="person" ref="#amp_person_115">Brecht</rs> usw.) Er versteht zu wenig<lb/>
-                    Deutsch, es hat mich interessiert,
+                    Sein Freund und Mitarbeiter <rs type="person" ref="#amp_person_4">Chester<lb/>
+                    Kallman</rs>, war auch da<unclear><del>r</del></unclear>. Er ist ebenfalls<lb/>
+                    Dichter, vor allem Librettist (<rs type="person" ref="#amp_person_25">Stravinsky</rs>,<lb/>
+                    <rs type="person" ref="#amp_person_79">Henze</rs>, <rs type="person" ref="#amp_person_115">Brecht</rs> u.s.w.) Er versteht zu wenig<lb/>
+                    Deutsch, es hat mich aber interessiert,
                 </p>
-                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0031/" type="letter"/>
+                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0464/" type="sheet"/>
                 <p>
-                    daß er im Stade war, vor der Technik<lb/>
-                    Ihrer Dichtung eine Menge herauszuhoren<lb/>
-                    die der Lar..., wenn er nun zu den Inhalt<lb/>
-                    Ohren hat. oft überhört.
+                    daß er imstande war, von der Technik<lb/>
+                    Ihrer Dichtung eine Menge herauszuhören<lb/>
+                    die der Laie, wenn er nur für den Inhalt<lb/>
+                    Ohren hat<unclear>,</unclear> oft überhört .
                 </p>
                 <p>
-                    Übrigens: warum wohl niemand <del>die</del> nach dem<lb/>
-                    "Ankündigen" applaudiert hat?  Aus Ihrer<lb/>
-                    Schönsten gedichten, hat es etwas<lb/>
-                    (ärgern Sie sich nicht) <rs type="person" ref="#amp_person_42">Hofmannstahl</rs> sehen<lb/>
+                    Übrigens: warum wohl niemand <del>die</del>nach den<lb/>
+                    <rs type="lit_work">"Hinterhöfen"</rs> applaudiert hat? Eins Ihrer<lb/><!-- rs work Christine Busta Meine Hinterhöfe -->
+                    <unclear>S</unclear>chönsten Gedichten<unclear>,</unclear> hat es etwas<lb/>
+                    (ärgern Sie sich nicht) <rs type="person" ref="#amp_person_42">Hofmannsthal</rs>sches<lb/>
                     an sich.
                 </p>
                 <p>
-                    Sehr geeherte <rs type="person" ref="#amp_person_204">Frau Busta</rs>, ich werde diesen<lb/> 
+                    Sehr geehrte <rs type="person" ref="#amp_person_204">Frau Busta</rs>, ich werde diesen<lb/> 
                     Brief sofort beenden, es ist ohnehin schon<lb/> 
-                    halb eins ! Halten Sie diesen Brief<lb/> 
-                    <hi rend="underline">....</hi> nicht zu drigen eine Augen vom<lb/>
-                    Wichtigtuerei, ich wollte um <rs type="person" ref="#amp_person_1">Auden</rs>s<lb/>
-                    Job weiterreichen.
+                    halb eins! Halten Sie diesen Brief<lb/> 
+                    <hi rend="underline">bitte</hi> nicht für irgend eine Art von<lb/>
+                    Wichtigtuerei, ich wollte nur <rs type="person" ref="#amp_person_1">Auden</rs>s<lb/>
+                    Lob weiterreichen.
                 </p>
                 <p>
-                    Mit hertzlichen Grüssen und<lb/>
-                    besten Wünschen
+                    Mit herzlichen Grüssen und<lb/>
+                    besten Wü<unclear><del>s</del>n</unclear>schen
                 </p>
                 <p>
                     Ihre
-                </p>
-                <p>
                     <rs type="person" ref="#amp_person_4">Stella Musulin</rs> .
                 </p>
                 <p>
-                    beatw , 3.6.62
+                    beantw <unclear>,</unclear> 3.6.62
                 </p>    
             </div>
         </body>
