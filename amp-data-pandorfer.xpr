@@ -36,16 +36,16 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>framework/auden-musulin/schema/am.odd</String>
+                                    <String>data/meta/arche_constants.rdf</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>6/tei/teip5odd.framework/TEI ODD/TEI ODD to RELAX NG XML</String>
+                                        <String>arche_constants</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>ANT</String>
+                                        <String>XSL</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
@@ -76,16 +76,16 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/meta/auden-biography.xml</String>
+                                    <String>framework/auden-musulin/schema/am.odd</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>timeline-sort</String>
+                                        <String>6/tei/teip5odd.framework/TEI ODD/TEI ODD to RELAX NG XML</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
-                                        <String>XSL</String>
+                                        <String>ANT</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
@@ -96,11 +96,11 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/meta/arche_constants.rdf</String>
+                                    <String>data/meta/auden-biography.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>arche_constants</String>
+                                        <String>timeline-sort</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
