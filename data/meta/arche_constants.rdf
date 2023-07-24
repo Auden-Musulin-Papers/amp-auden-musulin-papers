@@ -159,6 +159,16 @@
             <acdh:hasLastName xml:lang="und">Musulin</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Marko</acdh:hasFirstName>
         </acdh:Person>
+        <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/wrohringer">
+            <acdh:hasTitle xml:lang="und">Dr. Wolfgang Rohringer</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Rohringer</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Wolfgang</acdh:hasFirstName>
+        </acdh:Person>
+        <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/kkubaczek">
+            <acdh:hasTitle xml:lang="und">Karl Kubaczek</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Karl</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Kubaczek</acdh:hasFirstName>
+        </acdh:Person>
         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/whaudenestate">
             <acdh:hasTitle xml:lang="und">The Estate of W. H. Auden</acdh:hasTitle>
         </acdh:Organisation>
