@@ -45,8 +45,8 @@
         <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1108283586"/><!-- State Collections of Lower Austria -->
         <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/2020893-5"/><!-- Austrian National Library  -->
         <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/whaudenestate"/>
-        <acdh:hasRightsHolder xml:lang="und">Dr. Wolfgang Rohringer</acdh:hasRightsHolder><!-- value correct? -->
-        <acdh:hasRightsHolder xml:lang="und">Karl Kubaczek</acdh:hasRightsHolder><!-- value correct? -->
+        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/wrohringer"/><!-- Dr. Wolfgang Rohringer -->
+        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/kkubaczek"/><!-- Karl Kubaczek -->
         <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"/> 
         <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1173017283"/>
         <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/14000761X"/>
@@ -207,8 +207,8 @@
         <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1108283586"/><!-- State Collections of Lower Austria -->
         <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/2020893-5"/><!-- Austrian National Library  -->
         <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/whaudenestate"/>
-        <acdh:hasRightsHolder xml:lang="und">Dr. Wolfgang Rohringer</acdh:hasRightsHolder><!-- value correct? -->
-        <acdh:hasRightsHolder xml:lang="und">Karl Kubaczek</acdh:hasRightsHolder><!-- value correct? -->
+        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/wrohringer"/><!-- Dr. Wolfgang Rohringer -->
+        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/kkubaczek"/><!-- Karl Kubaczek -->
         <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"/> 
         <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1173017283"/>
         <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/14000761X"/>
