@@ -160,9 +160,10 @@
             <acdh:hasFirstName xml:lang="und">Marko</acdh:hasFirstName>
         </acdh:Person>
         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/wrohringer">
-            <acdh:hasTitle xml:lang="und">Dr. Wolfgang Rohringer</acdh:hasTitle>
-            <acdh:hasLastName xml:lang="und">Rohringer</acdh:hasLastName>
-            <acdh:hasFirstName xml:lang="und">Wolfgang</acdh:hasFirstName>
+                <acdh:hasTitle xml:lang="und">Wolfgang Rohringer</acdh:hasTitle>
+                <acdh:hasLastName xml:lang="und">Rohringer</acdh:hasLastName>
+                <acdh:hasFirstName xml:lang="und">Wolfgang</acdh:hasFirstName>
+                <acdh:hasPersonalTitle xml:lang="und">Dr.</acdh:hasPersonalTitle>
         </acdh:Person>
         <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/kkubaczek">
             <acdh:hasTitle xml:lang="und">Karl Kubaczek</acdh:hasTitle>
