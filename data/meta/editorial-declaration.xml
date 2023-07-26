@@ -49,6 +49,7 @@
       </profileDesc>
       <revisionDesc status="draft">
          <change who="smayer tfruehwirth" when="2022-02-24">text created</change>
+         <change who="smayer tfruehwirth" when="2023-07-26">update image digitization section</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -90,6 +91,7 @@
                <div>
                   <head>Image Digitization</head>
                   <p>The documents have been reproduced at 600 dpi and 24 bit/RGB through an Image Access WideTEK®25 color flatbed scanner and saved in an uncompressed TIFF format. Selected materials (images 5 and 6 in https://amp.acdh.oeaw.ac.at/amp-transcript__0039.html, images 3 and 4 in https://amp.acdh.oeaw.ac.at/amp-transcript__0040.html) have been digitized at 603.1 dpi and 24 bit by means of a Phase One XF IQ3 100MP medium-format camera with a Schneider Kreuznach 80mm f/2.8 leaf shutter lens. The high-resolution digital reproductions can be accessed via https://id.acdh.oeaw.ac.at/auden-musulin-papers/facs. On the website, images are provided through IIIF.</p>
+                  <p>The images of Autograph Letter Signed Stella Musulin to Christine Busta 1962-05-23 have been created by the Literary Archive of the Austrian National Library.</p>
                </div>
                <div>
                   <head>Disclaimer v0.3</head>
