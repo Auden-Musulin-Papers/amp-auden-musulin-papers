@@ -139,7 +139,7 @@
                         <item n="4">Page Layout
                            <list rend="numbered">
                               <item n="4.1">Original line breaks and sections of text are retained.</item>
-                              <item n="4.2">The transcription of each document is contained within a TEI <![CDATA[<]]>div<![CDATA[>]]> element. Each transcription is subdivided by means of <![CDATA[<]]>pb<![CDATA[>]]>, <![CDATA[<]]>p<![CDATA[>]]> and <![CDATA[<]]>lg<![CDATA[>]]> elements.</item>
+                              <item n="4.2">The transcription of each document is contained within a TEI <![CDATA[<]]>div<![CDATA[>]]> element. Each transcription is subdivided by means of <![CDATA[<]]>pb<![CDATA[>]]>, <![CDATA[<]]>p<![CDATA[>]]> and <![CDATA[<]]>lg<![CDATA[>]]> elements, as well as <![CDATA[<]]>cb<![CDATA[>]]> if applicable.</item>
                               <item n="4.3">The vertical succession of text elements is represented; their horizontal arrangement is disregarded.</item>
                               <item n="4.4">Line numbers are added to the website display, with separate numbering systems for prose and verse, respectively.</item>
                            </list>
