@@ -36,6 +36,7 @@
                 <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/auden-musulin-papers"/>
                 <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000F-3256-8</acdh:hasPid>
                 <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
+                <acdh:hasCurator rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
                 <acdh:hasTitle xml:lang="en">Facsimiles (Highest Resolution)</acdh:hasTitle>
                 <acdh:hasDescription xml:lang="en">Highest-resolution digital facsimiles of the Auden Musulin Papers: digital images of the letters and literary papers sent by British-American poet W. H. Auden to Welsh-Austrian writer Stella Musulin in the period 1960-1973; private photographs of W. H. Auden and Chester Kallman; correspondence and papers related to Stella Musulin's biographical work on W. H. Auden; Stella Musulin's Auden memoirs "In Retrospect" and "The Years in Austria".</acdh:hasDescription>
                 <acdh:hasSubject xml:lang="en">digital edition, Auden, Musulin, letters, facsimile, photograph, high-resolution</acdh:hasSubject>
@@ -45,6 +46,7 @@
                 <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000F-3255-9</acdh:hasPid>
                 <acdh:isPartOf rdf:resource="https://id.acdh.oeaw.ac.at/auden-musulin-papers"/>
                 <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
+                <acdh:hasCurator rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
                 <acdh:hasTitle xml:lang="en">Facsimiles (Lower-Resolution Web Images)</acdh:hasTitle>
                 <acdh:hasDescription xml:lang="en">Lower-resolution digital facsimiles of the Auden Musulin Papers intended for web display: digital images of the letters and literary papers sent by British-American poet W. H. Auden to Welsh-Austrian writer Stella Musulin in the period 1960-1973; private photographs of W. H. Auden and Chester Kallman; correspondence and papers related to Stella Musulin's biographical work on W. H. Auden; Stella Musulin's Auden memoirs "In Retrospect" and "The Years in Austria".</acdh:hasDescription>
                 <acdh:hasSubject xml:lang="en">digital edition, Auden, Musulin, letters, facsimile, photograph, high-resolution</acdh:hasSubject>

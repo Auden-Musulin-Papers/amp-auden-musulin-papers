@@ -41,7 +41,7 @@ jobs:
       run: |
         echo 'STEP=Upload AIP to ${ARCHE_INSTANCE_NAME} Instance' >> $GITHUB_ENV
         vendor/bin/arche-import-metadata ${OUTPUT_DIR}/arche.rdf https://${ARCHE_INSTANCE}.oeaw.ac.at/api ${{secrets.ARCHE_LOGIN}} ${{secrets.ARCHE_PASSWORD}} --retriesOnConflict 25
-        vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Upload AIP to ${ARCHE_INSTANCE_NAME} Instance'
+        # vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Upload AIP to ${ARCHE_INSTANCE_NAME} Instance'
     - name: Copy XML Files to to_ingest 
       run: |
         mkdir $PWD/to_ingest
@@ -62,13 +62,13 @@ jobs:
       run: |
         echo 'STEP=Run repo-file-checker' >> $GITHUB_ENV
         docker run --rm -d --name filechecker -v `pwd`/filechecker/reports:/reports -v `pwd`/to_ingest:/data -v ~/.cvdupdate/database/:/var/lib/clamav -e DAEMONIZE=1 acdhch/arche-filechecker 0
-        vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Virus scan'
-        vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Run repo-file-checker'
+        # vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Virus scan'
+        # vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Run repo-file-checker'
     - name: ingest binaries
       run: |
         echo 'STEP=Upload Binaries' >> $GITHUB_ENV
         vendor/bin/arche-import-binary to_ingest https://id.acdh.oeaw.ac.at/${PROJECT_NAME} https://${ARCHE_INSTANCE}.oeaw.ac.at/api ${{secrets.ARCHE_LOGIN}} ${{secrets.ARCHE_PASSWORD}} --skip not_exist
-        vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Upload AIP to ${ARCHE_INSTANCE_NAME} Instance'
+        # vendor/bin/arche-update-redmine --token ${{ secrets.REDMINE_TOKEN }} --append "$RUN_URL" $REDMINE_ID 'Upload AIP to ${ARCHE_INSTANCE_NAME} Instance'
     - name: on failure
       if: ${{ failure() }}
       run: |
