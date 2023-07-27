@@ -5,6 +5,9 @@
 			<String>document.types</String>
 			<documentTypeDescriptor-array>
 				<documentTypeDescriptor>
+					<field name="webResources">
+						<null/>
+					</field>
 					<field name="extensionPatch">
 						<null/>
 					</field>
@@ -379,7 +382,7 @@
 									<String></String>
 								</field>
 								<field name="buildFilePath">
-									<String>${frameworkDir}/tei/xml/tei/stylesheet/relaxng/build-to.xml</String>
+									<String>${frameworksDir}/tei/xml/tei/stylesheet/relaxng/build-to.xml</String>
 								</field>
 								<field name="ditaParams">
 									<list>
@@ -391,7 +394,7 @@
 												<String>TEI source file.</String>
 											</field>
 											<field name="value">
-												<String>${frameworksDir}/tei/xml/tei/odd/p5subset.xml</String>
+												<String>${frameworks}/tei/xml/tei/odd/p5subset.xml</String>
 											</field>
 											<field name="defaultValue">
 												<null/>
@@ -634,10 +637,18 @@
 										<String>${oxygenHome}/lib/oxygenDeveloperEclipse.jar</String>
 										<String>${oxygenHome}/lib/*resolver*.jar</String>
 										<String>${oxygenHome}/lib/*xerces*.jar</String>
+										<String>${oxygenHome}/lib/xmlresolver*.jar</String>
+										<String>${oxygenHome}/lib/*saxon*11*.jar</String>
+										<String>${oxygenHome}/lib/*saxon*10*.jar</String>
 										<String>${oxygenHome}/lib/*saxon*9*.jar</String>
 										<String>${oxygenHome}/lib/saxon.jar</String>
 										<String>${oxygenHome}/lib/xml-apis-ext.jar</String>
-										<String>${oxygenHome}/lib/*log4j*.jar</String>
+										<String>${oxygenHome}/lib/oxygen-patched-slf4j.jar</String>
+										<String>${oxygenHome}/lib/logback-classic-*.jar</String>
+										<String>${oxygenHome}/lib/logback-core-*.jar</String>
+										<String>${oxygenHome}/lib/log4j-over-slf4j-*.jar</String>
+										<String>${oxygenHome}/lib/log4j-to-slf4j-*.jar</String>
+										<String>${oxygenHome}/lib/log4j-api-*.jar</String>
 										<String>${oxygenHome}/lib/oxygen-basic-utilities.jar</String>
 									</String-array>
 								</field>

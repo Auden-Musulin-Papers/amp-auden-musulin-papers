@@ -8,28 +8,26 @@
         <acdh:hasPid>https://hdl.handle.net/21.11115/0000-000E-C343-A</acdh:hasPid>
         <acdh:hasTitle xml:lang="en">Auden Musulin Papers: A Digital Edition of W. H. Auden's Letters to Stella Musulin</acdh:hasTitle>
         <acdh:hasDescription xml:lang="en">A Digital Edition of W. H. Auden's Letters to Stella Musulin. The collection contains the letters and literary papers sent by British-American poet W. H. Auden to Welsh-Austrian writer Stella Musulin in the period 1960-1973; private photographs of W. H. Auden and Chester Kallman; correspondence and papers related to Stella Musulin's biographical work on W. H. Auden; Stella Musulin's Auden memoirs "In Retrospect" and "The Years in Austria". The collection has been edited in the context of an FWF-funded, three-year project at the Austrian Centre for Digital Humanities and Cultural Heritage.</acdh:hasDescription>
-        <acdh:hasContact rdf:resource="https://d-nb.info/gnd/1024881253"/>
-        <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1024881253"/>
-        <acdh:hasActor rdf:resource="https://d-nb.info/gnd/118650963"/>
-        <acdh:hasActor rdf:resource="https://d-nb.info/gnd/127246711"/>
-        <acdh:hasActor rdf:resource="https://d-nb.info/gnd/115753761"/>
-        <acdh:hasActor rdf:resource="https://d-nb.info/gnd/118751980"/>
-        <acdh:hasActor rdf:resource="https://d-nb.info/gnd/14000761X"/>
-        <acdh:hasActor rdf:resource="https://d-nb.info/gnd/1173017283"/>
-        <acdh:hasActor rdf:resource="https://www.wikidata.org/wiki/Q39073705"/>
-        <!-- <acdh:hasActor>Musulin, Elsa</acdh:hasActor> -->
-        <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1024881253"/>
-        <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
-        <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1967-01-01</acdh:hasCoverageStartDate>
-        <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1973-12-31</acdh:hasCoverageEndDate>
+        <acdh:hasContact rdf:resource="https://d-nb.info/gnd/1024881253"/><!-- Sandra Mayer -->
+        <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1024881253"/><!-- Sandra Mayer -->
+        <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1024881253"/><!-- Sandra Mayer -->
+        <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1043833846"/><!-- Peter Andorfer -->
+        <acdh:hasCurator rdf:resource="https://orcid.org/0000-0002-0636-4476"/><!-- Daniel Elsner -->
+        <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1959-06-01</acdh:hasCoverageStartDate><!-- updated -->
+        <acdh:hasCoverageEndDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-01-21</acdh:hasCoverageEndDate><!-- updated -->
         <acdh:hasSubject xml:lang="en">digital edition</acdh:hasSubject>
-        <acdh:hasSubject xml:lang="en">letters</acdh:hasSubject>
+        <!-- <acdh:hasSubject xml:lang="en">letters</acdh:hasSubject> -->
+        <acdh:hasSubject xml:lang="en">poetry</acdh:hasSubject><!-- added -->
+        <acdh:hasSubject xml:lang="en">literature</acdh:hasSubject><!-- added -->
+        <acdh:hasSubject xml:lang="en">correspondence</acdh:hasSubject><!-- added -->
+        <acdh:hasSubject xml:lang="en">photographs</acdh:hasSubject><!-- added -->
         <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/eng"/>
         <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602008"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602005"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605007"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605002"/>
+        <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602006"/><!-- Angewandte Literaturwissenschaft  -->
         <acdh:hasNamingScheme xml:lang="en">XML edition files are named "amp-transcript__####.xml"</acdh:hasNamingScheme>
         <acdh:hasLifeCycleStatus rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/active"/>
         <acdh:hasCompleteness xml:lang="en">incomplete, to be completed by July 2024</acdh:hasCompleteness>
@@ -37,12 +35,22 @@
         <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/1108283586"/>
         <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/whaudenestate"/>
         <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
-        <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
-        <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/1108283586"/>
-        <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1108283586"/>
+        <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/137925816"/><!-- Marko Musulin -->
+        <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/2020893-5"/><!-- Austrian National Library  -->
+        <!-- <acdh:hasOwner rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/> -->
+        <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/1108283586"/><!-- State Collections of Lower Austria -->
+        <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/137925816"/><!-- Marko Musulin -->
+        <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/2020893-5"/><!-- Austrian National Library  -->
+        <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/137925816"/><!-- Marko Musulin -->
+        <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1108283586"/><!-- State Collections of Lower Austria -->
+        <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/2020893-5"/><!-- Austrian National Library  -->
         <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/whaudenestate"/>
-        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"/>
-        <acdh:hasPrincipalInvestigator rdf:resource="https://d-nb.info/gnd/1024881253"/>
+        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/wrohringer"/><!-- Dr. Wolfgang Rohringer -->
+        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/kkubaczek"/><!-- Karl Kubaczek -->
+        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"/> 
+        <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1173017283"/>
+        <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/14000761X"/>
+        <acdh:hasPrincipalInvestigator rdf:resource="https://d-nb.info/gnd/1024881253"/> <!-- Sandra Mayer -->
     </acdh:TopCollection>
     <acdh:Cols>
         <acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/auden-musulin-papers/editions">
@@ -52,7 +60,8 @@
             <acdh:hasTitle xml:lang="en">Edition Documents</acdh:hasTitle>
             <acdh:hasDescription xml:lang="en">Edition documents in XML/TEI format, containing transcriptions, markup, and metadata of the letters and literary papers sent by British-American poet W. H. Auden to Welsh-Austrian writer Stella Musulin in the period 1960-1973; correspondence and papers related to Stella Musulin's biographical work on W. H. Auden; Stella Musulin's Auden memoirs "In Retrospect" and "The Years in Austria".</acdh:hasDescription>
             <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/eng"/>
-            <acdh:hasSubject xml:lang="en">digital edition, Auden, Musulin, letters, xml, tei</acdh:hasSubject>
+            <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+            <acdh:hasSubject xml:lang="en">digital edition, Auden, Musulin, letters, correspondence, literature, poetry, photographs, xml, tei</acdh:hasSubject><!-- updated -->
         </acdh:Collection>
         <!--<acdh:Collection rdf:about="https://id.acdh.oeaw.ac.at/auden-musulin-papers/meta">
             <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
@@ -77,13 +86,13 @@
             <acdh:hasFirstName xml:lang="und">Peter</acdh:hasFirstName>
         </acdh:Person>
         <acdh:Person rdf:about="https://d-nb.info/gnd/1173017283">
-            <acdh:hasTitle xml:lang="und">Michael, Duncan</acdh:hasTitle>
-            <acdh:hasLastName xml:lang="und">Duncan</acdh:hasLastName>
+            <acdh:hasTitle xml:lang="und">Michael, O'Sullivan</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">O'Sullivan</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Michael</acdh:hasFirstName>
         </acdh:Person>
         <acdh:Person rdf:about="https://www.wikidata.org/entity/Q39073705">
-            <acdh:hasTitle xml:lang="und">Bruce, O'Sullivan</acdh:hasTitle>
-            <acdh:hasLastName xml:lang="und">O'Sullivan</acdh:hasLastName>
+            <acdh:hasTitle xml:lang="und">Bruce, Duncan</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Duncan</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Bruce</acdh:hasFirstName>
         </acdh:Person>
         <acdh:Person rdf:about="https://d-nb.info/gnd/118650963">
@@ -113,11 +122,11 @@
             <acdh:hasLastName xml:lang="und">Mendelson</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Edward</acdh:hasFirstName>
         </acdh:Person>
-        <!-- <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/amp/person__1">
+        <acdh:Person rdf:about="https://amp.acdh.oeaw.ac.at/amp_person_93">
             <acdh:hasTitle xml:lang="und">Elsa Musulin</acdh:hasTitle>
             <acdh:hasLastName xml:lang="und">Musulin</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Elsa</acdh:hasFirstName>
-        </acdh:Person> -->
+        </acdh:Person>
         <acdh:Person rdf:about="https://d-nb.info/gnd/115753761">
             <acdh:hasTitle xml:lang="und">Janko Musulin</acdh:hasTitle>
             <acdh:hasLastName xml:lang="und">Musulin</acdh:hasLastName>
@@ -134,10 +143,37 @@
             <acdh:hasFirstName xml:lang="und">Hilde</acdh:hasFirstName>
         </acdh:Person>
         <acdh:Person rdf:about="https://orcid.org/0000-0002-0636-4476">
-            <acdh:hasTitle xml:lang="und">Daniel Stoxreiter</acdh:hasTitle>
-            <acdh:hasLastName xml:lang="und">Stoxreiter</acdh:hasLastName>
+            <acdh:hasTitle xml:lang="und">Daniel Elsner</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Elsner</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Daniel</acdh:hasFirstName>
             <acdh:isMemberOf rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+        </acdh:Person>
+        <acdh:Person rdf:about="https://orcid.org/0000-0002-0914-9245">
+            <acdh:hasTitle xml:lang="und">Dimitra Grigoriou</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Grigoriou</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Dimitra</acdh:hasFirstName>
+            <acdh:isMemberOf rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+        </acdh:Person>
+        <acdh:Person rdf:about="https://d-nb.info/gnd/137925816">
+            <acdh:hasTitle xml:lang="und">Marko Musulin</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Musulin</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Marko</acdh:hasFirstName>
+        </acdh:Person>
+        <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/wrohringer">
+            <acdh:hasTitle xml:lang="und">Wolfgang Rohringer</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Rohringer</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Wolfgang</acdh:hasFirstName>
+            <acdh:hasPersonalTitle xml:lang="und">Dr.</acdh:hasPersonalTitle>
+        </acdh:Person>
+        <acdh:Person rdf:about="https://id.acdh.oeaw.ac.at/kkubaczek">
+            <acdh:hasTitle xml:lang="und">Karl Kubaczek</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Kubaczek</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Karl</acdh:hasFirstName>
+        </acdh:Person>
+        <acdh:Person rdf:about="https://orcid.org/0000-0001-6909-7099">
+            <acdh:hasTitle xml:lang="und">Simon Brenner</acdh:hasTitle>
+            <acdh:hasLastName xml:lang="und">Brenner</acdh:hasLastName>
+            <acdh:hasFirstName xml:lang="und">Simon</acdh:hasFirstName>
         </acdh:Person>
         <acdh:Organisation rdf:about="https://id.acdh.oeaw.ac.at/whaudenestate">
             <acdh:hasTitle xml:lang="und">The Estate of W. H. Auden</acdh:hasTitle>
@@ -154,36 +190,58 @@
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602005"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605007"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605002"/>
+        <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602006"/>
         <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1024881253"/>
         <acdh:hasCreator rdf:resource="https://orcid.org/0000-0002-3997-5193"/>
-        <acdh:hasContributor rdf:resource="https://d-nb.info/gnd/1043833846"/>
-        <acdh:hasContributor rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
+        <acdh:hasCreator rdf:resource="https://orcid.org/0000-0002-0914-9245"/>
+        <acdh:hasCreator rdf:resource="https://d-nb.info/gnd/1043833846"/>
+        <acdh:hasCreator rdf:resource="https://orcid.org/0000-0002-0636-4476"/>
         <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1024881253"/>
         <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1024881253"/>
         <acdh:hasMetadataCreator rdf:resource="https://orcid.org/0000-0002-3997-5193"/>
+        <acdh:hasMetadataCreator rdf:resource="https://orcid.org/0000-0002-0914-9245"/>
         <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
         <acdh:hasCurator rdf:resource="https://orcid.org/0000-0002-3997-5193"/>
+        <acdh:hasCurator rdf:resource="https://orcid.org/0000-0002-0914-9245"/>
         <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
         <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/clarin-vlo"/>
     </acdh:RepoObject>
     <acdh:FacsConstants>
         <acdh:hasDigitisingAgent rdf:resource="https://orcid.org/0000-0002-3997-5193"/>
+        <acdh:hasDigitisingAgent rdf:resource="https://d-nb.info/gnd/2020893-5"/>
+        <acdh:hasDigitisingAgent rdf:resource="https://orcid.org/0000-0002-0914-9245"/>
+        <acdh:hasDigitisingAgent rdf:resource="https://orcid.org/0000-0001-6909-7099"/>
         <acdh:hasLicense rdf:resource="https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0"/>
-        <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/whaudenestate"/>
         <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/1108283586"/>
-        <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/1108283586"/>
-        <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1108283586"/>
+        <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/whaudenestate"/>
+        <acdh:hasLicensor rdf:resource="https://id.acdh.oeaw.ac.at/acdh"/>
+        <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/137925816"/><!-- Marko Musulin -->
+        <acdh:hasLicensor rdf:resource="https://d-nb.info/gnd/2020893-5"/><!-- Austrian National Library  -->
+        <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/1108283586"/><!-- State Collections of Lower Austria -->
+        <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/137925816"/><!-- Marko Musulin -->
+        <acdh:hasOwner rdf:resource="https://d-nb.info/gnd/2020893-5"/><!-- Austrian National Library  -->
+        <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/137925816"/><!-- Marko Musulin -->
+        <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1108283586"/><!-- State Collections of Lower Austria -->
+        <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/2020893-5"/><!-- Austrian National Library  -->
         <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/whaudenestate"/>
+        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/wrohringer"/><!-- Dr. Wolfgang Rohringer -->
+        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/kkubaczek"/><!-- Karl Kubaczek -->
+        <acdh:hasRightsHolder rdf:resource="https://id.acdh.oeaw.ac.at/oeaw"/> 
+        <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/1173017283"/>
+        <acdh:hasRightsHolder rdf:resource="https://d-nb.info/gnd/14000761X"/>
         <acdh:hasContact rdf:resource="https://d-nb.info/gnd/1024881253"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602008"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602005"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605007"/>
         <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/605002"/>
+        <acdh:hasRelatedDiscipline rdf:resource="https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/602006"/><!-- Angewandte Literaturwissenschaft  -->
         <acdh:hasDepositor rdf:resource="https://d-nb.info/gnd/1024881253"/>
         <acdh:hasMetadataCreator rdf:resource="https://d-nb.info/gnd/1024881253"/>
         <acdh:hasMetadataCreator rdf:resource="https://orcid.org/0000-0002-3997-5193"/>
+        <acdh:hasMetadataCreator rdf:resource="https://orcid.org/0000-0002-0914-9245"/>
         <acdh:hasCurator rdf:resource="https://d-nb.info/gnd/1024881253"/>
         <acdh:hasCurator rdf:resource="https://orcid.org/0000-0002-3997-5193"/>
+        <acdh:hasCurator rdf:resource="https://orcid.org/0000-0002-0914-9245"/>
         <acdh:hasOaiSet rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeoaisets/kulturpool"/>
     </acdh:FacsConstants>
 </acdh:ACDH>
