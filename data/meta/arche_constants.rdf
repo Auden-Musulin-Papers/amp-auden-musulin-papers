@@ -123,11 +123,11 @@
             <acdh:hasLastName xml:lang="und">Mendelson</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Edward</acdh:hasFirstName>
         </acdh:Person>
-        <acdh:Person rdf:about="https://amp.acdh.oeaw.ac.at/emusulin">
+        <!-- <acdh:Person rdf:about="https://amp.acdh.oeaw.ac.at/emusulin">
             <acdh:hasTitle xml:lang="und">Elsa Musulin</acdh:hasTitle>
             <acdh:hasLastName xml:lang="und">Musulin</acdh:hasLastName>
             <acdh:hasFirstName xml:lang="und">Elsa</acdh:hasFirstName>
-        </acdh:Person>
+        </acdh:Person> -->
         <acdh:Person rdf:about="https://d-nb.info/gnd/115753761">
             <acdh:hasTitle xml:lang="und">Janko Musulin</acdh:hasTitle>
             <acdh:hasLastName xml:lang="und">Musulin</acdh:hasLastName>
