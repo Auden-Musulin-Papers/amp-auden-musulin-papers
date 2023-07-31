@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0077.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0070.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-06</title>
+            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1959-10-10</title>
             <author>Auden, W. H.</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -58,10 +58,10 @@ for any purpose, even commercially.</p>
                         <settlement>St. Pölten</settlement>
                         <repository>State Collections of Lower Austria</repository>
                         <collection>Stella Musulin (Depot)</collection>
-                        <idno>1, 18</idno>
+                        <idno>3, 1</idno><!-- new repository nomenclature: 3 for new materials -->
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1968-10-06" notAfter="1968-10-06">1968-10-06</origDate></origin>
+                        <origin><origDate notBefore="1959-10-10" notAfter="1959-10-10">1959-10-10</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -73,7 +73,6 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
             <correspAction type="composed">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
@@ -93,8 +92,7 @@ for any purpose, even commercially.</p>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
                <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__.xml">.......................</ref>
-               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__.xml">....................</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0045.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1960-07-21</ref>
             </correspContext>
          </correspDesc>
          
@@ -102,62 +100,64 @@ for any purpose, even commercially.</p>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="dgrigoriou" when="2023-07-20">text transcribed</change>
+         <change who="dgrigoriou tfruehwirth" when="2023-07-31">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="4582" lry="3514">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/..................../"/>  
+      <surface ulx="0" uly="0" lrx="4520" lry="3418">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0465/"/>  
       </surface>
-      <surface ulx="0" uly="0" lrx="4580" lry="3512">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/..................../"/>
+      <surface ulx="0" uly="0" lrx="4524" lry="3416">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0466/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5686" lry="7656">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/..................../"/>
+      <surface ulx="0" uly="0" lrx="5726" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0467/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5686" lry="7662">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/..................../"/>
+      <surface ulx="0" uly="0" lrx="5732" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0468/"/>
       </surface>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/..................../" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0465/" type="envelope"/>
             <p>
-               <rs type="person" ref="#amp_person_1">W. H. Auden</rs><lb/>
-               <rs type="place" ref="#amp_place_id_5">Kirchst<del>o</del><del>t</del><unclear>e</unclear>tten(West Bahh)<lb/> 
+               <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
+               <rs type="place" ref="#amp_place_id_5">Kirchst<del>t</del>etten (West Bahn)<lb/> 
                   Hinterholz # 6<lb/> 
                   N.O.</rs>
             </p>
             <p>
-               <space quantity="20" unit="char"/>Die <rs type="person" ref="#amp_person_2">Baronin Stella Musulin</rs><lb/>
-               <space quantity="22" unit="char"/><rs type="place" ref="#amp_place_id_303">bei Windisch-<del>f</del><del>r</del><del>c</del><del>t</del><del>y</del> fracty<lb/> 
-               <space quantity="28" unit="char"/>WIEN VI<lb/> 
-               <space quantity="29" unit="char"/>Fillgradegasse I2</rs>
+               <space quantity="21" unit="char"/>Die <rs type="person" ref="#amp_person_2">Baronin Stella Musulin</rs><lb/>
+               <space quantity="24" unit="char"/>bei Windisch-<del>frcty</del> fracty<lb/><!-- research person (Eva Windisch-Graez) -->
+               <space quantity="30" unit="char"/><rs type="place" ref="#amp_place_id_303">WIEN VI<lb/> 
+               <space quantity="31" unit="char"/>Fillgradegasse I2</rs>
             </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/..................../" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0466/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0467/" type="sheet"/>
                <p hand="#typed">
-                  <rs type="place" ref="#amp_place_id_5">Kirchstetten(West Bahh)<lb/> 
+                  <rs type="place" ref="#amp_place_id_5">Kirchstetten(West Bah<del>h</del>n)<lb/> 
                   Hinterholz # 6<lb/> 
                   N.O.</rs>
                </p>
                <p hand="#typed">
-                  Samstag
+                  <space quantity="38" unit="char"/>Samstag
                </p>
                <p hand="#typed">
                   <space quantity="15" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:<lb/> 
-                  <space quantity="6" unit="char"/>Many thanks for your letter of Oct <del><unclear>%</unclear></del>5th which I have only just,<lb/>  
+                  <space quantity="6" unit="char"/>Many thanks for your letter of Oct <del>%</del>5th which I have only just<lb/>  
                   <space quantity="3" unit="char"/>received:it went to the wrong Kirchstetten.<lb/>  
                   <space quantity="8" unit="char"/><rs type="person" ref="#amp_person_1 #amp_person_4">We</rs> shall be delighted to see you any day that is convenient for<lb/> 
                   <space quantity="3" unit="char"/>you,if you could drop us a postcard. Only next Monday is impossible.<lb/>  
                   <space quantity="12" unit="char"/>Yours sincerely
                </p>
                <p hand="#handwritten">
-                  <rs type="person" ref="#amp_person_1">W. H. Auden</rs>
+                  <rs type="person" ref="#amp_person_1">W.H. Auden</rs>
                </p>
                <p hand="#typed">
-                  <space quantity="27" unit="char"/><rs type="person" ref="#amp_person_1">W. H. Auden</rs>
+                  <space quantity="27" unit="char"/><rs type="person" ref="#amp_person_1">W.H.Auden</rs>
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at//amp/..................../" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at//amp/amp_0468/" type="sheet"/>
          </div>
       </body>
    </text>
