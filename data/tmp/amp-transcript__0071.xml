@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Letter Signed  Stella Musulin to W. H. Auden ?-04-16</title>
+            <title level="a">Typed Letter Signed Stella Musulin to W. H. Auden 1962-04-16--1973-04-16</title>
             <author>Auden, W. H.</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -58,10 +58,10 @@ for any purpose, even commercially.</p>
                         <settlement>St. Pölten</settlement>
                         <repository>State Collections of Lower Austria</repository>
                         <collection>Stella Musulin (Depot)</collection>
-                        <idno>1, 18</idno>
+                        <idno>3, 2</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1968-10-06" notAfter="1968-10-06">1968-10-06</origDate></origin>
+                        <origin><origDate notBefore="1962-04-16" notAfter="1973-04-16">1962-04-16--1973-04-16</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -77,8 +77,8 @@ for any purpose, even commercially.</p>
          <correspDesc>
             <correspAction type="composed">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_7">Fridau</placeName>
-               <date>unknown</date>
+               <placeName>unknown</placeName>
+               <date notBefore="1962-04-16" notAfter="1973-04-16">1962-04-16--1973-04-16</date>
             </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
@@ -93,63 +93,58 @@ for any purpose, even commercially.</p>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
                <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__.xml">.......................</ref>
-               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__.xml">....................</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__21.xml">Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__59.xml">Envelope W. H. Auden to Stella Musulin 1962-04-30</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="dgrigoriou" when="2023-07-20">text transcribed</change>
+         <change who="dgrigoriou tfruehwirth" when="2023-07-31">transcriptions collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="4582" lry="3514">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/..................../"/>  
+      <surface ulx="0" uly="0" lrx="4256" lry="5666">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0469/"/>  
       </surface>
-      <surface ulx="0" uly="0" lrx="4580" lry="3512">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/..................../"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5686" lry="7656">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/..................../"/>
-      </surface>
-      <surface ulx="0" uly="0" lrx="5686" lry="7662">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/..................../"/>
+      <surface ulx="0" uly="0" lrx="4248" lry="5666">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0470/"/>
       </surface>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/..................../" type="sheet"/>
-               <p hand="#typed">
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0469/" type="sheet"/>
+               <p hand="#printed">
                   <rs type="place" ref="#amp_place_id_7">A-3200 Fridau<lb/> 
                   Obergrafendorf<lb/> 
                   bei St. Pölten, NÖ.</rs><lb/>
-                  Telefon 0 27 47/311
+                  Telefon 0 27 47 / 311
                </p>
-               <p>
+               <p hand="#printed">
                   <rs type="place" ref="#amp_place_id_11">Neulinggasse 26/14<lb/> 
                   A-1030 Wien</rs><lb/>
                   Telefon 73 94 015
                </p>
                <p hand="#handwritten">
-                  16th April.
+                  16th April .
                </p>
                <p hand="#typed">
                   Dear <rs type="person" ref="#amp_person_1">Wystan</rs>,<lb/>
-                  <space quantity="5" unit="char"/>Are you <rs type="place" ref="#amp_place_id_2">there</rs>? May I come across<lb/> 
-                  for a cuppa? I shall be at <rs type="place" ref="#amp_place_id_7">Fridau</rs> over Easter<lb/> 
+                  <space quantity="5" unit="char"/>Are you there? <space unit="char" quantity="1"/>May I come across for<lb/> 
+                  a cuppa? <space unit="char" quantity="1"/>I shall be at <rs type="place" ref="#amp_place_id_7">Fridau</rs> over Easter<lb/> 
                   but am otherwise mostly in <rs type="place" ref="#amp_place_id_1">Vienna</rs>.<lb/>
                   <space quantity="5" unit="char"/>Was very dashed at missing you when I<lb/> 
                   got back here at the beginning of September<lb/> 
                   and found you'd gone.
                </p>
                <p hand="#handwritten">
-                  Love
+                  Love<lb/>
                   <rs type="person" ref="#amp_person_2">Stella</rs>
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0038/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0470/" type="sheet"/>
+               <p hand="#handwritten">50</p>
          </div>
       </body>
    </text>
