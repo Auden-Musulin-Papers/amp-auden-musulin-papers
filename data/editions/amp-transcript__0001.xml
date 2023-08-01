@@ -110,6 +110,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-09-20">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
+         <change who="smayer tfruehwirth" when="2023-08-01">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -128,55 +129,53 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div1 xml:id="transcription">
-            <div2><!-- envelope div -->
+         <div type="transcription" xml:id="transcription">
+            <div type="envelope"><!-- "element "div" missing required attribute "xml:id"" -->
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope"/>
                <ab><rs type="person" ref="#amp_person_4"><unclear>Ch</unclear>ester</rs> in <rs type="place" ref="#amp_place_id_14">Florence</rs><unclear>.</unclear></ab>
                <ab>
                   <address>
-                     <addrLine><rs type="person" ref="#amp_person_2">Die Ba<unclear>ron</unclear>in</addrLine><lb/><!-- addrLine + lb useful? -->
-                     <addrLine>Stella M<unclear>eu</unclear>ss<unclear>u</unclear>lin</rs></addrLine><lb/>
-                     <addrLine><rs type="place" ref="#amp_place_id_11"><del>Wien III</del></addrLine><lb/>
-                     <addrLine><del>Neulinggasse 26</del></rs></addrLine>
+                     <rs type="person" ref="#amp_person_2">Die Ba<unclear>ron</unclear>in<lb/>
+                     Stella M<unclear>eu</unclear>ss<unclear>u</unclear>lin</rs><lb/>
+                     <rs type="place" ref="#amp_place_id_11"><del>Wien III</del><lb/>
+                     <del>Neulinggasse 26</del></rs>
                   </address>   
                </ab>
                <ab>
                   <address>
-                     <addrLine><rs type="place" ref="#amp_place_id_7">Fridau,</addrLine><lb/>
-                     <addrLine>Obergrafendorf,</addrLine><lb/>
-                     <addrLine>bei ST.PÖLTEN,</addrLine><lb/>
-                     <addrLine>NÖ</rs>
+                     <rs type="place" ref="#amp_place_id_7">Fridau,<lb/>
+                     Obergrafendorf,<lb/>
+                     bei ST.PÖLTEN,<lb/>
+                     NÖ</rs>
                   </address>
                </ab>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0002/" type="envelope"/>
                   <ab>
-                     <address>
-                        <addrLine><rs type="person" ref="#amp_person_1">W.H.Auden</rs><unclear>,</unclear></addrLine><lb/>
-                        <ab hand="#printed">
-                           <address>
-                              <addrLine><rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)</addrLine><lb/>
-                              <addrLine>HINTERHOLZ 6</addrLine><lb/>
-                              <addrLine>N.-Ö., AUSTRIA</rs>
-                           </address>
-                        </ab>
-                     </address>   
+                     <rs type="person" ref="#amp_person_1">W.H.Auden</rs><unclear>,</unclear><lb/>
+                     <seg hand="#printed"><!-- "element "seg" not allowed anywhere" -->
+                        <address>
+                           <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                           HINTERHOLZ 6<lb/>
+                           N.-Ö., AUSTRIA</rs>
+                        </address>
+                     </seg>
                   </ab>
-            </div2>
-            <div2><!-- letter div -->
+            </div>
+            <div type="letter">
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0003/" type="letter"/>
-               <div3><!-- letter proper -->
-                  <opener>
-                     <dateLine>
+               <div type="letter_message">
+                  <opener><!-- "element "opener" not allowed anywhere" -->
+                     <dateline>
                         <date>Sunday.</date>
                         <placeName>
-                           <ab hand="#printed">
+                           <seg hand="#printed">
                               <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                               HINTERHOLZ 6<lb/>
                               N.-Ö., AUSTRIA</rs>
-                           </ab>
+                           </seg>
                         </placeName>
-                     </dateLine>
-                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/><!-- lb useful? -->
+                     </dateline>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/><!-- lb needed? -->
                   </opener>
                   <p>
                      Delighted to hear you are <rs type="place" ref="#amp_place_id_11">zu Haus</rs>.<lb/>
@@ -191,13 +190,13 @@ for any purpose, even commercially.</p>
                      I expect him back on Tuesday.<lb/><!-- lb useful? -->
                   </p>
                   <closer>
-                     <salute>love</salute><lb/><!-- lb? -->
+                     <salute>love</salute><lb/><!-- lb needed? -->
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                   </closer>
-               </div3>
+               </div>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0004/" type="letter"/>
-            </div2>
-         </div1>
+            </div>
+         </div>
       </body>
    </text>
 </TEI>
