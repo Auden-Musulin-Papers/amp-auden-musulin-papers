@@ -134,9 +134,9 @@ for any purpose, even commercially.</p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope"/>
                <ab><rs type="person" ref="#amp_person_4"><unclear>Ch</unclear>ester</rs> in <rs type="place" ref="#amp_place_id_14">Florence</rs><unclear>.</unclear></ab>
                <ab>
+                  <rs type="person" ref="#amp_person_2">Die Ba<unclear>ron</unclear>in<lb/>
+                  Stella M<unclear>eu</unclear>ss<unclear>u</unclear>lin</rs><lb/>
                   <address>
-                     <rs type="person" ref="#amp_person_2">Die Ba<unclear>ron</unclear>in<lb/>
-                     Stella M<unclear>eu</unclear>ss<unclear>u</unclear>lin</rs><lb/>
                      <rs type="place" ref="#amp_place_id_11"><del>Wien III</del><lb/>
                      <del>Neulinggasse 26</del></rs>
                   </address>   
