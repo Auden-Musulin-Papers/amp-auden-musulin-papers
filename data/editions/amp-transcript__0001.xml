@@ -136,28 +136,28 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="person" ref="#amp_person_2">Die Ba<unclear>ron</unclear>in<lb/>
                   Stella M<unclear>eu</unclear>ss<unclear>u</unclear>lin</rs><lb/>
-                  <address>
+                  <placeName>
                      <rs type="place" ref="#amp_place_id_11"><del>Wien III</del><lb/>
                      <del>Neulinggasse 26</del></rs>
-                  </address>   
+                  </placeName>   
                </ab>
                <ab>
-                  <address>
+                  <placeName>
                      <rs type="place" ref="#amp_place_id_7">Fridau,<lb/>
                      Obergrafendorf,<lb/>
                      bei ST.PÖLTEN,<lb/>
                      NÖ</rs>
-                  </address>
+                  </placeName>
                </ab>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0002/" type="envelope"/>
                   <ab>
                      <rs type="person" ref="#amp_person_1">W.H.Auden</rs><unclear>,</unclear><lb/>
                      <seg hand="#printed"><!-- "element "seg" not allowed anywhere" -->
-                        <address>
+                        <placeName>
                            <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                            HINTERHOLZ 6<lb/>
                            N.-Ö., AUSTRIA</rs>
-                        </address>
+                        </placeName>
                      </seg>
                   </ab>
             </div>
