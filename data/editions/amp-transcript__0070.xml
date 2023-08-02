@@ -125,19 +125,19 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0465/" type="envelope"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
-                  <address>
+                  <placeName>
                      <rs type="place" ref="#amp_place_id_5">Kirchst<del>t</del>etten (West Bahn)<lb/> 
                      Hinterholz # 6<lb/> 
                      N.O.</rs>
-                  </address>
+                  </placeName>
                </ab>
                <ab>
                   <space quantity="21" unit="char"/>Die <rs type="person" ref="#amp_person_2">Baronin Stella Musulin</rs><lb/>
-                  <address>
+                  <placeName>
                      <space quantity="24" unit="char"/>bei Windisch-<del>frcty</del> fracty<lb/><!-- research person (Eva Windisch-Graez) -->
                      <space quantity="30" unit="char"/><rs type="place" ref="#amp_place_id_303">WIEN VI<lb/> 
                      <space quantity="31" unit="char"/>Fillgradegasse I2</rs>
-                  </address>
+                  </placeName>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0466/" type="envelope"/>
             </div>
