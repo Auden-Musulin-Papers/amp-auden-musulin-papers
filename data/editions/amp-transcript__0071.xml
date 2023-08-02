@@ -114,37 +114,61 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription">
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0469/" type="sheet"/>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_7">A-3200 Fridau<lb/> 
-                  Obergrafendorf<lb/> 
-                  bei St. Pölten, NÖ.</rs><lb/>
-                  Telefon 0 27 47 / 311
-               </p>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_11">Neulinggasse 26/14<lb/> 
-                  A-1030 Wien</rs><lb/>
-                  Telefon 73 94 015
-               </p>
-               <p hand="#handwritten">
-                  16th April .
-               </p>
-               <p hand="#typed">
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <placeName> 
+                           <seg hand="#printed">
+                              <rs type="place" ref="#amp_place_id_7">A-3200 Fridau<lb/> 
+                              Obergrafendorf<lb/> 
+                              bei St. Pölten, NÖ.</rs><lb/>
+                              Telefon 0 27 47 / 311
+                           </seg>
+                           <seg hand="#printed">
+                              <rs type="place" ref="#amp_place_id_11">Neulinggasse 26/14<lb/> 
+                              A-1030 Wien</rs><lb/>
+                              Telefon 73 94 015
+                           </seg>
+                        </placeName>
+                        <date>
+                           <seg hand="#handwritten">
+                              16th April .
+                           </seg>
+                        </date>
+                     </dateline>
+                  </opener>
+               <salute>
                   Dear <rs type="person" ref="#amp_person_1">Wystan</rs>,<lb/>
+               </salute>
+                <p>  
                   <space quantity="5" unit="char"/>Are you there? <space unit="char" quantity="1"/>May I come across for<lb/> 
                   a cuppa? <space unit="char" quantity="1"/>I shall be at <rs type="place" ref="#amp_place_id_7">Fridau</rs> over Easter<lb/> 
-                  but am otherwise mostly in <rs type="place" ref="#amp_place_id_1">Vienna</rs>.<lb/>
+                  but am otherwise mostly in <rs type="place" ref="#amp_place_id_1">Vienna</rs>.
+                </p>
+                <p>
                   <space quantity="5" unit="char"/>Was very dashed at missing you when I<lb/> 
                   got back here at the beginning of September<lb/> 
                   and found you'd gone.
                </p>
-               <p hand="#handwritten">
-                  Love<lb/>
+              <closer>
+                 <salute>
+                    <seg hand="#handwritten">
+                      Love<lb/>
+                   </seg>
+                </salute>
+                 <signed>
+                    <seg hand="#handwritten">
                   <rs type="person" ref="#amp_person_2">Stella</rs>
-               </p>
+                    </seg>
+                 </signed>  
+              </closer>
+            </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0470/" type="sheet"/>
-               <p hand="#handwritten">50</p>
+               <ab hand="#handwritten">50</ab>
+            </div>
          </div>
       </body>
    </text>
