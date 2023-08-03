@@ -105,6 +105,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-09-29">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
+         <change who="smayer tfruehwirth" when="2023-08-03">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,49 +124,75 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription">
+            <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0035/" type="envelope"/>
-               <p>
+               <ab>
                   <hi rend="underline">Eil<unclear>·</unclear>Brief</hi>
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Ba<unclear>r</unclear>onin<lb/>
                   Stella Musulin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_11"><hi rend="underline">1030</hi> Wien <del>IV</del><lb/>
-                  Neulingasse 26</rs>
-               </p>
+                  <placeName>
+                     <rs type="place" ref="#amp_place_id_11"><hi rend="underline">1030</hi> Wien <del>IV</del><lb/>
+                     Neulingasse 26</rs>
+                  </placeName>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0036/" type="envelope"/>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
-               <p>
+               <ab hand="#printed">
+                  <placeName>
+                     <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                     HINTERHOLZ 6<lb/>
+                     N.-Ö., AUSTRIA</rs>
+                  </placeName>
+               </ab>
+               <ab>
                   A<unclear>rri</unclear>val, <rs type="person" ref="#amp_person_3">Christiane</rs>
-               </p>
+               </ab>
+            </div>
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0037/" type="sheet"/>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <placeName>
+                           <seg hand="#printed">
+                              <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                              HINTERHOLZ 6<lb/>
+                              N.-Ö., AUSTRIA</rs>
+                           </seg>   
+                        </placeName>
+                        <date>Sunday.</date>
+                     </dateline>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/></salute>
+                  </opener>
                <p>
-                  Sunday.
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   I got your telegram yesterday just before<lb/>
                   lu<unclear>n</unclear>ch. Tried twice in the afternoon and once<lb/>
-                  this morning to reach you , but umsonst.<lb/>
-                  Am off to <rs type="place" ref="#amp_place_id_239">England</rs> to-morrow, s<unclear>o</unclear> don't see how<lb/>
-                  anything can now be arranged<unclear>.</unclear><lb/>
-                  If you think these can, please write me<lb/>
-                  ℅ <rs type="org" ref="#amp_organization_5">Faber and Faber</rs>, <rs type="place" ref="#amp_place_id_44">24 Russell Square,W.C</rs><unclear>.</unclear> I<lb/>
-                  So sorry<lb/>
-                  love<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>.
+                  this morning to reach you , but umsonst.
                </p>
+               <p>   
+                  Am off to <rs type="place" ref="#amp_place_id_239">England</rs> to-morrow, s<unclear>o</unclear> don't see how<lb/>
+                  anything can now be arranged<unclear>.</unclear>
+               </p>
+               <p>   
+                  If you think these can, please write me<lb/>
+                  ℅ <rs type="org" ref="#amp_organization_5">Faber and Faber</rs>, <rs type="place" ref="#amp_place_id_44">24 Russell Square,W.C</rs><unclear>.</unclear> I
+               </p>
+               <p>
+                  So sorry
+               </p>
+               <closer>
+                  <salute>
+                     love<lb/>
+                  </salute>
+                  <signed>
+                     <rs type="person" ref="#amp_person_1">Wystan</rs>.
+                  </signed>
+               </closer>
+               </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0038/" type="sheet"/>
+            </div>
          </div>
       </body>
    </text>

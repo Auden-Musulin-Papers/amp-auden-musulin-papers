@@ -105,6 +105,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-09-28">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
+         <change who="smayer tfruehwirth" when="2023-08-03">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,58 +124,84 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription">
+            <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0027/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>:</unclear>Auden</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                  New York City<lb/>
-                  New York 10003<lb/>
-                  U.S.A</rs>
-               </p>
-               <p>
+                  <placeName>
+                     <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                     New York City<lb/>
+                     New York 10003<lb/>
+                     U.S.A</rs>
+                  </placeName>
+               </ab>
+               <ab>
                   Air-Mail
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella M<del><gap reason="deleted"/></del>usulin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_11">Vienna III<lb/>
-                  26 Neulingasse<lb/>
-                  Austria</rs>
-               </p>
-               <p>
+                  <placeName>
+                     <rs type="place" ref="#amp_place_id_11">Vienna III<lb/>
+                     26 Neulingasse<lb/>
+                     Austria</rs>
+                  </placeName>
+               </ab>
+               <ab>
                   Re arrival <rs type="event" ref="#amp_event_id_10">interview<lb/>
                   <rs type="person" ref="#amp_person_32 #amp_person_176">Strobl</rs></rs>.
-               </p>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0028/" type="envelope"/>
-               <p>
-                  52 6320<lb/>
-                  Wa<unclear>n</unclear>dl<unclear>;</unclear><lb/>
-                  <rs type="person" ref="#amp_person_177">Elizabeth</rs> <unclear>.</unclear><lb/>
-                  <rs type="place" ref="#amp_place_id_10">Austria</rs> <unclear>.</unclear>
-               </p>
+               <ab>
+                  <seg>52 6320<lb/></seg><!-- keep lb? -->
+                  <seg>
+                     Wa<unclear>n</unclear>dl<unclear>;</unclear><lb/>
+                     <rs type="person" ref="#amp_person_177">Elizabeth</rs> <unclear>.</unclear><lb/>
+                     <rs type="place" ref="#amp_place_id_10">Austria</rs> <unclear>.</unclear>
+                  </seg>
+               </ab>
+            </div>
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0029/" type="sheet"/>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <date>Feb 6th<unclear>,</unclear></date>
+                        <placeName>
+                           <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                           N.Y.C 3</rs>.
+                        </placeName>
+                     </dateline>
+                     <salute>
+                        Dear <rs type="person" ref="#amp_person_2">Stella</rs>.<lb/>
+                     </salute>
+                  </opener>
                <p>
-                  Feb 6th<unclear>,</unclear>
-               </p>
-               <p>
-                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                  N.Y.C 3</rs>.
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>.<lb/>
                   I shall be arriving in <rs type="place" ref="#amp_place_id_1">Vienna</rs> next<lb/>
                   Monday morning (12th) and staying till<lb/>
                   the 16th in order to <rs type="event" ref="#amp_event_id_10">interview a<lb/>
-                  <rs type="person" ref="#amp_person_32 #amp_person_176">prospective couple</rs></rs> to take the <rs type="person" ref="#amp_person_16 amp_person_17">Eiermanns</rs> place<unclear>.</unclear><lb/>
+                  <rs type="person" ref="#amp_person_32 #amp_person_176">prospective couple</rs></rs> to take the <rs type="person" ref="#amp_person_16 amp_person_17">Eiermanns</rs> place<unclear>.</unclear>
+               </p>
+               <p>   
                   Expect to be staying at the <rs type="place" ref="#amp_place_id_42">Hotel<lb/>
-                  <hi rend="underline">Königin von Hungarn</hi></rs><hi rend="underline"> <unclear>.</unclear></hi><lb/>
+                  <hi rend="underline">Königin von Hungarn</hi></rs><hi rend="underline"> <unclear>.</unclear></hi>
+               </p>
+               <p>
                   Will phone you. Do hope you are<lb/>
                   around<unclear>·</unclear><lb/>
-                  love<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
+               <closer>
+                  <salute>
+                     love<lb/>
+                  </salute>
+                  <signed>
+                     <rs type="person" ref="#amp_person_1">Wystan</rs>
+                  </signed>
+               </closer>
+               </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0030/" type="sheet"/>
+            </div>
          </div>
       </body>
    </text>

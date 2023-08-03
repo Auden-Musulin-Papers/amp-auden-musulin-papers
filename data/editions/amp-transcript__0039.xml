@@ -220,7 +220,7 @@ for any purpose, even commercially.</p>
                <div type="letter_message" hand="#handwritten">
                   <opener>
                      <dateline>
-                        <date>Wednesday . </date><placeName><rs type="place" ref="#amp_place_id_5">Kirch<unclear>s</unclear>t<unclear>e</unclear>tten</rs></placeName>
+                        <date rend="inline">Wednesday . </date><placeName rend="inline"><rs type="place" ref="#amp_place_id_5">Kirch<unclear>s</unclear>t<unclear>e</unclear>tten</rs></placeName>
                      </dateline>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
                   </opener>

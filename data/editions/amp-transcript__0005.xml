@@ -105,6 +105,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-09-27">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
+         <change who="smayer tfruehwirth" when="2023-08-03">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,58 +124,84 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription">
+            <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0023/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                  New York City<lb/>
-                  New York 10003<lb/>
-                  U.<unclear>S.</unclear>A</rs>
-               </p>
-               <p>
+                  <placeName>
+                     <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                     New York City<lb/>
+                     New York 10003<lb/>
+                     U.<unclear>S.</unclear>A</rs>
+                  </placeName>
+               </ab>
+               <ab>
                   Ai<hi rend="underline">r-M</hi>ail
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="event" ref="#amp_event_id_1">Death of<rs type="person" ref="#amp_person_16">Emma Eiermann</rs></rs> .
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
-                  <del><gap reason="deleted"/></del> Neulingasse 26<lb/>
-                  Au<hi rend="underline">st</hi>ria</rs>
-               </p>
+                  <placeName>
+                     <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
+                     <del><gap reason="deleted"/></del> Neulingasse 26<lb/>
+                     Au<hi rend="underline">st</hi>ria</rs>
+                  </placeName>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0024/" type="envelope"/>
+            </div>
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0025/" type="sheet"/>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <placeName>
+                           <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                           New York City<lb/>
+                           New York 10003</rs>
+                        </placeName>
+                        <date>Nov 8th</date>
+                     </dateline>
+                     <salute>
+                        Dear <rs type="person" ref="#amp_person_2">Stella</rs>.<lb/>
+                     </salute>
+                  </opener>
                <p>
-                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                  New York City<lb/>
-                  New York 10003</rs>
-               </p>
-               <p>
-                  Nov 8th
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>.<lb/>
                   A disaster has ha<unclear>p</unclear>pened. <rs type="event" ref="#amp_event_id_1"><rs type="person" ref="#amp_person_16">Frau Eiermann</rs><lb/>
                   died of a heart-attack on Nov 4th</rs>.<lb/>
-                  (Ha<unclear>v</unclear> just hea<unclear>r</unclear>d this from <rs type="person" ref="#amp_person_14">my lawyer</rs>.)<unclear>.</unclear><lb/>
+                  (Ha<unclear>v</unclear> just hea<unclear>r</unclear>d this from <rs type="person" ref="#amp_person_14">my lawyer</rs>.)<unclear>.</unclear>
+               </p>
+               <p>   
                   A minor worry connected with this is what<lb/>
                   is happening to her cats and <rs type="person" ref="#amp_person_1 #amp_person_4">ours</rs>. I suppose<lb/>
-                  they will probably have to be destroyed.<lb/>
+                  they will probably have to be destroyed.
+               </p>
+               <p>
                   Next time you are travelling between <rs type="place" ref="#amp_place_id_7">Fridau</rs><lb/>
                   and <rs type="place" ref="#amp_place_id_1">Wien</rs> , could you be a dear and stop<lb/>
                   in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> to see what is happening.<lb/>
                   Incedentally, in case you should need it my lawyers<lb/>
                   name and address is <rs type="person" ref="#amp_person_14">Dr Walter Redlich</rs>. <rs type="place" ref="#amp_place_id_38">Wien I.<lb/>
-                  Wipplingerstrasse<unclear>,</unclear> 24-26</rs>.<lb/>
-                  <rs type="event" ref="#amp_event_id_6">Canterbury</rs> was quite <unclear>f</unclear>un. The <rs type="person" ref="#amp_person_15">Archbishop</rs> came<lb/>
-                  to <rs type="event" ref="#amp_event_id_9">my first lecture</rs>.<lb/>
-                  love<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>
+                  Wipplingerstrasse<unclear>,</unclear> 24-26</rs>.
                </p>
+               <p>   
+                  <rs type="event" ref="#amp_event_id_6">Canterbury</rs> was quite <unclear>f</unclear>un. The <rs type="person" ref="#amp_person_15">Archbishop</rs> came<lb/>
+                  to <rs type="event" ref="#amp_event_id_9">my first lecture</rs>.
+               </p>
+               <closer>
+                  <salute>
+                     love<lb/>
+                  </salute>
+                  <signed>
+                     <rs type="person" ref="#amp_person_1">Wystan</rs>
+                  </signed>
+               </closer>
+               </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0026/" type="sheet"/>
+            </div>
          </div>
       </body>
    </text>

@@ -105,6 +105,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-09-22">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-08-03">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,26 +124,28 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
-          <div type="envelope">
+         <div type="transcription" xml:id="transcription">
+            <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0015/" type="envelope"/>
                <ab>
                   <hi rend="underline">Eil-Post</hi>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2"><unclear>D</unclear>ie Baronin<lb/>
                   Stella Musulin</rs><lb/>
+                  <placeName>
+                     <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
+                     Neu<unclear>l</unclear>ingg<unclear>a</unclear>sse 26</rs> .
+                  </placeName>
                </ab>
-             <placeName>
-                  <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
-                  Neu<unclear>l</unclear>ingg<unclear>a</unclear>sse 26</rs> .
-             </placeName>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0016/" type="envelope"/>
                <ab hand="#printed">
                   <rs type="person" ref="#amp_person_1">W. H. AUDEN</rs><lb/>
-                  <address>  
+                  <placeName>  
                     <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                     HINTERHOLZ 6<lb/>
-                    N.-Ö., AUSTRIA</rs>
-                  </address> 
+                    <hi rend="underline">N.-Ö., AUSTRIA</hi></rs>
+                  </placeName> 
                </ab>
                <ab>
                   <unclear>1·</unclear> Buch <rs type="place" ref="#amp_place_id_11">Ne<unclear>u</unclear>linggasse<lb/>
@@ -164,27 +167,30 @@ for any purpose, even commercially.</p>
                   2<unclear>6</unclear>/
                </ab>   
             </div>
-         </div>
-         <div type="letter">
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0017/" type="sheet"/>
-          <div type="letter_message">
-               <opener>
-                  <dateline>
-                     <date>Mittwoch</date>
-                     <seg hand="#printed"><rs type="person" ref="#amp_person_1">W. H. AUDEN</rs></seg>
-                     <placeName>
-                        <seg>
-                           <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
-                           HINTERHOLZ 6<lb/>
-                           N.-Ö., AUSTRIA</rs>
-                        </seg>
-                     </placeName>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <date>Mittwoch</date>
+                        <placeName>
+                           <seg hand="#printed">
+                              <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                              HINTERHOLZ 6<lb/>
+                              N.-Ö., AUSTRIA</rs>
+                           </seg>
+                        </placeName>
                   </dateline>
+                  <persName>
+                     <seg hand="#printed">
+                        <rs type="person" ref="#amp_person_1">W. H. AUDEN</rs>
+                     </seg>
+                  </persName>
                   <salute>
                      Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   </salute>
                </opener>
-                  <p>
+               <p>
                   Many thanks for your letter. Shall be delighted to<lb/>
                   see <rs type="person" ref="#amp_person_2 #amp_person_179">you both</rs> anyday any time. I can't get<lb/>
                   to <rs type="place" ref="#amp_place_id_1">Vienna</rs> this week. Will you be there next<lb/>
@@ -192,29 +198,29 @@ for any purpose, even commercially.</p>
                   <rs type="place" ref="#amp_place_id_27">Amerika Haus</rs> 6-8. If you were free,it<lb/>
                   woul<unclear>d</unclear> be fun t<unclear>o</unclear> have dinner to-gether. I<lb/>
                   certainly shan't stay at the do after <unclear>7</unclear>·30.
-                  </p>
-                  <p>
+               </p>
+               <p>
                   I ag<unclear>re</unclear>e about the cutting. Will keep it till<lb/>
                   you come or bring it with me next week.
-                  </p>
-             <closure>
-                <salute>
-                   love<lb/>
-                </salute>
-                <signed>
-                   <rs type="person" ref="#amp_person_1">Wystan</rs>
-                </signed>   
-             </closure>
-          </div>
-            <div type="enclosure">
-               <label> P.S. </label>
-               <p>
-                  The <rs type="org" ref="#amp_organization_41">N.D.R</rs> arri<unclear>ve</unclear>d. <rs type="lit_work" ref="#lit_work_id_89">Translation</rs> quite good,<lb/>
-                  but <hi rend="underline">why</hi> turn <hi rend="underline">bars</hi> into <hi rend="underline">Theke</hi>?
                </p>
+               <closer>
+                 <salute>
+                    love<lb/>
+                 </salute>
+                 <signed>
+                    <rs type="person" ref="#amp_person_1">Wystan</rs>
+                 </signed>   
+               </closer>
+               <postscript>
+                  <p>
+                     P.S. The <rs type="org" ref="#amp_organization_41">N.D.R</rs> arri<unclear>ve</unclear>d. <rs type="lit_work" ref="#lit_work_id_89">Translation</rs> quite good,<lb/>
+                     but <hi rend="underline">why</hi> turn <hi rend="underline">bars</hi> into <hi rend="underline">Theke</hi>?
+                  </p>
+               </postscript>
             </div>   
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0018/" type="sheet"/>
-         </div> 
+         </div>
+         </div>
       </body>
    </text>
 </TEI>
