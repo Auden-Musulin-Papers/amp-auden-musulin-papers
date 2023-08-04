@@ -105,6 +105,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-10-05">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
+         <change who="smayer tfruehwirth" when="2023-08-04">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,45 +124,69 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription">
+            <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0047/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="person" ref="#amp_person_1">WH Auden</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                  New York City<lb/>
-                  N.Y. 10003<lb/>
-                  U.S.A<unclear>.</unclear></rs>
-               </p>
-               <p>
+                  <placeName>
+                     <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                     New York City<lb/>
+                     N.Y. 10003<lb/>
+                     U.S.A<unclear>.</unclear></rs>
+                  </placeName>
+               </ab>
+               <ab>
                   A<hi rend="underline">ir-Mail</hi>
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_11">Wien A-1030<lb/>
-                  Neulinggasse 26/14<lb/>
-                  Austria</rs>
-               </p>
+                  <placeName>
+                     <rs type="place" ref="#amp_place_id_11">Wien A-1030<lb/>
+                     Neulinggasse 26/14<lb/>
+                     Austria</rs>
+                  </placeName>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0048/" type="envelope"/>
+            </div>
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0049/" type="sheet"/>
-               <p>
-                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                  N.Y.C.<lb/>
-                  N.Y. 1003</rs>
-               </p>
-               <p>
-                  Nov 6 th .
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
-                  Many thanks for your letter. Of course,<lb/>
-                  selfishly, I'm rather reli<unclear><del>v</del></unclear>eved. How horrid<lb/>
-                  one is !<lb/>
-                  The <rs type="place" ref="#amp_place_id_15">U.S.</rs> is grim.<lb/>
-                  love<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>.</unclear>
-               </p>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <placeName>
+                           <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                            N.Y.C.<lb/>
+                            N.Y. 1003</rs>
+                        </placeName>
+                        <date rend="block">
+                           Nov 6 th .
+                        </date>
+                     </dateline>
+                     <salute>
+                        Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+                     </salute>
+                  </opener>
+                  <p>
+                     Many thanks for your letter. Of course,<lb/>
+                     selfishly, I'm rather reli<unclear><del>v</del></unclear>eved. How horrid<lb/>
+                     one is !
+                  </p>
+                  <p>
+                     The <rs type="place" ref="#amp_place_id_15">U.S.</rs> is grim.
+                  </p>
+                  <closer>
+                     <salute>
+                        love<lb/>
+                     </salute>
+                     <signed>
+                        <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>.</unclear>
+                     </signed>
+                  </closer>
+               </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0050/" type="sheet"/>
+            </div>
          </div>
       </body>
    </text>
