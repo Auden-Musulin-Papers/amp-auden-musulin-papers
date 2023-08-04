@@ -167,7 +167,7 @@ for any purpose, even commercially.</p>
                               OXFORD</rs>.
                            </seg>
                         </placeName>
-                        <date>Oct 12 th</date>
+                        <date rend="block">Oct 12 th</date>
                      </dateline>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>.</unclear><lb/></salute>
                   </opener>

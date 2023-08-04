@@ -161,7 +161,7 @@ for any purpose, even commercially.</p>
                         New <space quantity="1" unit="char"/>York City 3<lb/>
                         New York IOOO3</rs>
                      </placeName>
-                     <date>
+                     <date rend="block">
                         Feb 3rd,I96<del>5</del>6
                      </date>
                   </dateline>

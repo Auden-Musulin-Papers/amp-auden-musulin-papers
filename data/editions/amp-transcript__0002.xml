@@ -174,7 +174,7 @@ for any purpose, even commercially.</p>
                            <rs type="place" ref="#amp_place_id_19">Berlin<unclear>.</unclear>Dahlem<lb/>
                            Hubertusbaderstrasse 43</rs>
                         </placeName>
-                        <date>Dec 23rd</date>
+                        <date rend="block">Dec 23rd</date>
                      </dateline>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/></salute>
                   </opener>

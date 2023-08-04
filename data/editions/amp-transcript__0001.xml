@@ -166,7 +166,7 @@ for any purpose, even commercially.</p>
                <div type="letter_message">
                   <opener><!-- "element "opener" not allowed anywhere" -->
                      <dateline>
-                        <date>Sunday.</date>
+                        <date rend="block">Sunday.</date>
                         <placeName>
                            <seg hand="#printed">
                               <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>

@@ -163,7 +163,7 @@ for any purpose, even commercially.</p>
                            New York City<lb/>
                            New York 10003</rs>
                         </placeName>
-                        <date>Nov 8th</date>
+                        <date rend="block">Nov 8th</date>
                      </dateline>
                      <salute>
                         Dear <rs type="person" ref="#amp_person_2">Stella</rs>.<lb/>

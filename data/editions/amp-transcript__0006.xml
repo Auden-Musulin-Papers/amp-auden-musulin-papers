@@ -167,7 +167,7 @@ for any purpose, even commercially.</p>
                <div type="letter_message">
                   <opener>
                      <dateline>
-                        <date>Feb 6th<unclear>,</unclear></date>
+                        <date rend="block">Feb 6th<unclear>,</unclear></date>
                         <placeName>
                            <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                            N.Y.C 3</rs>.

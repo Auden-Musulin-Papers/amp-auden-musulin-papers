@@ -172,7 +172,7 @@ for any purpose, even commercially.</p>
                <div type="letter_message">
                   <opener>
                      <dateline>
-                        <date>Mittwoch</date>
+                        <date rend="block">Mittwoch</date>
                         <placeName>
                            <seg hand="#printed">
                               <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>

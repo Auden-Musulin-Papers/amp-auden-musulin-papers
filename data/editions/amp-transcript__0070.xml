@@ -151,7 +151,7 @@ for any purpose, even commercially.</p>
                            Hinterholz # 6<lb/> 
                            N.O.</rs>
                         </placeName>
-                        <date><space quantity="38" unit="char"/>Samstag</date>
+                        <date rend="block"><space quantity="38" unit="char"/>Samstag</date>
                      </dateline>
                      <salute>
                         <space quantity="15" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:<lb/>
