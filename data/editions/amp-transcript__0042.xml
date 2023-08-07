@@ -105,6 +105,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-11-09">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-28">entities and correspDesc collated</change>
+         <change who="smayer tfruehwirth" when="2023-08-07">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,54 +124,78 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription">
+            <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0033/" type="envelope"/>
-               <p hand="#handwritten">
+               <ab hand="#handwritten">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   S<del><unclear>e</unclear></del>tella Musulin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_11"><del>1040</del> Wien <del>IV</del><lb/>
-                  Neulingasse 26</rs>
-               </p>
+                  <placeName>
+                     <rs type="place" ref="#amp_place_id_11"><del>1040</del> Wien <del>IV</del><lb/>
+                     Neulingasse 26</rs>
+                  </placeName>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0034/" type="envelope"/>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
+               <ab hand="#printed">
+                  <placeName>
+                     <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                     HINTERHOLZ 6<lb/>
+                     N.-Ö., AUSTRIA</rs>
+                  </placeName>
+               </ab>
+            </div>
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0103/" type="sheet"/>
-               <p>
-                  <space quantity="7" unit="char"/><rs type="lit_work" ref="#lit_work_id_88"><hi rend="underline">AUGUST I<del>(</del>968</hi></rs>
-               </p>
-               <lg>
-                  <l>The ogre does what ogres can,</l>
-                  <l>Deeds quite impossible for man,</l>
-                  <l>but one prize is beyond his reach:</l>
-                  <l>The ogre cannot master Speech.</l>
-                  <l>About a subjugated plain,</l>
-                  <l>Among its desperate and slain,</l>
-                  <l>The ogre stalks with hands on hips,</l>
-                  <l>While drivel gushes from his lips.</l>
-               </lg>
-               <p>
-                  <space quantity="9" unit="char"/>___
-               </p>
-               <p hand="#handwritten">
-                  Dear <rs type="person" ref="#amp_person_2">Stell<unclear>a</unclear></rs>,<lb/>
-                  Terribly sorry about <unclear>l</unclear>ast Sunday.<lb/>
-                  Since I had no idea whe<unclear>n</unclear> we should be<lb/>
-                  a<unclear>b</unclear>le to get to you, I tho<unclear>u</unclear>g<unclear>ht</unclear> it was unfair<lb/>
-                  to t<unclear>he</unclear> kitchen not to cancel.<lb/>
-                  Ha<unclear>ve</unclear> a ni<unclear>c</unclear>e <unclear>win</unclear>ter and <unclear>wi</unclear>ll see you, I hop<unclear>e</unclear>,<lb/>
-                  early in Apr<unclear>il</unclear><lb/>
-                  love<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>
-               </p>
+               <div type="poem">
+                  <head>
+                     <space quantity="7" unit="char"/><rs type="lit_work" ref="#lit_work_id_88"><hi rend="underline">AUGUST I<del>(</del>968</hi></rs>
+                  </head>
+                  <lg>
+                     <lb/><l>The ogre does what ogres can,</l>
+                     <lb/><l>Deeds quite impossible for man,</l>
+                     <lb/><l>but one prize is beyond his reach:</l>
+                     <lb/><l>The ogre cannot master Speech.</l>
+                     <lb/><l>About a subjugated plain,</l>
+                     <lb/><l>Among its desperate and slain,</l>
+                     <lb/><l>The ogre stalks with hands on hips,</l>
+                     <lb/><l>While drivel gushes from his lips.</l>
+                  </lg>
+                  <ab>
+                     <space quantity="9" unit="char"/>___
+                  </ab>
+               </div>
+               <div type="letter_message" hand="#handwritten">
+                  <opener>
+                     <salute>
+                        Dear <rs type="person" ref="#amp_person_2">Stell<unclear>a</unclear></rs>,<lb/>
+                     </salute>
+                  </opener>
+                  <p>
+                     Terribly sorry about <unclear>l</unclear>ast Sunday.<lb/>
+                     Since I had no idea whe<unclear>n</unclear> we should be<lb/>
+                     a<unclear>b</unclear>le to get to you, I tho<unclear>u</unclear>g<unclear>ht</unclear> it was unfair<lb/>
+                     to t<unclear>he</unclear> kitchen not to cancel.
+                  </p>
+                  <p>
+                     Ha<unclear>ve</unclear> a ni<unclear>c</unclear>e <unclear>win</unclear>ter and <unclear>wi</unclear>ll see you, I hop<unclear>e</unclear>,<lb/>
+                     early in Apr<unclear>il</unclear>
+                  </p>
+                  <closer>
+                     <salute>
+                        love<lb/>
+                     </salute>
+                     <signed>
+                        <rs type="person" ref="#amp_person_1">Wystan</rs>
+                     </signed>
+                  </closer>
+               </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0104/" type="sheet"/>
-               <p>
+               <div type="poem">
+               <head>
                   <space quantity="4" unit="char"/><rs type="lit_work" ref="#lit_work_id_58"><hi rend="underline">ELEGY</hi><lb/>
                   (<hi rend="underline">In Memoriam <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></hi>. <del>ob</del><lb/>
                   <space quantity="1" unit="char"/><hi rend="underline">ob.Nov 4th,I967)</hi></rs>
-               </p>
+               </head>
                <cb n="1"/>
                <lg>
                   <l><hi rend="underline">Liebe <rs type="person" ref="#amp_person_16">Frau Emma</rs></hi>,</l>
