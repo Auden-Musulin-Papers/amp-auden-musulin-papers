@@ -110,6 +110,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-12-21">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-27">entities and correspDesc collated</change>
+         <change who="smayer tfruehwirth" when="2023-08-07">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -140,210 +141,232 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription">
+            <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0011/" type="envelope"/>
-               <p hand="#handwritten">
+               <ab hand="#handwritten">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   S<unclear>t</unclear>ella Musulin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_7"><del>Fridau</del><lb/>
-                  <del>Obergrabe<unclear>m</unclear>d<unclear>o</unclear>r<unclear>f</unclear></del><lb/>
-                  <del>b<unclear>e</unclear>i S. Pölten</del><lb/>
-                  <del>N.Ö</del></rs><lb/>
-                  <rs type="place" ref="#amp_place_id_10">Osterreich</rs>
-               </p>
-               <p hand="#handwritten">
-                  <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
-                  Neuling<unclear>g</unclear>. 2<unclear>6</unclear>/1<unclear>4</unclear></rs>
-               </p>
+                  <placeName>
+                     <rs type="place" ref="#amp_place_id_7"><del>Fridau</del><lb/>
+                     <del>Obergrabe<unclear>m</unclear>d<unclear>o</unclear>r<unclear>f</unclear></del><lb/>
+                     <del>b<unclear>e</unclear>i S. Pölten</del><lb/>
+                     <del>N.Ö</del></rs><lb/>
+                     <rs type="place" ref="#amp_place_id_10">Osterreich</rs>
+                  </placeName>
+               </ab>
+               <ab hand="#handwritten">
+                  <placeName>
+                     <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
+                     Neuling<unclear>g</unclear>. 2<unclear>6</unclear>/1<unclear>4</unclear></rs>
+                  </placeName>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0012/" type="envelope"/>
-               <p hand="#handwritten">
+               <ab hand="#handwritten">
                   <rs type="person" ref="#amp_person_1">W.H. Auden</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_19">Berlin-Dahlem<lb/>
-                  Hubertusbaderstrasse <unclear>4</unclear>3<lb/>
-                  Germany</rs>
-               </p>
+                  <placeName>
+                     <rs type="place" ref="#amp_place_id_19">Berlin-Dahlem<lb/>
+                     Hubertusbaderstrasse <unclear>4</unclear>3<lb/>
+                     Germany</rs>
+                  </placeName>
+               </ab>
+            </div>
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0133/" type="sheet"/>
-               <p>
-                  <space quantity="5" unit="char"/><rs type="lit_work" ref="#lit_work_id_61"><hi rend="underline"><rs type="person" ref="#amp_person_5">JOSEPH WEINHEBER</rs></hi><lb/>
-                  <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
-               </p>
-               <lg>
-                  <l>Reachi<del>j</del>ng my gate a narrow</l>
-                  <l>Lane from the village</l>
-                  <l>Passes on into a wood:</l>
-                  <l>When I walk that way</l>
-                  <l>It seems becoming to stop</l>
-                  <l>And look through the fence</l>
-                  <l>Of your garden where(under</l>
-                  <l>The circs they had to)</l>
-                  <l>They buried you like a loved</l>
-                  <l>Old family dog.</l>
-               </lg>   
-               <lg>   
-                  <l>Categorised enemies</l>
-                  <l>Twenty years ago,</l>
-                  <l>Now next-door neighbors,we might</l>
-                  <l>Have become good friends,</l>
-                  <l>Sharing a common ambit</l>
-                  <l>And love of the word,</l>
-                  <l>Over a golden Kremser</l>
-                  <l>Had many a long</l>
-                  <l>Language on syntax,commas,</l>
-                  <l>Versification.</l>
-               </lg>   
-               <lg>   
-                  <l>Yes,yes,it has to be said:</l>
-                  <l>Men of great damage</l>
-                  <l>And malengine took you up.</l>
-                  <l>Did they,though,ever</l>
-                  <l>Take you in,who to <rs type="person" ref="#amp_person_196">Goebbels</rs>'</l>
-                  <l>Offer of culture</l>
-                  <l>Countered <hi rend="underline">In Ruah lassen!</hi>?</l>
-                  <l>But the crowd prefers</l>
-                  <l>A nasty stink and the young</l>
-                  <l>Condemn you unread.</l>
-               </lg>   
-               <lg>   
-                  <l>What,had you ever heard of</l>
-                  <l><rs type="person" ref="#amp_person_7">Franz J<unclear>ä</unclear>gerst<unclear>ä</unclear>tter</rs>,</l>
-                  <l>The <rs type="place" ref="#amp_place_id_22">St.Radegund</rs> peasant</l>
-                  <l>Who said his lonely</l>
-                  <l><hi rend="underline">Nein</hi> to the Aryan State</l>
-                  <l>And was beheaded,</l>
-                  <l>Would your heart,as Austrian,</l>
-                  <l>As poet,have told you?</l>
-                  <l>Good care,of course,was taken</l>
-                  <l>You should hear nothing,</l>
-               </lg>   
-               <lg>   
-                  <l>Be unprepared for a day</l>
-                  <l>That was bound to come,</l>
-                  <l>A season of dread and tears</l>
-                  <l>And dishevelment</l>
-                  <l>When,transfixed by a nightmare,</l>
-                  <l>You destroyed yourself.</l>
-                  <l>Retribution was ever</l>
-                  <l>A bungler at it:</l>
-                  <l><hi rend="underline">Dies alles ist furchtbar,hier</hi></l>
-                  <l><hi rend="underline">Nur Schweigen gem<unclear>ä</unclear>ss</hi>.(I)</l> 
-               </lg>  
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0134/" type="sheet"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0135/" type="sheet"/>
-               <p>
-                  <space quantity="39" unit="char"/>(2
-               </p>
-               <lg>
-                  <l>Unmarked by me,unmourned for,</l>
-                  <l>The hour of your death,</l>
-                  <l>Unhailed by you the moment</l>
-                  <l>When,providence-led,</l>
-                  <l>I first beheld <rs type='place' ref="#amp_place_id_5">Kirchstetten</rs></l>
-                  <l>On a pouring wet</l>
-                  <l>October day in a year</l>
-                  <l>That changed our Cosmos,</l>
-                  <l>The annus mirabilis</l>
-                  <l>When Parity fell.</l>
-               </lg>
-               <lg>
-                  <l>Already the realms that lost</l>
-                  <l>Were properly warm</l>
-                  <l>And over-eating,their crimes</l>
-                  <l>The pedestrian</l>
-                  <l>Private sort,those nuisances,</l>
-                  <l>Corpses and rubble,</l>
-                  <l>Lon<del>f</del>g carted away: for their raped</l>
-                  <l>The shock was fading,</l>
-                  <l>Their kidnapped physicists felt</l>
-                  <l>No longer homesick.</l>
-               </lg>
-               <lg>
-                  <l>To-day we smile at weddings</l>
-                  <l>Where bride and bridegroom</l>
-                  <l>Were both born since the Shadow</l>
-                  <l>Lifted,or rather</l>
-                  <l>Moved elsewhere. Never as yet</l>
-                  <l>Has Earth been without</l>
-                  <l>Her bad patch,some unplace with</l>
-                  <l>Jobs for torturers</l>
-                  <l>(In what bars are they welcome?</l>
-                  <l>What girls marry them?),</l>
-               </lg>
-               <lg>   
-                  <l>Or her nutritive surface</l>
-                  <l>At peace all over.</l>
-                  <l>No one,so far as we know,</l>
-                  <l>Has ever been safe,</l>
-                  <l>And so in secret regions</l>
-                  <l>Good family men</l>
-                  <l>Keep eye,devoted as monks,</l>
-                  <l>On apparatus</l>
-                  <l>Inside which harmless matter</l>
-                  <l>Turns homicidal.</l>
-               </lg>
-               <lg>
-                  <l>Here,though,I feel as at home</l>
-                  <l>As you did: the same</l>
-                  <l>Short-lived creatures re-utter</l>
-                  <l>The same care-free songs,</l>
-                  <l>Orchards cling to the regime</l>
-                  <l>They know,from April's</l>
-                  <l>Rapid augment of color</l>
-                  <l>Till boisterous Fall</l>
-                  <l>When at each stammering gust</l>
-                  <l>Apples thump the ground.</l>
-               </lg>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0136/" type="sheet"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0137/" type="sheet"/>
-               <p>
-                  <space quantity="53" unit="char"/>(3
-               </p>
-               <lg>
-                  <l><space quantity="15" unit="char"/>Looking across <del>u</del>our valley</l>
-                  <l><space quantity="15" unit="char"/>Where,hidden from view,</l>
-                  <l><space quantity="15" unit="char"/><rs type="place" ref="#amp_place_id_252">Sichelbach</rs> tottles westward</l>
-                  <l><space quantity="15" unit="char"/>To join the <rs type="place" ref="#amp_place_id_251">Perschling</rs>,</l>
-                  <l><space quantity="15" unit="char"/>Humanely modest in scale</l>
-                  <l><space quantity="15" unit="char"/>And mild in contour,</l>
-                  <l><space quantity="15" unit="char"/>Conscious of grander neighbors</l>
-                  <l><space quantity="15" unit="char"/>To bow to,mountains</l>
-                  <l><space quantity="15" unit="char"/>Soaring behind me,ahead</l>
-                  <l><space quantity="15" unit="char"/>A noble river,</l>
-               </lg>
-               <lg>
-                  <l><space quantity="15" unit="char"/>I would respect you also,</l>
-                  <l><space quantity="15" unit="char"/>Neighbor and colleague,</l>
-                  <l><space quantity="15" unit="char"/>For even my English ear</l>
-                  <l><space quantity="15" unit="char"/>Gets in your German</l>
-                  <l><space quantity="15" unit="char"/>The workmanship and the note</l>
-                  <l><space quantity="15" unit="char"/>Of one who was graced</l>
-                  <l><space quantity="15" unit="char"/>To hear the viols playing</l>
-                  <l><space quantity="15" unit="char"/>On the impaled green,</l>
-                  <l><space quantity="15" unit="char"/>Committed thereafter <hi rend="underline">den</hi></l>
-                  <l><space quantity="15" unit="char"/><hi rend="underline">Abgrund zu nennen</hi>.(2)</l>
-               </lg>
-                <p>
-                  <space quantity="23" unit="char"/>___<lb/>
-                  <del>N</del> <space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_1">W<del>8</del></rs><unclear>'</unclear>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.<lb/>
-                  <space quantity="3" unit="char"/>2) Quotation from <rs type="person" ref="#amp_person_1">W</rs>'s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_41">Kammermusik</rs></hi>.<lb/>
-                  <space quantity="24" unit="char"/>__
-               </p>
-               <p>
-                  <space quantity="9" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
-                  <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> is intending to have a <rs type="event" ref="#amp_event_id_49">cer<del>o</del>emony in memory of the twentieth<lb/>
-                  <space quantity="1" unit="char"/>anniversary of <rs type="event" ref="#amp_event_id_50"><rs type="person" ref="#amp_person_5">Weinheber</rs>'<del>w</del>s <space quantity="1" unit="char"/>death</rs></rs>. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
-                  <space quantity="1" unit="char"/><hi rend="underline">Gemeindepflicht.</hi>
-               </p>
-               <p>
-                  <space quantity="17" unit="char"/>love<lb/>
-               </p>
-               <p hand="#handwritten">
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>.<!-- markup handwriting -->
-               </p>
-               <p hand="#handwritten">
-                  P.S. Expect to return <rs type="place" ref="#amp_place_id_5">K</rs> April 22nd. Do hope you<lb/>
-                  wil<unclear>l</unclear> be <rs type="place" ref="#amp_place_id_10">around</rs><unclear>.</unclear>
-               </p>
+               <div type="poem">
+                  <head>
+                     <space quantity="5" unit="char"/><rs type="lit_work" ref="#lit_work_id_61"><hi rend="underline"><rs type="person" ref="#amp_person_5">JOSEPH WEINHEBER</rs></hi><lb/>
+                     <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
+                  </head>
+                  <lg>
+                     <lb/><l>Reachi<del>j</del>ng my gate a narrow</l>
+                     <lb/><l>Lane from the village</l>
+                     <lb/><l>Passes on into a wood:</l>
+                     <lb/><l>When I walk that way</l>
+                     <lb/><l>It seems becoming to stop</l>
+                     <lb/><l>And look through the fence</l>
+                     <lb/><l>Of your garden where(under</l>
+                     <lb/><l>The circs they had to)</l>
+                     <lb/><l>They buried you like a loved</l>
+                     <lb/><l>Old family dog.</l>
+                  </lg>   
+                  <lg>   
+                     <lb/><l>Categorised enemies</l>
+                     <lb/><l>Twenty years ago,</l>
+                     <lb/><l>Now next-door neighbors,we might</l>
+                     <lb/><l>Have become good friends,</l>
+                     <lb/><l>Sharing a common ambit</l>
+                     <lb/><l>And love of the word,</l>
+                     <lb/><l>Over a golden Kremser</l>
+                     <lb/><l>Had many a long</l>
+                     <lb/><l>Language on syntax,commas,</l>
+                     <lb/><l>Versification.</l>
+                  </lg>   
+                  <lg>   
+                     <lb/><l>Yes,yes,it has to be said:</l>
+                     <lb/><l>Men of great damage</l>
+                     <lb/><l>And malengine took you up.</l>
+                     <lb/><l>Did they,though,ever</l>
+                     <lb/><l>Take you in,who to <rs type="person" ref="#amp_person_196">Goebbels</rs>'</l>
+                     <lb/><l>Offer of culture</l>
+                     <lb/><l>Countered <hi rend="underline">In Ruah lassen!</hi>?</l>
+                     <lb/><l>But the crowd prefers</l>
+                     <lb/><l>A nasty stink and the young</l>
+                     <lb/><l>Condemn you unread.</l>
+                  </lg>   
+                  <lg>   
+                     <lb/><l>What,had you ever heard of</l>
+                     <lb/><l><rs type="person" ref="#amp_person_7">Franz J<unclear>ä</unclear>gerst<unclear>ä</unclear>tter</rs>,</l>
+                     <lb/><l>The <rs type="place" ref="#amp_place_id_22">St.Radegund</rs> peasant</l>
+                     <lb/><l>Who said his lonely</l>
+                     <lb/><l><hi rend="underline">Nein</hi> to the Aryan State</l>
+                     <lb/><l>And was beheaded,</l>
+                     <lb/><l>Would your heart,as Austrian,</l>
+                     <lb/><l>As poet,have told you?</l>
+                     <lb/><l>Good care,of course,was taken</l>
+                     <lb/><l>You should hear nothing,</l>
+                  </lg>   
+                  <lg>   
+                     <lb/><l>Be unprepared for a day</l>
+                     <lb/><l>That was bound to come,</l>
+                     <lb/><l>A season of dread and tears</l>
+                     <lb/><l>And dishevelment</l>
+                     <lb/><l>When,transfixed by a nightmare,</l>
+                     <lb/><l>You destroyed yourself.</l>
+                     <lb/><l>Retribution was ever</l>
+                     <lb/><l>A bungler at it:</l>
+                     <lb/><l><hi rend="underline">Dies alles ist furchtbar,hier</hi></l>
+                     <lb/><l><hi rend="underline">Nur Schweigen gem<unclear>ä</unclear>ss</hi>.(I)</l> 
+                  </lg>  
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0134/" type="sheet"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0135/" type="sheet"/>
+                  <ab>
+                     <space quantity="39" unit="char"/>(2
+                  </ab>
+                  <lg>
+                     <lb/><l>Unmarked by me,unmourned for,</l>
+                     <lb/><l>The hour of your death,</l>
+                     <lb/><l>Unhailed by you the moment</l>
+                     <lb/><l>When,providence-led,</l>
+                     <lb/><l>I first beheld <rs type='place' ref="#amp_place_id_5">Kirchstetten</rs></l>
+                     <lb/><l>On a pouring wet</l>
+                     <lb/><l>October day in a year</l>
+                     <lb/><l>That changed our Cosmos,</l>
+                     <lb/><l>The annus mirabilis</l>
+                     <lb/><l>When Parity fell.</l>
+                  </lg>
+                  <lg>
+                     <lb/><l>Already the realms that lost</l>
+                     <lb/><l>Were properly warm</l>
+                     <lb/><l>And over-eating,their crimes</l>
+                     <lb/><l>The pedestrian</l>
+                     <lb/><l>Private sort,those nuisances,</l>
+                     <lb/><l>Corpses and rubble,</l>
+                     <lb/><l>Lon<del>f</del>g carted away: for their raped</l>
+                     <lb/><l>The shock was fading,</l>
+                     <lb/><l>Their kidnapped physicists felt</l>
+                     <lb/><l>No longer homesick.</l>
+                  </lg>
+                  <lg>
+                     <lb/><l>To-day we smile at weddings</l>
+                     <lb/><l>Where bride and bridegroom</l>
+                     <lb/><l>Were both born since the Shadow</l>
+                     <lb/><l>Lifted,or rather</l>
+                     <lb/><l>Moved elsewhere. Never as yet</l>
+                     <lb/><l>Has Earth been without</l>
+                     <lb/><l>Her bad patch,some unplace with</l>
+                     <lb/><l>Jobs for torturers</l>
+                     <lb/><l>(In what bars are they welcome?</l>
+                     <lb/><l>What girls marry them?),</l>
+                  </lg>
+                  <lg>   
+                     <lb/><l>Or her nutritive surface</l>
+                     <lb/><l>At peace all over.</l>
+                     <lb/><l>No one,so far as we know,</l>
+                     <lb/><l>Has ever been safe,</l>
+                     <lb/><l>And so in secret regions</l>
+                     <lb/><l>Good family men</l>
+                     <lb/><l>Keep eye,devoted as monks,</l>
+                     <lb/><l>On apparatus</l>
+                     <lb/><l>Inside which harmless matter</l>
+                     <lb/><l>Turns homicidal.</l>
+                  </lg>
+                  <lg>
+                     <lb/><l>Here,though,I feel as at home</l>
+                     <lb/><l>As you did: the same</l>
+                     <lb/><l>Short-lived creatures re-utter</l>
+                     <lb/><l>The same care-free songs,</l>
+                     <lb/><l>Orchards cling to the regime</l>
+                     <lb/><l>They know,from April's</l>
+                     <lb/><l>Rapid augment of color</l>
+                     <lb/><l>Till boisterous Fall</l>
+                     <lb/><l>When at each stammering gust</l>
+                     <lb/><l>Apples thump the ground.</l>
+                  </lg>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0136/" type="sheet"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0137/" type="sheet"/>
+                  <ab>
+                     <space quantity="53" unit="char"/>(3
+                  </ab>
+                  <lg>
+                     <lb/><space quantity="15" unit="char"/><l>Looking across <del>u</del>our valley</l>
+                     <lb/><space quantity="15" unit="char"/><l>Where,hidden from view,</l>
+                     <lb/><space quantity="15" unit="char"/><l><rs type="place" ref="#amp_place_id_252">Sichelbach</rs> tottles westward</l>
+                     <lb/><space quantity="15" unit="char"/><l>To join the <rs type="place" ref="#amp_place_id_251">Perschling</rs>,</l>
+                     <lb/><space quantity="15" unit="char"/><l>Humanely modest in scale</l>
+                     <lb/><space quantity="15" unit="char"/><l>And mild in contour,</l>
+                     <lb/><space quantity="15" unit="char"/><l>Conscious of grander neighbors</l>
+                     <lb/><space quantity="15" unit="char"/><l>To bow to,mountains</l>
+                     <lb/><space quantity="15" unit="char"/><l>Soaring behind me,ahead</l>
+                     <lb/><space quantity="15" unit="char"/><l>A noble river,</l>
+                  </lg>
+                  <lg>
+                     <lb/><space quantity="15" unit="char"/><l>I would respect you also,</l>
+                     <lb/><space quantity="15" unit="char"/><l>Neighbor and colleague,</l>
+                     <lb/><space quantity="15" unit="char"/><l>For even my English ear</l>
+                     <lb/><space quantity="15" unit="char"/><l>Gets in your German</l>
+                     <lb/><space quantity="15" unit="char"/><l>The workmanship and the note</l>
+                     <lb/><space quantity="15" unit="char"/><l>Of one who was graced</l>
+                     <lb/><space quantity="15" unit="char"/><l>To hear the viols playing</l>
+                     <lb/><space quantity="15" unit="char"/><l>On the impaled green,</l>
+                     <lb/><space quantity="15" unit="char"/><l>Committed thereafter <hi rend="underline">den</hi></l>
+                     <lb/><space quantity="15" unit="char"/><l><hi rend="underline">Abgrund zu nennen</hi>.(2)</l>
+                  </lg>
+                  <ab>
+                     <space quantity="23" unit="char"/>___<lb/>
+                     <del>N</del> <space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_1">W<del>8</del></rs><unclear>'</unclear>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.<lb/>
+                     <space quantity="3" unit="char"/>2) Quotation from <rs type="person" ref="#amp_person_1">W</rs>'s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_41">Kammermusik</rs></hi>.<lb/>
+                     <space quantity="24" unit="char"/>__
+                  </ab>
+               </div>
+               <div type="letter_message">
+                  <opener>
+                     <salute>
+                        <space quantity="9" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+                     </salute>
+                  </opener>
+                  <p>
+                     <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> is intending to have a <rs type="event" ref="#amp_event_id_49">cer<del>o</del>emony in memory of the twentieth<lb/>
+                     <space quantity="1" unit="char"/>anniversary of <rs type="event" ref="#amp_event_id_50"><rs type="person" ref="#amp_person_5">Weinheber</rs>'<del>w</del>s <space quantity="1" unit="char"/>death</rs></rs>. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
+                     <space quantity="1" unit="char"/><hi rend="underline">Gemeindepflicht.</hi>
+                  </p>
+                  <closer>
+                     <salute>
+                        <space quantity="17" unit="char"/>love<lb/>
+                     </salute>
+                     <signed hand="#handwritten">
+                        <rs type="person" ref="#amp_person_1">Wystan</rs>.
+                     </signed>
+                  </closer>
+                  <postscript hand="#handwritten">
+                     <p>
+                        P.S. Expect to return <rs type="place" ref="#amp_place_id_5">K</rs> April 22nd. Do hope you<lb/>
+                        wil<unclear>l</unclear> be <rs type="place" ref="#amp_place_id_10">around</rs><unclear>.</unclear>
+                     </p>
+                  </postscript>
+               </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0138/" type="sheet"/>
+            </div>
          </div>
       </body>
    </text>
