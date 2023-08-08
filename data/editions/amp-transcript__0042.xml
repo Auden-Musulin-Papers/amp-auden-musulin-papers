@@ -124,51 +124,51 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div type="transcription" xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0042">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0033/" type="envelope"/>
                <ab hand="#handwritten">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   S<del><unclear>e</unclear></del>tella Musulin</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_11"><del>1040</del> Wien <del>IV</del><lb/>
                      Neulingasse 26</rs>
-                  </placeName>
+                  </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0034/" type="envelope"/>
                <ab hand="#printed">
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
                      HINTERHOLZ 6<lb/>
                      N.-Ö., AUSTRIA</rs>
-                  </placeName>
+                  </address>
                </ab>
             </div>
             <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0103/" type="sheet"/>
                <div type="poem">
                   <head>
-                     <space quantity="7" unit="char"/><rs type="lit_work" ref="#lit_work_id_88"><hi rend="underline">AUGUST I<del>(</del>968</hi></rs>
+                     <space extent="undefined quantity of characters plus minimum" min="7" unit="char"/><rs type="lit_work" ref="#lit_work_id_88"><hi rend="underline">AUGUST I<del>(</del>968</hi></rs>
                   </head>
                   <lg>
-                     <lb/><l>The ogre does what ogres can,</l>
-                     <lb/><l>Deeds quite impossible for man,</l>
-                     <lb/><l>but one prize is beyond his reach:</l>
-                     <lb/><l>The ogre cannot master Speech.</l>
-                     <lb/><l>About a subjugated plain,</l>
-                     <lb/><l>Among its desperate and slain,</l>
-                     <lb/><l>The ogre stalks with hands on hips,</l>
-                     <lb/><l>While drivel gushes from his lips.</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>The ogre does what ogres can,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Deeds quite impossible for man,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>but one prize is beyond his reach:</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>The ogre cannot master Speech.</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>About a subjugated plain,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Among its desperate and slain,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>The ogre stalks with hands on hips,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>While drivel gushes from his lips.</l>
                   </lg>
                   <ab>
-                     <space quantity="9" unit="char"/>___
+                     <space extent="undefined quantity of characters plus minimum" min="9" unit="char"/>___
                   </ab>
                </div>
                <div type="letter_message" hand="#handwritten">
                   <opener>
                      <salute>
-                        Dear <rs type="person" ref="#amp_person_2">Stell<unclear>a</unclear></rs>,<lb/>
-                     </salute>
+                        Dear <rs type="person" ref="#amp_person_2">Stell<unclear>a</unclear></rs>,
+                     </salute><lb/>
                   </opener>
                   <p>
                      Terribly sorry about <unclear>l</unclear>ast Sunday.<lb/>
@@ -182,8 +182,8 @@ for any purpose, even commercially.</p>
                   </p>
                   <closer>
                      <salute>
-                        love<lb/>
-                     </salute>
+                        love
+                     </salute><lb/>
                      <signed>
                         <rs type="person" ref="#amp_person_1">Wystan</rs>
                      </signed>
@@ -269,35 +269,35 @@ for any purpose, even commercially.</p>
                   </lg>
                   <cb n="2"/>
                   <lg>
-                     <lb/><l>in peasant German</l>
-                     <lb/><l>at startled Americans</l>
-                     <lb/><l>who had meant no harm,</l>
-                     <lb/><l>and,after they'd gone,for days</l>
-                     <lb/><l>you would treat us to the sulks.</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>in peasant German</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>at startled Americans</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>who had meant no harm,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>and,after they'd gone,for days</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>you would treat us to the sulks.</l>
                   </lg>
                   <lg>
-                     <lb/><l>But when in good form,</l>
-                     <lb/><l>how enchanting your shy grin,</l>
-                     <lb/><l>your soft cat-language:</l>
-                     <lb/><l>no,no,<rs type="person" ref="#amp_person_16">Frau E</rs>,dear oddling,</l>
-                     <lb/><l>we shall always be grateful.</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>But when in good form,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>how enchanting your shy grin,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>your soft cat-language:</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>no,no,<rs type="person" ref="#amp_person_16">Frau E</rs>,dear oddling,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>we shall always be grateful.</l>
                   </lg>
                   <lg>
-                     <lb/><l><rs type="event" ref="#amp_event_id_51">After <rs type="person" ref="#amp_person_17">Josef</rs> died</rs></l>
-                     <lb/><l>(siblings can live in a bond</l>
-                     <lb/><l>as close as wedlock),</l>
-                     <lb/><l>you were all amort,your one</l>
-                     <lb/><l>wish to rejoin him quickly.</l>
+                     <lb/><space extent="undefined quantity of characters"/><l><rs type="event" ref="#amp_event_id_51">After <rs type="person" ref="#amp_person_17">Josef</rs> died</rs></l>
+                     <lb/><space extent="undefined quantity of characters"/><l>(siblings can live in a bond</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>as close as wedlock),</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>you were all amort,your one</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>wish to rejoin him quickly.</l>
                   </lg>
                   <lg>
-                     <lb/><l>You have,and we're left</l>
-                     <lb/><l>with ten years to consider,</l>
-                     <lb/><l>astonished at how</l>
-                     <lb/><l>vivid they are to recall:</l>
-                     <lb/><l><hi rend="underline">Du Gute,schlaf in Ruhe</hi>.</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>You have,and we're left</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>with ten years to consider,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>astonished at how</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>vivid they are to recall:</l>
+                     <lb/><space extent="undefined quantity of characters"/><l><hi rend="underline">Du Gute,schlaf in Ruhe</hi>.</l>
                   </lg>
                   <ab>
-                     <space quantity="8" unit="char"/>___
+                     <space extent="undefined quantity of characters plus minimum" min="8" unit="char"/>___
                   </ab>
                </div>
             </div>

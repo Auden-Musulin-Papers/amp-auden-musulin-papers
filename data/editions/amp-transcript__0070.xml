@@ -120,24 +120,24 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div type="transcription" xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0070">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0465/" type="envelope"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_5">Kirchst<del>t</del>etten (West Bahn)<lb/> 
                      Hinterholz # 6<lb/> 
                      N.O.</rs>
-                  </placeName>
+                  </address>
                </ab>
                <ab>
                   <space quantity="21" unit="char"/>Die <rs type="person" ref="#amp_person_2">Baronin Stella Musulin</rs><lb/>
-                  <placeName>
+                  <address>
                      <space quantity="24" unit="char"/>bei Windisch-<del>frcty</del> fracty<lb/><!-- research person (Eva Windisch-Graez) -->
                      <space quantity="30" unit="char"/><rs type="place" ref="#amp_place_id_303">WIEN VI<lb/> 
                      <space quantity="31" unit="char"/>Fillgradegasse I2</rs>
-                  </placeName>
+                  </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0466/" type="envelope"/>
             </div>
@@ -147,15 +147,17 @@ for any purpose, even commercially.</p>
                   <opener>
                      <dateline>
                         <placeName>
-                           <rs type="place" ref="#amp_place_id_5">Kirchstetten(West Bah<del>h</del>n)<lb/> 
-                           Hinterholz # 6<lb/> 
-                           N.O.</rs>
+                           <address>
+                              <rs type="place" ref="#amp_place_id_5">Kirchstetten(West Bah<del>h</del>n)<lb/> 
+                              Hinterholz # 6<lb/> 
+                              N.O.</rs>
+                           </address>
                         </placeName>
-                        <date rend="block"><space quantity="38" unit="char"/>Samstag</date>
+                        <date rend="#block"><space quantity="38" unit="char"/>Samstag</date>
                      </dateline>
                      <salute>
-                        <space quantity="15" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:<lb/>
-                     </salute>
+                        <space quantity="15" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:
+                     </salute><lb/>
                   </opener>
                   <p>
                      <space quantity="6" unit="char"/>Many thanks for your letter of Oct <del>%</del>5th which I have only just<lb/>  
@@ -168,7 +170,7 @@ for any purpose, even commercially.</p>
                   <closer>
                      <salute>
                         <space quantity="12" unit="char"/>Yours sincerely
-                     </salute>
+                     </salute><lb/>
                      <signed>
                         <seg hand="#handwritten">
                            <rs type="person" ref="#amp_person_1">W.H. Auden</rs><lb/>

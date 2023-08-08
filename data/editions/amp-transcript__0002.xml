@@ -129,7 +129,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0002">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0007/" type="envelope"/>
                <ab>
@@ -141,28 +141,28 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_7"><del>Fridau</del><lb/>
                      <del>Obergrafendorf</del><lb/>
                      <del>bei<unclear>.</unclear> S. Pölten</del><lb/>
                      <del>NÖ</del></rs><lb/>
                      <rs type="place" ref="#amp_place_id_10">Osterreich</rs>
-                  </placeName>
+                  </address>
                </ab>
                <ab>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_11">Wien IV<lb/>
                      Neulinggasse 26/14</rs>
-                  </placeName>
+                  </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0008/" type="envelope"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">W H Auden</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_19">Berlin<unclear>-</unclear>Dahlem<lb/>
                      Hubertusbaderstrasse 43<lb/>
-                     Deut<unclear>s</unclear>c<unclear>h</unclear>land</rs><unclear>·</unclear>
-                  </placeName>
+                     Deut<unclear>s</unclear>c<unclear>h</unclear>land<unclear>·</unclear></rs>
+                  </address>
                </ab>
             </div>
             <div type="letter">
@@ -171,12 +171,14 @@ for any purpose, even commercially.</p>
                   <opener>
                      <dateline>
                         <placeName>
-                           <rs type="place" ref="#amp_place_id_19">Berlin<unclear>.</unclear>Dahlem<lb/>
-                           Hubertusbaderstrasse 43</rs>
+                           <address>
+                              <rs type="place" ref="#amp_place_id_19">Berlin<unclear>.</unclear>Dahlem<lb/>
+                              Hubertusbaderstrasse 43</rs>
+                           </address>
                         </placeName>
-                        <date rend="block">Dec 23rd</date>
+                        <date rend="#block">Dec 23rd</date>
                      </dateline>
-                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/></salute>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
                   </opener>
                   <p>
                      It <hi rend="underline">was</hi> sweet of you to think of me at<lb/>
@@ -205,7 +207,7 @@ for any purpose, even commercially.</p>
                      <del>Have you ever met one<unclear>?</unclear></del> To what pubs do they go?
                   </p>
                   <closer>
-                     <salute>much love and best wishes for 1<unclear>9</unclear>65<lb/></salute>
+                     <salute>much love and best wishes for 1<unclear>9</unclear>65</salute><lb/>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                   </closer>
                </div>

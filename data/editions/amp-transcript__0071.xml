@@ -115,34 +115,38 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div type="transcription" xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0071">
             <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0469/" type="sheet"/>
                <div type="letter_message">
                   <opener>
                      <dateline>
-                        <placeName> 
+                        <placeName>
                            <seg hand="#printed">
-                              <rs type="place" ref="#amp_place_id_7">A-3200 Fridau<lb/> 
-                              Obergrafendorf<lb/> 
-                              bei St. Pölten, NÖ.</rs><lb/>
-                              Telefon 0 27 47 / 311
+                              <address>
+                                 <rs type="place" ref="#amp_place_id_7">A-3200 Fridau<lb/> 
+                                 Obergrafendorf<lb/> 
+                                 bei St. Pölten, NÖ.</rs><lb/>
+                                 <addrLine>Telefon 0 27 47 / 311</addrLine>
+                              </address>
                            </seg>
                            <seg hand="#printed">
-                              <rs type="place" ref="#amp_place_id_11">Neulinggasse 26/14<lb/> 
-                              A-1030 Wien</rs><lb/>
-                              Telefon 73 94 015<lb/>
+                              <address>
+                                 <rs type="place" ref="#amp_place_id_11">Neulinggasse 26/14<lb/> 
+                                 A-1030 Wien</rs><lb/>
+                                 <addrLine>Telefon 73 94 015</addrLine><lb/>
+                              </address>
                            </seg>
                         </placeName>
-                        <date rend="block">
+                        <date rend="#block">
                            <seg hand="#handwritten">
                               16th April .
                            </seg>
                         </date>
                      </dateline>
                      <salute>
-                        Dear <rs type="person" ref="#amp_person_1">Wystan</rs>,<lb/>
-                     </salute>
+                        Dear <rs type="person" ref="#amp_person_1">Wystan</rs>,
+                     </salute><lb/>
                   </opener>
                   <p>  
                      <space quantity="5" unit="char"/>Are you there? <space unit="char" quantity="1"/>May I come across for<lb/> 
@@ -156,8 +160,8 @@ for any purpose, even commercially.</p>
                   </p>
                   <closer hand="#handwritten">
                      <salute>
-                         Love<lb/>
-                     </salute>
+                         Love
+                     </salute><lb/>
                      <signed>
                         <rs type="person" ref="#amp_person_2">Stella</rs>
                      </signed>  

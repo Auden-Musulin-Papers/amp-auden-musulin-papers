@@ -126,7 +126,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0008">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0039/" type="envelope"/>
                <ab>
@@ -139,21 +139,21 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="person" ref="#amp_person_2">Die Baroninin<lb/>
                   Stella Musulin</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_11"><del>Vi</del> Wien I<del>V</del>II<lb/>
                      Neulinggasse 26<lb/>
                      Au<hi rend="underline">str</hi>ia</rs>
-                  </placeName>
+                  </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0040/" type="envelope"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">WH<unclear>_</unclear>Auden</rs><lb/>
                   ℅ <rs type="person" ref="#amp_person_19">Heyworth</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_45">32 Bryanston Sq<unclear>u</unclear>are<lb/>
                      London. <del><unclear>N.,</unclear></del> W.I<lb/>
                      England</rs>
-                  </placeName>
+                  </address>
                </ab>
             </div>
             <div type="letter">
@@ -167,9 +167,9 @@ for any purpose, even commercially.</p>
                               OXFORD</rs>.
                            </seg>
                         </placeName>
-                        <date rend="block">Oct 12 th</date>
+                        <date rend="#block">Oct 12 th</date>
                      </dateline>
-                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>.</unclear><lb/></salute>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>.</unclear></salute><lb/>
                   </opener>
                <p>
                   Like an idiot<unclear>,</unclear> <rs type="event" ref="#amp_event_id_11">I<unclear>v</unclear>e<del><gap reason="deleted"/></del> gone and<lb/>
@@ -194,7 +194,7 @@ for any purpose, even commercially.</p>
                   So sorry to be such a nuisance.
                </p>
                <closer>
-                  <salute>love<lb/></salute>
+                  <salute>love</salute><lb/>
                   <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                </closer>
                </div>

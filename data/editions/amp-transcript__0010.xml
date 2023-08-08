@@ -124,17 +124,17 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0010">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0047/" type="envelope"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">WH Auden</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                      New York City<lb/>
                      N.Y. 10003<lb/>
                      U.S.A<unclear>.</unclear></rs>
-                  </placeName>
+                  </address>
                </ab>
                <ab>
                   A<hi rend="underline">ir-Mail</hi>
@@ -142,11 +142,11 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_11">Wien A-1030<lb/>
                      Neulinggasse 26/14<lb/>
                      Austria</rs>
-                  </placeName>
+                  </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0048/" type="envelope"/>
             </div>
@@ -156,17 +156,19 @@ for any purpose, even commercially.</p>
                   <opener>
                      <dateline>
                         <placeName>
-                           <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                            N.Y.C.<lb/>
-                            N.Y. 1003</rs>
+                           <address>
+                              <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                              N.Y.C.<lb/>
+                              N.Y. 1003</rs>
+                           </address>
                         </placeName>
-                        <date rend="block">
+                        <date rend="#block">
                            Nov 6 th .
                         </date>
                      </dateline>
                      <salute>
-                        Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
-                     </salute>
+                        Dear <rs type="person" ref="#amp_person_2">Stella</rs>:
+                     </salute><lb/>
                   </opener>
                   <p>
                      Many thanks for your letter. Of course,<lb/>
@@ -178,8 +180,8 @@ for any purpose, even commercially.</p>
                   </p>
                   <closer>
                      <salute>
-                        love<lb/>
-                     </salute>
+                        love
+                     </salute><lb/>
                      <signed>
                         <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>.</unclear>
                      </signed>

@@ -124,7 +124,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0013">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0059/" type="envelope"/>    
                <ab>
@@ -132,12 +132,12 @@ for any purpose, even commercially.</p>
                </ab>
                <ab>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H.Auden</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                      New York City<lb/>
                      New Yo<unclear>r</unclear>k 10003<lb/>
                      U.S<unclear>,</unclear>A.</rs>
-                  </placeName>
+                  </address>
                </ab>
                <ab>
                   <rs type="person" ref="#amp_person_23">Boras</rs>
@@ -145,16 +145,16 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella M<unclear>u</unclear>sulin</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_11">Wien <del>IV</del><lb/>
                      Neulinggasse 2<unclear>6</unclear>/14<lb/>
                      Austria<unclear>,</unclear></rs>
-                  </placeName>
+                  </address>
                </ab>
                <ab>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_156">1030</rs>
-                  </placeName>
+                  </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0060/" type="envelope"/>
             </div>
@@ -164,18 +164,20 @@ for any purpose, even commercially.</p>
                   <opener>
                      <dateline>
                         <placeName>
-                           <rs type="place" ref="#amp_place_id_29"><unclear>7</unclear>7 St Mark's Place<lb/>
-                           New York City<lb/>
-                           New Y<unclear>or</unclear>k 10003<lb/>
-                           U.S.A.</rs>
+                           <address>
+                              <rs type="place" ref="#amp_place_id_29"><unclear>7</unclear>7 St Mark's Place<lb/>
+                              New York City<lb/>
+                              New Y<unclear>or</unclear>k 10003<lb/>
+                              U.S.A.</rs>
+                           </address>
                         </placeName>
-                        <date rend="block">
+                        <date rend="#block">
                            Jan 4th
                         </date>
                      </dateline>
                      <salute>
-                        Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
-                     </salute>
+                        Dear <rs type="person" ref="#amp_person_2">Stella</rs>:
+                     </salute><lb/>
                   </opener>
                   <p>
                      Many thanks for your letter. I gather<lb/>
@@ -210,7 +212,7 @@ for any purpose, even commercially.</p>
                   <closer>
                      <salute>
                         love
-                     </salute>
+                     </salute><!-- inline with signed -->
                      <signed>
                         <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>-·</unclear>
                      </signed>

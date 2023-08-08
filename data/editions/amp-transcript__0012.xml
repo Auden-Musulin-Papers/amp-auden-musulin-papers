@@ -124,17 +124,17 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0012">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0055/" type="envelope"/>
                <ab hand="#typed">
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                      New York City<lb/>
                      New York IOOO3<lb/>
                      U.S.A.</rs>
-                  </placeName>
+                  </address>
                </ab>
                <ab hand="#typed">
                   Air-Mail
@@ -142,11 +142,11 @@ for any purpose, even commercially.</p>
                <ab hand="#typed">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_11">Wien <del>IV</del>III<lb/>
                      Neulinggasse 26/I4<lb/>
                      Austria</rs>
-                  </placeName>
+                  </address>
                </ab>
                <ab>
                   <gap reason="illegible"/> <unclear>-</unclear><rs type="person" ref="#amp_person_23">B<unclear>ora</unclear>s</rs>
@@ -159,17 +159,19 @@ for any purpose, even commercially.</p>
                   <opener>
                      <dateline>
                         <placeName>
-                           <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                           New York City<lb/>
-                           New York 10003</rs>
+                           <address>
+                              <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                              New York City<lb/>
+                              New York 10003</rs>
+                           </address>
                         </placeName>
-                        <date rend="block">
+                        <date rend="#block">
                            Dec 29th
                         </date>
                      </dateline>
                      <salute>
-                        Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
-                     </salute>
+                        Dear <rs type="person" ref="#amp_person_2">Stella</rs>:
+                     </salute><lb/>
                   </opener>
                   <p>
                      I am in despair. I wrote to <rs type="person" ref="#amp_person_">my lawyer</rs><lb/>
@@ -190,8 +192,8 @@ for any purpose, even commercially.</p>
                   </p>
                   <closer>
                      <salute>
-                        love<lb/>
-                     </salute>
+                        love
+                     </salute><lb/>
                      <signed>
                         <rs type="person" ref="#amp_person_1">Wystan</rs> .
                      </signed>

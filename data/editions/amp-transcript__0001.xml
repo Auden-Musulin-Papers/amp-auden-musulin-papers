@@ -129,35 +129,35 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0001">
             <div type="envelope"><!-- "element "div" missing required attribute "xml:id"" -->
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope"/>
                <ab><rs type="person" ref="#amp_person_4"><unclear>Ch</unclear>ester</rs> in <rs type="place" ref="#amp_place_id_14">Florence</rs><unclear>.</unclear></ab>
                <ab>
                   <rs type="person" ref="#amp_person_2">Die Ba<unclear>ron</unclear>in<lb/>
                   Stella M<unclear>eu</unclear>ss<unclear>u</unclear>lin</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_11"><del>Wien III</del><lb/>
                      <del>Neulinggasse 26</del></rs>
-                  </placeName>   
+                  </address>   
                </ab>
                <ab>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_7">Fridau,<lb/>
                      Obergrafendorf,<lb/>
                      bei ST.PÖLTEN,<lb/>
                      NÖ</rs>
-                  </placeName>
+                  </address>
                </ab>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0002/" type="envelope"/>
                   <ab>
                      <rs type="person" ref="#amp_person_1">W.H.Auden</rs><unclear>,</unclear><lb/>
                      <seg hand="#printed"><!-- "element "seg" not allowed anywhere" -->
-                        <placeName>
+                        <address>
                            <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                            HINTERHOLZ 6<lb/>
                            N.-Ö., AUSTRIA</rs>
-                        </placeName>
+                        </address>
                      </seg>
                   </ab>
             </div>
@@ -166,12 +166,14 @@ for any purpose, even commercially.</p>
                <div type="letter_message">
                   <opener><!-- "element "opener" not allowed anywhere" -->
                      <dateline>
-                        <date rend="block">Sunday.</date>
+                        <date rend="#block">Sunday.</date>
                         <placeName>
                            <seg hand="#printed">
-                              <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
-                              HINTERHOLZ 6<lb/>
-                              N.-Ö., AUSTRIA</rs>
+                              <address>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                                 HINTERHOLZ 6<lb/>
+                                 N.-Ö., AUSTRIA</rs>
+                              </address>
                            </seg>
                         </placeName>
                      </dateline>

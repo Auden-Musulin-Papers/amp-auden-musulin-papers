@@ -124,17 +124,17 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0011">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0051/" type="envelope"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">WH.Auden</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                      New York City<lb/>
                      New York 10003<lb/>
                      U.S.A<unclear>.</unclear></rs>
-                  </placeName>
+                  </address>
                </ab>
                <ab>
                   <hi rend="underline">Air-Mail</hi>
@@ -145,16 +145,16 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_11">Wien <del>IV .</del><lb/>
                      Neulin<unclear>g</unclear>gasse 26/14<lb/>
                      Austria</rs>
-                  </placeName>
+                  </address>
                </ab>
                <ab>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_156">1030</rs>
-                  </placeName>
+                  </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0052/" type="envelope"/>
             </div>
@@ -163,19 +163,21 @@ for any purpose, even commercially.</p>
                <div type="letter_message">
                   <opener>
                      <dateline>
-                        <date rend="block">
+                        <date rend="#block">
                            Dec 13th <unclear>'</unclear>
                         </date>
                         <placeName>
-                           <rs type="place" ref="#amp_place_id_29">7 St Mark's Place<lb/>
-                           New York City<lb/>
-                           N.Y. 10003</rs><lb/>
-                           <del><gap reason="deleted"/></del>
+                           <address>
+                              <rs type="place" ref="#amp_place_id_29">7 St Mark's Place<lb/>
+                              New York City<lb/>
+                              N.Y. 10003</rs><lb/>
+                              <del><gap reason="deleted"/></del>
+                           </address>
                         </placeName>
                      </dateline>
                      <salute>
-                        Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
-                     </salute>
+                        Dear <rs type="person" ref="#amp_person_2">Stella</rs>:
+                     </salute><lb/>
                   </opener>
                   <p>
                      <rs type="person" ref="#amp_person_4">Chester</rs> has just telephoned me from <rs type="place" ref="#amp_place_id_13">Athens</rs> to say<lb/>
@@ -197,8 +199,8 @@ for any purpose, even commercially.</p>
                   </p>
                   <closer>
                      <salute>
-                        love<lb/>
-                     </salute>
+                        love
+                     </salute><lb/>
                      <signed>
                         <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>,</unclear>
                      </signed>

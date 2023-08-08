@@ -124,17 +124,17 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div type="transcription" xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0004">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0019/" type="envelope"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                      New York City 3<lb/>
                      New York IOOO3<lb/>
                      U.S.A.</rs>
-                  </placeName>
+                  </address>
                </ab>
                <ab>
                   <hi rend="underline">Air-Mail</hi>
@@ -142,12 +142,12 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   <space quantity="3" unit="char"/>Stella Musulin</rs><lb/>
-                  <placeName>
+                  <address>
                      <space quantity="5" unit="char"/><rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                      <space quantity="6" unit="char"/>32<del>o</del>OO Obergrafendorf<lb/>
                      <space quantity="8" unit="char"/>N.<unclear>Ö</unclear>.<lb/>
                      <space quantity="9" unit="char"/>Austria</rs>
-                  </placeName>
+                  </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0020/" type="envelope"/>
             </div>
@@ -157,24 +157,26 @@ for any purpose, even commercially.</p>
                <opener>
                   <dateline>
                      <placeName>
-                        <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                        New <space quantity="1" unit="char"/>York City 3<lb/>
-                        New York IOOO3</rs>
+                        <address>
+                           <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                           New <space quantity="1" unit="char"/>York City 3<lb/>
+                           New York IOOO3</rs>
+                        </address>
                      </placeName>
-                     <date rend="block">
+                     <date rend="#block">
                         Feb 3rd,I96<del>5</del>6
                      </date>
                   </dateline>
                   <salute>
-                     <space quantity="19" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
-                  </salute>
+                     <space quantity="19" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:
+                  </salute><lb/>
                </opener>
                <p>
                   <space quantity="7" unit="char"/>Many thanks for your nice long letter. <rs type="person" ref="#amp_person_8">Stephen</rs> has a genius for<lb/>
                   <space quantity="4" unit="char"/>subtle misrepresentation. "Serious insistence on unseriousness'<lb/>
                   <space quantity="4" unit="char"/>telescopes two <del>cnvictuons</del>distinct convictions of mine,falsifying both.
                </p>
-               <div>
+               <div type="section">
                   <p>
                      <space quantity="5" unit="char"/>I) I believe it to be a serious moral error when an artist overestimates<lb/>
                      <space quantity="8" unit="char"/>the importance of art and,by implication,of himself. One must admit<lb/>
@@ -183,7 +185,7 @@ for any purpose, even commercially.</p>
                      <space quantity="8" unit="char"/><rs type="person" ref="#amp_person_13">Mo<del>x</del>zart</rs>,et al,had never existed.
                   </p>
                </div>
-               <div>
+               <div type="section">
                   <p>   
                      <space quantity="4" unit="char"/>2) I believe that the only way in which,to-day at any rate,one can<lb/>
                      <space quantity="7" unit="char"/>speak <del>seroiu</del> <del>s eriously</del> <hi rend="underline">seriously</hi> about serious matters(the alternati<del>c</del>ve<lb/>
@@ -221,8 +223,8 @@ for any purpose, even commercially.</p>
                </p>
                <closer>
                   <salute>
-                     <space quantity="21" unit="char"/>much love <handShift new="#handwritten"/>and <unclear>g</unclear>reetings to <rs type="person" ref="#amp_person_94">son</rs> and <rs type="person" ref="#amp_person_93">mum-in-law</rs><lb/>
-                  </salute>
+                     <space quantity="21" unit="char"/>much love <handShift new="#handwritten"/>and <unclear>g</unclear>reetings to <rs type="person" ref="#amp_person_94">son</rs> and <rs type="person" ref="#amp_person_93">mum-in-law</rs>
+                  </salute><lb/>
                   <signed hand="#handwritten">
                      <rs type="person" ref="#amp_person_1">Wystan</rs>.
                   </signed>
