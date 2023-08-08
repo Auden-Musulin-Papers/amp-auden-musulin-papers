@@ -252,7 +252,7 @@
                   <valItem ident="http://www.tei-c.org/ns/1.0"/>
                 </valList>
               </attDef>
-              <attDef ident="xml:id" mode="change" usage="opt"/>
+              <attDef ident="xml:id" mode="change" usage="opt"/>              
               <attDef ident="type" mode="change" usage="req">
                 <valList type="closed" mode="replace">
                   <valItem ident="envelope"/>
