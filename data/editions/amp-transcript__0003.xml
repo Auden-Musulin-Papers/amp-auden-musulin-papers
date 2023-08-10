@@ -124,7 +124,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0003">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0015/" type="envelope"/>
                <ab>
@@ -133,19 +133,19 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="person" ref="#amp_person_2"><unclear>D</unclear>ie Baronin<lb/>
                   Stella Musulin</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
                      Neu<unclear>l</unclear>ingg<unclear>a</unclear>sse 26</rs> .
-                  </placeName>
+                  </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0016/" type="envelope"/>
                <ab hand="#printed">
                   <rs type="person" ref="#amp_person_1">W. H. AUDEN</rs><lb/>
-                  <placeName>  
+                  <address>  
                     <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                     HINTERHOLZ 6<lb/>
                     <hi rend="underline">N.-Ö., AUSTRIA</hi></rs>
-                  </placeName> 
+                  </address> 
                </ab>
                <ab>
                   <unclear>1·</unclear> Buch <rs type="place" ref="#amp_place_id_11">Ne<unclear>u</unclear>linggasse<lb/>
@@ -172,12 +172,14 @@ for any purpose, even commercially.</p>
                <div type="letter_message">
                   <opener>
                      <dateline>
-                        <date rend="block">Mittwoch</date>
+                        <date rend="#block">Mittwoch</date>
                         <placeName>
                            <seg hand="#printed">
-                              <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
-                              HINTERHOLZ 6<lb/>
-                              N.-Ö., AUSTRIA</rs>
+                              <address>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                                 HINTERHOLZ 6<lb/>
+                                 N.-Ö., AUSTRIA</rs>
+                              </address>
                            </seg>
                         </placeName>
                   </dateline>
@@ -187,8 +189,8 @@ for any purpose, even commercially.</p>
                      </seg>
                   </persName>
                   <salute>
-                     Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
-                  </salute>
+                     Dear <rs type="person" ref="#amp_person_2">Stella</rs>:
+                  </salute><lb/>
                </opener>
                <p>
                   Many thanks for your letter. Shall be delighted to<lb/>
@@ -205,8 +207,8 @@ for any purpose, even commercially.</p>
                </p>
                <closer>
                  <salute>
-                    love<lb/>
-                 </salute>
+                    love
+                 </salute><lb/>
                  <signed>
                     <rs type="person" ref="#amp_person_1">Wystan</rs>
                  </signed>   

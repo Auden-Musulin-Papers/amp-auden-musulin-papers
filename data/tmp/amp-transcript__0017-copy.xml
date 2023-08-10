@@ -1,9 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0007.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0017.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-06</title>
+            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1971-06-04</title>
             <author>Auden, W. H.</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -44,7 +44,7 @@ for any purpose, even commercially.</p>
                </licence>
                <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
             </availability>
-         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C30C-9</idno></publicationStmt>
+         <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C316-D</idno></publicationStmt>
          <seriesStmt>
             <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
          </seriesStmt>
@@ -57,10 +57,10 @@ for any purpose, even commercially.</p>
                         <settlement>St. Pölten</settlement>
                         <repository>State Collections of Lower Austria</repository>
                         <collection>Stella Musulin (Depot)</collection>
-                        <idno>1, 18</idno>
+                        <idno>1, 30</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1968-10-06" notAfter="1968-10-06">1968-10-06</origDate></origin>
+                        <origin><origDate notBefore="1971-06-04" notAfter="1971-06-04">1971-06-04</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -77,12 +77,12 @@ for any purpose, even commercially.</p>
             <correspAction type="composed">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
                <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
-               <date notBefore="1968-10-06" notAfter="1968-10-06">1968-10-06</date>
+               <date notBefore="1971-06-04" notAfter="1971-06-04">1971-06-04</date>
             </correspAction>
             <correspAction type="sent">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore="1968-10-07" notAfter="1968-10-07">1968-10-07</date>
+               <date notBefore="1971-06-04" notAfter="1971-06-04">1971-06-04</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
@@ -92,109 +92,77 @@ for any purpose, even commercially.</p>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
                <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0042.xml">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescripts W. H. Auden "August 1968" and "Elegy" 1968-10-04</ref>
-               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0008.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0035.xml">Telegram W. H. Auden to Stella Musulin 1971-05-13</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0018.xml">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Stark Bewölkt" 1971-10-19</ref>
             </correspContext>
          </correspDesc>
          
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
-         <change who="tfruehwirth" when="2021-09-28">text transcribed</change>
-         <change who="smayer" when="2021-09-29">text transcribed</change>
-         <change who="smayer tfruehwirth" when="2021-09-29">transcriptions collated</change>
+         <change who="tfruehwirth" when="2021-10-13">text transcribed</change>
+         <change who="smayer" when="2021-10-14">text transcribed</change>
+         <change who="smayer tfruehwirth" when="2021-10-14">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
-         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
-         <change who="smayer tfruehwirth" when="2023-08-03">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="4582" lry="3514">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0035/"/>
+      <surface ulx="0" uly="0" lrx="4598" lry="3532">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0083/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="4580" lry="3512">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0036/"/>
+      <surface ulx="0" uly="0" lrx="4596" lry="3530">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0084/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5686" lry="7656">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0037/"/>
+      <surface ulx="0" uly="0" lrx="4222" lry="5696">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0085/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5686" lry="7662">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0038/"/>
+      <surface ulx="0" uly="0" lrx="4224" lry="5698">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0086/"/>
       </surface>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0007">
-            <div type="envelope">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0035/" type="envelope"/>
-               <ab>
-                  <hi rend="underline">Eil<unclear>·</unclear>Brief</hi>
-               </ab>
-               <ab>
-                  <rs type="person" ref="#amp_person_2">Die Ba<unclear>r</unclear>onin<lb/>
+         <div xml:id="transcription">
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0083/" type="envelope"/>
+               <p>
+                  <rs type="lit_work" ref="#lit_work_id_33">"A Certain World<unclear>"</unclear></rs>.
+               </p>
+               <p>
+                  <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
-                  <address>
-                     <rs type="place" ref="#amp_place_id_11"><hi rend="underline">1030</hi> Wien <del>IV</del><lb/>
-                     Neulingasse 26</rs>
-                  </address>
-               </ab>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0036/" type="envelope"/>
-               <ab hand="#printed">
-                  <address>
-                     <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
-                     HINTERHOLZ 6<lb/>
-                     N.-Ö., AUSTRIA</rs>
-                  </address>
-               </ab>
-               <ab>
-                  A<unclear>rri</unclear>val, <rs type="person" ref="#amp_person_3">Christiane</rs>
-               </ab>
-            </div>
-            <div type="letter">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0037/" type="sheet"/>
-               <div type="letter_message">
-                  <opener>
-                     <dateline>
-                        <placeName>
-                           <seg hand="#printed">
-                              <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
-                                 HINTERHOLZ 6<lb/>
-                                 N.-Ö., AUSTRIA</rs>
-                              </address>
-                           </seg>   
-                        </placeName>
-                        <date rend="#block">Sunday.</date>
-                     </dateline>
-                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
-                  </opener>
+                  <rs type="place" ref="#amp_place_id_11">1030 Wien III<lb/>
+                  Neulinggasse 26/14</rs>
+               </p>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0084/" type="envelope"/>
                <p>
-                  I got your telegram yesterday just before<lb/>
-                  lu<unclear>n</unclear>ch. Tried twice in the afternoon and once<lb/>
-                  this morning to reach you , but umsonst.
+                  <rs type="person" ref="#amp_person_1">WH Auden</rs><lb/>
                </p>
-               <p>   
-                  Am off to <rs type="place" ref="#amp_place_id_239">England</rs> to-morrow, s<unclear>o</unclear> don't see how<lb/>
-                  anything can now be arranged<unclear>.</unclear>
+               <p hand="#printed">
+                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
+                  BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA</rs>
                </p>
-               <p>   
-                  If you think these can, please write me<lb/>
-                  ℅ <rs type="org" ref="#amp_organization_5">Faber and Faber</rs>, <rs type="place" ref="#amp_place_id_44">24 Russell Square,W.C</rs><unclear>.</unclear> I
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0085/" type="sheet"/>
+               <p>
+                  June 4th.
+               </p>
+               <p hand="#printed">
+                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
+                  BEZ. ST. PÖLTEN<lb/>
+                  HINTERHOLZ 6<lb/>
+                  N.-Ö., AUSTRIA</rs>
                </p>
                <p>
-                  So sorry
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+                  I have <unclear>a</unclear> copy of <rs type="lit_work" ref="#lit_work_id_33"><hi rend="underline">A Cert<unclear>a</unclear>in World</hi></rs><lb/>
+                  for you ,t<unclear>o</unclear> pi<unclear>c</unclear>k up any time at<lb/>
+                  your convenience.<lb/>
+                  love<lb/>
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
-               <closer>
-                  <salute>
-                     love
-                  </salute><lb/>
-                  <signed>
-                     <rs type="person" ref="#amp_person_1">Wystan</rs>.
-                  </signed>
-               </closer>
-               </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0038/" type="sheet"/>
-            </div>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0086/" type="sheet"/>
          </div>
       </body>
    </text>

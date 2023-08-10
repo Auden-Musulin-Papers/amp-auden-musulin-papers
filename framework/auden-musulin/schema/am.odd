@@ -353,21 +353,6 @@
                 </sch:rule>
               </constraint>
             </constraintSpec>
-            <!--<attList>
-              <attDef ident="type" mode="change" usage="req">
-                <valList type="closed" mode="replace">
-                  <valItem ident="transcription"/>
-                  <valItem ident="letter"/>
-                  <valItem ident="envelope"/>
-                  <valItem ident="enclosure"/>
-                  <valItem ident="poem"/>
-                  <valItem ident="letter_message"/>
-                  <valItem ident="prose_translation"/>
-                  <valItem ident="comments"/>
-                  <valItem ident="section"/>
-                </valList>
-              </attDef>
-            </attList>-->
             
           </elementSpec>
           

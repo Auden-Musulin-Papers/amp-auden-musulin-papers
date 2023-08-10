@@ -124,17 +124,17 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0005">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0023/" type="envelope"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                      New York City<lb/>
                      New York 10003<lb/>
                      U.<unclear>S.</unclear>A</rs>
-                  </placeName>
+                  </address>
                </ab>
                <ab>
                   Ai<hi rend="underline">r-M</hi>ail
@@ -145,11 +145,11 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
                      <del><gap reason="deleted"/></del> Neulingasse 26<lb/>
                      Au<hi rend="underline">st</hi>ria</rs>
-                  </placeName>
+                  </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0024/" type="envelope"/>
             </div>
@@ -159,15 +159,17 @@ for any purpose, even commercially.</p>
                   <opener>
                      <dateline>
                         <placeName>
-                           <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                           New York City<lb/>
-                           New York 10003</rs>
+                           <address>
+                              <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                              New York City<lb/>
+                              New York 10003</rs>
+                           </address>
                         </placeName>
-                        <date rend="block">Nov 8th</date>
+                        <date rend="#block">Nov 8th</date>
                      </dateline>
                      <salute>
-                        Dear <rs type="person" ref="#amp_person_2">Stella</rs>.<lb/>
-                     </salute>
+                        Dear <rs type="person" ref="#amp_person_2">Stella</rs>.
+                     </salute><lb/>
                   </opener>
                <p>
                   A disaster has ha<unclear>p</unclear>pened. <rs type="event" ref="#amp_event_id_1"><rs type="person" ref="#amp_person_16">Frau Eiermann</rs><lb/>
@@ -193,8 +195,8 @@ for any purpose, even commercially.</p>
                </p>
                <closer>
                   <salute>
-                     love<lb/>
-                  </salute>
+                     love
+                  </salute><lb/>
                   <signed>
                      <rs type="person" ref="#amp_person_1">Wystan</rs>
                   </signed>

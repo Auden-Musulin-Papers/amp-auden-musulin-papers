@@ -140,77 +140,77 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div type="transcription" xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0039">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0013/" type="envelope"/>
                <ab hand="#handwritten">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                      Obergra<del><gap reason="deleted"/></del><gap reason="illegible"/>endorf<lb/>
                      bei S. Pölten<lb/>
                      N.Ö.</rs>
-                  </placeName>
+                  </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0014/" type="envelope"/>
                <ab hand="#handwritten">
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear> Auden</rs><lb/>
-                  <placeName>
+                  <address>
                      <rs type="place" ref="#amp_place_id_2">Kirchstetten (Westb<unclear>a</unclear>h<unclear>n</unclear>)<lb/>
                      Hint<unclear>e</unclear>rholz# 6<lb/>
                      N.Ö</rs><lb/>
                      <unclear>·</unclear>
-                  </placeName>   
+                  </address>   
                </ab>
             </div>
             <div type="letter">
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0009/" type="sheet"/>
                <div type="poem">
                   <head>
-                     <space quantity="5" unit="char"/><rs type="lit_work" ref="#lit_work_id_62"><rs type="person" ref="#amp_person_5"><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
-                     <space quantity="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs></rs>
+                     <space extent="undefined quantity of characters plus minimum" min="5" unit="char"/><rs type="lit_work" ref="#lit_work_id_62"><rs type="person" ref="#amp_person_5"><hi rend="underline">JOSEPH WEINHEBER</hi><lb/>
+                     <space extent="undefined quantity of characters plus minimum" min="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs></rs>
                   </head>
                   <lg>
-                     <lb/><l>Reaching my gate a narrow</l>
-                     <lb/><l>Lane from the village</l>
-                     <lb/><l>Passes on into a wood:</l>
-                     <lb/><l>When I walk that way,</l>
-                     <lb/><l>It seems befitting to stop</l>
-                     <lb/><l>And look through the fence</l>
-                     <lb/><l>Of your garden where(under</l>
-                     <lb/><l>The circs they had to)</l>
-                     <lb/><l>They buried you like a loved</l>
-                     <lb/><l>Old family dog.</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Reaching my gate a narrow</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Lane from the village</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Passes on into a wood:</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>When I walk that way,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>It seems befitting to stop</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>And look through the fence</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Of your garden where(under</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>The circs they had to)</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>They buried you like a loved</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Old family dog.</l>
                   </lg>
                   <lg>   
-                     <lb/><l>Categorised enemies</l>
-                     <lb/><l>Twenty years ago,</l>
-                     <lb/><l>Now next-door neighbors,we might</l>
-                     <lb/><l>Have become good friends,</l>
-                     <lb/><l>Sharing a common ambit</l>
-                     <lb/><l>And love of the word,</l>
-                     <lb/><l>Over a golden Kremser</l>
-                     <lb/><l>Had many a long</l>
-                     <lb/><l>Language on syntax,commas,</l>
-                     <lb/><l>Versification.</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Categorised enemies</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Twenty years ago,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Now next-door neighbors,we might</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Have become good friends,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Sharing a common ambit</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>And love of the word,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Over a golden Kremser</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Had many a long</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Language on syntax,commas,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Versification.</l>
                   </lg>
                   <lg>
-                     <lb/><l>Yes,yes,it has to be said:</l>
-                     <lb/><l>Men of great damage</l>
-                     <lb/><l>And malengine took you up.</l>
-                     <lb/><l>Did they for long,though,</l>
-                     <lb/><l>Take you in,who to <rs type="person" ref="#amp_person_196">Goebbel<del>l</del>s</rs>'</l>
-                     <lb/><l>Offer of culture</l>
-                     <lb/><l>Countered <hi rend="underline">In Ruah lassen</hi>!?</l>
-                     <lb/><l>But Rag,Tag,Bobtail</l>
-                     <lb/><l>Prefer a stink,and the young</l>
-                     <lb/><l>Condemn you unread.</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Yes,yes,it has to be said:</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Men of great damage</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>And malengine took you up.</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Did they for long,though,</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Take you in,who to <rs type="person" ref="#amp_person_196">Goebbel<del>l</del>s</rs>'</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Offer of culture</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Countered <hi rend="underline">In Ruah lassen</hi>!?</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>But Rag,Tag,Bobtail</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Prefer a stink,and the young</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Condemn you unread.</l>
                   </lg>
                   <lg>
-                     <lb/><l>What,had you ever heard of <space quantity="1" unit="char"/>etc</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>What,had you ever heard of <space quantity="1" unit="char"/>etc</l>
                   </lg>   
-                  <ab hand="#handwritten"><!-- find solution -->
+                  <ab hand="#handwritten"><!-- find solution, consider add element -->
                      Re<unclear>v .</unclear>
                   </ab>
                   <ab hand="#handwritten">
@@ -220,7 +220,7 @@ for any purpose, even commercially.</p>
                <div type="letter_message" hand="#handwritten">
                   <opener>
                      <dateline>
-                        <date rend="inline">Wednesday . </date><placeName rend="inline"><rs type="place" ref="#amp_place_id_5">Kirch<unclear>s</unclear>t<unclear>e</unclear>tten</rs></placeName>
+                        <date rend="#inline">Wednesday . </date><placeName rend="#inline"><rs type="place" ref="#amp_place_id_5">Kirch<unclear>s</unclear>t<unclear>e</unclear>tten</rs></placeName>
                      </dateline>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
                   </opener>
