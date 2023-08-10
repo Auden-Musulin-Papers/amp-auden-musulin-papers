@@ -95,7 +95,7 @@
             </attList>
           </elementSpec>
           
-          <elementSpec ident="opener" mode="change">
+          <elementSpec ident="opener" module="textstructure" mode="change">
             <content>
               <sequence>
                 <elementRef key="dateline" maxOccurs="1" minOccurs="0"/>
@@ -103,6 +103,14 @@
                 <elementRef key="lb" maxOccurs="1" minOccurs="0"/>
               </sequence>
             </content>
+            <constraintSpec ident="opener" module="textstructure" scheme="schematron">
+              <constraint>
+                <sch:rule context="//tei:div[@type='letter_message']">
+                  <sch:assert test="count(./tei:opener) > 0">element missing; element opener required</sch:assert>
+                  <sch:assert test="count(./tei:closer) > 0">element missing; element closer required</sch:assert>
+                </sch:rule>
+              </constraint>
+            </constraintSpec>
             <attList>
               <attDef ident="source" mode="delete"/>
               <attDef ident="cert" mode="delete"/>
@@ -124,6 +132,15 @@
             </attList>
           </elementSpec>
           
+          <elementSpec ident="dateline" module="textstructure" mode="change">
+            <content>
+              <sequence>
+                <elementRef key="date" maxOccurs="1" minOccurs="0"/>
+                <elementRef key="placeName" maxOccurs="1" minOccurs="0"/>
+              </sequence>
+            </content>
+          </elementSpec>
+          
           <!-- element availability -->
           <elementSpec ident="availability" module="header" mode="change"/>
           
@@ -134,7 +151,15 @@
           <elementSpec ident="persName" module="namesdates" mode="change"/>
           
           <!-- element fileDesc -->
-          <elementSpec ident="placeName" module="namesdates" mode="change"/>
+          <elementSpec ident="placeName" module="namesdates" mode="change">
+            <constraintSpec ident="placeName" scheme="schematron">
+              <constraint>
+                <sch:rule context="//tei:dateline/tei:placeName">
+                  <sch:report test="*[not(self::tei:rs or self::tei:address)]">invalid element; allowed nested elements are ....</sch:report>
+                </sch:rule>
+              </constraint>
+            </constraintSpec>
+          </elementSpec>
   
           <!-- element licence -->
           <elementSpec ident="licence" module="header" mode="change">
@@ -175,6 +200,13 @@
           
           <!-- element date -->
           <elementSpec ident="date" module="core" mode="change">
+            <constraintSpec ident="date" scheme="schematron">
+              <constraint>
+                <sch:rule context="//tei:dateline">
+                  <sch:assert test="*[self::tei:date[@rend='#block' or @rend='#inline']]">element date with parent dateline requires rend=#block or rend=#inline</sch:assert>
+                </sch:rule>
+              </constraint>
+            </constraintSpec>
             <attList>
               <attDef ident="notBefore" mode="change" usage="opt">
                 <datatype>
@@ -229,6 +261,17 @@
                 </valList>
               </attDef>
             </attList>
+          </elementSpec>
+          
+          <!-- element lg -->
+          <elementSpec ident="lg" module="core" mode="change">
+            <content>
+              <sequence maxOccurs="unbounded" minOccurs="1">
+                <elementRef key="lb"/>
+                <elementRef key="space"/>
+                <elementRef key="l"/>
+              </sequence>
+            </content>
           </elementSpec>
           
           <!-- element lb -->
@@ -337,19 +380,27 @@
                   <sch:assert test="@type = 'letter' or @type = 'envelope' or @type = 'enclosure'">@type allowed values are 'letter', 'envelope' or 'enclosure'</sch:assert>
                   <sch:assert test="count(self::tei:div[@type='letter'][child::tei:div[@type='letter_message']]) > 0">div@type=letter must contain at least one div@type=letter_message</sch:assert>
                 </sch:rule>-->
-                <sch:rule context="//tei:body/tei:div/tei:div[@type='letter']">
+                <sch:rule context="//tei:div[@type='letter']">
                   <sch:assert test="count(./tei:div[@type='letter_message']) > 0">div@type=letter must contain at least one div@type=letter_message</sch:assert>
                   <sch:assert test="@type = 'letter'">@type allowed values are 'letter'</sch:assert>
+                  <sch:assert test="*[self::tei:div[@type='poem']]">type required or invalid type value; only poem or letter_message allowed</sch:assert>
+                  <sch:assert test="*[self::tei:div[@type='letter_message']]">type required or invalid type value; only poem or letter_message allowed</sch:assert>
                 </sch:rule>
-                <sch:rule context="//tei:body/tei:div/tei:div[@type='letter']/tei:div">
-                  <sch:assert test="@type = 'letter_message' or @type = 'poem'">@type allowed values are letter_message or poem</sch:assert>
+                <sch:rule context="//tei:div[@type='poem']">
+                  <sch:report test="*[not(self::tei:head or self::tei:lg or self::tei:ab)]">missing required element; div@type=poem must contain head, lg or (optional) ab</sch:report>
+                  <sch:assert test="count(./tei:head) > 0">missing element; head required</sch:assert>
+                  <sch:assert test="count(./tei:lg) > 0">missing element; lg required</sch:assert>
                 </sch:rule>
-                <sch:rule context="//tei:body/tei:div/tei:div[@type='envelope']">
+                <sch:rule context="//tei:div[@type='envelope']">
                   <sch:assert test="count(./tei:ab) > 0">div@type=envelope must contain at least one tei:ab element</sch:assert>
-                  <sch:assert test="count(./tei:div) = 0">element div not allowed here</sch:assert>
+                  <!--<sch:assert test="*[not(self::tei:ab) or not(self::tei:pb)]">invalid element; only pb and ab elements allowed</sch:assert>-->
+                  <sch:assert test="count(./tei:div) = 0">invalid element; only pb and ab elements allowed</sch:assert>
+                  <sch:assert test="count(./tei:p) = 0">invalid element; only pb and ab elements allowed</sch:assert>
                 </sch:rule>
-                <sch:rule context="//tei:body/tei:div/tei:div[@type='enclosure']/tei:div">
-                  <sch:assert test="@type = 'poem' or @type = 'prose_translation' or @type = 'comments'">@type allowed values are prose_translation, comments or poem</sch:assert>
+                <sch:rule context="//tei:div[@type='enclosure']">
+                  <sch:assert test="*[self::tei:div[@type='poem']]">type required or invalid type value; only poem, comments or prose_translation allowed</sch:assert>
+                  <sch:assert test="*[self::tei:div[@type='prose_translation']]">type required or invalid type value; only poem, comments or prose_translation allowed</sch:assert>
+                  <sch:assert test="*[self::tei:div[@type='comments']]">type required or invalid type value; only poem, comments or prose_translation allowed</sch:assert>
                 </sch:rule>
               </constraint>
             </constraintSpec>
@@ -371,6 +422,13 @@
           
           <!-- element seg -->
           <elementSpec ident="seg" module="linking" mode="change">
+            <constraintSpec ident="seg" scheme="schematron" mode="change">
+              <constraint>
+                <sch:rule context="//tei:seg">
+                  <sch:assert test="parent::tei:ab">invalid parent; element seg only allowed in ab</sch:assert>
+                </sch:rule>
+              </constraint>
+            </constraintSpec>
             <attList>
               <attDef ident="hand" mode="change" usage="req">
                 <valList type="closed" mode="replace">
@@ -428,12 +486,13 @@
           <!-- element space -->
           <elementSpec ident="space" module="transcr" mode="change">
             <attList>
-              <attDef ident="quantity" mode="change" usage="req">
-                <datatype>
-                  <dataRef key="teidata.enumerated"/>
-                </datatype>
+              <attDef ident="quantity" mode="change" usage="opt">
+                
               </attDef>
-              <attDef ident="unit" mode="change" usage="req">
+              <attDef ident="extent" mode="change" usage="opt">
+                
+              </attDef>
+              <attDef ident="unit" mode="change" usage="opt">
                 <valList type="closed" mode="replace">
                   <valItem ident="char"/>
                 </valList>

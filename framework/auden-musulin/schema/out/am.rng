@@ -5,7 +5,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2023-08-10T13:20:07Z. .
+Schema generated from ODD source 2023-08-10T15:19:29Z. .
 TEI Edition: Version 4.4.0. Last updated on
         19th April 2022, revision ff9cc28b0
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.4.0/
@@ -3307,6 +3307,15 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</a:documentation>
                <ref name="tei_model.global"/>
             </choice>
          </zeroOrMore>
+         <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
+                  id="amp-date-date-constraint-rule-11">
+            <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
+                      xmlns:rng="http://relaxng.org/ns/structure/1.0"
+                      xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+                      context="//tei:dateline">
+               <sch:assert test="*[self::tei:date[@rend='#block' or @rend='#inline']]">element date with parent dateline requires rend=#block or rend=#inline</sch:assert>
+            </sch:rule>
+         </pattern>
          <ref name="tei_att.global.attributes"/>
          <ref name="tei_att.canonical.attributes"/>
          <ref name="tei_att.datable.attribute.calendar"/>
@@ -3513,7 +3522,7 @@ attributes @target and @cRef may be supplied on <name/>.</report>
             </zeroOrMore>
          </group>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="amp-list-gloss-list-must-have-labels-constraint-rule-11">
+                  id="amp-list-gloss-list-must-have-labels-constraint-rule-12">
             <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
                       xmlns:rng="http://relaxng.org/ns/structure/1.0"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
@@ -4218,39 +4227,15 @@ relatedItem element must be empty</sch:report>
    <define name="tei_lg">
       <element name="lg">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(line group) contains one or more verse lines functioning as a formal unit, e.g. a stanza, refrain, verse paragraph, etc. [3.13.1. Core Tags for Verse 3.13. Passages of Verse or Drama 7.2.5. Speech Contents]</a:documentation>
-         <group>
-            <zeroOrMore>
-               <choice>
-                  <ref name="tei_model.divTop"/>
-                  <ref name="tei_model.global"/>
-               </choice>
-            </zeroOrMore>
-            <choice>
-               <ref name="tei_model.lLike"/>
-               <ref name="tei_model.stageLike"/>
-               <ref name="tei_model.labelLike"/>
-               <ref name="tei_lg"/>
-            </choice>
-            <zeroOrMore>
-               <choice>
-                  <ref name="tei_model.lLike"/>
-                  <ref name="tei_model.stageLike"/>
-                  <ref name="tei_model.labelLike"/>
-                  <ref name="tei_model.global"/>
-                  <ref name="tei_lg"/>
-               </choice>
-            </zeroOrMore>
-            <zeroOrMore>
-               <group>
-                  <ref name="tei_model.divBottom"/>
-                  <zeroOrMore>
-                     <ref name="tei_model.global"/>
-                  </zeroOrMore>
-               </group>
-            </zeroOrMore>
-         </group>
+         <oneOrMore>
+            <group>
+               <ref name="tei_lb"/>
+               <ref name="tei_space"/>
+               <ref name="tei_l"/>
+            </group>
+         </oneOrMore>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="amp-lg-atleast1oflggapl-constraint-assert-9">
+                  id="amp-lg-atleast1oflggapl-constraint-assert-10">
             <rule context="tei:lg">
                <sch:assert xmlns="http://www.tei-c.org/ns/1.0"
                            xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -5801,6 +5786,16 @@ Suggested values include: 1] persuade; 2] express; 3] inform; 4] entertain</a:do
       <element name="placeName">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(place name) contains an absolute or relative place name. [13.2.3. Place Names]</a:documentation>
          <ref name="tei_macro.phraseSeq"/>
+         <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
+                  id="amp-placeName-placeName-constraint-rule-13">
+            <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
+                      xmlns:rng="http://relaxng.org/ns/structure/1.0"
+                      xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+                      xmlns:xi="http://www.w3.org/2001/XInclude"
+                      context="//tei:dateline/tei:placeName">
+               <sch:report test="*[not(self::tei:rs or self::tei:address)]">invalid element; allowed nested elements are ....</sch:report>
+            </sch:rule>
+         </pattern>
          <ref name="tei_att.datable.attributes"/>
          <ref name="tei_att.editLike.attributes"/>
          <ref name="tei_att.global.attributes"/>
@@ -6483,7 +6478,7 @@ Sample values include: 1] sponsor; 2] recommend; 3] discredit; 4] pledged</a:doc
             </optional>
          </group>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="amp-div-div-constraint-rule-12">
+                  id="amp-div-div-constraint-rule-14">
             <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
                       xmlns:rng="http://relaxng.org/ns/structure/1.0"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
@@ -6498,32 +6493,39 @@ Sample values include: 1] sponsor; 2] recommend; 3] discredit; 4] pledged</a:doc
             <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
                       xmlns:rng="http://relaxng.org/ns/structure/1.0"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
-                      context="//tei:body/tei:div/tei:div[@type='letter']">
+                      context="//tei:div[@type='letter']">
                <sch:assert test="count(./tei:div[@type='letter_message']) &gt; 0">div@type=letter must contain at least one div@type=letter_message</sch:assert>
                <sch:assert test="@type = 'letter'">@type allowed values are 'letter'</sch:assert>
+               <sch:assert test="*[self::tei:div[@type='poem']]">type required or invalid type value; only poem or letter_message allowed</sch:assert>
+               <sch:assert test="*[self::tei:div[@type='letter_message']]">type required or invalid type value; only poem or letter_message allowed</sch:assert>
             </sch:rule>
             <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
                       xmlns:rng="http://relaxng.org/ns/structure/1.0"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
-                      context="//tei:body/tei:div/tei:div[@type='letter']/tei:div">
-               <sch:assert test="@type = 'letter_message' or @type = 'poem'">@type allowed values are letter_message or poem</sch:assert>
+                      context="//tei:div[@type='poem']">
+               <sch:report test="*[not(self::tei:head or self::tei:lg or self::tei:ab)]">missing required element; div@type=poem must contain head, lg or (optional) ab</sch:report>
+               <sch:assert test="count(./tei:head) &gt; 0">missing element; head required</sch:assert>
+               <sch:assert test="count(./tei:lg) &gt; 0">missing element; lg required</sch:assert>
             </sch:rule>
             <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
                       xmlns:rng="http://relaxng.org/ns/structure/1.0"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
-                      context="//tei:body/tei:div/tei:div[@type='envelope']">
+                      context="//tei:div[@type='envelope']">
                <sch:assert test="count(./tei:ab) &gt; 0">div@type=envelope must contain at least one tei:ab element</sch:assert>
-               <sch:assert test="count(./tei:div) = 0">element div not allowed here</sch:assert>
+               <sch:assert test="count(./tei:div) = 0">invalid element; only pb and ab elements allowed</sch:assert>
+               <sch:assert test="count(./tei:p) = 0">invalid element; only pb and ab elements allowed</sch:assert>
             </sch:rule>
             <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
                       xmlns:rng="http://relaxng.org/ns/structure/1.0"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
-                      context="//tei:body/tei:div/tei:div[@type='enclosure']/tei:div">
-               <sch:assert test="@type = 'poem' or @type = 'prose_translation' or @type = 'comments'">@type allowed values are letter_message or poem</sch:assert>
+                      context="//tei:div[@type='enclosure']">
+               <sch:assert test="*[self::tei:div[@type='poem']]">type required or invalid type value; only poem, comments or prose_translation allowed</sch:assert>
+               <sch:assert test="*[self::tei:div[@type='prose_translation']]">type required or invalid type value; only poem, comments or prose_translation allowed</sch:assert>
+               <sch:assert test="*[self::tei:div[@type='comments']]">type required or invalid type value; only poem, comments or prose_translation allowed</sch:assert>
             </sch:rule>
          </pattern>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="amp-div-abstractModel-structure-div-in-l-or-lg-constraint-report-13">
+                  id="amp-div-abstractModel-structure-div-in-l-or-lg-constraint-report-15">
             <rule context="tei:div">
                <sch:report xmlns="http://www.tei-c.org/ns/1.0"
                            xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -6534,7 +6536,7 @@ Sample values include: 1] sponsor; 2] recommend; 3] discredit; 4] pledged</a:doc
             </rule>
          </pattern>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="amp-div-abstractModel-structure-div-in-ab-or-p-constraint-report-14">
+                  id="amp-div-abstractModel-structure-div-in-ab-or-p-constraint-report-16">
             <rule context="tei:div">
                <sch:report xmlns="http://www.tei-c.org/ns/1.0"
                            xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -6555,14 +6557,14 @@ Sample values include: 1] sponsor; 2] recommend; 3] discredit; 4] pledged</a:doc
    <define name="tei_dateline">
       <element name="dateline">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(dateline) contains a brief description of the place, date, time, etc. of production of a letter, newspaper story, or other work, prefixed or suffixed to it as a kind of heading or trailer. [4.2.2. Openers and Closers]</a:documentation>
-         <zeroOrMore>
-            <choice>
-               <text/>
-               <ref name="tei_model.gLike"/>
-               <ref name="tei_model.phrase"/>
-               <ref name="tei_model.global"/>
-            </choice>
-         </zeroOrMore>
+         <group>
+            <optional>
+               <ref name="tei_date"/>
+            </optional>
+            <optional>
+               <ref name="tei_placeName"/>
+            </optional>
+         </group>
          <ref name="tei_att.global.attributes"/>
          <empty/>
       </element>
@@ -6579,6 +6581,16 @@ Sample values include: 1] sponsor; 2] recommend; 3] discredit; 4] pledged</a:doc
                <ref name="tei_lb"/>
             </optional>
          </group>
+         <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
+                  id="amp-opener-opener-constraint-rule-19">
+            <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
+                      xmlns:rng="http://relaxng.org/ns/structure/1.0"
+                      xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+                      context="//tei:div[@type='letter_message']">
+               <sch:assert test="count(./tei:opener) &gt; 0">element missing; element opener required</sch:assert>
+               <sch:assert test="count(./tei:closer) &gt; 0">element missing; element closer required</sch:assert>
+            </sch:rule>
+         </pattern>
          <ref name="tei_att.global.attribute.xmlid"/>
          <ref name="tei_att.global.attribute.n"/>
          <ref name="tei_att.global.attribute.xmllang"/>
@@ -6896,7 +6908,6 @@ Sample values include: 1] glued; 2] pinned; 3] sewn</a:documentation>
          <ref name="tei_att.global.responsibility.attribute.cert"/>
          <ref name="tei_att.global.source.attribute.source"/>
          <ref name="tei_att.typed.attributes"/>
-         <ref name="tei_att.dimensions.attribute.extent"/>
          <ref name="tei_att.dimensions.attribute.precision"/>
          <ref name="tei_att.dimensions.attribute.scope"/>
          <ref name="tei_att.ranging.attribute.atLeast"/>
@@ -6916,19 +6927,33 @@ Sample values include: 1] glued; 2] pinned; 3] sewn</a:documentation>
                </list>
             </attribute>
          </optional>
-         <attribute name="unit">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">names the unit used for the measurement</a:documentation>
-            <choice>
-               <value>char</value>
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-            </choice>
-         </attribute>
-         <attribute name="quantity">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the length in the units specified</a:documentation>
-            <data type="token">
-               <param name="pattern">[^\p{C}\p{Z}]+</param>
-            </data>
-         </attribute>
+         <optional>
+            <attribute name="unit">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">names the unit used for the measurement</a:documentation>
+               <choice>
+                  <value>char</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+               </choice>
+            </attribute>
+         </optional>
+         <optional>
+            <attribute name="quantity">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the length in the units specified</a:documentation>
+               <choice>
+                  <data type="double"/>
+                  <data type="token">
+                     <param name="pattern">(\-?[\d]+/\-?[\d]+)</param>
+                  </data>
+                  <data type="decimal"/>
+               </choice>
+            </attribute>
+         </optional>
+         <optional>
+            <attribute name="extent">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">indicates the size of the object concerned using a project-specific vocabulary combining quantity and units in a single string of words.</a:documentation>
+               <data type="string"/>
+            </attribute>
+         </optional>
          <optional>
             <attribute name="dim">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(dimension) indicates whether the space is horizontal or vertical.</a:documentation>
@@ -7054,7 +7079,7 @@ Sample values include: 1] glued; 2] pinned; 3] sewn</a:documentation>
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(anonymous block) contains any arbitrary component-level unit of text, acting as an anonymous container for phrase or inter level elements analogous to, but without the semantic baggage of, a paragraph. [16.3. Blocks, Segments, and Anchors]</a:documentation>
          <ref name="tei_macro.paraContent"/>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="amp-ab-abstractModel-structure-ab-in-ab-or-p-constraint-report-15">
+                  id="amp-ab-abstractModel-structure-ab-in-ab-or-p-constraint-report-17">
             <rule context="tei:ab">
                <sch:report xmlns="http://www.tei-c.org/ns/1.0"
                            xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -7066,7 +7091,7 @@ Sample values include: 1] glued; 2] pinned; 3] sewn</a:documentation>
             </rule>
          </pattern>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="amp-ab-abstractModel-structure-ab-in-l-or-lg-constraint-report-16">
+                  id="amp-ab-abstractModel-structure-ab-in-l-or-lg-constraint-report-18">
             <rule context="tei:ab">
                <sch:report xmlns="http://www.tei-c.org/ns/1.0"
                            xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -7101,6 +7126,16 @@ Sample values include: 1] glued; 2] pinned; 3] sewn</a:documentation>
       <element name="seg">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(arbitrary segment) represents any segmentation of text below the chunk level. [16.3. Blocks, Segments, and Anchors 6.2. Components of the Verse Line 7.2.5. Speech Contents]</a:documentation>
          <ref name="tei_macro.paraContent"/>
+         <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
+                  id="amp-seg-seg-constraint-rule-20">
+            <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
+                      xmlns:rng="http://relaxng.org/ns/structure/1.0"
+                      xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+                      xmlns:xi="http://www.w3.org/2001/XInclude"
+                      context="//tei:seg">
+               <sch:assert test="parent::tei:ab">invalid parent; element seg only allowed in ab</sch:assert>
+            </sch:rule>
+         </pattern>
          <ref name="tei_att.global.attributes"/>
          <ref name="tei_att.segLike.attributes"/>
          <ref name="tei_att.typed.attributes"/>

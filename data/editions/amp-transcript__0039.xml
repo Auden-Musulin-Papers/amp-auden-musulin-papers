@@ -153,14 +153,14 @@ for any purpose, even commercially.</p>
                      N.Ö.</rs>
                   </address>
                </ab>
+               
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0014/" type="envelope"/>
                <ab hand="#handwritten">
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear> Auden</rs><lb/>
                   <address>
                      <rs type="place" ref="#amp_place_id_2">Kirchstetten (Westb<unclear>a</unclear>h<unclear>n</unclear>)<lb/>
                      Hint<unclear>e</unclear>rholz# 6<lb/>
-                     N.Ö</rs><lb/>
-                     <unclear>·</unclear>
+                        N.Ö ·</rs><lb/>
                   </address>   
                </ab>
             </div>
