@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI
   xmlns="http://www.tei-c.org/ns/1.0"
   xmlns:sch="http://purl.oclc.org/dsdl/schematron"
@@ -52,7 +54,7 @@
         
         <head>TEI-Modifikation</head>
         
-        <schemaSpec ident="amp" start="TEI" xml:lang="de">
+        <schemaSpec ident="amp" start="TEI" xml:lang="de" prefix="tei_">
           <moduleRef key="header" include="correspDesc correspAction correspContext seriesStmt listPrefixDef prefixDef creation langUsage language teiHeader fileDesc titleStmt editionStmt extent publicationStmt sourceDesc profileDesc encodingDesc tagsDecl rendition revisionDesc change notesStmt edition funder principal availability licence idno"/>
           <moduleRef key="core" include="gap graphic ptr imprint biblScope head desc l label lg list author editor title p respStmt resp noteGrp note relatedItem biblStruct listBibl bibl analytic monogr series date pubPlace publisher ref address street postCode name emph foreign hi lb pb q quote rs sic term unclear del abbr add choice cit corr index"/>
           <moduleRef key="corpus"/>
@@ -63,7 +65,65 @@
           <moduleRef key="textcrit" include="listWit witness"/>
           <moduleRef key="transcr" include="fw space facsimile surface damage"/>
           <moduleRef key="linking" include="ab seg"/>
-        
+          
+          <elementSpec ident="closer" mode="change">
+            <content>
+              <sequence>
+                <elementRef key="salute" maxOccurs="1" minOccurs="1"/>
+                <elementRef key="lb" maxOccurs="1" minOccurs="1"/>
+                <elementRef key="signed" maxOccurs="1" minOccurs="1"/>
+              </sequence>
+            </content>
+            <attList>
+              <attDef ident="source" mode="delete"/>
+              <attDef ident="cert" mode="delete"/>
+              <attDef ident="resp" mode="delete"/>
+              <attDef ident="change" mode="delete"/>
+              <attDef ident="facs" mode="delete"/>
+              <attDef ident="ana" mode="delete"/>
+              <attDef ident="corresp" mode="delete"/>
+              <attDef ident="synch" mode="delete"/>
+              <attDef ident="sameAs" mode="delete"/>
+              <attDef ident="copyOf" mode="delete"/>
+              <attDef ident="next" mode="delete"/>
+              <attDef ident="prev" mode="delete"/>
+              <attDef ident="exclude" mode="delete"/>
+              <attDef ident="select" mode="delete"/>
+              <attDef ident="rend" mode="delete"/>
+              <attDef ident="style" mode="delete"/>
+              <attDef ident="rendition" mode="delete"/>
+            </attList>
+          </elementSpec>
+          
+          <elementSpec ident="opener" mode="change">
+            <content>
+              <sequence>
+                <elementRef key="dateline" maxOccurs="1" minOccurs="0"/>
+                <elementRef key="salute" maxOccurs="1" minOccurs="1"/>
+                <elementRef key="lb" maxOccurs="1" minOccurs="0"/>
+              </sequence>
+            </content>
+            <attList>
+              <attDef ident="source" mode="delete"/>
+              <attDef ident="cert" mode="delete"/>
+              <attDef ident="resp" mode="delete"/>
+              <attDef ident="change" mode="delete"/>
+              <attDef ident="facs" mode="delete"/>
+              <attDef ident="ana" mode="delete"/>
+              <attDef ident="corresp" mode="delete"/>
+              <attDef ident="synch" mode="delete"/>
+              <attDef ident="sameAs" mode="delete"/>
+              <attDef ident="copyOf" mode="delete"/>
+              <attDef ident="next" mode="delete"/>
+              <attDef ident="prev" mode="delete"/>
+              <attDef ident="exclude" mode="delete"/>
+              <attDef ident="select" mode="delete"/>
+              <attDef ident="rend" mode="delete"/>
+              <attDef ident="style" mode="delete"/>
+              <attDef ident="rendition" mode="delete"/>
+            </attList>
+          </elementSpec>
+          
           <!-- element availability -->
           <elementSpec ident="availability" module="header" mode="change"/>
           
@@ -147,7 +207,7 @@
                   <valItem ident="pandorfer"/>
                   <valItem ident="smayer"/>
                   <valItem ident="tfruehwirth"/>
-                  <valItem ident="dstoxreiter"/>
+                  <valItem ident="delsner"/>
                   <valItem ident="dgrigoriou"/>
                 </valList>
               </attDef>
@@ -228,6 +288,7 @@
                   <valItem ident="envelope"/>
                   <valItem ident="letter"/>
                   <valItem ident="card"/>
+                  <valItem ident="cv_sheet"/>
                 </valList>
               </attDef>
             </attList>
@@ -244,29 +305,70 @@
             </attList>
           </elementSpec>
           
-          <!-- element div -->
-          <elementSpec ident="div" module="textstructure" mode="change">
+          <elementSpec ident="body" module="textstructure" mode="change">
+            <content>
+              <alternate maxOccurs="1" minOccurs="1">
+                <elementRef key="div"/>
+                <elementRef key="div"/>
+              </alternate>
+            </content>
             <attList>
               <attDef ident="xmlns" mode="change" usage="req">
                 <valList type="closed" mode="replace">
                   <valItem ident="http://www.tei-c.org/ns/1.0"/>
                 </valList>
               </attDef>
-              <attDef ident="xml:id" mode="change" usage="opt"/>
+            </attList>
+          </elementSpec>
+          
+          <elementSpec ident="div" module="textstructure" mode="change">
+            <constraintSpec ident="div" scheme="schematron" mode="change">
+              <constraint>
+                <sch:rule context="//tei:body/tei:div">
+                  <sch:assert test="*[self::tei:div[@type='letter']]">type required or invalid type value; only letter, envelope or enclosure allowed</sch:assert>
+                  <sch:assert test="*[self::tei:div[@type='envelope']]">type required or invalid type value; only letter, envelope or enclosure allowed</sch:assert>
+                  <sch:assert test="*[self::tei:div[@type='enclosure']]">type required or invalid type value; only letter, envelope or enclosure allowed</sch:assert>
+                  <sch:assert test="@type = 'transcription'">@type allowed value is 'transcription'</sch:assert>
+                  <sch:assert test="matches(@xml:id, 'transcription_amp_\d+')">xml:id required with pattern: transcription_amp_0001 |(final digits = document xml:id)</sch:assert>
+                  <sch:assert test="count(*) > 1">div must contain at least two elements</sch:assert>
+                  <!--<sch:assert test="./tei:div/@type = 'letter' or ./tei:div/@type = 'envelope' or ./tei:div/@type = 'enclosure'">@type allowed values are 'letter', 'envelope' or 'enclosure'</sch:assert>-->
+                </sch:rule>
+                <!--<sch:rule context="//tei:body/tei:div/tei:div">
+                  <sch:assert test="@type = 'letter' or @type = 'envelope' or @type = 'enclosure'">@type allowed values are 'letter', 'envelope' or 'enclosure'</sch:assert>
+                  <sch:assert test="count(self::tei:div[@type='letter'][child::tei:div[@type='letter_message']]) > 0">div@type=letter must contain at least one div@type=letter_message</sch:assert>
+                </sch:rule>-->
+                <sch:rule context="//tei:body/tei:div/tei:div[@type='letter']">
+                  <sch:assert test="count(./tei:div[@type='letter_message']) > 0">div@type=letter must contain at least one div@type=letter_message</sch:assert>
+                  <sch:assert test="@type = 'letter'">@type allowed values are 'letter'</sch:assert>
+                </sch:rule>
+                <sch:rule context="//tei:body/tei:div/tei:div[@type='letter']/tei:div">
+                  <sch:assert test="@type = 'letter_message' or @type = 'poem'">@type allowed values are letter_message or poem</sch:assert>
+                </sch:rule>
+                <sch:rule context="//tei:body/tei:div/tei:div[@type='envelope']">
+                  <sch:assert test="count(./tei:ab) > 0">div@type=envelope must contain at least one tei:ab element</sch:assert>
+                  <sch:assert test="count(./tei:div) = 0">element div not allowed here</sch:assert>
+                </sch:rule>
+                <sch:rule context="//tei:body/tei:div/tei:div[@type='enclosure']/tei:div">
+                  <sch:assert test="@type = 'poem' or @type = 'prose_translation' or @type = 'comments'">@type allowed values are prose_translation, comments or poem</sch:assert>
+                </sch:rule>
+              </constraint>
+            </constraintSpec>
+            <!--<attList>
               <attDef ident="type" mode="change" usage="req">
                 <valList type="closed" mode="replace">
-                  <valItem ident="envelope"/>
+                  <valItem ident="transcription"/>
                   <valItem ident="letter"/>
+                  <valItem ident="envelope"/>
+                  <valItem ident="enclosure"/>
                   <valItem ident="poem"/>
                   <valItem ident="letter_message"/>
-                  <valItem ident="comments"/>
                   <valItem ident="prose_translation"/>
-                  <valItem ident="enclosure"/>
-                  <valItem ident="transcription"/>
+                  <valItem ident="comments"/>
+                  <valItem ident="section"/>
                 </valList>
               </attDef>
-              <attDef ident="n" mode="change" usage="opt"/>
-            </attList>
+            </attList>-->
+            
           </elementSpec>
           
           <!-- element ab -->
