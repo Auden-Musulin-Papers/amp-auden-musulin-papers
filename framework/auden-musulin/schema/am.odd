@@ -155,7 +155,7 @@
             <constraintSpec ident="placeName" scheme="schematron">
               <constraint>
                 <sch:rule context="//tei:dateline/tei:placeName">
-                  <sch:report test="*[not(self::tei:rs or self::tei:address)]">invalid element; allowed nested elements are ....</sch:report>
+                  <sch:report test="*[not(self::tei:rs or self::tei:address)]">invalid element; allowed nested elements are rs and address</sch:report>
                 </sch:rule>
               </constraint>
             </constraintSpec>
@@ -368,18 +368,15 @@
             <constraintSpec ident="div" scheme="schematron" mode="change">
               <constraint>
                 <sch:rule context="//tei:body/tei:div">
-                  <sch:assert test="*[self::tei:div[@type='letter']]">type required or invalid type value; only letter, envelope or enclosure allowed</sch:assert>
-                  <sch:assert test="*[self::tei:div[@type='envelope']]">type required or invalid type value; only letter, envelope or enclosure allowed</sch:assert>
-                  <sch:assert test="*[self::tei:div[@type='enclosure']]">type required or invalid type value; only letter, envelope or enclosure allowed</sch:assert>
-                  <sch:assert test="@type = 'transcription'">@type allowed value is 'transcription'</sch:assert>
+                  <sch:assert test="@type = 'transcription'">invalid @type attribute value; allowed value is 'transcription'</sch:assert>
                   <sch:assert test="matches(@xml:id, 'transcription_amp_\d+')">xml:id required with pattern: transcription_amp_0001 |(final digits = document xml:id)</sch:assert>
+                  <sch:assert test="*[self::tei:div[@type='letter' or @type='envelope' or @type='enclosure']]">type required or invalid type value; only letter, envelope or enclosure allowed</sch:assert>
                   <sch:assert test="count(*) > 1">div must contain at least two elements</sch:assert>
                 </sch:rule>
                 <sch:rule context="//tei:div[@type='letter']">
-                  <sch:assert test="count(./tei:div[@type='letter_message']) > 0">div@type=letter must contain at least one div@type=letter_message</sch:assert>
                   <sch:assert test="@type = 'letter'">@type allowed values are 'letter'</sch:assert>
-                  <sch:assert test="*[self::tei:div[@type='poem']]">type required or invalid type value; only poem or letter_message allowed</sch:assert>
-                  <sch:assert test="*[self::tei:div[@type='letter_message']]">type required or invalid type value; only poem or letter_message allowed</sch:assert>
+                  <sch:assert test="count(./tei:div[@type='letter_message']) > 0">div@type=letter must contain at least one div@type=letter_message</sch:assert>
+                  <sch:assert test="*[self::tei:div[@type='poem' or @type='letter_message']]">type required or invalid type value; only poem or letter_message allowed</sch:assert>
                 </sch:rule>
                 <sch:rule context="//tei:div[@type='poem']">
                   <sch:report test="*[not(self::tei:head or self::tei:lg or self::tei:ab)]">missing required element; div@type=poem must contain head, lg or (optional) ab</sch:report>
@@ -391,9 +388,7 @@
                   <sch:report test="*[not(self::tei:ab or self::tei:pb)]">invalid element; only pb and ab elements allowed</sch:report>
                 </sch:rule>
                 <sch:rule context="//tei:div[@type='enclosure']">
-                  <sch:assert test="*[self::tei:div[@type='poem']]">type required or invalid type value; only poem, comments or prose_translation allowed</sch:assert>
-                  <sch:assert test="*[self::tei:div[@type='prose_translation']]">type required or invalid type value; only poem, comments or prose_translation allowed</sch:assert>
-                  <sch:assert test="*[self::tei:div[@type='comments']]">type required or invalid type value; only poem, comments or prose_translation allowed</sch:assert>
+                  <sch:assert test="*[self::tei:div[@type='poem' or @type='prose_translation' or @type='comments']]">type required or invalid type value; only poem, comments or prose_translation allowed</sch:assert>
                 </sch:rule>
               </constraint>
             </constraintSpec>
