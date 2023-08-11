@@ -368,26 +368,26 @@
             <constraintSpec ident="div" scheme="schematron" mode="change">
               <constraint>
                 <sch:rule context="//tei:body/tei:div">
-                  <sch:assert test="@type = 'transcription'">invalid @type attribute value; allowed value is 'transcription'</sch:assert>
+                  <sch:assert test="@type = 'transcription'">missing @type or invalid attribute value; allowed value is 'transcription'</sch:assert>
                   <sch:assert test="matches(@xml:id, 'transcription_amp_\d+')">xml:id required with pattern: transcription_amp_0001 |(final digits = document xml:id)</sch:assert>
+                  <sch:assert test="count(./tei:div) > 1">div must contain at least two div elements</sch:assert>
                   <sch:assert test="*[self::tei:div[@type='letter' or @type='envelope' or @type='enclosure']]">type required or invalid type value; only letter, envelope or enclosure allowed</sch:assert>
-                  <sch:assert test="count(*) > 1">div must contain at least two elements</sch:assert>
                 </sch:rule>
-                <sch:rule context="//tei:div[@type='letter']">
+                <sch:rule context="//tei:body/tei:div/tei:div[@type='letter']">
                   <sch:assert test="@type = 'letter'">@type allowed values are 'letter'</sch:assert>
                   <sch:assert test="count(./tei:div[@type='letter_message']) > 0">div@type=letter must contain at least one div@type=letter_message</sch:assert>
                   <sch:assert test="*[self::tei:div[@type='poem' or @type='letter_message']]">type required or invalid type value; only poem or letter_message allowed</sch:assert>
                 </sch:rule>
-                <sch:rule context="//tei:div[@type='poem']">
+                <sch:rule context="//tei:body/tei:div/tei:div/tei:div[@type='poem']">
                   <sch:report test="*[not(self::tei:head or self::tei:lg or self::tei:ab)]">missing required element; div@type=poem must contain head, lg or (optional) ab</sch:report>
                   <sch:assert test="count(./tei:head) > 0">missing element; head required</sch:assert>
                   <sch:assert test="count(./tei:lg) > 0">missing element; lg required</sch:assert>
                 </sch:rule>
-                <sch:rule context="//tei:div[@type='envelope']">
+                <sch:rule context="//tei:body/tei:div/tei:div[@type='envelope']">
                   <sch:assert test="count(./tei:ab) > 0">div@type=envelope must contain at least one tei:ab element</sch:assert>
                   <sch:report test="*[not(self::tei:ab or self::tei:pb)]">invalid element; only pb and ab elements allowed</sch:report>
                 </sch:rule>
-                <sch:rule context="//tei:div[@type='enclosure']">
+                <sch:rule context="//tei:body/tei:div/tei:div[@type='enclosure']">
                   <sch:assert test="*[self::tei:div[@type='poem' or @type='prose_translation' or @type='comments']]">type required or invalid type value; only poem, comments or prose_translation allowed</sch:assert>
                 </sch:rule>
               </constraint>
