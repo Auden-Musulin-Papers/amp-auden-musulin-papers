@@ -134,8 +134,8 @@ for any purpose, even commercially.</p>
                <ab>
                   <space quantity="21" unit="char"/>Die <rs type="person" ref="#amp_person_2">Baronin Stella Musulin</rs><lb/>
                   <address>
-                     <space quantity="24" unit="char"/>bei Windisch-<del>frcty</del> fracty<lb/><!-- research person (Eva Windisch-Graez) -->
-                     <space quantity="30" unit="char"/><rs type="place" ref="#amp_place_id_303">WIEN VI<lb/> 
+                     <space quantity="24" unit="char"/><rs type="place" ref="#amp_place_id_303">bei Windisch-<del>frcty</del> fracty<lb/><!-- research person (Eva Windisch-Graez) -->
+                     <space quantity="30" unit="char"/>WIEN VI<lb/> 
                      <space quantity="31" unit="char"/>Fillgradegasse I2</rs>
                   </address>
                </ab>
