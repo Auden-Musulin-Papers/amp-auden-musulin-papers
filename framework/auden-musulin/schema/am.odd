@@ -468,28 +468,28 @@
           <elementSpec ident="space" module="transcr" mode="change">
             <constraintSpec ident="space" scheme="schematron">
               <constraint>
-                <sch:rule context="//tei:space[not(parent::tei:lg)]">
-                  <sch:assert test="@quantity and @unit">invalid attribute; allowed and required attributes are unit and quantity</sch:assert>
+                <!--<sch:rule context="//tei:space[not(parent::tei:lg)]">
+                  <sch:assert test="@quantity or @unit">invalid attribute; allowed and required attributes are unit and quantity</sch:assert>
                   <sch:report test="@min and @extent">invalid attribute; min and extent not allowed</sch:report>
                   <sch:assert test="matches(@unit, 'char')">invalid value; only 'char' allowed</sch:assert>
-                </sch:rule>
-                <sch:rule context="//tei:space[parent::tei:lg][@unit]">
+                </sch:rule>-->
+                <!--<sch:rule context="//tei:space[parent::tei:lg][@unit]">
                   <sch:assert test="matches(@unit, 'char')">invalid value; only 'char' allowed</sch:assert>
+                </sch:rule>-->
+                <sch:rule context="//tei:space">
+                  <sch:assert test=".[@extent][@extent='undefined quantity of characters' or @extent='undefined quantity of characters plus minimum']">invalid value</sch:assert>
                 </sch:rule>
-                <sch:rule context="//tei:space[@extent]">
-                  <sch:assert test="@extent='undefined quantity of characters' or @extent='undefined quantity of characters plus minimum'">invalid value</sch:assert>
-                </sch:rule>
-                <sch:rule context="//tei:space[@extent='undefined quantity of characters plus minimum']">
+                <!--<sch:rule context="//tei:space[@extent='undefined quantity of characters plus minimum']">
                   <sch:assert test="@unit and @min">invalid attribute requirements; unit and min required</sch:assert>
                   <sch:report test="@quantity">invalid attribute requirements; unit and min required</sch:report>
                 </sch:rule>
                 <sch:rule context="//tei:space[@extent='undefined quantity of characters']">
                   <sch:report test="@quantity or @unit or @min">invalid attribute requirements; unit, quantity and min not allowed</sch:report>
-                </sch:rule>
+                </sch:rule>-->
               </constraint>
             </constraintSpec>
             <attList>
-              <!--<attDef ident="min" mode="change" usage="opt">
+              <attDef ident="min" mode="change" usage="opt">
                 <datatype>
                   <dataRef key="teidata.enumerated"/>
                 </datatype>
@@ -504,7 +504,7 @@
                 <valList type="closed" mode="replace">
                   <valItem ident="char"/>
                 </valList>
-              </attDef>-->
+              </attDef>
               <attDef ident="type" mode="delete"/>
               <attDef ident="subtype" mode="delete"/>
               <attDef ident="precision" mode="delete"/>
