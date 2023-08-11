@@ -5,7 +5,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2023-08-11T08:40:58Z. .
+Schema generated from ODD source 2023-08-11T09:17:32Z. .
 TEI Edition: Version 4.4.0. Last updated on
         19th April 2022, revision ff9cc28b0
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.4.0/
@@ -929,6 +929,91 @@ Suggested values include: 1] internal; 2] external; 3] conjecture</a:documentati
          </attribute>
       </optional>
    </define>
+   <define name="tei_att.handFeatures.attributes">
+      <ref name="tei_att.handFeatures.attribute.scribe"/>
+      <ref name="tei_att.handFeatures.attribute.scribeRef"/>
+      <ref name="tei_att.handFeatures.attribute.script"/>
+      <ref name="tei_att.handFeatures.attribute.scriptRef"/>
+      <ref name="tei_att.handFeatures.attribute.medium"/>
+      <ref name="tei_att.handFeatures.attribute.scope"/>
+   </define>
+   <define name="tei_att.handFeatures.attribute.scribe">
+      <optional>
+         <attribute name="scribe">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">gives a name or other identifier for the scribe believed to be responsible for this hand.</a:documentation>
+            <data type="Name"/>
+         </attribute>
+      </optional>
+   </define>
+   <define name="tei_att.handFeatures.attribute.scribeRef">
+      <optional>
+         <attribute name="scribeRef">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">points to a full description of the scribe concerned, typically supplied by a <code xmlns="http://www.w3.org/1999/xhtml">&lt;person&gt;</code> element elsewhere in the description.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI">
+                     <param name="pattern">\S+</param>
+                  </data>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   <define name="tei_att.handFeatures.attribute.script">
+      <optional>
+         <attribute name="script">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">characterizes the particular script or writing style used by this hand, for example secretary, copperplate, Chancery, Italian, etc.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="Name"/>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   <define name="tei_att.handFeatures.attribute.scriptRef">
+      <optional>
+         <attribute name="scriptRef">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">points to a full description of the script or writing style used by this hand, typically supplied by a <code xmlns="http://www.w3.org/1999/xhtml">&lt;scriptNote&gt;</code> element elsewhere in the description.</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="anyURI">
+                     <param name="pattern">\S+</param>
+                  </data>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   <define name="tei_att.handFeatures.attribute.medium">
+      <optional>
+         <attribute name="medium">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">describes the tint or type of ink, e.g. brown, or other writing medium, e.g. pencil</a:documentation>
+            <list>
+               <oneOrMore>
+                  <data type="token">
+                     <param name="pattern">[^\p{C}\p{Z}]+</param>
+                  </data>
+               </oneOrMore>
+            </list>
+         </attribute>
+      </optional>
+   </define>
+   <define name="tei_att.handFeatures.attribute.scope">
+      <optional>
+         <attribute name="scope">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies how widely this hand is used in the manuscript.</a:documentation>
+            <choice>
+               <value>sole</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">only this hand is used throughout the manuscript</a:documentation>
+               <value>major</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">this hand is used through most of the manuscript</a:documentation>
+               <value>minor</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">this hand is used occasionally in the manuscript</a:documentation>
+            </choice>
+         </attribute>
+      </optional>
+   </define>
    <define name="tei_att.internetMedia.attributes">
       <ref name="tei_att.internetMedia.attribute.mimeType"/>
    </define>
@@ -1730,6 +1815,7 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
          <ref name="tei_del"/>
          <ref name="tei_unclear"/>
          <ref name="tei_damage"/>
+         <ref name="tei_handShift"/>
       </choice>
    </define>
    <define name="tei_model.pPart.transcriptional_alternation">
@@ -1740,6 +1826,7 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
          <ref name="tei_del"/>
          <ref name="tei_unclear"/>
          <ref name="tei_damage"/>
+         <ref name="tei_handShift"/>
       </choice>
    </define>
    <define name="tei_model.pPart.transcriptional_sequence">
@@ -1749,6 +1836,7 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
       <ref name="tei_del"/>
       <ref name="tei_unclear"/>
       <ref name="tei_damage"/>
+      <ref name="tei_handShift"/>
    </define>
    <define name="tei_model.pPart.transcriptional_sequenceOptional">
       <optional>
@@ -1768,6 +1856,9 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
       </optional>
       <optional>
          <ref name="tei_damage"/>
+      </optional>
+      <optional>
+         <ref name="tei_handShift"/>
       </optional>
    </define>
    <define name="tei_model.pPart.transcriptional_sequenceOptionalRepeatable">
@@ -1789,6 +1880,9 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
       <zeroOrMore>
          <ref name="tei_damage"/>
       </zeroOrMore>
+      <zeroOrMore>
+         <ref name="tei_handShift"/>
+      </zeroOrMore>
    </define>
    <define name="tei_model.pPart.transcriptional_sequenceRepeatable">
       <oneOrMore>
@@ -1808,6 +1902,9 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
       </oneOrMore>
       <oneOrMore>
          <ref name="tei_damage"/>
+      </oneOrMore>
+      <oneOrMore>
+         <ref name="tei_handShift"/>
       </oneOrMore>
    </define>
    <define name="tei_model.pPart.edit">
@@ -2496,6 +2593,7 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
       <choice>
          <ref name="tei_closer"/>
          <ref name="tei_signed"/>
+         <ref name="tei_postscript"/>
       </choice>
    </define>
    <define name="tei_model.divBottom">
@@ -3312,8 +3410,8 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</a:documentation>
             <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
                       xmlns:rng="http://relaxng.org/ns/structure/1.0"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
-                      context="//tei:dateline">
-               <sch:assert test="*[self::tei:date[@rend='#block' or @rend='#inline']]">element date with parent dateline requires rend=#block or rend=#inline</sch:assert>
+                      context="//tei:date[ancestor::tei:body]">
+               <sch:assert test="@rend='#block' or @rend='#inline'">element date with parent dateline requires rend=#block or rend=#inline</sch:assert>
             </sch:rule>
          </pattern>
          <ref name="tei_att.global.attributes"/>
@@ -6551,14 +6649,23 @@ Sample values include: 1] sponsor; 2] recommend; 3] discredit; 4] pledged</a:doc
    <define name="tei_dateline">
       <element name="dateline">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(dateline) contains a brief description of the place, date, time, etc. of production of a letter, newspaper story, or other work, prefixed or suffixed to it as a kind of heading or trailer. [4.2.2. Openers and Closers]</a:documentation>
-         <group>
-            <optional>
-               <ref name="tei_date"/>
-            </optional>
-            <optional>
-               <ref name="tei_placeName"/>
-            </optional>
-         </group>
+         <zeroOrMore>
+            <choice>
+               <text/>
+               <ref name="tei_model.gLike"/>
+               <ref name="tei_model.phrase"/>
+               <ref name="tei_model.global"/>
+            </choice>
+         </zeroOrMore>
+         <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
+                  id="amp-dateline-dateline-constraint-rule-19">
+            <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
+                      xmlns:rng="http://relaxng.org/ns/structure/1.0"
+                      xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+                      context="//tei:dateline">
+               <sch:assert test="*[self::tei:date or self::tei:placeName]">missing child elements: date or placeName required</sch:assert>
+            </sch:rule>
+         </pattern>
          <ref name="tei_att.global.attributes"/>
          <empty/>
       </element>
@@ -6576,7 +6683,7 @@ Sample values include: 1] sponsor; 2] recommend; 3] discredit; 4] pledged</a:doc
             </optional>
          </group>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="amp-opener-opener-constraint-rule-19">
+                  id="amp-opener-opener-constraint-rule-20">
             <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
                       xmlns:rng="http://relaxng.org/ns/structure/1.0"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
@@ -6624,6 +6731,37 @@ Sample values include: 1] sponsor; 2] recommend; 3] discredit; 4] pledged</a:doc
       <element name="signed">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(signature) contains the closing salutation, etc., appended to a foreword, dedicatory epistle, or other division of a text. [4.2.2. Openers and Closers]</a:documentation>
          <ref name="tei_macro.paraContent"/>
+         <ref name="tei_att.global.attributes"/>
+         <ref name="tei_att.written.attributes"/>
+         <empty/>
+      </element>
+   </define>
+   <define name="tei_postscript">
+      <element name="postscript">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a postscript, e.g. to a letter. [4.2. Elements Common to All Divisions]</a:documentation>
+         <group>
+            <zeroOrMore>
+               <choice>
+                  <ref name="tei_model.global"/>
+                  <ref name="tei_model.divTopPart"/>
+               </choice>
+            </zeroOrMore>
+            <ref name="tei_model.common"/>
+            <zeroOrMore>
+               <choice>
+                  <ref name="tei_model.global"/>
+                  <ref name="tei_model.common"/>
+               </choice>
+            </zeroOrMore>
+            <zeroOrMore>
+               <group>
+                  <ref name="tei_model.divBottomPart"/>
+                  <zeroOrMore>
+                     <ref name="tei_model.global"/>
+                  </zeroOrMore>
+               </group>
+            </zeroOrMore>
+         </group>
          <ref name="tei_att.global.attributes"/>
          <ref name="tei_att.written.attributes"/>
          <empty/>
@@ -6872,6 +7010,23 @@ Sample values include: 1] glued; 2] pinned; 3] sewn</a:documentation>
          <empty/>
       </element>
    </define>
+   <define name="tei_handShift">
+      <element name="handShift">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(handwriting shift) marks the beginning of a sequence of text written in a new hand, or the beginning of a scribal stint. [11.3.2.1. Document Hands]</a:documentation>
+         <empty/>
+         <ref name="tei_att.global.attributes"/>
+         <ref name="tei_att.handFeatures.attributes"/>
+         <optional>
+            <attribute name="new">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">indicates a <code xmlns="http://www.w3.org/1999/xhtml">&lt;handNote&gt;</code> element describing the hand concerned.</a:documentation>
+               <data type="anyURI">
+                  <param name="pattern">\S+</param>
+               </data>
+            </attribute>
+         </optional>
+         <empty/>
+      </element>
+   </define>
    <define name="tei_space">
       <element name="space">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(space) indicates the location of a significant space in the text. [11.4.1. Space]</a:documentation>
@@ -6882,7 +7037,7 @@ Sample values include: 1] glued; 2] pinned; 3] sewn</a:documentation>
             </choice>
          </zeroOrMore>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="amp-space-space-constraint-rule-20">
+                  id="amp-space-space-constraint-rule-21">
             <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
                       xmlns:rng="http://relaxng.org/ns/structure/1.0"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
@@ -7099,31 +7254,23 @@ Sample values include: 1] glued; 2] pinned; 3] sewn</a:documentation>
       <element name="seg">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(arbitrary segment) represents any segmentation of text below the chunk level. [16.3. Blocks, Segments, and Anchors 6.2. Components of the Verse Line 7.2.5. Speech Contents]</a:documentation>
          <ref name="tei_macro.paraContent"/>
-         <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="amp-seg-seg-constraint-rule-25">
-            <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
-                      xmlns:rng="http://relaxng.org/ns/structure/1.0"
-                      xmlns:sch="http://purl.oclc.org/dsdl/schematron"
-                      xmlns:xi="http://www.w3.org/2001/XInclude"
-                      context="//tei:seg">
-               <sch:assert test="parent::tei:ab">invalid parent; element seg only allowed in ab</sch:assert>
-            </sch:rule>
-         </pattern>
          <ref name="tei_att.global.attributes"/>
          <ref name="tei_att.segLike.attributes"/>
          <ref name="tei_att.typed.attributes"/>
          <ref name="tei_att.notated.attributes"/>
-         <attribute name="hand">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">points to a <code xmlns="http://www.w3.org/1999/xhtml">&lt;handNote&gt;</code> element describing the hand considered responsible for the content of the element concerned.</a:documentation>
-            <choice>
-               <value>#handwritten</value>
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-               <value>#typed</value>
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-               <value>#printed</value>
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-            </choice>
-         </attribute>
+         <optional>
+            <attribute name="hand">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">points to a <code xmlns="http://www.w3.org/1999/xhtml">&lt;handNote&gt;</code> element describing the hand considered responsible for the content of the element concerned.</a:documentation>
+               <choice>
+                  <value>#handwritten</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>#typed</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>#printed</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+               </choice>
+            </attribute>
+         </optional>
          <empty/>
       </element>
    </define>
