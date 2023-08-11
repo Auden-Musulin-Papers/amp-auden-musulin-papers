@@ -5,7 +5,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2023-08-11T11:12:41Z. .
+Schema generated from ODD source 2023-08-11T11:14:44Z. .
 TEI Edition: Version 4.4.0. Last updated on
         19th April 2022, revision ff9cc28b0
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.4.0/
@@ -7077,16 +7077,6 @@ Sample values include: 1] glued; 2] pinned; 3] sewn</a:documentation>
                <ref name="tei_model.certLike"/>
             </choice>
          </zeroOrMore>
-         <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="amp-space-space-constraint-rule-22">
-            <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
-                      xmlns:rng="http://relaxng.org/ns/structure/1.0"
-                      xmlns:sch="http://purl.oclc.org/dsdl/schematron"
-                      xmlns:xi="http://www.w3.org/2001/XInclude"
-                      context="//tei:space">
-               <sch:assert test=".[@extent][@extent='undefined quantity of characters' or @extent='undefined quantity of characters plus minimum']">invalid value</sch:assert>
-            </sch:rule>
-         </pattern>
          <ref name="tei_att.ranging.attribute.max"/>
          <optional>
             <attribute name="unit">
@@ -7108,7 +7098,12 @@ Sample values include: 1] glued; 2] pinned; 3] sewn</a:documentation>
          <optional>
             <attribute name="extent">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">indicates the size of the object concerned using a project-specific vocabulary combining quantity and units in a single string of words.</a:documentation>
-               <data type="string"/>
+               <choice>
+                  <value>undefined quantity of characters</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+                  <value>undefined quantity of characters plus minimum</value>
+                  <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+               </choice>
             </attribute>
          </optional>
          <optional>

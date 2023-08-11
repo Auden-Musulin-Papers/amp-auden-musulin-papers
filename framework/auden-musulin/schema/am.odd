@@ -476,9 +476,9 @@
                 <!--<sch:rule context="//tei:space[parent::tei:lg][@unit]">
                   <sch:assert test="matches(@unit, 'char')">invalid value; only 'char' allowed</sch:assert>
                 </sch:rule>-->
-                <sch:rule context="//tei:space">
-                  <sch:assert test=".[@extent][@extent='undefined quantity of characters' or @extent='undefined quantity of characters plus minimum']">invalid value</sch:assert>
-                </sch:rule>
+                <!--<sch:rule context="//tei:space[@extent]">
+                  <sch:assert test="@extent='undefined quantity of characters' or @extent='undefined quantity of characters plus minimum'">invalid value</sch:assert>
+                </sch:rule>-->
                 <!--<sch:rule context="//tei:space[@extent='undefined quantity of characters plus minimum']">
                   <sch:assert test="@unit and @min">invalid attribute requirements; unit and min required</sch:assert>
                   <sch:report test="@quantity">invalid attribute requirements; unit and min required</sch:report>
@@ -499,7 +499,12 @@
                   <dataRef key="teidata.enumerated"/>
                 </datatype>
               </attDef>
-              <attDef ident="extent" mode="change" usage="opt"/>
+              <attDef ident="extent" mode="change" usage="opt">
+                <valList type="closed" mode="replace">
+                  <valItem ident="undefined quantity of characters"/>
+                  <valItem ident="undefined quantity of characters plus minimum"/>
+                </valList>
+              </attDef>
               <attDef ident="unit" mode="change" usage="opt">
                 <valList type="closed" mode="replace">
                   <valItem ident="char"/>
