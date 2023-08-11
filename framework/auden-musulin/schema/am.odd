@@ -266,13 +266,13 @@
           
           <!-- element lg -->
           <elementSpec ident="lg" module="core" mode="change">
-            <content>
-              <sequence maxOccurs="unbounded" minOccurs="1">
-                <elementRef key="lb"/>
-                <elementRef key="space"/>
-                <elementRef key="l"/>
-              </sequence>
-            </content>
+            <constraintSpec ident="lg" scheme="schematron">
+              <constraint>
+                <sch:rule context="//tei:lg">
+                  <sch:assert test="*[self::tei:lb]">invalid child elements; must contain lb and l, (optional) space</sch:assert>
+                </sch:rule>
+              </constraint>
+            </constraintSpec>
           </elementSpec>
           
           <!-- element lb -->
