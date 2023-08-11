@@ -170,8 +170,8 @@ for any purpose, even commercially.</p>
                            <address>
                               <rs type="place" ref="#amp_place_id_29">7 St Mark's Place<lb/>
                               New York City<lb/>
-                              N.Y. 10003</rs><lb/>
-                              <del><gap reason="deleted"/></del>
+                              N.Y. 10003<lb/>
+                              <del><gap reason="deleted"/></del></rs>
                            </address>
                         </placeName>
                      </dateline>
