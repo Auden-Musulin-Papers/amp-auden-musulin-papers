@@ -371,7 +371,7 @@
                 <sch:rule context="//tei:body/tei:div">
                   <sch:assert test="@type = 'transcription'">missing @type or invalid attribute value; allowed value is 'transcription'</sch:assert>
                   <sch:assert test="matches(@xml:id, 'transcription_amp_\d+')">xml:id required with pattern: transcription_amp_0001 |(final digits = document xml:id)</sch:assert>
-                  <sch:assert test="count(./tei:div) > 1">div must contain at least two div elements</sch:assert>
+                  <sch:assert test="count(./tei:div) > 0">div must contain at least one div element with @type=evelope or letter ...</sch:assert>
                   <sch:assert test="*[self::tei:div[@type='letter' or @type='envelope' or @type='enclosure']]">type required or invalid type value; only letter, envelope or enclosure allowed</sch:assert>
                 </sch:rule>
                 <sch:rule context="//tei:body/tei:div/tei:div[@type='letter']">
@@ -380,9 +380,8 @@
                   <sch:assert test="*[self::tei:div[@type='poem' or @type='letter_message']]">type required or invalid type value; only poem or letter_message allowed</sch:assert>
                 </sch:rule>
                 <sch:rule context="//tei:body/tei:div/tei:div/tei:div[@type='poem']">
-                  <sch:report test="*[not(self::tei:head or self::tei:lg or self::tei:ab)]">missing required element; div@type=poem must contain head, lg or (optional) ab</sch:report>
-                  <sch:assert test="count(./tei:head) > 0">missing element; head required</sch:assert>
                   <sch:assert test="count(./tei:lg) > 0">missing element; lg required</sch:assert>
+                  <sch:report test="*[not(self::tei:head or self::tei:lg or self::tei:ab or self::tei:pb)]">invalid child element: lg, ab and pb allowed</sch:report>
                 </sch:rule>
                 <sch:rule context="//tei:body/tei:div/tei:div[@type='envelope']">
                   <sch:assert test="count(./tei:ab) > 0">div@type=envelope must contain at least one tei:ab element</sch:assert>
