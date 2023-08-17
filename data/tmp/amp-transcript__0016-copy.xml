@@ -105,6 +105,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-10-13">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
+         <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,48 +124,72 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0016">
+            <div type="envelope"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0079/" type="envelope"/>
-               <p>
+               <ab>
                   <hi rend="underline"><unclear>Ex</unclear>press<unclear>.</unclear></hi>
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
+               <address>  
                   <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                   3200 Obergrafendorf<lb/>
                   N.Ö</rs>
-               </p>
+               </address>    
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0080/" type="envelope"/>
-               <p>
-                  <rs type="person" ref="#amp_person_1">W<unclear>.H.</unclear> Auden</rs>
-               </p>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
-                  BEZ. ST. PÖLTEN<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
+               <ab>
+                  <rs type="person" ref="#amp_person_1">WH Auden</rs>
+                  <placeName>
+                     <seg type="#printed">
+                        <address>  
+                           <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
+                              BEZ. ST. PÖLTEN<lb/>
+                              HINTERHOLZ 6<lb/>
+                              N.-Ö., AUSTRIA</rs>
+                        </address>    
+                     </seg>   
+                  </placeName>   
+               </ab>               
+            </div>
+            <div type="letter"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0081/" type="sheet"/>
+            <div type="letter_message"> 
+               <opener>
+                  <dateline>
+                     <date rend="#block">Sept 18th.</date>
+                     <placeName>
+                     <seg type="#printed">
+                        <address>
+                           <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
+                              BEZ. ST. PÖLTEN<lb/>
+                              HINTERHOLZ 6<lb/>
+                              N.-Ö., AUSTRIA</rs>
+                        </address>
+                     </seg>
+                     </placeName>  
+                  </dateline>
+                  <salute>
+                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>.
+                  </salute><lb/>
+               </opener>
                <p>
-                  Sept 18th.
-               </p>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
-                  BEZ. ST. PÖLTEN<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>.<lb/>
                   Del<unclear>i</unclear>ght<unclear>e</unclear>d to hear you are<lb/>
-                  back.<lb/>
-                  Could you and <rs type="person" ref="#amp_person_225">your mother</rs><lb/>
-                  come to lunch <del><unclear>on</unclear></del> next Tuesday ?<lb/>
-                  love<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>
+                  back.
                </p>
+               <p>
+                  Could you and <rs type="person" ref="#amp_person_225">your mother</rs><lb/>
+                  come to lunch <del><unclear>on</unclear></del> next Tuesday ?
+               </p>
+               <closer>
+                  <salute>love</salute><lb/>
+                  <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
+               </closer>
+            </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0082/" type="sheet"/>
+            </div>       
          </div>
       </body>
    </text>
