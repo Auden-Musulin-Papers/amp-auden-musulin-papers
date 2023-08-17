@@ -167,15 +167,21 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
                   </opener>
                <p>
-                  <lb/>
                   How are you and where are
-                  you?<lb/>
+                  you?
+               </p>
+               <p>   
                   If in <rs type="place" ref="#amp_place_id_7">Fridau</rs>,<rs type="person" ref="#amp_person_1 #amp_person_4">we</rs> would love to<lb/>
                   see you. Am <rs type="event" ref="#amp_event_id_16">expecting <rs type="person" ref="#amp_person_3">Christiane<lb/>
-                  Zimmer</rs></rs> <rs type="place" ref="#amp_place_id_2">here</rs> about <del><gap reason="deleted"/></del> August 5th.<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>
+                  Zimmer</rs></rs> <rs type="place" ref="#amp_place_id_2">here</rs> about <del><gap reason="deleted"/></del> August 5th.
                </p>
+              <closer>
+                 <salute></salute><lb/> <!-- there is not a salute -->
+                 <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
+              </closer>    
+               </div>    
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0124/" type="sheet"/>
+            </div>    
          </div>
       </body>
    </text>
