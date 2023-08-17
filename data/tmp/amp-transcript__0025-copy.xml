@@ -105,6 +105,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-10-27">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-18">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
+         <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,40 +124,62 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0025">
+            <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0129/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="event" ref="#amp_event_id_17">Dines wi<unclear>th</unclear> <rs type="person" ref="#amp_person_109">Pfa<unclear>rr</unclear>er</rs></rs>.
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
+               <address>   
                   <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
-                  Neulinggasse 26</rs>.
-               </p>
+                  Neulinggasse 26.</rs>
+               </address>   
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0130/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="person" ref="#amp_person_1">WH<unclear>.</unclear>Auden<unclear>.</unclear></rs><lb/>
-               </p>
-               <p hand="#printed">
+                <seg type="#printed"> 
+                 <address>
                   <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
                   N.-Ö., AUSTRIA</rs>
-               </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0131/" type="sheet"/>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
-                  Friday or Satu<unclear>r</unclear>day fine,except<lb/>
-                  <rs type="person" ref="#amp_person_1 #amp_person_4">we</rs> dine <unclear>wi</unclear>t<unclear>h</unclear> the <rs type="person" ref="#amp_person_109">Pfarrer</rs> Saturday eve<unclear>ni</unclear>ng.<lb/>
-                  Do come to l<unclear>u</unclear>nch.<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>.
-               </p>
+                 </address>    
+                </seg>    
+               </ab>
+            </div>
+            <div type="letter">
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0131/" type="sheet"/>
+                  <div type="letter_message">
+                     <opener>
+                        <dateline>
+                           <placeName>
+                              <seg type="#printed">
+                                 <address>
+                                    <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                                       HINTERHOLZ 6<lb/>
+                                       N.-Ö., AUSTRIA</rs>
+                                 </address>
+                              </seg>
+                           </placeName>
+                        </dateline>
+                        <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
+                     </opener>
+                   <p>
+                     Friday or Satu<unclear>r</unclear>day fine,except
+                     <rs type="person" ref="#amp_person_1 #amp_person_4">we</rs> dine <unclear>wi</unclear>t<unclear>h</unclear> the <rs type="person" ref="#amp_person_109">Pfarrer</rs> Saturday eve<unclear>ni</unclear>ng.<lb/>
+                     Do come to l<unclear>u</unclear>nch.
+                  </p>
+                 <closer>
+                    <salute></salute>
+                    <lb></lb>
+                    <signed><rs type="person" ref="#amp_person_1">Wystan</rs>.</signed>
+                 </closer>
+                  </div>        
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0132/" type="sheet"/>
+            </div>    
          </div>
       </body>
    </text>

@@ -103,6 +103,7 @@
          <change who="smayer tfruehwirth" when="2022-01-03">transcriptions collated</change>
          <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-23">entities and correspDesc collated</change>
+         <change who="dgrigoriou smayer" when="2023-08-17">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -115,20 +116,24 @@
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0030">
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0221/" type="sheet"/>
-               <p>
-                  <space quantity="40" unit="char"/>29th November 1985.
-               </p>
-               <p>
-                  <rs type="person" ref="#amp_person_156">The Revd. Br<del><unclear>i</unclear></del>uce Duncan</rs>,<lb/>
-                  <rs type="place" ref="#amp_place_id_170">The Vicarage,<lb/>
-                  Crediton<lb/>
-                  Devon  EX17 2AS.</rs>
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_156">Mr. Duncan</rs>,
-               </p>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <date rend="#block"><space quantity="40" unit="char"/>29th November 1985.</date>
+                        <placeName>
+                           <address>
+                              <persName><rs type="person" ref="#amp_person_156">The Revd. Br<del><unclear>i</unclear></del>uce Duncan,</rs></persName><lb/>
+                              <rs type="place" ref="#amp_place_id_170">The Vicarage,<lb/>
+                                 Crediton<lb/>
+                                 Devon  EX17 2AS.</rs>
+                           </address>
+                        </placeName>
+                     </dateline>
+                     <salute>Dear <rs type="person" ref="#amp_person_156">Mr. Duncan</rs>,</salute>
+                  </opener>
                <p>
                   <space quantity="5" unit="char"/>I am a more or less retired journalist and author,<lb/>
                   and am working on <rs type="lit_work" ref="#lit_work_id_46">a memoir of W.H. Auden´s years in Austria</rs><lb/>
@@ -140,10 +145,14 @@
                   side and the local Austrian authorities. <space quantity="1" unit="char"/>Hence my approach<lb/>
                   to you;  on enquiry I was given your name by the present<lb/>
                   incumbent of the Chaplaincy to the <rs type="org" ref="#amp_organization_27">British Embassy in Vienna</rs>,<lb/>
-                  <rs type="person" ref="#amp_person_118">Canon Phillips</rs>.<lb/>
+                  <rs type="person" ref="#amp_person_118">Canon Phillips</rs>.
+               </p>    
+               <p>
                   <space quantity="4" unit="char"/>Would you be so kind as to confirm that you took the<lb/>
                   <rs type="event" ref="#amp_event_id_19">ecumenical service</rs> - shall I<del>S</del>scall it that? in the <rs type="place" ref="#amp_place_id_104">church at<lb/>
-                  Kirchstetten</rs> in October 1973, jointly with the <rs type="person" ref="#amp_person_">parish priest</rs>?<lb/>
+                  Kirchstetten</rs> in October 1973, jointly with the <rs type="person" ref="#amp_person_">parish priest</rs>?
+               </p>
+              <p>    
                   <space quantity="5" unit="char"/>Do you recall the form of service used, and did <rs type="person" ref="#amp_person_88">John Auden</rs><lb/>
                   consult you about it? <space quantity="1" unit="char"/>I simply cannot remember, and al<del><gap reason="deleted"/></del>s<del>h</del>though<lb/>
                   there was a long and magnificent passage from the <rs type="lit_work" ref="#lit_work_id_113">NT</rs> which I<lb/>
@@ -157,19 +166,17 @@
                   everything about <rs type="person" ref="#amp_person_1">Wystan Auden</rs> was very appetising, his private<lb/>
                   life was a mess. <space quantity="1" unit="char"/>But he was kind, generous and totally<lb/>
                   unpreten<del>s</del>tious, and personally I was devoted to him. <space quantity="1" unit="char"/>It is
-               </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0222/" type="sheet"/>
-               <p>
                   my dim recollection that some verse or other in the <rs type="lit_work" ref="#lit_work_id_59">Bible</rs><lb/>
                   reading might help me to describe that amazing mixture of<lb/>
                   awe-inspiring talent and high scholarship, wretchedness and squalor.
                </p>
-               <p>
-                  <space quantity="28" unit="char"/>Yours sincerely,
-               </p>
-               <p>
-                  <space quantity="28" unit="char"/><rs type="person" ref="#amp_person_2">Stella Musulin</rs>.
-               </p>
+               <closer>
+                  <salute><space quantity="28" unit="char"/>Yours sincerely,</salute><lb/>
+                  <signed><space quantity="28" unit="char"/><rs type="person" ref="#amp_person_2">Stella Musulin</rs>.</signed>
+               </closer>
+               </div>
+           </div> 
          </div>
       </body>
    </text>
