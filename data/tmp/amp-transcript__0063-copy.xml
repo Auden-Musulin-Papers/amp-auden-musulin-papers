@@ -104,6 +104,7 @@
             <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
             <change who="dgrigoriou" when="2023-03-13">text transcribed</change>
             <change who="dgrigoriou smayer tfruehwirth" when="2023-07-05">transcription collated</change>
+            <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -116,25 +117,37 @@
     </facsimile>
     <text type="letter" hand="#handwritten">
         <body>
-            <div xml:id="transcription">
+            <div type="transcription" xml:id="transcription_amp_0063">
+              <div type="letter"> 
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0463/" type="sheet"/>
-                <p hand="#handwritten">
-                    <rs type="person" ref="#amp_person_2">STELLA MUSULIN</rs>.
-                </p>
-                <p hand="#printed">
-                    <rs type="place" ref="#amp_place_id_11">WIEN III.,<lb/>
-                    NEULINGGASSE 26</rs>
-                </p>
-                <p hand="#printed">
-                    <rs type="place" ref="#amp_place_id_7">FRIDAU<lb/>
-                    OBERGRAFENDORF<lb/>
-                    bei ST. PÖLTEN, N. Ö.</rs>
-                </p>
-                <p>
-                    23. <unclear>M</unclear>ai .
-                </p>
-                <p>
-                    Sehr geehrte <rs type="person" ref="#amp_person_204">Frau Busta</rs>,<lb/>
+                 <div type="letter_message"> 
+                  <opener>
+                      <dateline>
+                          <persName>
+                              <seg type="#handwritten">
+                                  <rs type="person" ref="#amp_person_2">STELLA MUSULIN</rs>.
+                              </seg>
+                          </persName>
+                          <placeName>
+                              <seg type="#printed">
+                                  <address>
+                                    <rs type="place" ref="#amp_place_id_11">WIEN III.,<lb/>
+                                    NEULINGGASSE 26</rs> 
+                                  </address>
+                              </seg>
+                              <seg type="#printed">
+                                  <address>
+                                      <rs type="place" ref="#amp_place_id_7">FRIDAU<lb/>
+                                      OBERGRAFENDORF<lb/>
+                                      bei ST. PÖLTEN, N. Ö.</rs>
+                                  </address>
+                              </seg>
+                          </placeName>
+                         <date rend="#block">23. <unclear>M</unclear>ai .</date>
+                      </dateline>
+                      <salute>Sehr geehrte <rs type="person" ref="#amp_person_204">Frau Busta</rs>,</salute><lb/>
+                  </opener>
+                 <p> 
                     Ich wollte Sie heute Abend nicht<lb/>
                     aufhalten<unclear>.</unclear> Sie hätten sich wahrscheinlich nicht<lb/>
                     an mich erinnert <unclear>_</unclear> vor drei, vier Jahren<lb/>
@@ -142,8 +155,8 @@
                     "interviewed"; und doch möchte ich mich<lb/>
                     für die Freude, die <del>sich</del> Sie mir heute gemacht<lb/>
                     haben, bedanken.    
-                </p>
-                <p>
+                 </p>
+                 <p>
                     Dieser Brief hat aber einen weiteren Grund.<lb/>
                     <rs type="person" ref="#amp_person_1">Professor Auden</rs> begrüsste Sie <unclear>_</unclear> und verschwand.<lb/>
                     Er ist ein erstaunlich bescheidener Mensch<lb/>
@@ -155,48 +168,51 @@
                     gesprochen hat. Wenn Sie erlauben: auch<lb/>
                     Ihr Wesen, und die Art, wie Sie vorlesen,<lb/>
                     <del><gap reason="deleted"/></del>sind ihm sehr sympathisch .
-                </p>
-                <p>
+                 </p>
+                 <p>
                     Sein Freund und Mitarbeiter <rs type="person" ref="#amp_person_4">Chester<lb/>
                     Kallman</rs>, war auch da<unclear><del>r</del></unclear>. Er ist ebenfalls<lb/>
                     Dichter, vor allem Librettist (<rs type="person" ref="#amp_person_25">Stravinsky</rs>,<lb/>
                     <rs type="person" ref="#amp_person_79">Henze</rs>, <rs type="person" ref="#amp_person_115">Brecht</rs> u.s.w.) Er versteht zu wenig<lb/>
                     Deutsch, es hat mich aber interessiert,
-                </p>
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0464/" type="sheet"/>
-                <p>
                     daß er imstande war, von der Technik<lb/>
                     Ihrer Dichtung eine Menge herauszuhören<lb/>
                     die der Laie, wenn er nur für den Inhalt<lb/>
                     Ohren hat<unclear>,</unclear> oft überhört .
                 </p>
-                <p>
+                 <p>
                     Übrigens: warum wohl niemand <del>die</del>nach den<lb/>
-                    <rs type="lit_work">"Hinterhöfen"</rs> applaudiert hat? Eins Ihrer<lb/><!-- rs work Christine Busta Meine Hinterhöfe -->
+                    <rs type="lit_work" ref="#lit_work_id_156">"Hinterhöfen"</rs> applaudiert hat? Eins Ihrer<lb/>
                     <unclear>S</unclear>chönsten Gedichten<unclear>,</unclear> hat es etwas<lb/>
                     (ärgern Sie sich nicht) <rs type="person" ref="#amp_person_42">Hofmannsthal</rs>sches<lb/>
                     an sich.
-                </p>
-                <p>
+                 </p>
+                 <p>
                     Sehr geehrte <rs type="person" ref="#amp_person_204">Frau Busta</rs>, ich werde diesen<lb/> 
                     Brief sofort beenden, es ist ohnehin schon<lb/> 
                     halb eins! Halten Sie diesen Brief<lb/> 
                     <hi rend="underline">bitte</hi> nicht für irgend eine Art von<lb/>
                     Wichtigtuerei, ich wollte nur <rs type="person" ref="#amp_person_1">Auden</rs>s<lb/>
                     Lob weiterreichen.
-                </p>
-                <p>
-                    Mit herzlichen Grüssen und<lb/>
-                    besten Wü<unclear><del>s</del>n</unclear>schen
-                </p>
-                <p>
+                 </p>
+                <closer>
+                    <salute>Mit herzlichen Grüssen und<lb/>
+                    besten Wü<unclear><del>s</del>n</unclear>schen<lb/>
                     Ihre
-                    <rs type="person" ref="#amp_person_4">Stella Musulin</rs> .
-                </p>
-                <p>
-                    beantw <unclear>,</unclear> 3.6.62
-                </p>    
+                    </salute><lb/>
+                    <signed>
+                        <rs type="person" ref="#amp_person_4">Stella Musulin</rs> .
+                    </signed>
+                </closer>
+                <postscript hand="#handwritten">
+                    <p>  
+                        beantw <unclear>,</unclear> 3.6.62
+                    </p>
+                </postscript>
+              </div>  
             </div>
+          </div>      
         </body>
     </text>
 </TEI>

@@ -117,31 +117,44 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0058">
+           <div type="letter"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0107/" type="sheet"/>
-               <p>
+              <div type="letter_message"> 
+               <ab>
                   K<unclear>ö</unclear>nnen Sie Mittwoch<lb/>
                   <unclear>a</unclear>ns<unclear>t</unclear>att Donnerstag zum Abend<unclear>e</unclear>ssen kommen<lb/>
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_1">Auden</rs>
-               </p>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
+               </ab>
+                 <opener>
+                    <dateline>
+                       <date><unclear>S</unclear>onntag.</date>
+                       <placeName>
+                          <seg type="printed">
+                             <address>
+                                <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                                HINTERHOLZ 6<lb/>
+                                N.-Ö., AUSTRIA</rs>
+                             </address>
+                          </seg>
+                       </placeName>
+                    </dateline>
+                    <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
+                 </opener>
                <p>
-                  <unclear>S</unclear>onntag.
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Good. Will be at <rs type="place" ref="#amp_place_id_">your place</rs><lb/>
-                  on Thu<unclear>r</unclear>sday (19th) at 6.p.m<unclear>.</unclear><lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>
+                  on Thu<unclear>r</unclear>sday (19th) at 6.p.m<unclear>.</unclear><lb/>  
                </p>
+              <closer>
+                 <salute></salute>
+                 <lb></lb>
+                 <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
+              </closer>   
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0108/" type="sheet"/>
-         </div>
+          </div>
+        </div>       
       </body>
    </text>
 </TEI>

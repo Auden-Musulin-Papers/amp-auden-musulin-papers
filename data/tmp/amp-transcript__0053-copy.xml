@@ -103,6 +103,7 @@
             <change who="smayer tfruehwirth" when="2021-12-15">transcriptions collated</change>
             <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
             <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">and correspDesc collated</change>
+            <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -115,16 +116,22 @@
     </facsimile>
     <text type="letter" hand="#typed">
         <body>
-            <div xml:id="transcription">
+            <div type="transcription" xml:id="transcription_amp_0053">
+              <div type="letter">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0219/" type="sheet"/>
-                <p>
-                    <space quantity="35" unit="char"/>29.Mai.
-                </p>
-                <p>
-                    <del><rs type="person" ref="#amp_person_151">Liebling</rs>,</del><lb/>
+                  <div type="letter_message">
+                      <opener>
+                          <dateline>
+                              <date rend="block"><space quantity="35" unit="char"/>29.Mai.</date>
+                          </dateline>
+                          <salute><del><rs type="person" ref="#amp_person_151">Liebling</rs>,</del></salute><lb/>
+                      </opener>
+                  <p>
                     <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_2">Ich</rs> habe schon sehr lange nicht geschrieben, Du wirst<lb/>
                     Dich, fürchte ich, schon kränken. <space quantity="1" unit="char"/>Sehr schön war es, Deine<lb/>
-                    Stimme zu hören, leider hattest Du nicht viel davon.<lb/>
+                    Stimme zu hören, leider hattest Du nicht viel davon.
+                 </p>
+                  <p>    
                     <space quantity="5" unit="char"/>Heute stehe ich immer noch unter dem Eindruck des <rs type="event" ref="#amp_event_id_22">gest<del>ir</del>rigen<lb/>
                     Ausflugs</rs> nach <rs type="place" ref="#amp_place_id_2">Kirchstetten</rs> wohin ich <rs type="person" ref="#amp_person_54">Fritz Heer</rs> verabredeter-<lb/>
                     maßen zum Essen mitnahm. <space quantity="1" unit="char"/>Diese manisch-depressive Genie,<del>und</del><lb/>
@@ -162,7 +169,9 @@
                     kind<del>ische</del>liche Freude, die er empfindet, im gegeben Fall das plötzliche<lb/>
                     und völlig unaffektierte Bedürfnis, einen großen Mann zu<lb/>
                     huldigen. <space quantity="1" unit="char"/>Interessant, daß <rs type="person" ref="#amp_person_54">Heer</rs> mit der <rs type="person" ref="#amp_person_133">Droste-Hülshoff</rs> und<lb/>
-                    auch mit <rs type="person" ref="#amp_person_134">Bertha Suttner</rs> verwandt ist.<lb/>
+                    auch mit <rs type="person" ref="#amp_person_134">Bertha Suttner</rs> verwandt ist.
+                 </p>     
+                 <p>     
                     <space quantity="5" unit="char"/>Ohne Zweifel liegt in und um das Wesen <rs type="person" ref="#amp_person_54">Heer</rs>s etwas Tragisches<unclear>.</unclear><lb/>
                     Er ist ebenso unentbehrlich wie unbrauchbar. <space quantity="1" unit="char"/>Seine große Linie<lb/>
                     stimmt, die Details nicht, das geht für seine geistige Arbeit<lb/>
@@ -176,10 +185,8 @@
                     es sagen, weiler Naturwissenschaftler ist"): <space quantity="1" unit="char"/>"<rs type="person" ref="#amp_person_2">Sie</rs> müssen es<lb/>
                     mir glauben, daß es sich kein deutsches Professorenkollegium<lb/>
                     leisten kann, Sie zu sich zu nehmen." Ist er einfach zu<lb/>
-                    unbequem? <space quantity="1" unit="char"/>Was aber seine Person enbelangt, so empfindet er es
-                </p>
+                    unbequem? <space quantity="1" unit="char"/>Was aber seine Person enbelangt, so empfindet er es            
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0220/" type="sheet"/>
-                <p>
                     als weitaus schwieriger, mit sich selbst auszukommen, als<lb/>
                     dies für d<del>en</del>ie Mitmenschen der Fall ist. <space quantity="1" unit="char"/>"Ich bin noch immer das<lb/>
                     verschreckte, verheulte Kind, das sich irgendwie durchschlagen<lb/>
@@ -195,12 +202,16 @@
                     über die schöne Natur glücklich, über ruhige Dörfer und hübsche<lb/>
                     Häuser. sprach über diesen uralten Kulturboden, "wo die Leute<lb/>
                     noch heute Sachen tun, die vier, fünf Jahrtausende zurück<del>liegen</del><lb/>
-                    reichen, und sie wissen es nicht."<lb/>
+                    reichen, und sie wissen es nicht."
+                </p>
+                 <p>     
                     <space quantity="5" unit="char"/>Des Rätsels Lösung, des fast überentwickelten Geistes neben<lb/>
                     der zerrissenen, ungleichmäßig ausgereiften Persönlichkeit,<lb/>
                     kennt er selbst, oder wenigstens zum Teil. <space quantity="1" unit="char"/>Es liegt i<del>n</del>m<lb/>
                     Entsetzen des 4-jährigen Kindes und in den seelischen<lb/>
-                    Entbehrungen, die die Scheidung seiner Eltern verursachte.<lb/>
+                    Entbehrungen, die die Scheidung seiner Eltern verursachte.
+                </p>
+                <p>      
                     <space quantity="5" unit="char"/>Ärgerst Du Dich schon darüber, daß ich so viel über <rs type="person" ref="#amp_person_54">Fritz<lb/>
                     Heer</rs> schreibe und wahrscheinlich deshalb weniger über andere<lb/>
                     Dinge weil die Zeit fehlen wird? <space quantity="1" unit="char"/>Ich tue es teils weil <del>e</del> ich<lb/>
@@ -218,7 +229,9 @@
                     freute ihn das enorm, und gleich <del><unclear>k</unclear>rie</del> kreisten seine Gedanken<lb/>
                     <del>u</del>in weiß Gott was für Konvolutionen. <space quantity="1" unit="char"/>Ach ja, jetzt weiß ich<lb/>
                     warum, er hat in <rs type="place" ref="#amp_place_id_176">Riga</rs> studiert und kannte wahrscheinlich jüdische<lb/>
-                    Menschen dort.<lb/>
+                    Menschen dort.
+                </p>
+                <p>     
                     <space quantity="5" unit="char"/>Also Schluß. <space quantity="1" unit="char"/>Pfingsten: <space quantity="1" unit="char"/>fast durchwegs herrliches Wetter,<lb/>
                     es war zum T. Besuch draussen, u.a. <rs type="person" ref="#amp_person_141">Sony</rs>, <rs type="person" ref="#amp_person_146">ihre Mutter</rs> und die<lb/>
                     <rs type="person" ref="#amp_person_142">Amélie</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_94">Marko</rs> und ich sind Samstag vormittag hinaus- und<lb/>
@@ -241,12 +254,16 @@
                     und diesen hat auch die <rs type="person" ref="#amp_person_140">Prinzessin Anne</rs> gee<del>h</del>rbt.<lb/>
                     Daß Deine Haut im Augenblick <del>k</del>in keinem guten Zustand ist,<lb/>
                     ist sehr ärgerlich und ich frage mich, was die Ursache sein<lb/>
-                    könnte.<lb/>
+                    könnte.
+                 </p>
+                 <p>     
                     <space quantity="5" unit="char"/>Daß Du Schuppen hast, habe ich nie gemerkt, aber nimm<lb/>
                     doch einen guten Schuppen-Schaumpon. <space quantity="1" unit="char"/>Freilich kann das alles<lb/>
                     mit dem Alter zu tun <del><unclear>z</unclear></del>haben. <space quantity="1" unit="char"/>Freuen wir uns auf den Teint, den<lb/>
                     Du nachher haben wirst... <space quantity="1" unit="char"/>Ich will mir <rs type="person" ref="#amp_person_148">Livia</rs>s Stimme, wie sie
-                </p>
+                 </p>
+                  </div>
+              </div>    
             </div>
         </body>
     </text>

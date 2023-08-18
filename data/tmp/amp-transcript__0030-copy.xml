@@ -103,7 +103,7 @@
          <change who="smayer tfruehwirth" when="2022-01-03">transcriptions collated</change>
          <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-23">entities and correspDesc collated</change>
-         <change who="dgrigoriou smayer" when="2023-08-17">container structure updated</change>
+         <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -117,15 +117,15 @@
    <text type="letter" hand="#typed">
       <body>
          <div type="transcription" xml:id="transcription_amp_0030">
-            <div type="letter">
+           <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0221/" type="sheet"/>
                <div type="letter_message">
                   <opener>
                      <dateline>
                         <date rend="#block"><space quantity="40" unit="char"/>29th November 1985.</date>
+                        <persName><rs type="person" ref="#amp_person_156">The Revd. Br<del><unclear>i</unclear></del>uce Duncan,</rs></persName><lb/>
                         <placeName>
                            <address>
-                              <persName><rs type="person" ref="#amp_person_156">The Revd. Br<del><unclear>i</unclear></del>uce Duncan,</rs></persName><lb/>
                               <rs type="place" ref="#amp_place_id_170">The Vicarage,<lb/>
                                  Crediton<lb/>
                                  Devon  EX17 2AS.</rs>

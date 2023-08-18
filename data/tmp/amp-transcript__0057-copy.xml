@@ -110,6 +110,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-11-23">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-10">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated</change>
+         <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -122,29 +123,39 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0057">
+           <div type="envelope"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0105/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Mussolin</rs><lb/>
+                 <address>
                   <rs type="place" ref="#amp_place_id_11"><del>WIEN III</del><lb/>
                   <del>Neulinggasse 26</del></rs>
-               </p>
-               <p hand="#handwritten">
-                  <rs type="place" ref="#amp_place_id_7">FRIDAU<lb/>
-                  OBERGRAFENDORF<lb/>
-                  BEI ST<unclear>-</unclear>PÖLTEN<lb/>
-                  N.Ö.</rs>
-               </p>
+                </address>  
+                <seg type="hand">
+                   <address>
+                     <rs type="place" ref="#amp_place_id_7">FRIDAU<lb/>
+                     OBERGRAFENDORF<lb/>
+                     BEI ST<unclear>-</unclear>PÖLTEN<lb/>
+                     N.Ö.</rs>
+                   </address>
+                </seg>  
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0106/" type="envelope"/>
-               <p>
+               <ab>
+                 <seg type="hand"> 
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs>
-               </p>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
+                 </seg>  
+                 <seg type="printed">
+                   <address>
+                     <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                     HINTERHOLZ 6<lb/>
+                     N.-Ö., AUSTRIA</rs>
+                   </address>
+                 </seg> 
+               </ab>
+            </div>   
          </div>
       </body>
    </text>

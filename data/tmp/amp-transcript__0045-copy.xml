@@ -105,6 +105,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-11-10">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-04-06">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-28">entities and correspDesc collated</change>
+         <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,45 +124,65 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0045">
+           <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0109/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="person" ref="#amp_person_1">W. H<unclear>.</unclear> Auden</rs><lb/>
+                <address>  
                   <rs type="place" ref="#amp_place_id_2">Kirchstetten (West Bah<unclear>n</unclear>)<lb/>
                   Hinterholz # 6.<lb/>
                   N.O.</rs>
-               </p>
-               <p>
+                </address>   
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella M<unclear>us</unclear>ulin</rs><lb/>
+               <address>
                   <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                   Obergrafendorf<lb/>
                   bei St. Pölten<lb/>
                   N.<unclear>O</unclear></rs>
-               </p>
+               </address> 
+               </ab>
+            </div> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0110/" type="envelope"/>
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0111/" type="sheet"/>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <placeName>
+                           <address>
+                             <rs type="place" ref="#amp_place_id_5">Kirstetten.</rs>
+                           </address>
+                           <seg type="#printed">
+                              <address>
+                                 <rs type="org" ref="#amp_organization_6"><del>CHRIST CHURCH,</del><lb/>
+                                 <del>OXFORD.</del></rs>
+                              </address>
+                           </seg>   
+                        </placeName>
+                        <date rend="#inline">Thursday</date>
+                     </dateline>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:</salute><lb/>
+                  </opener>
                <p>
-                  <rs type="place" ref="#amp_place_id_5">Kirstetten</rs>.
-               </p>
-               <p>
-                  Thursday
-               </p>
-               <p hand="#printed">
-                  <rs type="org" ref="#amp_organization_6"><del>CHRIST CHURCH,</del><lb/>
-                  <del>OXFORD.</del></rs>
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:<lb/>
                   Delighted to get your ca<unclear>rd</unclear>. <rs type="person" ref="#amp_person_1 #amp_person_4">We</rs><lb/>
                   shall look forw<unclear>a</unclear>rd to seeing you<lb/>
-                  on Saturday aftern<unclear>o</unclear>on.<lb/>
-                  We have a gramophone now <hi rend="underline">and</hi> a<lb/>
-                  tape-rec<unclear>o</unclear>rder.<lb/>
-                  yours sinc<unclear>e</unclear>rely<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan Auden</rs>
+                  on Saturday aftern<unclear>o</unclear>on.
                </p>
+               <p>   
+                  We have a gramophone now <hi rend="underline">and</hi> a<lb/>
+                  tape-rec<unclear>o</unclear>rder.
+               </p>
+               <closer>
+                  <salute>yours sinc<unclear>e</unclear>rely</salute><lb/>
+                  <signed><rs type="person" ref="#amp_person_1">Wystan Auden</rs></signed>
+               </closer>   
+               </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0112/" type="sheet"/>
+            </div>     
          </div>
       </body>
    </text>

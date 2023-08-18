@@ -117,25 +117,31 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0059">
+           <div type="envelope"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0031/" type="envelope"/>
-               <p>
+               <ab>
                   <gap reason="illegible"/>
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baro<unclear>n</unclear>in Stell<unclear>a</unclear> Mus<unclear>so</unclear>lin</rs><lb/>
+                <address> 
                   <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
-                  Neulingasse 26</rs>.
-               </p>
+                  Neulingasse 26.</rs>
+                </address> 
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0032/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear> Auden</rs>
-               </p>
-               <p hand="#printed">
+               <seg type="#printed">
+                 <address>
                   <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
                   N.-Ö., AUSTRIA</rs>
-               </p>
+                  </address>
+                </seg>   
+               </ab>
+            </div> 
          </div>
       </body>
    </text>

@@ -104,6 +104,7 @@
             <change who="smayer tfruehwirth" when="2022-02-28">transcriptions collated</change>
             <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
             <change who="dgrigoriou smayer tfruehwirth" when="2023-03-02">entities and correspDesc collated</change>
+            <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -116,23 +117,32 @@
     </facsimile>
     <text type="letter" hand="#typed">
         <body>
-            <div xml:id="transcription">
+            <div type="transcription" xml:id="transcription_amp_0060">
+              <div type="letter"> 
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0253/" type="sheet"/>
-                <p hand="#handwritten">
-                    <unclear>A2</unclear>
-                </p>
-                <p>
-                    <rs type="person" ref="#amp_person_2">Frau<lb/>
-                    Stella von Musulin</rs><lb/>
-                    <rs type="place" ref="#amp_place_id_7">Friedau<lb/>
-                    3200 Obergrafendorf</rs>
-                </p>
-                <p>
-                    <space quantity="34" unit="char"/><rs type="place" ref="#amp_place_id_1">Wien</rs>, 22.März 1977
-                </p>
-                <p>
-                    Sehr verehrte, liebe <rs type="person" ref="#amp_person_2">gnädige Frau</rs>,
-                </p>
+                  <div type="letter_message">
+                    <opener>                                   
+                     <dateline>
+                      <persName>
+                        <rs type="person" ref="#amp_person_2">Frau<lb/>
+                        Stella von Musulin</rs><lb/>
+                     </persName>        
+                     <placeName>
+                      <address> 
+                        <rs type="place" ref="#amp_place_id_7">Friedau<lb/>
+                        3200 Obergrafendorf</rs>
+                     </address>  
+                     <address><space quantity="34" unit="char"/><rs type="place" ref="#amp_place_id_1">Wien,</rs></address>
+                     </placeName>  
+                      <date rend="#inline">22.März 1977</date>
+                     </dateline>
+                        <add>
+                            <seg type="handwritten">
+                                <unclear>A2</unclear>  
+                            </seg>
+                        </add>
+                     <salute>Sehr verehrte, liebe <rs type="person" ref="#amp_person_2">gnädige Frau</rs>,</salute>   
+                 </opener>
                 <p>
                     wie mit <rs type="person" ref="#amp_person_135">Frau Bronold</rs> mündlich vereinbart, möchte ich nun<lb/>
                     auch schriftlich festhalten, daß wir Sie sehr herzlich<lb/>
@@ -145,16 +155,16 @@
                     Ich wäre Ihnen nur sehr dankbar, wenn Sie uns umgehend<lb/>
                     den genauen Titel bekanntgeben könnten.
                 </p>
-                <p>
-                    Mit herzlichen Empfehlungen und Wünschen
-                </p>
-                <p>
-                    <space quantity="42" unit="char"/>Ihr
-                </p>
-                <p>
+                <closer>
+                    <salute>Mit herzlichen Empfehlungen und Wünschen</salute><lb/>
+                <signed>
+                    <space quantity="42" unit="char"/>Ihr<lb/>
                     <space quantity="32" unit="char"/>(<rs type="person" ref="#amp_person_137">Dr.Wolfgang Kraus</rs>)
-                </p>
+                </signed>
+                </closer>
+                  </div>        
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0254/" type="sheet"/>
+              </div>     
             </div>
         </body>
     </text>
