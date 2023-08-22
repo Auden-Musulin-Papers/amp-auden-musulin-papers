@@ -124,18 +124,18 @@
                      <opener>
                          <dateline>
                              <placeName>
-                                 <seg type="#printed">
+                                 <seg hand="#printed">
                                   <address>   
                                    <rs type="place" ref="#amp_place_id_11">NEULINGGASSE 26/14<lb/>
                                    1030 WIEN</rs><lb/>
                                   </address> 
                                  </seg>
-                                 <seg type="#printed">
+                                 <seg hand="#printed">
                                      TEL. 73 94 015
                                  </seg>
                                 </placeName>
                                  <date rend="#block"><space quantity="44" unit="char"/>5. April 1977</date>
-                             <seg type="#handwritten">
+                             <seg hand="#handwritten">
                                  <unclear>A2</unclear>
                              </seg>
                              <persName>
@@ -147,7 +147,7 @@
                            <space quantity="6" unit="char"/>für Literatur</rs><lb/>
                          </affiliation>
                          <placeName>
-                             <seg type="#typed">
+                             <seg hand="#typed">
                                  <address>   
                                     <rs type="place" ref="#amp_place_id_177">1010 Wien,<lb/>
                                     Palais Wilczek, He<del>e</del>rrengasse 5.</rs>

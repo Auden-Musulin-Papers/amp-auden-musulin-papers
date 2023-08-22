@@ -130,12 +130,12 @@ for any purpose, even commercially.</p>
                </ab>
                  <opener>
                     <dateline>
-                       <date><unclear>S</unclear>onntag.</date>
+                       <date rend="#block"><unclear>S</unclear>onntag.</date>
                        <placeName>
-                          <seg type="printed">
+                          <seg hand="#printed">
                              <address>
                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
-                                HINTERHOLZ 6<lb/>
+                                HINTERHOLZ    6<lb/>
                                 N.-Ö., AUSTRIA</rs>
                              </address>
                           </seg>
@@ -152,9 +152,10 @@ for any purpose, even commercially.</p>
                  <lb></lb>
                  <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
               </closer>   
+              </div>         
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0108/" type="sheet"/>
           </div>
-        </div>       
+        </div>     
       </body>
    </text>
 </TEI>

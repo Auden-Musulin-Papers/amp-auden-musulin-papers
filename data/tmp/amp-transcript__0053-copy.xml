@@ -122,7 +122,7 @@
                   <div type="letter_message">
                       <opener>
                           <dateline>
-                              <date rend="block"><space quantity="35" unit="char"/>29.Mai.</date>
+                              <date rend="#block"><space quantity="35" unit="char"/>29.Mai.</date>
                           </dateline>
                           <salute><del><rs type="person" ref="#amp_person_151">Liebling</rs>,</del></salute><lb/>
                       </opener>

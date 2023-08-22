@@ -143,7 +143,7 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="person" ref="#amp_person_1">WH Auden</rs>
                   <placeName>
-                     <seg type="#printed">
+                     <seg hand="#printed">
                         <address>  
                            <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                               BEZ. ST. PÖLTEN<lb/>
@@ -161,7 +161,7 @@ for any purpose, even commercially.</p>
                   <dateline>
                      <date rend="#block">Sept 18th.</date>
                      <placeName>
-                     <seg type="#printed">
+                     <seg hand="#printed">
                         <address>
                            <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                               BEZ. ST. PÖLTEN<lb/>

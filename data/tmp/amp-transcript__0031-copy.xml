@@ -135,7 +135,7 @@ for any purpose, even commercially.</p>
                             <space quantity="42" unit="char"/>bei St.Pölten, Austria.</rs>
                          </address>
                       </placeName>
-                           <date rend="#same_block"><space quantity="46" unit="char"/>15 De<del>d</del>cember 1985.</date> <!-- it belongs to the same group with address -->
+                           <date rend="#block"><space quantity="46" unit="char"/>15 De<del>d</del>cember 1985.</date> <!-- it belongs to the same group with address -->
                    </dateline>
                    <salute>Dear <rs type="person" ref="#amp_person_98">Ed</rs>,</salute>
                 </opener>

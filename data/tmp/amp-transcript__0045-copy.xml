@@ -156,7 +156,7 @@ for any purpose, even commercially.</p>
                            <address>
                              <rs type="place" ref="#amp_place_id_5">Kirstetten.</rs>
                            </address>
-                           <seg type="#printed">
+                           <seg hand="#printed">
                               <address>
                                  <rs type="org" ref="#amp_organization_6"><del>CHRIST CHURCH,</del><lb/>
                                  <del>OXFORD.</del></rs>

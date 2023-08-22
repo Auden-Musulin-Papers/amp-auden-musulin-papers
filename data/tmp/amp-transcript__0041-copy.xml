@@ -155,7 +155,7 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H.Auden</rs>
                    <placeName>
-                     <seg type="#printed">
+                     <seg hand="#printed">
                         <address>  
                            <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                               BEZ. ST. PÖLTEN<lb/>
@@ -173,7 +173,7 @@ for any purpose, even commercially.</p>
                      <dateline>
                         <date rend="#block">July 6th<unclear>.</unclear></date>
                         <placeName>
-                           <seg type="#printed">
+                           <seg hand="#printed">
                               <address>
                                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                                     BEZ. ST. PÖLTEN<lb/>

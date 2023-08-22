@@ -128,11 +128,11 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/" type="envelope"/>
                <ab>
-                  <seg type="#handwritten">
+                  <seg hand="#handwritten">
                   <rs type="person" ref="#amp_person_2">Die Baroni<unclear>n</unclear><lb/>
                   Stella von Mussolin</rs><lb/>
                   </seg>
-                  <seg type="#handwritten">
+                  <seg hand="#handwritten">
                 <address>
                   <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
                   Neulingasse 26<unclear>,</unclear></rs><lb/>
@@ -143,7 +143,7 @@ for any purpose, even commercially.</p>
                   <seg hand="#handwritten">
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
                   </seg>
-                  <seg type="#printed">
+                  <seg hand="#printed">
                   <address>
                   <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                   HINTERHOLZ 6<lb/>
@@ -159,7 +159,7 @@ for any purpose, even commercially.</p>
                      <dateline>
                         <date rend="#block">Friday</date>
                         <placeName>
-                           <seg type="#printed">
+                           <seg hand="#printed">
                               <address>
                                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                                  HINTERHOLZ 6<lb/>

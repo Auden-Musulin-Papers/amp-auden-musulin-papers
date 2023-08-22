@@ -124,10 +124,10 @@ for any purpose, even commercially.</p>
                   <opener>
                      <dateline>
                         <placeName>
-                           <seg type="printed">
+                           <seg hand="#printed">
                               <affiliation><rs type="org" ref="#amp_organization_31">UNIVERSITY OF DUBLIN</rs></affiliation>
                            </seg>
-                           <seg type="printed">
+                           <seg hand="#printed">
                               <affiliation><rs type="org" ref="#amp_organization_32">TRINITY COLLEGE</rs><lb/>
                               DUBLIN 2</affiliation>
                            </seg>
@@ -141,12 +141,12 @@ for any purpose, even commercially.</p>
                            <seg>
                               <space quantity="60" unit="char"/>Tel : 762662.
                            </seg>
-                           <seg type="printed">
+                           <seg hand="#printed">
                               <space quantity="60" unit="char"/>Tel. 772941
                            </seg> 
                         </placeName>
                         <date rend="#block">
-                           <seg type="hadwritten">
+                           <seg hand="#handwritten">
                               31 : V: 1984
                            </seg>
                         </date>

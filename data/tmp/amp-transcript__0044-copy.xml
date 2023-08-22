@@ -123,11 +123,11 @@ for any purpose, even commercially.</p>
                <div type="letter_message">
                   <opener>
                      <dateline>
-                      <seg type="printed">  
+                      <seg hand="#printed">  
                         from <rs type="person" ref="#amp_person_19">Peter Heyworth</rs>
                       </seg>  
                         <placeName>
-                           <seg type="printed">
+                           <seg hand="#printed">
                               <address>
                                  <rs type="place" ref="#amp_place_id_45">32 BRYANSTON SQUARE <space quantity="1" unit="char"/>LONDON W1 <space quantity="1" unit="char"/>· <space quantity="1" unit="char"/>AMBASSADOR 8906</rs>
                               </address>

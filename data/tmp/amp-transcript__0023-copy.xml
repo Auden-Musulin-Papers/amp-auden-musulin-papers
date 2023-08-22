@@ -139,7 +139,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0122/" type="envelope"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs>
-                  <seg type="#printed">  
+                  <seg hand="#printed">  
                      <address> 
                         <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                         HINTERHOLZ 6<lb/>
@@ -155,7 +155,7 @@ for any purpose, even commercially.</p>
                      <dateline>
                         <date rend="#block">July 23rd.</date>
                         <placeName>
-                           <seg type="#printed">
+                           <seg hand="#printed">
                               <address>
                                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                                     HINTERHOLZ 6<lb/>

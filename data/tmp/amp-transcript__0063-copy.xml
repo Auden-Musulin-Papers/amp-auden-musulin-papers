@@ -124,18 +124,18 @@
                   <opener>
                       <dateline>
                           <persName>
-                              <seg type="#handwritten">
+                              <seg hand="#handwritten">
                                   <rs type="person" ref="#amp_person_2">STELLA MUSULIN</rs>.
                               </seg>
                           </persName>
                           <placeName>
-                              <seg type="#printed">
+                              <seg hand="#printed">
                                   <address>
                                     <rs type="place" ref="#amp_place_id_11">WIEN III.,<lb/>
                                     NEULINGGASSE 26</rs> 
                                   </address>
                               </seg>
-                              <seg type="#printed">
+                              <seg hand="#printed">
                                   <address>
                                       <rs type="place" ref="#amp_place_id_7">FRIDAU<lb/>
                                       OBERGRAFENDORF<lb/>
