@@ -14,7 +14,7 @@
                <address>
                   <street>Sensengasse 1</street>
                   <postCode>1090 Vienna</postCode>
-                  <placeName>
+                  <placeName> <!-- try comment -->
                      <country>A</country>
                      <settlement>Vienna</settlement>
                   </placeName>
@@ -143,7 +143,7 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="person" ref="#amp_person_1">WH Auden</rs>
                   <placeName>
-                     <seg hand="#printed">
+                     <seg hand="#printed"> 
                         <address>  
                            <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                               BEZ. ST. PÖLTEN<lb/>
