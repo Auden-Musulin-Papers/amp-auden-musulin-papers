@@ -105,6 +105,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-10-14">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
+         <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,46 +124,64 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0017">
+            <div type="envelope"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0083/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="lit_work" ref="#lit_work_id_33">"A Certain World<unclear>"</unclear></rs>.
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_11">1030 Wien III<lb/>
-                  Neulinggasse 26/14</rs>
-               </p>
+                  <address>    
+                     <rs type="place" ref="#amp_place_id_11">1030 Wien III<lb/>
+                     Neulinggasse 26/14</rs>
+                  </address>    
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0084/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="person" ref="#amp_person_1">WH Auden</rs><lb/>
-               </p>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
-                  BEZ. ST. PÖLTEN<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
+                  <seg hand="#printed">
+                     <address>  
+                        <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
+                        BEZ. ST. PÖLTEN<lb/>
+                        HINTERHOLZ 6<lb/>
+                        N.-Ö., AUSTRIA</rs>
+                     </address>    
+                  </seg> 
+               </ab>  
+            </div>
+            <div type="letter"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0085/" type="sheet"/>
-               <p>
-                  June 4th.
-               </p>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
-                  BEZ. ST. PÖLTEN<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+              <div type="letter_message">  
+                <opener>
+                   <dateline>
+                      <date rend="#block">June 4th.</date>
+                      <placeName>
+                         <seg hand="#printed">
+                         <address>
+                            <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
+                               BEZ. ST. PÖLTEN<lb/>
+                               HINTERHOLZ 6<lb/>
+                               N.-Ö., AUSTRIA</rs>
+                         </address>
+                      </seg>
+                   </placeName>  
+                </dateline>
+                <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
+                </opener>
+                <p>
                   I have <unclear>a</unclear> copy of <rs type="lit_work" ref="#lit_work_id_33"><hi rend="underline">A Cert<unclear>a</unclear>in World</hi></rs><lb/>
                   for you ,t<unclear>o</unclear> pi<unclear>c</unclear>k up any time at<lb/>
-                  your convenience.<lb/>
-                  love<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>
-               </p>
+                  your convenience.
+                 </p>
+                 <closer>
+                    <salute>love</salute><lb/>
+                    <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
+                 </closer>
+              </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0086/" type="sheet"/>
+            </div>   
          </div>
       </body>
    </text>

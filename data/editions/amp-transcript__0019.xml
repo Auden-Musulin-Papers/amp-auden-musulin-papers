@@ -105,6 +105,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-10-18">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-16">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
+         <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,52 +124,66 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0019">
+            <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0091/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H.Auden</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                  New York City<lb/>
-                  N.Y . 10003<lb/>
-                  U.S.A</rs>
-               </p>
-              <p>
-                 Not <unclear>q</unclear>uitti<unclear>n</unclear>g <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> <unclear>·</unclear>
-              </p>
-              <p>
+                  <address>  
+                     <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                     New York City<lb/>
+                     N.Y . 10003<lb/>
+                     U.S.A</rs>
+                  </address>    
+               </ab>
+               <ab>
+                  Not <unclear>q</unclear>uitti<unclear>n</unclear>g <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> <unclear>·</unclear>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
-                 <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
-                  Obergrabendorf<lb/>
-                  N. Ö<lb/>
-                  Austria
-                 <lb/>
-                 <lb/>
-                 3200</rs>
-               </p>
+                  <address> 
+                     <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
+                     3200 Obergrabendorf<lb/>
+                     N. Ö<lb/>
+                     Austria</rs>
+                  </address>
+               </ab>   
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0092/" type="envelope"/>
+            </div>
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0093/" type="sheet"/>
-            
-               <p>
-                  Feb 22nd, 1972
-               </p>
-               <p>
-                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                  New York City<lb/>
-                  N.Y. 10003</rs>
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>;</unclear><lb/>
-                  Many thanks for your letter<unclear>,</unclear> Whate<unclear>ve</unclear>r<lb/>
-                  ma<unclear>d</unclear>e you imagine I was quitting <rs type="place" ref="#amp_place_id_5">Kirchst<unclear>e</unclear>tten</rs><unclear>?</unclear><lb/>
-                  Of course I'm not<unclear>,</unclear> The <rs type="event" ref="#amp_event_id_43">change</rs> is that I<lb/>
-                  shall be spending my winters in <rs type="place" ref="#amp_place_id_46">Oxford</rs><lb/>
-                  not in <rs type="place" ref="#amp_place_id_28">New York</rs>.<lb/>
-                  love<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>
-               </p>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <date rend="#block">Feb 22nd, 1972</date>
+                        <placeName>
+                           <address>
+                              <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                              New York City<lb/>
+                              N.Y. 10003</rs>
+                           </address>
+                        </placeName>
+                     </dateline>
+                     <salute>
+                        Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>;</unclear>
+                     </salute><lb/>
+                  </opener>
+                  <p>
+                     Many thanks for your letter<unclear>,</unclear> Whate<unclear>ve</unclear>r<lb/>
+                     ma<unclear>d</unclear>e you imagine I was quitting <rs type="place" ref="#amp_place_id_5">Kirchst<unclear>e</unclear>tten</rs><unclear>?</unclear><lb/>
+                     Of course I'm not<unclear>,</unclear> The <rs type="event" ref="#amp_event_id_43">change</rs> is that I<lb/>
+                     shall be spending my winters in <rs type="place" ref="#amp_place_id_46">Oxford</rs><lb/>
+                     not in <rs type="place" ref="#amp_place_id_28">New York</rs>.
+                  </p>
+                  <closer>
+                     <salute>love</salute><lb/>
+                     <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
+                  </closer>
+               </div>     
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0094/" type="sheet"/>
          </div>
+      </div>
       </body>
    </text>
 </TEI>

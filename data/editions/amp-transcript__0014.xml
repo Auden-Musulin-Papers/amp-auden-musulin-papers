@@ -123,54 +123,84 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0014">
+            <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0063/" type="envelope"/>
-               <p>
+               <ab>
                   <hi rend="underline">Express</hi>
-               </p>
-               <p>
+               </ab>
+               <ab>
                   "<unclear>L</unclear>onging to hear abo<unclear>u</unclear>t<lb/>
                   <rs type="event" ref="#amp_event_id_7">royal visi<unclear>t</unclear></rs> .<unclear>"</unclear>
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musuli<unclear>m</unclear></rs><lb/>
-                  <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
-                  Neulinggasse 26/14</rs>
-               </p>
+                  <address>   
+                     <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
+                     Neulinggasse 26/14</rs>
+                  </address>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0064/" type="envelope"/>
-               <p>
-                  <rs type="person" ref="#amp_person_1">W<unclear>H.</unclear> Auden</rs>
-               </p>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
+               <ab>
+                  <rs type="person" ref="#amp_person_1">W<unclear>H.</unclear> Auden</rs><lb/>
+                  <seg type="#printed">
+                     <address>
+                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                        HINTERHOLZ 6<lb/>
+                        N.-Ö., AUSTRIA</rs>
+                     </address>
+                  </seg>
+               </ab>
+            </div>
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0065/" type="sheet"/>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
-               <p>
-                  May 21 st<unclear>.</unclear>. 1969
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>,</unclear><lb/>
-                  Ma<unclear>n</unclear>y thank f<unclear>o</unclear> your card<unclear>,</unclear> Had<lb/>
-                  tried several <unclear>ti</unclear>mes t<unclear>o</unclear> reach you<lb/>
-                  by phone,but w<unclear>ithou</unclear>t succ<unclear>e</unclear>ss<lb/>
-                  Wed<unclear>n</unclear>esday <del>lunch</del> May 28th is fine<lb/>
-                  for <rs type="person" ref="#amp_person_1 #amp_person_4">us</rs>,and we shall much look<lb/>
-                  forward to seeing you <rs type="person" ref="#amp_person_2 #amp_person_54">both</rs><unclear>-</unclear><lb/>
-                  <del>H</del> Longing to hear about the<lb/>
-                  <rs type="event" ref="#amp_event_id_7">Royal v<unclear>s</unclear>it</rs>.<lb/>
-                  love<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>'</unclear>
-               </p>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <placeName>
+                           <seg hand="#printed">
+                              <address>  
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
+                                 HINTERHOLZ 6<lb/>
+                                 N.-Ö., AUSTRIA</rs>
+                              </address>
+                           </seg>
+                        </placeName>
+                        <date rend="#block">
+                           May 21 st<unclear>.</unclear>. 1969
+                        </date>
+                     </dateline>
+                     <salute>
+                        Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>,</unclear>
+                     </salute><lb/>   
+                  </opener>
+                  <p>
+                     Ma<unclear>n</unclear>y thank f<unclear>o</unclear> your card<unclear>,</unclear> Had<lb/>
+                     tried several <unclear>ti</unclear>mes t<unclear>o</unclear> reach you<lb/>
+                     by phone,but w<unclear>ithou</unclear>t succ<unclear>e</unclear>ss  
+                  </p>
+                  <p>
+                     Wed<unclear>n</unclear>esday <del>lunch</del> May 28th is fine<lb/>
+                     for <rs type="person" ref="#amp_person_1 #amp_person_4">us</rs>,and we shall much look<lb/>
+                     forward to seeing you <rs type="person" ref="#amp_person_2 #amp_person_54">both</rs><unclear>-</unclear>
+                  </p>
+                  <p>
+                     <del>H</del> Longing to hear about the<lb/>
+                     <rs type="event" ref="#amp_event_id_7">Royal v<unclear>s</unclear>it</rs>.<lb/>
+                  </p>
+                  <closer>
+                     <salute>
+                        love
+                     </salute><lb/>
+                     <signed>
+                        <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>'</unclear>
+                     </signed>
+                  </closer>
+               </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0066/" type="sheet"/>
          </div>
+      </div>
       </body>
    </text>
 </TEI>

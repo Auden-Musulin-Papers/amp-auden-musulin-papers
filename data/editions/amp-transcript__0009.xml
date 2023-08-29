@@ -158,7 +158,7 @@ for any purpose, even commercially.</p>
                <div type="letter_message">
                   <opener>
                      <dateline>
-                        ℅ <rs type="person" ref="#amp_person_19">Heyworth</rs><!-- string in dateline allowed? -->
+                        ℅ <rs type="person" ref="#amp_person_19">Heyworth</rs>
                         <placeName>
                            <seg hand="#printed">
                               <address>
