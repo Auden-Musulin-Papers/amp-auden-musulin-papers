@@ -105,6 +105,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-10-22">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-17">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
+         <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,45 +124,65 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0022">
+            <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0117/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                     Stella Mu<unclear><del>s</del></unclear>silin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
-                  Neulingasse 26</rs>.
-               </p>
+                  Stella Mu<unclear><del>s</del></unclear>silin</rs><lb/>
+                  <address>
+                     <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
+                     Neulingasse 26.</rs>
+                  </address>    
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0118/" type="envelope"/>
-               <p>
-                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs>
-               </p>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-              </p>
+               <ab>
+                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
+                  <seg hand="#printed">
+                     <address>
+                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                        HINTERHOLZ 6<lb/>
+                        N.-Ö., AUSTRIA</rs>
+                     </address>
+                  </seg>
+               </ab>
+            </div>
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0119/" type="sheet"/>
-               <p>
-                  August 16th
-               </p>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
-               <p>
-                  <del>De</del>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
-                  Del<unclear>i</unclear>ghted to hear yo<del><gap reason="deleted"/></del><unclear>u</unclear> are<lb/>
-                  <rs type="place" ref="#amp_place_id_10">back</rs> and would love to see you<lb/>
-                  anytime<unclear>:</unclear> Are you living in <rs type="place" ref="#amp_place_id_1">Wien</rs> or<lb/>
-                  in <rs type="place" ref="#amp_place_id_8">Obergrabendorf</rs>.?<lb/>
-                  I read <rs type="lit_work" ref="#lit_work_id_87">your piece in <rs type="org" ref="#amp_organization_39"><hi rend="underline">Die Presse</hi></rs></rs><lb/>
-                  last Sunday <unclear>wi</unclear>th great int<unclear>e</unclear>re<unclear>s</unclear>t<unclear>,</unclear><lb/>
-                  yours ever<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>
-               </p>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <date rend="#block">August 16th</date>
+                        <placeName>
+                           <seg hand="#printed">
+                              <address>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                                 HINTERHOLZ 6<lb/>
+                                 N.-Ö., AUSTRIA</rs>
+                              </address>
+                           </seg>
+                        </placeName>
+                     </dateline>
+                     <salute><del>De</del>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
+                  </opener>
+                  <p>
+                     Del<unclear>i</unclear>ghted to hear yo<del><gap reason="deleted"/></del><unclear>u</unclear> are<lb/>
+                     <rs type="place" ref="#amp_place_id_10">back</rs> and would love to see you<lb/>
+                     anytime<unclear>:</unclear> Are you living in <rs type="place" ref="#amp_place_id_1">Wien</rs> or<lb/>
+                     in <rs type="place" ref="#amp_place_id_8">Obergrabendorf</rs>.?
+                  </p>
+                  <p>
+                     I read <rs type="lit_work" ref="#lit_work_id_87">your piece in <rs type="org" ref="#amp_organization_39"><hi rend="underline">Die Presse</hi></rs></rs><lb/>
+                     last Sunday <unclear>wi</unclear>th great int<unclear>e</unclear>re<unclear>s</unclear>t<unclear>,</unclear>
+                  </p>   
+                  <closer>
+                     <salute>yours ever</salute><lb/>
+                     <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
+                  </closer>
+               </div> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0120/" type="sheet"/>
          </div>
+      </div>
       </body>
    </text>
 </TEI>

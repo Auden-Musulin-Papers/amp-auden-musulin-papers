@@ -158,10 +158,11 @@ for any purpose, even commercially.</p>
                <div type="letter_message">
                   <opener>
                      <dateline>
-                        ℅ <rs type="person" ref="#amp_person_19">Heyworth</rs>
+                        
                         <placeName>
                            <seg hand="#printed">
                               <address>
+                                 <addrLine>℅ <rs type="person" ref="#amp_person_19">Heyworth</rs></addrLine>
                                  <rs type="place" ref="#amp_place_id_45">32 BRYANSTON SQUARE <space quantity="1" unit="char"/>LONDON W1 · AMBASSADOR 8906</rs>
                               </address>
                            </seg>

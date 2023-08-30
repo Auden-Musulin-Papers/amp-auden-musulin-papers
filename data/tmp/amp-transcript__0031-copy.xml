@@ -124,7 +124,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0031">
            <div type="letter"> 
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0223/" type="sheet"/>
+           <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0223/" type="sheet"/>
               <div type="letter_message">
                 <opener>
                    <dateline>
@@ -132,10 +132,10 @@ for any purpose, even commercially.</p>
                          <address>
                             <space quantity="40" unit="char"/><rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                             <space quantity="36" unit="char"/>A-3200 Obergrafendorf<lb/>
-                            <space quantity="42" unit="char"/>bei St.Pölten, Austria.</rs>
+                            <space quantity="42" unit="char"/>bei St.Pölten, Austria.</rs><lb/>
                          </address>
                       </placeName>
-                           <date rend="#block"><space quantity="46" unit="char"/>15 De<del>d</del>cember 1985.</date> <!-- it belongs to the same group with address -->
+                        <space quantity="46" unit="char"/><date rend="#inline">15 De<del>d</del>cember 1985.</date>
                    </dateline>
                    <salute>Dear <rs type="person" ref="#amp_person_98">Ed</rs>,</salute>
                 </opener>
@@ -148,7 +148,7 @@ for any purpose, even commercially.</p>
                   definite and the book is to come out in February 1987 in<lb/>
                   time for <rs type="person" ref="#amp_person_1">A</rs>´s 80th.
                </p>
-                <p>  
+               <p>  
                   <space quantity="4" unit="char"/>So he got me back to my desk, to, in his words, combine<lb/>
                   <rs type="lit_work" ref="#lit_work_id_47 #lit_work_id_108 #lit_work_id_115">my English and German texts</rs>, and bring the whole thing up to<lb/>
                   date. <space quantity="1" unit="char"/>"Write as fully as you can, double the length." <space quantity="1" unit="char"/>I<lb/>
@@ -197,10 +197,8 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_119">Müller</rs> possesses the <rs type="lit_work" ref="#lit_work_id_91">German text</rs> taken from a tape. <space quantity="1" unit="char"/>Now this<lb/>
                   <rs type="lit_work" ref="#lit_work_id_90">English text</rs> is so familia<del>s</del>rrto me that it deafens me to all<lb/>
                   or any sources. <space quantity="1" unit="char"/>A digest of it is in the <rs type="lit_work" ref="#lit_work_id_108">PEN text</rs> but I wonder
-               
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0224/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0225/" type="sheet"/>
-               
                   <space quantity="28" unit="char"/>- 2 -<lb/>
                   to what extent <rs type="lit_work" ref="#lit_work_id_90"><rs type="person" ref="#amp_person_1">Auden</rs>´s speech</rs> contains hitherto unknown material,<lb/>
                   if any. <space quantity="1" unit="char"/>I said air<del>l</del>ily that he had probably said i<del>a</del>t a<del>s</del>ll before,<lb/>

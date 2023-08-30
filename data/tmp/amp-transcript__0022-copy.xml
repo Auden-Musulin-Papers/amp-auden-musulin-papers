@@ -131,18 +131,18 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Mu<unclear><del>s</del></unclear>silin</rs><lb/>
                   <address>
-                  <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
-                  Neulingasse 26.</rs>
+                     <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
+                     Neulingasse 26.</rs>
                   </address>    
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0118/" type="envelope"/>
                <ab>
-                  <rs type="person" ref="#amp_person_1">W<unclear>H.</unclear> Auden</rs>
+                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs>
                   <seg hand="#printed">
                      <address>
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
-                           HINTERHOLZ 6<lb/>
-                           N.-Ö., AUSTRIA</rs>
+                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                        HINTERHOLZ 6<lb/>
+                        N.-Ö., AUSTRIA</rs>
                      </address>
                   </seg>
                </ab>
@@ -157,8 +157,8 @@ for any purpose, even commercially.</p>
                            <seg hand="#printed">
                               <address>
                                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
-                                    HINTERHOLZ 6<lb/>
-                                    N.-Ö., AUSTRIA</rs>
+                                 HINTERHOLZ 6<lb/>
+                                 N.-Ö., AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>
