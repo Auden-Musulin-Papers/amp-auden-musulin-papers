@@ -104,6 +104,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-11-08">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-04-05">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-28">entities and correspDesc collated</change>
+         <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -116,35 +117,53 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0044">
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0101/" type="sheet"/>
-               <p hand="#printed">
-                  from <rs type="person" ref="#amp_person_19">Peter Heyworth</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_45">32 BRYANSTON SQUARE <space quantity="1" unit="char"/>LONDON W1 <space quantity="1" unit="char"/>· <space quantity="1" unit="char"/>AMBASSADOR 8906</rs>
-               </p>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <placeName>
+                           <seg hand="#printed">
+                              <address>
+                                 <addrLine>from <rs type="person" ref="#amp_person_19">Peter Heyworth</rs><lb/></addrLine>
+                                 <rs type="place" ref="#amp_place_id_45">32 BRYANSTON SQUARE <space quantity="1" unit="char"/>LONDON W1 <space quantity="1" unit="char"/>· <space quantity="1" unit="char"/>AMBASSADOR 8906</rs>
+                              </address>
+                           </seg>
+                        </placeName>
+                        <date rend='#block'>Oct 24th</date>
+                     </dateline>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>  
+                  </opener>                  
                <p>
-                  Oct 24th
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
                   Many thanks for your lette<unclear>r</unclear> and the<lb/>
                   Dr<unclear>viv</unclear>ing li<unclear>c</unclear>ence <unclear>w</unclear>hich I am mu<unclear>c</unclear>h relieved<lb/>
-                  to get.<lb/>
+                  to get.
+               </p>
+               <p>
                   I can't possibly have the <rs type="person" ref="#amp_person_155 #amp_person_171">Langers</rs><lb/>
                   shivering,so I enclose a cheque for<lb/>
                   S.2000 for extra fuel,and will send<lb/>
-                  more if and when needed.<lb/>
+                  more if and when needed.
+               </p>
+               <p>
                   Wh<unclear>a</unclear>t is <rs type="person" ref="#amp_person_155">Mr Langer</rs>s first name.? Does<lb/>
                   he underst<unclear>a</unclear>nd English? I <unclear>m</unclear>u<unclear>s</unclear>t w<unclear>ri</unclear>te<lb/>
-                  him a note of welcome.<lb/>
+                  him a note of welcome.
+               </p>
+               <p>
                   I leave <unclear><del><gap reason="deleted"/></del>to-</unclear>day week for<rs type="place" ref="#amp_place_id_28"> Ne<unclear>w</unclear> York</rs>.<lb/>
                   <unclear>A</unclear>ddress. <rs type="place" ref="#amp_place_id_29">77 St Mark's Place. New<lb/>
-                  York City. New York 10003.</rs><lb/>
-                  much love and thanks<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>
+                  York City. New York 10003.</rs>
                </p>
+               <closer>
+                  <salute>much love and thanks</salute><lb/>
+                  <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
+               </closer>
+            </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0102/" type="sheet"/>
          </div>
+      </div>
       </body>
    </text>
 </TEI>

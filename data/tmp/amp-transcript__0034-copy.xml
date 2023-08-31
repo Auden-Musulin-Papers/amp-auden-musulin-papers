@@ -125,21 +125,20 @@ for any purpose, even commercially.</p>
                      <dateline>
                         <placeName>
                            <seg hand="#printed">
-                              <affiliation><rs type="org" ref="#amp_organization_31">UNIVERSITY OF DUBLIN</rs></affiliation>
+                              <rs type="org" ref="#amp_organization_31">UNIVERSITY OF DUBLIN</rs>
                            </seg>
                            <seg hand="#printed">
-                              <affiliation><rs type="org" ref="#amp_organization_32">TRINITY COLLEGE</rs><lb/>
-                              DUBLIN 2</affiliation>
+                              <rs type="org" ref="#amp_organization_32">TRINITY COLLEGE</rs><lb/>
+                              DUBLIN 2
                            </seg>
                            <seg>
-                              <space quantity="60" unit="char"/>Home address :<lb/> 
-                           </seg>
-                           <address>
-                              <space quantity="60" unit="char"/><rs type="place" ref="#amp_place_id_173">22, Kildare Street,<lb/>
-                              <space quantity="60" unit="char"/>DUBLIN, 2.</rs><lb/>
-                           </address>
-                           <seg>
-                              <space quantity="60" unit="char"/>Tel : 762662.
+                              <space quantity="60" unit="char"/>Home address :<lb/>
+                              <lb/>
+                              <address>
+                                 <space quantity="60" unit="char"/><rs type="place" ref="#amp_place_id_173">22, Kildare Street,<lb/>
+                                 <space quantity="60" unit="char"/>DUBLIN, 2.</rs><lb/>
+                                 <space quantity="60" unit="char"/><addrLine>Tel : 762662.</addrLine>
+                              </address>
                            </seg>
                            <seg hand="#printed">
                               <space quantity="60" unit="char"/>Tel. 772941

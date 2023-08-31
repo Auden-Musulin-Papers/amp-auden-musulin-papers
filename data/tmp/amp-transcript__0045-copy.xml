@@ -144,26 +144,23 @@ for any purpose, even commercially.</p>
                   bei St. Pölten<lb/>
                   N.<unclear>O</unclear></rs>
                </address> 
-               </ab>
-            </div> 
+               </ab> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0110/" type="envelope"/>
             <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0111/" type="sheet"/>
                <div type="letter_message">
                   <opener>
                      <dateline>
+                        <date rend="#inline">Thursday</date>
                         <placeName>
-                           <address>
-                             <rs type="place" ref="#amp_place_id_5">Kirstetten.</rs>
-                           </address>
+                           <seg>
+                              <rs type="place" ref="#amp_place_id_5">Kirstetten.</rs>
+                           </seg>
                            <seg hand="#printed">
-                              <address>
-                                 <rs type="org" ref="#amp_organization_6"><del>CHRIST CHURCH,</del><lb/>
-                                 <del>OXFORD.</del></rs>
-                              </address>
+                              <rs type="org" ref="#amp_organization_6"><del>CHRIST CHURCH,</del><lb/>
+                              <del>OXFORD.</del></rs>
                            </seg>   
                         </placeName>
-                        <date rend="#inline">Thursday</date>
                      </dateline>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:</salute><lb/>
                   </opener>
