@@ -71,10 +71,19 @@
               <sequence>
                 <elementRef key="space" maxOccurs="1" minOccurs="0"/>
                 <elementRef key="salute" maxOccurs="1" minOccurs="0"/>
-                <elementRef key="lb" maxOccurs="1" minOccurs="1"/>
+                <elementRef key="lb" maxOccurs="1" minOccurs="0"/>
+                <elementRef key="signed" maxOccurs="1" minOccurs="0"/>
+                <elementRef key="space" maxOccurs="1" minOccurs="0"/>
                 <elementRef key="signed" maxOccurs="1" minOccurs="0"/>
               </sequence>
             </content>
+            <!--<constraintSpec ident="closer" module="textstructure" scheme="schematron">
+              <constraint>
+                <sch:rule context="//tei:div[@type='letter_message']">
+                  <sch:assert test="count(./tei:closer) > 0">element missing; element closer required</sch:assert>
+                </sch:rule>
+              </constraint>
+            </constraintSpec>-->
             <attList>
               <attDef ident="source" mode="delete"/>
               <attDef ident="cert" mode="delete"/>
@@ -100,7 +109,7 @@
             <content>
               <sequence>
                 <elementRef key="dateline" maxOccurs="1" minOccurs="0"/>
-                <elementRef key="salute" maxOccurs="1" minOccurs="1"/>
+                <elementRef key="salute" maxOccurs="1" minOccurs="0"/>
                 <elementRef key="lb" maxOccurs="1" minOccurs="0"/>
               </sequence>
             </content>
@@ -108,7 +117,6 @@
               <constraint>
                 <sch:rule context="//tei:div[@type='letter_message']">
                   <sch:assert test="count(./tei:opener) > 0">element missing; element opener required</sch:assert>
-                  <sch:assert test="count(./tei:closer) > 0">element missing; element closer required</sch:assert>
                 </sch:rule>
               </constraint>
             </constraintSpec>
