@@ -104,6 +104,7 @@
             <change who="smayer tfruehwirth" when="2022-02-28">transcriptions collated</change>
             <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
             <change who="dgrigoriou smayer tfruehwirth" when="2023-03-02">entities and correspDesc collated</change>
+            <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -116,46 +117,60 @@
     </facsimile>
     <text type="letter" hand="#typed">
         <body>
-            <div xml:id="transcription">
-                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0253/" type="sheet"/>
-                <p hand="#handwritten">
-                    <unclear>A2</unclear>
-                </p>
-                <p>
-                    <rs type="person" ref="#amp_person_2">Frau<lb/>
-                    Stella von Musulin</rs><lb/>
-                    <rs type="place" ref="#amp_place_id_7">Friedau<lb/>
-                    3200 Obergrafendorf</rs>
-                </p>
-                <p>
-                    <space quantity="34" unit="char"/><rs type="place" ref="#amp_place_id_1">Wien</rs>, 22.März 1977
-                </p>
-                <p>
-                    Sehr verehrte, liebe <rs type="person" ref="#amp_person_2">gnädige Frau</rs>,
-                </p>
-                <p>
-                    wie mit <rs type="person" ref="#amp_person_135">Frau Bronold</rs> mündlich vereinbart, möchte ich nun<lb/>
-                    auch schriftlich festhalten, daß wir Sie sehr herzlich<lb/>
-                    einladen, Ihren <rs type="event" ref="#amp_event_id_23"><rs type="lit_work" ref="#lit_work_id_126">Vortrag über <rs type="person" ref="#amp_person_1">W.H.Auden</rs></rs></rs> am Donnerstag, den<lb/>
-                    5.Mai, bei uns zu halten. Wir haben dafür den Figaro-Saal<lb/>
-                    im <rs type="place" ref="#amp_place_id_85">Palais Palffy</rs> reserviert, Zeit 20 Uhr. Als Honorar<lb/>
-                    können wir 1.500 Schilling anbieten.
-                </p>
-                <p>
-                    Ich wäre Ihnen nur sehr dankbar, wenn Sie uns umgehend<lb/>
-                    den genauen Titel bekanntgeben könnten.
-                </p>
-                <p>
-                    Mit herzlichen Empfehlungen und Wünschen
-                </p>
-                <p>
-                    <space quantity="42" unit="char"/>Ihr
-                </p>
-                <p>
-                    <space quantity="32" unit="char"/>(<rs type="person" ref="#amp_person_137">Dr.Wolfgang Kraus</rs>)
-                </p>
-                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0254/" type="sheet"/>
+            <div type="transcription" xml:id="transcription_amp_0060">
+               <div type="letter"> 
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0253/" type="sheet"/>
+                  <div>
+                      <ab hand="#handwritten">
+                          <unclear>A2</unclear>
+                      </ab>
+                  </div>
+                  <div>
+                      <ab>
+                          <rs type="person" ref="#amp_person_2">Frau<lb/>
+                              Stella von Musulin</rs><lb/>
+                          <address>
+                              <rs type="place" ref="#amp_place_id_7">Friedau<lb/>
+                                  3200 Obergrafendorf</rs>
+                          </address>
+                      </ab>
+                  </div>
+                  <div type="letter_message">
+                     <opener>
+                        <dateline>
+                            <space quantity="34" unit="char"/><placeName><rs type="place" ref="#amp_place_id_1">Wien</rs>, </placeName><date rend="#inline">22.März 1977</date>
+                        </dateline>
+                        <salute>
+                            Sehr verehrte, liebe <rs type="person" ref="#amp_person_2">gnädige Frau</rs>,
+                        </salute><lb/>
+                     </opener>
+                     <p>
+                        wie mit <rs type="person" ref="#amp_person_135">Frau Bronold</rs> mündlich vereinbart, möchte ich nun<lb/>
+                        auch schriftlich festhalten, daß wir Sie sehr herzlich<lb/>
+                        einladen, Ihren <rs type="event" ref="#amp_event_id_23"><rs type="lit_work" ref="#lit_work_id_126">Vortrag über <rs type="person" ref="#amp_person_1">W.H.Auden</rs></rs></rs> am Donnerstag, den<lb/>
+                        5.Mai, bei uns zu halten. Wir haben dafür den Figaro-Saal<lb/>
+                        im <rs type="place" ref="#amp_place_id_85">Palais Palffy</rs> reserviert, Zeit 20 Uhr. Als Honorar<lb/>
+                        können wir 1.500 Schilling anbieten.
+                     </p>
+                     <p>
+                        Ich wäre Ihnen nur sehr dankbar, wenn Sie uns umgehend<lb/>
+                        den genauen Titel bekanntgeben könnten.
+                     </p>
+                     <closer>
+                         <salute>
+                            Mit herzlichen Empfehlungen und Wünschen
+                            <lb/>
+                            <lb/>
+                            <lb/><space quantity="42" unit="char"/>Ihr
+                         </salute><lb/>
+                         <space quantity="32" unit="char"/><signed>
+                            (<rs type="person" ref="#amp_person_137">Dr.Wolfgang Kraus</rs>)
+                         </signed>
+                     </closer>
+                  </div>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0254/" type="sheet"/>
             </div>
+        </div>
         </body>
     </text>
 </TEI>
