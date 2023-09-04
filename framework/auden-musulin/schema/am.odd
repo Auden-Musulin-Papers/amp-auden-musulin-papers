@@ -109,6 +109,7 @@
             <content>
               <sequence>
                 <elementRef key="dateline" maxOccurs="1" minOccurs="0"/>
+                <elementRef key="space" maxOccurs="1" minOccurs="0"/>
                 <elementRef key="salute" maxOccurs="1" minOccurs="0"/>
                 <elementRef key="lb" maxOccurs="1" minOccurs="0"/>
               </sequence>
