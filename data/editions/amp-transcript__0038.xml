@@ -341,9 +341,7 @@ for any purpose, even commercially.</p>
                </div>
                <div type="letter_message">
                   <opener>
-                     <salute>
-                        <space quantity="9" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:
-                     </salute><lb/>
+                     <space quantity="9" unit="char"/><salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
                   </opener>
                   <p>
                      <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> is intending to have a <rs type="event" ref="#amp_event_id_49">cer<del>o</del>emony in memory of the twentieth<lb/>
