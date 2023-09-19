@@ -80,21 +80,20 @@ for any purpose, even commercially.</p>
                <date notBefore="1964-12-23" notAfter="1964-12-23">1964-12-23</date><!-- why are we not simply use 'when'? -->
             </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName><!-- with or without agent? -->
+               <persName>unknown</persName><!-- we dont know who actually sent the letter -->
                <placeName ref="#amp_place_id_17">Berlin</placeName>
                <date notBefore="1964-12-23T14:01:00+01:00" notAfter="1964-12-23T15:00:00+01:00">1964-12-23T14:01:00+01:00/1964-12-23T15:00:00+01:00</date><!-- based on https://time.lol/ -->
             </correspAction>
             <correspAction type="transmitted">
-               <persName>unknown</persName><!-- get rid off -->
-               <placeName ref="#amp_place_id_8">Ober-Grafendorf</placeName><!-- change it into organization -->
+               <orgName ref="#amp_organization_99999">Ober-Grafendorf</orgName><!-- info from backstamp -->
                <date notBefore="1964-12-28T17:01:00+01:00" notAfter="1964-12-28T18:00:00+01:00">1964-12-28T17:01:00+01:00/1964-12-28T18:00:00+01:00</date><!-- no summer time therefore +1 -->
             </correspAction>
-            <correspAction type="received"><!-- address intended by WHA -->
+            <correspAction type="received"><!-- intended address -->
                 <persName ref="#amp_person_2">Musulin, Stella</persName>
                 <placeName ref="#amp_place_id_7">Fridau</placeName>
                <date>unknown</date>
             </correspAction>
-            <correspAction type="redirected"> <!-- final address corrected by someone as appeared on the envelope-->
+            <correspAction type="redirected"><!-- final corrected address -->
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26/14</placeName>
                <date>unknown</date>

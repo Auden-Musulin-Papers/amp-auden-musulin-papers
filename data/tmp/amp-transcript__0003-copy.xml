@@ -74,20 +74,20 @@ for any purpose, even commercially.</p>
          </langUsage>
          
          <correspDesc>
-            <correspAction type="composed">
+            <correspAction type="written">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
                <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
                <date notBefore="1965-09-29" notAfter="1965-09-29">1965-09-29</date>
             </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore="1965-09-29T17:01:00Z" notAfter="1965-09-29T18:00:00Z">1965-09-29 18:00</date>
+               <persName>unknown</persName>
+               <orgName ref="#amp_organization_99999">Kirchstetten</orgName>
+               <date notBefore="1965-09-29T17:01:00+01:00" notAfter="1965-09-29T18:00:00+01:00">1965-09-29T17:01:00+01:00/1965-09-29T18:00:00+01:00</date>
             </correspAction>
             <correspAction type="transmitted">
                <persName>unknown</persName>
-               <placeName ref="#amp_place_id_1">Wien</placeName>
-               <date notBefore="1965-09-30T05:01:00Z" notAfter="1965-09-30T06:00:00Z">1965-09-30 06:00</date>
+               <orgName ref="#amp_organization_9999999">Wien</orgName>
+               <date notBefore="1965-09-30T05:01:00+01:00" notAfter="1965-09-30T06:00:00+01:00">1965-09-30T05:01:00+01:00/1965-09-30T06:00:00+01:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
