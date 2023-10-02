@@ -60,7 +60,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 8</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1964-12-23" notAfter="1964-12-23">1964-12-23</origDate></origin>
+                        <origin>
+                           <origDate notBefore="1964-12-23" notAfter="1964-12-23">1964-12-23</origDate>
+                           <origPlace ref="#amp_place_id_19">Hubertusbader Straße 43</origPlace><!-- activate this -->
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -72,31 +75,24 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="written">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_19">Hubertusbader Straße 43</placeName>
-               <date notBefore="1964-12-23" notAfter="1964-12-23">1964-12-23</date><!-- why are we not simply use 'when'? -->
-            </correspAction>
             <correspAction type="sent">
-               <persName>unknown</persName><!-- we dont know who actually sent the letter -->
+               <orgName ref="#amp_organization_78">Postamt Berlin 33 (post office Berlin 33)</orgName><!--the post office of the front postmark/ Must correspond with entities in Baserow -->
                <placeName ref="#amp_place_id_17">Berlin</placeName>
-               <date notBefore="1964-12-23T14:01:00+01:00" notAfter="1964-12-23T15:00:00+01:00">1964-12-23T14:01:00+01:00/1964-12-23T15:00:00+01:00</date><!-- based on https://time.lol/ -->
+               <date notBefore="1964-12-23T14:00:01+01:00" notAfter="1964-12-23T15:00:00+01:00">1964-12-23T14:00:01+01:00/1964-12-23T15:00:00+01:00</date><!-- based on https://time.lol/ -->
             </correspAction>
             <correspAction type="transmitted">
-               <orgName ref="#amp_organization_99999">Ober-Grafendorf</orgName><!-- info from backstamp -->
-               <date notBefore="1964-12-28T17:01:00+01:00" notAfter="1964-12-28T18:00:00+01:00">1964-12-28T17:01:00+01:00/1964-12-28T18:00:00+01:00</date><!-- no summer time therefore +1 -->
+               <orgName ref="#amp_organization_71">Postamt Ober-Grafendorf (post office Ober-Grafendorf)</orgName><!-- info from backstamp -->
+               <placeName ref="#amp_place_id_8">Ober-Grafendorf</placeName>
+               <date notBefore="1964-12-28T17:00:01+01:00" notAfter="1964-12-28T18:00:00+01:00">1964-12-28T17:00:01+01:00/1964-12-28T18:00:00+01:00</date><!-- no summer time therefore +1 -->
             </correspAction>
             <correspAction type="received"><!-- intended address -->
                 <persName ref="#amp_person_2">Musulin, Stella</persName>
-                <placeName ref="#amp_place_id_7">Fridau</placeName>
-               <date>unknown</date>
+                <placeName ref="#amp_place_id_7">Fridau</placeName>  
             </correspAction>
             <correspAction type="redirected"><!-- final corrected address -->
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_11">Neulinggasse 26/14</placeName>
-               <date>unknown</date>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -104,8 +100,7 @@ for any purpose, even commercially.</p>
                <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0001.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1963-05-12</ref>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0038.xml">Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-03-15</ref>
             </correspContext>
-         </correspDesc>
-         
+         </correspDesc>         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-17">template populated with script "create_templates.py"</change>
