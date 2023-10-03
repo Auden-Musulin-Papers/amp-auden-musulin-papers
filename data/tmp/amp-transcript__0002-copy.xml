@@ -76,6 +76,10 @@ for any purpose, even commercially.</p>
             <language ident="de">German</language>
          </langUsage>
          <correspDesc>
+            <correspAction type="received"><!-- intended address -->
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_7">Fridau</placeName>  
+            </correspAction>
             <correspAction type="sent">
                <orgName ref="#amp_organization_78">Postamt Berlin 33 (post office Berlin 33)</orgName><!--the post office of the front postmark/ Must correspond with entities in Baserow -->
                <placeName ref="#amp_place_id_17">Berlin</placeName>
@@ -85,10 +89,6 @@ for any purpose, even commercially.</p>
                <orgName ref="#amp_organization_71">Postamt Ober-Grafendorf (post office Ober-Grafendorf)</orgName><!-- info from backstamp -->
                <placeName ref="#amp_place_id_8">Ober-Grafendorf</placeName>
                <date notBefore="1964-12-28T17:00:01+01:00" notAfter="1964-12-28T18:00:00+01:00">1964-12-28T17:00:01+01:00/1964-12-28T18:00:00+01:00</date><!-- no summer time therefore +1 -->
-            </correspAction>
-            <correspAction type="received"><!-- intended address -->
-                <persName ref="#amp_person_2">Musulin, Stella</persName>
-                <placeName ref="#amp_place_id_7">Fridau</placeName>  
             </correspAction>
             <correspAction type="redirected"><!-- final corrected address -->
                <persName ref="#amp_person_2">Musulin, Stella</persName>
