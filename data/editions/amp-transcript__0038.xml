@@ -76,25 +76,23 @@ for any purpose, even commercially.</p>
             <language ident="de">German</language>
          </langUsage>
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName>unknown</placeName>
-               <date>unknown</date>
-            </correspAction>
-            <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_17">Berlin</placeName>
-               <date notBefore="1965-03-15" notAfter="1965-03-15">1965-03-15</date>
-            </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_7">Fridau</placeName>
-               <date>unknown</date>
+            </correspAction>
+            <correspAction type="sent">
+               <orgName ref="#amp_organization_79">Postamt Berlin 11 (post office Berlin 11)</orgName>
+               <placeName ref="#amp_place_id_17">Berlin</placeName>
+               <date notBefore="1965-03-15T13:00:01+01:00" notAfter="1965-03-15T14:00:01+01:00">1965-03-15T13:00:01+01:00/1965-03-15T14:00:01+01:00</date>
+            </correspAction>
+            <correspAction type="transmitted">
+               <orgName ref="#amp_organization_71">Postamt Ober-Grafendorf (post office Ober-Grafendorf))</orgName>
+               <placeName ref="#amp_place_id_8">Ober-grafendorf</placeName>
+               <date notBefore="1965-03-20T09:00:01+01:00" notAfter="1965-03-20T10:00:01+01:00">1965-03-20T09:00:01+01:00/1965-03-20T10:00:01+01:00</date>
             </correspAction>
             <correspAction type="redirected">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
-               <date>unknown</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
