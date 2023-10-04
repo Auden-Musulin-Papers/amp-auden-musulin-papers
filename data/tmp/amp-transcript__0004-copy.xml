@@ -60,7 +60,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 13</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1966-02-03" notAfter="1966-02-03">1966-02-03</origDate></origin>
+                        <origin>
+                           <origDate notBefore="1966-02-03" notAfter="1966-02-03">1966-02-03</origDate>
+                           <origName ref="#amp_place_id_29">77 St Mark's Place</origName>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,23 +74,16 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
             <language ident="de">German</language>
-         </langUsage>
-         
+         </langUsage>       
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_29">77 St Mark's Place</placeName>
-               <date notBefore="1966-02-03" notAfter="1966-02-03">1966-02-03</date>
-            </correspAction>
-            <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_28">New York City</placeName>
-               <date notBefore="1966-02-03" notAfter="1966-02-03">1966-02-03</date>
-            </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_7">Fridau</placeName>
-               <date>unknown</date>
+            </correspAction>
+            <correspAction type="sent">
+               <orgName ref="#amp_organization_85">United States General Post Office</orgName>
+               <placeName ref="#amp_place_id_28">New York City</placeName>
+               <date notBefore="1966-02-03T12:00:00-05:00" notAfter="1966-02-03T23:59:59-05:00">1966-02-03T12:00:00-05:00/1966-02-03T23:59:59-05:00</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -96,7 +92,6 @@ for any purpose, even commercially.</p>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0005.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1967-11-08</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -176,33 +171,33 @@ for any purpose, even commercially.</p>
                   <space quantity="4" unit="char"/>subtle misrepresentation. "Serious insistence on unseriousness'<lb/>
                   <space quantity="4" unit="char"/>telescopes two <del>cnvictuons</del>distinct convictions of mine,falsifying both.
                </p>
-               <p>
-                  <seg>
+               <div type="section">
+                  <p>
                      <space quantity="5" unit="char"/>I) I believe it to be a serious moral error when an artist overestimates<lb/>
                      <space quantity="8" unit="char"/>the importance of art and,by implication,of himself. One must admit<lb/>
                      <space quantity="8" unit="char"/>that the <del>plotical</del> political history of <rs type="place" ref="#amp_place_id_30">Eur<del>i</del>ope</rs>,with <del>all its</del>the same horrors,<lb/>
                      <space quantity="8" unit="char"/>would be what it has been,if <rs type="person" ref="#amp_person_9">Dante</rs>,<rs type="person" ref="#amp_person_10">Shakespeare</rs>,<rs type="person" ref="#amp_person_11">Goethe</rs>,<rs type="person" ref="#amp_person_12">Titian</rs>,<lb/>
                      <space quantity="8" unit="char"/><rs type="person" ref="#amp_person_13">Mo<del>x</del>zart</rs>,et al,had never existed.
-                  </seg>
-                  <seg>
-                     <seg>
-                        <space quantity="4" unit="char"/>2) I believe that the only way in which,to-day at any rate,one can<lb/>
-                        <space quantity="7" unit="char"/>speak <del>seroiu</del> <del>s eriously</del> <hi rend="underline">seriously</hi> about serious matters(the alternati<del>c</del>ve<lb/>
-                        <space quantity="7" unit="char"/>is silence) is comically. I am surprised to hear from you that<lb/>
-                        <space quantity="7" unit="char"/>Jews find this hard to accept. I have enormously admired - and been<lb/>
-                        <space quantity="6" unit="char"/>influenced by - the tradition of Jewish humor. More than any other<lb/>
-                        <space quantity="6" unit="char"/>people,surely,they have seen in serious matters,that is to say,human<lb/>
-                        <space quantity="6" unit="char"/>suffering,<del>and</del> the contradictions of human existence,and the relation<lb/>
-                        <space quantity="6" unit="char"/>between man and God,occasions for humorous expression.
-                     </seg>
-                     <seg>
-                        <space quantity="7" unit="char"/>e.g,: "If the rich could hire other people to die for them,the poor<lb/>
-                        <space quantity="5" unit="char"/>cou<del>o</del>ld make a wonderful living", or "Truth rests with God alone,and<lb/>
-                        <space quantity="5" unit="char"/>a little bit with me",or "God will provide - ah,if only He wou<del>o</del>ld till<lb/>
-                        <space quantity="5" unit="char"/>He does so."
-                     </seg>
-                  </seg>
-               </p>   
+                  </p>
+               </div>
+               <div type="section">
+                  <p>   
+                     <space quantity="4" unit="char"/>2) I believe that the only way in which,to-day at any rate,one can<lb/>
+                     <space quantity="7" unit="char"/>speak <del>seroiu</del> <del>s eriously</del> <hi rend="underline">seriously</hi> about serious matters(the alternati<del>c</del>ve<lb/>
+                     <space quantity="7" unit="char"/>is silence) is comically. I am surprised to hear from you that<lb/>
+                     <space quantity="7" unit="char"/>Jews find this hard to accept. I have enormously admired - and been<lb/>
+                     <space quantity="6" unit="char"/>influenced by - the tradition of Jewish humor. More than any other<lb/>
+                     <space quantity="6" unit="char"/>people,surely,they have seen in serious matters,that is to say,human<lb/>
+                     <space quantity="6" unit="char"/>suffering,<del>and</del> the contradictions of human existence,and the relation<lb/>
+                     <space quantity="6" unit="char"/>between man and God,occasions for humorous expression.
+                  </p>
+                  <p>   
+                     <space quantity="7" unit="char"/>e.g,: "If the rich could hire other people to die for them,the poor<lb/>
+                     <space quantity="5" unit="char"/>cou<del>o</del>ld make a wonderful living", or "Truth rests with God alone,and<lb/>
+                     <space quantity="5" unit="char"/>a little bit with me",or "God will provide - ah,if only He wou<del>o</del>ld till<lb/>
+                     <space quantity="5" unit="char"/>He does so."
+                  </p>
+               </div>   
                <p>   
                   <space quantity="2" unit="char"/>So! you encountered the <rs type="person" ref="#amp_person_175">one-whose-name-we-never-mention</rs>. Why <rs type="person" ref="#amp_person_4">Chest<del>r</del>er</rs> should<lb/>
                   <space quantity="1" unit="char"/>have been so foolish as <space quantity="1" unit="char"/>to invite him to a p<del>e</del>arty,I cannot imagine. If he<lb/>
@@ -222,7 +217,9 @@ for any purpose, even commercially.</p>
                   <space quantity="2" unit="char"/>Expect to get back to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> about April 20th.
                </p>
                <closer>
-                  <space quantity="21" unit="char"/><salute>much love <handShift new="#handwritten"/>and <unclear>g</unclear>reetings to <rs type="person" ref="#amp_person_94">son</rs> and <rs type="person" ref="#amp_person_93">mum-in-law</rs></salute><lb/>
+                  <salute>
+                     <space quantity="21" unit="char"/>much love <handShift new="#handwritten"/>and <unclear>g</unclear>reetings to <rs type="person" ref="#amp_person_94">son</rs> and <rs type="person" ref="#amp_person_93">mum-in-law</rs>
+                  </salute><lb/>
                   <signed hand="#handwritten">
                      <rs type="person" ref="#amp_person_1">Wystan</rs>.
                   </signed>
