@@ -62,7 +62,7 @@ for any purpose, even commercially.</p>
                      <history>
                         <origin>
                            <origDate notBefore="1970-07-06" notAfter="1970-07-06">1970-07-06</origDate>
-                           <origName ref="#amp_place_id_2">Hinterholz 6</origName>
+                           <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
                         </origin>
                      </history>
                   </msDesc>
