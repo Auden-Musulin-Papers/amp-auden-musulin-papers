@@ -176,33 +176,33 @@ for any purpose, even commercially.</p>
                   <space quantity="4" unit="char"/>subtle misrepresentation. "Serious insistence on unseriousness'<lb/>
                   <space quantity="4" unit="char"/>telescopes two <del>cnvictuons</del>distinct convictions of mine,falsifying both.
                </p>
-               <div type="section">
-                  <p>
+               <p>
+                  <seg>
                      <space quantity="5" unit="char"/>I) I believe it to be a serious moral error when an artist overestimates<lb/>
                      <space quantity="8" unit="char"/>the importance of art and,by implication,of himself. One must admit<lb/>
                      <space quantity="8" unit="char"/>that the <del>plotical</del> political history of <rs type="place" ref="#amp_place_id_30">Eur<del>i</del>ope</rs>,with <del>all its</del>the same horrors,<lb/>
                      <space quantity="8" unit="char"/>would be what it has been,if <rs type="person" ref="#amp_person_9">Dante</rs>,<rs type="person" ref="#amp_person_10">Shakespeare</rs>,<rs type="person" ref="#amp_person_11">Goethe</rs>,<rs type="person" ref="#amp_person_12">Titian</rs>,<lb/>
                      <space quantity="8" unit="char"/><rs type="person" ref="#amp_person_13">Mo<del>x</del>zart</rs>,et al,had never existed.
-                  </p>
-               </div>
-               <div type="section">
-                  <p>   
-                     <space quantity="4" unit="char"/>2) I believe that the only way in which,to-day at any rate,one can<lb/>
-                     <space quantity="7" unit="char"/>speak <del>seroiu</del> <del>s eriously</del> <hi rend="underline">seriously</hi> about serious matters(the alternati<del>c</del>ve<lb/>
-                     <space quantity="7" unit="char"/>is silence) is comically. I am surprised to hear from you that<lb/>
-                     <space quantity="7" unit="char"/>Jews find this hard to accept. I have enormously admired - and been<lb/>
-                     <space quantity="6" unit="char"/>influenced by - the tradition of Jewish humor. More than any other<lb/>
-                     <space quantity="6" unit="char"/>people,surely,they have seen in serious matters,that is to say,human<lb/>
-                     <space quantity="6" unit="char"/>suffering,<del>and</del> the contradictions of human existence,and the relation<lb/>
-                     <space quantity="6" unit="char"/>between man and God,occasions for humorous expression.
-                  </p>
-                  <p>   
-                     <space quantity="7" unit="char"/>e.g,: "If the rich could hire other people to die for them,the poor<lb/>
-                     <space quantity="5" unit="char"/>cou<del>o</del>ld make a wonderful living", or "Truth rests with God alone,and<lb/>
-                     <space quantity="5" unit="char"/>a little bit with me",or "God will provide - ah,if only He wou<del>o</del>ld till<lb/>
-                     <space quantity="5" unit="char"/>He does so."
-                  </p>
-               </div>   
+                  </seg>
+                  <seg>
+                     <seg>
+                        <space quantity="4" unit="char"/>2) I believe that the only way in which,to-day at any rate,one can<lb/>
+                        <space quantity="7" unit="char"/>speak <del>seroiu</del> <del>s eriously</del> <hi rend="underline">seriously</hi> about serious matters(the alternati<del>c</del>ve<lb/>
+                        <space quantity="7" unit="char"/>is silence) is comically. I am surprised to hear from you that<lb/>
+                        <space quantity="7" unit="char"/>Jews find this hard to accept. I have enormously admired - and been<lb/>
+                        <space quantity="6" unit="char"/>influenced by - the tradition of Jewish humor. More than any other<lb/>
+                        <space quantity="6" unit="char"/>people,surely,they have seen in serious matters,that is to say,human<lb/>
+                        <space quantity="6" unit="char"/>suffering,<del>and</del> the contradictions of human existence,and the relation<lb/>
+                        <space quantity="6" unit="char"/>between man and God,occasions for humorous expression.
+                     </seg>
+                     <seg>
+                        <space quantity="7" unit="char"/>e.g,: "If the rich could hire other people to die for them,the poor<lb/>
+                        <space quantity="5" unit="char"/>cou<del>o</del>ld make a wonderful living", or "Truth rests with God alone,and<lb/>
+                        <space quantity="5" unit="char"/>a little bit with me",or "God will provide - ah,if only He wou<del>o</del>ld till<lb/>
+                        <space quantity="5" unit="char"/>He does so."
+                     </seg>
+                  </seg>
+               </p>   
                <p>   
                   <space quantity="2" unit="char"/>So! you encountered the <rs type="person" ref="#amp_person_175">one-whose-name-we-never-mention</rs>. Why <rs type="person" ref="#amp_person_4">Chest<del>r</del>er</rs> should<lb/>
                   <space quantity="1" unit="char"/>have been so foolish as <space quantity="1" unit="char"/>to invite him to a p<del>e</del>arty,I cannot imagine. If he<lb/>
@@ -222,9 +222,7 @@ for any purpose, even commercially.</p>
                   <space quantity="2" unit="char"/>Expect to get back to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> about April 20th.
                </p>
                <closer>
-                  <salute>
-                     <space quantity="21" unit="char"/>much love <handShift new="#handwritten"/>and <unclear>g</unclear>reetings to <rs type="person" ref="#amp_person_94">son</rs> and <rs type="person" ref="#amp_person_93">mum-in-law</rs>
-                  </salute><lb/>
+                  <space quantity="21" unit="char"/><salute>much love <handShift new="#handwritten"/>and <unclear>g</unclear>reetings to <rs type="person" ref="#amp_person_94">son</rs> and <rs type="person" ref="#amp_person_93">mum-in-law</rs></salute><lb/>
                   <signed hand="#handwritten">
                      <rs type="person" ref="#amp_person_1">Wystan</rs>.
                   </signed>
