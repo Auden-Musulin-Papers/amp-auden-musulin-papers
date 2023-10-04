@@ -60,7 +60,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 10</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1965-03-15" notAfter="1965-03-15">1965-03-15</origDate></origin>
+                        <origin>
+                           <origDate notBefore="1965-03-15" notAfter="1965-03-15">1965-03-15</origDate>
+                           <origPlace ref="#amp_place_id_19">Hubertusbader Straße 43</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -72,7 +75,6 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
             <correspAction type="composed">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
@@ -101,7 +103,6 @@ for any purpose, even commercially.</p>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0039.xml">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-04-28 and with Typescript W. H. Auden Translation "Joseph Weinheber"</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
