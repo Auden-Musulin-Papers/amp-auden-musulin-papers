@@ -60,7 +60,10 @@
                                 <idno>2, 9</idno>
                             </msIdentifier>
                             <history>
-                                <origin><origDate notBefore="1969-05-29" notAfter="1969-05-29">1969-05-29</origDate></origin>
+                                <origin>
+                                    <origDate notBefore="1969-05-29" notAfter="1969-05-29">1969-05-29</origDate>
+                                    <origPlace type="amp_place_id_10">Austria</origPlace>
+                                </origin>
                             </history>
                         </msDesc>
                     </witness>
@@ -72,9 +75,7 @@
                 <language ident="de">German</language>
             </langUsage>
             <correspDesc>
-                <correspAction type="received">
-                    <persName ref="#amp_person_151">Silbermann, Edith</persName>
-                </correspAction>
+            <!-- we leave it empty -->
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
                     <ref type="belongsToCorrespondence" target="#amp_person_151">Silbermann Edith</ref>

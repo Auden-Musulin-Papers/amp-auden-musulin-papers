@@ -64,7 +64,10 @@
                                 <idno>LIT 202/B34</idno>
                             </msIdentifier>
                             <history>
-                                <origin><origDate notBefore="1962-05-23" notAfter="1962-05-23">1962-05-23</origDate></origin>
+                                <origin>
+                                    <origDate notBefore="1962-05-23" notAfter="1962-05-23">1962-05-23</origDate>
+                                    <origPlace type="amp_place_id_10">Austria</origPlace>
+                                </origin>
                             </history>
                         </msDesc>
                     </witness>
