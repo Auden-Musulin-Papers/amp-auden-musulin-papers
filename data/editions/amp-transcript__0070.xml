@@ -168,9 +168,7 @@ for any purpose, even commercially.</p>
                      <space quantity="3" unit="char"/>you,if you could drop us a postcard. Only next Monday is impossible.
                   </p>
                   <closer>
-                     <salute>
-                        <space quantity="12" unit="char"/>Yours sincerely
-                     </salute><lb/>
+                     <space quantity="12" unit="char"/><salute>Yours sincerely</salute><lb/>
                      <signed>
                         <seg hand="#handwritten">
                            <rs type="person" ref="#amp_person_1">W.H. Auden</rs><lb/>

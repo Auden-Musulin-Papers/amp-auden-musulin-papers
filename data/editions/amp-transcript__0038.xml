@@ -348,9 +348,7 @@ for any purpose, even commercially.</p>
                      <space quantity="1" unit="char"/><hi rend="underline">Gemeindepflicht.</hi>
                   </p>
                   <closer>
-                     <salute>
-                        <space quantity="17" unit="char"/>love
-                     </salute><lb/>
+                     <space quantity="17" unit="char"/><salute>love</salute><lb/>
                      <signed hand="#handwritten">
                         <rs type="person" ref="#amp_person_1">Wystan</rs>.
                      </signed>

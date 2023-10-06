@@ -205,10 +205,10 @@ for any purpose, even commercially.</p>
                         <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>,</unclear>
                      </signed>
                   </closer>
+               </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0054/" type="sheet"/>
-                  <ab>
-                     7
-                  </ab>
+               <div>
+                  <ab>7</ab>
                </div>
             </div>
          </div>

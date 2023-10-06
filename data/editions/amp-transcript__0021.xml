@@ -177,7 +177,7 @@ for any purpose, even commercially.</p>
                      <space quantity="5" unit="char"/>drop us a p.c.when you fix the day.
                   </p>
                   <closer>
-                     <salute><space quantity="11" unit="char"/>longing to see you</salute><lb/>
+                     <space quantity="11" unit="char"/><salute>longing to see you</salute><lb/>
                      <signed hand="#handwritten"><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                   </closer>
                </div>
