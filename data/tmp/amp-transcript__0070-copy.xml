@@ -1,10 +1,10 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0071.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0070.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Typed Letter Signed Stella Musulin to W. H. Auden 1962-04-16--1973-04-16</title>
-            <author>Musulin, Stella</author>
+            <title level="a">Typed Letter Signed W. H. Auden to Stella Musulin 1959-10-10</title>
+            <author>Auden, W. H.</author>
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
@@ -58,10 +58,13 @@ for any purpose, even commercially.</p>
                         <settlement>St. Pölten</settlement>
                         <repository>State Collections of Lower Austria</repository>
                         <collection>Stella Musulin (Depot)</collection>
-                        <idno>3, 2</idno>
+                        <idno>3, 1</idno><!-- new repository nomenclature: 3 for new materials -->
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1962-04-16" notAfter="1973-04-16">1962-04-16--1973-04-16</origDate></origin>
+                        <origin>
+                           <origDate notBefore="1959-10-10" notAfter="1959-10-10">1959-10-10</origDate>
+                           <origPlace ref="#amp_place_id_7">Hinterholz 6</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -73,104 +76,106 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="composed">
+            <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>unknown</placeName>
-               <date notBefore="1962-04-16" notAfter="1973-04-16">1962-04-16--1973-04-16</date>
+               <placeName ref="#amp_place_id_303">Fillgradergasse 12</placeName>
             </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>unknown</placeName>
-               <date>unknown</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName>unknown</placeName>
-               <date>unknown</date>
+               <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
+               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
+               <date notBefore="1959-10-10T17:00:01+01:00" notAfter="1959-10-10T18:00:00+01:00">1959-10-10T17:00:01+01:00/1959-10-10T18:00:00+01:00</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
                <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__21.xml">Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</ref>
-               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__59.xml">Envelope W. H. Auden to Stella Musulin 1962-04-30</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0045.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1960-07-21</ref>
             </correspContext>
-         </correspDesc>
+         </correspDesc> 
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="dgrigoriou" when="2023-07-20">text transcribed</change>
          <change who="dgrigoriou tfruehwirth" when="2023-07-31">transcriptions collated</change>
-         <change who="dgrigoriou smayer tfruehwirth" when="2023-08-02">container structure updated</change>
+         <change who="dgrigoriou tfruehwirth" when="2023-08-02">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="4256" lry="5666">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0469/"/>  
+      <surface ulx="0" uly="0" lrx="4520" lry="3418">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0465/"/>  
       </surface>
-      <surface ulx="0" uly="0" lrx="4248" lry="5666">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0470/"/>
+      <surface ulx="0" uly="0" lrx="4524" lry="3416">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0466/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5726" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0467/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5732" lry="7750">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0468/"/>
       </surface>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0071">
+         <div type="transcription" xml:id="transcription_amp_0070">
+            <div type="envelope">
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0465/" type="envelope"/>
+               <ab>
+                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
+                  <address>
+                     <rs type="place" ref="#amp_place_id_5">Kirchst<del>t</del>etten (West Bahn)<lb/> 
+                     Hinterholz # 6<lb/> 
+                     N.O.</rs>
+                  </address>
+               </ab>
+               <ab>
+                  <space quantity="21" unit="char"/>Die <rs type="person" ref="#amp_person_2">Baronin Stella Musulin</rs><lb/>
+                  <address>
+                     <space quantity="24" unit="char"/><rs type="place" ref="#amp_place_id_303">bei Windisch-<del>frcty</del> fracty<lb/><!-- research person (Eva Windisch-Graez) -->
+                     <space quantity="30" unit="char"/>WIEN VI<lb/> 
+                     <space quantity="31" unit="char"/>Fillgradegasse I2</rs>
+                  </address>
+               </ab>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0466/" type="envelope"/>
+            </div>
             <div type="letter">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0469/" type="sheet"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0467/" type="sheet"/>
                <div type="letter_message">
                   <opener>
                      <dateline>
                         <placeName>
-                           <seg hand="#printed">
-                              <address>
-                                 <rs type="place" ref="#amp_place_id_7">A-3200 Fridau<lb/> 
-                                 Obergrafendorf<lb/> 
-                                 bei St. Pölten, NÖ.</rs><lb/>
-                                 <addrLine>Telefon 0 27 47 / 311</addrLine>
-                              </address>
-                           </seg>
-                           <seg hand="#printed">
-                              <address>
-                                 <rs type="place" ref="#amp_place_id_11">Neulinggasse 26/14<lb/> 
-                                 A-1030 Wien</rs><lb/>
-                                 <addrLine>Telefon 73 94 015</addrLine><lb/>
-                              </address>
-                           </seg>
+                           <address>
+                              <rs type="place" ref="#amp_place_id_5">Kirchstetten(West Bah<del>h</del>n)<lb/> 
+                              Hinterholz # 6<lb/> 
+                              N.O.</rs>
+                           </address>
                         </placeName>
-                        <date rend="#block">
-                           <seg hand="#handwritten">
-                              16th April .
-                           </seg>
-                        </date>
+                        <date rend="#block"><space quantity="38" unit="char"/>Samstag</date>
                      </dateline>
                      <salute>
-                        Dear <rs type="person" ref="#amp_person_1">Wystan</rs>,
+                        <space quantity="15" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:
                      </salute><lb/>
                   </opener>
-                  <p>  
-                     <space quantity="5" unit="char"/>Are you there? <space unit="char" quantity="1"/>May I come across for<lb/> 
-                     a cuppa? <space unit="char" quantity="1"/>I shall be at <rs type="place" ref="#amp_place_id_7">Fridau</rs> over Easter<lb/> 
-                     but am otherwise mostly in <rs type="place" ref="#amp_place_id_1">Vienna</rs>.
+                  <p>
+                     <space quantity="6" unit="char"/>Many thanks for your letter of Oct <del>%</del>5th which I have only just<lb/>  
+                     <space quantity="3" unit="char"/>received:it went to the wrong Kirchstetten.
                   </p>
                   <p>
-                     <space quantity="5" unit="char"/>Was very dashed at missing you when I<lb/> 
-                     got back here at the beginning of September<lb/> 
-                     and found you'd gone.
+                     <space quantity="8" unit="char"/><rs type="person" ref="#amp_person_1 #amp_person_4">We</rs> shall be delighted to see you any day that is convenient for<lb/> 
+                     <space quantity="3" unit="char"/>you,if you could drop us a postcard. Only next Monday is impossible.
                   </p>
-                  <closer hand="#handwritten">
+                  <closer>
                      <salute>
-                         Love
+                        <space quantity="12" unit="char"/>Yours sincerely
                      </salute><lb/>
                      <signed>
-                        <rs type="person" ref="#amp_person_2">Stella</rs>
-                     </signed>  
+                        <seg hand="#handwritten">
+                           <rs type="person" ref="#amp_person_1">W.H. Auden</rs><lb/>
+                        </seg>
+                        <space quantity="27" unit="char"/><rs type="person" ref="#amp_person_1">W.H.Auden</rs>
+                     </signed>
                   </closer>
                </div>
-               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0470/" type="sheet"/>
-               <div>
-                  <ab hand="#handwritten">50</ab>
-               </div>
+               <pb facs="https://iiif.acdh.oeaw.ac.at//amp/amp_0468/" type="sheet"/>
             </div>
          </div>
       </body>
