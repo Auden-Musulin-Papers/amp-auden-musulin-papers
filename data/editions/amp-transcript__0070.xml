@@ -171,10 +171,10 @@ for any purpose, even commercially.</p>
                      <space quantity="12" unit="char"/><salute>Yours sincerely</salute><lb/>
                      <signed>
                         <seg hand="#handwritten">
-                           <rs type="person" ref="#amp_person_1">W.H. Auden</rs><lb/>
+                           <rs type="person" ref="#amp_person_1">W.H. Auden</rs>
                         </seg>
-                        <space quantity="27" unit="char"/><rs type="person" ref="#amp_person_1">W.H.Auden</rs>
-                     </signed>
+                     </signed><lb/>
+                     <space quantity="27" unit="char"/><signed><rs type="person" ref="#amp_person_1">W.H.Auden</rs></signed>
                   </closer>
                </div>
                <pb facs="https://iiif.acdh.oeaw.ac.at//amp/amp_0468/" type="sheet"/>

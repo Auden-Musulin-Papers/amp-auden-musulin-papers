@@ -180,16 +180,14 @@ for any purpose, even commercially.</p>
                      it is here in <rs type="place" ref="#amp_place_id_249">Ireland</rs>.
                   </p>
                   <closer>
-                     <salute>
-                        <space quantity="21" unit="char"/>With all good wishes,<lb/>
-                        <space quantity="21" unit="char"/>Yours very sincerely,
-                     </salute><lb/>
+                     <space quantity="21" unit="char"/><salute>With all good wishes,</salute><lb/>
+                     <space quantity="21" unit="char"/><salute>Yours very sincerely,</salute><lb/>
                      <signed>
                         <seg hand="#handwritten">
-                           <rs type="person" ref="#amp_person_99">Mich<unclear>ae</unclear>l <unclear>O'Sullivan</unclear></rs><lb/>
+                           <rs type="person" ref="#amp_person_99">Mich<unclear>ae</unclear>l <unclear>O'Sullivan</unclear></rs>
                         </seg>
-                        <space quantity="21" unit="char"/><rs type="person" ref="#amp_person_99">MICHAEL O'SULLIVAN</rs>.
-                     </signed>
+                     </signed><lb/>
+                     <space quantity="21" unit="char"/><signed><rs type="person" ref="#amp_person_99">MICHAEL O'SULLIVAN</rs>.</signed>
                   </closer>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0232/" type="sheet"/>
