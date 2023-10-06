@@ -157,20 +157,9 @@
                         den genauen Titel bekanntgeben könnten.
                      </p>
                      <closer>
-                         <salute>Mit herzlichen Empfehlungen und Wünschen</salute><lb/>
-                         <space quantity="42" unit="char"/><salute>Ihr</salute><lb/>
-                         <space quantity="32" unit="char"/><signed>(<rs type="person" ref="#amp_person_137">Dr.Wolfgang Kraus</rs>)</signed>
-                         
-                         
-                         <salute>
-                            Mit herzlichen Empfehlungen und Wünschen
-                            <lb/>
-                            <lb/>
-                            <lb/><space quantity="42" unit="char"/>Ihr
-                         </salute><lb/>
-                         <space quantity="32" unit="char"/><signed>
-                            (<rs type="person" ref="#amp_person_137">Dr.Wolfgang Kraus</rs>)
-                         </signed>
+                        <salute>Mit herzlichen Empfehlungen und Wünschen</salute><lb/>
+                        <space quantity="42" unit="char"/><salute>Ihr</salute><lb/>
+                        <space quantity="32" unit="char"/><signed>(<rs type="person" ref="#amp_person_137">Dr.Wolfgang Kraus</rs>)</signed>
                      </closer>
                   </div>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0254/" type="sheet"/>
