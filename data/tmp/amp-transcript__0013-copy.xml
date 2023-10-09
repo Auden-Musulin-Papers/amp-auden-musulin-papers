@@ -62,7 +62,7 @@ for any purpose, even commercially.</p>
                      <history>
                         <origin>
                            <origDate notBefore="1969-01-04" notAfter="1969-01-04">1969-01-04</origDate>
-                           <origName ref="#amp_place_id_29">77 St Mark's Place</origName>
+                           <origPlace ref="#amp_place_id_29">77 St Mark's Place</origPlace>
                         </origin>
                      </history>
                   </msDesc>
@@ -76,16 +76,6 @@ for any purpose, even commercially.</p>
             <language ident="de">German</language>
          </langUsage>
          <correspDesc>
-            <correspAction type="received">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>
-                  <address>
-                     <settlement ref="#amp_place_id_1">Vienna</settlement>
-                     <district ref="#amp_place_id_308">Wieden</district>
-                     <street>Neulinggasse 26</street>
-                  </address>
-               </placeName>
-            </correspAction>
             <correspAction type="sent">
                <orgName ref="#amp_organization_85">United States General Post Office</orgName>
                <placeName ref="#amp_place_id_28">New York City</placeName>
@@ -97,6 +87,10 @@ for any purpose, even commercially.</p>
                <date notBefore="1969-01-07T11:00:01+01:00" notAfter="1969-01-07T12:00:00+01:00">1969-01-07T11:00:01+01:00/1969-01-07T12:00:00+01:00</date>
             </correspAction>
             <correspAction type="redirected">
+               <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
+               <placeName ref="#amp_place_id_1">Vienna</placeName>
+            </correspAction>
+            <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
             </correspAction>

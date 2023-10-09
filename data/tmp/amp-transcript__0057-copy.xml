@@ -75,16 +75,15 @@ for any purpose, even commercially.</p>
             <language ident="de">German</language>
          </langUsage>
          <correspDesc>
-            <correspAction type="received">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
-            </correspAction>
             <correspAction type="sent">
                <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore="1961-04-25T09:00:01+01:00" notAfter="1961-10-25T18:00:00+01:00">1961-04-25T09:00:01+01:00/1961-10-25T18:00:00+01:00</date>
             </correspAction>
             <correspAction type="redirected">
+               <placeName ref="#amp_place_id_156">Landstraße</placeName>
+            </correspAction>
+            <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_7">Fridau</placeName>
             </correspAction>

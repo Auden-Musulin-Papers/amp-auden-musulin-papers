@@ -89,7 +89,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_81">Post office Oxford</orgName>
                <placeName ref="#amp_place_id_46">Oxford</placeName>
-               <date notBefore="1968-10-12" notAfter="1968-10-12">1968-10-12</date>
+               <date notBefore="1968-10-12" notAfter="1968-10-12">1968-10-12</date><!-- add time -->
             </correspAction>
             <correspAction type="transmitted">
                <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
@@ -97,6 +97,10 @@ for any purpose, even commercially.</p>
                <date notBefore="1968-10-16T11:00:01+01:00" notAfter="1968-10-16T12:00:00+01:00">1968-10-16T11:00:01+01:00/1968-10-16T12:00:00+01:00</date>
             </correspAction>
             <correspAction type="redirected">
+               <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
+               <placeName ref="#amp_place_id_1">Vienna</placeName>
+            </correspAction>
+            <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
             </correspAction>
