@@ -76,10 +76,6 @@ for any purpose, even commercially.</p>
             <language ident="de">German</language>
          </langUsage>
          <correspDesc>
-            <correspAction type="received">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_7">Fridau</placeName>
-            </correspAction>
             <correspAction type="sent">
                <orgName ref="#amp_organization_79">Postamt Berlin 11 (post office Berlin 11)</orgName>
                <placeName ref="#amp_place_id_17">Berlin</placeName>
@@ -91,6 +87,10 @@ for any purpose, even commercially.</p>
                <date notBefore="1965-03-20T09:00:01+01:00" notAfter="1965-03-20T10:00:01+01:00">1965-03-20T09:00:01+01:00/1965-03-20T10:00:01+01:00</date>
             </correspAction>
             <correspAction type="redirected">
+               <persName ref="#amp_person_93">Musulin, Elsa von</persName>               
+               <placeName ref="#amp_place_id_7">Fridau</placeName>
+            </correspAction>
+            <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
             </correspAction>

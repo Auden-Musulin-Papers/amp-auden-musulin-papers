@@ -97,6 +97,10 @@ for any purpose, even commercially.</p>
                <date notBefore="1968-10-05T11:00:01+01:00" notAfter="1968-10-05T12:00:00+01:00">1968-10-05T11:00:01+01:00/1968-10-05T12:00:00+01:00</date>
             </correspAction>
             <correspAction type="redirected">
+               <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
+               <placeName ref="#amp_place_id_1">Vienna</placeName>
+            </correspAction>
+            <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
             </correspAction>

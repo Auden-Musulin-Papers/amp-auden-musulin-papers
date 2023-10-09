@@ -80,10 +80,6 @@ for any purpose, even commercially.</p>
             <language ident="de">German</language>
          </langUsage>
          <correspDesc>
-            <correspAction type="received">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
-            </correspAction>
             <correspAction type="sent">
                <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
@@ -93,6 +89,10 @@ for any purpose, even commercially.</p>
                <orgName ref="#amp_organization_73">Hauptpostamt 1030 (main post office 1030)</orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
                <date notBefore="1969-06-11T05:00:01+01:00" notAfter="1969-06-11T06:00:00+01:00">1969-06-11T05:00:01+01:00/1969-06-11T06:00:00+01:00</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -257,6 +257,8 @@ for any purpose, even commercially.</p>
                      <lb/><space extent="undefined quantity of characters plus minimum" min="3" unit="char"/><l><hi rend="underline">and remember who y<gap quantity="1" unit="char" reason="illegible"/>u are,a<gap quantity="2" unit="char" reason="illegible"/><unclear>p</unclear>ender</hi>.</l>
                   </lg>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0070/" type="sheet"/>
+               </div>
+               <div type="poem" hand="#typed">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0462/" type="cv_sheet"/>
                   <head>
                      <space extent="undefined quantity of characters plus minimum" min="10" unit="char"></space><hi rend="underline"><unclear>E</unclear><gap quantity="7" unit="char" reason="illegible"/>TO<gap reason="illegible"/>GODS<gap quantity="2" unit="char" reason="illegible"/></hi><lb/>

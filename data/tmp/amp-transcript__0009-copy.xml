@@ -62,7 +62,7 @@ for any purpose, even commercially.</p>
                      <history>
                         <origin>
                            <origDate notBefore="1968-10-15" notAfter="1968-10-15">1968-10-15</origDate>
-                           <origName ref="#amp_place_id_45">32 Bryanston Square</origName>
+                           <origPlace ref="#amp_place_id_45">32 Bryanston Square</origPlace>
                         </origin>
                      </history>
                   </msDesc>
@@ -76,22 +76,15 @@ for any purpose, even commercially.</p>
             <language ident="de">German</language>
          </langUsage>
          <correspDesc>
-            <correspAction type="received">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>
-                  <address>
-                     <settlement ref="#amp_place_id_1">Vienna</settlement>
-                     <district ref="#amp_place_id_308">Wieden</district>
-                     <street>Neulinggasse 26</street>
-                  </address>
-               </placeName>
-            </correspAction>
             <correspAction type="sent">
                <orgName ref="#amp_organization_82">London Western District Office</orgName>
                <placeName ref="#amp_place_id_56">London</placeName>
                <date notBefore="1968-10-15" notAfter="1968-10-15">1968-10-15</date>
             </correspAction>
             <correspAction type="redirected">
+               <placeName ref="#amp_place_id_1">Vienna</placeName>
+            </correspAction>
+            <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
             </correspAction>

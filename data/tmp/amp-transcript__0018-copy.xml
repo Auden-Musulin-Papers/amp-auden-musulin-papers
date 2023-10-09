@@ -92,6 +92,9 @@ for any purpose, even commercially.</p>
                <date notBefore="1971-10-19" notAfter="1971-10-19">1971-10-19</date>
             </correspAction>
             <correspAction type="redirected">
+               <placeName ref="#amp_place_id_1">Vienna</placeName>
+            </correspAction>
+            <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
             </correspAction>

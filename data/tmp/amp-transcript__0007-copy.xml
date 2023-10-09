@@ -76,16 +76,6 @@ for any purpose, even commercially.</p>
             <language ident="de">German</language>
          </langUsage>
          <correspDesc>
-            <correspAction type="received">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>
-                  <address>
-                     <settlement ref="#amp_place_id_1">Vienna</settlement>
-                     <district ref="#amp_place_id_308">Wieden</district>
-                     <street>Neulinggasse 26</street>
-                  </address>
-               </placeName>
-            </correspAction>
             <correspAction type="sent">
                <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
@@ -95,15 +85,19 @@ for any purpose, even commercially.</p>
                <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
                <date notBefore="1968-10-08T06:00:01+01:00" notAfter="1968-10-08T07:00:00+01:00">1968-10-08T06:00:01+01:00/1968-10-08T07:00:00+01:00</date>
-            </correspAction>
+            </correspAction>            
             <correspAction type="redirected">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
+               <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
+               <placeName ref="#amp_place_id_1">Vienna</placeName>
             </correspAction>
             <correspAction type="transmitted">
                <orgName ref="#amp_organization_73">Hauptpostamt 1030 (main post office 1030)</orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
                <date notBefore="1968-10-08T10:00:01+01:00" notAfter="1968-10-08T11:00:01+01:00">1968-10-08T10:00:01+01:00/1968-10-08T11:00:01+01:00</date>
+            </correspAction>            
+            <correspAction type="received">
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
