@@ -66,15 +66,92 @@
           <moduleRef key="transcr" include="fw space facsimile surface damage handShift"/>
           <moduleRef key="linking" include="ab seg"/>
           
+          <elementSpec ident="correspDesc" mode="change">
+            <constraintSpec ident="correspDesc" module="header" scheme="schematron">
+              <constraint>
+                <sch:rule context="//tei:correspDesc">
+                  <sch:assert test="count(./tei:correspAction) > 0">element missing; element correspAction required</sch:assert>
+                </sch:rule>
+              </constraint>
+            </constraintSpec>
+            <attList>
+              <attDef ident="type" mode="delete"/>
+              <attDef ident="subtype" mode="delete"/>
+              <attDef ident="key" mode="delete"/>
+              <attDef ident="ref" mode="delete"/>
+              <attDef ident="source" mode="delete"/>
+              <attDef ident="cert" mode="delete"/>
+              <attDef ident="resp" mode="delete"/>
+              <attDef ident="change" mode="delete"/>
+              <attDef ident="facs" mode="delete"/>
+              <attDef ident="ana" mode="delete"/>
+              <attDef ident="corresp" mode="delete"/>
+              <attDef ident="synch" mode="delete"/>
+              <attDef ident="sameAs" mode="delete"/>
+              <attDef ident="copyOf" mode="delete"/>
+              <attDef ident="next" mode="delete"/>
+              <attDef ident="prev" mode="delete"/>
+              <attDef ident="exclude" mode="delete"/>
+              <attDef ident="select" mode="delete"/>
+              <attDef ident="rend" mode="delete"/>
+              <attDef ident="style" mode="delete"/>
+              <attDef ident="rendition" mode="delete"/>
+            </attList>
+          </elementSpec>
+          
+          <elementSpec ident="correspAction" mode="change">
+            <constraintSpec ident="correspAction" module="header" scheme="schematron">
+              <constraint>
+                <sch:rule context="//tei:correspAction">
+                  <sch:report test="*[not(self::tei:persName or self::tei:placeName or self::tei:orgName or self::tei:date)]">child element not allowed; persName, orgName, placeName and date are allowed</sch:report> 
+                </sch:rule>
+              </constraint>
+            </constraintSpec>
+            <attList>
+              <attDef ident="type" mode="change" usage="req">
+                <valList mode="replace" type="closed">
+                  <valItem ident="sent"/>
+                  <valItem ident="transmitted"/>
+                  <valItem ident="redirected"/>
+                  <valItem ident="received"/>
+                </valList>
+              </attDef>
+              <attDef ident="key" mode="delete"/>
+              <attDef ident="ref" mode="delete"/>
+              <attDef ident="source" mode="delete"/>
+              <attDef ident="cert" mode="delete"/>
+              <attDef ident="resp" mode="delete"/>
+              <attDef ident="change" mode="delete"/>
+              <attDef ident="facs" mode="delete"/>
+              <attDef ident="ana" mode="delete"/>
+              <attDef ident="corresp" mode="delete"/>
+              <attDef ident="synch" mode="delete"/>
+              <attDef ident="sameAs" mode="delete"/>
+              <attDef ident="copyOf" mode="delete"/>
+              <attDef ident="next" mode="delete"/>
+              <attDef ident="prev" mode="delete"/>
+              <attDef ident="exclude" mode="delete"/>
+              <attDef ident="select" mode="delete"/>
+              <attDef ident="rend" mode="delete"/>
+              <attDef ident="style" mode="delete"/>
+              <attDef ident="rendition" mode="delete"/>
+            </attList>
+          </elementSpec>
+          
           <elementSpec ident="closer" mode="change">
             <content>
               <sequence>
                 <elementRef key="space" maxOccurs="1" minOccurs="0"/>
                 <elementRef key="salute" maxOccurs="1" minOccurs="0"/>
                 <elementRef key="lb" maxOccurs="1" minOccurs="0"/>
+                <elementRef key="space" maxOccurs="1" minOccurs="0"/>
+                <elementRef key="salute" maxOccurs="1" minOccurs="0"/>
+                <elementRef key="lb" maxOccurs="1" minOccurs="0"/>
                 <elementRef key="signed" maxOccurs="1" minOccurs="0"/>
+                <elementRef key="lb" maxOccurs="1" minOccurs="0"/>
                 <elementRef key="space" maxOccurs="1" minOccurs="0"/>
                 <elementRef key="signed" maxOccurs="1" minOccurs="0"/>
+                <elementRef key="lb" maxOccurs="1" minOccurs="0"/>
               </sequence>
             </content>
             <!--<constraintSpec ident="closer" module="textstructure" scheme="schematron">
