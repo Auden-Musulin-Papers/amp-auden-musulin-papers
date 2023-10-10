@@ -82,7 +82,7 @@ for any purpose, even commercially.</p>
                <date notBefore="1965-09-29T17:00:01+01:00" notAfter="1965-09-29T18:00:00+01:00">1965-09-29T17:00:01+01:00/1965-09-29T18:00:00+01:00</date>
             </correspAction>
             <correspAction type="transmitted">
-               <orgName ref="#amp_organization_86">Postamt Wien 40 (post office Vienna 40)</orgName>
+               <orgName ref="#amp_organization_73">Hauptpostamt 1030 (main post office 1030)</orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
                <date notBefore="1965-09-30T05:00:01+01:00" notAfter="1965-09-30T06:00:00+01:00">1965-09-30T05:00:01+01:00/1965-09-30T06:00:00+01:00</date>
             </correspAction>
