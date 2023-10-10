@@ -76,16 +76,6 @@ for any purpose, even commercially.</p>
             <language ident="de">German</language>
          </langUsage>
          <correspDesc>
-            <correspAction type="received">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>
-                  <address>
-                     <settlement ref="#amp_place_id_1">Vienna</settlement>
-                     <district ref="#amp_place_id_308">Wieden</district>
-                     <street>Neulinggasse 26</street>
-                  </address>
-               </placeName>
-            </correspAction>
             <correspAction type="sent">
                <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
