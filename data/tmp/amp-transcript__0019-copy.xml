@@ -61,7 +61,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1972-02-22" notAfter="1972-02-22">1972-02-22</origDate>
+                           <origDate notBefore-iso="1972-02-22" notAfter-iso="1972-02-22">1972-02-22</origDate>
                            <origPlace ref="#amp_place_id_29">77 St Mark's Place</origPlace>
                         </origin>
                      </history>
@@ -79,12 +79,12 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_85">United States General Post Office</orgName>
                <placeName ref="#amp_place_id_28">New York City</placeName>
-               <date notBefore="1972-02-23T12:00:00-05:00" notAfter="1972-02-23T23:59:69-05:00">1972-02-23T12:00:00-05:00/1972-02-23T23:59:69-05:00</date>
+               <date notBefore-iso="1972-02-23T12:00:00-05:00" notAfter-iso="1972-02-23T23:59:69-05:00">1972-02-23T12:00:00-05:00/1972-02-23T23:59:69-05:00</date>
             </correspAction>
             <correspAction type="transmitted">
                <orgName ref="amp_organization_72">Postamt Oberndorf an der Melk (post office Oberndorf an der Melk)</orgName>
                <placeName ref="#amp_place_id_311">Oberndorf an der Melk</placeName>
-               <date notBefore="1972-02-28T13:00:01+01:00" notAfter="1972-02-28T14:00:00+01:00">1972-02-28T13:00:01+01:00/1972-02-28T14:00:00+01:00</date>
+               <date notBefore-iso="1972-02-28T13:00:01+01:00" notAfter-iso="1972-02-28T14:00:00+01:00">1972-02-28T13:00:01+01:00/1972-02-28T14:00:00+01:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
@@ -167,7 +167,7 @@ for any purpose, even commercially.</p>
                      </dateline>
                      <salute>
                         Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>;</unclear>
-                     </salute><lb/>
+                     </salute>
                   </opener>
                   <p>
                      Many thanks for your letter<unclear>,</unclear> Whate<unclear>ve</unclear>r<lb/>
@@ -177,7 +177,7 @@ for any purpose, even commercially.</p>
                      not in <rs type="place" ref="#amp_place_id_28">New York</rs>.
                   </p>
                   <closer>
-                     <salute>love</salute><lb/>
+                     <salute>love</salute>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                   </closer>
                </div>     

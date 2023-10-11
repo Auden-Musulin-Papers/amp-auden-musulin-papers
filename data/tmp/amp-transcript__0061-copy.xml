@@ -61,7 +61,7 @@
                             </msIdentifier>
                             <history>
                                 <origin>
-                                    <origDate notBefore="1977-04-05" notAfter="1977-04-05">1977-04-05</origDate>
+                                    <origDate notBefore-iso="1977-04-05" notAfter-iso="1977-04-05">1977-04-05</origDate>
                                     <origPlace ref="#amp_place_id_11">Neulinggasse 26></origPlace>
                                 </origin>
                             </history>
@@ -144,7 +144,7 @@
                 </div>
                 <div type="letter_message">
                     <opener>
-                        <salute>Sehr geehrter, lieber <rs type="person" ref="#amp_person_137">Herr Doktor</rs> !</salute><lb/>
+                        <salute>Sehr geehrter, lieber <rs type="person" ref="#amp_person_137">Herr Doktor</rs> !</salute>
                     </opener>
                     <p>
                         <space quantity="5" unit="char"/>Es wird für mich eine Ehre sein, am 5. Mai<lb/>
@@ -155,7 +155,7 @@
                         Aber wenn nicht, ist mir Alles recht!
                     </p>
                     <closer>
-                        <space quantity="15" unit="char"/><salute>Mit herzlichen Grüßen,</salute><lb/>
+                        <space quantity="15" unit="char"/><salute>Mit herzlichen Grüßen,</salute>
                         <signed hand="#handwritten"><rs type="person" ref="#amp_person_2">Stella Musulin</rs> <unclear>´</unclear></signed>
                         <space quantity="15" unit="char"/><signed><rs type="person" ref="#amp_person_2">Stella Musulin</rs>.</signed>
                     </closer>

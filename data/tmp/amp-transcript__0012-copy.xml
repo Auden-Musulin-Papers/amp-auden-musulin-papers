@@ -61,7 +61,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1968-12-29" notAfter="1968-12-29">1968-12-29</origDate>
+                           <origDate notBefore-iso="1968-12-29" notAfter-iso="1968-12-29">1968-12-29</origDate>
                            <origPlace ref="#amp_place_id_29">77 St Mark's Place</origPlace>
                         </origin>
                      </history>
@@ -79,7 +79,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_85">United States General Post Office</orgName>
                <placeName ref="#amp_place_id_28">New York City</placeName>
-               <date notBefore="1968-12-30T12:00:00-05:00" notAfter="1968-12-30T23:59:69-05:00">1968-12-30T12:00:00-05:00/1968-12-30T23:59:69-05:00</date>
+               <date notBefore-iso="1968-12-30T12:00:00-05:00" notAfter-iso="1968-12-30T23:59:69-05:00">1968-12-30T12:00:00-05:00/1968-12-30T23:59:69-05:00</date>
             </correspAction>
             <correspAction type="redirected">
                <placeName ref="#amp_place_id_1">Vienna</placeName>
@@ -169,7 +169,7 @@ for any purpose, even commercially.</p>
                      </dateline>
                      <salute>
                         Dear <rs type="person" ref="#amp_person_2">Stella</rs>:
-                     </salute><lb/>
+                     </salute>
                   </opener>
                   <p>
                      I am in despair. I wrote to <rs type="person" ref="#amp_person_">my lawyer</rs><lb/>
@@ -191,7 +191,7 @@ for any purpose, even commercially.</p>
                   <closer>
                      <salute>
                         love
-                     </salute><lb/>
+                     </salute>
                      <signed>
                         <rs type="person" ref="#amp_person_1">Wystan</rs> .
                      </signed>

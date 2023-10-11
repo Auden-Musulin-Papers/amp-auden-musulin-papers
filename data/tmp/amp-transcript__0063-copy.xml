@@ -65,7 +65,7 @@
                             </msIdentifier>
                             <history>
                                 <origin>
-                                    <origDate notBefore="1962-05-23" notAfter="1962-05-23">1962-05-23</origDate>
+                                    <origDate notBefore-iso="1962-05-23" notAfter-iso="1962-05-23">1962-05-23</origDate>
                                     <origPlace type="amp_place_id_10">Austria</origPlace>
                                 </origin>
                             </history>
@@ -133,7 +133,7 @@
                                     </placeName>
                                     <date rend="#block">23. <unclear>M</unclear>ai .</date>
                                 </dateline>
-                                <salute>Sehr geehrte <rs type="person" ref="#amp_person_204">Frau Busta</rs>,</salute><lb/>
+                                <salute>Sehr geehrte <rs type="person" ref="#amp_person_204">Frau Busta</rs>,</salute>
                             </opener>
                             <p>
                                 Ich wollte Sie heute Abend nicht<lb/>
@@ -189,7 +189,7 @@
                                     Mit herzlichen Grüssen und<lb/>
                                     besten Wü<unclear><del>s</del>n</unclear>schen<lb/>
                                     Ihre
-                                </salute><lb/>
+                                </salute>
                                 <signed><rs type="person" ref="#amp_person_4">Stella Musulin</rs> .</signed>
                             </closer>
                         </div>

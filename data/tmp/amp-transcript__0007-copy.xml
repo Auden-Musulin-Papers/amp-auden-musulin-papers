@@ -61,7 +61,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1968-10-06" notAfter="1968-10-06">1968-10-06</origDate>
+                           <origDate notBefore-iso="1968-10-06" notAfter-iso="1968-10-06">1968-10-06</origDate>
                            <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
                         </origin>
                      </history>
@@ -79,12 +79,12 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore="1968-10-07T16:00:01+01:00" notAfter="1968-10-07T17:00:01+01:00">1968-10-07T16:00:01+01:00/1968-10-07T17:00:01+01:00</date>
+               <date notBefore-iso="1968-10-07T16:00:01+01:00" notAfter-iso="1968-10-07T17:00:01+01:00">1968-10-07T16:00:01+01:00/1968-10-07T17:00:01+01:00</date>
             </correspAction>
             <correspAction type="transmitted">
                <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
-               <date notBefore="1968-10-08T06:00:01+01:00" notAfter="1968-10-08T07:00:00+01:00">1968-10-08T06:00:01+01:00/1968-10-08T07:00:00+01:00</date>
+               <date notBefore-iso="1968-10-08T06:00:01+01:00" notAfter-iso="1968-10-08T07:00:00+01:00">1968-10-08T06:00:01+01:00/1968-10-08T07:00:00+01:00</date>
             </correspAction>            
             <correspAction type="redirected">
                <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
@@ -93,7 +93,7 @@ for any purpose, even commercially.</p>
             <correspAction type="transmitted">
                <orgName ref="#amp_organization_73">Hauptpostamt 1030 (main post office 1030)</orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
-               <date notBefore="1968-10-08T10:00:01+01:00" notAfter="1968-10-08T11:00:01+01:00">1968-10-08T10:00:01+01:00/1968-10-08T11:00:01+01:00</date>
+               <date notBefore-iso="1968-10-08T10:00:01+01:00" notAfter-iso="1968-10-08T11:00:01+01:00">1968-10-08T10:00:01+01:00/1968-10-08T11:00:01+01:00</date>
             </correspAction>            
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
@@ -175,7 +175,7 @@ for any purpose, even commercially.</p>
                         </placeName>
                         <date rend="#block">Sunday.</date>
                      </dateline>
-                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                <p>
                   I got your telegram yesterday just before<lb/>
@@ -196,7 +196,7 @@ for any purpose, even commercially.</p>
                <closer>
                   <salute>
                      love
-                  </salute><lb/>
+                  </salute>
                   <signed>
                      <rs type="person" ref="#amp_person_1">Wystan</rs>.
                   </signed>

@@ -61,7 +61,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1961-10-13" notAfter="1961-10-13">1961-10-13</origDate>
+                           <origDate notBefore-iso="1961-10-13" notAfter-iso="1961-10-13">1961-10-13</origDate>
                            <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
                         </origin>
                      </history>
@@ -79,7 +79,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_75">Postamt 101 (post office 101)</orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
-               <date notBefore="1961-10-15T23:00:01+01:00" notAfter="1961-10-15T23:59:59+01:00">1961-10-15T23:00:01+01:00/1961-10-15T23:59:59+01:00</date><!-- time is different -->
+               <date notBefore-iso="1961-10-15T23:00:01+01:00" notAfter-iso="1961-10-15T23:59:59+01:00">1961-10-15T23:00:01+01:00/1961-10-15T23:59:59+01:00</date><!-- time is different -->
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
@@ -160,7 +160,7 @@ for any purpose, even commercially.</p>
                         </placeName>
                         <date rend="#block">Friday</date>
                      </dateline>
-                     <salute><space quantity="17" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
+                     <salute><space quantity="17" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
                      <space quantity="9" unit="char"/>Many thanks for your letter. Ac<del>r</del>tually,<rs type="person" ref="#amp_person_1 #amp_person_4">we</rs><lb/>
@@ -172,7 +172,7 @@ for any purpose, even commercially.</p>
                      <space quantity="5" unit="char"/>drop us a p.c.when you fix the day.
                   </p>
                   <closer>
-                     <salute><space quantity="11" unit="char"/>longing to see you</salute><lb/>
+                     <salute><space quantity="11" unit="char"/>longing to see you</salute>
                      <signed hand="#handwritten"><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                   </closer>
                </div>

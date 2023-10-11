@@ -61,7 +61,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1969-05-21" notAfter="1969-05-21">1969-05-21</origDate>
+                           <origDate notBefore-iso="1969-05-21" notAfter-iso="1969-05-21">1969-05-21</origDate>
                            <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
                         </origin>
                      </history>
@@ -79,12 +79,12 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="amp_organization_76">Hauptpostamt 1150 (main post office 1150)</orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
-               <date notBefore="1969-05-22T07:00:01+01:00" notAfter="1969-05-22T14:00:00+01:00">1969-05-22T07:00:01+01:00/1969-05-22T14:00:00+01:00</date><!-- it doesn't include time -->
+               <date notBefore-iso="1969-05-22T07:00:01+01:00" notAfter-iso="1969-05-22T14:00:00+01:00">1969-05-22T07:00:01+01:00/1969-05-22T14:00:00+01:00</date><!-- it doesn't include time -->
             </correspAction>
             <correspAction type="transmitted">
                <orgName ref="amp_organization_73">Hauptpostamt 1030 (main post office 1030)</orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
-               <date notBefore="1969-05-22T14:00:01+01:00" notAfter="1969-05-22T15:00:00+01:00">1969-05-22T14:00:01+01:00/1969-05-22T15:00:00+01:00</date>
+               <date notBefore-iso="1969-05-22T14:00:01+01:00" notAfter-iso="1969-05-22T15:00:00+01:00">1969-05-22T14:00:01+01:00/1969-05-22T15:00:00+01:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
@@ -174,7 +174,7 @@ for any purpose, even commercially.</p>
                      </dateline>
                      <salute>
                         Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>,</unclear>
-                     </salute><lb/>   
+                     </salute>  
                   </opener>
                   <p>
                      Ma<unclear>n</unclear>y thank f<unclear>o</unclear> your card<unclear>,</unclear> Had<lb/>
@@ -193,7 +193,7 @@ for any purpose, even commercially.</p>
                   <closer>
                      <salute>
                         love
-                     </salute><lb/>
+                     </salute>
                      <signed>
                         <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>'</unclear>
                      </signed>

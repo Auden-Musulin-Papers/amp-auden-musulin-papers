@@ -61,7 +61,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1971-10-19" notAfter="1971-10-19">1971-10-19</origDate>
+                           <origDate notBefore-iso="1971-10-19" notAfter-iso="1971-10-19">1971-10-19</origDate>
                            <origPlace ref="#amp_place_id_69">15 Loudoun Rd</origPlace>
                         </origin>
                      </history>
@@ -89,7 +89,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_83">St John's Wood district office</orgName>
                <placeName ref="#amp_place_id_56">London</placeName>
-               <date notBefore="1971-10-19" notAfter="1971-10-19">1971-10-19</date>
+               <date notBefore-iso="1971-10-19" notAfter-iso="1971-10-19">1971-10-19</date>
             </correspAction>
             <correspAction type="redirected">
                <placeName ref="#amp_place_id_1">Vienna</placeName>
@@ -168,7 +168,7 @@ for any purpose, even commercially.</p>
                      </dateline>
                      <salute>
                         Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>;</unclear>
-                     </salute><lb/>
+                     </salute>
                   </opener>
                   <p>
                      Were very disappointed that <rs type="person" ref="#amp_person_1 #amp_person_4">we</rs> didn't

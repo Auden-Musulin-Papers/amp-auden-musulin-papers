@@ -61,7 +61,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1967-11-08" notAfter="1967-11-08">1967-11-08</origDate>
+                           <origDate notBefore-iso="1967-11-08" notAfter-iso="1967-11-08">1967-11-08</origDate>
                            <origPlace ref="#amp_place_id_29">77 St Mark's Place</origPlace>
                         </origin>
                      </history>
@@ -79,7 +79,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_85">United States General Post Office</orgName>
                <placeName ref="#amp_place_id_28">New York City</placeName>
-               <date notBefore="1967-11-09T00:00:00-05:00" notAfter="1967-11-09T11:59:59-05:00">1967-11-09T00:00:00-05:00/1967-11-09T11:59:59-05:00</date>
+               <date notBefore-iso="1967-11-09T00:00:00-05:00" notAfter-iso="1967-11-09T11:59:59-05:00">1967-11-09T00:00:00-05:00/1967-11-09T11:59:59-05:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
@@ -164,7 +164,7 @@ for any purpose, even commercially.</p>
                      </dateline>
                      <salute>
                         Dear <rs type="person" ref="#amp_person_2">Stella</rs>.
-                     </salute><lb/>
+                     </salute>
                   </opener>
                <p>
                   A disaster has ha<unclear>p</unclear>pened. <rs type="event" ref="#amp_event_id_1"><rs type="person" ref="#amp_person_16">Frau Eiermann</rs><lb/>
@@ -191,7 +191,7 @@ for any purpose, even commercially.</p>
                <closer>
                   <salute>
                      love
-                  </salute><lb/>
+                  </salute>
                   <signed>
                      <rs type="person" ref="#amp_person_1">Wystan</rs>
                   </signed>

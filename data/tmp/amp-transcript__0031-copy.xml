@@ -61,7 +61,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1985-12-15" notAfter="1985-12-15">1985-12-15</origDate>
+                           <origDate notBefore-iso="1985-12-15" notAfter-iso="1985-12-15">1985-12-15</origDate>
                         </origin>
                      </history>
                   </msDesc>
@@ -253,7 +253,7 @@ for any purpose, even commercially.</p>
                      him at 212-702-9101. <space quantity="1" unit="char"/>His <del>m</del>name is <rs type="person" ref="#amp_person_94">Marko</rs>.
                   </p>
                   <closer>
-                     <space quantity="14" unit="char"/><salute>Good health and suc<unclear>c</unclear>ess i<del>j</del>n 1986,</salute><lb/>
+                     <space quantity="14" unit="char"/><salute>Good health and suc<unclear>c</unclear>ess i<del>j</del>n 1986,</salute>
                   </closer>
                </div>     
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0226/" type="sheet"/>

@@ -62,7 +62,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1962-04-16" notAfter="1973-04-16">1962-04-16--1973-04-16</origDate>
+                           <origDate notBefore-iso="1962-04-16" notAfter-iso="1973-04-16">1962-04-16--1973-04-16</origDate>
                            <origPlace ref="#amp_place_id_10">Austria</origPlace>
                         </origin>
                      </history>
@@ -136,7 +136,7 @@ for any purpose, even commercially.</p>
                      </dateline>
                      <salute>
                         Dear <rs type="person" ref="#amp_person_1">Wystan</rs>,
-                     </salute><lb/>
+                     </salute>
                   </opener>
                   <p>  
                      <space quantity="5" unit="char"/>Are you there? <space unit="char" quantity="1"/>May I come across for<lb/> 
@@ -151,7 +151,7 @@ for any purpose, even commercially.</p>
                   <closer hand="#handwritten">
                      <salute>
                          Love
-                     </salute><lb/>
+                     </salute>
                      <signed>
                         <rs type="person" ref="#amp_person_2">Stella</rs>
                      </signed>  

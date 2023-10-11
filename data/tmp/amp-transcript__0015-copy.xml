@@ -61,7 +61,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1970-06-10" notAfter="1970-06-10">1970-06-10</origDate>
+                           <origDate notBefore-iso="1970-06-10" notAfter-iso="1970-06-10">1970-06-10</origDate>
                            <origPlace ref="#amp_place_id_2">Hinterholz 6></origPlace>
                         </origin>
                      </history>
@@ -79,7 +79,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore="1970-06-10T16:00:01+01:00" notAfter="1970-06-10T17:00:00+01:00">1970-06-10T16:00:01+01:00/1970-06-10T17:00:00+01:00</date>
+               <date notBefore-iso="1970-06-10T16:00:01+01:00" notAfter-iso="1970-06-10T17:00:00+01:00">1970-06-10T16:00:01+01:00/1970-06-10T17:00:00+01:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
@@ -166,7 +166,7 @@ for any purpose, even commercially.</p>
                   </dateline>
                   <salute>
                      Dear <rs type="person" ref="#amp_person_2">Stella</rs>
-                  </salute><lb/>
+                  </salute>
                   </opener>
                   <p>
                      <rs type="lit_work" ref="#lit_work_id_91">Translation</rs> just received. Thanks<lb/>
@@ -187,7 +187,7 @@ for any purpose, even commercially.</p>
                      <salute>
                         love and again thanks ever<lb/>
                         so much
-                     </salute><lb/>
+                     </salute>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                   </closer>
             </div> 

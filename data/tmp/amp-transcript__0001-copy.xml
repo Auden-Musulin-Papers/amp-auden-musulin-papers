@@ -61,7 +61,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1963-05-12" notAfter="1963-05-12">1963-05-12</origDate>
+                           <origDate notBefore-iso="1963-05-12" notAfter-iso="1963-05-12">1963-05-12</origDate>
                            <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
                         </origin>
                      </history>
@@ -79,7 +79,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore="1963-05-13T11:00:01+01:00" notAfter="1963-05-13T12:00:00+01:00">1963-05-13T11:00:01+01:00/1963-05-13T12:00:00+01:00</date>
+               <date notBefore-iso="1963-05-13T11:00:01+01:00" notAfter-iso="1963-05-13T12:00:00+01:00">1963-05-13T11:00:01+01:00/1963-05-13T12:00:00+01:00</date>
             </correspAction>
             <correspAction type="redirected"><!-- we dont know the agent of redirection, that's why we left it out -->
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
@@ -123,7 +123,7 @@ for any purpose, even commercially.</p>
    <text type="letter" hand="#handwritten">
       <body>
          <div type="transcription" xml:id="transcription_amp_0001">
-            <div type="envelope"><!-- "element "div" missing required attribute "xml:id"" -->
+            <div type="envelope">
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope"/>
                <ab><rs type="person" ref="#amp_person_4"><unclear>Ch</unclear>ester</rs> in <rs type="place" ref="#amp_place_id_14">Florence</rs><unclear>.</unclear></ab>
                <ab>
@@ -145,7 +145,7 @@ for any purpose, even commercially.</p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0002/" type="envelope"/>
                   <ab>
                      <rs type="person" ref="#amp_person_1">W.H.Auden</rs><unclear>,</unclear><lb/>
-                     <seg hand="#printed"><!-- "element "seg" not allowed anywhere" -->
+                     <seg hand="#printed">
                         <address>
                            <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
                            HINTERHOLZ 6<lb/>
@@ -157,7 +157,7 @@ for any purpose, even commercially.</p>
             <div type="letter">
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0003/" type="letter"/>
                <div type="letter_message">
-                  <opener><!-- "element "opener" not allowed anywhere" -->
+                  <opener>
                      <dateline>
                         <date rend="#block">Sunday.</date>
                         <placeName>
@@ -170,7 +170,7 @@ for any purpose, even commercially.</p>
                            </seg>
                         </placeName>
                      </dateline>
-                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
                      Delighted to hear you are <rs type="place" ref="#amp_place_id_11">zu Haus</rs>.<lb/>
@@ -185,7 +185,7 @@ for any purpose, even commercially.</p>
                      I expect him back on Tuesday.
                   </p>
                   <closer>
-                     <salute>love</salute><lb/>
+                     <salute>love</salute>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                   </closer>
                </div>

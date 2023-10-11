@@ -61,7 +61,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1960-07-21" notAfter="1960-07-21">1960-07-21</origDate>
+                           <origDate notBefore-iso="1960-07-21" notAfter-iso="1960-07-21">1960-07-21</origDate>
                            <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
                         </origin>
                      </history>
@@ -79,7 +79,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore="1960-07-21T06:00:01+01:00" notAfter="1960-07-21T07:00:00+01:00">1960-07-21T06:00:01+01:00/1960-07-21T07:00:00+01:00</date>
+               <date notBefore-iso="1960-07-21T06:00:01+01:00" notAfter-iso="1960-07-21T07:00:00+01:00">1960-07-21T06:00:01+01:00/1960-07-21T07:00:00+01:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
@@ -158,7 +158,7 @@ for any purpose, even commercially.</p>
                            </seg>
                         </placeName>
                      </dateline>
-                     <salute>Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:</salute><lb/>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:</salute>
                   </opener>
                   <p>
                      Delighted to get your ca<unclear>rd</unclear>. <rs type="person" ref="#amp_person_1 #amp_person_4">We</rs><lb/>
@@ -170,7 +170,7 @@ for any purpose, even commercially.</p>
                      tape-rec<unclear>o</unclear>rder.
                   </p>
                   <closer>
-                     <salute>yours sinc<unclear>e</unclear>rely</salute><lb/>
+                     <salute>yours sinc<unclear>e</unclear>rely</salute>
                      <signed><rs type="person" ref="#amp_person_1">Wystan Auden</rs></signed>
                   </closer>
             </div>

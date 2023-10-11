@@ -60,7 +60,7 @@
                                 <idno>A2</idno>
                             </msIdentifier>
                             <history>
-                                <origin><origDate notBefore="1977-03-22" notAfter="1977-03-22">1977-03-22</origDate></origin>
+                                <origin><origDate notBefore-iso="1977-03-22" notAfter-iso="1977-03-22">1977-03-22</origDate></origin>
                             </history>
                         </msDesc>
                     </witness>
@@ -129,7 +129,7 @@
                         </dateline>
                         <salute>
                             Sehr verehrte, liebe <rs type="person" ref="#amp_person_2">gnädige Frau</rs>,
-                        </salute><lb/>
+                        </salute>
                      </opener>
                      <p>
                         wie mit <rs type="person" ref="#amp_person_135">Frau Bronold</rs> mündlich vereinbart, möchte ich nun<lb/>
@@ -149,7 +149,7 @@
                             <lb/>
                             <lb/>
                             <lb/><space quantity="42" unit="char"/>Ihr
-                         </salute><lb/>
+                         </salute>
                          <space quantity="32" unit="char"/><signed>
                             (<rs type="person" ref="#amp_person_137">Dr.Wolfgang Kraus</rs>)
                          </signed>

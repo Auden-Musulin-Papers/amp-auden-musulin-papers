@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 14</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1984-05-31" notAfter="1984-05-31">1984-05-31</origDate></origin>
+                        <origin><origDate notBefore-iso="1984-05-31" notAfter-iso="1984-05-31">1984-05-31</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -183,7 +183,7 @@ for any purpose, even commercially.</p>
                      <salute>
                         <space quantity="21" unit="char"/>With all good wishes,<lb/>
                         <space quantity="21" unit="char"/>Yours very sincerely,
-                     </salute><lb/>
+                     </salute>
                      <signed>
                         <seg hand="#handwritten">
                            <rs type="person" ref="#amp_person_99">Mich<unclear>ae</unclear>l <unclear>O'Sullivan</unclear></rs><lb/>
