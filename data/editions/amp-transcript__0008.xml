@@ -61,8 +61,8 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1968-10-12" notAfter="1968-10-12">1968-10-12</origDate>
-                           <origPlace ref="#amp_place_id_45">32 Bryanston Square</origPlace>
+                           <origDate notBefore-iso="1968-10-12T00:00:00+01:00" notAfter-iso="1968-10-12T23:59:59+01:00">1968-10-12</origDate>
+                           <origPlace ref="#amp_place_id_46">Oxford</origPlace>
                         </origin>
                      </history>
                   </msDesc>
@@ -76,27 +76,21 @@ for any purpose, even commercially.</p>
             <language ident="de">German</language>
          </langUsage>
          <correspDesc>
-            <correspAction type="received">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>
-                  <address>
-                     <settlement ref="#amp_place_id_1">Vienna</settlement>
-                     <district ref="#amp_place_id_308">Wieden</district>
-                     <street>Neulinggasse 26</street>
-                  </address>
-               </placeName>
-            </correspAction>
             <correspAction type="sent">
                <orgName ref="#amp_organization_81">Post office Oxford</orgName>
                <placeName ref="#amp_place_id_46">Oxford</placeName>
-               <date notBefore="1968-10-12" notAfter="1968-10-12">1968-10-12</date>
+               <date notBefore-iso="1968-10-12T13:00:01+01:00" notAfter-iso="1968-10-12T13:29:59+01:00">1968-10-12T13:00:01+00:00/1968-10-12T13:29:59+00:00</date>
             </correspAction>
             <correspAction type="transmitted">
                <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
-               <date notBefore="1968-10-16T11:00:01+01:00" notAfter="1968-10-16T12:00:00+01:00">1968-10-16T11:00:01+01:00/1968-10-16T12:00:00+01:00</date>
+               <date notBefore-iso="1968-10-16T11:00:01+01:00" notAfter-iso="1968-10-16T12:00:00+01:00">1968-10-16T11:00:01+01:00/1968-10-16T12:00:00+01:00</date>
             </correspAction>
             <correspAction type="redirected">
+               <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
+               <placeName ref="#amp_place_id_1">Vienna</placeName>
+            </correspAction>
+            <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
             </correspAction>
@@ -177,7 +171,7 @@ for any purpose, even commercially.</p>
                         </placeName>
                         <date rend="#block">Oct 12 th</date>
                      </dateline>
-                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>.</unclear></salute><lb/>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>.</unclear></salute>
                   </opener>
                <p>
                   Like an idiot<unclear>,</unclear> <rs type="event" ref="#amp_event_id_11">I<unclear>v</unclear>e<del><gap reason="deleted"/></del> gone and<lb/>
@@ -202,7 +196,7 @@ for any purpose, even commercially.</p>
                   So sorry to be such a nuisance.
                </p>
                <closer>
-                  <salute>love</salute><lb/>
+                  <salute>love</salute>
                   <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                </closer>
                </div>

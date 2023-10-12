@@ -61,7 +61,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore-iso="1968-02-06T00:00:00+01:00" notAfter-iso="1968-02-06T23:59:59+01:00">1968-02-06</origDate>
+                           <origDate notBefore-iso="1968-02-06T00:00:00-05:00" notAfter-iso="1968-02-06T23:59:59-05:00">1968-02-06</origDate>
                            <origPlace ref="#amp_place_id_29">77 St Mark's Place</origPlace>
                         </origin>
                      </history>
