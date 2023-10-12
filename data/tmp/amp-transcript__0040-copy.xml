@@ -65,7 +65,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1969-06-10" notAfter="1969-06-10">1969-06-10</origDate>
+                           <origDate notBefore-iso="1969-06-10" notAfter-iso="1969-06-10">1969-06-10</origDate>
                            <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
                         </origin>
                      </history>
@@ -83,12 +83,12 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore="1969-06-10T16:00:01+01:00" notAfter="1969-06-10T17:00:00+01:00">1969-06-10T16:00:01+01:00/1969-06-10T17:00:00+01:00</date>
+               <date notBefore-iso="1969-06-10T16:00:01+01:00" notAfter-iso="1969-06-10T17:00:00+01:00">1969-06-10T16:00:01+01:00/1969-06-10T17:00:00+01:00</date>
             </correspAction>
             <correspAction type="transmitted">
                <orgName ref="#amp_organization_73">Hauptpostamt 1030 (main post office 1030)</orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
-               <date notBefore="1969-06-11T05:00:01+01:00" notAfter="1969-06-11T06:00:00+01:00">1969-06-11T05:00:01+01:00/1969-06-11T06:00:00+01:00</date>
+               <date notBefore-iso="1969-06-11T05:00:01+01:00" notAfter-iso="1969-06-11T06:00:00+01:00">1969-06-11T05:00:01+01:00/1969-06-11T06:00:00+01:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
@@ -170,7 +170,7 @@ for any purpose, even commercially.</p>
                   <opener>
                      <salute>
                         Dear <rs type="person" ref="#amp_person_2">Stella</rs>:
-                     </salute><lb/>
+                     </salute>
                   </opener>
                   <p>
                      Saturday w<unclear>i</unclear>ll be fine. Shall<lb/>
@@ -179,7 +179,7 @@ for any purpose, even commercially.</p>
                   <closer>
                      <salute>
                         love
-                     </salute><lb/>
+                     </salute>
                      <signed>
                         <rs type="person" ref="#amp_person_1">Wystan</rs>
                      </signed>

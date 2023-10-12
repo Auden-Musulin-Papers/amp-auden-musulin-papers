@@ -65,7 +65,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1965-04-28" notAfter="1965-04-28">1965-04-28</origDate>
+                           <origDate notBefore-iso="1965-04-28" notAfter-iso="1965-04-28">1965-04-28</origDate>
                            <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
                         </origin>
                      </history>
@@ -83,7 +83,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore="1965-04-28T17:00:01+01:00" notAfter="1965-04-28T18:00:00+01:00">1965-04-28T17:00:01+01:00/1965-04-28T18:00:00+01:00</date>
+               <date notBefore-iso="1965-04-28T17:00:01+01:00" notAfter-iso="1965-04-28T18:00:00+01:00">1965-04-28T17:00:01+01:00/1965-04-28T18:00:00+01:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
@@ -218,7 +218,7 @@ for any purpose, even commercially.</p>
                      <dateline>
                         <date rend="#inline">Wednesday . </date><placeName rend="#inline"><rs type="place" ref="#amp_place_id_5">Kirch<unclear>s</unclear>t<unclear>e</unclear>tten</rs></placeName>
                      </dateline>
-                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
                      Many thanks for your letter. Will try and call you<lb/>
@@ -233,7 +233,7 @@ for any purpose, even commercially.</p>
                      Could you che<unclear>c</unclear>k the translat<unclear>io</unclear>n for errors.
                   </p>
                   <closer>
-                     <salute>love</salute><lb/>
+                     <salute>love</salute>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs>.</signed>
                   </closer>
                </div>

@@ -61,8 +61,8 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1964-12-23" notAfter="1964-12-23">1964-12-23</origDate>
-                           <origPlace ref="#amp_place_id_19">Hubertusbader Straße 43</origPlace><!-- activate this -->
+                           <origDate notBefore-iso="1964-12-23" notAfter-iso="1964-12-23">1964-12-23</origDate>
+                           <origPlace ref="#amp_place_id_19">Hubertusbader Straße 43</origPlace>
                         </origin>
                      </history>
                   </msDesc>
@@ -79,12 +79,12 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_78">Postamt Berlin 33 (post office Berlin 33)</orgName><!--the post office of the front postmark/ Must correspond with entities in Baserow -->
                <placeName ref="#amp_place_id_17">Berlin</placeName>
-               <date notBefore="1964-12-23T14:00:01+01:00" notAfter="1964-12-23T15:00:00+01:00">1964-12-23T14:00:01+01:00/1964-12-23T15:00:00+01:00</date><!-- based on https://time.lol/ -->
+               <date notBefore-iso="1964-12-23T14:00:01+01:00" notAfter-iso="1964-12-23T15:00:00+01:00">1964-12-23T14:00:01+01:00/1964-12-23T15:00:00+01:00</date><!-- based on https://time.lol/ -->
             </correspAction>
             <correspAction type="transmitted">
                <orgName ref="#amp_organization_71">Postamt Ober-Grafendorf (post office Ober-Grafendorf)</orgName><!-- info from backstamp -->
                <placeName ref="#amp_place_id_8">Ober-Grafendorf</placeName>
-               <date notBefore="1964-12-28T17:00:01+01:00" notAfter="1964-12-28T18:00:00+01:00">1964-12-28T17:00:01+01:00/1964-12-28T18:00:00+01:00</date><!-- no summer time therefore +1 -->
+               <date notBefore-iso="1964-12-28T17:00:01+01:00" notAfter-iso="1964-12-28T18:00:00+01:00">1964-12-28T17:00:01+01:00/1964-12-28T18:00:00+01:00</date><!-- no summer time therefore +1 -->
             </correspAction>
             <correspAction type="redirected">
                <persName ref="#amp_person_93">Musulin, Elsa von</persName>
@@ -177,7 +177,7 @@ for any purpose, even commercially.</p>
                         </placeName>
                         <date rend="#block">Dec 23rd</date>
                      </dateline>
-                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
                      It <hi rend="underline">was</hi> sweet of you to think of me at<lb/>
@@ -206,7 +206,7 @@ for any purpose, even commercially.</p>
                      <del>Have you ever met one<unclear>?</unclear></del> To what pubs do they go?
                   </p>
                   <closer>
-                     <salute>much love and best wishes for 1<unclear>9</unclear>65</salute><lb/>
+                     <salute>much love and best wishes for 1<unclear>9</unclear>65</salute>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                   </closer>
                </div>

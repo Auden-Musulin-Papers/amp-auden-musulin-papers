@@ -60,7 +60,7 @@
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1985-11-29" notAfter="1985-11-29">1985-11-29</origDate>
+                           <origDate notBefore-iso="1985-11-29" notAfter-iso="1985-11-29">1985-11-29</origDate>
                         </origin>
                      </history>
                   </msDesc>
@@ -121,7 +121,7 @@
                            </address>
                         </placeName>
                      </dateline>
-                     <salute>Dear <rs type="person" ref="#amp_person_156">Mr. Duncan</rs>,</salute><lb/>
+                     <salute>Dear <rs type="person" ref="#amp_person_156">Mr. Duncan</rs>,</salute>
                   </opener>
                   <p>
                      <space quantity="5" unit="char"/>I am a more or less retired journalist and author,<lb/>
@@ -161,7 +161,7 @@
                      awe-inspiring talent and high scholarship, wretchedness and squalor.
                   </p>
                   <closer>
-                     <space quantity="28" unit="char"/><salute>Yours sincerely,</salute><lb/>
+                     <space quantity="28" unit="char"/><salute>Yours sincerely,</salute>
                      <space quantity="28" unit="char"/><signed><rs type="person" ref="#amp_person_2">Stella Musulin</rs>.</signed>
                   </closer>
                </div>

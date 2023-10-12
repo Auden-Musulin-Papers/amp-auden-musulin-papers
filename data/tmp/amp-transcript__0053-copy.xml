@@ -61,7 +61,7 @@
                             </msIdentifier>
                             <history>
                                 <origin>
-                                    <origDate notBefore="1969-05-29" notAfter="1969-05-29">1969-05-29</origDate>
+                                    <origDate notBefore-iso="1969-05-29" notAfter-iso="1969-05-29">1969-05-29</origDate>
                                     <origPlace type="amp_place_id_10">Austria</origPlace>
                                 </origin>
                             </history>

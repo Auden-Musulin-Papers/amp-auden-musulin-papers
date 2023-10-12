@@ -61,7 +61,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1971-06-04" notAfter="1971-06-04">1971-06-04</origDate>
+                           <origDate notBefore-iso="1971-06-04" notAfter-iso="1971-06-04">1971-06-04</origDate>
                            <origPlace ref="#amp_place_id_2">Hinterholz 6></origPlace>
                         </origin>
                      </history>
@@ -79,7 +79,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore="1971-06-04T16:00:01+01:00" notAfter="1971-06-04T17:00:00+01:00">1971-06-04T16:00:01+01:00/1971-06-04T17:00:00+01:00</date>
+               <date notBefore-iso="1971-06-04T16:00:01+01:00" notAfter-iso="1971-06-04T17:00:00+01:00">1971-06-04T16:00:01+01:00/1971-06-04T17:00:00+01:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
@@ -163,7 +163,7 @@ for any purpose, even commercially.</p>
                       </seg>
                    </placeName>  
                 </dateline>
-                <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
+                <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                 </opener>
                 <p>
                   I have <unclear>a</unclear> copy of <rs type="lit_work" ref="#lit_work_id_33"><hi rend="underline">A Cert<unclear>a</unclear>in World</hi></rs><lb/>
@@ -171,7 +171,7 @@ for any purpose, even commercially.</p>
                   your convenience.
                  </p>
                  <closer>
-                    <salute>love</salute><lb/>
+                    <salute>love</salute>
                     <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                  </closer>
               </div>
