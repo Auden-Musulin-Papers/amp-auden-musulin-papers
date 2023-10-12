@@ -107,6 +107,14 @@
                 </sch:rule>
               </constraint>
             </constraintSpec>
+            <constraintSpec ident="correspAction-date" scheme="schematron">
+              <constraint>
+                <sch:rule context="//tei:correspAction/tei:date[@notBefore-iso or @notAfter-iso]">
+                  <sch:assert test="string-length(@notBefore-iso) = 25">invalid date format. expected 25 characters e.g. 2023-10-12T00:00:00+01:00</sch:assert>
+                  <sch:assert test="string-length(@notAfter-iso) = 25">invalid date format. expected 25 characters e.g. 2023-10-12T00:00:00+01:00</sch:assert>
+                </sch:rule>
+              </constraint>
+            </constraintSpec>
             <attList>
               <attDef ident="type" mode="change" usage="req">
                 <valList mode="replace" type="closed">
@@ -278,8 +286,6 @@
               <constraint>
                 <sch:rule context="//tei:origDate">
                   <sch:assert test="string-length(@notBefore-iso) = 25">invalid date format. expected 25 characters e.g. 2023-10-12T00:00:00+01:00</sch:assert>
-                </sch:rule>
-                <sch:rule context="//tei:origDate">
                   <sch:assert test="string-length(@notAfter-iso) = 25">invalid date format. expected 25 characters e.g. 2023-10-12T00:00:00+01:00</sch:assert>
                 </sch:rule>
               </constraint>
@@ -295,30 +301,22 @@
                   <dataRef key="teidata.temporal.iso"/>
                 </datatype>
               </attDef>
+              <attDef ident="notAfter" mode="delete"/>
+              <attDef ident="notBefore" mode="delete"/>
+              <attDef ident="when" mode="delete"/>
+              <attDef ident="when-iso" mode="delete"/>
             </attList>
           </elementSpec>
           
           <!-- element date -->
           <elementSpec ident="date" module="core" mode="change">
-            <constraintSpec ident="date" scheme="schematron">
-              <constraint>
-                <sch:rule context="//tei:date[ancestor::tei:body]">
-                  <sch:assert test="@rend='#block' or @rend='#inline'">element date with parent dateline requires rend=#block or rend=#inline</sch:assert>
-                </sch:rule>
-              </constraint>
-            </constraintSpec>
             <attList>
-              <attDef ident="notBefore" mode="change" usage="opt">
+              <attDef ident="notAfter-iso" mode="change" usage="opt">
                 <datatype>
                   <dataRef key="teidata.temporal.iso"/>
                 </datatype>
               </attDef>
-              <attDef ident="notAfter" mode="change" usage="opt">
-                <datatype>
-                  <dataRef key="teidata.temporal.iso"/>
-                </datatype>
-              </attDef>
-              <attDef ident="when" mode="change" usage="opt">
+              <attDef ident="notBefore-iso" mode="change" usage="opt">
                 <datatype>
                   <dataRef key="teidata.temporal.iso"/>
                 </datatype>
@@ -328,6 +326,13 @@
                   <dataRef key="teidata.temporal.iso"/>
                 </datatype>
               </attDef>
+              <attDef ident="when" mode="change" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.temporal.iso"/>
+                </datatype>
+              </attDef>
+              <attDef ident="notAfter" mode="delete"/>
+              <attDef ident="notBefore" mode="delete"/>
             </attList>
           </elementSpec>
           
