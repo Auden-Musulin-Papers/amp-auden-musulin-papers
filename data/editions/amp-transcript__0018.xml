@@ -267,18 +267,18 @@ for any purpose, even commercially.</p>
                   </lg>
                <cb n="2"/>
                   <lg>
-                     <lb/><space extent="undefined quantity of characters"/><l>Have done! What good does it do,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>dumb god,just to deject us?</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Foul our function may be,but</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>foul weather won't reform it.</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>If you merely wish our world</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>to mend its ways,remember:</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>when happy,men on the whole</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>behave a wee bit better,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>when unhappy,always worse.</l>
+                     <lb/><space quantity="40" unit="char"/><l>Have done! What good does it do,</l>
+                     <lb/><space quantity="40" unit="char"/><l>dumb god,just to deject us?</l>
+                     <lb/><space quantity="40" unit="char"/><l>Foul our function may be,but</l>
+                     <lb/><space quantity="40" unit="char"/><l>foul weather won't reform it.</l>
+                     <lb/><space quantity="40" unit="char"/><l>If you merely wish our world</l>
+                     <lb/><space quantity="40" unit="char"/><l>to mend its ways,remember:</l>
+                     <lb/><space quantity="40" unit="char"/><l>when happy,men on the whole</l>
+                     <lb/><space quantity="40" unit="char"/><l>behave a wee bit better,</l>
+                     <lb/><space quantity="40" unit="char"/><l>when unhappy,always worse.</l>
                   </lg>
                   <ab>
-                     <space extent="undefined quantity of characters plus minimum" min="15" unit="char"/>___
+                     <space quantity="55" unit="char"/>___
                   </ab>
                </div>
             </div>     

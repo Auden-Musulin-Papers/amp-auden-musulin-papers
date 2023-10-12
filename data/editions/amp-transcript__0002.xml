@@ -60,7 +60,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 8</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1964-12-23" notAfter="1964-12-23">1964-12-23</origDate></origin>
+                        <origin>
+                           <origDate notBefore-iso="1964-12-23T00:00:00+01:00" notAfter-iso="1964-12-23T23:59:59+01:00">1964-12-23</origDate>
+                           <origPlace ref="#amp_place_id_19">Hubertusbader Straße 43</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -72,27 +75,24 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_19">Hubertusbader Straße 43</placeName>
-               <date notBefore="1964-12-23" notAfter="1964-12-23">1964-12-23</date>
-            </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <orgName ref="#amp_organization_78">Postamt Berlin 33 (post office Berlin 33)</orgName>
                <placeName ref="#amp_place_id_17">Berlin</placeName>
-               <date notBefore="1964-12-23" notAfter="1964-12-23">1964-12-23</date>
+               <date notBefore-iso="1964-12-23T14:00:01+01:00" notAfter-iso="1964-12-23T15:00:00+01:00">1964-12-23T14:00:01+01:00/1964-12-23T15:00:00+01:00</date>
             </correspAction>
-            <correspAction type="received">
-                <persName ref="#amp_person_2">Musulin, Stella</persName>
-                <placeName ref="#amp_place_id_7">Fridau</placeName>
-               <date>unknown</date>
+            <correspAction type="transmitted">
+               <orgName ref="#amp_organization_71">Postamt Ober-Grafendorf (post office Ober-Grafendorf)</orgName><!-- info from backstamp -->
+               <placeName ref="#amp_place_id_8">Ober-Grafendorf</placeName>
+               <date notBefore-iso="1964-12-28T17:00:01+01:00" notAfter-iso="1964-12-28T18:00:00+01:00">1964-12-28T17:00:01+01:00/1964-12-28T18:00:00+01:00</date>
             </correspAction>
             <correspAction type="redirected">
+               <persName ref="#amp_person_93">Musulin, Elsa von</persName>
+               <placeName ref="#amp_place_id_7">Fridau</placeName>  
+            </correspAction>
+            <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_11">Neulinggasse 26/14</placeName>
-               <date>unknown</date>
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -101,7 +101,6 @@ for any purpose, even commercially.</p>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0038.xml">Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-03-15</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-17">template populated with script "create_templates.py"</change>
@@ -178,7 +177,7 @@ for any purpose, even commercially.</p>
                         </placeName>
                         <date rend="#block">Dec 23rd</date>
                      </dateline>
-                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
                      It <hi rend="underline">was</hi> sweet of you to think of me at<lb/>
@@ -207,7 +206,7 @@ for any purpose, even commercially.</p>
                      <del>Have you ever met one<unclear>?</unclear></del> To what pubs do they go?
                   </p>
                   <closer>
-                     <salute>much love and best wishes for 1<unclear>9</unclear>65</salute><lb/>
+                     <salute>much love and best wishes for 1<unclear>9</unclear>65</salute>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                   </closer>
                </div>
