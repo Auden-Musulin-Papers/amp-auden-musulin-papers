@@ -60,7 +60,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 13</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1966-02-03" notAfter="1966-02-03">1966-02-03</origDate></origin>
+                        <origin>
+                           <origDate notBefore-iso="1966-02-03T00:00:00+01:00" notAfter-iso="1966-02-03T23:59:59+01:00">1966-02-03</origDate>
+                           <origPlace ref="#amp_place_id_29">77 St Mark's Place</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -72,22 +75,15 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_29">77 St Mark's Place</placeName>
-               <date notBefore="1966-02-03" notAfter="1966-02-03">1966-02-03</date>
-            </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <orgName ref="#amp_organization_85">United States General Post Office</orgName>
                <placeName ref="#amp_place_id_28">New York City</placeName>
-               <date notBefore="1966-02-03" notAfter="1966-02-03">1966-02-03</date>
+               <date notBefore-iso="1966-02-03T12:00:00-05:00" notAfter-iso="1966-02-03T23:59:59-05:00">1966-02-03T12:00:00-05:00/1966-02-03T23:59:59-05:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_7">Fridau</placeName>
-               <date>unknown</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -96,7 +92,6 @@ for any purpose, even commercially.</p>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0005.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1967-11-08</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -169,7 +164,7 @@ for any purpose, even commercially.</p>
                   </dateline>
                   <salute>
                      <space quantity="19" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:
-                  </salute><lb/>
+                  </salute>
                </opener>
                <p>
                   <space quantity="7" unit="char"/>Many thanks for your nice long letter. <rs type="person" ref="#amp_person_8">Stephen</rs> has a genius for<lb/>
@@ -222,7 +217,7 @@ for any purpose, even commercially.</p>
                   <space quantity="2" unit="char"/>Expect to get back to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> about April 20th.
                </p>
                <closer>
-                  <space quantity="21" unit="char"/><salute>much love <handShift new="#handwritten"/>and <unclear>g</unclear>reetings to <rs type="person" ref="#amp_person_94">son</rs> and <rs type="person" ref="#amp_person_93">mum-in-law</rs></salute><lb/>
+                  <space quantity="21" unit="char"/><salute>much love <handShift new="#handwritten"/>and <unclear>g</unclear>reetings to <rs type="person" ref="#amp_person_94">son</rs> and <rs type="person" ref="#amp_person_93">mum-in-law</rs></salute>
                   <signed hand="#handwritten">
                      <rs type="person" ref="#amp_person_1">Wystan</rs>.
                   </signed>
