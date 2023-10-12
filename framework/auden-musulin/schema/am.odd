@@ -274,23 +274,23 @@
           
           <!-- element origDate -->
           <elementSpec ident="origDate" module="msdescription" mode="change">
+            <constraintSpec ident="origDate" scheme="schematron">
+              <constraint>
+                <sch:rule context="//tei:origDate">
+                  <sch:assert test="string-length(@notBefore-iso) = 25">invalid date format. expected 25 characters e.g. 2023-10-12T00:00:00+01:00</sch:assert>
+                </sch:rule>
+                <sch:rule context="//tei:origDate">
+                  <sch:assert test="string-length(@notAfter-iso) = 25">invalid date format. expected 25 characters e.g. 2023-10-12T00:00:00+01:00</sch:assert>
+                </sch:rule>
+              </constraint>
+            </constraintSpec>
             <attList>
-              <attDef ident="notBefore" mode="change" usage="opt">
+              <attDef ident="notBefore-iso" mode="change" usage="req">
                 <datatype>
                   <dataRef key="teidata.temporal.iso"/>
                 </datatype>
               </attDef>
-              <attDef ident="notAfter" mode="change" usage="opt">
-                <datatype>
-                  <dataRef key="teidata.temporal.iso"/>
-                </datatype>
-              </attDef>
-              <attDef ident="when" mode="change" usage="opt">
-                <datatype>
-                  <dataRef key="teidata.temporal.iso"/>
-                </datatype>
-              </attDef>
-              <attDef ident="when-iso" mode="change" usage="opt">
+              <attDef ident="notAfter-iso" mode="change" usage="req">
                 <datatype>
                   <dataRef key="teidata.temporal.iso"/>
                 </datatype>
