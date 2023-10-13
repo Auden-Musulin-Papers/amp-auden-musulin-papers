@@ -60,7 +60,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 22</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1968-12-13" notAfter="1968-12-13">1968-12-13</origDate></origin>
+                        <origin>
+                           <origDate notBefore-iso="1968-12-13T00:00:00-05:00" notAfter-iso="1968-12-13T23:59:59-05:00">1968-12-13</origDate>
+                           <origPlace ref="#amp_place_id_29">77 St Mark's Place</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -72,22 +75,24 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_29">77 St Mark's Place</placeName>
-               <date notBefore="1968-12-13" notAfter="1968-12-13">1968-12-13</date>
-            </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <orgName ref="#amp_organization_85">United States General Post Office</orgName>
                <placeName ref="#amp_place_id_28">New York City</placeName>
-               <date notBefore="1968-12-13" notAfter="1968-12-13">1968-12-13</date>
+               <date notBefore-iso="1968-12-13T12:00:00-05:00" notAfter-iso="1968-12-13T23:59:59-05:00">1968-12-13T12:00:00-05:00/1968-12-13T23:59:59-05:00</date>
+            </correspAction>
+            <correspAction type="transmitted">
+               <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
+               <placeName ref="#amp_place_id_1">Vienna</placeName>
+               <date notBefore-iso="1968-12-16T11:00:01+01:00" notAfter-iso="1968-12-16T12:00:00+01:00">1968-12-16T11:00:01+01:00/1968-12-16T12:00:00+01:00</date>
+            </correspAction>
+            <correspAction type="redirected">
+               <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
+               <placeName ref="#amp_place_id_1">Vienna</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
-               <date>unknown</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -96,7 +101,6 @@ for any purpose, even commercially.</p>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0012.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-29</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -177,7 +181,7 @@ for any purpose, even commercially.</p>
                      </dateline>
                      <salute>
                         Dear <rs type="person" ref="#amp_person_2">Stella</rs>:
-                     </salute><lb/>
+                     </salute>
                   </opener>
                   <p>
                      <rs type="person" ref="#amp_person_4">Chester</rs> has just telephoned me from <rs type="place" ref="#amp_place_id_13">Athens</rs> to say<lb/>
@@ -200,7 +204,7 @@ for any purpose, even commercially.</p>
                   <closer>
                      <salute>
                         love
-                     </salute><lb/>
+                     </salute>
                      <signed>
                         <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>,</unclear>
                      </signed>

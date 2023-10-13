@@ -79,7 +79,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_85">United States General Post Office</orgName>
                <placeName ref="#amp_place_id_28">New York City</placeName>
-               <date notBefore-iso="1968-12-30T12:00:00-05:00" notAfter-iso="1968-12-30T23:59:69-05:00">1968-12-30T12:00:00-05:00/1968-12-30T23:59:69-05:00</date>
+               <date notBefore-iso="1968-12-30T12:00:00-05:00" notAfter-iso="1968-12-30T23:59:59-05:00">1968-12-30T12:00:00-05:00/1968-12-30T23:59:59-05:00</date>
             </correspAction>
             <correspAction type="redirected">
                <placeName ref="#amp_place_id_1">Vienna</placeName>
