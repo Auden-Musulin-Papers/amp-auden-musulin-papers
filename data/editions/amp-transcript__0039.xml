@@ -64,7 +64,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 9</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1965-04-28" notAfter="1965-04-28">1965-04-28</origDate></origin>
+                        <origin>
+                           <origDate notBefore-iso="1965-04-28T00:00:00+01:00" notAfter-iso="1965-04-28T23:59:59+01:00">1965-04-28</origDate>
+                           <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -77,20 +80,14 @@ for any purpose, even commercially.</p>
             <language ident="de">German</language>
          </langUsage>
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore="1965-04-28" notAfter="1965-04-28">1965-04-28</date>
-            </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore="1965-04-28" notAfter="1965-04-28">1965-04-28</date>
+               <date notBefore-iso="1965-04-28T17:00:01+01:00" notAfter-iso="1965-04-28T18:00:00+01:00">1965-04-28T17:00:01+01:00/1965-04-28T18:00:00+01:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_7">Fridau</placeName>
-               <date>unknown</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -99,7 +96,6 @@ for any purpose, even commercially.</p>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0003.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1965-09-29</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -210,7 +206,7 @@ for any purpose, even commercially.</p>
                   <lg>
                      <lb/><space extent="undefined quantity of characters"/><l>What,had you ever heard of <space quantity="1" unit="char"/>etc</l>
                   </lg>   
-                  <ab hand="#handwritten"><!-- find solution, consider add element -->
+                  <ab hand="#handwritten">
                      Re<unclear>v .</unclear>
                   </ab>
                   <ab hand="#handwritten">
@@ -222,7 +218,7 @@ for any purpose, even commercially.</p>
                      <dateline>
                         <date rend="#inline">Wednesday . </date><placeName rend="#inline"><rs type="place" ref="#amp_place_id_5">Kirch<unclear>s</unclear>t<unclear>e</unclear>tten</rs></placeName>
                      </dateline>
-                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
                      Many thanks for your letter. Will try and call you<lb/>
@@ -237,7 +233,7 @@ for any purpose, even commercially.</p>
                      Could you che<unclear>c</unclear>k the translat<unclear>io</unclear>n for errors.
                   </p>
                   <closer>
-                     <salute>love</salute><lb/>
+                     <salute>love</salute>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs>.</signed>
                   </closer>
                </div>

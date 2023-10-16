@@ -92,7 +92,6 @@
                     <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
                     <ref type="belongsToCorrespondence" target="#amp_person_99">O'Sullivan, Michael</ref>
                     <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0036.xml">Autograph Note Michael O'Sullivan to Stella Musulin 1984-08-15</ref>
-                    <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0030.xml">Typed Letter Stella Musulin to Bruce Duncan 1985-11-29</ref>
                 </correspContext>
             </correspDesc>
             

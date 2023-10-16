@@ -81,18 +81,17 @@ for any purpose, even commercially.</p>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore-iso="1970-07-06T16:00:01+01:00" notAfter-iso="1970-07-06T17:00:00+01:00">1970-07-06T16:00:01+01:00/1970-07-06T17:00:00+01:00</date>
             </correspAction>
+            <correspAction type="redirected">
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
+            </correspAction> 
             <correspAction type="transmitted">
                <orgName ref="#amp_organization_73">Hauptpostamt 1030 (main post office 1030)</orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
                <date notBefore-iso="1970-07-11T08:00:01+01:00" notAfter-iso="1970-07-11T09:00:00+01:00">1970-07-11T08:00:01+01:00/1970-07-11T09:00:00+01:00</date>
-            </correspAction>
-            <correspAction type="redirected">
-               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
-            </correspAction>  
+            </correspAction> 
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_215">St Julian's Street</placeName>
-               <date notBefore-iso="1970-07-11" notAfter-iso="1970-07-11">1970-07-11</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>

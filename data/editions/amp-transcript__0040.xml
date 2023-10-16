@@ -64,7 +64,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 26</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1969-06-10" notAfter="1969-06-10">1969-06-10</origDate></origin>
+                        <origin>
+                           <origDate notBefore-iso="1969-06-10T00:00:00+01:00" notAfter-iso="1969-06-10T23:59:59+01:00">1969-06-10</origDate>
+                           <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -76,22 +79,20 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
-               <date>unknown</date>
-            </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore="1969-06-10" notAfter="1969-06-10">1969-06-10</date>
+               <date notBefore-iso="1969-06-10T16:00:01+01:00" notAfter-iso="1969-06-10T17:00:00+01:00">1969-06-10T16:00:01+01:00/1969-06-10T17:00:00+01:00</date>
+            </correspAction>
+            <correspAction type="transmitted">
+               <orgName ref="#amp_organization_73">Hauptpostamt 1030 (main post office 1030)</orgName>
+               <placeName ref="#amp_place_id_1">Vienna</placeName>
+               <date notBefore-iso="1969-06-11T05:00:01+01:00" notAfter-iso="1969-06-11T06:00:00+01:00">1969-06-11T05:00:01+01:00/1969-06-11T06:00:00+01:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
-               <date>unknown</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -169,7 +170,7 @@ for any purpose, even commercially.</p>
                   <opener>
                      <salute>
                         Dear <rs type="person" ref="#amp_person_2">Stella</rs>:
-                     </salute><lb/>
+                     </salute>
                   </opener>
                   <p>
                      Saturday w<unclear>i</unclear>ll be fine. Shall<lb/>
@@ -178,7 +179,7 @@ for any purpose, even commercially.</p>
                   <closer>
                      <salute>
                         love
-                     </salute><lb/>
+                     </salute>
                      <signed>
                         <rs type="person" ref="#amp_person_1">Wystan</rs>
                      </signed>
@@ -190,7 +191,7 @@ for any purpose, even commercially.</p>
                      <space extent="undefined quantity of characters plus minimum" min="37" unit="char"/>(2
                   </ab>
                </div>
-               <div type="poem" hand="#typed">
+               <div type="poem" hand="#typed"><!-- consider different container structure including both pages of poem within one div -->
                   <lg>
                      <lb/><space extent="undefined quantity of characters"/><l>issue proper ins<unclear>t</unclear>ru<unclear>c</unclear>tions?<gap quantity="1" unit="char" reason="illegible"/><unclear>N</unclear>ot,certainly,</l>
                      <lb/><space extent="undefined quantity of characters"/><l>our global archons <gap quantity="1" unit="char" reason="illegible"/><unclear>h</unclear>ose toplofty<gap quantity="1" unit="char" reason="illegible"/>slogans</l>

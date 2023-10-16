@@ -60,7 +60,10 @@ for any purpose, even commercially.</p>
                         <idno>2, 11</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1985-12-15" notAfter="1985-12-15">1985-12-15</origDate></origin>
+                        <origin>
+                           <origDate notBefore-iso="1985-12-15T00:00:00+01:00" notAfter-iso="1985-12-15T23:59:59+01:00">1985-12-15</origDate>
+                           <origPlace ref="#amp_place_id_7">Fridau</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -71,30 +74,6 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
          </langUsage>
-         
-         <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName type="place" ref="#amp_place_id_7">Fridau</placeName>
-               <date notBefore="1985-12-15" notAfter="1985-12-15">1985-12-15</date>
-            </correspAction>
-            <correspAction type="sent">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>unknown</placeName>
-               <date>unknown</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#amp_person_98">Mendelson, Edward</persName>
-               <placeName>unknown</placeName>
-               <date>unknown</date>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
-               <ref type="belongsToCorrespondence" target="#amp_person_98">Mendelson, Edward</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0030.xml">Typed Letter Stella Musulin to Bruce Duncan 1985-11-29</ref>
-            </correspContext>
-         </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -265,7 +244,7 @@ for any purpose, even commercially.</p>
                      him at 212-702-9101. <space quantity="1" unit="char"/>His <del>m</del>name is <rs type="person" ref="#amp_person_94">Marko</rs>.
                   </p>
                   <closer>
-                     <space quantity="14" unit="char"/><salute>Good health and suc<unclear>c</unclear>ess i<del>j</del>n 1986,</salute><lb/>
+                     <space quantity="14" unit="char"/><salute>Good health and suc<unclear>c</unclear>ess i<del>j</del>n 1986,</salute>
                   </closer>
                </div>     
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0226/" type="sheet"/>

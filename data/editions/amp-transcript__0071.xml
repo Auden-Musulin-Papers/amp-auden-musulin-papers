@@ -61,7 +61,10 @@ for any purpose, even commercially.</p>
                         <idno>3, 2</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1962-04-16" notAfter="1973-04-16">1962-04-16--1973-04-16</origDate></origin>
+                        <origin>
+                           <origDate notBefore-iso="1962-04-16T00:00:00+01:00" notAfter-iso="1973-04-16T23:59:59+01:00">1962-04-16--1973-04-16</origDate>
+                           <origPlace ref="#amp_place_id_10">Austria</origPlace><!-- mark up multiple possible addresses -->
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -73,22 +76,10 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>unknown</placeName>
-               <date notBefore="1962-04-16" notAfter="1973-04-16">1962-04-16--1973-04-16</date>
-            </correspAction>
-            <correspAction type="sent">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>unknown</placeName>
-               <date>unknown</date>
-            </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName>unknown</placeName>
-               <date>unknown</date>
+               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -146,7 +137,7 @@ for any purpose, even commercially.</p>
                      </dateline>
                      <salute>
                         Dear <rs type="person" ref="#amp_person_1">Wystan</rs>,
-                     </salute><lb/>
+                     </salute>
                   </opener>
                   <p>  
                      <space quantity="5" unit="char"/>Are you there? <space unit="char" quantity="1"/>May I come across for<lb/> 
@@ -161,7 +152,7 @@ for any purpose, even commercially.</p>
                   <closer hand="#handwritten">
                      <salute>
                          Love
-                     </salute><lb/>
+                     </salute>
                      <signed>
                         <rs type="person" ref="#amp_person_2">Stella</rs>
                      </signed>  

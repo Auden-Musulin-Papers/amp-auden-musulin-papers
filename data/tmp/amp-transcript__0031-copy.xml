@@ -74,7 +74,7 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
          </langUsage>    
          <correspDesc>
-            <correspAction type="received">
+            <correspAction type="received"><!-- mark up certainty -->
                <persName ref="#amp_person_98">Mendelson, Edward</persName>
             </correspAction>
             <correspContext>

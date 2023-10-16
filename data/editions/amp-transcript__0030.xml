@@ -59,7 +59,10 @@
                         <idno>2, 10</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1985-11-29" notAfter="1985-11-29">1985-11-29</origDate></origin>
+                        <origin><!-- mark up certainty values -->
+                           <origDate notBefore-iso="1985-11-29T00:00:00+01:00" notAfter-iso="1985-11-29T23:59:59+01:00">1985-11-29</origDate>
+                           <origPlace ref="#amp_place_id_10">Austria</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -70,31 +73,6 @@
          <langUsage>
             <language ident="en">English</language>
          </langUsage>
-         
-         <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>unknown</placeName>
-               <date notBefore="1985-11-29" notAfter="1985-11-29">1985-11-29</date>
-            </correspAction>
-            <correspAction type="sent">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>unknown</placeName>
-               <date>unknown</date>
-            </correspAction>
-            <correspAction type="received">
-               <persName ref="#amp_person_99">Duncan, Bruce</persName>
-               <placeName ref="#amp_place_id_170">The Vicarage, Crediton</placeName>
-               <date>unknown</date>
-            </correspAction>
-            <correspContext>
-               <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
-               <ref type="belongsToCorrespondence" target="#amp_person_99">Duncan, Bruce</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0036.xml">Autograph Note Michael O'Sullivan to Stella Musulin 1984-08-15</ref>
-               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0031.xml">Typed Letter Stella Musulin to Edward Mendelson 1985-12-15</ref>
-            </correspContext>
-         </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -132,7 +110,7 @@
                            </address>
                         </placeName>
                      </dateline>
-                     <salute>Dear <rs type="person" ref="#amp_person_156">Mr. Duncan</rs>,</salute><lb/>
+                     <salute>Dear <rs type="person" ref="#amp_person_156">Mr. Duncan</rs>,</salute>
                   </opener>
                   <p>
                      <space quantity="5" unit="char"/>I am a more or less retired journalist and author,<lb/>
@@ -172,7 +150,7 @@
                      awe-inspiring talent and high scholarship, wretchedness and squalor.
                   </p>
                   <closer>
-                     <space quantity="28" unit="char"/><salute>Yours sincerely,</salute><lb/>
+                     <space quantity="28" unit="char"/><salute>Yours sincerely,</salute>
                      <space quantity="28" unit="char"/><signed><rs type="person" ref="#amp_person_2">Stella Musulin</rs>.</signed>
                   </closer>
                </div>
