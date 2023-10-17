@@ -9,6 +9,7 @@
             <author>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </author>
             <funder>
                <name>FWF Austrian Science Fund</name>
@@ -50,6 +51,7 @@
       <revisionDesc status="draft">
          <change who="smayer tfruehwirth" when="2022-02-24">text created</change>
          <change who="smayer tfruehwirth" when="2023-07-26">update image digitization section</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-10-17">update regarding correspondence schema</change>
       </revisionDesc>
    </teiHeader>
    <text>
@@ -128,20 +130,22 @@
                               <item n="3.2">Punctuation signs that cannot be transcribed with certainty are rendered by UTF-8/Unicode symbols that represent a graphical approximation, marked up as <![CDATA[<]]>unclear<![CDATA[>]]> in XML.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1965-09-29, page 3, line 16) -->
                               <item n="3.3">For manuscripts, when spaces before or after punctuation marks are significantly smaller than the spaces separating words in the surrounding text, no spaces are transcribed.</item><!-- (example: Letter W. H. Auden to Stella Musulin 1962-09-11, page 3, line 12)-->
                               <item n="3.4">For manuscripts, the length of spaces between words is regularized and represented as either single space or no space.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12, page 3, line 6) -->
-                              <item n="3.5">For typescripts, the exact number of spaces within sentences is preserved and marked up as <![CDATA[<]]>space<![CDATA[>]]> in XML.</item><!-- (example: Typescript Stella Musulin "In Retrospect" [?], page 1, line 2) -->
-                              <item n="3.6">Changes in the left-hand margins of typescripts are not marked up as indentations (by means of <![CDATA[<]]>space<![CDATA[>]]>) if they appear to result from reinsertations of the sheets of paper or resets of margins on the typewriter that do not appear meaningful.</item><!-- doc 18, p 17; docs 27, 43, p 3 -->
-                              <item n="3.7">Spaces that precede printed text are disregarded.</item><!-- (example: transcript_0001, page 2, line 3) -->
-                              <item n="3.8">Blank lines between lines of writing are disregarded.</item>
+                              <item n="3.5">For typescripts, the exact number of spaces before and within sentences is preserved and marked up as <![CDATA[<]]>space<![CDATA[>]]> in XML.</item><!-- (example: Typescript Stella Musulin "In Retrospect" [?], page 1, line 2) -->
+                              <item n="3.6">Indentations of typed lines (of poetry) without reference value in relation to the left-hand margin are marked up as <![CDATA[<]]>space extent="undefined quantity of characters"<![CDATA[>]]>.</item><!-- example: doc 0038 -->
+                              <item n="3.7">Changes in the left-hand margins of typescripts are not marked up as indentations (by means of <![CDATA[<]]>space<![CDATA[>]]>) if they appear to result from reinsertations of the sheets of paper or resets of margins on the typewriter that do not appear meaningful.</item><!-- doc 18, p 17; docs 27, 43, p 3 -->
+                              <item n="3.8">Spaces that precede printed text are disregarded.</item><!-- (example: transcript_0001, page 2, line 3) -->
+                              <item n="3.9">Blank lines between lines of writing are disregarded.</item>
                            </list>
                         </item>
                      </list>
                      <list rend="numbered">
                         <item n="4">Page Layout
                            <list rend="numbered">
-                              <item n="4.1">Original line breaks and sections of text are retained.</item>
-                              <item n="4.2">The transcription of each document is contained within a TEI <![CDATA[<]]>div<![CDATA[>]]> element. Each transcription is subdivided by means of <![CDATA[<]]>pb<![CDATA[>]]>, <![CDATA[<]]>p<![CDATA[>]]> and <![CDATA[<]]>lg<![CDATA[>]]> elements, as well as <![CDATA[<]]>cb<![CDATA[>]]> if applicable.</item>
-                              <item n="4.3">The vertical succession of text elements is represented; their horizontal arrangement is disregarded.</item>
-                              <item n="4.4">Line numbers are added to the website display, with separate numbering systems for prose and verse, respectively.</item>
+                              <item n="4.1">Original line breaks and sections of text are retained.</item><!-- update: line breaks are retained within segments, but not in between segments (eg p, closer, salute, signed) -->
+                              <item n="4.2">For non-correspondence documents as well as for telegrams and aerograms, a non-specific container structure is currently used: the transcription of each document is contained within a TEI <![CDATA[<]]>div<![CDATA[>]]> element; each transcription is subdivided by means of <![CDATA[<]]>pb<![CDATA[>]]>, <![CDATA[<]]>p<![CDATA[>]]>, and <![CDATA[<]]>lg<![CDATA[>]]> elements.</item>
+                              <item n="4.3">For correspondence documents, excluding telegrams and aerograms, a specific and semantically more detailed TEI-conformant container structure is used. <![CDATA[<]]>div type="transcription"<![CDATA[>]]> can contain <![CDATA[<]]>div type="envelope"<![CDATA[>]]> and <![CDATA[<]]>div type="letter"<![CDATA[>]]>. <![CDATA[<]]>div type="letter"<![CDATA[>]]> can include <![CDATA[<]]>div type="letter_message"<![CDATA[>]]> and <![CDATA[<]]>div type="poem"<![CDATA[>]]>. <![CDATA[<]]>div type="letter_message"<![CDATA[>]]> can contain <![CDATA[<]]>opener<![CDATA[>]]> and <![CDATA[<]]>closer<![CDATA[>]]> containers. <![CDATA[<]]>opener<![CDATA[>]]> groups together dateline and salutation information from the start of the correspondence item. <![CDATA[<]]>closer<![CDATA[>]]> groups together salutation and signature information from the end of the correspondence item.</item>
+                              <item n="4.4">The vertical succession of text elements is represented; their horizontal arrangement is disregarded.</item>
+                              <item n="4.5">Line numbers are added to the website display, with separate numbering systems for prose and verse, respectively.</item>
                            </list>
                         </item>   
                      </list>
@@ -177,7 +181,7 @@
                            <list rend="numbered">
                               <item n="8.1">Pre-printed letter heads and sender addresses are transcribed.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-06, page 2, lines 1-3) -->
                               <item n="8.2">Image captions in postcards are transcribed.</item><!--  (example: Autograph Note Signed Michael O'Sullivan to Stella Musulin [?], page 1, lines 1-2, 12-15) -->
-                              <item n="8.3">Postmarks and stamps are not transcribed in the <![CDATA[<]]>text<![CDATA[>]]> part. Place and date information have been extracted and included in the <![CDATA[<]]>correspDesc<![CDATA[>]]> section of the <![CDATA[<]]>teiHeader<![CDATA[>]]>.</item>
+                              <item n="8.3">Postmarks and stamps are not transcribed in the <![CDATA[<]]>text<![CDATA[>]]> part. Organization (e.g., post office), place, date, and time information has been extracted and included in the <![CDATA[<]]>correspDesc<![CDATA[>]]> section of the <![CDATA[<]]>teiHeader<![CDATA[>]]>. In accordance with the TEI P5 Guidelines, the individual stages in the correspondence process are marked up as <![CDATA[<]]>correspAction<![CDATA[>]]>. The following values of the @type attribute are used: "sent" for information that refers to the first processing of the correspondence item by the outgoing post office as retrieved from the postmark; "transmitted" for information on the further processing of the correspondence item by the incoming post office(s) as retrieved from the backstamp(s); "redirected" for information on the place (as well as, if applicable, on the person or organization) related to redirecting the unopened correspondence item to another destination; "received" for information on the person (and, if applicable, place) related to the last indicated destination. Information on the place and date of writing is encoded within the <![CDATA[<]]>fileDesc<![CDATA[>]]> node of the <![CDATA[<]]>teiHeader<![CDATA[>]]>.</item>
                               <item n="8.4">Pre-printed postal texts and images in telegrams and aerograms are not rendered in the transcriptions.</item><!--  (example: Telegram W. H. Auden to Stella Musulin 1971-05-13) -->
                               <item n="8.5">Watermarks have not yet been transcribed.</item>
                            </list>
