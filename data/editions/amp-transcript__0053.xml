@@ -60,7 +60,10 @@
                                 <idno>2, 9</idno>
                             </msIdentifier>
                             <history>
-                                <origin><origDate notBefore="1969-05-29" notAfter="1969-05-29">1969-05-29</origDate></origin>
+                                <origin><!-- mark up certainty values -->
+                                    <origDate notBefore-iso="1969-05-29T00:00:00+01:00" notAfter-iso="1969-05-29T23:59:59+01:00">1969-05-29</origDate>
+                                    <origPlace ref="#amp_place_id_10">Austria</origPlace>
+                                </origin>
                             </history>
                         </msDesc>
                     </witness>
@@ -71,30 +74,6 @@
             <langUsage>
                 <language ident="de">German</language>
             </langUsage>
-            
-            <correspDesc>
-                <correspAction type="composed">
-                    <persName ref="#amp_person_2">Musulin, Stella</persName>
-                    <placeName>unknown</placeName>
-                    <date notBefore="1969-05-29" notAfter="1969-05-29">1969-05-29</date>
-                </correspAction>
-                <correspAction type="sent">
-                    <persName ref="#amp_person_2">Musulin, Stella</persName>
-                    <placeName>uknown</placeName>
-                    <date>unknown</date>
-                </correspAction>
-                <correspAction type="received">
-                    <persName ref="#amp_person_151">Silbermann, Edith</persName>
-                    <placeName>unknown</placeName>
-                    <date>unknown</date>
-                </correspAction>
-                <correspContext>
-                    <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
-                    <ref type="belongsToCorrespondence" target="#amp_person_151">Silbermann Edith</ref>
-                    <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0060.xml">Typed Letter Wolfgang Kraus to Stella Musulin 1977-03-22</ref>
-                </correspContext>
-            </correspDesc>
-            
         </profileDesc>
         <revisionDesc status="draft">
             <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -124,7 +103,7 @@
                          <dateline>
                             <space quantity="35" unit="char"/><date rend="#block"><space quantity="35" unit="char"/>29.Mai.</date>
                          </dateline>
-                         <salute><del><rs type="person" ref="#amp_person_151">Liebling</rs>,</del></salute><lb/>
+                         <salute><del><rs type="person" ref="#amp_person_151">Liebling</rs>,</del></salute>
                       </opener>
                       <p>
                          <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_2">Ich</rs> habe schon sehr lange nicht geschrieben, Du wirst<lb/>

@@ -79,7 +79,7 @@ for any purpose, even commercially.</p>
             <correspAction type="sent">
                <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore-iso="1960-07-21T06:00:01+01:00" notAfter-iso="1960-07-21T07:00:00+01:00">1960-07-21T06:00:01+01:00/1960-07-21T07:00:00+01:00</date>
+               <date notBefore-iso="1960-07-21T06:00:01+01:00" notAfter-iso="1960-07-21T07:00:00+01:00">1960-07-21T06:00:01+01:00/1960-07-21T07:00:00+01:00</date><!-- mark up certainty value -->
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>

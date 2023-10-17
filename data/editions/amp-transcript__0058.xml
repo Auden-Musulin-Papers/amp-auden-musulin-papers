@@ -60,7 +60,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 37</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1960-07-22" notAfter="1965-09-28">1960-07-22--1965-09-28</origDate></origin>
+                        <origin>
+                           <origDate notBefore-iso="1960-07-22T00:00:00+01:00" notAfter-iso="1965-09-28T23:59:59+01:00">1960-07-22--1965-09-28</origDate>
+                           <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -72,22 +75,9 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
-               <date notBefore="1960-07-22" notAfter="1965-09-28">1960-07-22--1965-09-28</date>
-            </correspAction>
-            <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName>unknown</placeName>
-               <date>unknown</date>
-            </correspAction>
             <correspAction type="received">
-                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>unknown</placeName>
-                <date>unknown</date>
+               <persName ref="#amp_person_2">Musulin, Stella</persName>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -96,7 +86,6 @@ for any purpose, even commercially.</p>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0022.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1961-08-16</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -146,7 +135,7 @@ for any purpose, even commercially.</p>
                            <unclear>S</unclear>onntag.
                         </date>
                      </dateline>
-                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute><lb/>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
                      Good. Will be at <rs type="place" ref="#amp_place_id_">your place</rs><lb/>

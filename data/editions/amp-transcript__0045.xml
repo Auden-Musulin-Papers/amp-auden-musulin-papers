@@ -60,7 +60,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 1</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1960-07-21" notAfter="1960-07-21">1960-07-21</origDate></origin>
+                        <origin>
+                           <origDate notBefore-iso="1960-07-21T00:00:00+01:00" notAfter-iso="1960-07-21T23:59:59+01:00">1960-07-21</origDate>
+                           <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -72,22 +75,15 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
-               <date notBefore="1960-07-21" notAfter="1960-07-21">1960-07-21</date>
-            </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore="1960-07-21" notAfter="1960-07-21">1960-07-21</date>
+               <date notBefore-iso="1960-07-21T06:00:01+01:00" notAfter-iso="1960-07-21T07:00:00+01:00">1960-07-21T06:00:01+01:00/1960-07-21T07:00:00+01:00</date><!-- mark up certainty value -->
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_7">Fridau</placeName>
-               <date>unknown</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -96,7 +92,6 @@ for any purpose, even commercially.</p>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0058.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1960-07-22--1965-09-28</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -163,7 +158,7 @@ for any purpose, even commercially.</p>
                            </seg>
                         </placeName>
                      </dateline>
-                     <salute>Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:</salute><lb/>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:</salute>
                   </opener>
                   <p>
                      Delighted to get your ca<unclear>rd</unclear>. <rs type="person" ref="#amp_person_1 #amp_person_4">We</rs><lb/>
@@ -175,7 +170,7 @@ for any purpose, even commercially.</p>
                      tape-rec<unclear>o</unclear>rder.
                   </p>
                   <closer>
-                     <salute>yours sinc<unclear>e</unclear>rely</salute><lb/>
+                     <salute>yours sinc<unclear>e</unclear>rely</salute>
                      <signed><rs type="person" ref="#amp_person_1">Wystan Auden</rs></signed>
                   </closer>
             </div>
