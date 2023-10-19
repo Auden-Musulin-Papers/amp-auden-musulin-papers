@@ -60,7 +60,10 @@
                                 <idno>A2</idno>
                             </msIdentifier>
                             <history>
-                                <origin><origDate notBefore="1977-04-05" notAfter="1977-04-05">1977-04-05</origDate></origin>
+                                <origin>
+                                    <origDate notBefore-iso="1977-04-05T00:00:00+01:00" notAfter-iso="1977-04-05T23:59:59+01:00">1977-04-05</origDate>
+                                    <origPlace ref="#amp_place_id_11">Neulinggasse 26</origPlace>
+                                </origin>
                             </history>
                         </msDesc>
                     </witness>
@@ -71,31 +74,17 @@
             <langUsage>
                 <language ident="de">German</language>
             </langUsage>
-            
             <correspDesc>
-                <correspAction type="composed">
-                    <persName ref="#amp_person_2">Musulin, Stella</persName>
-                    <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
-                    <date notBefore="1977-04-05" notAfter="1977-04-05">1977-04-05</date>
-                </correspAction>    
-                <correspAction type="sent">
-                    <persName ref="#amp_person_2">Musulin, Stella</persName>
-                    <placeName>unknown</placeName>
-                    <date>unknown</date>
-                </correspAction>
                 <correspAction type="received">
                     <persName ref="#amp_person_137">Kraus, Wolfgang</persName>
-                    <placeName ref="#amp_place_id_85">Herrengasse 5</placeName>
-                    <date>unknown</date>
+                    <placeName ref="#amp_place_id_211">Herrengasse 5</placeName>
                 </correspAction>
                 <correspContext>
                     <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
                     <ref type="belongsToCorrespondence" target="#amp_person_137">Kraus, Wolfgang</ref>
-                    <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0060.xml">Typed Letter Signed Stella Musulin to Wolfgang Kraus 1977-04-05</ref>
                     <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0032.xml">Aerogram Signed Edward Mendelson to Stella Musulin 1980-12-01</ref>
                 </correspContext>
             </correspDesc>
-            
         </profileDesc>
         <revisionDesc status="draft">
             <change who="pandorfer" when="2022-01-25">template populated with script "create_templates.py"</change>
@@ -104,6 +93,7 @@
             <change who="smayer tfruehwirth" when="2022-02-28">transcriptions collated</change>
             <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
             <change who="dgrigoriou smayer tfruehwirth" when="2023-03-02">entities and correspDesc collated</change>
+            <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -116,48 +106,62 @@
     </facsimile>
     <text type="letter" hand="#typed">
         <body>
-            <div xml:id="transcription">
+            <div type="transcription" xml:id="transcription_amp_0061">
+               <div type="letter">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0251/" type="sheet"/>
-                <p hand="#printed">
-                    <rs type="place" ref="#amp_place_id_11">NEULINGGASSE 26/14<lb/>
-                    1030 WIEN</rs><lb/>
-                    TEL. 73 94 015
-                </p>
-                <p>
-                    <space quantity="44" unit="char"/>5. April 1977
-                </p>
-                <p>
-                    <unclear>A2</unclear>
-                </p>
-                <p>
-                    <rs type="person" ref="#amp_person_137">Herrn Dr. Wolfgang Kraus</rs>,<lb/>
-                    <rs type="org" ref="#amp_organization_9">Österreichische Gesellschaft<lb/>
-                    <space quantity="6" unit="char"/>für Literatur</rs><lb/>
-                    <rs type="place" ref="#amp_place_id_177">1010 Wien,<lb/>
-                    Palais Wilczek, He<del>e</del>rrengasse 5</rs>.
-                </p>
-                <p>
-                    Sehr geehrter, lieber <rs type="person" ref="#amp_person_137">Herr Doktor</rs> !
-                </p>
-                <p>
-                    <space quantity="5" unit="char"/>Es wird für mich eine Ehre sein, am 5. Mai<lb/>
-                    <rs type="event" ref="#amp_event_id_23">über <rs type="person" ref="#amp_person_1">Auden</rs> sprechen</rs> zu dürfen.
-                </p>
-                <p>
-                    <space quantity="5" unit="char"/>Wie wäre es mit <rs type="event" ref="#amp_event_id_23"><rs type="lit_work" ref="#lit_work_id_126">"<rs type="person" ref="#amp_person_1">Auden</rs> und die Österreicher"</rs></rs>?<lb/>
-                    Aber wenn nicht, ist mir Alles recht!
-                </p>
-                <p>
-                    <space quantity="15" unit="char"/>Mit herzlichen Grüßen,
-                </p>
-                <p hand="#handwritten">
-                    <rs type="person" ref="#amp_person_2">Stella Musulin</rs> <unclear>´</unclear>
-                </p>
-                <p>
-                    <space quantity="15" unit="char"/><rs type="person" ref="#amp_person_2">Stella Musulin</rs>.
-                </p>
+                <div type="letter_message">
+                     <opener>
+                         <dateline>
+                             <placeName>
+                                 <seg hand="#printed">
+                                     <address>   
+                                        <rs type="place" ref="#amp_place_id_11">NEULINGGASSE 26/14<lb/>
+                                        1030 WIEN</rs><lb/>
+                                        <addrLine>TEL. 73 94 015</addrLine>
+                                     </address>
+                                 </seg>
+                             </placeName>
+                             <space quantity="44" unit="char"/><date rend="#block">5. April 1977</date>
+                         </dateline>
+                     </opener>
+                </div>
+                <div>
+                   <ab hand="#handwritten">
+                       <unclear>A2</unclear>
+                   </ab>
+                </div>
+                <div>
+                    <ab>
+                        <rs type="person" ref="#amp_person_137">Herrn Dr. Wolfgang Kraus</rs>,<lb/>
+                        <address>
+                            <rs type="org" ref="#amp_organization_9">Österreichische Gesellschaft<lb/>
+                            <space quantity="6" unit="char"/>für Literatur</rs><lb/>
+                            <rs type="place" ref="#amp_place_id_177">1010 Wien,<lb/>
+                            Palais Wilczek, He<del>e</del>rrengasse 5.</rs>
+                        </address>
+                    </ab>
+                </div>
+                <div type="letter_message">
+                    <opener>
+                        <salute>Sehr geehrter, lieber <rs type="person" ref="#amp_person_137">Herr Doktor</rs> !</salute>
+                    </opener>
+                    <p>
+                        <space quantity="5" unit="char"/>Es wird für mich eine Ehre sein, am 5. Mai<lb/>
+                        <rs type="event" ref="#amp_event_id_23">über <rs type="person" ref="#amp_person_1">Auden</rs> sprechen</rs> zu dürfen.
+                    </p>
+                    <p>
+                        <space quantity="5" unit="char"/>Wie wäre es mit <rs type="event" ref="#amp_event_id_23"><rs type="lit_work" ref="#lit_work_id_126">"<rs type="person" ref="#amp_person_1">Auden</rs> und die Österreicher"</rs></rs>?<lb/>
+                        Aber wenn nicht, ist mir Alles recht!
+                    </p>
+                    <closer>
+                        <space quantity="15" unit="char"/><salute>Mit herzlichen Grüßen,</salute>
+                        <signed hand="#handwritten"><rs type="person" ref="#amp_person_2">Stella Musulin</rs> <unclear>´</unclear></signed>
+                        <space quantity="15" unit="char"/><signed><rs type="person" ref="#amp_person_2">Stella Musulin</rs>.</signed>
+                    </closer>
+                </div>      
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0252/" type="sheet"/>
             </div>
+        </div>
         </body>
     </text>
 </TEI>

@@ -60,7 +60,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 19</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1968-10-12" notAfter="1968-10-12">1968-10-12</origDate></origin>
+                        <origin>
+                           <origDate notBefore-iso="1968-10-12T00:00:00+01:00" notAfter-iso="1968-10-12T23:59:59+01:00">1968-10-12</origDate>
+                           <origPlace ref="#amp_place_id_46">Oxford</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -72,24 +75,24 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_46">Oxford</placeName>
-               <placeName ref="#amp_place_id_45">32 Bryanston Square</placeName>
-               <date notBefore="1968-10-12" notAfter="1968-10-12">1968-10-12</date>
-            </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <persName ref="#amp_person_19">Heyworth, Peter</persName>
+               <orgName ref="#amp_organization_81">Post office Oxford</orgName>
                <placeName ref="#amp_place_id_46">Oxford</placeName>
-               <date notBefore="1968-10-12" notAfter="1968-10-12">1968-10-12</date>
+               <date notBefore-iso="1968-10-12T13:00:01+01:00" notAfter-iso="1968-10-12T13:29:59+01:00">1968-10-12T13:00:01+00:00/1968-10-12T13:29:59+00:00</date>
+            </correspAction>
+            <correspAction type="transmitted">
+               <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
+               <placeName ref="#amp_place_id_1">Vienna</placeName>
+               <date notBefore-iso="1968-10-16T11:00:01+01:00" notAfter-iso="1968-10-16T12:00:00+01:00">1968-10-16T11:00:01+01:00/1968-10-16T12:00:00+01:00</date>
+            </correspAction>
+            <correspAction type="redirected">
+               <orgName ref="#amp_organization_74">Hauptpostamt 1040 (main post office 1040)</orgName>
+               <placeName ref="#amp_place_id_1">Vienna</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
-                <date>unknown</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -98,7 +101,6 @@ for any purpose, even commercially.</p>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0009.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-15</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -107,6 +109,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-10-01">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
+         <change who="smayer tfruehwirth" when="2023-08-03">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -125,56 +128,80 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0008">
+            <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0039/" type="envelope"/>
-               <p>
+               <ab>
                   <hi rend="underline">Air-Mail</hi>
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="event" ref="#amp_event_id_11"><unclear>L</unclear>eft US driving<lb/>
                   licence <rs type="place" ref="#amp_place_id_2">behind</rs></rs> <unclear>·</unclear>
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baroninin<lb/>
                   Stella Musulin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_11"><del>Vi</del> Wien I<del>V</del>II<lb/>
-                  Neulinggasse 26<lb/>
-                  Au<hi rend="underline">str</hi>ia</rs>
-               </p>
+                  <address>
+                     <rs type="place" ref="#amp_place_id_11"><del>Vi</del> Wien I<del>V</del>II<lb/>
+                     Neulinggasse 26<lb/>
+                     Au<hi rend="underline">str</hi>ia</rs>
+                  </address>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0040/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="person" ref="#amp_person_1">WH<unclear>_</unclear>Auden</rs><lb/>
                   ℅ <rs type="person" ref="#amp_person_19">Heyworth</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_45">32 Bryanston Sq<unclear>u</unclear>are<lb/>
-                  London. <del><unclear>N.,</unclear></del> W.I<lb/>
-                  England</rs>
-               </p>
+                  <address>
+                     <rs type="place" ref="#amp_place_id_45">32 Bryanston Sq<unclear>u</unclear>are<lb/>
+                     London. <del><unclear>N.,</unclear></del> W.I<lb/>
+                     England</rs>
+                  </address>
+               </ab>
+            </div>
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0041/" type="sheet"/>
-               <p hand="#printed">
-                  <rs type="org" ref="#amp_organization_6">CHRIST CHURCH,<lb/>
-                  OXFORD</rs>.
-               </p>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <placeName>
+                           <seg hand="#printed">
+                              <rs type="org" ref="#amp_organization_6">CHRIST CHURCH,<lb/>
+                              OXFORD</rs>.
+                           </seg>
+                        </placeName>
+                        <date rend="#block">Oct 12 th</date>
+                     </dateline>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>.</unclear></salute>
+                  </opener>
                <p>
-                  Oct 12 th
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>.</unclear><lb/>
                   Like an idiot<unclear>,</unclear> <rs type="event" ref="#amp_event_id_11">I<unclear>v</unclear>e<del><gap reason="deleted"/></del> gone and<lb/>
                   left my American Dr<del><gap reason="deleted"/></del>iving Licence<lb/>
-                  <rs type="place" ref="#amp_place_id_2">behind</rs></rs>.<lb/>
+                  <rs type="place" ref="#amp_place_id_2">behind</rs></rs>.
+               </p>
+               <p>   
                   It sh<unclear>ou</unclear>ld be in an envelope in<lb/>
-                  the drawer of my bed-table upstairs.<lb/>
+                  the drawer of my bed-table upstairs.
+               </p>
+               <p>   
                   Could you be an angel and look for<lb/>
                   it next time you ar<unclear>e</unclear> going to <rs type="place" ref="#amp_place_id_7">Fridau</rs><lb/>
-                  and air-mail to me<lb/>
+                  and air-mail to me
+               </p>
+               <p>   
                   ℅ <rs type="person" ref="#amp_person_19">Mr Peter Heyworth</rs><lb/>
                   <rs type="place" ref="#amp_place_id_45">32 Bryanston Square<lb/>
-                  London . W .I .</rs><lb/>
-                  So sorry to be such a nuisance.<lb/>
-                  love<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>
+                  London . W .I .</rs>
                </p>
+               <p>   
+                  So sorry to be such a nuisance.
+               </p>
+               <closer>
+                  <salute>love</salute>
+                  <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
+               </closer>
+               </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0042/" type="sheet"/>
+            </div>
          </div>
       </body>
    </text>

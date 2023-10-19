@@ -60,7 +60,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 2</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1961-10-13" notAfter="1961-10-13">1961-10-13</origDate></origin>
+                        <origin>
+                           <origDate notBefore-iso="1961-10-13T00:00:00+01:00" notAfter-iso="1961-10-13T23:59:59+01:00">1961-10-13</origDate>
+                           <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -72,31 +75,23 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
-               <date notBefore="1961-10-13" notAfter="1961-10-13">1961-10-13</date>
-            </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <orgName ref="#amp_organization_75">Postamt 101 (post office 101)</orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
-               <date notBefore="1961-10-15" notAfter="1961-10-15">1961-10-15</date>
+               <date notBefore-iso="1961-10-15T23:00:01+01:00" notAfter-iso="1961-10-15T23:59:59+01:00">1961-10-15T23:00:01+01:00/1961-10-15T23:59:59+01:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
-               <date>unknown</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
                <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
                <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0022.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1961-08-16</ref>
-               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0059.xml">Envelope W. H. Auden to Stella Musulin 1962-04-30</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0071.xml">Typed Letter Signed Stella Musulin to W. H. Auden 1962-04-16--1973-04-16</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -105,6 +100,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-10-21">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
+         <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,46 +119,66 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0021">
+            <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/" type="envelope"/>
-               <p hand="#handwritten">
+               <ab hand="#handwritten">
                   <rs type="person" ref="#amp_person_2">Die Baroni<unclear>n</unclear><lb/>
                   Stella von Mussolin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
-                  Neulingasse 26</rs> <unclear>,</unclear>
-               </p>
+                  <address>
+                     <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
+                     Neulingasse 26 <unclear>,</unclear></rs>
+                  </address>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0114/" type="envelope"/>
-               <p hand="#handwritten">
-                  <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
-               </p>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
+               <ab>
+                  <seg hand="#handwritten">
+                     <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
+                  </seg>
+                  <seg hand="#printed">
+                     <address>
+                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                        HINTERHOLZ 6<lb/>
+                        N.-Ö., AUSTRIA</rs>
+                     </address>
+                  </seg>   
+               </ab>
+            </div>
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0115/" type="sheet"/>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
-               <p>
-                  Friday
-               </p>
-               <p>
-                  <space quantity="17" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
-                  <space quantity="9" unit="char"/>Many thanks for your letter. Ac<del>r</del>tually,<rs type="person" ref="#amp_person_1 #amp_person_4">we</rs><lb/>
-                  <space quantity="4" unit="char"/>shall be <rs type="place" ref="#amp_place_id_2">here</rs> till the end of October.<lb/>
-                  <space quantity="6" unit="char"/>So far as I know,any week-day which suits you<lb/>
-                  <space quantity="4" unit="char"/>and <rs type="person" ref="#amp_person_59">Herr Fritsch</rs> would be O.K.for us,so just<lb/>
-                  <space quantity="5" unit="char"/>drop us a p.c.when you fix the day.<lb/>
-                  <space quantity="11" unit="char"/>longing to see you<lb/>
-               </p>
-               <p hand="#handwritten">   
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>
-               </p>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <placeName>
+                           <seg hand="#printed">
+                              <address>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                                 HINTERHOLZ 6<lb/>
+                                 N.-Ö., AUSTRIA</rs>
+                              </address>
+                           </seg>
+                        </placeName>
+                        <date rend="#block">Friday</date>
+                     </dateline>
+                     <salute><space quantity="17" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
+                  </opener>
+                  <p>
+                     <space quantity="9" unit="char"/>Many thanks for your letter. Ac<del>r</del>tually,<rs type="person" ref="#amp_person_1 #amp_person_4">we</rs><lb/>
+                     <space quantity="4" unit="char"/>shall be <rs type="place" ref="#amp_place_id_2">here</rs> till the end of October.
+                  </p>
+                  <p>   
+                     <space quantity="6" unit="char"/>So far as I know,any week-day which suits you<lb/>
+                     <space quantity="4" unit="char"/>and <rs type="person" ref="#amp_person_59">Herr Fritsch</rs> would be O.K.for us,so just<lb/>
+                     <space quantity="5" unit="char"/>drop us a p.c.when you fix the day.
+                  </p>
+                  <closer>
+                     <space quantity="11" unit="char"/><salute>longing to see you</salute>
+                     <signed hand="#handwritten"><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
+                  </closer>
+               </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0116/" type="sheet"/>
          </div>
+      </div>
       </body>
    </text>
 </TEI>

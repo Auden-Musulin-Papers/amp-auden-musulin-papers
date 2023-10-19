@@ -60,7 +60,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 7</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1963-05-12" notAfter="1963-05-12">1963-05-12</origDate></origin>
+                        <origin>
+                           <origDate notBefore-iso="1963-05-12T00:00:00+01:00" notAfter-iso="1963-05-12T23:59:59+01:00">1963-05-12</origDate>
+                           <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -72,27 +75,18 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
-               <date notBefore="1963-05-12" notAfter="1963-05-12">1963-05-12</date>
-            </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore="1963-05-13" notAfter="1963-05-13">1963-05-13</date>
+               <date notBefore-iso="1963-05-13T11:00:01+01:00" notAfter-iso="1963-05-13T12:00:00+01:00">1963-05-13T11:00:01+01:00/1963-05-13T12:00:00+01:00</date>
+            </correspAction>
+            <correspAction type="redirected">
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_11">Neulinggasse 26, Wien III</placeName>
-               <date>unknown</date>
-            </correspAction>
-            <correspAction type="redirected">
-               <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_7">Fridau</placeName>
-               <date>unknown</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -101,7 +95,6 @@ for any purpose, even commercially.</p>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0002.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-17">template populated with script "create_templates.py"</change>
@@ -110,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-09-20">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
+         <change who="smayer tfruehwirth" when="2023-08-01">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -128,51 +122,75 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope"/>
-            <p><rs type="person" ref="#amp_person_4"><unclear>Ch</unclear>ester</rs> in <rs type="place" ref="#amp_place_id_14">Florence</rs><unclear>.</unclear></p>
-            <p>
-               <rs type="person" ref="#amp_person_2">Die Ba<unclear>ron</unclear>in<lb/>
-               Stella M<unclear>eu</unclear>ss<unclear>u</unclear>lin</rs><lb/>
-               <rs type="place" ref="#amp_place_id_11"><del>Wien III</del><lb/>
-               <del>Neulinggasse 26</del></rs>
-            </p>
-            <p>
-               <rs type="place" ref="#amp_place_id_7">Fridau,<lb/>
-               Obergrafendorf,<lb/>
-               bei ST.PÖLTEN,<lb/>
-               NÖ</rs>
-            </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0002/" type="envelope"/>
-            <p>
-               <rs type="person" ref="#amp_person_1">W.H.Auden</rs><unclear>,</unclear><lb/>
-            </p>
-            <p hand="#printed">
-               <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
-               HINTERHOLZ 6<lb/>
-               N.-Ö., AUSTRIA</rs>
-            </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0003/" type="letter"/>
-            <p>Sunday.</p>
-            <p hand="#printed">
-               <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
-               HINTERHOLZ 6<lb/>
-               N.-Ö., AUSTRIA</rs>               
-            </p>
-            <p>
-               Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
-               Delighted to hear you are <rs type="place" ref="#amp_place_id_11">zu Haus</rs>.<lb/>
-               No, I d<unclear>i</unclear>dnt get any letter from you. <unclear>Pe</unclear>rhaps<lb/>
-               it is in the <unclear>.</unclear><rs type="place" ref="#amp_place_id_15">U.S.</rs><unclear>,</unclear> I shall be in <rs type="place" ref="#amp_place_id_1">Vienna</rs> this<lb/>
-               coming week on Monday, <del>T<unclear>hur</unclear></del> Wednesday and Friday.<lb/>
-               Wi<unclear>ll</unclear> try to call you to-mo<unclear>rrow</unclear> to arrange<lb/>
-               a meeting.<lb/>
-               <rs type="person" ref="#amp_person_4">Chester</rs> is at the moment in <rs type="place" ref="#amp_place_id_14">Florence</rs>,but<lb/>
-               I expect him back on Tuesday.<lb/>
-               love<lb/>
-               <rs type="person" ref="#amp_person_1">Wystan</rs>
-            </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0004/" type="letter"/>
+         <div type="transcription" xml:id="transcription_amp_0001">
+            <div type="envelope">
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope"/>
+               <ab><rs type="person" ref="#amp_person_4"><unclear>Ch</unclear>ester</rs> in <rs type="place" ref="#amp_place_id_14">Florence</rs><unclear>.</unclear></ab>
+               <ab>
+                  <rs type="person" ref="#amp_person_2">Die Ba<unclear>ron</unclear>in<lb/>
+                  Stella M<unclear>eu</unclear>ss<unclear>u</unclear>lin</rs><lb/>
+                  <address>
+                     <rs type="place" ref="#amp_place_id_11"><del>Wien III</del><lb/>
+                     <del>Neulinggasse 26</del></rs>
+                  </address>   
+               </ab>
+               <ab>
+                  <address>
+                     <rs type="place" ref="#amp_place_id_7">Fridau,<lb/>
+                     Obergrafendorf,<lb/>
+                     bei ST.PÖLTEN,<lb/>
+                     NÖ</rs>
+                  </address>
+               </ab>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0002/" type="envelope"/>
+                  <ab>
+                     <rs type="person" ref="#amp_person_1">W.H.Auden</rs><unclear>,</unclear><lb/>
+                     <seg hand="#printed">
+                        <address>
+                           <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                           HINTERHOLZ 6<lb/>
+                           N.-Ö., AUSTRIA</rs>
+                        </address>
+                     </seg>
+                  </ab>
+            </div>
+            <div type="letter">
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0003/" type="letter"/>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <date rend="#block">Sunday.</date>
+                        <placeName>
+                           <seg hand="#printed">
+                              <address>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                                 HINTERHOLZ 6<lb/>
+                                 N.-Ö., AUSTRIA</rs>
+                              </address>
+                           </seg>
+                        </placeName>
+                     </dateline>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
+                  </opener>
+                  <p>
+                     Delighted to hear you are <rs type="place" ref="#amp_place_id_11">zu Haus</rs>.<lb/>
+                     No, I d<unclear>i</unclear>dnt get any letter from you. <unclear>Pe</unclear>rhaps<lb/>
+                     it is in the <unclear>.</unclear><rs type="place" ref="#amp_place_id_15">U.S.</rs><unclear>,</unclear> I shall be in <rs type="place" ref="#amp_place_id_1">Vienna</rs> this<lb/>
+                     coming week on Monday, <del>T<unclear>hur</unclear></del> Wednesday and Friday.<lb/>
+                     Wi<unclear>ll</unclear> try to call you to-mo<unclear>rrow</unclear> to arrange<lb/>
+                     a meeting.
+                  </p>
+                  <p>
+                     <rs type="person" ref="#amp_person_4">Chester</rs> is at the moment in <rs type="place" ref="#amp_place_id_14">Florence</rs>,but<lb/>
+                     I expect him back on Tuesday.
+                  </p>
+                  <closer>
+                     <salute>love</salute>
+                     <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
+                  </closer>
+               </div>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0004/" type="letter"/>
+            </div>
          </div>
       </body>
    </text>

@@ -17,10 +17,10 @@
 					<field name="schemaDescriptor">
 						<docTypeSchema>
 							<field name="type">
-								<Integer>4</Integer>
+								<Integer>6</Integer>
 							</field>
 							<field name="uri">
-								<String>${pdu}/framework/auden-musulin/schema/out/am.rng</String>
+								<String>${framework}/schema/out/am.rng</String>
 							</field>
 						</docTypeSchema>
 					</field>

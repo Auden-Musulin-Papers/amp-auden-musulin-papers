@@ -60,7 +60,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 21</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1968-11-06" notAfter="1968-11-06">1968-11-06</origDate></origin>
+                        <origin>
+                           <origDate notBefore-iso="1968-11-06T00:00:00-05:00" notAfter-iso="1968-11-06T23:59:59-05:00">1968-11-06</origDate>
+                           <origPlace ref="#amp_place_id_29">77 St. Mark's Place</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -72,22 +75,15 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_29">77 St Mark's Place</placeName>
-               <date notBefore="1968-11-06" notAfter="1968-11-06">1968-11-06</date>
-            </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <orgName ref="#amp_organization_85">United States General Post Office</orgName>
                <placeName ref="#amp_place_id_28">New York City</placeName>
-               <date notBefore="1968-11-06" notAfter="1968-11-06">1968-11-06</date>
+               <date notBefore-iso="1968-11-06T12:00:00-05:00" notAfter-iso="1968-11-06T23:59:59-05:00">1968-11-06T12:00:00-05:00/1968-11-06T23:59:59-05:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
-               <date>unknown</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -96,7 +92,6 @@ for any purpose, even commercially.</p>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0011.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-13</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -105,6 +100,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-10-05">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
+         <change who="smayer tfruehwirth" when="2023-08-04">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,45 +119,71 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0010">
+            <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0047/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="person" ref="#amp_person_1">WH Auden</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                  New York City<lb/>
-                  N.Y. 10003<lb/>
-                  U.S.A<unclear>.</unclear></rs>
-               </p>
-               <p>
+                  <address>
+                     <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                     New York City<lb/>
+                     N.Y. 10003<lb/>
+                     U.S.A<unclear>.</unclear></rs>
+                  </address>
+               </ab>
+               <ab>
                   A<hi rend="underline">ir-Mail</hi>
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_11">Wien A-1030<lb/>
-                  Neulinggasse 26/14<lb/>
-                  Austria</rs>
-               </p>
+                  <address>
+                     <rs type="place" ref="#amp_place_id_11">Wien A-1030<lb/>
+                     Neulinggasse 26/14<lb/>
+                     Austria</rs>
+                  </address>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0048/" type="envelope"/>
+            </div>
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0049/" type="sheet"/>
-               <p>
-                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                  N.Y.C.<lb/>
-                  N.Y. 1003</rs>
-               </p>
-               <p>
-                  Nov 6 th .
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
-                  Many thanks for your letter. Of course,<lb/>
-                  selfishly, I'm rather reli<unclear><del>v</del></unclear>eved. How horrid<lb/>
-                  one is !<lb/>
-                  The <rs type="place" ref="#amp_place_id_15">U.S.</rs> is grim.<lb/>
-                  love<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>.</unclear>
-               </p>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <placeName>
+                           <address>
+                              <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                              N.Y.C.<lb/>
+                              N.Y. 1003</rs>
+                           </address>
+                        </placeName>
+                        <date rend="#block">
+                           Nov 6 th .
+                        </date>
+                     </dateline>
+                     <salute>
+                        Dear <rs type="person" ref="#amp_person_2">Stella</rs>:
+                     </salute>
+                  </opener>
+                  <p>
+                     Many thanks for your letter. Of course,<lb/>
+                     selfishly, I'm rather reli<unclear><del>v</del></unclear>eved. How horrid<lb/>
+                     one is !
+                  </p>
+                  <p>
+                     The <rs type="place" ref="#amp_place_id_15">U.S.</rs> is grim.
+                  </p>
+                  <closer>
+                     <salute>
+                        love
+                     </salute>
+                     <signed>
+                        <rs type="person" ref="#amp_person_1">Wystan</rs><unclear>.</unclear>
+                     </signed>
+                  </closer>
+               </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0050/" type="sheet"/>
+            </div>
          </div>
       </body>
    </text>

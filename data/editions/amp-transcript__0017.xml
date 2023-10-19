@@ -60,7 +60,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 30</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1971-06-04" notAfter="1971-06-04">1971-06-04</origDate></origin>
+                        <origin>
+                           <origDate notBefore-iso="1971-06-04T00:00:00+01:00" notAfter-iso="1971-06-04T23:59:59+01:00">1971-06-04</origDate>
+                           <origPlace ref="#amp_place_id_2">Hinterholz 6></origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -72,22 +75,15 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_2">Hinterholz 6</placeName>
-               <date notBefore="1971-06-04" notAfter="1971-06-04">1971-06-04</date>
-            </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
-               <date notBefore="1971-06-04" notAfter="1971-06-04">1971-06-04</date>
+               <date notBefore-iso="1971-06-04T16:00:01+01:00" notAfter-iso="1971-06-04T17:00:00+01:00">1971-06-04T16:00:01+01:00/1971-06-04T17:00:00+01:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
-               <date>unknown</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -96,7 +92,6 @@ for any purpose, even commercially.</p>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0018.xml">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Stark Bewölkt" 1971-10-19</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -105,6 +100,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-10-14">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
+         <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,46 +119,64 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0017">
+            <div type="envelope"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0083/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="lit_work" ref="#lit_work_id_33">"A Certain World<unclear>"</unclear></rs>.
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_11">1030 Wien III<lb/>
-                  Neulinggasse 26/14</rs>
-               </p>
+                  <address>    
+                     <rs type="place" ref="#amp_place_id_11">1030 Wien III<lb/>
+                     Neulinggasse 26/14</rs>
+                  </address>    
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0084/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="person" ref="#amp_person_1">WH Auden</rs><lb/>
-               </p>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
-                  BEZ. ST. PÖLTEN<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
+                  <seg hand="#printed">
+                     <address>  
+                        <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
+                        BEZ. ST. PÖLTEN<lb/>
+                        HINTERHOLZ 6<lb/>
+                        N.-Ö., AUSTRIA</rs>
+                     </address>    
+                  </seg> 
+               </ab>  
+            </div>
+            <div type="letter"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0085/" type="sheet"/>
-               <p>
-                  June 4th.
-               </p>
-               <p hand="#printed">
-                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
-                  BEZ. ST. PÖLTEN<lb/>
-                  HINTERHOLZ 6<lb/>
-                  N.-Ö., AUSTRIA</rs>
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>:<lb/>
+              <div type="letter_message">  
+                <opener>
+                   <dateline>
+                      <date rend="#block">June 4th.</date>
+                      <placeName>
+                         <seg hand="#printed">
+                         <address>
+                            <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
+                               BEZ. ST. PÖLTEN<lb/>
+                               HINTERHOLZ 6<lb/>
+                               N.-Ö., AUSTRIA</rs>
+                         </address>
+                      </seg>
+                   </placeName>  
+                </dateline>
+                <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
+                </opener>
+                <p>
                   I have <unclear>a</unclear> copy of <rs type="lit_work" ref="#lit_work_id_33"><hi rend="underline">A Cert<unclear>a</unclear>in World</hi></rs><lb/>
                   for you ,t<unclear>o</unclear> pi<unclear>c</unclear>k up any time at<lb/>
-                  your convenience.<lb/>
-                  love<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>
-               </p>
+                  your convenience.
+                 </p>
+                 <closer>
+                    <salute>love</salute>
+                    <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
+                 </closer>
+              </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0086/" type="sheet"/>
+            </div>   
          </div>
       </body>
    </text>

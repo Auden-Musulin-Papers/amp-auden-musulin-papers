@@ -60,7 +60,10 @@ for any purpose, even commercially.</p>
                         <idno>1, 15</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1968-02-06" notAfter="1968-02-06">1968-02-06</origDate></origin>
+                        <origin>
+                           <origDate notBefore-iso="1968-02-06T00:00:00-05:00" notAfter-iso="1968-02-06T23:59:59-05:00">1968-02-06</origDate>
+                           <origPlace ref="#amp_place_id_29">77 St. Mark's Place</origPlace>
+                        </origin>
                      </history>
                   </msDesc>
                </witness>
@@ -72,22 +75,15 @@ for any purpose, even commercially.</p>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName ref="#amp_place_id_29">77 St Mark's Place</placeName>
-               <date notBefore="1968-02-06" notAfter="1968-02-06">1968-02-06</date>
-            </correspAction>
             <correspAction type="sent">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
+               <orgName ref="#amp_organization_85">United States General Post Office</orgName>
                <placeName ref="#amp_place_id_28">New York City</placeName>
-               <date notBefore="1968-02-06" notAfter="1968-02-06">1968-02-06</date>
+               <date notBefore-iso="1968-02-06T12:00:00-05:00" notAfter-iso="1968-02-06T23:59:59-05:00">1968-02-06T12:00:00-05:00/1968-02-06T23:59:59-05:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
                <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
-               <date>unknown</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -96,7 +92,6 @@ for any purpose, even commercially.</p>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0042.xml">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescripts W. H. Auden "August 1968" and "Elegy" 1968-10-04</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -105,6 +100,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-09-28">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
+         <change who="smayer tfruehwirth" when="2023-08-03">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,58 +119,86 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0006">
+            <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0027/" type="envelope"/>
-               <p>
+               <ab>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>:</unclear>Auden</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                  New York City<lb/>
-                  New York 10003<lb/>
-                  U.S.A</rs>
-               </p>
-               <p>
+                  <address>
+                     <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                     New York City<lb/>
+                     New York 10003<lb/>
+                     U.S.A</rs>
+                  </address>
+               </ab>
+               <ab>
                   Air-Mail
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella M<del><gap reason="deleted"/></del>usulin</rs><lb/>
-                  <rs type="place" ref="#amp_place_id_11">Vienna III<lb/>
-                  26 Neulingasse<lb/>
-                  Austria</rs>
-               </p>
-               <p>
+                  <address>
+                     <rs type="place" ref="#amp_place_id_11">Vienna III<lb/>
+                     26 Neulingasse<lb/>
+                     Austria</rs>
+                  </address>
+               </ab>
+               <ab>
                   Re arrival <rs type="event" ref="#amp_event_id_10">interview<lb/>
                   <rs type="person" ref="#amp_person_32 #amp_person_176">Strobl</rs></rs>.
-               </p>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0028/" type="envelope"/>
-               <p>
-                  52 6320<lb/>
-                  Wa<unclear>n</unclear>dl<unclear>;</unclear><lb/>
-                  <rs type="person" ref="#amp_person_177">Elizabeth</rs> <unclear>.</unclear><lb/>
-                  <rs type="place" ref="#amp_place_id_10">Austria</rs> <unclear>.</unclear>
-               </p>
+               <ab>
+                  <seg>52 6320<lb/></seg><!-- keep lb? -->
+                  <seg>
+                     Wa<unclear>n</unclear>dl<unclear>;</unclear><lb/>
+                     <rs type="person" ref="#amp_person_177">Elizabeth</rs> <unclear>.</unclear><lb/>
+                     <rs type="place" ref="#amp_place_id_10">Austria</rs> <unclear>.</unclear>
+                  </seg>
+               </ab>
+            </div>
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0029/" type="sheet"/>
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <date rend="#block">Feb 6th<unclear>,</unclear></date>
+                        <placeName>
+                           <address>
+                              <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
+                              N.Y.C 3.</rs>
+                           </address>
+                        </placeName>
+                     </dateline>
+                     <salute>
+                        Dear <rs type="person" ref="#amp_person_2">Stella</rs>.
+                     </salute>
+                  </opener>
                <p>
-                  Feb 6th<unclear>,</unclear>
-               </p>
-               <p>
-                  <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
-                  N.Y.C 3</rs>.
-               </p>
-               <p>
-                  Dear <rs type="person" ref="#amp_person_2">Stella</rs>.<lb/>
                   I shall be arriving in <rs type="place" ref="#amp_place_id_1">Vienna</rs> next<lb/>
                   Monday morning (12th) and staying till<lb/>
                   the 16th in order to <rs type="event" ref="#amp_event_id_10">interview a<lb/>
-                  <rs type="person" ref="#amp_person_32 #amp_person_176">prospective couple</rs></rs> to take the <rs type="person" ref="#amp_person_16 amp_person_17">Eiermanns</rs> place<unclear>.</unclear><lb/>
+                  <rs type="person" ref="#amp_person_32 #amp_person_176">prospective couple</rs></rs> to take the <rs type="person" ref="#amp_person_16 amp_person_17">Eiermanns</rs> place<unclear>.</unclear>
+               </p>
+               <p>   
                   Expect to be staying at the <rs type="place" ref="#amp_place_id_42">Hotel<lb/>
-                  <hi rend="underline">Königin von Hungarn</hi></rs><hi rend="underline"> <unclear>.</unclear></hi><lb/>
+                  <hi rend="underline">Königin von Hungarn</hi></rs><hi rend="underline"> <unclear>.</unclear></hi>
+               </p>
+               <p>
                   Will phone you. Do hope you are<lb/>
                   around<unclear>·</unclear><lb/>
-                  love<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>
                </p>
+               <closer>
+                  <salute>
+                     love
+                  </salute>
+                  <signed>
+                     <rs type="person" ref="#amp_person_1">Wystan</rs>
+                  </signed>
+               </closer>
+               </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0030/" type="sheet"/>
+            </div>
          </div>
       </body>
    </text>
