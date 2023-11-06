@@ -122,7 +122,7 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_5">Kirchst<del>t</del>etten (West Bahn)<lb/> 
+                     <rs type="place" ref="#amp_place_id_2">Kirchst<del>t</del>etten (West Bahn)<lb/> 
                      Hinterholz # 6<lb/> 
                      N.O.</rs>
                   </address>
@@ -156,8 +156,8 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     <space quantity="6" unit="char"/>Many thanks for your letter of Oct <del>%</del>5th which I have only just<lb/>  
-                     <space quantity="3" unit="char"/>received:it went to the wrong Kirchstetten.
+                     <space quantity="6" unit="char"/>Many thanks for your letter of Oct <del>%</del>5th which I have only just<lb/><!-- mark up internal event -->
+                     <space quantity="3" unit="char"/>received:it went to <rs type="place" ref="#amp_place_id_314">the wrong Kirchstetten</rs>.<!-- include editorial comment -->
                   </p>
                   <p>
                      <space quantity="8" unit="char"/><rs type="person" ref="#amp_person_1 #amp_person_4">We</rs> shall be delighted to see you any day that is convenient for<lb/> 
@@ -177,5 +177,46 @@ for any purpose, even commercially.</p>
             </div>
          </div>
       </body>
+      <back>
+         <listEvent>
+            <event notBefore-iso="1959-10-05T00:00:00+01:00" notAfter-iso="1959-10-05T23:59:59+01:00" evidence="internal" type="communicative" subtype="letter"><!-- event xml:id, also in transcription! distinguish "historical" from "internal" events -->
+               <head>Letter Stella Musulin to W. H. Auden 1959-10-05</head>
+               <listPerson>
+                  <persName role="sender" ref="#amp_person_2">Stella Musulin</persName><!-- more abstract way of referring to entities? -->
+                  <persName role="addressee" ref="#amp_person_1">W. H. Auden</persName>
+               </listPerson>
+            </event>
+         </listEvent>
+         <listPlace>
+            <place xml:id="amp_place_id_314" ana="#ana_XXXX"><!-- link to interpretation -->
+               <placeName>
+                  the wrong Kirchstetten
+               </placeName>
+               <interp xml:id="ana_XXXX" source="doi:YYYY"><!-- link to nano publication which in formalized language corresponds to natural-language comment -->
+                  <desc>
+                     <listPlace>
+                        <place source="some_wikidata-uri">
+                           <!-- ... -->
+                        </place>
+                        <place source="some_wikidata-uri">
+                           <!-- ... -->
+                        </place>
+                        <place source="some_wikidata-uri">
+                           <!-- ... -->
+                        </place>
+                        <place source="some_wikidata-uri">
+                           <!-- ... -->
+                        </place>
+                        <place source="some_wikidata-uri">
+                           <!-- ... -->
+                        </place>
+                     </listPlace>
+                  </desc>
+                  <respons locus="value" resp="#tfruehwirth #dgrigoriou #smayer"/>
+                  <certainty locus="value" cert="low"/>
+               </interp>
+            </place>
+         </listPlace>
+      </back>
    </text>
 </TEI>
