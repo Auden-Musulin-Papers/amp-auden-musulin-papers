@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1960-07-22--1965-09-28</title>
+            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1961-10-01--1965-08-15</title>
             <author>Auden, W. H.</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -61,7 +61,13 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore-iso="1960-07-22T00:00:00+01:00" notAfter-iso="1965-09-28T23:59:59+01:00">1960-07-22--1965-09-28</origDate>
+                           <origDate notBefore-iso="1961-10-01T00:00:00+01:00" notAfter-iso="1965-08-15T23:59:59+01:00" ana="#ana_002">
+                              1961-10-01--1965-08-15
+                              <interp xml:id="ana_002" source="doi:YYYY" >                  
+                                 <respons locus="value" resp="#tfruehwirth #smayer"/>
+                                 <certainty locus="value" cert="high"/>
+                              </interp><!-- links to interpretation of possible date range (salutatory address, stationery type, archival evidence re presence at Kirchstetten, possible dates re "Thursday 19th") -->
+                           </origDate>
                            <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
                         </origin>
                      </history>
@@ -149,5 +155,36 @@ for any purpose, even commercially.</p>
          </div>
       </div>     
       </body>
+      <back>
+         <listEvent>
+            <event xml:id="amp_event_int_0004" evidence="internal" cert="unknown" notBefore-iso="1961-10-19T00:00:00+01:00" notAfter-iso="1965-08-19T23:59:59+01:00" type="communicative" subtype="meeting"><!-- useful markup? @cert to indicate prospective status -->
+               <head>Meeting W. H. Auden and Stella Musulin 1961-10-19--1965-08-19</head>
+               <listPerson>
+                  <person ref="#amp_person_2"/>
+                  <person ref="#amp_person_1"/>
+               </listPerson>
+               <listPlace>
+                  <place ref="#amp_place_id_315"/>
+               </listPlace>
+            </event>
+         </listEvent>
+         <listPlace>
+            <place xml:id="amp_place_id_315" ana="#ana_003"><!-- link to interpretation -->
+               <placeName>
+                  "your place"
+               </placeName>
+               <interp xml:id="ana_003" source="doi:YYYY"><!-- link to nano publication which in formalized language corresponds to natural-language comment -->
+                  <desc>
+                     <listPlace><!-- how indicate that these are alternative options? or in nanopub? -->
+                        <place ref="#amp_place_id_7"/>
+                        <place ref="#amp_place_id_11"/>
+                     </listPlace>
+                  </desc>
+                  <respons locus="value" resp="#tfruehwirth #smayer"/><!-- in this case no certainty element needed (?) -->
+                  <certainty locus="value" cert="high"/>
+               </interp>
+            </place>
+         </listPlace>
+      </back>
    </text>
 </TEI>
