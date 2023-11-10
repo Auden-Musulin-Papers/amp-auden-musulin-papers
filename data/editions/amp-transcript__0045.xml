@@ -22,7 +22,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1960-07-21</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -161,8 +163,8 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:</salute>
                   </opener>
                   <p>
-                     Delighted to <rs type="event" ref="#amp_event_int_0002">get your ca<unclear>rd</unclear></rs>. <rs type="person" ref="#amp_person_1 #amp_person_4">We</rs><lb/>
-                     shall look forw<unclear>a</unclear>rd to <rs type="event" ref="#amp_event_int_0003">seeing you<lb/>
+                     Delighted to <rs type="event" ref="#amp_event_id_62">get your ca<unclear>rd</unclear></rs>. <rs type="person" ref="#amp_person_1 #amp_person_4">We</rs><lb/>
+                     shall look forw<unclear>a</unclear>rd to <rs type="event" ref="#amp_event_id_63">seeing you<lb/>
                      on Saturday aftern<unclear>o</unclear>on</rs>.
                   </p>
                   <p>
@@ -178,27 +180,5 @@ for any purpose, even commercially.</p>
          </div>
       </div>
       </body>
-      <back>
-         <listEvent>
-            <event xml:id="amp_event_int_0002" evidence="internal" notBefore-iso="1959-10-10T23:59:59+01:00" notAfter-iso="1960-07-21T23:59:59+01:00" type="communicative" subtype="postcard">
-               <head>Postcard Stella Musulin to W. H. Auden 1959-10-10--1960-07-21</head>
-               <listPerson>
-                  <person role="sender" ref="#amp_person_2"/>
-                  <person role="receiver" ref="#amp_person_1"/>
-               </listPerson>
-               <listPlace>
-                  <place type="received" ref="#amp_place_id_2"/><!-- for @type: use values of correspAction -->
-               </listPlace>
-            </event>
-            <event xml:id="amp_event_int_0003" evidence="internal" cert="unknown" notBefore-iso="1960-07-23T00:00:00+01:00" notAfter-iso="1960-07-23T23:59:59+01:00" type="communicative" subtype="meeting"><!-- useful markup? @cert to indicate prospective status -->
-               <head>Meeting W. H. Auden, Chester Kallman, and Stella Musulin 1960-07-23</head>
-               <listPerson>
-                  <person ref="#amp_person_2"/>
-                  <person ref="#amp_person_4"/>
-                  <person ref="#amp_person_1"/>
-               </listPerson>
-            </event>
-         </listEvent>
-      </back>
    </text>
 </TEI>
