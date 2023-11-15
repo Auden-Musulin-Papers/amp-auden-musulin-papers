@@ -25,14 +25,12 @@
             <edition>
                <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1961-10-01--1965-08-15</title>
                <interpGrp>
-                  <interp>
-                     <interp xml:id="ana_002" source="ph_002"><!-- link to nanopub -->    
-                        <desc>
-                           The date of creation has been delimited based on considerations related to material aspects, contents, and style.
-                        </desc>
-                        <respons locus="value" resp="#tfruehwirth #smayer"/>
-                        <certainty locus="value" cert="high"/>
-                     </interp><!-- links to interpretation of possible date range (salutatory address, stationery type, archival evidence re presence at Kirchstetten, possible dates re "Thursday 19th") -->
+                  <interp xml:id="ana_002" source="ph_002"><!-- link to nanopub -->    
+                     <desc>
+                        The date of creation has been delimited based on considerations related to material aspects, Auden's salutatory practice, and letter contents. As suggested by the documents in our collection, Auden would use his off-white Kirchstetten stationery from at least September 1965 onward; the last extant message in the AMP collection that is written on the bluish grey letter paper, used in this document, dates from 12 May 1963. Furthermore, whereas, in his letter from 21 July 1960, Auden addresses Stella Musulin as "Dear Baroness Musulin", he would call her by her first name from at least August 1961 onward. The specific range provided for the date of creation results from investigation into the date of writing as indicated in Auden's message ("Sonntag") in relation to the date of a proposed meeting mentioned in Auden's message: 1 October 1961 is the date of the Sunday that precedes the first "Thursday (19th)" during Auden's residence at Kirchstetten after July 1960; 15 August 1965 is the date of the Sunday that precedes the last "Thursday (19th)" during Auden's stay in his Austrian home before September 1965.
+                     </desc>
+                     <respons locus="value" resp="#tfruehwirth #smayer"/>
+                     <certainty locus="value" cert="high"/>
                   </interp>
                   <interp xml:id="ana_003" source="ph_003"><!-- link to nanopub -->
                      <desc>

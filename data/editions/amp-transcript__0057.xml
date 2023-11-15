@@ -22,7 +22,16 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Envelope W. H. Auden to Stella Musulin 1961-04-25--1961-10-25</title>
+               <interpGrp>
+                  <interp xml:id="ana_004" source="ph_004"><!-- link to nanopub -->
+                     <desc>
+                        The postmark is illegible in the place where the month of dispatch is indicated; the day and the year can be deciphered as "25" and "61", respectively. The letter must have been sent between the months of April and October, when Auden was present in Kirchstetten, where the letter was posted.
+                     </desc>
+                  </interp>
+               </interpGrp>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -61,7 +70,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore-iso="1961-04-25T00:00:00+01:00" notAfter-iso="1961-10-25T23:59:59+01:00">1961-04-25--1961-10-25</origDate>
+                           <origDate notBefore-iso="1961-04-25T00:00:00+01:00" notAfter-iso="1961-10-25T23:59:59+01:00" ana="#ana_004">1961-04-25--1961-10-25</origDate>
                            <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
                         </origin>
                      </history>
