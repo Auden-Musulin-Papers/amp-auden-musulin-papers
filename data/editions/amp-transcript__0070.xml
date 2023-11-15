@@ -27,6 +27,7 @@
                <interpGrp>
                   <interp xml:id="ana_001" source="ph_001"><!-- link to nanopub -->
                      <desc>
+                        According to the map of Austria provided by the Austrian Federal Office of Metrology and Surveying (https://maps.bev.gv.at, accessed 10 November 2023), there are six settlements named Kirchstetten on Austrian territory. In addition to Marktgemeinde Kirchstetten in St. Pölten district, Lower Austria, there are: Kirchstetten village in Mistelbach district, Lower Austria; Kirchstetten village in Amstetten district, Lower Austria; Kirchstetten village in Linz-Land district, Upper Austria; Kirchstetten village in Vöcklabruck district, Upper Austria; Kirchstetten village in Perg district, Upper Austria.
                         <listPlace type="choice">
                            <place source="https://sws.geonames.org/2774360/"/>
                            <place source="https://sws.geonames.org/2774363/"/>
@@ -174,7 +175,7 @@ for any purpose, even commercially.</p>
                   </opener>
                   <p>
                      <space quantity="6" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_61">your letter of Oct <del>%</del>5th which I have only just<lb/>
-                     <space quantity="3" unit="char"/>received</rs>:it went to <rs type="place" ref="#amp_place_id_314" ana="#ana_001">the wrong Kirchstetten</rs><note target="#amp_place_id_314" ana="#ana_001">According to the map of Austria provided by the Austrian Federal Office of Metrology and Surveying (https://maps.bev.gv.at, accessed 10 November 2023), there are six settlements named Kirchstetten on Austrian territory. In addition to Marktgemeinde Kirchstetten in St. Pölten district, Lower Austria, there are: Kirchstetten village in Mistelbach district, Lower Austria; Kirchstetten village in Amstetten district, Lower Austria; Kirchstetten village in Linz-Land district, Upper Austria; Kirchstetten village in Vöcklabruck district, Upper Austria; Kirchstetten village in Perg district, Upper Austria.</note>.
+                     <space quantity="3" unit="char"/>received</rs>:it went to <rs type="place" ref="#amp_place_id_314" ana="#ana_001">the wrong Kirchstetten</rs>.
                   </p>
                   <p>
                      <space quantity="8" unit="char"/><rs type="person" ref="#amp_person_1 #amp_person_4">We</rs> shall be delighted to see you any day that is convenient for<lb/> 

@@ -27,13 +27,16 @@
                <interpGrp>
                   <interp>
                      <interp xml:id="ana_002" source="ph_002"><!-- link to nanopub -->    
-                        <desc/>
+                        <desc>
+                           The date of creation has been delimited based on considerations related to material aspects, contents, and style.
+                        </desc>
                         <respons locus="value" resp="#tfruehwirth #smayer"/>
                         <certainty locus="value" cert="high"/>
                      </interp><!-- links to interpretation of possible date range (salutatory address, stationery type, archival evidence re presence at Kirchstetten, possible dates re "Thursday 19th") -->
                   </interp>
                   <interp xml:id="ana_003" source="ph_003"><!-- link to nanopub -->
                      <desc>
+                        In this period of time, Stella Musulin lived either at <rs type="place" ref="#amp_place_id_7">Schloss Fridau</rs> in Ober-Grafendorf or in <rs type="place" ref="#amp_place_id_11">Neulinggasse 26</rs> in Vienna.
                         <listPlace type="choice">
                            <place ref="#amp_place_id_7"/>
                            <place ref="#amp_place_id_11"/>
@@ -155,14 +158,14 @@ for any purpose, even commercially.</p>
                            </seg>
                         </placeName>
                         <date rend="#block">
-                           <unclear>S</unclear>onntag.<note ana="#ana_002">The date of creation has been delimited based on considerations related to material aspects, contents, and style.</note><!-- add specific information -->
+                           <unclear>S</unclear>onntag.
                         </date>
                      </dateline>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     Good. Will be at <rs type="place" ref="#amp_place_id_315">your place</rs><note target="#amp_place_id_315" ana="#ana_003">In this period of time, Stella Musulin lived either at <rs type="place" ref="#amp_place_id_7">Schloss Fridau</rs> in Ober-Grafendorf or in <rs type="place" ref="#amp_place_id_11">Neulinggasse 26</rs> in Vienna.</note><lb/>
-                     on Thu<unclear>r</unclear>sday (19th) at 6.p.m<unclear>.</unclear>
+                     Good. <rs type="event" ref="#amp_event_id_64">Will be at <rs type="place" ref="#amp_place_id_315" ana="#ana_003">your place</rs><lb/>
+                     on Thu<unclear>r</unclear>sday (19th) at 6.p.m<unclear>.</unclear></rs>
                   </p>
                   <closer>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
