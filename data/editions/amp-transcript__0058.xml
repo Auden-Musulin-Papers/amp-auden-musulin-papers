@@ -25,21 +25,19 @@
             <edition>
                <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1961-10-01--1965-08-15</title>
                <interpGrp>
-                  <interp>
-                     <interp xml:id="ana_002" source="ph_002"><!-- link to nanopub -->    
-                        <desc>
-                           The date of creation has been delimited based on considerations related to material aspects, contents, and style.
-                        </desc>
-                        <respons locus="value" resp="#tfruehwirth #smayer"/>
-                        <certainty locus="value" cert="high"/>
-                     </interp><!-- links to interpretation of possible date range (salutatory address, stationery type, archival evidence re presence at Kirchstetten, possible dates re "Thursday 19th") -->
+                  <interp xml:id="ana_002" source="ph_002"><!-- link to nanopub -->    
+                     <desc>
+                        The date of creation has been delimited based on considerations related to material aspects, Auden's salutatory practice, and letter contents. As suggested by the documents in our collection, Auden would use his off-white Kirchstetten stationery from at least September 1965 onward; the last extant message in the AMP collection that is written on the bluish grey letter paper, used in this document, dates from 12 May 1963. Furthermore, whereas, in his letter from 21 July 1960, Auden addresses Stella Musulin as "Dear Baroness Musulin", he would call her by her first name from at least August 1961 onward. The specific range provided for the date of creation results from investigation into the date of writing as indicated in Auden's message ("Sonntag") in relation to the date of a proposed meeting mentioned in Auden's message: 1 October 1961 is the date of the Sunday that precedes the first "Thursday (19th)" during Auden's residence at Kirchstetten after July 1960; 15 August 1965 is the date of the Sunday that precedes the last "Thursday (19th)" during Auden's stay in his Austrian home before September 1965.
+                     </desc>
+                     <respons locus="value" resp="#tfruehwirth #smayer"/>
+                     <certainty locus="value" cert="high"/>
                   </interp>
                   <interp xml:id="ana_003" source="ph_003"><!-- link to nanopub -->
                      <desc>
                         In this period of time, Stella Musulin lived either at <rs type="place" ref="#amp_place_id_7">Schloss Fridau</rs> in Ober-Grafendorf or in <rs type="place" ref="#amp_place_id_11">Neulinggasse 26</rs> in Vienna.
                         <listPlace type="choice">
-                           <place ref="#amp_place_id_7"/>
-                           <place ref="#amp_place_id_11"/>
+                           <place><placeName ref="#amp_place_id_7"/></place>
+                           <place><placeName ref="#amp_place_id_11"/></place>
                         </listPlace>
                      </desc>
                      <respons locus="value" resp="#tfruehwirth #dgrigoriou #smayer"/>
@@ -109,7 +107,7 @@ for any purpose, even commercially.</p>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
                <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
                <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0045.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1960-07-21</ref>
-               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0022.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1961-08-16</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0057.xml">Envelope W. H. Auden to Stella Musulin 1961-04-25--1961-10-25</ref>
             </correspContext>
          </correspDesc>
       </profileDesc>
@@ -121,6 +119,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-05-10">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-03-02">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-11-15">entities updated, internal events created, interpGrp added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

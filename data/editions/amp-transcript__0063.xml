@@ -23,7 +23,9 @@
                 </funder>
             </titleStmt>
             <editionStmt>
-                <edition>AMP</edition>
+                <edition>
+                    <title>Autograph Letter Signed Stella Musulin to Christine Busta 1962-05-23</title>
+                </edition>
                 <respStmt>
                     <resp>Transcription and commentary</resp>
                     <name>Mayer, Sandra</name>
@@ -66,7 +68,7 @@
                             <history>
                                 <origin>
                                     <origDate notBefore-iso="1962-05-23T00:00:00+01:00" notAfter-iso="1962-05-23T23:59:59+01:00">1962-05-23</origDate>
-                                    <origPlace ref="#amp_place_id_10">Austria</origPlace><!-- mark up certainty value -->
+                                    <origPlace ana="#ana_003"/>
                                 </origin>
                             </history>
                         </msDesc>
@@ -95,6 +97,7 @@
             <change who="dgrigoriou" when="2023-03-13">text transcribed</change>
             <change who="dgrigoriou smayer tfruehwirth" when="2023-07-05">transcription collated</change>
             <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
+            <change who="dgrigoriou smayer tfruehwirth" when="2023-11-17">entities updated, internal events created, @ana added</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -190,7 +193,7 @@
                                     besten Wü<unclear><del>s</del>n</unclear>schen<lb/>
                                     Ihre
                                 </salute>
-                                <signed><rs type="person" ref="#amp_person_4">Stella Musulin</rs> .</signed>
+                                <signed><rs type="person" ref="#amp_person_2">Stella Musulin</rs> .</signed>
                             </closer>
                         </div>
                         <div>

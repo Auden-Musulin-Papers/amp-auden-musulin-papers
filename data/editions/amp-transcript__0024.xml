@@ -22,7 +22,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1962-09-11</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -101,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-03-17">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-11-17">entities updated, internal events created</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -161,7 +164,7 @@ for any purpose, even commercially.</p>
                   <salute>Dear <rs type="person" ref="#amp_person_2"><del>Sell</del> Stella</rs>:</salute>
                </opener>
                <p>
-                  Many thanks for your card.<lb/>
+                  Many thanks for <rs type="event" ref="#amp_event_id_68">your card</rs>.<lb/>
                   Cant get i<unclear>m</unclear> t<unclear>o</unclear> <rs type="place" ref="#amp_place_id_1">Vienna</rs> before<lb/>
                   <unclear>Fr</unclear>iday<unclear>,</unclear> but do come and see <rs type="person" ref="#amp_person_1 #amp_person_4">us</rs><lb/>
                   eith<unclear>e</unclear>r on your way to or from<lb/>

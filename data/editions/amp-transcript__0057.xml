@@ -22,7 +22,16 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Envelope W. H. Auden to Stella Musulin 1961-04-25--1961-10-25</title>
+               <interpGrp>
+                  <interp xml:id="ana_004" source="ph_004"><!-- link to nanopub -->
+                     <desc>
+                        The postmark is illegible in the place where the month of dispatch is indicated; the day and the year can be deciphered as "25" and "61", respectively. The letter must have been sent between the months of April and October, when Auden was present in Kirchstetten, where the letter was posted.
+                     </desc>
+                  </interp>
+               </interpGrp>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -61,7 +70,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore-iso="1961-04-25T00:00:00+01:00" notAfter-iso="1961-10-25T23:59:59+01:00">1961-04-25--1961-10-25</origDate>
+                           <origDate notBefore-iso="1961-04-25T00:00:00+01:00" notAfter-iso="1961-10-25T23:59:59+01:00" ana="#ana_004">1961-04-25--1961-10-25</origDate>
                            <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
                         </origin>
                      </history>
@@ -91,8 +100,8 @@ for any purpose, even commercially.</p>
          <correspContext>
             <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
             <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
-            <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0022.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1961-08-16</ref>
-            <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0021.xml">Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</ref>
+            <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0058.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1961-10-01--1965-08-15</ref>
+            <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0022.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1961-08-16</ref>
          </correspContext>
          </correspDesc>
       </profileDesc>
@@ -104,6 +113,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-05-10">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated</change>
          <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-11-15">entities updated, interpGrp added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
