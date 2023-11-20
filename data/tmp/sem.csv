@@ -13,4 +13,4 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0025,edition_title,"life and office dates Lustkandl",amp_event_id_17,,translation,"create Wikidata item for Lustkandl",revision_desc
 0001,edition_title,"link Kassner Symposium to Austrian Society for Literature",amp_event_id_69,"""be in Vienna this coming week ..."" (ana_006, ph_006)",translation,,revision_desc
 0002,edition_title,"TODO: mark up intertextuality with doc 0038",amp_event_id_70,"reference to previous letter by Musulin (ana_007, ph_007); TODO: comment needs to link to doc 0062",translation,"add Ford Foundation stay to Auden en and de articles",revision_desc
-0038,edition_title,"TODO: mark up intertextuality with doc 0002"
+0038,edition_title,"TODO: mark up intertextuality with doc 0002",,"TODO: comment on Gemeindepflicht",translation,,revision_desc
