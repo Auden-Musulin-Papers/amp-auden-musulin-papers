@@ -125,7 +125,7 @@ for any purpose, even commercially.</p>
          <div type="transcription" xml:id="transcription_amp_0022">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0117/" type="envelope"/>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Mu<unclear><del>s</del></unclear>silin</rs><lb/>
                   <address>
@@ -138,9 +138,9 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
                   <seg hand="#printed">
                      <address>
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                         HINTERHOLZ 6<lb/>
-                        N.-Ö., AUSTRIA</rs>
+                        <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                      </address>
                   </seg>
                </ab>
@@ -154,9 +154,9 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                                  HINTERHOLZ 6<lb/>
-                                 N.-Ö., AUSTRIA</rs>
+                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>
@@ -166,7 +166,7 @@ for any purpose, even commercially.</p>
                   <p>
                      Del<unclear>i</unclear>ghted to hear yo<del><gap reason="deleted"/></del><unclear>u</unclear> are<lb/>
                      <rs type="place" ref="#amp_place_id_10">back</rs> and would love to see you<lb/>
-                     anytime<unclear>:</unclear> Are you living in <rs type="place" ref="#amp_place_id_1">Wien</rs> or<lb/>
+                     anytime<unclear>:</unclear> Are you living in <rs type="place" ref="#amp_place_id_1"><foreign xml:lang="de">Wien</foreign></rs> or<lb/>
                      in <rs type="place" ref="#amp_place_id_8">Obergrabendorf</rs>.?
                   </p>
                   <p>

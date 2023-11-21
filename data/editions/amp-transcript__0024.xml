@@ -125,7 +125,7 @@ for any purpose, even commercially.</p>
          <div type="transcription" xml:id="transcription_amp_0024">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0125/" type="envelope"/>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musuli<unclear>m</unclear></rs><lb/>
                   <address>
@@ -138,9 +138,9 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">W<unclear>.H</unclear> Auden</rs><lb/>
                   <seg hand="#printed">
                      <address>
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                         HINTERHOLZ 6<lb/>
-                        N.-Ö., AUSTRIA</rs>
+                        <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                      </address>
                   </seg>   
                </ab>
@@ -150,13 +150,13 @@ for any purpose, even commercially.</p>
                <div type="letter_message">
                <opener>
                   <dateline>
-                     <date rend="#block">Dienstag.</date>
+                     <date rend="#block" xml:lang="de">Dienstag.</date>
                      <placeName> 
                         <seg hand="#printed">
                            <address>
-                              <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                              <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                               HINTERHOLZ 6<lb/>
-                              N.-Ö., AUSTRIA</rs>
+                              <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                            </address>
                         </seg>   
                      </placeName>

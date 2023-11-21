@@ -125,7 +125,7 @@ for any purpose, even commercially.</p>
          <div type="transcription" xml:id="transcription_amp_0045">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0109/" type="envelope"/>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_1">W. H<unclear>.</unclear> Auden</rs><lb/>
                   <address>  
                      <rs type="place" ref="#amp_place_id_2">Kirchstetten (West Bah<unclear>n</unclear>)<lb/>
@@ -133,7 +133,7 @@ for any purpose, even commercially.</p>
                      N.O.</rs>
                   </address>
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella M<unclear>us</unclear>ulin</rs><lb/>
                   <address>

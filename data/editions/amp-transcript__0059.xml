@@ -122,7 +122,7 @@ for any purpose, even commercially.</p>
                <ab>
                   <gap reason="illegible"/>
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baro<unclear>n</unclear>in Stell<unclear>a</unclear> Mus<unclear>so</unclear>lin</rs><lb/>
                   <address> 
                      <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
@@ -134,9 +134,9 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear> Auden</rs>
                   <seg hand="#printed">
                      <address>
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                         HINTERHOLZ 6<lb/>
-                        N.-Ö., AUSTRIA</rs>
+                        <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                      </address>
                   </seg>   
                </ab>
@@ -150,9 +150,9 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                                  HINTERHOLZ 6<lb/>
-                                 N.-Ö., AUSTRIA</rs>
+                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>

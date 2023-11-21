@@ -26,7 +26,7 @@
                <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23</title>
                <interpGrp>
                   <interp xml:id="ana_007" source="ph_007"><!-- link to nanopub -->
-                     <desc>In her memoirs ("Auden in Kirchstetten" 210, <rs type="file" ref="#amp-transcript__0062.xml">"The Years in Austria"</rs> 14), Stella Musulin refers to her own previous letter to Berlin, in which she had mentioned <rs type="person" ref="#amp_person_70">Brian Bunting</rs>'s non-fiction book <rs type="lit_work" ref="#lit_work_id_72">The Rise of the South African Reich</rs> in relation to the issue of torture.</desc>
+                     <desc>In her memoirs ("Auden in Kirchstetten" 210, <ref target="https://hdl.handle.net/21.11115/0000-000F-7452-2">"The Years in Austria"</ref> 14), Stella Musulin refers to her own previous letter to Berlin, in which she had mentioned <rs type="person" ref="#amp_person_70">Brian Bunting</rs>'s non-fiction book <rs type="lit_work" ref="#lit_work_id_72">The Rise of the South African Reich</rs> in relation to the issue of torture.</desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
                      <certainty cert="high" locus="value"></certainty>
                   </interp>
@@ -139,7 +139,7 @@ for any purpose, even commercially.</p>
    <text type="letter" hand="#handwritten">
       <body>
          <div type="transcription" xml:id="transcription_amp_0002">
-            <div type="envelope">
+            <div type="envelope" xml:lang="de">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0007/" type="envelope"/>
                <ab>
                   <hi rend="underline">mit Luft Post</hi>
@@ -191,11 +191,11 @@ for any purpose, even commercially.</p>
                   </opener>
                   <p>
                      <rs type="event" ref="#amp_event_id_70" ana="#ana_007">It <hi rend="underline">was</hi> sweet of you to think of me at<lb/>
-                     Christmas</rs> ,especially since it's a little einsam here.<lb/>
+                     Christmas</rs> ,especially since it's a little <foreign xml:lang="de">einsam</foreign> here.<lb/>
                      Am beginning to know some local inhabitants. Oddly enough,<lb/>
-                     the ones I can talk to most easily ar from <rs type="place" ref="#amp_place_id_21"><unclear>O</unclear>st-Berlin</rs><unclear>,</unclear><lb/>
-                     The most awful thi<unclear>ng</unclear> about the Bifk<unclear>e</unclear>s is that<lb/>
-                     they are so much nicer under a little <hi rend="underline">Druck</hi>.<lb/>
+                     the ones I can talk to most easily ar from <rs type="place" ref="#amp_place_id_21"><foreign xml:lang="de"><unclear>O</unclear>st-Berlin</foreign></rs><unclear>,</unclear><lb/>
+                     The most awful thi<unclear>ng</unclear> about the <foreign xml:lang="de">Bifk<unclear>e</unclear>s</foreign> is that<lb/>
+                     they are so much nicer under a little <hi rend="underline"><foreign xml:lang="de">Druck</foreign></hi>.<lb/>
                      When they feel their oats they are so apt to become<lb/>
                      uppish.
                   </p>

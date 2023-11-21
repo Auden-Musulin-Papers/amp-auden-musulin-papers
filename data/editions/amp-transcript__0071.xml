@@ -124,7 +124,7 @@ for any purpose, even commercially.</p>
                <div type="letter_message">
                   <opener>
                      <dateline>
-                        <placeName>
+                        <placeName xml:lang="de">
                            <seg hand="#printed">
                               <address>
                                  <rs type="place" ref="#amp_place_id_7">A-3200 Fridau<lb/> 

@@ -136,7 +136,7 @@ for any purpose, even commercially.</p>
             <div type="letter"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0107/" type="sheet"/>
                <div> 
-                  <ab>
+                  <ab xml:lang="de">
                      K<unclear>ö</unclear>nnen Sie Mittwoch<lb/>
                      <unclear>a</unclear>ns<unclear>t</unclear>att Donnerstag zum Abend<unclear>e</unclear>ssen kommen<lb/>
                   </ab>
@@ -150,13 +150,13 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                                  HINTERHOLZ 6<lb/>
-                                 N.-Ö., AUSTRIA</rs>
+                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>
-                        <date rend="#block">
+                        <date rend="#block" xml:lang="de">
                            <unclear>S</unclear>onntag.
                         </date>
                      </dateline>

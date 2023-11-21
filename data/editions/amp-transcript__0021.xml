@@ -125,7 +125,7 @@ for any purpose, even commercially.</p>
          <div type="transcription" xml:id="transcription_amp_0021">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/" type="envelope"/>
-               <ab hand="#handwritten">
+               <ab hand="#handwritten" xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baroni<unclear>n</unclear><lb/>
                   Stella von Mussolin</rs><lb/>
                   <address>
@@ -140,9 +140,9 @@ for any purpose, even commercially.</p>
                   </seg>
                   <seg hand="#printed">
                      <address>
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                         HINTERHOLZ 6<lb/>
-                        N.-Ö., AUSTRIA</rs>
+                        <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                      </address>
                   </seg>   
                </ab>
@@ -155,9 +155,9 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                                  HINTERHOLZ 6<lb/>
-                                 N.-Ö., AUSTRIA</rs>
+                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>
@@ -171,7 +171,7 @@ for any purpose, even commercially.</p>
                   </p>
                   <p>   
                      <space quantity="6" unit="char"/>So far as I know,any week-day which suits you<lb/>
-                     <space quantity="4" unit="char"/>and <rs type="person" ref="#amp_person_59">Herr Fritsch</rs> would be O.K.for us,so just<lb/>
+                     <space quantity="4" unit="char"/>and <rs type="person" ref="#amp_person_59"><foreign xml:lang="de">Herr</foreign> Fritsch</rs> would be O.K.for us,so just<lb/>
                      <space quantity="5" unit="char"/>drop us a p.c.when you fix the day.
                   </p>
                   <closer>

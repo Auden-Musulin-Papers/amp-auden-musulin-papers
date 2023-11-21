@@ -29,6 +29,8 @@
                      <desc>
                         The postmark is illegible in the place where the month of dispatch is indicated; the day and the year can be deciphered as "25" and "61", respectively. The letter must have been sent between the months of April and October, when Auden was present in Kirchstetten, where the letter was posted.
                      </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
+                     <certainty cert="high" locus="value"></certainty>
                   </interp>
                </interpGrp>
             </edition>
@@ -129,7 +131,7 @@ for any purpose, even commercially.</p>
          <div type="transcription" xml:id="transcription_amp_0057">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0105/" type="envelope"/>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Mussolin</rs><lb/>
                   <address>
@@ -137,7 +139,7 @@ for any purpose, even commercially.</p>
                      <del>Neulinggasse 26</del></rs>
                   </address>
                </ab>
-               <ab hand="#handwritten">
+               <ab hand="#handwritten" xml:lang="de">
                   <address>
                      <rs type="place" ref="#amp_place_id_7">FRIDAU<lb/>
                      OBERGRAFENDORF<lb/>
@@ -150,9 +152,9 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs>
                   <seg hand="#printed">
                      <address>
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                         HINTERHOLZ 6<lb/>
-                        N.-Ö., AUSTRIA</rs>
+                        <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                      </address>
                   </seg>
                </ab>

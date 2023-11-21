@@ -138,7 +138,7 @@ for any purpose, even commercially.</p>
          <div type="transcription" xml:id="transcription_amp_0070">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0465/" type="envelope"/>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
                   <address>
                      <rs type="place" ref="#amp_place_id_2">Kirchst<del>t</del>etten (West Bahn)<lb/> 
@@ -146,7 +146,7 @@ for any purpose, even commercially.</p>
                      N.O.</rs>
                   </address>
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <space quantity="21" unit="char"/>Die <rs type="person" ref="#amp_person_2">Baronin Stella Musulin</rs><lb/>
                   <address>
                      <space quantity="24" unit="char"/><rs type="place" ref="#amp_place_id_303">bei Windisch-<del>frcty</del> fracty<lb/><!-- research person (Eva Windisch-Graez) -->
@@ -160,7 +160,7 @@ for any purpose, even commercially.</p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0467/" type="sheet"/>
                <div type="letter_message">
                   <opener>
-                     <dateline>
+                     <dateline xml:lang="de">
                         <placeName>
                            <address>
                               <rs type="place" ref="#amp_place_id_2">Kirchstetten(West Bah<del>h</del>n)<lb/> 

@@ -125,7 +125,7 @@ for any purpose, even commercially.</p>
          <div type="transcription" xml:id="transcription_amp_0023">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0121/" type="envelope"/>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Mus<del><gap reason="deleted"/></del><unclear>s</unclear>ulin</rs><lb/>
                   <address> 
@@ -139,9 +139,9 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
                <seg hand="#printed">
                   <address> 
-                     <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                     <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                      HINTERHOLZ 6<lb/>
-                     N.-Ö., AUSTRIA</rs>
+                     <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                   </address>
                </seg>    
             </ab>
@@ -155,9 +155,9 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                                  HINTERHOLZ 6<lb/>
-                                 N.-Ö., AUSTRIA</rs>
+                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>
