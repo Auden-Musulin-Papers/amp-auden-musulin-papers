@@ -139,7 +139,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0002">
+         <div type="transcription" xml:id="transcription_amp_0002" xml:lang="en">
             <div type="envelope" xml:lang="de">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0007/" type="envelope"/>
                <ab>

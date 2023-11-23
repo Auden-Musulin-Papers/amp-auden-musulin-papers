@@ -151,7 +151,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0038">
+         <div type="transcription" xml:id="transcription_amp_0038" xml:lang="en">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0011/" type="envelope"/>
                <ab hand="#handwritten" xml:lang="de">
@@ -262,7 +262,7 @@ for any purpose, even commercially.</p>
                      <lb/><space extent="undefined quantity of characters"/><l>On a pouring wet</l>
                      <lb/><space extent="undefined quantity of characters"/><l>October day in a year</l>
                      <lb/><space extent="undefined quantity of characters"/><l>That changed our Cosmos,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>The annus mirabilis</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>The <foreign xml:lang="la">annus mirabilis</foreign></l>
                      <lb/><space extent="undefined quantity of characters"/><l>When Parity fell.</l>
                   </lg>
                   <lg>

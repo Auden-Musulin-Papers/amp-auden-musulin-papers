@@ -123,7 +123,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0021">
+         <div type="transcription" xml:id="transcription_amp_0021" xml:lang="en">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/" type="envelope"/>
                <ab hand="#handwritten" xml:lang="de">
