@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 13</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1981-11-21" notAfter="1981-11-21">1981-11-21</origDate></origin>
+                        <origin><origDate notBefore-iso="1981-11-21T00:00:00-05:00" notAfter-iso="1981-11-21T23:59:59-05:00">1981-11-21</origDate></origin><!-- winter time https://en.wikipedia.org/wiki/Time_in_Austria check time: https://www.zeitverschiebung.net/en/timezone/america new_york-->
                      </history>
                   </msDesc>
                </witness>

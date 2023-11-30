@@ -60,7 +60,7 @@
                      </msIdentifier>
                      <history>
                         <origin><!-- mark up certainty values -->
-                           <origDate notBefore-iso="1985-11-29T00:00:00+01:00" notAfter-iso="1985-11-29T23:59:59+01:00">1985-11-29</origDate>
+                           <origDate notBefore-iso="1985-11-29T00:00:00+01:00" notAfter-iso="1985-11-29T23:59:59+01:00">1985-11-29</origDate> <!-- winter time https://en.wikipedia.org/wiki/Time_in_Austria -->
                            <origPlace ref="#amp_place_id_10">Austria</origPlace>
                         </origin>
                      </history>
