@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 6</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1972-07-26" notAfter="1972-08-25">1972-07-26--1972-08-25</origDate></origin>
+                        <origin><origDate notBefore-iso="1972-07-26T00:00:00+01:00" notAfter-iso="1972-08-25T23:59:59+01:00">1972-07-26--1972-08-25</origDate></origin> <!-- we assume it's in Austria, no summer time https://austrianpress.com/2023/03/21/daylight-saving-time-starts-on-sunday-march-26-2023/  -->
                      </history>
                   </msDesc>
                </witness>

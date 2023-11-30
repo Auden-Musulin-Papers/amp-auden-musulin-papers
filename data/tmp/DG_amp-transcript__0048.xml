@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 18</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1968-01-01" notAfter="1996-01-21">1968-01-01--1996-01-21</origDate></origin>
+                        <origin><origDate notBefore-iso="1968-01-01T00:00:00+01:00" notAfter-iso="1996-01-21T23:59:59+01:00">1968-01-01--1996-01-21</origDate></origin> <!-- we assume it's Austria -->
                      </history>
                   </msDesc>
                </witness>

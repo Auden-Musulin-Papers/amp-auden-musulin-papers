@@ -60,7 +60,7 @@
                                 <idno>2, 19</idno>
                             </msIdentifier>
                             <history>
-                                <origin><origDate notBefore="1984-08-15" notAfter="1996-01-21">1984-08-15--1996-01-21</origDate></origin>
+                                <origin><origDate notBefore-iso="1984-08-15T00:00:00+02:00" notAfter-iso="1996-01-21T23:59:59+02:00">1984-08-15--1996-01-21</origDate></origin> <!-- summer time https://en.wikipedia.org/wiki/Time_in_the_Republic_of_Ireland https://www.timeanddate.com/time/change/ireland/dublin -->
                             </history>
                         </msDesc>
                     </witness>
