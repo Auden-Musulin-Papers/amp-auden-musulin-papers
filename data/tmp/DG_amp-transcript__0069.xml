@@ -59,7 +59,7 @@
                                 <collection>Musulin private collection</collection>
                             </msIdentifier>
                             <history>
-                                <origin><origDate notBefore="1969-05-28" notAfter="1969-05-28">1969-05-28</origDate></origin>
+                                <origin><origDate notBefore-iso="1969-05-28T00:00:00+01:00" notAfter-iso="1969-05-28T23:59:59+01:00">1969-05-28</origDate></origin> <!-- no summer time -->
                             </history>
                         </msDesc>
                     </witness>
