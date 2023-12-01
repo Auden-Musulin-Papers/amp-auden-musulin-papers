@@ -29,12 +29,12 @@
                      <desc>
                         The Berg Collection of the New York Public Library (W. H. Auden Collection of Papers 1809-1979, Folder 18, 69 ALS, etc. to Elizabeth Mayer) includes a letter sent to <rs type="person" ref="#amp_person_157">Mayer</rs> by <rs type="person" ref="#amp_person_1">Auden</rs> from <rs type="place" ref="#amp_place_id_19">Berlin</rs> on 1 March 1965, which contains an early typescript, with manuscript revisions and notes, of his poem "<rs type="lit_work" ref="#lit_work_id_60">Joseph Weinheber</rs>". In the letter, he asks Mayer for a "literal prose translation into German, stanza by stanza, which I can have mimeographed ..." He intended the copies of this translation to be handed out to the audience of the <rs type="event" ref="#amp_event_id_49">Kirchstetten commemorative event on the occasion of the twentieth anniversary of Josef Weinheber's death</rs>.
                         <listEvent>
-                           <event type="communicative" subtype="letter"><!-- do we need event entity id? -->
+                           <event notBefore-iso="1965-03-01T00:00:00+01:00" notAfter-iso="1965-03-01T23:59:59+01:00" type="communicative" subtype="letter"><!-- do we need event entity id? -->
                               <listPerson>
                                  <person><persName role="sender" ref="#amp_person_1"/></person>
                                  <person><persName role="receiver" ref="#amp_person_157"/></person>
                               </listPerson>
-                              <msDesc>
+                              <bibl>
                                  <msIdentifier>
                                     <country ref="#amp_place_id_15">US</country>
                                     <settlement ref="#amp_place_id_28">New York City</settlement>
@@ -42,7 +42,7 @@
                                     <collection>W. H. Auden collection of papers 1809-1979</collection>
                                     <idno>69 ALS, etc. to Elizabeth Mayer. Folder 18</idno>
                                  </msIdentifier>
-                              </msDesc>
+                              </bibl>
                            </event>
                         </listEvent>
                      </desc>
@@ -134,7 +134,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-28">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-05-11">CVL transcription inserted</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-08-02">container structure updated</change>
-         <change who="dgrigoriou smayer tfruehwirth" when="2023-11-23">entities updated, events created</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-12-01">entities updated, events created, interpGrp added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
