@@ -22,7 +22,25 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Typed Letter Signed W. H. Auden to Stella Musulin 1966-02-03</title>
+               <interpGrp>
+                  <interp xml:id="ana_010" source="ph_010"><!-- link to nanopub -->
+                     <desc>
+                        In his <rs type="lit_work" ref="#lit_work_id_39">W. H. Auden: A Biography</rs>, <rs type="person" ref="#amp_person_100">Humphrey Carpenter</rs> reports that "[i]n about 1968 Auden began to look round for another composer with whom to write an opera" (428). <rs type="person" ref="#amp_person_19">Peter Heyworth</rs> arranged a meeting with composer <rs type="person" ref="#amp_person_234">Harrison Birtwistle</rs>, but nothing came of the intended collaboration. In <rs type="lit_work" ref="#lit_work_id_159">a 2014 interview</rs>, Birtwistle recalls that "[h]e was once approached by WH Auden, who wanted to write an operatic version of <rs type="lit_work" ref="#lit_work_id_6">Love's Labour's Lost</rs> with him", but refused. Auden and <rs type="person" ref="#amp_person_4">Kallman</rs> eventually realized <rs type="lit_work" ref="#lit_work_id_19">the project</rs> in collaboration with <rs type="person" ref="#amp_person_207">Nicolas Nabokov</rs>.
+                        <listPerson>
+                           <person><persName ref="#amp_person_234"/></person>
+                        </listPerson>
+                        <listBibl>
+                           <bibl sameAs="#lit_work_id_39"/>
+                           <bibl sameAs="#lit_work_id_159"/>
+                        </listBibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
+                     <certainty cert="medium" locus="value"></certainty>
+                  </interp>
+               </interpGrp>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -101,6 +119,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-03">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-12-04">entities updated, events created, interpGrp added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -119,7 +138,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0004">
+         <div type="transcription" xml:id="transcription_amp_0004" xml:lang="en">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0019/" type="envelope"/>
                <ab>
@@ -134,14 +153,14 @@ for any purpose, even commercially.</p>
                <ab>
                   <hi rend="underline">Air-Mail</hi>
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   <space quantity="3" unit="char"/>Stella Musulin</rs><lb/>
                   <address>
                      <space quantity="5" unit="char"/><rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                      <space quantity="6" unit="char"/>32<del>o</del>OO Obergrafendorf<lb/>
                      <space quantity="8" unit="char"/>N.<unclear>Ö</unclear>.<lb/>
-                     <space quantity="9" unit="char"/>Austria</rs>
+                     <space quantity="9" unit="char"/><foreign xml:lang="en">Austria</foreign></rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0020/" type="envelope"/>
@@ -167,7 +186,7 @@ for any purpose, even commercially.</p>
                   </salute>
                </opener>
                <p>
-                  <space quantity="7" unit="char"/>Many thanks for your nice long letter. <rs type="person" ref="#amp_person_8">Stephen</rs> has a genius for<lb/>
+                  <space quantity="7" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_76">your nice long letter</rs>. <rs type="person" ref="#amp_person_8">Stephen</rs> has a genius for<lb/>
                   <space quantity="4" unit="char"/>subtle misrepresentation. "Serious insistence on unseriousness'<lb/>
                   <space quantity="4" unit="char"/>telescopes two <del>cnvictuons</del>distinct convictions of mine,falsifying both.
                </p>
@@ -200,16 +219,16 @@ for any purpose, even commercially.</p>
                </p>   
                <p>   
                   <space quantity="2" unit="char"/>So! you encountered the <rs type="person" ref="#amp_person_175">one-whose-name-we-never-mention</rs>. Why <rs type="person" ref="#amp_person_4">Chest<del>r</del>er</rs> should<lb/>
-                  <space quantity="1" unit="char"/>have been so foolish as <space quantity="1" unit="char"/>to invite him to a p<del>e</del>arty,I cannot imagine. If he<lb/>
+                  <space quantity="1" unit="char"/>have been so foolish as <space quantity="1" unit="char"/>to invite him to a <rs type="event" ref="#amp_event_id_38">p<del>e</del>arty</rs>,I cannot imagine. If he<lb/>
                   is to be seen at all,he <del>jy</del>must be seen alone. Incidentally,next time you see<lb/>
-                  <rs type="person" ref="#amp_person_4">Chester</rs>,scold him a) for not writing to me b) for not answering <rs type="person" ref="#amp_person_108">Harrison</rs>'s<lb/>
-                  cable.
+                  <rs type="person" ref="#amp_person_4">Chester</rs>,scold him a) for not writing to me b) for not answering <rs type="event" ref="#amp_event_id_77"><rs type="person" ref="#amp_person_108" ana="#ana_010">Harrison</rs>'s<lb/>
+                  cable</rs>.
                </p>
                <p>   
                   <space quantity="1" unit="char"/>All well here.except for a leaking kit<del>v</del>chen roof. No doubt you read about<lb/>
                   our <rs type="event" ref="#amp_event_id_4">Black-Out</rs> and <rs type="event" ref="#amp_event_id_5">Transit Strike</rs>.(My typewriter is on the blink,hence the<lb/>
-                  hiatuses.) <space quantity="1" unit="char"/>A <rs type="person" ref="#amp_person_174"><del>firen</del> friend of mine who teaches schyzophrenics</rs>,has a seventeen<lb/>
-                  year old girl who is interested in poetry. Asked what poets she liked,she<lb/>
+                  hiatuses.) <space quantity="1" unit="char"/>A <rs type="person" ref="#amp_person_174"><del>firen</del> friend of mine who teaches schyzophrenics</rs>,has <rs type="person" ref="#amp_person_233">a seventeen<lb/>
+                  year old girl</rs> who is interested in poetry. Asked what poets she liked,she<lb/>
                   mentioned me. "<del>i</del>I happen to know him quite well",said <rs type="person" ref="#amp_person_174">my friend</rs>. To which the<lb/>
                   girl in astonishment:"You mean to say,he's still <hi rend="underline">alive</hi>!".
                </p>
