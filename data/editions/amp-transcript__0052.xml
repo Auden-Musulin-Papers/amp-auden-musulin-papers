@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Typescript Hilde Spiel Translation W. H. Auden Statement to Austrian Tax Authorities 1972-07-26--1972-08-25</title>
+            <title level="a">Copy Typescript Hilde Spiel Translation W. H. Auden Statement to Austrian Tax Authorities 1972-07-26--1972-08-25</title>
             <author>Spiel, Hilde</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 6</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1972-07-26" notAfter="1972-08-25">1972-07-26--1972-08-25</origDate></origin>
+                        <origin><origDate notBefore-iso="1972-07-26T00:00:00+01:00" notAfter-iso="1972-08-25T23:59:59+01:00">1972-07-26--1972-08-25</origDate></origin>
                      </history>
                   </msDesc>
                </witness>

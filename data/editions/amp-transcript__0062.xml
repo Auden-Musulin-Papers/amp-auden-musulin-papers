@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Typed Memoir Stella Musulin "The Years in Austria" 1976-09-04--1980-12-01</title>
+            <title level="a">Typescript Memoir Stella Musulin "The Years in Austria" 1976-09-04--1980-12-01</title>
             <author>Musulin, Stella</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -61,7 +61,7 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore="1976-09-04" notAfter="1980-12-01">1976-09-04--1980-12-01</origDate>
+                           <origDate notBefore-iso="1976-09-04T00:00:00+01:00" notAfter-iso="1980-12-01T23:59:59+01:00">1976-09-04--1980-12-01</origDate>
                         </origin>
                      </history>
                   </msDesc>
