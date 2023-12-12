@@ -73,6 +73,8 @@
                               <item>italics to represent originally underlined text</item>
                               <item>indications of undecipherable characters (if not deleted)</item>
                               <item>facsimiles displayed through a plugin viewer, with controls to adjust image size</item>
+                              <!-- detailed view of metadata -->
+                              <!-- correspondence metadata --> 
                            </list>
                         </item>                          
                      </list>
@@ -82,10 +84,11 @@
                            <list rend="bulleted">
                               <item>original text features: deletions, underlines, additional typographic whitespace</item>
                               <item>indications of unclear characters, which cannot be transcribed with certainty</item>
-                              <item>labeling of entities (persons, places, institutions, works, events)</item>
+                              <item>labeling of entities (persons, places, institutions, works, events)</item><!-- activating the comment section -->
                               <item>choice of fonts and font sizes</item>
                               <item>full-screen view</item>
                               <item>text-focus view without facsimile</item>
+                              <!-- addition of editorial comments/level of uncertainy/responsibility -->
                            </list>
                         </item>                          
                      </list>
@@ -94,6 +97,7 @@
                   <head>Image Digitization</head>
                   <p>The documents have been reproduced at 600 dpi and 24 bit/RGB through an Image Access WideTEK®25 color flatbed scanner and saved in an uncompressed TIFF format. Selected materials (images 5 and 6 in https://amp.acdh.oeaw.ac.at/amp-transcript__0039.html, images 3 and 4 in https://amp.acdh.oeaw.ac.at/amp-transcript__0040.html) have been digitized at 603.1 dpi and 24 bit by means of a Phase One XF IQ3 100MP medium-format camera with a Schneider Kreuznach 80mm f/2.8 leaf shutter lens. The high-resolution digital reproductions can be accessed via https://id.acdh.oeaw.ac.at/auden-musulin-papers/facs. On the website, images are provided through IIIF.</p>
                   <p>The images of Autograph Letter Signed Stella Musulin to Christine Busta 1962-05-23 have been created by the Literary Archive of the Austrian National Library.</p>
+                  <!-- maybe refer to the image rights? -->
                </div>
                <div>
                   <head>Disclaimer v0.3</head>
@@ -145,7 +149,7 @@
                               <item n="4.2">For non-correspondence documents as well as for telegrams and aerograms, a non-specific container structure is currently used: the transcription of each document is contained within a TEI <![CDATA[<]]>div<![CDATA[>]]> element; each transcription is subdivided by means of <![CDATA[<]]>pb<![CDATA[>]]>, <![CDATA[<]]>p<![CDATA[>]]>, and <![CDATA[<]]>lg<![CDATA[>]]> elements.</item>
                               <item n="4.3">For correspondence documents, excluding telegrams and aerograms, a specific and semantically more detailed TEI-conformant container structure is used. The most important structural elements are the following: <![CDATA[<]]>div type="transcription"<![CDATA[>]]> can contain <![CDATA[<]]>div type="envelope"<![CDATA[>]]> and <![CDATA[<]]>div type="letter"<![CDATA[>]]>; <![CDATA[<]]>div type="letter"<![CDATA[>]]> can include <![CDATA[<]]>div type="letter_message"<![CDATA[>]]> and <![CDATA[<]]>div type="poem"<![CDATA[>]]>; <![CDATA[<]]>div type="letter_message"<![CDATA[>]]> can contain <![CDATA[<]]>opener<![CDATA[>]]> and <![CDATA[<]]>closer<![CDATA[>]]> containers; <![CDATA[<]]>opener<![CDATA[>]]> groups together dateline and salutation information from the start of the correspondence item; <![CDATA[<]]>closer<![CDATA[>]]> groups together salutation and signature information from the end of the correspondence item; <![CDATA[<]]>div type="poem"<![CDATA[>]]> can be further structured through the <![CDATA[<]]>cb<![CDATA[>]]> milestone element and can contain <![CDATA[<]]>head<![CDATA[>]]> and <![CDATA[<]]>lg<![CDATA[>]]> elements; <![CDATA[<]]>lg<![CDATA[>]]> nodes include <![CDATA[<]]>space<![CDATA[>]]> and <![CDATA[<]]>l<![CDATA[>]]> elements.</item>
                               <item n="4.4">The vertical succession of text elements is represented; their horizontal arrangement is disregarded.</item>
-                              <item n="4.5">Line numbers are added to the website display, with separate numbering systems for prose and verse, respectively.</item>
+             <!-- update -->  <item n="4.5">Line numbers are added to the website display, with separate numbering systems for prose and verse, respectively.</item>
                            </list>
                         </item>   
                      </list>
@@ -200,12 +204,16 @@
                            <list rend="numbered">
                               <item n="10.1">All texts pertaining to the photograph documents are transcribed.</item>
                               <item n="10.2">Persons depicted in the photographs or referred to in the accompanying texts are recorded in the <![CDATA[<]]>particDesc<![CDATA[>]]> section of the <![CDATA[<]]>teiHeader<![CDATA[>]]>.</item>
+                              <!-- image rights appear in metadata section -->
                            </list>
                         </item>
                      </list>
                      <list rend="numbered">
                         <item n="11">Extra-textual entities (persons, places, organizations, literary works, and events) are marked up in XML by means of <![CDATA[<]]>rs<![CDATA[>]]> and can optionally be displayed on the website, where they are enriched with additional information and norm-data identifiers.</item>
                      </list>
+                  <!-- list rend="numbered">
+                     <item n="12">Editiorial comments are marked up in XML by means of <![CDATA[<]]>ana<![CDATA[>]]> and can optionally be displayed on the website, where they are enriched with additional information acquired through research and norm-and machine-readable data identifiers.</item>
+                  </list>-->
             </div>
          </div>
       </body>
