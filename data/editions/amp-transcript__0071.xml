@@ -96,8 +96,8 @@ for any purpose, even commercially.</p>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
                <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__21.xml">Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</ref>
-               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__59.xml">Envelope W. H. Auden to Stella Musulin 1962-04-30</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0021.xml">Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0059.xml">Envelope W. H. Auden to Stella Musulin 1962-04-30</ref>
             </correspContext>
          </correspDesc>
       </profileDesc>
