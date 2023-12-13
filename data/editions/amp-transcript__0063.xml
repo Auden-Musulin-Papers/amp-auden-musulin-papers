@@ -68,7 +68,7 @@
                             <history>
                                 <origin>
                                     <origDate notBefore-iso="1962-05-23T00:00:00+01:00" notAfter-iso="1962-05-23T23:59:59+01:00">1962-05-23</origDate>
-                                    <origPlace ana="#ana_003"/>
+                                    <origPlace ana="amp-transcript__0058.xml#ana_003"/>
                                 </origin>
                             </history>
                         </msDesc>
