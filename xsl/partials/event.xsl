@@ -22,14 +22,14 @@
             <event xml:id="{@xml:id}" type="{$eventType}" facs="{//tei:facsimile/tei:surface[1]/tei:graphic/@url}">
                 <head xml:lang="en">
                     <date>                        
-                        <xsl:if test="//tei:origDate/@notBefore">
-                            <xsl:attribute name="notBefore">
-                                <xsl:value-of select="//tei:origDate/@notBefore"/>
+                        <xsl:if test="//tei:origDate/@notBefore-iso">
+                            <xsl:attribute name="notBefore-iso">
+                                <xsl:value-of select="//tei:origDate/@notBefore-iso"/>
                             </xsl:attribute>
                         </xsl:if>   
-                        <xsl:if test="//tei:origDate/@notAfter">
-                            <xsl:attribute name="notAfter">
-                                <xsl:value-of select="//tei:origDate/@notAfter"/>
+                        <xsl:if test="//tei:origDate/@notAfter-iso">
+                            <xsl:attribute name="notAfteriso">
+                                <xsl:value-of select="//tei:origDate/@notAfter-iso"/>
                             </xsl:attribute>
                         </xsl:if> 
                         <xsl:if test="//tei:origDate/@when-iso">
@@ -39,33 +39,7 @@
                             <xsl:attribute name="notAfter">
                                 <xsl:value-of select="//tei:origDate/@when-iso"/>
                             </xsl:attribute>
-                        </xsl:if> 
-                            <!--<xsl:when test="not(//tei:origDate/@notBefore)">     
-                                <xsl:variable name="date" select="translate(translate(//tei:origDate, '[' ,''), ']', '')"/>
-                                <xsl:choose>
-                                    <xsl:when test="string-length($date) = 4">
-                                        <xsl:attribute name="when-iso">
-                                            <xsl:value-of select="concat(subsequence($date, 1, 4), '-01-01')"/>
-                                        </xsl:attribute>
-                                    </xsl:when>
-                                    <xsl:when test="string-length($date) = 7">
-                                        <xsl:attribute name="when-iso">
-                                            <xsl:value-of select="concat(subsequence($date, 1, 4), '-01')"/>
-                                        </xsl:attribute>
-                                    </xsl:when>
-                                    <xsl:when test="string-length($date) = 9">
-                                        <xsl:attribute name="when-iso">
-                                            <xsl:value-of select="replace($date, '\?', '01')"/>
-                                        </xsl:attribute>
-                                    </xsl:when>  
-                                    <xsl:otherwise>
-                                        <xsl:attribute name="when-iso">
-                                            <xsl:value-of select="$date"/>
-                                        </xsl:attribute>
-                                    </xsl:otherwise>
-                                </xsl:choose>                                                            
-                            </xsl:when>-->
-                                                                
+                        </xsl:if>                                         
                         <xsl:value-of select="//tei:origDate"/>
                     </date>
                 </head>

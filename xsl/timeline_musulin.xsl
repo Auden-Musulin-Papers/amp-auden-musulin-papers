@@ -21,7 +21,7 @@
                         <author>
                             <name>Mayer, Sandra</name>
                             <name>Frühwirth, Timo</name>
-                            <name>Stoxreiter, Daniel</name>
+                            <name>Elsner, Daniel</name>
                         </author>
                         <funder>
                             <name>FWF Austrian Science Fund</name>
@@ -91,23 +91,15 @@
     <xsl:template name="event">
         <xsl:for-each select="collection('../data/editions')//tei:TEI">
             <xsl:choose>
-                <xsl:when test="substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0048']">
+                <xsl:when test="substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0048','0050', '0054', '0055', '0064', '0065', '0066' ,'0067', '0068', '0069', '0072', '0073', '0074','0075']">
                     <xsl:call-template name="event-el">
                         <xsl:with-param name="eventType" select="'photos'"/>
                     </xsl:call-template>
                 </xsl:when>
-                <xsl:when test="substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0028']">
-                    <xsl:call-template name="event-el">
-                        <xsl:with-param name="eventType" select="'memoirs'"/>
-                    </xsl:call-template>
-                </xsl:when>
-                <xsl:when test="substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0049', '0052', '0029', '0047', '0046', '0034', '0027', '0036', '0033', '0030', '0053', '0037', '0051', '0031', '0060', '0061']">
-                    <xsl:call-template name="event-el">
-                        <xsl:with-param name="eventType" select="'additional-materials'"/>
-                    </xsl:call-template>
-                </xsl:when>
                 <xsl:otherwise>
-                    
+                    <xsl:call-template name="event-el">
+                        <xsl:with-param name="eventType" select="'correspondence'"/>
+                    </xsl:call-template>
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:for-each>     

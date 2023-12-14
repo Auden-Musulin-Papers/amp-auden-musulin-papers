@@ -54,14 +54,6 @@
                         <xsl:text>dgrigoriou</xsl:text>
                     </xsl:attribute>
                 </xsl:when>
-                <xsl:when test="text() = 'Brenner, Simon'">
-                    <xsl:attribute name="ref">
-                        <xsl:text>https://orcid.org/0000-0001-6909-7099</xsl:text>
-                    </xsl:attribute>
-                    <xsl:attribute name="xml:id">
-                        <xsl:text>sbrenner</xsl:text>
-                    </xsl:attribute>
-                </xsl:when>
             </xsl:choose>
             <xsl:apply-templates/>
         </xsl:copy>

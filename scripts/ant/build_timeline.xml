@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="../.." name="tei2html">
+   <xslt in="${basedir}/data/meta/about.xml" out="${basedir}/data/tmp/amp-timeline__0001.xml" style="${basedir}/xsl/timeline.xsl">
+      <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+      <classpath location="${basedir}/saxon/saxon9he.jar"/>
+   </xslt>
+   <xslt in="${basedir}/data/meta/about.xml" out="${basedir}/data/tmp/amp-timeline__0002.xml" style="${basedir}/xsl/timeline_musulin.xsl">
+      <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+      <classpath location="${basedir}/saxon/saxon9he.jar"/>
+   </xslt>
+   <xslt in="${basedir}/data/tmp/amp-timeline__0001.xml" out="${basedir}/data/meta/amp-timeline__0001.xml" style="${basedir}/xsl/timeline-sort.xsl">
+      <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+      <classpath location="${basedir}/saxon/saxon9he.jar"/>
+   </xslt>
+   <xslt in="${basedir}/data/tmp/amp-timeline__0002.xml" out="${basedir}/data/meta/amp-timeline__0002.xml" style="${basedir}/xsl/timeline-sort.xsl">
+      <factory name="net.sf.saxon.TransformerFactoryImpl"/>
+      <classpath location="${basedir}/saxon/saxon9he.jar"/>
+   </xslt>
+</project>
