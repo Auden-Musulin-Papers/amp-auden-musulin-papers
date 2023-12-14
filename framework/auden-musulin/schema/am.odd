@@ -508,7 +508,15 @@
           </elementSpec>
           
           <!-- element p -->
-          <elementSpec ident="p" module="core" mode="change"/>
+          <elementSpec ident="p" module="core" mode="change">
+            <attList>
+              <attDef ident="prev" mode="change" usage="opt">
+                <valList type="closed" mode="replace">
+                  <valItem ident="true"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
           
           <!-- element pb -->
           <elementSpec ident="pb" module="core" mode="change">
