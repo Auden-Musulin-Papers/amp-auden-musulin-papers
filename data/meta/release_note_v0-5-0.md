@@ -28,7 +28,8 @@ For three image items, additional licensing information is now encoded in the `<
 
 ### 1.4 ODD
 
-The first draft was completely revised and updated to comply with the new Correspondence container structure. Node attribute restrictions including Schematron rules were added. Schematron rules and constraints now dictate node nesting in some scenarios. Opener and Closer elements for example require their nested nodes to be in a specific sequence.
+The first draft was completely revised and updated to comply with the new correspondence container structure. Node attribute restrictions including Schematron rules were added. Schematron rules and constraints now dictate node nesting in some scenarios. For example, `<opener>` and `<closer>` elements require their nested nodes to be in a specific sequence.
+
 Overall, the new ODD provides better support for editors.
 
 ## 2 Web Application Features
