@@ -26,6 +26,11 @@ Information on languages used in the transcribed texts is encoded by means of th
 
 For three image items, additional licensing information is now encoded in the `<teiHeader>` metadata. In two instances (https://amp.acdh.oeaw.ac.at/amp-transcript__0036.html, https://amp.acdh.oeaw.ac.at/amp-transcript__0037.html), the permissions given by institutions to publish under a CC BY 4.0 licence have been specified; in another instance (https://amp.acdh.oeaw.ac.at/amp-transcript__0050.html), a restricted reuse license has been declared.
 
+### 1.4 ODD
+
+The first draft was completely revised and updated to comply with the new Correspondence container structure. Node attribute restrictions including Schematron rules were added. Schematron rules and constraints now dictate node nesting in some scenarios. Opener and Closer elements for example require their nested nodes to be in a specific sequence.
+Overall, the new ODD provides better support for editors.
+
 ## 2 Web Application Features
 
 ### 2.1 Updated Start Page
