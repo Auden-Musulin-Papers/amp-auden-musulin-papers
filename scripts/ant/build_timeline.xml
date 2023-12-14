@@ -8,11 +8,11 @@
       <factory name="net.sf.saxon.TransformerFactoryImpl"/>
       <classpath location="${basedir}/saxon/saxon9he.jar"/>
    </xslt>
-   <xslt in="${basedir}/data/tmp/amp-timeline__0001.xml" out="${basedir}/data/meta/amp-timeline__0001.xml" style="${basedir}/xsl/timeline-sort.xsl">
+   <xslt in="${basedir}/data/tmp/amp-timeline__0001.xml" out="${basedir}/data/meta/auden-biography.xml" style="${basedir}/xsl/timeline-sort.xsl">
       <factory name="net.sf.saxon.TransformerFactoryImpl"/>
       <classpath location="${basedir}/saxon/saxon9he.jar"/>
    </xslt>
-   <xslt in="${basedir}/data/tmp/amp-timeline__0002.xml" out="${basedir}/data/meta/amp-timeline__0002.xml" style="${basedir}/xsl/timeline-sort.xsl">
+   <xslt in="${basedir}/data/tmp/amp-timeline__0002.xml" out="${basedir}/data/meta/musulin-biography.xml" style="${basedir}/xsl/timeline-sort.xsl">
       <factory name="net.sf.saxon.TransformerFactoryImpl"/>
       <classpath location="${basedir}/saxon/saxon9he.jar"/>
    </xslt>
