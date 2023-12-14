@@ -60,7 +60,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 8</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1968-02-13" notAfter="1968-02-14">1968-02-13--1968-02-14</origDate></origin>
+                        <origin><origDate notBefore-iso="1968-02-13T00:00:00+01:00" notAfter-iso="1968-02-14T23:59:59+01:00">1968-02-13--1968-02-14</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -104,7 +104,7 @@ for any purpose, even commercially.</p>
                   13th' Feb.19<unclear>6</unclear>8 .
                </p>
                <p>
-                  <unclear>T</unclear>alk of awful impasse in <rs type="event" ref="#amp_place_id_47">Vietnam<lb/>
+                  <unclear>T</unclear>alk of awful impasse in <rs type="event" ref="#amp_event_id_47">Vietnam<lb/>
                   War</rs>; <rs type="person" ref="#amp_person_1">W.</rs> <unclear>so</unclear> afraid of use of nuclear<lb/>
                   weapons that he can hardly <unclear>b</unclear>ear to<lb/>
                   read or listen to the news <unclear>,</unclear> Feels US<lb/>

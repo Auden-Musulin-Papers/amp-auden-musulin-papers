@@ -60,7 +60,7 @@
                                 <idno>2, 7</idno>
                             </msIdentifier>
                             <history>
-                                <origin><origDate notBefore="1985-11-29" notAfter="1990-03-28">1985-11-29--1990-03-28</origDate></origin>
+                                <origin><origDate notBefore-iso="1985-11-29T00:00:00+01:00" notAfter-iso="1990-03-28T23:59:59+02:00">1985-11-29--1990-03-28</origDate></origin>
                             </history>
                         </msDesc>
                     </witness>
@@ -101,8 +101,8 @@
                     (see p<unclear>.</unclear> 16-17)
                 </p>
                 <p>
-                    <hi rend="underline"><unclear>R. 2</unclear> Line <del><gap reason="deleted"/></del>7</hi> <del>Would</del> '<rs type="person" ref="#amp_person_4" xml:id="chka">Chester</rs>'. Would it <unclear>be</unclear> helpful <unclear>a</unclear>t this<lb/>
-                    ✓<unclear>f</unclear>irst mention of <rs type="person" ref="#amp_person_4" subtype="reference" ana="#chka">him</rs> to add the sur<unclear>n</unclear>ame , i.e.<lb/>
+                    <hi rend="underline"><unclear>R. 2</unclear> Line <del><gap reason="deleted"/></del>7</hi> <del>Would</del> '<rs type="person" ref="#amp_person_4">Chester</rs>'. Would it <unclear>be</unclear> helpful <unclear>a</unclear>t this<lb/>
+                    ✓<unclear>f</unclear>irst mention of <rs type="person" ref="#amp_person_4">him</rs> to add the sur<unclear>n</unclear>ame , i.e.<lb/>
                     '<rs type="person" ref="#amp_person_4">Chester Kallman</rs>'. ?
                 </p>
                 <p>

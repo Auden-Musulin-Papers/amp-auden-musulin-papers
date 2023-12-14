@@ -22,7 +22,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1967-11-08</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -101,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-03">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-12-07">entities updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -119,7 +122,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0005">
+         <div type="transcription" xml:id="transcription_amp_0005" xml:lang="en">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0023/" type="envelope"/>
                <ab>
@@ -137,13 +140,13 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="event" ref="#amp_event_id_1">Death of<rs type="person" ref="#amp_person_16">Emma Eiermann</rs></rs> .
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <address>
                      <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
                      <del><gap reason="deleted"/></del> Neulingasse 26<lb/>
-                     Au<hi rend="underline">st</hi>ria</rs>
+                     <foreign xml:lang="en">Au<hi rend="underline">st</hi>ria</foreign></rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0024/" type="envelope"/>
@@ -167,7 +170,7 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                <p>
-                  A disaster has ha<unclear>p</unclear>pened. <rs type="event" ref="#amp_event_id_1"><rs type="person" ref="#amp_person_16">Frau Eiermann</rs><lb/>
+                  A disaster has ha<unclear>p</unclear>pened. <rs type="event" ref="#amp_event_id_1"><rs type="person" ref="#amp_person_16"><foreign xml:lang="de">Frau</foreign> Eiermann</rs><lb/>
                   died of a heart-attack on Nov 4th</rs>.<lb/>
                   (Ha<unclear>v</unclear> just hea<unclear>r</unclear>d this from <rs type="person" ref="#amp_person_14">my lawyer</rs>.)<unclear>.</unclear>
                </p>
@@ -178,10 +181,10 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   Next time you are travelling between <rs type="place" ref="#amp_place_id_7">Fridau</rs><lb/>
-                  and <rs type="place" ref="#amp_place_id_1">Wien</rs> , could you be a dear and stop<lb/>
+                  and <rs type="place" ref="#amp_place_id_1"><foreign xml:lang="de">Wien</foreign></rs> , could you be a dear and stop<lb/>
                   in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> to see what is happening.<lb/>
                   Incedentally, in case you should need it my lawyers<lb/>
-                  name and address is <rs type="person" ref="#amp_person_14">Dr Walter Redlich</rs>. <rs type="place" ref="#amp_place_id_38">Wien I.<lb/>
+                  name and address is <rs type="person" ref="#amp_person_14">Dr Walter Redlich</rs>. <rs type="place" ref="#amp_place_id_38"><foreign xml:lang="de">Wien</foreign> I.<lb/>
                   Wipplingerstrasse<unclear>,</unclear> 24-26</rs>.
                </p>
                <p>   

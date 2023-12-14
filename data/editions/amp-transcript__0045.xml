@@ -8,6 +8,7 @@
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </editor>
             <funder>
                <name>FWF Austrian Science Fund</name>
@@ -22,7 +23,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1960-07-21</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -101,6 +104,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-04-06">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-28">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-11-15">entities updated, internal events created</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -119,10 +123,10 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0045">
+         <div type="transcription" xml:id="transcription_amp_0045" xml:lang="en">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0109/" type="envelope"/>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_1">W. H<unclear>.</unclear> Auden</rs><lb/>
                   <address>  
                      <rs type="place" ref="#amp_place_id_2">Kirchstetten (West Bah<unclear>n</unclear>)<lb/>
@@ -130,7 +134,7 @@ for any purpose, even commercially.</p>
                      N.O.</rs>
                   </address>
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella M<unclear>us</unclear>ulin</rs><lb/>
                   <address>
@@ -161,9 +165,9 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Baroness Musulin</rs>:</salute>
                   </opener>
                   <p>
-                     Delighted to get your ca<unclear>rd</unclear>. <rs type="person" ref="#amp_person_1 #amp_person_4">We</rs><lb/>
-                     shall look forw<unclear>a</unclear>rd to seeing you<lb/>
-                     on Saturday aftern<unclear>o</unclear>on.
+                     Delighted to <rs type="event" ref="#amp_event_id_62">get your ca<unclear>rd</unclear></rs>. <rs type="person" ref="#amp_person_1 #amp_person_4">We</rs><lb/>
+                     shall look forw<unclear>a</unclear>rd to <rs type="event" ref="#amp_event_id_63">seeing you<lb/>
+                     on Saturday aftern<unclear>o</unclear>on</rs>.
                   </p>
                   <p>
                      We have a gramophone now <hi rend="underline">and</hi> a<lb/>

@@ -3,11 +3,12 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1960-07-22--1965-09-28</title>
+            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1961-10-01--1965-08-15</title>
             <author>Auden, W. H.</author>
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </editor>
             <funder>
                <name>FWF Austrian Science Fund</name>
@@ -22,7 +23,29 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1961-10-01--1965-08-15</title>
+               <interpGrp>
+                  <interp xml:id="ana_002" source="ph_002"><!-- link to nanopub -->    
+                     <desc>
+                        The date of creation has been delimited based on considerations related to material aspects, Auden's salutatory practice, and letter contents. As suggested by the documents in our collection, Auden would use his off-white Kirchstetten stationery from at least September 1965 onward; the last extant message in the AMP collection that is written on the bluish grey letter paper, used in this document, dates from 12 May 1963. Furthermore, whereas, in his letter from 21 July 1960, Auden addresses Stella Musulin as "Dear Baroness Musulin", he would call her by her first name from at least August 1961 onward. The specific range provided for the date of creation results from investigation into the date of writing as indicated in Auden's message ("Sonntag") in relation to the date of a proposed meeting mentioned in Auden's message: 1 October 1961 is the date of the Sunday that precedes the first "Thursday (19th)" during Auden's residence at Kirchstetten after July 1960; 15 August 1965 is the date of the Sunday that precedes the last "Thursday (19th)" during Auden's stay in his Austrian home before September 1965.
+                     </desc>
+                     <respons locus="value" resp="#tfruehwirth #smayer"/>
+                     <certainty locus="value" cert="high"/>
+                  </interp>
+                  <interp xml:id="ana_003" source="ph_003"><!-- link to nanopub -->
+                     <desc>
+                        In this period of time, Stella Musulin lived either at <rs type="place" ref="#amp_place_id_7">Schloss Fridau</rs> in Ober-Grafendorf or in <rs type="place" ref="#amp_place_id_11">Neulinggasse 26</rs> in Vienna.
+                        <listPlace type="choice">
+                           <place><placeName ref="#amp_place_id_7"/></place>
+                           <place><placeName ref="#amp_place_id_11"/></place>
+                        </listPlace>
+                     </desc>
+                     <respons locus="value" resp="#tfruehwirth #dgrigoriou #smayer"/>
+                     <certainty locus="value" cert="high"/>
+                  </interp>
+               </interpGrp>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -61,7 +84,9 @@ for any purpose, even commercially.</p>
                      </msIdentifier>
                      <history>
                         <origin>
-                           <origDate notBefore-iso="1960-07-22T00:00:00+01:00" notAfter-iso="1965-09-28T23:59:59+01:00">1960-07-22--1965-09-28</origDate>
+                           <origDate notBefore-iso="1961-10-01T00:00:00+01:00" notAfter-iso="1965-08-15T23:59:59+01:00" ana="#ana_002">
+                              1961-10-01--1965-08-15
+                           </origDate>
                            <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
                         </origin>
                      </history>
@@ -83,7 +108,7 @@ for any purpose, even commercially.</p>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
                <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
                <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0045.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1960-07-21</ref>
-               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0022.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1961-08-16</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0057.xml">Envelope W. H. Auden to Stella Musulin 1961-04-25--1961-10-25</ref>
             </correspContext>
          </correspDesc>
       </profileDesc>
@@ -95,6 +120,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-05-10">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-03-02">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-11-15">entities updated, internal events created, interpGrp added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -107,11 +133,11 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0058">
+         <div type="transcription" xml:id="transcription_amp_0058" xml:lang="en">
             <div type="letter"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0107/" type="sheet"/>
                <div> 
-                  <ab>
+                  <ab xml:lang="de">
                      K<unclear>ö</unclear>nnen Sie Mittwoch<lb/>
                      <unclear>a</unclear>ns<unclear>t</unclear>att Donnerstag zum Abend<unclear>e</unclear>ssen kommen<lb/>
                   </ab>
@@ -125,21 +151,21 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                                  HINTERHOLZ 6<lb/>
-                                 N.-Ö., AUSTRIA</rs>
+                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>
-                        <date rend="#block">
+                        <date rend="#block" xml:lang="de">
                            <unclear>S</unclear>onntag.
                         </date>
                      </dateline>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     Good. Will be at <rs type="place" ref="#amp_place_id_">your place</rs><lb/>
-                     on Thu<unclear>r</unclear>sday (19th) at 6.p.m<unclear>.</unclear>
+                     Good. <rs type="event" ref="#amp_event_id_64">Will be at <rs type="place" ref="#amp_place_id_315" ana="#ana_003">your place</rs><lb/>
+                     on Thu<unclear>r</unclear>sday (19th) at 6.p.m<unclear>.</unclear></rs>
                   </p>
                   <closer>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>

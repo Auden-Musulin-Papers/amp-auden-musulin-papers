@@ -8,6 +8,7 @@
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </editor>
             <funder>
                <name>FWF Austrian Science Fund</name>
@@ -22,7 +23,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -101,6 +104,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-11-16">entities updated, internal events created</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -119,10 +123,10 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0021">
+         <div type="transcription" xml:id="transcription_amp_0021" xml:lang="en">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/" type="envelope"/>
-               <ab hand="#handwritten">
+               <ab hand="#handwritten" xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baroni<unclear>n</unclear><lb/>
                   Stella von Mussolin</rs><lb/>
                   <address>
@@ -137,9 +141,9 @@ for any purpose, even commercially.</p>
                   </seg>
                   <seg hand="#printed">
                      <address>
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                         HINTERHOLZ 6<lb/>
-                        N.-Ö., AUSTRIA</rs>
+                        <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                      </address>
                   </seg>   
                </ab>
@@ -152,9 +156,9 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                                  HINTERHOLZ 6<lb/>
-                                 N.-Ö., AUSTRIA</rs>
+                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>
@@ -163,12 +167,12 @@ for any purpose, even commercially.</p>
                      <salute><space quantity="17" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     <space quantity="9" unit="char"/>Many thanks for your letter. Ac<del>r</del>tually,<rs type="person" ref="#amp_person_1 #amp_person_4">we</rs><lb/>
+                     <space quantity="9" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_65">your letter</rs>. Ac<del>r</del>tually,<rs type="person" ref="#amp_person_1 #amp_person_4">we</rs><lb/>
                      <space quantity="4" unit="char"/>shall be <rs type="place" ref="#amp_place_id_2">here</rs> till the end of October.
                   </p>
                   <p>   
                      <space quantity="6" unit="char"/>So far as I know,any week-day which suits you<lb/>
-                     <space quantity="4" unit="char"/>and <rs type="person" ref="#amp_person_59">Herr Fritsch</rs> would be O.K.for us,so just<lb/>
+                     <space quantity="4" unit="char"/>and <rs type="person" ref="#amp_person_59"><foreign xml:lang="de">Herr</foreign> Fritsch</rs> would be O.K.for us,so just<lb/>
                      <space quantity="5" unit="char"/>drop us a p.c.when you fix the day.
                   </p>
                   <closer>

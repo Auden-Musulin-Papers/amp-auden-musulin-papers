@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Typed Letter Stella Musulin to Bruce Duncan 1985-11-29</title>
+            <title level="a">Copy Typed Letter Stella Musulin to Bruce Duncan 1985-11-29</title>
             <author>Musulin, Stella</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -144,7 +144,9 @@
                      everything about <rs type="person" ref="#amp_person_1">Wystan Auden</rs> was very appetising, his private<lb/>
                      life was a mess. <space quantity="1" unit="char"/>But he was kind, generous and totally<lb/>
                      unpreten<del>s</del>tious, and personally I was devoted to him. <space quantity="1" unit="char"/>It is
+                  </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0222/" type="sheet"/>
+                  <p prev="true">
                      my dim recollection that some verse or other in the <rs type="lit_work" ref="#lit_work_id_59">Bible</rs><lb/>
                      reading might help me to describe that amazing mixture of<lb/>
                      awe-inspiring talent and high scholarship, wretchedness and squalor.

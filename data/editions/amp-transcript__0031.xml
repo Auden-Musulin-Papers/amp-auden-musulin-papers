@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Typed Letter Stella Musulin to Edward Mendelson 1985-12-15</title>
+            <title level="a">Copy Typed Letter Stella Musulin to Edward Mendelson 1985-12-15</title>
             <author>Musulin, Stella</author>
             <editor>
                <name>Mayer, Sandra</name>
@@ -176,9 +176,11 @@ for any purpose, even commercially.</p>
                      <rs type="person" ref="#amp_person_119">Müller</rs> possesses the <rs type="lit_work" ref="#lit_work_id_91">German text</rs> taken from a tape. <space quantity="1" unit="char"/>Now this<lb/>
                      <rs type="lit_work" ref="#lit_work_id_90">English text</rs> is so familia<del>s</del>rrto me that it deafens me to all<lb/>
                      or any sources. <space quantity="1" unit="char"/>A digest of it is in the <rs type="lit_work" ref="#lit_work_id_108">PEN text</rs> but I wonder
+                  </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0224/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0225/" type="sheet"/>
                   <space quantity="28" unit="char"/>- 2 -<lb/>
+                  <p prev="true">
                      to what extent <rs type="lit_work" ref="#lit_work_id_90"><rs type="person" ref="#amp_person_1">Auden</rs>´s speech</rs> contains hitherto unknown material,<lb/>
                      if any. <space quantity="1" unit="char"/>I said air<del>l</del>ily that he had probably said i<del>a</del>t a<del>s</del>ll before,<lb/>
                      in <rs type="lit_work" ref="#lit_work_id_116">Secondary Worlds</rs> and so on, but this is not true. <space quantity="1" unit="char"/>After a<lb/>

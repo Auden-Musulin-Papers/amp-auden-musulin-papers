@@ -33,7 +33,7 @@
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
             <date when="2021">2021</date>
-            <availability>
+            <availability status="free">
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
 for any purpose, even commercially.</p>
@@ -43,6 +43,9 @@ for any purpose, even commercially.</p>
                   <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
                </licence>
                <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
+            </availability>
+            <availability status="restricted">
+               <licence facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0247/" target="https://www.picturedesk.com/bild-disp/apa/de/bildrechte.html">Otto Breicha / brandstaetter images / picturedesk.com</licence>
             </availability>
          <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C337-8</idno></publicationStmt>
          <seriesStmt>
@@ -60,7 +63,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 26</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore="1967-04-24" notAfter="1967-04-26">1967-04-24--1967-04-26</origDate></origin>
+                        <origin><origDate notBefore-iso="1967-04-24T00:00:00+01:00" notAfter-iso="1967-04-26T23:59:59+01:00">1967-04-24--1967-04-26</origDate></origin>
                      </history>
                   </msDesc>
                </witness>

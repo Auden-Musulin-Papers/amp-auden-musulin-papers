@@ -8,6 +8,7 @@
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </editor>
             <funder>
                <name>FWF Austrian Science Fund</name>
@@ -22,7 +23,16 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-03-15</title>
+               <interpGrp>
+                  <interp xml:id="ana_008" source="ph_008"><!-- link to nanopub -->
+                     <desc>In the legal terminology of Early Modern High German, "Gemein(de)pflicht" ("communal duty") designates the "pledge to be made by the new citizen of a community" (<ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=gemeindepflicht">"Gemeindepflicht", Deutsches Rechtswörterbuch</ref>).</desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
+                     <certainty cert="high" locus="value"></certainty>
+                  </interp>
+               </interpGrp>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -110,6 +120,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-27">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-07">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-11-21">entities updated, interpGrp added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -140,10 +151,10 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0038">
+         <div type="transcription" xml:id="transcription_amp_0038" xml:lang="en">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0011/" type="envelope"/>
-               <ab hand="#handwritten">
+               <ab hand="#handwritten" xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   S<unclear>t</unclear>ella Musulin</rs><lb/>
                   <address>
@@ -154,7 +165,7 @@ for any purpose, even commercially.</p>
                      <rs type="place" ref="#amp_place_id_10">Osterreich</rs>
                   </address>
                </ab>
-               <ab hand="#handwritten">
+               <ab hand="#handwritten" xml:lang="de">
                   <address>
                      <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
                      Neuling<unclear>g</unclear>. 2<unclear>6</unclear>/1<unclear>4</unclear></rs>
@@ -208,7 +219,7 @@ for any purpose, even commercially.</p>
                      <lb/><space extent="undefined quantity of characters"/><l>Did they,though,ever</l>
                      <lb/><space extent="undefined quantity of characters"/><l>Take you in,who to <rs type="person" ref="#amp_person_196">Goebbels</rs>'</l>
                      <lb/><space extent="undefined quantity of characters"/><l>Offer of culture</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Countered <hi rend="underline">In Ruah lassen!</hi>?</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>Countered <hi rend="underline"><foreign xml:lang="de">In Ruah lassen!</foreign></hi>?</l>
                      <lb/><space extent="undefined quantity of characters"/><l>But the crowd prefers</l>
                      <lb/><space extent="undefined quantity of characters"/><l>A nasty stink and the young</l>
                      <lb/><space extent="undefined quantity of characters"/><l>Condemn you unread.</l>
@@ -218,7 +229,7 @@ for any purpose, even commercially.</p>
                      <lb/><space extent="undefined quantity of characters"/><l><rs type="person" ref="#amp_person_7">Franz J<unclear>ä</unclear>gerst<unclear>ä</unclear>tter</rs>,</l>
                      <lb/><space extent="undefined quantity of characters"/><l>The <rs type="place" ref="#amp_place_id_22">St.Radegund</rs> peasant</l>
                      <lb/><space extent="undefined quantity of characters"/><l>Who said his lonely</l>
-                     <lb/><space extent="undefined quantity of characters"/><l><hi rend="underline">Nein</hi> to the Aryan State</l>
+                     <lb/><space extent="undefined quantity of characters"/><l><hi rend="underline"><foreign xml:lang="de">Nein</foreign></hi> to the Aryan State</l>
                      <lb/><space extent="undefined quantity of characters"/><l>And was beheaded,</l>
                      <lb/><space extent="undefined quantity of characters"/><l>Would your heart,as Austrian,</l>
                      <lb/><space extent="undefined quantity of characters"/><l>As poet,have told you?</l>
@@ -234,8 +245,8 @@ for any purpose, even commercially.</p>
                      <lb/><space extent="undefined quantity of characters"/><l>You destroyed yourself.</l>
                      <lb/><space extent="undefined quantity of characters"/><l>Retribution was ever</l>
                      <lb/><space extent="undefined quantity of characters"/><l>A bungler at it:</l>
-                     <lb/><space extent="undefined quantity of characters"/><l><hi rend="underline">Dies alles ist furchtbar,hier</hi></l>
-                     <lb/><space extent="undefined quantity of characters"/><l><hi rend="underline">Nur Schweigen gem<unclear>ä</unclear>ss</hi>.(I)</l> 
+                     <lb/><space extent="undefined quantity of characters"/><l><hi rend="underline"><foreign xml:lang="de">Dies alles ist furchtbar,hier</foreign></hi></l>
+                     <lb/><space extent="undefined quantity of characters"/><l><hi rend="underline"><foreign xml:lang="de">Nur Schweigen gem<unclear>ä</unclear>ss</foreign></hi>.(I)</l> 
                   </lg>  
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0134/" type="sheet"/>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0135/" type="sheet"/>
@@ -251,7 +262,7 @@ for any purpose, even commercially.</p>
                      <lb/><space extent="undefined quantity of characters"/><l>On a pouring wet</l>
                      <lb/><space extent="undefined quantity of characters"/><l>October day in a year</l>
                      <lb/><space extent="undefined quantity of characters"/><l>That changed our Cosmos,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>The annus mirabilis</l>
+                     <lb/><space extent="undefined quantity of characters"/><l>The <foreign xml:lang="la">annus mirabilis</foreign></l>
                      <lb/><space extent="undefined quantity of characters"/><l>When Parity fell.</l>
                   </lg>
                   <lg>
@@ -328,13 +339,13 @@ for any purpose, even commercially.</p>
                      <lb/><space quantity="15" unit="char"/><l>Of one who was graced</l>
                      <lb/><space quantity="15" unit="char"/><l>To hear the viols playing</l>
                      <lb/><space quantity="15" unit="char"/><l>On the impaled green,</l>
-                     <lb/><space quantity="15" unit="char"/><l>Committed thereafter <hi rend="underline">den</hi></l>
-                     <lb/><space quantity="15" unit="char"/><l><hi rend="underline">Abgrund zu nennen</hi>.(2)</l>
+                     <lb/><space quantity="15" unit="char"/><l>Committed thereafter <hi rend="underline"><foreign xml:lang="de">den</foreign></hi></l>
+                     <lb/><space quantity="15" unit="char"/><l><hi rend="underline"><foreign xml:lang="de">Abgrund zu nennen</foreign></hi>.(2)</l>
                   </lg>
                   <ab>
                      <space quantity="23" unit="char"/>___<lb/>
-                     <del>N</del> <space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_1">W<del>8</del></rs><unclear>'</unclear>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.<lb/>
-                     <space quantity="3" unit="char"/>2) Quotation from <rs type="person" ref="#amp_person_1">W</rs>'s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_41">Kammermusik</rs></hi>.<lb/>
+                     <del>N</del> <space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_5">W<del>8</del></rs><unclear>'</unclear>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.<lb/>
+                     <space quantity="3" unit="char"/>2) Quotation from <rs type="person" ref="#amp_person_5">W</rs>'s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_41">Kammermusik</rs></hi>.<lb/>
                      <space quantity="24" unit="char"/>__
                   </ab>
                </div>
@@ -344,8 +355,8 @@ for any purpose, even commercially.</p>
                   </opener>
                   <p>
                      <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> is intending to have a <rs type="event" ref="#amp_event_id_49">cer<del>o</del>emony in memory of the twentieth<lb/>
-                     <space quantity="1" unit="char"/>anniversary of <rs type="event" ref="#amp_event_id_50"><rs type="person" ref="#amp_person_5">Weinheber</rs>'<del>w</del>s <space quantity="1" unit="char"/>death</rs></rs>. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
-                     <space quantity="1" unit="char"/><hi rend="underline">Gemeindepflicht.</hi>
+                     <space quantity="1" unit="char"/>anniversary of <rs type="person" ref="#amp_person_5">Weinheber</rs>'<del>w</del>s <space quantity="1" unit="char"/>death</rs>. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
+                     <space quantity="1" unit="char"/><hi rend="underline"><foreign xml:lang="de" ana="#ana_008">Gemeindepflicht</foreign>.</hi>
                   </p>
                   <closer>
                      <space quantity="17" unit="char"/><salute>love</salute>
@@ -356,7 +367,7 @@ for any purpose, even commercially.</p>
                   <postscript hand="#handwritten">
                      <p>
                         P.S. Expect to return <rs type="place" ref="#amp_place_id_5">K</rs> April 22nd. Do hope you<lb/>
-                        wil<unclear>l</unclear> be <rs type="place" ref="#amp_place_id_10">around</rs><unclear>.</unclear>
+                        wil<unclear>l</unclear> be around<unclear>.</unclear>
                      </p>
                   </postscript>
                </div>

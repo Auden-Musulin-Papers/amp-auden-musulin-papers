@@ -3,11 +3,12 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Envelope W. H. Auden to Stella Musulin 1962-04-30</title>
+            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1962-04-30</title>
             <author>Auden, W. H.</author>
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </editor>
             <funder>
                <name>FWF Austrian Science Fund</name>
@@ -22,7 +23,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1962-04-30</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -101,6 +104,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-04-06">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-03-02">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-11-15">letter transcribed (from Silence Turned into Objects), entities updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -113,13 +117,13 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0059">
+         <div type="transcription" xml:id="transcription_amp_0059" xml:lang="en">
             <div type="envelope"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0031/" type="envelope"/>
                <ab>
                   <gap reason="illegible"/>
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baro<unclear>n</unclear>in Stell<unclear>a</unclear> Mus<unclear>so</unclear>lin</rs><lb/>
                   <address> 
                      <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
@@ -131,12 +135,39 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear> Auden</rs>
                   <seg hand="#printed">
                      <address>
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                         HINTERHOLZ 6<lb/>
-                        N.-Ö., AUSTRIA</rs>
+                        <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                      </address>
                   </seg>   
                </ab>
+            </div>
+            <div type="letter">
+               <pb facs="" type="sheet"/><!-- facs uri missing -->
+               <div type="letter_message">
+                  <opener>
+                     <dateline>
+                        <date rend="#block">A<unclear>p</unclear>ril 30th</date>
+                        <placeName>
+                           <seg hand="#printed">
+                              <address>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
+                                 HINTERHOLZ 6<lb/>
+                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
+                              </address>
+                           </seg>
+                        </placeName>
+                     </dateline>
+                     <salute>Dear <rs type="person" ref="#amp_person_2">S<unclear>t</unclear>ella</rs> :</salute>
+                  </opener>
+                  <p>
+                     <unclear>A</unclear>re you <rs type="place" ref="#amp_place_id_10">here</rs> ? <rs type="person" ref="#amp_person_1 #amp_person_4">We</rs> are.
+                  </p>
+                  <closer>
+                     <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
+                  </closer>
+               </div>
+               <pb facs="" type="sheet"/><!-- facs uri missing -->
             </div>
          </div>
       </body>

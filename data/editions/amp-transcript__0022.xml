@@ -8,6 +8,7 @@
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </editor>
             <funder>
                <name>FWF Austrian Science Fund</name>
@@ -22,7 +23,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1961-08-16</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -88,8 +91,8 @@ for any purpose, even commercially.</p>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
                <ref type="belongsToCorrespondence" target="#amp_person_2">Musulin, Stella</ref>
-               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0058.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1960-07-22--1965-09-28</ref>
-               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0057.xml">Envelope W. H. Auden to Stella Musulin 1961-04-25--1961-10-25</ref>
+               <ref subtype="previous_letter" type="withinCollection" target="#amp-transcript__0057.xml">Envelope W. H. Auden to Stella Musulin 1961-04-25--1961-10-25</ref>
+               <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0021.xml">Typed Letter Signed W. H. Auden to Stella Musulin 1961-10-13</ref>
             </correspContext>
          </correspDesc>
       </profileDesc>
@@ -101,6 +104,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-03-17">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-11-15">entities updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -119,10 +123,10 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0022">
+         <div type="transcription" xml:id="transcription_amp_0022" xml:lang="en">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0117/" type="envelope"/>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Mu<unclear><del>s</del></unclear>silin</rs><lb/>
                   <address>
@@ -135,9 +139,9 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
                   <seg hand="#printed">
                      <address>
-                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                        <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                         HINTERHOLZ 6<lb/>
-                        N.-Ö., AUSTRIA</rs>
+                        <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                      </address>
                   </seg>
                </ab>
@@ -151,9 +155,9 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (WESTBAHN)<lb/>
+                                 <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN (<foreign xml:lang="de">WESTBAHN</foreign>)<lb/>
                                  HINTERHOLZ 6<lb/>
-                                 N.-Ö., AUSTRIA</rs>
+                                 <foreign xml:lang="de">N.-Ö.</foreign>, AUSTRIA</rs>
                               </address>
                            </seg>
                         </placeName>
@@ -163,7 +167,7 @@ for any purpose, even commercially.</p>
                   <p>
                      Del<unclear>i</unclear>ghted to hear yo<del><gap reason="deleted"/></del><unclear>u</unclear> are<lb/>
                      <rs type="place" ref="#amp_place_id_10">back</rs> and would love to see you<lb/>
-                     anytime<unclear>:</unclear> Are you living in <rs type="place" ref="#amp_place_id_1">Wien</rs> or<lb/>
+                     anytime<unclear>:</unclear> Are you living in <rs type="place" ref="#amp_place_id_1"><foreign xml:lang="de">Wien</foreign></rs> or<lb/>
                      in <rs type="place" ref="#amp_place_id_8">Obergrabendorf</rs>.?
                   </p>
                   <p>

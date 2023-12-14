@@ -65,6 +65,8 @@
           <moduleRef key="textcrit" include="listWit witness"/>
           <moduleRef key="transcr" include="fw space facsimile surface damage handShift"/>
           <moduleRef key="linking" include="ab seg"/>
+          <moduleRef key="analysis" include="interpGrp interp"/>
+          <moduleRef key="certainty" include="certainty respons"/>
           
           <elementSpec ident="correspDesc" mode="change">
             <constraintSpec ident="correspDesc" module="header" scheme="schematron">
@@ -249,6 +251,74 @@
             </attList>
           </elementSpec>
           
+          <elementSpec ident="edition" module="header" mode="change">
+            <content>
+              <sequence>
+                <elementRef key="title" maxOccurs="1" minOccurs="1"/>
+                <elementRef key="interpGrp" maxOccurs="1" minOccurs="0"/>
+              </sequence>
+            </content>
+          </elementSpec>
+          
+          <elementSpec ident="interp" module="analysis" mode="change">
+            <content>
+              <sequence>
+                <elementRef key="desc" maxOccurs="1" minOccurs="1"/>
+                <elementRef key="respons" maxOccurs="1" minOccurs="1"/>
+                <elementRef key="certainty" maxOccurs="1" minOccurs="1"/>
+              </sequence>
+            </content>
+            <attList>
+              <attDef ident="xml:id" mode="change" usage="req">
+                <datatype>
+                  <dataRef name="token" restriction="ana_.+"/>
+                </datatype>
+              </attDef>
+              <attDef ident="source" mode="change" usage="req">
+                <datatype>
+                  <dataRef name="token" restriction="ph_.+"/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <elementSpec ident="respons" module="certainty" mode="change">
+            <attList>
+              <attDef ident="locus" mode="change" usage="req">
+                <valList type="closed" mode="replace">
+                  <valItem ident="value"/>
+                  <valItem ident="name"/>
+                  <valItem ident="start"/>
+                  <valItem ident="end"/>
+                  <valItem ident="location"/>
+                </valList>
+              </attDef>
+              <attDef ident="resp" mode="change" usage="req"/>
+            </attList>
+          </elementSpec>
+          
+          <elementSpec ident="certainty" module="certainty" mode="change">
+            <attList>
+              <attDef ident="locus" mode="change" usage="req">
+                <valList type="closed" mode="replace">
+                  <valItem ident="value"/>
+                  <valItem ident="name"/>
+                  <valItem ident="start"/>
+                  <valItem ident="end"/>
+                  <valItem ident="location"/>
+                </valList>
+              </attDef>
+              <attDef ident="cert" mode="change" usage="req">
+                <valList type="closed" mode="replace">
+                  <valItem ident="low"/>
+                  <valItem ident="medium"/>
+                  <valItem ident="high"/>
+                  <valItem ident="unknown"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
           <!-- element availability -->
           <elementSpec ident="availability" module="header" mode="change"/>
           
@@ -301,6 +371,7 @@
                   <dataRef key="teidata.temporal.iso"/>
                 </datatype>
               </attDef>
+              <attDef ident="ana" mode="change" usage="opt"/>
               <attDef ident="notAfter" mode="delete"/>
               <attDef ident="notBefore" mode="delete"/>
               <attDef ident="when" mode="delete"/>
@@ -411,11 +482,41 @@
                   <valItem ident="footnote"/>
                 </valList>
               </attDef>
+              <attDef ident="target" mode="change" usage="opt"/>
+              <attDef ident="ana" mode="change" usage="req"/>
             </attList>
-          </elementSpec>       
+          </elementSpec>
+          
+          <elementSpec ident="listPlace" module="namesdates" mode="change">
+            <attList>
+              <attDef ident="target" mode="change" usage="opt">
+                <valList type="closed" mode="replace">
+                  <valItem ident="choice"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <elementSpec ident="listPerson" module="namesdates" mode="change">
+            <attList>
+              <attDef ident="target" mode="change" usage="opt">
+                <valList type="closed" mode="replace">
+                  <valItem ident="choice"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
           
           <!-- element p -->
-          <!--<elementSpec ident="p" module="core" mode="change"/>-->
+          <elementSpec ident="p" module="core" mode="change">
+            <attList>
+              <attDef ident="prev" mode="change" usage="opt">
+                <valList type="closed" mode="replace">
+                  <valItem ident="true"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
           
           <!-- element pb -->
           <elementSpec ident="pb" module="core" mode="change">
@@ -564,7 +665,12 @@
               </attDef>
               <attDef ident="ref" mode="change" usage="req">
                 <datatype>
-                  <dataRef name="token" restriction="#.+"/>
+                  <dataRef name="token" restriction="#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+"/>
+                </datatype>
+              </attDef>
+              <attDef ident="ana" mode="change" usage="opt">
+                <datatype>
+                  <dataRef name="token" restriction="#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+"/>
                 </datatype>
               </attDef>
             </attList>

@@ -8,6 +8,7 @@
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </editor>
             <funder>
                <name>FWF Austrian Science Fund</name>
@@ -22,7 +23,25 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Typed Letter Signed W. H. Auden to Stella Musulin 1959-10-10</title>
+               <interpGrp>
+                  <interp xml:id="ana_001" source="ph_001"><!-- link to nanopub -->
+                     <desc>
+                        According to the map of Austria provided by the Austrian Federal Office of Metrology and Surveying (https://maps.bev.gv.at, accessed 10 November 2023), there are six settlements named Kirchstetten on Austrian territory. In addition to Marktgemeinde Kirchstetten in St. Pölten district, Lower Austria, there are: Kirchstetten village in Mistelbach district, Lower Austria; Kirchstetten village in Amstetten district, Lower Austria; Kirchstetten village in Linz-Land district, Upper Austria; Kirchstetten village in Vöcklabruck district, Upper Austria; Kirchstetten village in Perg district, Upper Austria.
+                        <listPlace type="choice">
+                           <place source="https://sws.geonames.org/2774360/"/>
+                           <place source="https://sws.geonames.org/2774363/"/>
+                           <place source="https://sws.geonames.org/12626230/"/>
+                           <place source="https://sws.geonames.org/2774361/"/>
+                           <place source="https://sws.geonames.org/2774365/"/>
+                        </listPlace>
+                     </desc>
+                     <respons locus="value" resp="#tfruehwirth #dgrigoriou #smayer"/>
+                     <certainty locus="value" cert="high"/>
+                  </interp>
+               </interpGrp>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -98,6 +117,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou" when="2023-07-20">text transcribed</change>
          <change who="dgrigoriou tfruehwirth" when="2023-07-31">transcriptions collated</change>
          <change who="dgrigoriou tfruehwirth" when="2023-08-02">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2023-11-15">entities updated, internal events created, interpGrp added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -116,18 +136,18 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0070">
+         <div type="transcription" xml:id="transcription_amp_0070" xml:lang="en">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0465/" type="envelope"/>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_5">Kirchst<del>t</del>etten (West Bahn)<lb/> 
+                     <rs type="place" ref="#amp_place_id_2">Kirchst<del>t</del>etten (West Bahn)<lb/> 
                      Hinterholz # 6<lb/> 
                      N.O.</rs>
                   </address>
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <space quantity="21" unit="char"/>Die <rs type="person" ref="#amp_person_2">Baronin Stella Musulin</rs><lb/>
                   <address>
                      <space quantity="24" unit="char"/><rs type="place" ref="#amp_place_id_303">bei Windisch-<del>frcty</del> fracty<lb/><!-- research person (Eva Windisch-Graez) -->
@@ -141,10 +161,10 @@ for any purpose, even commercially.</p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0467/" type="sheet"/>
                <div type="letter_message">
                   <opener>
-                     <dateline>
+                     <dateline xml:lang="de">
                         <placeName>
                            <address>
-                              <rs type="place" ref="#amp_place_id_5">Kirchstetten(West Bah<del>h</del>n)<lb/> 
+                              <rs type="place" ref="#amp_place_id_2">Kirchstetten(West Bah<del>h</del>n)<lb/> 
                               Hinterholz # 6<lb/> 
                               N.O.</rs>
                            </address>
@@ -156,8 +176,8 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     <space quantity="6" unit="char"/>Many thanks for your letter of Oct <del>%</del>5th which I have only just<lb/>  
-                     <space quantity="3" unit="char"/>received:it went to the wrong Kirchstetten.
+                     <space quantity="6" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_61">your letter of Oct <del>%</del>5th which I have only just<lb/>
+                     <space quantity="3" unit="char"/>received</rs>:it went to <rs type="place" ref="#amp_place_id_314" ana="#ana_001">the wrong Kirchstetten</rs>.
                   </p>
                   <p>
                      <space quantity="8" unit="char"/><rs type="person" ref="#amp_person_1 #amp_person_4">We</rs> shall be delighted to see you any day that is convenient for<lb/> 

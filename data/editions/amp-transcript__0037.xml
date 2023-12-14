@@ -44,6 +44,11 @@
                     </licence>
                     <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
                 </availability>
+                <availability>
+                    <licence facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0246/" target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                        <p>Image publication permission by The Carl Van Vechten Trust.</p>
+                    </licence>
+                </availability>
                 <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-C32A-7</idno></publicationStmt>
             <seriesStmt>
                 <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
@@ -60,7 +65,7 @@
                                 <idno>2, 19</idno>
                             </msIdentifier>
                             <history>
-                                <origin><origDate notBefore="1984-08-15" notAfter="1996-01-21">1984-08-15--1996-01-21</origDate></origin>
+                                <origin><origDate notBefore-iso="1984-08-15T00:00:00+01:00" notAfter-iso="1996-01-21T23:59:59+00:00">1984-08-15--1996-01-21</origDate></origin>
                             </history>
                         </msDesc>
                     </witness>
