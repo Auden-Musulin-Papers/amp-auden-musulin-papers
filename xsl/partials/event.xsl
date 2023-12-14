@@ -23,12 +23,12 @@
                 <head xml:lang="en">
                     <date>                        
                         <xsl:if test="//tei:origDate/@notBefore-iso">
-                            <xsl:attribute name="notBefore-iso">
+                            <xsl:attribute name="notBefore">
                                 <xsl:value-of select="//tei:origDate/@notBefore-iso"/>
                             </xsl:attribute>
                         </xsl:if>   
                         <xsl:if test="//tei:origDate/@notAfter-iso">
-                            <xsl:attribute name="notAfteriso">
+                            <xsl:attribute name="notAfter">
                                 <xsl:value-of select="//tei:origDate/@notAfter-iso"/>
                             </xsl:attribute>
                         </xsl:if> 
