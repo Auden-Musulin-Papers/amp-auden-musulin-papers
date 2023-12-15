@@ -17,7 +17,7 @@
         <xsl:copy>
             <!--<xsl:apply-templates select="@*"/>-->            
             <xsl:apply-templates>
-                <xsl:sort select="./tei:head/tei:date/@notBefore-iso" data-type="text" order="ascending"/>
+                <xsl:sort select="./tei:head/tei:date/@notBefore" data-type="text" order="ascending"/>
             </xsl:apply-templates>
         </xsl:copy>        
     </xsl:template>    

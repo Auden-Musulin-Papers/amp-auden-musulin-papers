@@ -18,35 +18,34 @@
     
     <xsl:template name="event-el">
         <xsl:param name="eventType"/>
-
-            <event xml:id="{@xml:id}" type="{$eventType}" facs="{//tei:facsimile/tei:surface[1]/tei:graphic/@url}">
-                <head xml:lang="en">
-                    <date>                        
-                        <xsl:if test="//tei:origDate/@notBefore-iso">
-                            <xsl:attribute name="notBefore">
-                                <xsl:value-of select="//tei:origDate/@notBefore-iso"/>
-                            </xsl:attribute>
-                        </xsl:if>   
-                        <xsl:if test="//tei:origDate/@notAfter-iso">
-                            <xsl:attribute name="notAfter">
-                                <xsl:value-of select="//tei:origDate/@notAfter-iso"/>
-                            </xsl:attribute>
-                        </xsl:if> 
-                        <xsl:if test="//tei:origDate/@when-iso">
-                            <xsl:attribute name="notBefore">
-                                <xsl:value-of select="//tei:origDate/@when-iso"/>
-                            </xsl:attribute>
-                            <xsl:attribute name="notAfter">
-                                <xsl:value-of select="//tei:origDate/@when-iso"/>
-                            </xsl:attribute>
-                        </xsl:if>                                         
-                        <xsl:value-of select="//tei:origDate"/>
-                    </date>
-                </head>
-                <label xml:lang="en">
-                    <xsl:value-of select="//tei:title[@level='a']"/>
-                </label>
-            </event>
+        <event xml:id="{@xml:id}" type="{$eventType}" facs="{//tei:facsimile/tei:surface[1]/tei:graphic/@url}">
+            <head xml:lang="en">
+                <date>                        
+                    <xsl:if test="//tei:origDate/@notBefore-iso">
+                        <xsl:attribute name="notBefore">
+                            <xsl:value-of select="//tei:origDate/@notBefore-iso"/>
+                        </xsl:attribute>
+                    </xsl:if>   
+                    <xsl:if test="//tei:origDate/@notAfter-iso">
+                        <xsl:attribute name="notAfter">
+                            <xsl:value-of select="//tei:origDate/@notAfter-iso"/>
+                        </xsl:attribute>
+                    </xsl:if> 
+                    <xsl:if test="//tei:origDate/@when-iso">
+                        <xsl:attribute name="notBefore">
+                            <xsl:value-of select="//tei:origDate/@when-iso"/>
+                        </xsl:attribute>
+                        <xsl:attribute name="notAfter">
+                            <xsl:value-of select="//tei:origDate/@when-iso"/>
+                        </xsl:attribute>
+                    </xsl:if>                                         
+                    <xsl:value-of select="//tei:origDate"/>
+                </date>
+            </head>
+            <label xml:lang="en">
+                <xsl:value-of select="//tei:title[@level='a']"/>
+            </label>
+        </event>
                                     
     </xsl:template>
 </xsl:stylesheet>
