@@ -15,9 +15,9 @@
 
     <xsl:template match="tei:listEvent">
         <xsl:copy>
-            <!--<xsl:apply-templates select="@*"/>-->            
+            <!--<xsl:apply-templates select="@*"/>-->     
             <xsl:apply-templates>
-                <xsl:sort select="./tei:head/tei:date/@notBefore" data-type="text" order="ascending"/>
+                <xsl:sort select="if(contains(./tei:head/tei:date/@notBefore, 'T')) then(substring-before(./tei:head/tei:date/@notBefore, 'T')) else (./tei:head/tei:date/@notBefore)" data-type="text" order="ascending"/>
             </xsl:apply-templates>
         </xsl:copy>        
     </xsl:template>    
