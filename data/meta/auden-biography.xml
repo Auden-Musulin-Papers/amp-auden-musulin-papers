@@ -92,6 +92,24 @@
                   <idno type="geonames">https://www.geonames.org/2775259</idno>
                </desc>
             </event>
+            <event xml:id="amp-transcript__0026.xml"
+                   type="correspondence"
+                   facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0249/">
+               <head xml:lang="en">
+                  <date notBefore="1959-06-01T00:00:00+01:00"
+                        notAfter="1973-09-28T23:59:59+01:00">1959-06-01--1973-09-28</date>
+               </head>
+               <label xml:lang="en">Autograph Notes W. H. Auden Stella Musulin 1959-06-01--1973-09-28</label>
+            </event>
+            <event xml:id="amp-transcript__0072.xml"
+                   type="photos"
+                   facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0455/">
+               <head xml:lang="en">
+                  <date notBefore="1959-06-01T00:00:00+01:00"
+                        notAfter="1973-09-28T23:59:59+01:00">1959-06-01--1973-09-28</date>
+               </head>
+               <label xml:lang="en">Photograph [Stella Musulin] of Friedrich Colloredo, Chester Kallman, and W. H. Auden 1959-06-01--1973-09-28</label>
+            </event>
             <event xml:id="ea002" type="event">
                <head xml:lang="en">
                   <date notBefore="1959-06-01" notAfter="1959-10-31">1959-06-01--1959-10-31</date>
@@ -111,24 +129,6 @@
                   </location>
                   <idno type="geonames">https://www.geonames.org/11704028</idno>
                </desc>
-            </event>
-            <event xml:id="amp-transcript__0026.xml"
-                   type="correspondence"
-                   facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0249/">
-               <head xml:lang="en">
-                  <date notBefore="1959-06-01T00:00:00+01:00"
-                        notAfter="1973-09-28T23:59:59+01:00">1959-06-01--1973-09-28</date>
-               </head>
-               <label xml:lang="en">Autograph Notes W. H. Auden Stella Musulin 1959-06-01--1973-09-28</label>
-            </event>
-            <event xml:id="amp-transcript__0072.xml"
-                   type="photos"
-                   facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0455/">
-               <head xml:lang="en">
-                  <date notBefore="1959-06-01T00:00:00+01:00"
-                        notAfter="1973-09-28T23:59:59+01:00">1959-06-01--1973-09-28</date>
-               </head>
-               <label xml:lang="en">Photograph [Stella Musulin] of Friedrich Colloredo, Chester Kallman, and W. H. Auden 1959-06-01--1973-09-28</label>
             </event>
             <event xml:id="amp-transcript__0070.xml"
                    type="correspondence"
@@ -480,6 +480,15 @@
                   <idno type="geonames">https://www.geonames.org/2782113</idno>
                </desc>
             </event>
+            <event xml:id="amp-transcript__0050.xml"
+                   type="photos"
+                   facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0247/">
+               <head xml:lang="en">
+                  <date notBefore="1967-04-24T00:00:00+01:00"
+                        notAfter="1967-04-26T23:59:59+01:00">1967-04-24--1967-04-26</date>
+               </head>
+               <label xml:lang="en">Photograph Otto Breicha of W. H. Auden and Mary McCarthy 1967-04-24--1967-04-26</label>
+            </event>
             <event xml:id="ea010" type="event_austria">
                <head xml:lang="en">
                   <date notBefore="1967-04-24" notAfter="1967-04-26">1967-04-24--1967-04-26</date>
@@ -500,15 +509,6 @@
                   </location>
                   <idno type="geonames">https://www.geonames.org/6354988</idno>
                </desc>
-            </event>
-            <event xml:id="amp-transcript__0050.xml"
-                   type="photos"
-                   facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0247/">
-               <head xml:lang="en">
-                  <date notBefore="1967-04-24T00:00:00+01:00"
-                        notAfter="1967-04-26T23:59:59+01:00">1967-04-24--1967-04-26</date>
-               </head>
-               <label xml:lang="en">Photograph Otto Breicha of W. H. Auden and Mary McCarthy 1967-04-24--1967-04-26</label>
             </event>
             <event xml:id="ea011" type="event_austria">
                <head xml:lang="en">
@@ -705,26 +705,6 @@
                </head>
                <label xml:lang="en">Autograph Letter Signed W. H. Auden to Stella Musulin 1969-05-21</label>
             </event>
-            <event xml:id="ea016" type="event_austria">
-               <head xml:lang="en">
-                  <date notBefore="1969-05-28" notAfter="1969-05-28">1969-05-28</date>
-               </head>
-               <desc>
-                  <title xml:lang="en">28 May 1969, Kirchstetten, Lower Austria</title>
-                  Stella Musulin introduces Auden and Kallman to the Austrian historian, journalist, and intellectual Friedrich Heer (1916-1983); in Auden and Kallman's guest book, she notes : "Tag einer historischen Begegnung! [Day of a historical encounter!]" <!-- reference to Typed Letter Stella Musulin [to Edith Silbermann] [1969-05-29] --><location>
-                     <geo>48.18153367563077 15.811562798177427</geo>
-                     <address>
-                        <street>Hinterholz 6</street>
-                        <postCode>3062</postCode>
-                        <placeName>
-                           <settlement>Kirchstetten</settlement>
-                           <country>Austria</country>
-                        </placeName>
-                     </address>
-                  </location>
-                  <idno type="geonames">https://www.geonames.org/11704028</idno>
-               </desc>
-            </event>
             <event xml:id="amp-transcript__0068.xml"
                    type="photos"
                    facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0451/">
@@ -769,6 +749,26 @@
                         notAfter="1969-05-28T23:59:59+01:00">1969-05-28</date>
                </head>
                <label xml:lang="en">Photograph [Stella Musulin] of Friedrich Heer, Chester Kallman, and W. H. Auden 1969-05-28</label>
+            </event>
+            <event xml:id="ea016" type="event_austria">
+               <head xml:lang="en">
+                  <date notBefore="1969-05-28" notAfter="1969-05-28">1969-05-28</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">28 May 1969, Kirchstetten, Lower Austria</title>
+                  Stella Musulin introduces Auden and Kallman to the Austrian historian, journalist, and intellectual Friedrich Heer (1916-1983); in Auden and Kallman's guest book, she notes : "Tag einer historischen Begegnung! [Day of a historical encounter!]" <!-- reference to Typed Letter Stella Musulin [to Edith Silbermann] [1969-05-29] --><location>
+                     <geo>48.18153367563077 15.811562798177427</geo>
+                     <address>
+                        <street>Hinterholz 6</street>
+                        <postCode>3062</postCode>
+                        <placeName>
+                           <settlement>Kirchstetten</settlement>
+                           <country>Austria</country>
+                        </placeName>
+                     </address>
+                  </location>
+                  <idno type="geonames">https://www.geonames.org/11704028</idno>
+               </desc>
             </event>
             <event xml:id="amp-transcript__0053.xml"
                    type="correspondence"
@@ -1010,19 +1010,6 @@
                   <idno type="geonames">https://www.geonames.org/2775259</idno>
                </desc>
             </event>
-            <event xml:id="ea022" type="event_austria">
-               <head xml:lang="en">
-                  <date notBefore="1973-10-04" notAfter="1973-10-04">1973-10-04</date>
-               </head>
-               <desc>
-                  <title xml:lang="en">4 October 1973, Kirchstetten, Lower Austria</title>
-                  Auden is buried in the local church graveyard of Kirchstetten. The funeral - attended by, among others, Auden's brother John, Stephen Spender, Sonia Orwell, and Charles Monteith - includes an ecumenical service led by Revd Bruce Duncan, chaplain to the British ambassadors to Austria, Hungary, and Czechoslovakia
-                  <location>
-                     <geo>48.183333 15.816667</geo>
-                  </location>
-                  <idno type="geonames">https://www.geonames.org/7871886</idno>
-               </desc>
-            </event>
             <event xml:id="amp-transcript__0075.xml"
                    type="photos"
                    facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0458/">
@@ -1058,6 +1045,19 @@
                         notAfter="1973-10-04T23:59:59+01:00">1973-10-04</date>
                </head>
                <label xml:lang="en">Photograph [Stella Musulin] of Edward Mendelson, Sonia Orwell, Charles Osborne, David Luke, Lisa Clark, Thekla Clark, Marny Yates, Michael Yates, Hella Bronold, Wolfgang Kraus, and Friedrich Heer at W. H. Auden's Funeral 1973-10-04</label>
+            </event>
+            <event xml:id="ea022" type="event_austria">
+               <head xml:lang="en">
+                  <date notBefore="1973-10-04" notAfter="1973-10-04">1973-10-04</date>
+               </head>
+               <desc>
+                  <title xml:lang="en">4 October 1973, Kirchstetten, Lower Austria</title>
+                  Auden is buried in the local church graveyard of Kirchstetten. The funeral - attended by, among others, Auden's brother John, Stephen Spender, Sonia Orwell, and Charles Monteith - includes an ecumenical service led by Revd Bruce Duncan, chaplain to the British ambassadors to Austria, Hungary, and Czechoslovakia
+                  <location>
+                     <geo>48.183333 15.816667</geo>
+                  </location>
+                  <idno type="geonames">https://www.geonames.org/7871886</idno>
+               </desc>
             </event>
          </listEvent>
       </body>
