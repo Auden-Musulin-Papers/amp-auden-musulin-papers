@@ -22,7 +22,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-06</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -115,6 +117,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-03">container structure updated</change>
+         <change who="smayer tfruehwirth" when="2024-01-02">entities updated, events created</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -133,8 +136,8 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0007">
-            <div type="envelope">
+         <div type="transcription" xml:id="transcription_amp_0007" xml:lang="en">
+            <div type="envelope" xml:lang="de">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0035/" type="envelope"/>
                <ab>
                   <hi rend="underline">Eil<unclear>·</unclear>Brief</hi>
@@ -152,11 +155,11 @@ for any purpose, even commercially.</p>
                   <address>
                      <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
                      HINTERHOLZ 6<lb/>
-                     N.-Ö., AUSTRIA</rs>
+                     N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                   </address>
                </ab>
                <ab>
-                  A<unclear>rri</unclear>val, <rs type="person" ref="#amp_person_3">Christiane</rs>
+                  <foreign xml:lang="en">A<unclear>rri</unclear>val</foreign>, Christiane
                </ab>
             </div>
             <div type="letter">
@@ -165,11 +168,11 @@ for any purpose, even commercially.</p>
                   <opener>
                      <dateline>
                         <placeName>
-                           <seg hand="#printed">
+                           <seg hand="#printed" xml:lang="de">
                               <address>
                                  <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
                                  HINTERHOLZ 6<lb/>
-                                 N.-Ö., AUSTRIA</rs>
+                                 N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                               </address>
                            </seg>   
                         </placeName>
@@ -178,12 +181,12 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                <p>
-                  I got your telegram yesterday just before<lb/>
-                  lu<unclear>n</unclear>ch. Tried twice in the afternoon and once<lb/>
-                  this morning to reach you , but umsonst.
+                  I got <rs type="event" ref="#amp_event_id_79">your telegram yesterday</rs> just before<lb/>
+                  lu<unclear>n</unclear>ch. <rs type="event" ref="#amp_event_id_80">Tried twice in the afternoon</rs> and <rs type="event" ref="#amp_event_id_81">once<lb/>
+                  this morning</rs> to reach you , but <foreign xml:lang="de">umsonst</foreign>.
                </p>
                <p>   
-                  Am off to <rs type="place" ref="#amp_place_id_239">England</rs> to-morrow, s<unclear>o</unclear> don't see how<lb/>
+                  <rs type="event" ref="#amp_event_id_83">Am off to <rs type="place" ref="#amp_place_id_239">England</rs> to-morrow</rs>, s<unclear>o</unclear> don't see how<lb/>
                   anything can now be arranged<unclear>.</unclear>
                </p>
                <p>   

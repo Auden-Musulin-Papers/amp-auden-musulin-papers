@@ -22,7 +22,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -110,6 +112,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-03">container structure updated</change>
+         <change who="smayer tfruehwirth" when="2024-01-02">entities updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -128,23 +131,23 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0008">
+         <div type="transcription" xml:id="transcription_amp_0008" xml:lang="en">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0039/" type="envelope"/>
                <ab>
                   <hi rend="underline">Air-Mail</hi>
                </ab>
                <ab>
-                  <rs type="event" ref="#amp_event_id_11"><unclear>L</unclear>eft US driving<lb/>
-                  licence <rs type="place" ref="#amp_place_id_2">behind</rs></rs> <unclear>·</unclear>
+                  <unclear>L</unclear>eft US driving<lb/>
+                  licence <rs type="place" ref="#amp_place_id_2">behind</rs> <unclear>·</unclear>
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baroninin<lb/>
                   Stella Musulin</rs><lb/>
                   <address>
                      <rs type="place" ref="#amp_place_id_11"><del>Vi</del> Wien I<del>V</del>II<lb/>
                      Neulinggasse 26<lb/>
-                     Au<hi rend="underline">str</hi>ia</rs>
+                     <foreign xml:lang="en">Au<hi rend="underline">str</hi>ia</foreign></rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0040/" type="envelope"/>

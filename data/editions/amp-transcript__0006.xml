@@ -190,7 +190,7 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                <p>
-                  I shall be arriving in <rs type="place" ref="#amp_place_id_1">Vienna</rs> next<lb/>
+                  I <rs type="event" ref="#amp_event_id_82">shall be arriving in <rs type="place" ref="#amp_place_id_1">Vienna</rs></rs> next<lb/>
                   Monday morning (12th) and staying till<lb/>
                   the 16th in order to <rs type="event" ref="#amp_event_id_10">interview a<lb/>
                   <rs type="person" ref="#amp_person_32 #amp_person_176">prospective couple</rs></rs> to take the <rs type="person" ref="#amp_person_16 #amp_person_17">Eiermanns</rs> place<unclear>.</unclear>

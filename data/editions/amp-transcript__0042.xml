@@ -22,7 +22,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin with Typescripts W. H. Auden "August 1968" and "Elegy" 1968-10-04</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -110,6 +112,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-28">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-08">container structure updated</change>
+         <change who="smayer tfruehwirth" when="2024-01-02">entities updated, event created</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -128,8 +131,8 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0042">
-            <div type="envelope">
+         <div type="transcription" xml:id="transcription_amp_0042" xml:lang="en">
+            <div type="envelope" xml:lang="de">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0033/" type="envelope"/>
                <ab hand="#handwritten">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
@@ -144,7 +147,7 @@ for any purpose, even commercially.</p>
                   <address>
                      <rs type="place" ref="#amp_place_id_2">KIRCHSTETTEN, BEZ. ST. PÖLTEN<lb/>
                      HINTERHOLZ 6<lb/>
-                     N.-Ö., AUSTRIA</rs>
+                     N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                   </address>
                </ab>
             </div>
@@ -175,7 +178,7 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     Terribly sorry about <unclear>l</unclear>ast Sunday.<lb/>
+                     Terribly sorry about <rs type="event" ref="#amp_event_id_78"><unclear>l</unclear>ast Sunday</rs>.<lb/>
                      Since I had no idea whe<unclear>n</unclear> we should be<lb/>
                      a<unclear>b</unclear>le to get to you, I tho<unclear>u</unclear>g<unclear>ht</unclear> it was unfair<lb/>
                      to t<unclear>he</unclear> kitchen not to cancel.
