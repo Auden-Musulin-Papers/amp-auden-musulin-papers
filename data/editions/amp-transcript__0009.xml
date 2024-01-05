@@ -22,7 +22,21 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-15</title>
+               <interpGrp>
+                  <interp xml:id="ana_012" source="ph_012"><!-- link to nanopub -->
+                     <desc>
+                        In her memoir <rs type="lit_work" ref="#lit_work_id_162">"Auden in Kirchstetten"</rs>, <rs type="person" ref="#amp_person_2">Stella Musulin</rs> writes that after the <rs type="event" ref="#amp_event_id_42">"uprising in Czechoslovakia in August and September 1968"</rs>, <rs type="person" ref="#amp_person_1">W. H. Auden</rs> considered the "idea of lending <rs type="place" ref="#amp_place_id_2">the house</rs> to <rs type="person" ref="#amp_person_155 #amp_person_171">two Czechs</rs>" (217). In <rs source="https://hdl.handle.net/21.11115/0000-000E-C331-E">Auden's letter to Musulin from 24 October 1968</rs>, he refers to the couple as "the Langers".
+                        <listBibl>
+                           <bibl sameAs="#lit_work_id_162"/>
+                        </listBibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
+                     <certainty cert="high" locus="value"></certainty>
+                  </interp>
+               </interpGrp>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -104,6 +118,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-04">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-01-05">entities updated, events created, interpGrp added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -122,7 +137,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0009">
+         <div type="transcription" xml:id="transcription_amp_0009" xml:lang="en">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0043/" type="envelope"/>
                <ab>
@@ -137,13 +152,13 @@ for any purpose, even commercially.</p>
                <ab>
                   <del><gap reason="deleted"/></del>A<hi rend="underline">ir-M<unclear>ail</unclear></hi>
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <address>
                      <rs type="place" ref="#amp_place_id_11">Wien <del>IV</del>III<lb/>
                      Neulinggasse 26<lb/>
-                     A<hi rend="underline">ustria </hi>.</rs>
+                     <foreign xml:lang="en">A<hi rend="underline">ustria </hi></foreign>.</rs>
                   </address>
                </ab>
                <ab>
@@ -173,14 +188,14 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     Got back from <rs type="place" ref="#amp_place_id_46">Oxford</rs> yesterday and found your<lb/>
-                     lett<unclear>e</unclear>r waiting.
+                     <rs type="event" ref="#amp_event_id_87">Got back from <rs type="place" ref="#amp_place_id_46">Oxford</rs> yesterday</rs> and found <rs type="event" ref="#amp_event_id_88">your<lb/>
+                     lett<unclear>e</unclear>r</rs> waiting.
                   </p>
                   <p>
                      <seg>
-                        1) I think I ought to take the <rs type="person" ref="#amp_person_155 #amp_person_171">couple</rs> in , but<lb/>
+                        1) I think I ought to take the <rs type="person" ref="#amp_person_155 #amp_person_171" ana="#ana_012">couple</rs> <rs type="place" ref="#amp_place_id_2">in</rs> , but<lb/>
                         I must leave it to you to decide whether<lb/>
-                        they are O.K. If they are , <rs type="place" ref="#amp_place_id_2">all rooms</rs>, includi<unclear>ng</unclear><lb/>
+                        they are O.K. If they are , all rooms, includi<unclear>ng</unclear><lb/>
                         my study ( which can't be heated are open to them<unclear>.</unclear>
                      </seg>
                      <seg>
@@ -193,7 +208,7 @@ for any purpose, even commercially.</p>
                            you cont<unclear>a</unclear>ct<lb/>
                            <rs type="person" ref="#amp_person_21">Otto Hoffmann</rs>.<lb/>
                            <rs type="place" ref="#amp_place_id_48">
-                              Wien VII<lb/>
+                              <foreign xml:lang="de">Wien</foreign> VII<lb/>
                               Karl Schweighofgasse<lb/>
                               4/21
                            </rs><lb/>
@@ -214,12 +229,12 @@ for any purpose, even commercially.</p>
                      <seg>
                         5). <unclear>If</unclear> and when they come, I must know in advance<lb/>
                         so that I can write a note to the<lb/>
-                        <rs type="person" ref="#amp_person_22">Burgomeister</rs>.
+                        <rs type="person" ref="#amp_person_22"><foreign xml:lang="de">Burgomeister</foreign></rs>.
                      </seg>
                   </p>
                   <p>
-                     Shall be here <unclear>in</unclear> my address until Oc<unclear>t</unclear> 31.st After that<lb/>
-                     <rs type="place" ref="#amp_place_id_29">77 St Mark's Place .N.Y.C. N.Y 10003</rs> .
+                     Shall be here <unclear>in</unclear> my address until Oc<unclear>t</unclear> 31.st <rs type="event" ref="#amp_event_id_89">After that<lb/>
+                     <rs type="place" ref="#amp_place_id_29">77 St Mark's Place .N.Y.C. N.Y 10003</rs></rs> .
                   </p>
                   <closer>
                      <salute>
