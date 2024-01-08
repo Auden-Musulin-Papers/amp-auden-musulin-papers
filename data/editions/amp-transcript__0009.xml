@@ -27,7 +27,7 @@
                <interpGrp>
                   <interp xml:id="ana_012" source="ph_012"><!-- link to nanopub -->
                      <desc>
-                        In her memoir <rs type="lit_work" ref="#lit_work_id_162">"Auden in Kirchstetten"</rs>, <rs type="person" ref="#amp_person_2">Stella Musulin</rs> writes that after the <rs type="event" ref="#amp_event_id_42">"uprising in Czechoslovakia in August and September 1968"</rs>, <rs type="person" ref="#amp_person_1">W. H. Auden</rs> considered the "idea of lending <rs type="place" ref="#amp_place_id_2">the house</rs> to <rs type="person" ref="#amp_person_155 #amp_person_171">two Czechs</rs>" (217). In <rs source="https://hdl.handle.net/21.11115/0000-000E-C331-E">Auden's letter to Musulin from 24 October 1968</rs>, he refers to the couple as "the Langers".
+                        In her memoir <rs type="lit_work" ref="#lit_work_id_162">"Auden in Kirchstetten"</rs>, <rs type="person" ref="#amp_person_2">Stella Musulin</rs> writes that after the <rs type="event" ref="#amp_event_id_42">"uprising in Czechoslovakia in August and September 1968"</rs>, <rs type="person" ref="#amp_person_1">W. H. Auden</rs> considered the "idea of lending <rs type="place" ref="#amp_place_id_2">the house</rs> to <rs type="person" ref="#amp_person_155 #amp_person_171">two Czechs</rs>" (217). In <rs source="https://hdl.handle.net/21.11115/0000-000E-C331-E">Auden's letter to Musulin from 24 October 1968</rs>, he refers to the couple as "the Langers". Eventually, these plans did not materialize. In his <rs source="https://hdl.handle.net/21.11115/0000-000E-C30F-6">letter from 6 November 1968</rs>, Auden expresses his relief: "Of course, selfishly, I'm rather relieved. How horrid one is!"
                         <listBibl>
                            <bibl sameAs="#lit_work_id_162"/>
                         </listBibl>
@@ -229,7 +229,7 @@ for any purpose, even commercially.</p>
                      <seg>
                         5). <unclear>If</unclear> and when they come, I must know in advance<lb/>
                         so that I can write a note to the<lb/>
-                        <rs type="person" ref="#amp_person_22"><foreign xml:lang="de">Burgomeister</foreign></rs>.
+                        <rs type="person" ref="#amp_person_22"><foreign xml:lang="de"><choice><orig>Burgomeister</orig><reg>Bürgermeister</reg></choice></foreign></rs>.
                      </seg>
                   </p>
                   <p>

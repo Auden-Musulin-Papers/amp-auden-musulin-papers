@@ -22,7 +22,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-11-06</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -101,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-04">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-01-08">entities updated, events created</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -119,7 +122,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0010">
+         <div type="transcription" xml:id="transcription_amp_0010" xml:lang="en">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0047/" type="envelope"/>
                <ab>
@@ -134,13 +137,13 @@ for any purpose, even commercially.</p>
                <ab>
                   A<hi rend="underline">ir-Mail</hi>
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <address>
                      <rs type="place" ref="#amp_place_id_11">Wien A-1030<lb/>
                      Neulinggasse 26/14<lb/>
-                     Austria</rs>
+                     <foreign xml:lang="en">Austria</foreign></rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0048/" type="envelope"/>
@@ -166,9 +169,9 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     Many thanks for your letter. Of course,<lb/>
+                     Many thanks for <rs type="event" ref="#amp_event_id_91">your letter</rs>. <ref ana="amp-transcript__0009.xml#ana_012">Of course,<lb/>
                      selfishly, I'm rather reli<unclear><del>v</del></unclear>eved. How horrid<lb/>
-                     one is !
+                     one is !</ref>
                   </p>
                   <p>
                      The <rs type="place" ref="#amp_place_id_15">U.S.</rs> is grim.
