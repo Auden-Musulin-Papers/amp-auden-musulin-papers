@@ -96,7 +96,7 @@
     </facsimile>
     <text type="photograph">
         <body>
-            <div xml:id="transcript">
+            <div xml:id="transcription">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0447/" type="photograph"/>
             </div>
         </body>
