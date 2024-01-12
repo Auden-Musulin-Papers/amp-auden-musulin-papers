@@ -22,7 +22,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Freedom and Necessity in the Arts" 1970-05-21</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -157,7 +159,7 @@ for any purpose, even commercially.</p>
                </p>
                <p hand="#handwritten">
                   Dear <rs type="person" ref="#amp_person_2">S<del><unclear>e</unclear></del>tella</rs><unclear>·</unclear><lb/>
-                  You're an angel. I have to deliver <rs type="lit_work" ref="#lit_work_id_90">this</rs><lb/>
+                  You're an angel. I have to deliver <rs type="lit_work" ref="#lit_work_id_85">this</rs><lb/>
                   in <rs type="event" ref="#amp_event_id_37"><rs type="place" ref="#amp_place_id_47">Neulengbach</rs> on Sun<unclear>day</unclear>, June 14th</rs>.<lb/>
                   In case your dictionary doesn't give it, the<lb/>
                   German for the technical word <hi rend="underline">buddle</hi> (page I, near<lb/>
@@ -219,8 +221,8 @@ for any purpose, even commercially.</p>
                   laws shall be. But to all games as to real life,<rs type="person" ref="#amp_person_11">Goethe</rs>'s lines apply.
                </p>
                <lg>
-                  <l><space quantity="14" unit="char"/><hi rend="underline">In der Beschr<unclear>ä</unclear>nkung zeigt sich erst der Meister</hi>,</l>
-                  <l><space quantity="14" unit="char"/><hi rend="underline">Und d<del>s</del>as Gesetz nur kann uns Freiheit geben.</hi></l>
+                  <lb/><space quantity="14" unit="char"/><l><hi rend="underline">In der Beschr<unclear>ä</unclear>nkung zeigt sich erst der Meister</hi>,</l>
+                  <lb/><space quantity="14" unit="char"/><l><hi rend="underline">Und d<del>s</del>as Gesetz nur kann uns Freiheit geben.</hi></l>
                </lg>
                <p>
                   <space quantity="3" unit="char"/>As regards my particu<del>al</del>l<unclear>a</unclear>r lead-mining world,I decided,or rather,without conscious<lb/>
