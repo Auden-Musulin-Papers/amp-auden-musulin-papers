@@ -22,7 +22,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1969-06-10</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -111,6 +113,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-27">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-05-11">CVL transcription inserted</change>
          <change who="smayer tfruehwirth" when="2023-08-08">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-01-12">entities updated, internal events created</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -135,13 +138,13 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0040">
+         <div type="transcription" xml:id="transcription_amp_0040" xml:lang="en">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0067/" type="envelope"/>
                <ab>
                   Express<unclear>,</unclear>
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <address>
@@ -154,11 +157,11 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">WH<unclear>.</unclear> A<unclear>uden</unclear></rs>
                   <placeName>
                      <seg hand="#printed">
-                        <address>
+                        <address xml:lang="de">
                            <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                            BEZ. ST. PÖLTEN<lb/>
                            HINTERHOLZ 6<lb/>
-                           N.-Ö., AUSTRIA</rs>
+                           N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                         </address>
                      </seg>
                   </placeName>
@@ -173,7 +176,7 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     Saturday w<unclear>i</unclear>ll be fine. Shall<lb/>
+                     <rs type="event" ref="#amp_event_id_97">Saturday w<unclear>i</unclear>ll be fine</rs>. Shall<lb/>
                      look forward to it<unclear>,</unclear>
                   </p>
                   <closer>
