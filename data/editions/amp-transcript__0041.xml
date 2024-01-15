@@ -22,7 +22,22 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1970-07-06</title>
+               <interpGrp>
+                  <interp xml:id="ana_017" source="ph_017"><!-- link to nanopub -->
+                     <desc>
+                        In the <rs type="lit_work" ref="#lit_work_id_45">published version of her book <hi rend="italics">Austria: People and Landscape</hi></rs>, <rs type="person" ref="#amp_person_2">Stella Musulin</rs> writes: "South of <rs type="place" ref="#amp_place_id_62">Krems</rs>, we can follow the Barockstrasse, and carry on over the Riederberg in the direction of <rs type="place" ref="#amp_place_id_1">Vienna</rs>, or perhaps join the autobahn at <rs type="place" ref="#amp_place_id_9">St. Pölten</rs>. This section of the autobahn offers a very fine view of <rs type="person" ref="#amp_person_1">W. H. Auden</rs>'s <rs type="place" ref="#amp_place_id_2">garage</rs>, and, from the next hill, of <rs type="place" ref="#amp_place_id_47">Neulengbach</rs> Castle where the artist Egon Schiele was jailed for pornography in 1912" (197).
+                        <listBibl>
+                           <bibl sameAs="#lit_work_id_45"/>
+                           <citedRange unit="page" from="197" to="197"/>
+                        </listBibl>
+                     </desc><!-- check page number -->
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
+                     <certainty cert="high" locus="value"></certainty>
+                  </interp>
+               </interpGrp>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -188,7 +203,7 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                 <p>
-                  Have just f<unclear>in</unclear>ish<unclear>e</unclear>d reading <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_45">Aust<unclear>ria"</unclear></rs></hi><lb/>
+                  Have just f<unclear>in</unclear>ish<unclear>e</unclear>d reading <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_163">Aust<unclear>ria"</unclear></rs></hi><lb/>
                   by which I was enchanted a<unclear>s</unclear> w<unclear>e</unclear>ll as<lb/>
                   <unclear>i</unclear>nstructed. My<unclear>!</unclear> how er<unclear>u</unclear>dit<unclear>e</unclear> you are<unclear>,</unclear> Where <hi rend="underline">did</hi><lb/>
                   you dig up all th<unclear>os</unclear>e stories ?
@@ -197,7 +212,7 @@ for any purpose, even commercially.</p>
                   A trifle alarmed that it may attract more<lb/>
                   to<unclear>u</unclear>rist<unclear>s</unclear>,which I'<unclear>m</unclear> sure you don't welco<unclear>m</unclear>e<lb/>
                   any m<unclear>or</unclear>e than I do. (Thanks , by t<unclear>he</unclear> way,<lb/>
-                  for the reference to my garage.)<unclear>.</unclear>
+                  for the <ref ana="#ana_017">reference to my garage.</ref>)<unclear>.</unclear>
                </p>
                <p>
                   Am very cur<unclear>iou</unclear>s to learn mor<unclear>e</unclear> about <rs type="lit_work" ref="#lit_work_id_44">"<hi rend="underline">The L<unclear>i</unclear>fe</hi><lb/>

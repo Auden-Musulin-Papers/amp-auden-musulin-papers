@@ -73,23 +73,11 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
             <language ident="de">German</language>
+            <language ident="fr">French</language>
          </langUsage>
-         
          <correspDesc>
-            <correspAction type="composed">
-               <persName ref="#amp_person_1">Auden, W. H.</persName>
-               <placeName>unknown</placeName>
-               <date notBefore="1970-05-21" notAfter="1970-05-21">1970-05-21</date>
-            </correspAction>
-            <correspAction type="sent">
-               <persName ref="#auden-w-h">Auden, W. H.</persName>
-               <placeName>unknown</placeName>
-               <date>unknown</date>
-            </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName>unknown</placeName>
-               <date>unknown</date>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -98,7 +86,6 @@ for any purpose, even commercially.</p>
                <ref subtype="next_letter" type="withinCollection" target="#amp-transcript__0015.xml">Autograph Letter Signed W. H. Auden to Stella Musulin 1970-06-10</ref>
             </correspContext>
          </correspDesc>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2022-01-25">template populated with script "create_templates.py"</change>
@@ -107,6 +94,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-01-27">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-06-07">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-28">entities and correspDesc collated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-01-15">correspondence container structure updated, entities updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -149,38 +137,68 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0043" xml:lang="en">
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0099/" type="sheet"/>
-               <p>
-                  <rs type="lit_work" ref="#lit_work_id_90"><hi rend="underline">FREEDOM AND NECESSITY IN THE ARTS</hi></rs>
-               </p>
-               <p hand="#handwritten">
-                  May 21st.
-               </p>
-               <p hand="#handwritten">
-                  Dear <rs type="person" ref="#amp_person_2">S<del><unclear>e</unclear></del>tella</rs><unclear>·</unclear><lb/>
-                  You're an angel. I have to deliver <rs type="lit_work" ref="#lit_work_id_85">this</rs><lb/>
-                  in <rs type="event" ref="#amp_event_id_37"><rs type="place" ref="#amp_place_id_47">Neulengbach</rs> on Sun<unclear>day</unclear>, June 14th</rs>.<lb/>
-                  In case your dictionary doesn't give it, the<lb/>
-                  German for the technical word <hi rend="underline">buddle</hi> (page I, near<lb/>
-                  bottom) is <hi rend="underline">Erzwaschtrog</hi> .<lb/>
-                  I hope there is an equivalent German euphemism<lb/>
-                  for <unclear>"t</unclear>e Senior Citizen."<unclear>,</unclear><lb/>
-                  If there is a special honary title of adress<lb/>
-                  for a <hi rend="underline">Landeshaupt<unclear>m</unclear>an</hi>,please supply.<lb/>
-                  love<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs><lb/>
-                  P<unclear>_</unclear>S. <hi rend="underline">Adit</hi>= <hi rend="underline">Stollen</hi>.<lb/>
-                  <hi rend="underline">Concentrating Mill</hi> is,I <del>suspec</del>t<unclear>G</unclear>uess, though I <unclear>ma</unclear>y<lb/>
-                  be wrong , <hi rend="underline">Vereinigungmühle</hi> <unclear>.</unclear>
-               </p>
+               <div type="speech">
+                  <ab>
+                     <title>
+                        <rs type="lit_work" ref="#lit_work_id_90" ana="#ana_"><hi rend="underline">FREEDOM AND NECESSITY IN THE ARTS</hi></rs><!-- link to `interp` regarding Musulin's translation in Podium; link to this doc -->
+                     </title>
+                  </ab>   
+               </div>
+               <div type="letter_message" hand="#handwritten">
+                  <opener>
+                     <dateline>
+                        <date rend="#block">
+                           May 21st.
+                        </date>
+                     </dateline>
+                     <salute>
+                        Dear <rs type="person" ref="#amp_person_2">S<del><unclear>e</unclear></del>tella</rs><unclear>·</unclear><lb/>
+                     </salute>
+                  </opener>
+                  <p>
+                     You're an angel. I have to deliver <rs type="lit_work" ref="#lit_work_id_85">this</rs><lb/>
+                     in <rs type="event" ref="#amp_event_id_37"><rs type="place" ref="#amp_place_id_47">Neulengbach</rs> on Sun<unclear>day</unclear>, June 14th</rs>.
+                  </p>
+                  <p>
+                     In case your dictionary doesn't give it, the<lb/>
+                     German for the technical word <hi rend="underline">buddle</hi> (page I, near<lb/>
+                     bottom) is <hi rend="underline"><foreign xml:lang="de">Erzwaschtrog</foreign></hi> .
+                  </p>
+                  <p>
+                     I hope there is an equivalent German euphemism<lb/>
+                     for <unclear>"t</unclear>e Senior Citizen."<unclear>,</unclear>
+                  </p>
+                  <p>
+                     If there is a special honary title of adress<lb/>
+                     for a <hi rend="underline"><foreign xml:lang="de">Landeshaupt<unclear>m</unclear>an</foreign></hi>,please supply.
+                  </p>
+                  <closer>
+                     <salute>
+                        love
+                     </salute>
+                     <signed>
+                        <rs type="person" ref="#amp_person_1">Wystan</rs>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>
+                        P<unclear>_</unclear>S. <hi rend="underline">Adit</hi>= <hi rend="underline"><foreign xml:lang="de">Stollen</foreign></hi>.<lb/>
+                        <hi rend="underline">Concentrating Mill</hi> is,I <del>suspec</del>t<unclear>G</unclear>uess, though I <unclear>ma</unclear>y<lb/>
+                        be wrong , <hi rend="underline"><foreign xml:lang="de">Vereinigungmühle</foreign></hi> <unclear>.</unclear>
+                     </p>
+                  </postscript>
+               </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0100/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0145/" type="sheet"/>
+               <div type="speech">
                <p hand="#handwritten">
                   (<unclear>1</unclear>
                </p>
                <p>
-                  <space quantity="17" unit="char"/>Sehr vee<del>rh</del>hrter <rs type="person" ref="#amp_person_112">Herr Landeshauptman<unclear>n</unclear></rs><unclear>,</unclear> meine Damen und Herren:<lb/>
+                  <space quantity="17" unit="char"/><foreign xml:lang="de">Sehr vee<del>rh</del>hrter <rs type="person" ref="#amp_person_112">Herr Landeshauptman<unclear>n</unclear></rs><unclear>,</unclear> meine Damen und Herren</foreign>:<lb/>
                   <space quantity="10" unit="char"/>I hope you will pardon me if I speak somewhat personally. I do so,<lb/>
                   not out of vanity,but bec<del>ua</del>ause <space quantity="1" unit="char"/>I do <del>j</del>not wish to give the impression that I<lb/>
                   am attempting to lay down absolute laws which are valid for all. I give you my<lb/>
@@ -207,7 +225,7 @@ for any purpose, even commercially.</p>
                   is an imperative,that is to<unclear>´</unclear> say,one is not free to choose the object or the event<lb/>
                   that arouses it. Though every work of art is a secondary world,it cannot be<lb/>
                   constructed <hi rend="underline">ex nihilo</hi>,but is a selection from and a recombination of the contents of<lb/>
-                  the Primary World. Even the 'purest' poem,in the French Symboliste sense,is<lb/>
+                  the Primary World. Even the 'purest' poem,in the French <foreign xml:lang="fr">Symboliste</foreign> sense,is<lb/>
                   made of words which are not the poet's private property,but the communal creation<lb/>
                   of the linguistic group to whom he belongs,so that their meaning can be looked up<lb/>
                   in a dictionary.<lb/>
@@ -220,7 +238,7 @@ for any purpose, even commercially.</p>
                   only difference being that in the world of games one is free to decide what its<lb/>
                   laws shall be. But to all games as to real life,<rs type="person" ref="#amp_person_11">Goethe</rs>'s lines apply.
                </p>
-               <lg>
+               <lg xml:lang="de">
                   <lb/><space quantity="14" unit="char"/><l><hi rend="underline">In der Beschr<unclear>ä</unclear>nkung zeigt sich erst der Meister</hi>,</l>
                   <lb/><space quantity="14" unit="char"/><l><hi rend="underline">Und d<del>s</del>as Gesetz nur kann uns Freiheit geben.</hi></l>
                </lg>
@@ -375,8 +393,8 @@ for any purpose, even commercially.</p>
                   he is a member shall function properly and improve. But the poet,qua poet,<lb/>
                   has only one political function. Since lang<del>i</del>uage is his medium,it is his duty,<lb/>
                   by his own example,to defend his <del>mot<del>eh</del>her</del>mothermother-tongue against corruption by demagogues,<lb/>
-                  journalists,the mass-media etc. As <rs type="person" ref="#amp_person_81">Karl Kraus</rs><del>s</del> said:"D<hi rend="underline">ie Sprache ist die</hi> <del>Muuet</del><lb/>
-                  <space quantity="1" unit="char"/><hi rend="underline">Mutter,nicht das Magd,des <del>d</del> <del>g</del>Gedankens"</hi>,and when language loses its meaning,<lb/>
+                  journalists,the mass-media etc. As <rs type="person" ref="#amp_person_81">Karl Kraus</rs><del>s</del> said:"<foreign xml:lang="de">D<hi rend="underline">ie Sprache ist die</hi> <del>Muuet</del><lb/>
+                  <space quantity="1" unit="char"/><hi rend="underline">Mutter,nicht das Magd,des <del>d</del> <del>g</del>Gedankens"</hi></foreign>,and when language loses its meaning,<lb/>
                   its <del>palce</del> place is taken by violence. Of course,the poet may use political and<lb/>
                   social events as subject-matter for poems - they are as much a part of human<lb/>
                   experience as love or nature - but he must never imagine that his poems have<lb/>
@@ -463,6 +481,8 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0154/" type="sheet"/>
          </div>
+      </div>
+      </div>
       </body>
    </text>
 </TEI>
