@@ -22,7 +22,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1970-09-18</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -101,6 +103,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-01-16">entities updated, events created</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -119,13 +122,13 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0016">
+         <div type="transcription" xml:id="transcription_amp_0016" xml:lang="en">
             <div type="envelope"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0079/" type="envelope"/>
                <ab>
                   <hi rend="underline"><unclear>Ex</unclear>press<unclear>.</unclear></hi>
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <address>  
@@ -138,11 +141,11 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="person" ref="#amp_person_1">W<unclear>.H.</unclear> Auden</rs><lb/>
                   <seg hand="#printed"> 
-                     <address>  
+                     <address xml:lang="de">  
                         <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                            BEZ. ST. PÖLTEN<lb/>
                            HINTERHOLZ 6<lb/>
-                           N.-Ö., AUSTRIA</rs>
+                           N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                      </address>    
                   </seg> 
                </ab>               
@@ -155,11 +158,11 @@ for any purpose, even commercially.</p>
                      <date rend="#block">Sept 18th.</date>
                      <placeName>
                         <seg hand="#printed">
-                           <address>
+                           <address xml:lang="de">
                               <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                               BEZ. ST. PÖLTEN<lb/>
                               HINTERHOLZ 6<lb/>
-                              N.-Ö., AUSTRIA</rs>
+                              N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                            </address>
                         </seg>
                      </placeName>  
@@ -170,11 +173,11 @@ for any purpose, even commercially.</p>
                </opener>
                <p>
                   Del<unclear>i</unclear>ght<unclear>e</unclear>d to hear you are<lb/>
-                  back.
+                  <rs type="place" ref="#amp_place_id_10">back</rs>.
                </p>
                <p>
-                  Could you and <rs type="person" ref="#amp_person_225">your mother</rs><lb/>
-                  come to lunch <del><unclear>on</unclear></del> next Tuesday ?
+                  <rs type="event" ref="#amp_event_id_99">Could you and <rs type="person" ref="#amp_person_225">your mother</rs><lb/>
+                  come to lunch <del><unclear>on</unclear></del> next Tuesday</rs> ?
                </p>
                <closer>
                   <salute>love</salute>
