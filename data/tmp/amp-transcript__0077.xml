@@ -65,7 +65,7 @@
                      <history>
                         <origin>
                            <origDate notBefore-iso="1970-09-22T00:00:00+01:00" notAfter-iso="1970-09-22T23:59:59+01:00">1970-09-22T00:00:00+01:00/1970-09-22T23:59:59+01:00</origDate>
-                           <origPlace ref="#amp_place_id_2">Hinterholz 6></origPlace>
+                           <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
                         </origin>
                      </history>
                   </msDesc>
