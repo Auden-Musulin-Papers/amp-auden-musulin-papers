@@ -28,10 +28,9 @@
                   <interp xml:id="ana_017" source="ph_017"><!-- link to nanopub -->
                      <desc>
                         In the <rs type="lit_work" ref="#lit_work_id_45">published version of her book <hi rend="italics">Austria: People and Landscape</hi></rs>, <rs type="person" ref="#amp_person_2">Stella Musulin</rs> writes: "South of <rs type="place" ref="#amp_place_id_62">Krems</rs>, we can follow the <hi rend="italics">Barockstrasse</hi>, and carry on over the Riederberg in the direction of <rs type="place" ref="#amp_place_id_1">Vienna</rs>, or perhaps join the autobahn at <rs type="place" ref="#amp_place_id_9">St. Pölten</rs>. This section of the autobahn offers a very fine view of <rs type="person" ref="#amp_person_1">W. H. Auden</rs>'s <rs type="place" ref="#amp_place_id_2">garage</rs>, and, from the next hill, of <rs type="place" ref="#amp_place_id_47">Neulengbach</rs> Castle where the artist Egon Schiele was jailed for pornography in 1912" (197).
-                        <listBibl>
-                           <bibl sameAs="#lit_work_id_45"/>
+                        <bibl sameAs="#lit_work_id_45">
                            <citedRange unit="page" from="197" to="197"/>
-                        </listBibl>
+                        </bibl>
                      </desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
                      <certainty cert="high" locus="value"></certainty>

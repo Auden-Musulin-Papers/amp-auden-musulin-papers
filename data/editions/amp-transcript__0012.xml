@@ -27,11 +27,13 @@
                <interpGrp>
                   <interp xml:id="ana_013" source="ph_013"><!-- link to nanopub -->
                      <desc>
-                        In <rs source="https://hdl.handle.net/21.11115/0000-000E-C312-1">his letter from 4 January 1969</rs>, Auden refers to his "old lawyer", <rs type="person" ref="#amp_person_14">Walter Redlich</rs>, as "supervising the case". Among the Auden papers held by the Archiv der Zeitgenossen, there are two letters by Auden's lawyer <rs type="person" ref="#amp_person_235">Erich Mikesch</rs>, from April and August 1969, related to practical matters ensuing from the <rs type="event" ref="#amp_event_id_2">Boras accident</rs>.
+                        In <ref target="https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0013.xml">his letter from 4 January 1969</ref>, Auden refers to his "old lawyer", <rs type="person" ref="#amp_person_14">Walter Redlich</rs>, as "supervising the case". Among the Auden papers held by the Archiv der Zeitgenossen, there are two letters by Auden's lawyer <rs type="person" ref="#amp_person_235">Erich Mikesch</rs>, from April and August 1969, related to practical matters ensuing from the <rs type="event" ref="#amp_event_id_2">Boras accident</rs>.
                         <listPerson type="choice">
                            <person>
                               <persName ref="#amp_person_14"/>
-                              <bibl sameAs="https://hdl.handle.net/21.11115/0000-000E-C312-1"/>
+                              <bibl sameAs="https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0013.xml">
+                                 <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1969-01-04</title>
+                              </bibl>
                            </person>
                            <person>
                               <persName ref="#amp_person_235"/>
@@ -43,7 +45,8 @@
                                     <collection>NL W. H. Auden</collection>
                                     <idno>LS-Aud 2.52</idno>
                                  </msIdentifier>
-                              </bibl></person>
+                              </bibl>
+                           </person>
                         </listPerson>
                      </desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>

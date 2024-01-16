@@ -64,9 +64,9 @@
                                 <listBibl>
                                     <bibl type="email">
                                         <author>
-                                            <persName ref="#amp_person_94"></persName>
+                                            <persName ref="#amp_person_94"/>
                                         </author>
-                                        <title>AW: Frage zu genannten Namen</title>
+                                        <title>AW: Frage zu genannten Namen, received by Timo Frühwirth</title>
                                         <date notBefore-iso="2022-10-25" notAfter-iso="2022-10-25"></date>
                                     </bibl>
                                 </listBibl>
@@ -82,7 +82,9 @@
                                     <reg xml:lang="de">Shampoo</reg>
                                 </choice>
                                 <listBibl>
-                                    <bibl source="https://de.wikipedia.org/wiki/Schwarzkopf_(Kosmetik)"/>
+                                    <bibl source="https://de.wikipedia.org/wiki/Schwarzkopf_(Kosmetik)">
+                                        <title>...</title>
+                                    </bibl>
                                 </listBibl>
                             </desc>
                             <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
@@ -294,7 +296,7 @@
                       </p>
                       <p>     
                          <space quantity="5" unit="char"/>Also Schluß. <space quantity="1" unit="char"/>Pfingsten: <space quantity="1" unit="char"/>fast durchwegs herrliches Wetter,<lb/>
-                         es war <ref ana="#ana_015">zum T.</ref> Besuch <rs type="place" ref="#amp_place_id_">draussen</rs>, u.a. <rs type="person" ref="#amp_person_141">Sony</rs>, <rs type="person" ref="#amp_person_146">ihre Mutter</rs> und die<lb/>
+                         es war <rs type="note" ana="#ana_015">zum T.</rs> Besuch <rs type="place" ref="#amp_place_id_">draussen</rs>, u.a. <rs type="person" ref="#amp_person_141">Sony</rs>, <rs type="person" ref="#amp_person_146">ihre Mutter</rs> und die<lb/>
                          <rs type="person" ref="#amp_person_142">Amélie</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_94">Marko</rs> und ich sind Samstag vormittag hinaus- und<lb/>
                          erst Dienstag am späten Nachmittag hereingefahren. <space quantity="1" unit="char"/>Ich habe<lb/>
                          einen sehr netten Brief vom <rs type="person" ref="#amp_person_199">foreign editor</rs> der <rs type="org" ref="#amp_organization_23">Financial Times</rs><lb/>
@@ -318,7 +320,7 @@
                          <space quantity="5" unit="char"/>Daß Deine Haut im Augenblick <del>k</del>in keinem guten Zustand ist,<lb/>
                          ist sehr ärgerlich und ich frage mich, was die Ursache sein<lb/>
                          könnte. <space quantity="1" unit="char"/>Daß Du Schuppen hast, habe ich nie gemerkt, aber nimm<lb/>
-                         doch einen guten Schuppen-<ref ana="#ana_016">Schaumpon</ref>. <space quantity="1" unit="char"/>Freilich kann das alles<lb/>
+                         doch einen guten Schuppen-<rs type="note" ana="#ana_016">Schaumpon</rs>. <space quantity="1" unit="char"/>Freilich kann das alles<lb/>
                          mit dem Alter zu tun <del><unclear>z</unclear></del>haben. <space quantity="1" unit="char"/>Freuen wir uns auf den Teint, den<lb/>
                          Du nachher haben wirst... <space quantity="1" unit="char"/>Ich will mir <rs type="person" ref="#amp_person_148">Livia</rs>s Stimme, wie sie
                       </p>
