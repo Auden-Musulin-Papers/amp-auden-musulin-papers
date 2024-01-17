@@ -1,5 +1,5 @@
-document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_comment,translation,Wikipedia,revision_desc
-0070,edition_title,"Fillgradergasse, Fracty",amp_event_id_61,"""the wrong Kirchstetten"" (amp_place_id_314, ana_001, ph_001)","DONE: xml:lang",,revision_desc
+document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_comment,translation,Wikipedia,revision_desc,consistent_solutions,page_number,intertext,schema
+0070,edition_title,"Fillgradergasse, Fracty",amp_event_id_61,"""the wrong Kirchstetten"" (amp_place_id_314, ana_001, ph_001)","DONE: xml:lang",,revision_desc,done,done,no_intertext,"TODO: `fw`"
 0045,edition_title,,"amp_event_id_62, amp_event_id_63",,"DONE: xml:lang",,revision_desc
 0058,edition_title,"amp_place_id_11 (since when)","amp_event_id_64"," ""yourPlace"" (amp_place_id_315, ana_003, ph_003); origDate (ana_002, ph_002)","DONE: xml:lang",,revision_desc
 0057,edition_title,,,"origDate (ana_004, ph_004)","DONE: xml:lang",,revision_desc

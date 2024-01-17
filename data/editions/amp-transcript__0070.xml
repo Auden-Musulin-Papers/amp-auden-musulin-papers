@@ -28,7 +28,7 @@
                <interpGrp>
                   <interp xml:id="ana_001" source="ph_001"><!-- link to nanopub -->
                      <desc>
-                        According to the map of Austria provided by the Austrian Federal Office of Metrology and Surveying (https://maps.bev.gv.at, accessed 10 November 2023), there are six settlements named Kirchstetten on Austrian territory. In addition to Marktgemeinde Kirchstetten in St. Pölten district, Lower Austria, there are: Kirchstetten village in Mistelbach district, Lower Austria; Kirchstetten village in Amstetten district, Lower Austria; Kirchstetten village in Linz-Land district, Upper Austria; Kirchstetten village in Vöcklabruck district, Upper Austria; Kirchstetten village in Perg district, Upper Austria.
+                        According to <ref target="https://maps.bev.gv.at">the map of Austria provided by the Austrian Federal Office of Metrology and Surveying</ref> (accessed 10 November 2023), there are six settlements named Kirchstetten on Austrian territory. In addition to Marktgemeinde Kirchstetten in St. Pölten district, Lower Austria, there are: <ref target="https://sws.geonames.org/2774360/">Kirchstetten village in Mistelbach district, Lower Austria</ref>; <ref target="https://sws.geonames.org/2774363/">Kirchstetten village in Amstetten district, Lower Austria</ref>; <ref target="https://sws.geonames.org/2774361/">Kirchstetten village in Linz-Land district, Upper Austria</ref>; <ref target="https://sws.geonames.org/12626230/">Kirchstetten village in Vöcklabruck district, Upper Austria</ref>; <ref target="https://sws.geonames.org/2774365/">Kirchstetten village in Perg district, Upper Austria</ref>.
                         <listPlace type="choice">
                            <place source="https://sws.geonames.org/2774360/"/>
                            <place source="https://sws.geonames.org/2774363/"/>
@@ -36,6 +36,7 @@
                            <place source="https://sws.geonames.org/2774361/"/>
                            <place source="https://sws.geonames.org/2774365/"/>
                         </listPlace>
+                        <bibl sameAs="https://maps.bev.gv.at"/>
                      </desc>
                      <respons locus="value" resp="#tfruehwirth #dgrigoriou #smayer"/>
                      <certainty locus="value" cert="high"/>
@@ -139,6 +140,7 @@ for any purpose, even commercially.</p>
          <div type="transcription" xml:id="transcription_amp_0070" xml:lang="en">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0465/" type="envelope"/>
+            <fw type="pageNum">1r</fw>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
                   <address>
@@ -156,9 +158,11 @@ for any purpose, even commercially.</p>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0466/" type="envelope"/>
+            <fw type="pageNum">1v</fw>
             </div>
             <div type="letter">
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0467/" type="sheet"/>
+               <fw type="pageNum">2r</fw>
                <div type="letter_message">
                   <opener>
                      <dateline xml:lang="de">
@@ -194,6 +198,7 @@ for any purpose, even commercially.</p>
                   </closer>
                </div>
                <pb facs="https://iiif.acdh.oeaw.ac.at//amp/amp_0468/" type="sheet"/>
+               <fw type="pageNum">2v</fw>
             </div>
          </div>
       </body>
