@@ -33,6 +33,10 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0040,edition_title,,"DONE: amp_event_id_97",,"DONE: xml:lang",,revision_desc
 0043,edition_title,,,"TODO: link to interp re Musulin's interpretation of speech via @ana","DONE: xml:lang","DONE: create Wikidata on Lyrik 70",revision_desc
 0015,edition_title,,"DONE: amp_event_id_98","TODO: link to interp re Musulin's interpretation of speech via @ana","DONE: xml:lang",,revision_desc
-0041,edition_title,"TODO: maiden name Margaret Lloyd-Philipps",,"DONE: TEI formalization of interp re ""reference to my garage""","DONE: xml:lang","DONE: update Stella Musulin Wikidata re Austria: People and Landscape",revision_desc
+0041,edition_title,"TODO: birth/death place/date Margaret Lloyd-Philipps",,"DONE: TEI formalization of interp re ""reference to my garage"" (ana_017, ph_017)","DONE: xml:lang","DONE: update Stella Musulin Wikidata re Austria: People and Landscape",revision_desc
 0016,edition_title,,"DONE: amp_event_id_99",,"DONE: xml:lang",,revision_desc
-0035,edition_title,"TODO: research about telegram workflow","DONE: amp_event_id_100","DONE @ana=ana_03 for Musulin place","DONE: xml:lang",,revision_desc
+0035,edition_title,"TODO: research about telegram workflow","DONE: amp_event_id_100","DONE: @ana=ana_03 for Musulin place","DONE: xml:lang",,revision_desc
+0017,edition_title,,,,"DONE: xml:lang",,revision_desc
+0018,edition_title,,"DONE: amp_event_id_101",,"DONE: xml:lang",,revision_desc
+0019,edition_title,,"DONE: amp_event_id_102","DONE: interp plus formalization re dates of event_id_43 (ana_018, ph_018)","DONE: xml:lang","DONE: update Auden wikipedia article re relocation",revision_desc
+0020,edition_title,,,,"DONE: xml:lang","DONE: update Auden Wikipedia article re Altenburgerhof and Palais Pálffy",revision_desc

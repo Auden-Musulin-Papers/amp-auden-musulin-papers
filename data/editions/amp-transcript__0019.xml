@@ -22,7 +22,27 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1972-02-22</title>
+               <interpGrp>
+                  <interp xml:id="ana_018" source="ph_018"><!-- link to nanopub -->
+                     <desc>
+                        According to Richard Davenport-Hines's Auden biography, <rs type="person" ref="#amp_person_1">W. H. Auden</rs> took leave from his friends in <rs type="place" ref="#amp_place_id_28">New York City</rs> on 15 April 1972, and, after briefly returning to the <rs type="place" ref="#amp_place_id_15">US</rs>, ultimately left for <rs type="place" ref="#amp_place_id_46">Oxford</rs> on 30 September 1972.
+                        <bibl>
+                           <author>Richard Davenport-Hines</author>
+                           <title>Auden</title>
+                           <publisher>Heinemann</publisher>
+                           <pubPlace ref="#amp_place_id_56"/>
+                           <date when-iso="1995"/>
+                           <idno type="ISBN">0-434-17507-2</idno>
+                           <citedRange unit="page" from="336" to="337"/>
+                        </bibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
+                     <certainty cert="high" locus="value"></certainty>
+                  </interp>
+               </interpGrp>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -110,6 +130,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-03-16">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-01-17">entities updated, events created, interpGrp added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -128,7 +149,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0019">
+         <div type="transcription" xml:id="transcription_amp_0019" xml:lang="en">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0091/" type="envelope"/>
                <ab>
@@ -143,14 +164,14 @@ for any purpose, even commercially.</p>
                <ab>
                   Not <unclear>q</unclear>uitti<unclear>n</unclear>g <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> <unclear>·</unclear>
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <address> 
                      <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                      3200 Obergrabendorf<lb/>
                      N. Ö<lb/>
-                     Austria</rs>
+                     <foreign xml:lang="en">Austria</foreign></rs>
                   </address>
                </ab>   
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0092/" type="envelope"/>
@@ -174,9 +195,9 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     Many thanks for your letter<unclear>,</unclear> Whate<unclear>ve</unclear>r<lb/>
+                     <rs type="event" ref="#amp_event_id_102">Many thanks for your letter</rs><unclear>,</unclear> Whate<unclear>ve</unclear>r<lb/>
                      ma<unclear>d</unclear>e you imagine I was quitting <rs type="place" ref="#amp_place_id_5">Kirchst<unclear>e</unclear>tten</rs><unclear>?</unclear><lb/>
-                     Of course I'm not<unclear>,</unclear> The <rs type="event" ref="#amp_event_id_43">change</rs> is that I<lb/>
+                     Of course I'm not<unclear>,</unclear> The <rs type="event" ref="#amp_event_id_43" ana="#ana_018">change</rs> is that I<lb/>
                      shall be spending my winters in <rs type="place" ref="#amp_place_id_46">Oxford</rs><lb/>
                      not in <rs type="place" ref="#amp_place_id_28">New York</rs>.
                   </p>
