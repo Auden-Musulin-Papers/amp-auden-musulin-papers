@@ -125,7 +125,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0045" xml:lang="en">
             <div type="envelope">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0109/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0109/" type="envelope" ed="1r"/>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_1">W. H<unclear>.</unclear> Auden</rs><lb/>
                   <address>  
@@ -144,10 +144,10 @@ for any purpose, even commercially.</p>
                      N.<unclear>O</unclear></rs>
                   </address>
                </ab>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0110/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0110/" type="envelope" ed="1v"/>
             </div>
             <div type="letter">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0111/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0111/" type="sheet" ed="2r"/>
                <div type="letter_message">
                   <opener>
                      <dateline>
@@ -178,7 +178,7 @@ for any purpose, even commercially.</p>
                      <signed><rs type="person" ref="#amp_person_1">Wystan Auden</rs></signed>
                   </closer>
             </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0112/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0112/" type="sheet" ed="2v"/>
          </div>
       </div>
       </body>
