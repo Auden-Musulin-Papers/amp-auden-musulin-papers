@@ -139,8 +139,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0070" xml:lang="en">
             <div type="envelope">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0465/" type="envelope"/>
-            <fw type="pageNum">1r</fw>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0465/" type="envelope" ed="1r"/>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
                   <address>
@@ -157,12 +156,10 @@ for any purpose, even commercially.</p>
                      <space quantity="31" unit="char"/>Fillgradegasse I2</rs>
                   </address>
                </ab>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0466/" type="envelope"/>
-            <fw type="pageNum">1v</fw>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0466/" type="envelope" ed="1v"/>
             </div>
             <div type="letter">
-               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0467/" type="sheet"/>
-               <fw type="pageNum">2r</fw>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0467/" type="sheet" ed="2r"/>
                <div type="letter_message">
                   <opener>
                      <dateline xml:lang="de">
@@ -197,8 +194,7 @@ for any purpose, even commercially.</p>
                      <space quantity="27" unit="char"/><signed><rs type="person" ref="#amp_person_1">W.H.Auden</rs></signed>
                   </closer>
                </div>
-               <pb facs="https://iiif.acdh.oeaw.ac.at//amp/amp_0468/" type="sheet"/>
-               <fw type="pageNum">2v</fw>
+               <pb facs="https://iiif.acdh.oeaw.ac.at//amp/amp_0468/" type="sheet" ed="2v"/>
             </div>
          </div>
       </body>
