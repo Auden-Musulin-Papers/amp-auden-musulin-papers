@@ -73,6 +73,14 @@ for any purpose, even commercially.</p>
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="acdh" matchPattern="(.+)"
+               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+               <p>Edition Documents Prefix</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
@@ -119,7 +127,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0059" xml:lang="en">
             <div type="envelope"> 
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0031/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0031/" type="envelope" ed="1r"/>
                <ab>
                   <gap reason="illegible"/>
                </ab>
@@ -130,7 +138,7 @@ for any purpose, even commercially.</p>
                      Neulingasse 26.</rs>
                   </address> 
                </ab>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0032/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0032/" type="envelope" ed="1v"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear> Auden</rs>
                   <seg hand="#printed">
@@ -143,7 +151,7 @@ for any purpose, even commercially.</p>
                </ab>
             </div>
             <div type="letter">
-               <pb facs="" type="sheet"/><!-- facs uri missing -->
+               <pb facs="" type="sheet" ed="2r"/><!-- facs uri missing -->
                <div type="letter_message">
                   <opener>
                      <dateline>
@@ -167,7 +175,7 @@ for any purpose, even commercially.</p>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                   </closer>
                </div>
-               <pb facs="" type="sheet"/><!-- facs uri missing -->
+               <pb facs="" type="sheet" ed="2v"/><!-- facs uri missing -->
             </div>
          </div>
       </body>

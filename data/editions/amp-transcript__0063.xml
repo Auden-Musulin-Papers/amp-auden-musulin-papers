@@ -23,7 +23,7 @@
                 </funder>
             </titleStmt>
             <editionStmt>
-                <edition>
+                <edition><!-- 1960-09-01 Lebensform Kaffeehaus, Furche, Helmut Butterweck -->
                     <title>Autograph Letter Signed Stella Musulin to Christine Busta 1962-05-23</title>
                 </edition>
                 <respStmt>
@@ -76,6 +76,14 @@
                 </listWit>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="acdh" matchPattern="(.+)"
+                    replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+                    <p>Edition Documents Prefix</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
         <profileDesc>
             <langUsage>
                 <language ident="de">German</language>
