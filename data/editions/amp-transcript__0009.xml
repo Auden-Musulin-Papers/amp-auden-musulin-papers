@@ -34,7 +34,7 @@
                         </listBibl>
                      </desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
-                     <certainty cert="high" locus="value"></certainty>
+                     <certainty cert="high" locus="value"/>
                   </interp>
                </interpGrp>
             </edition>

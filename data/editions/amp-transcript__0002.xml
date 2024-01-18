@@ -29,7 +29,7 @@
                   <interp xml:id="ana_007" source="ph_007"><!-- link to nanopub -->
                      <desc>In her memoirs ("Auden in Kirchstetten" 210, <ref target="https://hdl.handle.net/21.11115/0000-000F-7452-2">"The Years in Austria"</ref> 14), Stella Musulin refers to her own previous letter to Berlin, in which she had mentioned <rs type="person" ref="#amp_person_70">Brian Bunting</rs>'s non-fiction book <rs type="lit_work" ref="#lit_work_id_72">The Rise of the South African Reich</rs> in relation to the issue of torture.</desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
-                     <certainty cert="high" locus="value"></certainty>
+                     <certainty cert="high" locus="value"/>
                   </interp>
                </interpGrp>
             </edition>

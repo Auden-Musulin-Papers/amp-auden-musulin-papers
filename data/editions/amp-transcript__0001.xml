@@ -29,7 +29,7 @@
                   <interp xml:id="ana_006" source="ph_006"><!-- link to nanopub -->
                      <desc>According to the online archive of the Austrian Society for Literature (https://www.ogl.at/programm/aktuelles-programm/archiv/1963/5), Auden participated in the Internationales Kassner-Symposium (International Rudolf Kassner Symposium), which opened on Sunday, 12 May 1963. Auden gave a talk on "Begegnung mit dem Werk Rudolf Kassners" ("Encounter with the Work of Rudolf Kassner") on Friday, 17 May 1963.</desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
-                     <certainty cert="high" locus="value"></certainty>
+                     <certainty cert="high" locus="value"/>
                   </interp>
                </interpGrp>
             </edition>
