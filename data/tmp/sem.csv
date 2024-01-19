@@ -7,7 +7,7 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0021,edition_title,,"amp_event_id_65",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done
 0071,edition_title,,,"origDate (ana_005, ph_005); @ana=ana_003 for origPlace","DONE: xml:lang",,revision_desc,done,done,no_intertext,`citedRange`,done
 0059,edition_title,"we still need the bedroom letter :-/",,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done
-0063,edition_title,"""heute Abend"" reading of Christine Busta; ""Caféhaus Drei viertel"" - see furche article",amp_event_id_67,"@ana=ana_003 for origPlace","DONE: xml:lang",,revision_desc,,,,,done
+0063,edition_title,"""heute Abend"" reading of Christine Busta; ""Caféhaus Drei viertel"" - find in phone book",amp_event_id_67,"@ana=ana_003 for origPlace; @ana=ana_019 for Café Dreiviertel","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done
 0023,edition_title,,amp_event_id_16,,"DONE: xml:lang","add paragraph on Auden-Zimmer de and create en article",revision_desc
 0024,edition_title,,amp_event_id_68,,"DONE: xml:lang",,revision_desc
 0025,edition_title,,amp_event_id_17,,"DONE: xml:lang",,revision_desc

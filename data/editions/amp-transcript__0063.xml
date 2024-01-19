@@ -25,6 +25,32 @@
             <editionStmt>
                 <edition><!-- 1960-09-01 Lebensform Kaffeehaus, Furche, Helmut Butterweck -->
                     <title>Autograph Letter Signed Stella Musulin to Christine Busta 1962-05-23</title>
+                    <interpGrp>
+                        <interp xml:id="ana_019" source="ph_019"><!-- link to nanopub -->
+                            <desc>
+                                In his report on Viennese coffeehouse culture, "Lebensform Kaffeehaus: Elegische Betrachtungen eines Wieners" (<rs type="org" ref="#amp_organization_25">Die Furche</rs>, 1 Sep. 1960), Helmut Butterweck locates the "<rs type="place" ref="#amp_place_id_301">Café Dreiviertel</rs>" at the "Ende der Neubaugasse" ["the end of Neubaugasse"] in the seventh <rs type="place" ref="#amp_place_id_1">Viennese</rs> district.
+                                <address>
+                                    <settlement ref="#amp_place_id_1"/>
+                                    <street>Neubaugasse</street>
+                                    <district>Neubau</district>
+                                </address>
+                                <bibl>
+                                    <author>
+                                        <persName>
+                                            <forename>Helmut</forename>
+                                            <surname>Butterweck</surname>
+                                        </persName>
+                                    </author>
+                                    <title level="a" ref="#amp_organization_25"/>
+                                    <title level="m" xml:lang="de">Lebensform Kaffeehaus: Elegische Betrachtungen eines Wieners</title>
+                                    <pubPlace ref="#amp_place_id_1"/>
+                                    <date when-iso="1960-09-01"/>
+                                </bibl>
+                            </desc>
+                            <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
+                            <certainty cert="high" locus="value"></certainty>
+                        </interp>
+                    </interpGrp>
                 </edition>
                 <respStmt>
                     <resp>Transcription and commentary</resp>
@@ -121,7 +147,7 @@
         <body>
             <div type="transcription" xml:id="transcription_amp_0063" xml:lang="de">
                 <div type="letter"> 
-                    <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0463/" type="sheet"/>
+                    <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0463/" type="sheet" ed="1r"/>
                         <div type="letter_message">
                             <opener>
                                 <dateline>
@@ -151,7 +177,7 @@
                                 Ich wollte Sie heute Abend nicht<lb/>
                                 aufhalten<unclear>.</unclear> Sie hätten sich wahrscheinlich nicht<lb/>
                                 an mich erinnert <unclear>_</unclear> vor drei, vier Jahren<lb/>
-                                habe ich Sie im <rs type="place" ref="#amp_place_id_301">Caféhaus "<unclear>D</unclear>rei viertel"</rs><lb/>
+                                habe ich Sie im <rs type="place" ref="#amp_place_id_301" ana="#ana_019">Caféhaus "<unclear>D</unclear>rei viertel"</rs><lb/>
                                 "<foreign xml:lang="en">interviewed</foreign>"; und doch möchte ich mich<lb/>
                                 für die Freude, die <del>sich</del> Sie mir heute gemacht<lb/>
                                 haben, bedanken.    
@@ -176,7 +202,7 @@
                                 <rs type="person" ref="#amp_person_79">Henze</rs>, <rs type="person" ref="#amp_person_115">Brecht</rs> u.s.w.) Er versteht zu wenig<lb/>
                                 Deutsch, es hat mich aber interessiert,
                             </p>
-                         <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0464/" type="sheet"/>
+                         <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0464/" type="sheet" ed="1v"/>
                             <p prev="true">
                                 daß er imstande war, von der Technik<lb/>
                                 Ihrer Dichtung eine Menge herauszuhören<lb/>
