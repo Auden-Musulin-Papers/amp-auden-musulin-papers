@@ -29,7 +29,7 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0012,edition_title,"TODO: check ""my lawyer""",,"DONE: TEI formalization of interp re ""my lawyer"" (ana_013, ph_013)","DONE: xml:lang",,revision_desc
 0013,edition_title,"TODO: find more info on Redlich","DONE: amp_event_id_93",,"DONE: xml:lang",,revision_desc
 0014,edition_title,,"DONE: amp_event_id_94, amp_event_id_95",,"DONE: xml:lang","update Wikidata item on state visit of Elizabeth II",revision_desc
-0053,edition_title,"TODO: ""draussen""; Schönbrunn event date",,"DONE: TEI formalization of interp (1) re ""Liebling"" (ana_014, ph_014) and (2) re ""T."" (ana_015, ph_015) and (3) re ""Schaumpon"" (ana_016, ph_016)","DONE: xml:lang","update Wikidata for Edith Silbermann",revision_desc
+0053,edition_title,"TODO: ""draussen""",,"DONE: TEI formalization of interp (1) re ""Liebling"" (ana_014, ph_014) and (2) re ""T."" (ana_015, ph_015) and (3) re ""Schaumpon"" (ana_016, ph_016) and (4) re ""Schönbrunn"" and ""Fledermaus"" (ana_020, ph_020)","DONE: xml:lang","update Wikidata for Edith Silbermann",revision_desc
 0040,edition_title,,"DONE: amp_event_id_97",,"DONE: xml:lang",,revision_desc
 0043,edition_title,,,"TODO: link to interp re Musulin's interpretation of speech via @ana","DONE: xml:lang","DONE: create Wikidata on Lyrik 70",revision_desc
 0015,edition_title,,"DONE: amp_event_id_98","TODO: link to interp re Musulin's interpretation of speech via @ana","DONE: xml:lang",,revision_desc

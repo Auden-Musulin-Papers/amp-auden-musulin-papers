@@ -84,7 +84,32 @@
                                 </choice>
                                 <listBibl>
                                     <bibl source="https://de.wikipedia.org/wiki/Schwarzkopf_(Kosmetik)">
-                                        <title>...</title>
+                                        <title level="a" xml:lang="de">Schwarzkopf (Kosmetik)</title>
+                                    </bibl>
+                                </listBibl>
+                            </desc>
+                            <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
+                            <certainty cert="high" locus="value"></certainty>
+                        </interp>
+                        <interp source="ph_020" xml:id="ana_020"><!-- link to nanopub -->
+                            <desc>
+                                According to the article "'Fledermaus' und Speck: Die Queen in Österreich" in <rs type="org" ref="#amp_organization_39">Die Presse</rs> from 9 September 2022, <rs type="person" ref="#amp_person_138">Queen Elizabeth II</rs> attended a gala dinner at <rs type="place" ref="#amp_place_id_82">Schönbrunn Palace</rs> on 5 May 1969, which is the day of her arrival in <rs type="place" ref="#amp_place_id_10">Austria</rs> for her <rs type="event" ref="#amp_event_id_7">1969 state visit</rs>. The <ref target="https://www.wiener-staatsoper.at/en/staatsoper/media/detail/news/on-the-death-of-the-queen">media archive of the <rs type="place" ref="#amp_place_id_157">Vienna State Opera</rs></ref> records her attendance of a <rs type="event" ref="#amp_event_id_96">special performance of "Die Fledermaus"</rs> on 6 May 1969.
+                                <listBibl>
+                                    <bibl sameAs="https://www.diepresse.com/6187877/fledermaus-und-speck-die-queen-in-oesterreich">
+                                        <author>
+                                            <persName>
+                                                <forename>Eva</forename>
+                                                <surname>Schrittwieser</surname>
+                                            </persName>
+                                        </author>
+                                        <orgName ref="#amp_organization_39"/>
+                                        <title level="a" xml:lang="de">"Fledermaus" und Speck: Die Queen in Österreich</title>
+                                        <pubPlace ref="#amp_place_id_1"/>
+                                        <date when-iso="2022-09-09"/>
+                                    </bibl>
+                                    <bibl sameAs="https://www.wiener-staatsoper.at/en/staatsoper/media/detail/news/on-the-death-of-the-queen">
+                                        <title level="a" xml:lang="en">On the Death of the Queen</title>
+                                        <date when-iso="2022-09-09"/>
                                     </bibl>
                                 </listBibl>
                             </desc>
@@ -307,11 +332,11 @@
                          imstande bin, in ih<del>e</del>rem Stil zu schreiben - "wenigen gelingt es".<lb/>
                          Jetzt will ich Deine Fragen beantworten und sonst noch schauen<lb/>
                          was in Deinem letzten Brief steht. <space quantity="1" unit="char"/><rs type="event" ref="#amp_event_id_7">Die grande toilette der <rs type="person" ref="#amp_person_147">Eva</rs><lb/>
-                         für <rs type="place" ref="#amp_place_id_82">Schönbrunn</rs> war - ich kann Kleider so schlecht schildern -<lb/>
+                         für <rs type="event" ref="#amp_event_id_103" ana="#ana_020">Schönbrunn</rs> war - ich kann Kleider so schlecht schildern -<lb/>
                          ein bis zum Boden reichendes Kleid in sanft grüner Farbe, aus<lb/>
                          <del>einer</del> mit winzigen Perlen besticker, schwerer Seide. <space quantity="1" unit="char"/>Der Mantel<lb/>
                          mit ein wenig hochstehendem Kragen war aus dem gleichen aber<lb/>
-                         unbesticktem Stoff. <space quantity="1" unit="char"/>Mein eigenes Kleid für die <rs type="event" ref="#amp_event_id_96"><rs type="place" ref="#amp_place_id_157">Oper</rs></rs> war leider<lb/>
+                         unbesticktem Stoff. <space quantity="1" unit="char"/>Mein eigenes Kleid für die <rs type="event" ref="#amp_event_id_96" ana="#ana_020"><rs type="place" ref="#amp_place_id_157">Oper</rs></rs> war leider<lb/>
                          auch grün, ganz schlicht, gold-lurex Art, mit Seitenschlitz<lb/>
                          links bis zum Knie. <space quantity="1" unit="char"/>Für den makellosen Teint der <rs type="person" ref="#amp_person_138">Königin</rs> ist<lb/>
                          Veranlagung verantwortlich, ich habe selten jemanden mit einem<lb/>

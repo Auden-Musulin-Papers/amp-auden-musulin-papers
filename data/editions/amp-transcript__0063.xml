@@ -41,8 +41,8 @@
                                             <surname>Butterweck</surname>
                                         </persName>
                                     </author>
-                                    <title level="a" ref="#amp_organization_25"/>
-                                    <title level="m" xml:lang="de">Lebensform Kaffeehaus: Elegische Betrachtungen eines Wieners</title>
+                                    <orgName ref="#amp_organization_25"/>
+                                    <title level="a" xml:lang="de">Lebensform Kaffeehaus: Elegische Betrachtungen eines Wieners</title>
                                     <pubPlace ref="#amp_place_id_1"/>
                                     <date when-iso="1960-09-01"/>
                                 </bibl>
