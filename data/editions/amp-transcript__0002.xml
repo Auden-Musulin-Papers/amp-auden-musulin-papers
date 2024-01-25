@@ -27,7 +27,43 @@
                <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23</title>
                <interpGrp>
                   <interp xml:id="ana_007" source="ph_007"><!-- link to nanopub -->
-                     <desc>In her memoirs ("Auden in Kirchstetten" 210, <ref target="https://hdl.handle.net/21.11115/0000-000F-7452-2">"The Years in Austria"</ref> 14), Stella Musulin refers to her own previous letter to Berlin, in which she had mentioned <rs type="person" ref="#amp_person_70">Brian Bunting</rs>'s non-fiction book <rs type="lit_work" ref="#lit_work_id_72">The Rise of the South African Reich</rs> in relation to the issue of torture.</desc>
+                     <desc>
+                        In her memoirs ("Auden in Kirchstetten" 210, <ref target="acdh:amp-transcript__0062.xml#id">"The Years in Austria"</ref> 14), Stella Musulin refers to her own previous letter to Berlin, in which she had mentioned <rs type="person" ref="#amp_person_70">Brian Bunting</rs>'s non-fiction book <rs type="lit_work" ref="#lit_work_id_72">The Rise of the South African Reich</rs> in relation to the issue of torture.
+                        <listEvent>
+                           <event ref="#amp_event_id_70"><label>Letter Stella Musulin to W. H. Auden 1964-09-01--1964-12-23</label></event>
+                        </listEvent>
+                        <listBibl>
+                           <bibl>
+                              <author>
+                                 <persName ref="#amp_person_2"/>
+                              </author>
+                              <editor>
+                                 <persName>
+                                    <forename>Katherine</forename>
+                                    <surname>Bucknell</surname>
+                                 </persName>
+                              </editor>
+                              <editor>
+                                 <persName>
+                                    <forename>Nicholas</forename>
+                                    <surname>Jenkins</surname>
+                                 </persName>
+                              </editor>
+                              <title level="a">Auden in Kirchstetten</title>
+                              <title level="m">W.H. Auden: 'In Solitude, for Company': W.H. Auden After 1940</title>
+                              <publisher>Clarendon Press</publisher>
+                              <pubPlace ref="#amp_place_id_46"/>
+                              <date when-iso="1995"/>
+                              <idno type="ISBN">0-19-818294-5</idno>
+                              <biblScope unit="page" from="207" to="233"/>
+                              <citedRange unit="page" from="210" to="210"/>
+                           </bibl>
+                           <bibl>
+                              <ref target="acdh:amp-transcript__0062.xml#id"/>
+                              <citedRange unit="page" from="14" to="14"/>
+                           </bibl>
+                        </listBibl>
+                     </desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
                      <certainty cert="high" locus="value"/>
                   </interp>
@@ -81,6 +117,14 @@ for any purpose, even commercially.</p>
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="acdh" matchPattern="(.+)"
+               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+               <p>Edition Documents Prefix</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
@@ -142,7 +186,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0002" xml:lang="en">
             <div type="envelope" xml:lang="de">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0007/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0007/" type="envelope" ed="1r"/>
                <ab>
                   <hi rend="underline">mit Luft Post</hi>
                </ab>
@@ -166,7 +210,7 @@ for any purpose, even commercially.</p>
                      Neulinggasse 26/14</rs>
                   </address>
                </ab>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0008/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0008/" type="envelope" ed="1v"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">W H Auden</rs><lb/>
                   <address>
@@ -177,7 +221,7 @@ for any purpose, even commercially.</p>
                </ab>
             </div>
             <div type="letter">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0005/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0005/" type="sheet" ed="2r"/>
                <div type="letter_message">
                   <opener>
                      <dateline>
@@ -222,7 +266,7 @@ for any purpose, even commercially.</p>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                   </closer>
                </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0006/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0006/" type="sheet" ed="2v"/>
             </div>
          </div>
       </body>

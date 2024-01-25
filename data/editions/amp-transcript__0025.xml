@@ -74,6 +74,14 @@ for any purpose, even commercially.</p>
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="acdh" matchPattern="(.+)"
+               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+               <p>Edition Documents Prefix</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
@@ -126,7 +134,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0025" xml:lang="en">
             <div type="envelope">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0129/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0129/" type="envelope" ed="1r"/>
                <ab>
                   <rs type="event" ref="#amp_event_id_17">Dines wi<unclear>th</unclear> <rs type="person" ref="#amp_person_109"><foreign xml:lang="de">Pfa<unclear>rr</unclear>er</foreign></rs></rs>.
                </ab>
@@ -138,7 +146,7 @@ for any purpose, even commercially.</p>
                      Neulinggasse 26.</rs>
                   </address>   
                </ab>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0130/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0130/" type="envelope" ed="1v"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">WH<unclear>.</unclear>Auden<unclear>.</unclear></rs><lb/>
                   <seg hand="#printed">
@@ -151,7 +159,7 @@ for any purpose, even commercially.</p>
                </ab>
             </div>
             <div type="letter">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0131/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0131/" type="sheet" ed="2r"/>
                <div type="letter_message">
                   <opener>
                      <dateline>
@@ -176,7 +184,7 @@ for any purpose, even commercially.</p>
                     <signed><rs type="person" ref="#amp_person_1">Wystan</rs>.</signed>
                   </closer>
                </div>        
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0132/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0132/" type="sheet" ed="2v"/>
          </div>
       </div>
       </body>
