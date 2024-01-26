@@ -74,6 +74,14 @@ for any purpose, even commercially.</p>
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="acdh" matchPattern="(.+)"
+               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+               <p>Edition Documents Prefix</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
@@ -113,7 +121,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0044" xml:lang="en">
             <div type="letter">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0101/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0101/" type="sheet" ed="1r"/>
                <div type="letter_message">
                   <opener>
                      <dateline>
@@ -155,7 +163,7 @@ for any purpose, even commercially.</p>
                   <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                </closer>
             </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0102/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0102/" type="sheet" ed="1v"/>
          </div>
       </div>
       </body>

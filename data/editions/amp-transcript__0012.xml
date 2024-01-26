@@ -29,7 +29,7 @@
                   <interp xml:id="ana_013" source="ph_013"><!-- link to nanopub -->
                      <desc>
                         In <ref target="https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0013.xml">his letter from 4 January 1969</ref>, Auden refers to his "old lawyer", <rs type="person" ref="#amp_person_14">Walter Redlich</rs>, as "supervising the case". Among the Auden papers held by the Archiv der Zeitgenossen, there are two letters by Auden's lawyer <rs type="person" ref="#amp_person_235">Erich Mikesch</rs>, from April and August 1969, related to practical matters ensuing from the <rs type="event" ref="#amp_event_id_2">Boras accident</rs>.
-                        <listPerson type="choice">
+                        <listPerson type="choice"><!-- we don't need listPerson here anymore, for we know it's Redlich; we do need bibl to refer to Auden's letter to Hugo from 11 January and to the below bibl and to the other letter in AMP -->
                            <person>
                               <persName ref="#amp_person_14"/>
                               <bibl sameAs="https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0013.xml">
@@ -206,7 +206,7 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     I am in despair. I wrote to <rs type="person" ref="#amp_person_236" ana="#ana_013">my lawyer</rs><lb/>
+                     I am in despair. I wrote to <rs type="person" ref="#amp_person_14" ana="#ana_013">my lawyer</rs><lb/>
                      and to our factotum , <rs type="person" ref="#amp_person_21">Otto Ho<unclear>l</unclear>fmann</rs> to find<lb/>
                      out details about the <rs type="event" ref="#amp_event_id_2">accident</rs> and the<lb/>
                      whereabout<unclear>s</unclear> and condition of the car, but have<lb/>
