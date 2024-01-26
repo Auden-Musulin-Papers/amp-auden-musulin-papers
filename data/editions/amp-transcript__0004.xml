@@ -29,11 +29,11 @@
                   <interp xml:id="ana_010" source="ph_010"><!-- link to nanopub -->
                      <desc>
                         In his <rs type="lit_work" ref="#lit_work_id_39">W. H. Auden: A Biography</rs>, <rs type="person" ref="#amp_person_100">Humphrey Carpenter</rs> reports that "[i]n about 1968 Auden began to look round for another composer with whom to write an opera" (428). <rs type="person" ref="#amp_person_19">Peter Heyworth</rs> arranged a meeting with composer <rs type="person" ref="#amp_person_234">Harrison Birtwistle</rs>, but nothing came of the intended collaboration. In <rs type="lit_work" ref="#lit_work_id_159">a 2014 interview</rs>, Birtwistle recalls that "[h]e was once approached by WH Auden, who wanted to write an operatic version of <rs type="lit_work" ref="#lit_work_id_6">Love's Labour's Lost</rs> with him", but refused. Auden and <rs type="person" ref="#amp_person_4">Kallman</rs> eventually realized <rs type="lit_work" ref="#lit_work_id_19">the project</rs> in collaboration with <rs type="person" ref="#amp_person_207">Nicolas Nabokov</rs>.
-                        <listPerson>
-                           <person><persName ref="#amp_person_234"/></person>
-                        </listPerson>
+                        <persName ref="#amp_person_234"/>
                         <listBibl>
-                           <bibl sameAs="#lit_work_id_39"/>
+                           <bibl sameAs="#lit_work_id_39">
+                              <citedRange unit="page" from="428" to="428"/>
+                           </bibl>
                            <bibl sameAs="#lit_work_id_159"/>
                         </listBibl>
                      </desc>
@@ -90,6 +90,14 @@ for any purpose, even commercially.</p>
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="acdh" matchPattern="(.+)"
+               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+               <p>Edition Documents Prefix</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
@@ -142,7 +150,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0004" xml:lang="en">
             <div type="envelope">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0019/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0019/" type="envelope" ed="1r"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
                   <address>
@@ -165,10 +173,10 @@ for any purpose, even commercially.</p>
                      <space quantity="9" unit="char"/><foreign xml:lang="en">Austria</foreign></rs>
                   </address>
                </ab>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0020/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0020/" type="envelope" ed="1v"/>
             </div>
             <div type="letter">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0021/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0021/" type="sheet" ed="2r"/>
                <div type="letter_message">
                <opener>
                   <dateline>
@@ -244,7 +252,7 @@ for any purpose, even commercially.</p>
                   </signed>
                </closer>
                </div>      
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0022/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0022/" type="sheet"  ed="2v"/>
             </div>
          </div>
       </body>
