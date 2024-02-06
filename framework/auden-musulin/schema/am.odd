@@ -669,16 +669,17 @@
                   <valItem ident="event"/>
                   <valItem ident="org"/>
                   <valItem ident="lit_work"/>
+                  <valItem ident="note"/>
                 </valList>
               </attDef>
-              <attDef ident="ref" mode="change" usage="req">
+              <attDef ident="ref" mode="change" usage="opt">
                 <datatype>
                   <dataRef name="token" restriction="#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+"/>
                 </datatype>
               </attDef>
               <attDef ident="ana" mode="change" usage="opt">
                 <datatype>
-                  <dataRef name="token" restriction="#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+"/>
+                  <dataRef name="token" restriction="#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+|acdh:.+"/>
                 </datatype>
               </attDef>
             </attList>

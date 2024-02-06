@@ -33,7 +33,7 @@
                            <event ref="#amp_event_id_70"><label>Letter Stella Musulin to W. H. Auden 1964-09-01--1964-12-23</label></event>
                         </listEvent>
                         <listBibl>
-                           <bibl>
+                           <bibl sameAs="#lit_work_id_162">
                               <author>
                                  <persName ref="#amp_person_2"/>
                               </author>
