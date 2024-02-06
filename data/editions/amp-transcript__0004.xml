@@ -8,6 +8,7 @@
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </editor>
             <funder>
                <name>FWF Austrian Science Fund</name>
@@ -28,16 +29,16 @@
                   <interp xml:id="ana_010" source="ph_010"><!-- link to nanopub -->
                      <desc>
                         In his <rs type="lit_work" ref="#lit_work_id_39">W. H. Auden: A Biography</rs>, <rs type="person" ref="#amp_person_100">Humphrey Carpenter</rs> reports that "[i]n about 1968 Auden began to look round for another composer with whom to write an opera" (428). <rs type="person" ref="#amp_person_19">Peter Heyworth</rs> arranged a meeting with composer <rs type="person" ref="#amp_person_234">Harrison Birtwistle</rs>, but nothing came of the intended collaboration. In <rs type="lit_work" ref="#lit_work_id_159">a 2014 interview</rs>, Birtwistle recalls that "[h]e was once approached by WH Auden, who wanted to write an operatic version of <rs type="lit_work" ref="#lit_work_id_6">Love's Labour's Lost</rs> with him", but refused. Auden and <rs type="person" ref="#amp_person_4">Kallman</rs> eventually realized <rs type="lit_work" ref="#lit_work_id_19">the project</rs> in collaboration with <rs type="person" ref="#amp_person_207">Nicolas Nabokov</rs>.
-                        <listPerson>
-                           <person><persName ref="#amp_person_234"/></person>
-                        </listPerson>
+                        <persName ref="#amp_person_234"/>
                         <listBibl>
-                           <bibl sameAs="#lit_work_id_39"/>
+                           <bibl sameAs="#lit_work_id_39">
+                              <citedRange unit="page" from="428" to="428"/>
+                           </bibl>
                            <bibl sameAs="#lit_work_id_159"/>
                         </listBibl>
                      </desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
-                     <certainty cert="medium" locus="value"></certainty>
+                     <certainty cert="medium" locus="value"/>
                   </interp>
                </interpGrp>
             </edition>
@@ -45,6 +46,7 @@
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -88,6 +90,14 @@ for any purpose, even commercially.</p>
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="acdh" matchPattern="(.+)"
+               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+               <p>Edition Documents Prefix</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
@@ -140,7 +150,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0004" xml:lang="en">
             <div type="envelope">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0019/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0019/" type="envelope" ed="1r"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
                   <address>
@@ -163,10 +173,10 @@ for any purpose, even commercially.</p>
                      <space quantity="9" unit="char"/><foreign xml:lang="en">Austria</foreign></rs>
                   </address>
                </ab>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0020/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0020/" type="envelope" ed="1v"/>
             </div>
             <div type="letter">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0021/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0021/" type="sheet" ed="2r"/>
                <div type="letter_message">
                <opener>
                   <dateline>
@@ -200,7 +210,7 @@ for any purpose, even commercially.</p>
                   </seg>
                   <seg>
                      <seg>
-                        <space quantity="4" unit="char"/>2) I believe that the only way in which,to-day at any rate,one can<lb/>
+                        <lb/><space quantity="4" unit="char"/>2) I believe that the only way in which,to-day at any rate,one can<lb/>
                         <space quantity="7" unit="char"/>speak <del>seroiu</del> <del>s eriously</del> <hi rend="underline">seriously</hi> about serious matters(the alternati<del>c</del>ve<lb/>
                         <space quantity="7" unit="char"/>is silence) is comically. I am surprised to hear from you that<lb/>
                         <space quantity="7" unit="char"/>Jews find this hard to accept. I have enormously admired - and been<lb/>
@@ -210,7 +220,7 @@ for any purpose, even commercially.</p>
                         <space quantity="6" unit="char"/>between man and God,occasions for humorous expression.
                      </seg>
                      <seg>
-                        <space quantity="7" unit="char"/>e.g,: "If the rich could hire other people to die for them,the poor<lb/>
+                        <lb/><space quantity="7" unit="char"/>e.g,: "If the rich could hire other people to die for them,the poor<lb/>
                         <space quantity="5" unit="char"/>cou<del>o</del>ld make a wonderful living", or "Truth rests with God alone,and<lb/>
                         <space quantity="5" unit="char"/>a little bit with me",or "God will provide - ah,if only He wou<del>o</del>ld till<lb/>
                         <space quantity="5" unit="char"/>He does so."
@@ -233,7 +243,7 @@ for any purpose, even commercially.</p>
                   girl in astonishment:"You mean to say,he's still <hi rend="underline">alive</hi>!".
                </p>
                <p>
-                  <space quantity="2" unit="char"/>Expect to get back to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> about April 20th.
+                  <space quantity="2" unit="char"/><rs type="event" ref="#amp_event_id_86">Expect to get back to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> about April 20th</rs>.
                </p>
                <closer>
                   <space quantity="21" unit="char"/><salute>much love <handShift new="#handwritten"/>and <unclear>g</unclear>reetings to <rs type="person" ref="#amp_person_94">son</rs> and <rs type="person" ref="#amp_person_93">mum-in-law</rs></salute>
@@ -242,7 +252,7 @@ for any purpose, even commercially.</p>
                   </signed>
                </closer>
                </div>      
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0022/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0022/" type="sheet"  ed="2v"/>
             </div>
          </div>
       </body>

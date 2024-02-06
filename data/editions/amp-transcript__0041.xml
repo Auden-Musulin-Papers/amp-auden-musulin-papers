@@ -8,6 +8,7 @@
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </editor>
             <funder>
                <name>FWF Austrian Science Fund</name>
@@ -22,11 +23,26 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1970-07-06</title>
+               <interpGrp>
+                  <interp xml:id="ana_017" source="ph_017"><!-- link to nanopub -->
+                     <desc>
+                        In the <rs type="lit_work" ref="#lit_work_id_45">published version of her book <hi rend="italics">Austria: People and Landscape</hi></rs>, <rs type="person" ref="#amp_person_2">Stella Musulin</rs> writes: "South of <rs type="place" ref="#amp_place_id_62">Krems</rs>, we can follow the <hi rend="italics">Barockstrasse</hi>, and carry on over the Riederberg in the direction of <rs type="place" ref="#amp_place_id_1">Vienna</rs>, or perhaps join the autobahn at <rs type="place" ref="#amp_place_id_9">St. Pölten</rs>. This section of the autobahn offers a very fine view of <rs type="person" ref="#amp_person_1">W. H. Auden</rs>'s <rs type="place" ref="#amp_place_id_2">garage</rs>, and, from the next hill, of <rs type="place" ref="#amp_place_id_47">Neulengbach</rs> Castle where the artist Egon Schiele was jailed for pornography in 1912" (197).
+                        <bibl sameAs="#lit_work_id_45">
+                           <citedRange unit="page" from="197" to="197"/>
+                        </bibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
+                     <certainty cert="high" locus="value"></certainty>
+                  </interp>
+               </interpGrp>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -109,6 +125,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-04-01">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-23">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-01-16">entities updated, interpGrp added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -127,19 +144,19 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0041">
+         <div type="transcription" xml:id="transcription_amp_0041" xml:lang="en">
             <div type="envelope"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0075/" type="envelope"/>
-               <ab>
+               <ab xml:lang="de">
                   M<unclear>i</unclear>t Fl<unclear>u</unclear>g-P<unclear>os</unclear>t
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <hi rend="underline">Bitte Weiterschicken</hi>
                </ab>
                <ab>
-                  <rs type="place" ref="#amp_place_id_293">ENGLAND</rs>
+                  <rs type="place" ref="#amp_place_id_239">ENGLAND</rs>
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Mus<unclear>u</unclear>l<unclear>in</unclear></rs><lb/>
                   <address>
@@ -159,11 +176,11 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H.Auden</rs>
                   <seg hand="#printed">
-                     <address>  
+                     <address xml:lang="de">  
                         <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                         BEZ. ST. PÖLTEN<lb/>
                         HINTERHOLZ 6<lb/>
-                        N.-Ö., AUSTRIA</rs>
+                        N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                      </address>
                   </seg>
                </ab>
@@ -176,11 +193,11 @@ for any purpose, even commercially.</p>
                         <date rend="#block">July 6th<unclear>.</unclear></date>
                         <placeName>
                            <seg hand="#printed">
-                              <address>
+                              <address xml:lang="de">
                                  <rs type="place" ref="#amp_place_id_2">3062 KIRCHSTETTEN<lb/>
                                  BEZ. ST. PÖLTEN<lb/>
                                  HINTERHOLZ 6<lb/>
-                                 N.-Ö., AUSTRIA</rs>
+                                 N.-Ö., <foreign xml:lang="en">AUSTRIA</foreign></rs>
                               </address>
                            </seg>
                         </placeName>  
@@ -188,7 +205,7 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                 <p>
-                  Have just f<unclear>in</unclear>ish<unclear>e</unclear>d reading <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_45">Aust<unclear>ria"</unclear></rs></hi><lb/>
+                  Have just f<unclear>in</unclear>ish<unclear>e</unclear>d reading <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_163">Aust<unclear>ria"</unclear></rs></hi><lb/><!-- eventually link to Monteith corresp to document Auden's foreword to the book -->
                   by which I was enchanted a<unclear>s</unclear> w<unclear>e</unclear>ll as<lb/>
                   <unclear>i</unclear>nstructed. My<unclear>!</unclear> how er<unclear>u</unclear>dit<unclear>e</unclear> you are<unclear>,</unclear> Where <hi rend="underline">did</hi><lb/>
                   you dig up all th<unclear>os</unclear>e stories ?
@@ -197,7 +214,7 @@ for any purpose, even commercially.</p>
                   A trifle alarmed that it may attract more<lb/>
                   to<unclear>u</unclear>rist<unclear>s</unclear>,which I'<unclear>m</unclear> sure you don't welco<unclear>m</unclear>e<lb/>
                   any m<unclear>or</unclear>e than I do. (Thanks , by t<unclear>he</unclear> way,<lb/>
-                  for the reference to my garage.)<unclear>.</unclear>
+                  for the <ref ana="#ana_017">reference to my garage.</ref>)<unclear>.</unclear>
                </p>
                <p>
                   Am very cur<unclear>iou</unclear>s to learn mor<unclear>e</unclear> about <rs type="lit_work" ref="#lit_work_id_44">"<hi rend="underline">The L<unclear>i</unclear>fe</hi><lb/>

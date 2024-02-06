@@ -4,6 +4,7 @@
             <titleStmt>
                 <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
                 <title level="a">Photograph [Stella Musulin] of Chester Kallman at W. H. Auden's Funeral 1973-10-04</title>
+                <author>Musulin, Stella</author>
                 <editor>
                     <name>Mayer, Sandra</name>
                     <name>Frühwirth, Timo</name>
@@ -96,7 +97,7 @@
     </facsimile>
     <text type="photograph">
         <body>
-            <div xml:id="transcript">
+            <div xml:id="transcription">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0447/" type="photograph"/>
             </div>
         </body>

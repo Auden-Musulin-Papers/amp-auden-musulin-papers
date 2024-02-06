@@ -9,6 +9,7 @@
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </editor>
             <funder>
                <name>FWF Austrian Science Fund</name>
@@ -28,6 +29,7 @@
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -72,6 +74,7 @@ for any purpose, even commercially.</p>
          <langUsage>
             <language ident="en">English</language>
             <language ident="de">German</language>
+            <language ident="fr">French</language>
          </langUsage>
          
       </profileDesc>
@@ -118,7 +121,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="notes speech" hand="#typed">
       <body>
-         <div xml:id="transcription">
+         <div xml:id="transcription" xml:lang="en">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0155/" type="sheet"/>
                <p hand="#handwritten">
                   Sunday <unclear>J</unclear>une 1<unclear>4t.</unclear>
@@ -153,7 +156,7 @@ for any purpose, even commercially.</p>
                   it
                </p>
                <p>
-                  <space quantity="17" unit="char"/>Sehr vee<del>rh</del>hrter <rs type="person" ref="#amp_person_112">Herr Landeshauptman<unclear>n</unclear></rs><unclear>,</unclear>meine Damen und Herren:<lb/>
+                  <space quantity="17" unit="char"/><foreign xml:lang="de">Sehr vee<del>rh</del>hrter <rs type="person" ref="#amp_person_112">Herr Landeshauptman<unclear>n</unclear></rs><unclear>,</unclear>meine Damen und Herren</foreign>:<lb/>
                   <space quantity="10" unit="char"/>I hope you will pardon me if I speak somewhat personally. I do so,<lb/>
                   not out of vanity,but bec<del>ua</del>ause <space quantity="1" unit="char"/>I do <del>j</del>not wish to give the impression that I<lb/>
                   am attempting to lay down absolute laws which are valid for all. I give you my<lb/>
@@ -180,7 +183,7 @@ for any purpose, even commercially.</p>
                   is an imperative,that is to<unclear>´</unclear> say,one is not free to choose the object or the event<lb/>
                   that arouses it. Though every work of art is a secondary world,it cannot be<lb/>
                   constructed <hi rend="underline">ex nihilo</hi>,but is a selection from and a recombination of the contents of<lb/>
-                  the Primary World. Even the 'purest' poem,in the French Symboliste sense,is<lb/>
+                  the Primary World. Even the 'purest' poem,in the French <foreign xml:lang="fr">Symboliste</foreign> sense,is<lb/>
                   made of words which are not the poet's private property,but the communal creation<lb/>
                   of the linguistic group to whom he belongs,so that their meaning can be looked up<lb/>
                   in a dictionary.<lb/>
@@ -193,9 +196,9 @@ for any purpose, even commercially.</p>
                   only difference being that in the world of games one is free to decide what its<lb/>
                   laws shall be. But to all games as to real life,<rs type="person" ref="#amp_person_11">Goethe</rs>'s lines apply.
                </p>
-               <lg>
-                  <l><space quantity="14" unit="char"/><hi rend="underline">In der Beschr<unclear>ä</unclear>nkung zeigt sich erst der Meister</hi>,</l>
-                  <l><space quantity="14" unit="char"/><hi rend="underline">Und d<del>s</del>as Gesetz nur kann uns Freiheit geben.</hi></l>
+               <lg xml:lang="de">
+                  <lb/><space quantity="14" unit="char"/><l><hi rend="underline">In der Beschr<unclear>ä</unclear>nkung zeigt sich erst der Meister</hi>,</l>
+                  <lb/><space quantity="14" unit="char"/><l><hi rend="underline">Und d<del>s</del>as Gesetz nur kann uns Freiheit geben.</hi></l>
                </lg>
                <p hand="#handwritten">
                   Check<lb/>
@@ -405,8 +408,8 @@ for any purpose, even commercially.</p>
                   he is a member shall function properly and improve. But the poet,qua poet,<lb/>
                   has only one political function. Since lang<del>i</del>uage is his medium,it is his duty,<lb/>
                   by his own example,to defend his <del>mot<del>eh</del>her</del>mothermother-tongue against corruption by demagogues,<lb/>
-                  journalists,the mass-media,etc. As <rs type="person" ref="#amp_person_81">Karl Kraus<del>s</del></rs> said:<del>"</del>'D<hi rend="underline">ie Sprache ist die</hi> <del>Muuet</del><lb/>
-                  <space quantity="1" unit="char"/><hi rend="underline">Mutter,nicht das Magd,des <del>d</del> <del>g</del>Gedankens<del>"</del></hi>',and when language loses its meaning,<lb/>
+                  journalists,the mass-media,etc. As <rs type="person" ref="#amp_person_81">Karl Kraus<del>s</del></rs> said:<del>"</del>'<foreign xml:lang="de">D<hi rend="underline">ie Sprache ist die</hi> <del>Muuet</del><lb/>
+                  <space quantity="1" unit="char"/><hi rend="underline">Mutter,nicht das Magd,des <del>d</del> <del>g</del>Gedankens<del>"</del></hi></foreign>',and when language loses its meaning,<lb/>
                   its <del>palce</del> place is taken by violence. Of course,the poet may use political and<lb/>
                   social events as subject-matter for poems - they <unclear>a</unclear>re as much a part of human<lb/>
                   experience as love or nature - but he must never imagine that his poems have<lb/>

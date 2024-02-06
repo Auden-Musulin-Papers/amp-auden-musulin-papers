@@ -8,6 +8,7 @@
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </editor>
             <funder>
                <name>FWF Austrian Science Fund</name>
@@ -22,11 +23,14 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-13</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -70,6 +74,14 @@ for any purpose, even commercially.</p>
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="acdh" matchPattern="(.+)"
+               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+               <p>Edition Documents Prefix</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
@@ -110,6 +122,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-03-15">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-08">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-01-08">entities updated, events created</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -128,9 +141,9 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0011">
+         <div type="transcription" xml:id="transcription_amp_0011" xml:lang="en">
             <div type="envelope">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0051/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0051/" type="envelope" ed="1r"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">WH.Auden</rs><lb/>
                   <address>
@@ -146,13 +159,13 @@ for any purpose, even commercially.</p>
                <ab>
                   <rs type="event" ref="#amp_event_id_2">Death <rs type="person" ref="#amp_person_23">Jean Boras</rs></rs>
                </ab>
-               <ab>
+               <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <address>
                      <rs type="place" ref="#amp_place_id_11">Wien <del>IV .</del><lb/>
                      Neulin<unclear>g</unclear>gasse 26/14<lb/>
-                     Austria</rs>
+                     <foreign xml:lang="en">Austria</foreign></rs>
                   </address>
                </ab>
                <ab>
@@ -160,10 +173,10 @@ for any purpose, even commercially.</p>
                      <rs type="place" ref="#amp_place_id_156">1030</rs>
                   </address>
                </ab>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0052/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0052/" type="envelope" ed="1v"/>
             </div>
             <div type="letter">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0053/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0053/" type="sheet" ed="2r"/>
                <div type="letter_message">
                   <opener>
                      <dateline>
@@ -184,11 +197,11 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     <rs type="person" ref="#amp_person_4">Chester</rs> has just telephoned me from <rs type="place" ref="#amp_place_id_13">Athens</rs> to say<lb/>
+                     <rs type="event" ref="#amp_event_id_92"><rs type="person" ref="#amp_person_4">Chester</rs> has just telephoned me</rs> from <rs type="place" ref="#amp_place_id_13">Athens</rs> to say<lb/>
                      that <unclear>his</unclear> Greek fr<unclear>i</unclear>end <rs type="person" ref="#amp_person_23">Jean Boras</rs>,whom I<lb/>
                      think you have met, while driving my car<lb/>
                      between <rs type="place" ref="#amp_place_id_1">Vienna</rs> and <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> <rs type="event" ref="#amp_event_id_2">coll<unclear>e</unclear>ded with<lb/>
-                     a Lastwagen and was killed</rs>.
+                     a <foreign xml:lang="de">Lastwagen</foreign> and was killed</rs>.
                   </p>
                   <p>
                      <rs type="person" ref="#amp_person_4">Chester</rs> is going to <rs type="place" ref="#amp_place_id_1">Vienna</rs>,but he was too<lb/>
@@ -210,7 +223,7 @@ for any purpose, even commercially.</p>
                      </signed>
                   </closer>
                </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0054/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0054/" type="sheet" ed="2v"/>
                <div>
                   <ab>7</ab>
                </div>
