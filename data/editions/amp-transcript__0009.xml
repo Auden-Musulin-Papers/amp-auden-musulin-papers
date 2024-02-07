@@ -35,10 +35,7 @@
                                  <persName ref="#amp_person_2"/>
                               </author>
                               <editor>
-                                 <persName>
-                                    <forename>Katherine</forename>
-                                    <surname>Bucknell</surname>
-                                 </persName>
+                                 <persName ref="amp_person_231"/>
                               </editor>
                               <editor>
                                  <persName>

@@ -28,7 +28,7 @@
                <interpGrp>
                   <interp xml:id="ana_007" source="ph_007"><!-- link to nanopub -->
                      <desc>
-                        In her memoirs ("Auden in Kirchstetten" 210, <ref target="acdh:amp-transcript__0062.xml#id">"The Years in Austria"</ref> 14), Stella Musulin refers to her own previous letter to Berlin, in which she had mentioned <rs type="person" ref="#amp_person_70">Brian Bunting</rs>'s non-fiction book <rs type="lit_work" ref="#lit_work_id_72">The Rise of the South African Reich</rs> in relation to the issue of torture.
+                        In her memoirs (<rs type="lit_work" ref="#lit_work_id_162">"Auden in Kirchstetten"</rs> 210, <ref target="acdh:amp-transcript__0062.xml#id">"The Years in Austria"</ref> 14-15), <rs type="person" ref="#amp_person_2">Stella Musulin</rs> refers to her own previous letter to Berlin, in which she had mentioned <rs type="person" ref="#amp_person_70">Brian Bunting</rs>'s non-fiction book <rs type="lit_work" ref="#lit_work_id_72">The Rise of the South African Reich</rs> in relation to the issue of torture.
                         <listEvent>
                            <event ref="#amp_event_id_70"><label>Letter Stella Musulin to W. H. Auden 1964-09-01--1964-12-23</label></event>
                         </listEvent>
@@ -38,10 +38,42 @@
                                  <persName ref="#amp_person_2"/>
                               </author>
                               <editor>
+                                 <persName ref="amp_person_231"/>
+                              </editor>
+                              <editor>
                                  <persName>
-                                    <forename>Katherine</forename>
-                                    <surname>Bucknell</surname>
+                                    <forename>Nicholas</forename>
+                                    <surname>Jenkins</surname>
                                  </persName>
+                              </editor>
+                              <title level="a">Auden in Kirchstetten</title>
+                              <title level="m">W.H. Auden: 'In Solitude, for Company': W.H. Auden After 1940</title>
+                              <publisher>Clarendon Press</publisher>
+                              <pubPlace ref="#amp_place_id_46"/>
+                              <date when-iso="1995"/>
+                              <idno type="ISBN">0-19-818294-5</idno>
+                              <biblScope unit="page" from="207" to="233"/>
+                              <citedRange unit="page" from="210" to="210"/>
+                           </bibl>
+                           <bibl>
+                              <ref target="acdh:amp-transcript__0062.xml#id"/>
+                              <citedRange unit="page" from="14" to="15"/>
+                           </bibl>
+                        </listBibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
+                     <certainty cert="high" locus="value"/>
+                  </interp>
+                  <interp source="ph_023" xml:id="ana_023">
+                     <desc>
+                        In her memoirs (<rs type="lit_work" ref="#lit_work_id_162">"Auden in Kirchstetten"</rs> 210, <ref target="acdh:amp-transcript__0062.xml#id">"The Years in Austria"</ref> 14-15), <rs type="person" ref="#amp_person_2">Stella Musulin</rs> relates the lines <quote>"(In what bars are they welcome? / What girls marry them?)"</quote> in <rs type="person" ref="#amp_person_1">W. H. Auden</rs>'s poem <rs type="lit_work" ref="#lit_work_id_60">"Joseph Weinheber"</rs> to a passage (<quote source="acdh:amp-transcript__0002.xml#id">"Where do the torturers come from? What class? Whom do they marry? <del>Have you ever met one<unclear>?</unclear></del> To what pubs do they go?"</quote>) in the poet's <ref target="acdh:amp-transcript__0002.xml#id">letter to her from 23 December 1964</ref>: "When I told <rs type="person" ref="#amp_person_4">Chester</rs> about how Auden's letter to me had made its own infinitesimal contribution to English literature, Chester snapped: 'Wystan never wastes anything!'"
+                        <listBibl>
+                           <bibl sameAs="#lit_work_id_162">
+                              <author>
+                                 <persName ref="#amp_person_2"/>
+                              </author>
+                              <editor>
+                                 <persName ref="amp_person_231"/>
                               </editor>
                               <editor>
                                  <persName>
@@ -64,7 +96,7 @@
                            </bibl>
                         </listBibl>
                      </desc>
-                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
+                     <respons resp="dgrigoriou smayer tfruehwrith" locus="value"/>
                      <certainty cert="high" locus="value"/>
                   </interp>
                </interpGrp>
@@ -257,9 +289,9 @@ for any purpose, even commercially.</p>
                      Torture is the iniquity which utterly bewilders me.<lb/>
                      I know something about the evil in my own heart and<lb/>
                      <del><gap reason="deleted"/></del><unclear>i</unclear>n the <unclear>s</unclear>o<unclear>r</unclear>t of people I <del>know</del>meet, but I cannot conceive of myself<lb/>
-                     or them torturing anybody. Where do the torturers<lb/>
+                     or them torturing anybody. <rs type="note" ana="#ana_023">Where do the torturers<lb/>
                      come from? What class? Whom do they marry?<lb/>
-                     <del>Have you ever met one<unclear>?</unclear></del> To what pubs do they go?
+                     <del>Have you ever met one<unclear>?</unclear></del> To what pubs do they go?</rs>
                   </p>
                   <closer>
                      <salute>much love and best wishes for 1<unclear>9</unclear>65</salute>
