@@ -12,8 +12,8 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0024,edition_title,,amp_event_id_68,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done
 0025,edition_title,,amp_event_id_17,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done
 0001,edition_title,,"amp_event_id_71, amp_event_id_84","""be in Vienna this coming week ..."" (ana_006, ph_006)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done
-0002,edition_title,,amp_event_id_70,"DONE: reference to previous letter by Musulin (ana_007, ph_007)","DONE: xml:lang",,revision_desc,done,done,TODO:0002/0038,done,done
-0038,edition_title,,amp_event_id_85,"DONE: comment on Gemeindepflicht (ana_008, ph_008)","DONE: xml:lang",,revision_desc,done,done,TODO:0038/0002,`rs@type=note`,done
+0002,edition_title,,amp_event_id_70,"DONE: reference to previous letter by Musulin (ana_007, ph_007); intertext 0002/0038 (ana_023, ph_023)","DONE: xml:lang",,revision_desc,done,done,done,done,done
+0038,edition_title,,amp_event_id_85,"DONE: comment on Gemeindepflicht (ana_008, ph_008); intertext 0002/0038 link to ana_023","DONE: xml:lang",,revision_desc,done,done,done,`rs@type=note`,done
 0039,edition_title,,"amp_event_id_72, amp_event_id_73, amp_event_id_104","DONE: TEI formalization of interp re ""German friend""(ana_009, ph_009) and interp re Epithalamium dedication (ana_022, ph_022)","DONE: xml:lang",,revision_desc,done,done,TODO:0039/0038,done,done
 0003,edition_title,,"DONE: amp_event_id_74, TODO: research amp_even_id_75",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done
 0004,edition_title,"TODO: ""one-whose-name-we-never-mention"", ""friend of mine who teaches schyzophrenics"", ""seventeen year old girl""","DONE: amp_event_id_76, amp_event_id_77, amp_event_id_86","TODO: intertextuality lit_work_id_157; DONE: interp re ""Harrison"" (ana_010, ph_010)","DONE: xml:lang",,revision_desc,done,done,TODO!!!,done,done
@@ -28,10 +28,10 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0011,edition_title,,"DONE: amp_event_id_92",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done
 0012,edition_title,,,"DONE: TEI formalization of interp re ""my lawyer"" (ana_013, ph_013)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done
 0013,edition_title,"TODO: find more personal info on Redlich","DONE: amp_event_id_93",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done
-0014,edition_title,,"DONE: amp_event_id_94, amp_event_id_95",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done
-0053,edition_title,,,"DONE: TEI formalization of interp (1) re ""Liebling"" (ana_014, ph_014) and (2) re ""T."" (ana_015, ph_015) and (3) re ""Schaumpon"" (ana_016, ph_016) and (4) re ""Schönbrunn"" and ""Fledermaus"" (ana_020, ph_020) and (5) re ""draussen"" (ana_021, ph_021)","DONE: xml:lang",,revision_desc,done,done,"TODO!!!, also photos?",done,done
+0014,edition_title,,"DONE: amp_event_id_94, amp_event_id_95","DONE: @ana=ana_024 for photos on Heer visit","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done
+0053,edition_title,,,"DONE: TEI formalization of interp (1) re ""Liebling"" (ana_014, ph_014) and (2) re ""T."" (ana_015, ph_015) and (3) re ""Schaumpon"" (ana_016, ph_016) and (4) re ""Schönbrunn"" and ""Fledermaus"" (ana_020, ph_020) and (5) re ""draussen"" (ana_021, ph_021) and (6) re photos relating to Heer visit (ana_024, ph_024)","DONE: xml:lang",,revision_desc,done,done,"TODO!!!, also photos?","`ref` with multiple @target URIs",done
 0040,edition_title,,"DONE: amp_event_id_97",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done
-0043,edition_title,,,"TODO: link to interp re Musulin's interpretation of speech via @ana","DONE: xml:lang","DONE: create Wikidata on Lyrik 70",revision_desc
+0043,edition_title,,,"DONE: interp re Musulin's translation of speech (ana_025, ph_025)","DONE: xml:lang","DONE: create Wikidata on Lyrik 70",revision_desc,done,done,TODO!!!
 0015,edition_title,,"DONE: amp_event_id_98","TODO: link to interp re Musulin's interpretation of speech via @ana","DONE: xml:lang",,revision_desc
 0041,edition_title,"TODO: birth/death place/date Margaret Lloyd-Philipps",,"DONE: TEI formalization of interp re ""reference to my garage"" (ana_017, ph_017)","DONE: xml:lang","DONE: update Stella Musulin Wikidata re Austria: People and Landscape",revision_desc
 0016,edition_title,,"DONE: amp_event_id_99",,"DONE: xml:lang",,revision_desc

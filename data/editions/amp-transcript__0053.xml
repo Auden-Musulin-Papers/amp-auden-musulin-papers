@@ -133,6 +133,13 @@
                             <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
                             <certainty cert="medium" locus="value"/>
                         </interp>
+                        <interp source="ph_024" xml:id="ana_024"><!-- link -->
+                            <desc>
+                                The <rs type="event" ref="#amp_event_id_22">1969 visit by <rs type="person" ref="#amp_person_54">Friedrich Heer</rs> and <rs type="person" ref="#amp_person_2">Stella Musulin</rs> in Kirchstetten</rs> is documented by a <ref target="acdh:amp-transcript__0065.xml#id acdh:amp-transcript__0066.xml#id acdh:amp-transcript__0067.xml#id acdh:amp-transcript__0068.xml#id acdh:amp-transcript__0069.xml#id">series of photographs</ref> taken by Musulin.
+                            </desc>
+                            <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
+                            <certainty cert="high" locus="value"></certainty>
+                        </interp>
                     </interpGrp>
                 </edition>
                 <respStmt>
@@ -245,7 +252,7 @@
                          Stimme zu hören, leider hattest Du nicht viel davon.
                       </p>
                       <p>    
-                         <space quantity="5" unit="char"/>Heute stehe ich immer noch unter dem Eindruck des <rs type="event" ref="#amp_event_id_22">gest<del>ir</del>rigen<lb/>
+                         <space quantity="5" unit="char"/>Heute stehe ich immer noch unter dem Eindruck des <rs type="event" ref="#amp_event_id_22" ana="#ana_024">gest<del>ir</del>rigen<lb/>
                          Ausflugs</rs> nach <rs type="place" ref="#amp_place_id_2">Kirchstetten</rs> wohin ich <rs type="person" ref="#amp_person_54">Fritz Heer</rs> verabredeter-<lb/>
                          maßen zum Essen mitnahm. <space quantity="1" unit="char"/>Diese manisch-depressive Genie,<del>und</del><lb/>
                          dieser innerlich verschreckte Lausbub <rs type="person" ref="#amp_person_54">Friedrich Heer</rs>, und der<lb/>

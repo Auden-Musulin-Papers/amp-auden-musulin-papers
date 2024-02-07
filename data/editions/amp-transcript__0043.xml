@@ -25,6 +25,36 @@
          <editionStmt>
             <edition>
                <title>Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Freedom and Necessity in the Arts" 1970-05-21</title>
+               <interpGrp>
+                  <interp xml:id="ana_025" source="ph_025"><!-- link -->
+                     <desc>
+                        According to her memoir <ref target="acdh:amp-transcript__0062.xml#id">"The Years in Austria"</ref> (26), <rs type="person" ref="#amp_person_2">Stella Musulin</rs> translated <rs type="person" ref="#amp_person_1">W. H. Auden</rs>'s speech <rs type="lit_work" ref="#lit_work_id_85">"Freedom and Necessity in the Arts"</rs>. This <rs type="lit_work" ref="#lit_work_id_91">translated speech</rs> he delivered at <rs type="event" ref="#amp_event_id_37">Lyrik 70</rs> and was published, without a title or indication of the translator, in the first issue of the literary journal <hi rend="italic">Podium</hi>.
+                        <listBibl>
+                           <bibl sameAs="#lit_work_id_91">
+                              <author>
+                                 <persName ref="#amp_person_1"/>
+                              </author>
+                              <author role="translator">
+                                 <persName ref="#amp_person_2"/>
+                              </author>
+                              <editor>
+                                 <orgName>Literaturkreis Schloß Neulengbach</orgName>
+                              </editor>
+                              <title level="j">Podium</title>
+                              <publisher>Gottfried Grasl</publisher>
+                              <pubPlace>Bad Vöslau</pubPlace>
+                              <date when-iso="1971-04"/>
+                              <biblScope unit="page" from="31" to="34"/>
+                           </bibl>
+                           <bibl sameAs="acdh:amp-transcript__0062.xml#id">
+                              <citedRange unit="page" from="26" to="26"/>
+                           </bibl>
+                        </listBibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="high" locus="value"/>
+                  </interp>
+               </interpGrp>
             </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
@@ -141,11 +171,11 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0043" xml:lang="en">
             <div type="letter">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0099/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0099/" type="sheet" ed="1r"/>
                <div type="speech">
                   <ab>
                      <title>
-                        <rs type="lit_work" ref="#lit_work_id_90" ana="#ana_"><hi rend="underline">FREEDOM AND NECESSITY IN THE ARTS</hi></rs><!-- link to `interp` regarding Musulin's translation in Podium; link to this doc -->
+                        <rs type="lit_work" ref="#lit_work_id_90"><hi rend="underline">FREEDOM AND NECESSITY IN THE ARTS</hi></rs>
                      </title>
                   </ab>   
                </div>
@@ -161,7 +191,7 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     You're an angel. I have to deliver <rs type="lit_work" ref="#lit_work_id_85">this</rs><lb/>
+                     <rs type="note" ana="#ana_025">You're an angel</rs>. I have to deliver <rs type="lit_work" ref="#lit_work_id_85">this</rs><lb/>
                      in <rs type="event" ref="#amp_event_id_37"><rs type="place" ref="#amp_place_id_47">Neulengbach</rs> on Sun<unclear>day</unclear>, June 14th</rs>.
                   </p>
                   <p>
@@ -193,8 +223,8 @@ for any purpose, even commercially.</p>
                      </p>
                   </postscript>
                </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0100/" type="sheet"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0145/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0100/" type="sheet" ed="1v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0145/" type="sheet" ed="2r"/>
                <div type="speech">
                <p hand="#handwritten">
                   (<unclear>1</unclear>
@@ -262,8 +292,8 @@ for any purpose, even commercially.</p>
                   <space quantity="1" unit="char"/>knew from my reading,the more efficient. At this point I realised that it was my<lb/>
                   <space quantity="1" unit="char"/>moral duty to sacrifice my <del>aethetic</del> aesthetic preference to reality or truth.
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0146/" type="sheet"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0147/" type="sheet"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0146/" type="sheet" ed="2v"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0147/" type="sheet" ed="3r"/>
                <p hand="#handwritten">
                   (2
                </p>
@@ -333,8 +363,8 @@ for any purpose, even commercially.</p>
                   well what has <del>been</del> already been done<unclear>;</unclear>w<del>ithout</del>,that is to say ,<del>even in</del> he cannot<lb/>
                   'rebel' against the past without having a profound reverence for it.
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0148/" type="sheet"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0149/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0148/" type="sheet" ed="3v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0149/" type="sheet" ed="4r"/>
                <p hand="#handwritten">
                   (3
                </p>
@@ -404,8 +434,8 @@ for any purpose, even commercially.</p>
                   of <rs type="place" ref="#amp_place_id_30">Europe</rs> w<unclear>o</unclear>uld be what it <del>ahs</del> has been if <rs type="person" ref="#amp_person_9">Dante</rs>,<rs type="person" ref="#amp_person_10">Shakepeare</rs>,<rs type="person" ref="#amp_person_11">Goethe</rs>,<rs type="person" ref="#amp_person_28">Micha<del>le</del>el<lb/>
                   Angelo</rs>,<rs type="person" ref="#amp_person_12">Tit<del>ai</del>ian</rs>,<rs type="person" ref="#amp_person_13">Mozart</rs>,<rs type="person" ref="#amp_person_29">Beethoven</rs>,e<del>y</del>tc,<del>ahd</del> had never existed.
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0150/" type="sheet"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0151/" type="sheet"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0150/" type="sheet" ed="4v"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0151/" type="sheet" ed="5r"/>
                <p hand="#handwritten">
                   4
                </p>
@@ -460,8 +490,8 @@ for any purpose, even commercially.</p>
                   I conclude<del>d</del> these remarks with a light poem of my own,entitled<lb/>
                   <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_57">Doggerel <del>of</del> by a Senior Citizen</rs></hi>.
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0152/" type="sheet"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0153/" type="sheet"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0152/" type="sheet" ed="5v"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0153/" type="sheet" ed="6r"/>
                <p hand="#handwritten">
                   (4a
                </p>
@@ -481,7 +511,7 @@ for any purpose, even commercially.</p>
                   like each other than those who write in fixed forms. Whatever freedom may do,<lb/>
                   it does not,it would seem,make for originality.
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0154/" type="sheet"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0154/" type="sheet"  ed="6v"/>
          </div>
       </div>
       </div>
