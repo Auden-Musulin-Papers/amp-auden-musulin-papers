@@ -28,13 +28,14 @@
                     <interpGrp>
                         <interp xml:id="ana_019" source="ph_019"><!-- link to nanopub -->
                             <desc>
-                                In his report on Viennese coffeehouse culture, "Lebensform Kaffeehaus: Elegische Betrachtungen eines Wieners" (<rs type="org" ref="#amp_organization_25">Die Furche</rs>, 1 Sep. 1960), Helmut Butterweck locates the "<rs type="place" ref="#amp_place_id_301">Café Dreiviertel</rs>" at the "Ende der Neubaugasse" ["the end of Neubaugasse"] in the seventh <rs type="place" ref="#amp_place_id_1">Viennese</rs> district.
+                                In his report on Viennese coffeehouse culture, "Lebensform Kaffeehaus: Elegische Betrachtungen eines Wieners" (<hi rend="italic"><rs type="org" ref="#amp_organization_25">Die Furche</rs></hi>, 1 Sep. 1960), Helmut Butterweck locates the "<rs type="place" ref="#amp_place_id_301">Café Dreiviertel</rs>" at the "Ende der Neubaugasse" ["the end of Neubaugasse"] in the seventh <rs type="place" ref="#amp_place_id_1">Viennese</rs> district.
                                 <address>
                                     <settlement ref="#amp_place_id_1"/>
                                     <street>Neubaugasse</street>
                                     <district>Neubau</district>
                                 </address>
                                 <bibl>
+                                    <title xml:lang="de">Lebensform Kaffeehaus: Elegische Betrachtungen eines Wieners</title>
                                     <author>
                                         <persName>
                                             <forename>Helmut</forename>
@@ -42,7 +43,6 @@
                                         </persName>
                                     </author>
                                     <orgName ref="#amp_organization_25"/>
-                                    <title level="a" xml:lang="de">Lebensform Kaffeehaus: Elegische Betrachtungen eines Wieners</title>
                                     <pubPlace ref="#amp_place_id_1"/>
                                     <date when-iso="1960-09-01"/>
                                 </bibl>
@@ -94,7 +94,7 @@
                             <history>
                                 <origin>
                                     <origDate notBefore-iso="1962-05-23T00:00:00+01:00" notAfter-iso="1962-05-23T23:59:59+01:00">1962-05-23</origDate>
-                                    <origPlace ana="amp-transcript__0058.xml#ana_003"/>
+                                    <origPlace ana="acdh:amp-transcript__0058.xml#ana_003"/>
                                 </origin>
                             </history>
                         </msDesc>

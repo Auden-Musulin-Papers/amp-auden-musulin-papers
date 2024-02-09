@@ -74,6 +74,14 @@ for any purpose, even commercially.</p>
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="acdh" matchPattern="(.+)"
+               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+               <p>Edition Documents Prefix</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
@@ -85,14 +93,19 @@ for any purpose, even commercially.</p>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore-iso="1971-05-13T15:30:01+01:00" notAfter-iso="1971-05-13T15:45:00+01:00">1971-05-13T15:30:01+01:00/1971-05-13T15:45:00+01:00</date>
             </correspAction>
-            <correspAction type="transmitted">
+            <correspAction type="transmitted"><!-- received at Vienna post office -->
                <orgName ref="#amp_organization_73">Hauptpostamt 1030 (main post office 1030)</orgName>
                <placeName ref="#amp_place_id_1">Vienna</placeName>
                <date notBefore-iso="1971-05-13T16:20:00+01:00" notAfter-iso="1971-05-13T16:20:59+01:00">1971-05-13T16:20:00+01:00/1971-05-13T16:20:59+01:00</date>
+            </correspAction>
+            <correspAction type="transmitted"><!-- ingested into postal system at Vienna post office -->
+               <orgName ref="#amp_organization_73">Hauptpostamt 1030 (main post office 1030)</orgName>
+               <placeName ref="#amp_place_id_1">Vienna</placeName>
+               <date notBefore-iso="1971-05-13T16:20:01+01:00" notAfter-iso="1971-05-13T17:00:00+01:00">1971-05-13T16:20:01+01:00/1971-05-13T17:00:00+01:00</date>
             </correspAction> 
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName><!-- check how "Übermittelt" worked; perhaps change into post office here -->
+               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
@@ -123,14 +136,14 @@ for any purpose, even commercially.</p>
    <text type="telegram" hand="#typed">
       <body>
          <div type="transcription" xml:id="transcription_amp_0035" xml:lang="de">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0233/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0233/" type="sheet" ed="1r"/>
                <p>
                   <rs type="person" ref="#amp_person_2">MUSULIN</rs> <rs type="place" ref="#amp_place_id_11">NEULINGGASSE <space quantity="1" unit="char"/>26/14 <space quantity="1" unit="char"/>1030/WIEN</rs>
                </p>
                <p>
-                  = <space quantity="1" unit="char"/><rs type="event" ref="#amp_event_id_100" ana="amp-transcript__0058.xml#ana_003">KOMMEN SAMSTAG</rs> = <space quantity="1" unit="char"/><foreign xml:lang="en">LOVE</foreign> <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">WYSTAN</rs>
+                  = <space quantity="1" unit="char"/><rs type="event" ref="#amp_event_id_100" ana="acdh:amp-transcript__0058.xml#ana_003">KOMMEN SAMSTAG</rs> = <space quantity="1" unit="char"/><foreign xml:lang="en">LOVE</foreign> <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">WYSTAN</rs>
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0234/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0234/" type="sheet" ed="1v"/>
          </div>
       </body>
    </text>

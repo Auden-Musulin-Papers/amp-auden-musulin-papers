@@ -42,7 +42,7 @@
                      <desc>
                         In this period of time, Stella Musulin lived either at <rs type="place" ref="#amp_place_id_7">Schloss Fridau</rs> in Ober-Grafendorf or in <rs type="place" ref="#amp_place_id_11">Neulinggasse 26</rs> in Vienna.
                         <listPlace type="choice">
-                           <place><placeName ref="#amp_place_id_7"/></place>
+                           <place><placeName ref="#amp_place_id_7"/></place><!-- or: <place sameAs="#amp_place_id_7"/> -->
                            <place><placeName ref="#amp_place_id_11"/></place>
                         </listPlace>
                      </desc>

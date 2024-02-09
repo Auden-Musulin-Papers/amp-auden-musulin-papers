@@ -28,10 +28,10 @@
                <interpGrp>
                   <interp xml:id="ana_018" source="ph_018"><!-- link to nanopub -->
                      <desc>
-                        According to Richard Davenport-Hines's Auden biography, <rs type="person" ref="#amp_person_1">W. H. Auden</rs> took leave from his friends in <rs type="place" ref="#amp_place_id_28">New York City</rs> on 15 April 1972, and, after briefly returning to the <rs type="place" ref="#amp_place_id_15">US</rs>, ultimately left for <rs type="place" ref="#amp_place_id_46">Oxford</rs> on 30 September 1972.
+                        According to Richard Davenport-Hines's <hi rend="italic">Auden</hi> biography, <rs type="person" ref="#amp_person_1">W. H. Auden</rs> took leave from his friends in <rs type="place" ref="#amp_place_id_28">New York City</rs> on 15 April 1972, and, after briefly returning to the <rs type="place" ref="#amp_place_id_15">US</rs>, ultimately left for <rs type="place" ref="#amp_place_id_46">Oxford</rs> on 30 September 1972.
                         <bibl>
-                           <author>Richard Davenport-Hines</author>
                            <title>Auden</title>
+                           <author>Richard Davenport-Hines</author>
                            <publisher>Heinemann</publisher>
                            <pubPlace ref="#amp_place_id_56"/>
                            <date when-iso="1995"/>
@@ -39,8 +39,8 @@
                            <citedRange unit="page" from="336" to="337"/>
                         </bibl>
                      </desc>
-                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
-                     <certainty cert="high" locus="value"></certainty>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="high" locus="value"/>
                   </interp>
                </interpGrp>
             </edition>
@@ -92,6 +92,14 @@ for any purpose, even commercially.</p>
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="acdh" matchPattern="(.+)"
+               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+               <p>Edition Documents Prefix</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
@@ -153,7 +161,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0019" xml:lang="en">
             <div type="envelope">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0091/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0091/" type="envelope" ed="1r"/>
                <ab>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H.Auden</rs><lb/>
                   <address>  
@@ -176,10 +184,10 @@ for any purpose, even commercially.</p>
                      <foreign xml:lang="en">Austria</foreign></rs>
                   </address>
                </ab>   
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0092/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0092/" type="envelope" ed="1v"/>
             </div>
             <div type="letter">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0093/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0093/" type="sheet" ed="2r"/>
                <div type="letter_message">
                   <opener>
                      <dateline>
@@ -208,7 +216,7 @@ for any purpose, even commercially.</p>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                   </closer>
                </div>     
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0094/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0094/" type="sheet" ed="2v"/>
          </div>
       </div>
       </body>
