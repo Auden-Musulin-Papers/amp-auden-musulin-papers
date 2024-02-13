@@ -30,27 +30,27 @@
                      <desc>
                         The date range has been delimited on the basis of research into the mention of "Easter" in relation to the indicated date of "16th April": 1962 is the first year in the <rs type="person" ref="#amp_person_1">Auden</rs>-<rs type="person" ref="#amp_person_2">Musulin</rs> correspondence in which the Easter weekend follows after the date of composition. Auden did not usually keep his acquaintances' correspondence (Colburn, Nadia Herman. "Bibliographic Essay and Review of Auden Studies." <hi rend="italic">The Cambridge Companion to W. H. Auden</hi>, edited by Stan Smith, Cambridge UP, 2004 pp. 240-246, 240); the presence of this letter (the sole letter by Stella Musulin kept by Auden) among his papers might suggest a date of composition toward the end of Auden's life.
                         <bibl>
-                           <title level="a">Bibliographic Essay and Review of Auden Studies</title>
                            <author>
                               <persName>
+                                 <surname>Colburn</surname>
                                  <forename>Nadia</forename>
                                  <forename>Herman</forename>
-                                 <surname>Colburn</surname>
                               </persName>
                            </author>
-                           <biblScope unit="page" from="240" to="246"/>
-                           <citedRange unit="page" from="240" to="240"/>
+                           <title level="a">Bibliographic Essay and Review of Auden Studies</title>
                            <title level="m">The Cambridge Companion to W. H. Auden</title>
                            <editor>
                               <persName>
-                                 <forename>Stan</forename>
                                  <surname>Smith</surname>
+                                 <forename>Stan</forename>
                               </persName>
                            </editor>
                            <publisher>Cambridge University Press</publisher>
                            <pubPlace ref="#amp_place_id_40"/>
                            <date when-iso="2004"/>
                            <idno type="ISBN">978-0-521-53647-9</idno>
+                           <biblScope unit="page" from="240" to="246"/>
+                           <citedRange unit="page" from="240" to="240"/>
                         </bibl>
                      </desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>

@@ -30,18 +30,18 @@
                             <desc>
                                 In his report on Viennese coffeehouse culture, "Lebensform Kaffeehaus: Elegische Betrachtungen eines Wieners" (<hi rend="italic"><rs type="org" ref="#amp_organization_25">Die Furche</rs></hi>, 1 Sep. 1960), Helmut Butterweck locates the "<rs type="place" ref="#amp_place_id_301">Café Dreiviertel</rs>" at the "Ende der Neubaugasse" ["the end of Neubaugasse"] in the seventh <rs type="place" ref="#amp_place_id_1">Viennese</rs> district.
                                 <address>
-                                    <settlement ref="#amp_place_id_1"/>
                                     <street>Neubaugasse</street>
                                     <district>Neubau</district>
+                                    <settlement ref="#amp_place_id_1"/>
                                 </address>
                                 <bibl>
-                                    <title xml:lang="de">Lebensform Kaffeehaus: Elegische Betrachtungen eines Wieners</title>
                                     <author>
                                         <persName>
-                                            <forename>Helmut</forename>
                                             <surname>Butterweck</surname>
+                                            <forename>Helmut</forename>
                                         </persName>
                                     </author>
+                                    <title xml:lang="de">Lebensform Kaffeehaus: Elegische Betrachtungen eines Wieners</title>
                                     <orgName ref="#amp_organization_25"/>
                                     <pubPlace ref="#amp_place_id_1"/>
                                     <date when-iso="1960-09-01"/>

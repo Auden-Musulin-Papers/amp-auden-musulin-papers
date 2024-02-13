@@ -29,7 +29,7 @@
                   <interp xml:id="ana_008" source="ph_008"><!-- link to nanopub -->
                      <desc>
                         In the legal terminology of Early Modern High German, "Gemein(de)pflicht" ("communal duty") designates the "pledge to be made by the new citizen of a community" (<ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=gemeindepflicht">"Gemeindepflicht", Deutsches Rechtswörterbuch</ref>).
-                        <bibl sameAs="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=gemeindepflicht">
+                        <bibl source="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=gemeindepflicht">
                            <title level="a" xml:lang="de">Gemeindepflicht</title>
                            <title level="m" xml:lang="de">Deutsches Rechtswörterbuch (DRW)</title>
                            <publisher xml:lang="de">Heidelberger Akademie der Wissenschaften</publisher>

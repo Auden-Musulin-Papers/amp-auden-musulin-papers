@@ -31,10 +31,30 @@
                         In his <hi rend="italic"><rs type="lit_work" ref="#lit_work_id_39">W. H. Auden: A Biography</rs></hi>, <rs type="person" ref="#amp_person_100">Humphrey Carpenter</rs> reports that "[i]n about 1968 Auden began to look round for another composer with whom to write an opera" (428). <rs type="person" ref="#amp_person_19">Peter Heyworth</rs> arranged a meeting with composer <rs type="person" ref="#amp_person_234">Harrison Birtwistle</rs>, but nothing came of the intended collaboration. In <rs type="lit_work" ref="#lit_work_id_159">a 2014 interview</rs>, Birtwistle recalls that "[h]e was once approached by WH Auden, who wanted to write an operatic version of <rs type="lit_work" ref="#lit_work_id_6">Love's Labour's Lost</rs> with him", but refused. Auden and <rs type="person" ref="#amp_person_4">Kallman</rs> eventually realized <rs type="lit_work" ref="#lit_work_id_19">the project</rs> in collaboration with <rs type="person" ref="#amp_person_207">Nicolas Nabokov</rs>.
                         <persName ref="#amp_person_234"/>
                         <listBibl>
-                           <bibl sameAs="#lit_work_id_39">
+                           <bibl>
+                              <author>
+                                 <persName ref="#amp_person_100"/>
+                              </author>
+                              <title>W. H. Auden: A Biography</title>
+                              <publisher>George Allen <![CDATA[&]]> Unwin</publisher>
+                              <pubPlace ref="#amp_place_id_56"/>
+                              <date when-iso="1981"/>
+                              <idno type="ISBN">0-04-928044-9</idno>
                               <citedRange unit="page" from="428" to="428"/>
                            </bibl>
-                           <bibl sameAs="#lit_work_id_159"/>
+                           <bibl source="https://www.telegraph.co.uk/culture/books/ways-with-words/10963821/Harrison-Birtwistle-Writing-music-is-like-knitting.html">
+                              <author ref="#amp_person_234"/>
+                              <author>
+                                 <persName>
+                                    <surname>Rahim</surname>
+                                    <forename>Sameer</forename>
+                                 </persName>
+                              </author>
+                              <title>Harrison Birtwistle: Writing Music is Like Knitting</title>
+                              <orgName>The Telegraph</orgName>
+                              <pubPlace ref="#amp_place_id_56"/>
+                              <date when-iso="2014-07-12"/>
+                           </bibl>
                         </listBibl>
                      </desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
