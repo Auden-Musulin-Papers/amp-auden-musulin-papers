@@ -556,7 +556,7 @@
             <attList>
               <attDef ident="target" mode="change" usage="req">
                 <datatype>
-                  <dataRef key="teidata.pointer"/>
+                  <dataRef name="token" restriction="#.+|acdh:.+|http.+"/>
                 </datatype>
               </attDef>
             </attList>
@@ -674,12 +674,12 @@
               </attDef>
               <attDef ident="ref" mode="change" usage="opt">
                 <datatype>
-                  <dataRef name="token" restriction="#[^0-9]+[0-9]+|acdh:.+"/>
+                  <dataRef name="token" restriction="#.+|acdh:.+"/>
                 </datatype>
               </attDef>
               <attDef ident="ana" mode="change" usage="opt">
                 <datatype>
-                  <dataRef name="token" restriction="#[^0-9]+[0-9]+|acdh:.+"/>
+                  <dataRef name="token" restriction="#.+|acdh:.+"/>
                 </datatype>
               </attDef>
             </attList>
