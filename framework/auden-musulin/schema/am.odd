@@ -441,7 +441,7 @@
               <attDef ident="rend" mode="change" usage="req">
                 <valList type="closed" mode="replace">
                   <valItem ident="underline"/>
-                  <valItem ident="italics"/>
+                  <valItem ident="italic"/>
                 </valList>
               </attDef>
             </attList>
@@ -674,12 +674,12 @@
               </attDef>
               <attDef ident="ref" mode="change" usage="opt">
                 <datatype>
-                  <dataRef name="token" restriction="#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+"/>
+                  <dataRef name="token" restriction="#[^0-9]+[0-9]+|acdh:.+"/>
                 </datatype>
               </attDef>
               <attDef ident="ana" mode="change" usage="opt">
                 <datatype>
-                  <dataRef name="token" restriction="#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+|acdh:.+"/>
+                  <dataRef name="token" restriction="#[^0-9]+[0-9]+|acdh:.+"/>
                 </datatype>
               </attDef>
             </attList>

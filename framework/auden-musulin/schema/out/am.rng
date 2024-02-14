@@ -5,7 +5,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2024-02-06T10:18:24Z. .
+Schema generated from ODD source 2024-02-14T09:41:25Z. .
 TEI Edition: Version 4.4.0. Last updated on
         19th April 2022, revision ff9cc28b0
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.4.0/
@@ -3194,7 +3194,7 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
                   <choice>
                      <value>underline</value>
                      <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                     <value>italics</value>
+                     <value>italic</value>
                      <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   </choice>
                </oneOrMore>
@@ -3523,7 +3523,7 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</a:documentation>
             <attribute name="ana">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(analysis) indicates one or more elements containing interpretations of the element on which the <code xmlns="http://www.w3.org/1999/xhtml">@ana</code> attribute appears.</a:documentation>
                <data type="token">
-                  <param name="pattern">#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+|acdh:.+</param>
+                  <param name="pattern">#[^0-9]+[0-9]+|acdh:.+</param>
                </data>
             </attribute>
          </optional>
@@ -3531,7 +3531,7 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</a:documentation>
             <attribute name="ref">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reference) provides an explicit means of locating a full definition or identity for the entity being named by means of one or more URIs.</a:documentation>
                <data type="token">
-                  <param name="pattern">#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+</param>
+                  <param name="pattern">#[^0-9]+[0-9]+|acdh:.+</param>
                </data>
             </attribute>
          </optional>
