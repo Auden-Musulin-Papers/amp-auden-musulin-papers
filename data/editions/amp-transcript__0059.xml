@@ -123,6 +123,12 @@ for any purpose, even commercially.</p>
       <surface ulx="0" uly="0" lrx="4556" lry="3454">
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0032/"/>
       </surface>
+      <surface ulx="0" uly="0" lrx="7762" lry="5686">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0471/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="7754" lry="5670">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0472/"/>
+      </surface>
    </facsimile>
    <text type="letter" hand="#handwritten">
       <body>
@@ -152,7 +158,7 @@ for any purpose, even commercially.</p>
                </ab>
             </div>
             <div type="letter">
-               <pb facs="" type="sheet" ed="2r"/><!-- facs uri missing -->
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0471/" type="sheet" ed="2r"/>
                <div type="letter_message">
                   <opener>
                      <dateline>
@@ -176,7 +182,7 @@ for any purpose, even commercially.</p>
                      <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
                   </closer>
                </div>
-               <pb facs="" type="sheet" ed="2v"/><!-- facs uri missing -->
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0472/" type="sheet" ed="2v"/>
             </div>
          </div>
       </body>

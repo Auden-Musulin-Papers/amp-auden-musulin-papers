@@ -6,7 +6,7 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0022,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
 0021,edition_title,,"DONE: amp_event_id_65",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
 0071,edition_title,,,"DONE: origDate (ana_005, ph_005); @ana=ana_003 for origPlace","DONE: xml:lang",,revision_desc,done,done,no_intertext,`italic`,done,done,done,"restructured display of `bibl` in ana_005 + with info fetched from Baserow and from attribute values"
-0059,edition_title,"TODO: digitize bedroom letter",,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
+0059,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
 0063,edition_title,"TODO: ""heute Abend"" reading of Christine Busta; ""Caféhaus Drei viertel"" - find in phone book","DONE: amp_event_id_67","DONE: @ana=ana_003 for origPlace; @ana=ana_019 for Café Dreiviertel","DONE: xml:lang",,revision_desc,done,done,no_intertext,`italic`,done,done,done,"in comment ana_019 entities fetched from Baserow not displayed; restructure bibl and address nodes"
 0023,edition_title,,"DONE: amp_event_id_16",,"DONE: xml:lang","DONE: link to Auden in Zimmer Wikidata, include Auden in de Wikipedia",revision_desc,done,done,no_intertext,done,done,none,none,none
 0024,edition_title,,"DONE: amp_event_id_68",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
