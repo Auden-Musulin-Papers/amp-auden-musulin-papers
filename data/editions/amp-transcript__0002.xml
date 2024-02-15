@@ -71,6 +71,13 @@
                      <respons resp="dgrigoriou smayer tfruehwrith" locus="value"/>
                      <certainty cert="high" locus="value"/>
                   </interp>
+                  <interp source="ph_027" xml:id="ana_027">
+                     <desc>
+                        The handwriting has been identified as <rs type="person" ref="#amp_person_93">Elsa von Musulin</rs>'s by her grandson <rs type="person" ref="#amp_person_94">Marko Musulin</rs>.
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="high" locus="value"/>
+                  </interp>
                </interpGrp>
             </edition>
             <respStmt>
@@ -146,7 +153,7 @@ for any purpose, even commercially.</p>
                <date notBefore-iso="1964-12-28T17:00:01+01:00" notAfter-iso="1964-12-28T18:00:00+01:00">1964-12-28T17:00:01+01:00/1964-12-28T18:00:00+01:00</date>
             </correspAction>
             <correspAction type="redirected">
-               <persName ref="#amp_person_93">Musulin, Elsa von</persName>
+               <persName ref="#amp_person_93" ana="#ana_027">Musulin, Elsa von</persName>
                <placeName ref="#amp_place_id_7">Fridau</placeName>  
             </correspAction>
             <correspAction type="received">

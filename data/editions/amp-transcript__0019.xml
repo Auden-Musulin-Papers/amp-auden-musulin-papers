@@ -30,8 +30,13 @@
                      <desc>
                         According to Richard Davenport-Hines's <hi rend="italic">Auden</hi> biography, <rs type="person" ref="#amp_person_1">W. H. Auden</rs> took leave from his friends in <rs type="place" ref="#amp_place_id_28">New York City</rs> on 15 April 1972, and, after briefly returning to the <rs type="place" ref="#amp_place_id_15">US</rs>, ultimately left for <rs type="place" ref="#amp_place_id_46">Oxford</rs> on 30 September 1972.
                         <bibl>
+                           <author>
+                              <persName>
+                                 <surname>Davenport-Hines</surname>
+                                 <forename>Richard</forename>
+                              </persName>
+                           </author>
                            <title>Auden</title>
-                           <author>Richard Davenport-Hines</author>
                            <publisher>Heinemann</publisher>
                            <pubPlace ref="#amp_place_id_56"/>
                            <date when-iso="1995"/>

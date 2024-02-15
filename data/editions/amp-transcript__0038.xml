@@ -113,7 +113,7 @@ for any purpose, even commercially.</p>
                <date notBefore-iso="1965-03-20T09:00:01+01:00" notAfter-iso="1965-03-20T19:00:00+01:00">1965-03-20T09:00:01+01:00/1965-03-20T19:00:00+01:00</date><!-- uncertain time in postmark -->
             </correspAction>
             <correspAction type="redirected">
-               <persName ref="#amp_person_93">Musulin, Elsa von</persName>               
+               <persName ref="#amp_person_93" ana="acdh:amp-transcript__0002.xml#ana_027">Musulin, Elsa von</persName>               
                <placeName ref="#amp_place_id_7">Fridau</placeName>
             </correspAction>
             <correspAction type="received">
