@@ -165,20 +165,20 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0103/" type="sheet" ed="2r"/>
                <div type="poem">
                   <head>
-                     <space extent="undefined quantity of characters plus minimum" min="7" unit="char"/><rs type="lit_work" ref="#lit_work_id_88"><hi rend="underline">AUGUST I<del>(</del>968</hi></rs>
+                     <space extent="undefined quantity of characters plus minimum" min="8" unit="char"/><rs type="lit_work" ref="#lit_work_id_88"><hi rend="underline">AUGUST I<del>(</del>968</hi></rs>
                   </head>
                   <lg>
-                     <lb/><space extent="undefined quantity of characters"/><l>The ogre does what ogres can,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Deeds quite impossible for man,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>but one prize is beyond his reach:</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>The ogre cannot master Speech.</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>About a subjugated plain,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Among its desperate and slain,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>The ogre stalks with hands on hips,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>While drivel gushes from his lips.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The ogre does what ogres can,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Deeds quite impossible for man,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>but one prize is beyond his reach:</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The ogre cannot master Speech.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>About a subjugated plain,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Among its desperate and slain,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The ogre stalks with hands on hips,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>While drivel gushes from his lips.</l>
                   </lg>
                   <ab>
-                     <space extent="undefined quantity of characters plus minimum" min="9" unit="char"/>___
+                     <space extent="undefined quantity of characters plus minimum" min="10" unit="char"/>___
                   </ab>
                </div>
                <div type="letter_message" hand="#handwritten">
