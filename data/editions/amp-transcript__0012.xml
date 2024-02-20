@@ -34,8 +34,8 @@
                            <bibl>
                               <title>Typed Letter Signed W. H. Auden to Hugo K. 1969-01-11</title>
                               <msIdentifier>
-                                 <country ref="#amp_place_id_10">Austria</country>
-                                 <settlement ref="#amp_place_id_62">Krems</settlement>
+                                 <country ref="acdh:amp-index-places.xml#amp_place_id_10">Austria</country>
+                                 <settlement ref="acdh:amp-index-places.xml#amp_place_id_62">Krems</settlement>
                                  <repository>Archiv der Zeitgenossen</repository>
                                  <collection>NL W. H. Auden</collection>
                               </msIdentifier>

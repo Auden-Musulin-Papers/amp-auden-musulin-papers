@@ -60,9 +60,9 @@
                             <certainty cert="high" locus="value"/>
                         </interp>
                         <interp source="ph_015" xml:id="ana_015"><!-- link to nanopub -->
-                            <desc>According to Stella Musulin's son, <rs type="person" ref="#amp_person_94">Marko Musulin</rs> (in an email from 25 October 2022), "T." stands for "Tee" ("tea").
+                            <desc>According to <rs type="person" ref="#amp_person_2">Stella Musulin</rs>'s son, <rs type="person" ref="#amp_person_94">Marko Musulin</rs> (in an email from 25 October 2022), "T." stands for "Tee" ("tea").
                                 <bibl type="email">
-                                   <author ref="#amp_person_94"/>
+                                   <author ref="acdh:amp-index-persons.xml#amp_person_94"/>
                                    <title>AW: Frage zu genannten Namen, received by Timo Frühwirth</title>
                                    <date when-iso="2022-10-25"/>
                                 </bibl>
@@ -84,7 +84,7 @@
                         </interp>
                         <interp source="ph_020" xml:id="ana_020"><!-- link to nanopub -->
                             <desc>
-                                According to the article "'Fledermaus' und Speck: Die Queen in Österreich" in <rs type="org" ref="#amp_organization_39">Die Presse</rs> from 9 September 2022, <rs type="person" ref="#amp_person_138">Queen Elizabeth II</rs> attended a gala dinner at <rs type="place" ref="#amp_place_id_82">Schönbrunn Palace</rs> on 5 May 1969, which is the day of her arrival in <rs type="place" ref="#amp_place_id_10">Austria</rs> for her <rs type="event" ref="#amp_event_id_7">1969 state visit</rs>. The <ref target="https://www.wiener-staatsoper.at/en/staatsoper/media/detail/news/on-the-death-of-the-queen">media archive of the <rs type="place" ref="#amp_place_id_157">Vienna State Opera</rs></ref> records her attendance of a <rs type="event" ref="#amp_event_id_96">special performance of "Die Fledermaus"</rs> on 6 May 1969.
+                                According to the article <ref target="https://www.diepresse.com/6187877/fledermaus-und-speck-die-queen-in-oesterreich">"'Fledermaus' und Speck: Die Queen in Österreich"</ref> in <rs type="org" ref="#amp_organization_39">Die Presse</rs> from 9 September 2022, <rs type="person" ref="#amp_person_138">Queen Elizabeth II</rs> attended a gala dinner at <rs type="place" ref="#amp_place_id_82">Schönbrunn Palace</rs> on 5 May 1969, which is the day of her arrival in <rs type="place" ref="#amp_place_id_10">Austria</rs> for her <rs type="event" ref="#amp_event_id_7">1969 state visit</rs>. The <ref target="https://www.wiener-staatsoper.at/en/staatsoper/media/detail/news/on-the-death-of-the-queen">media archive of the Vienna State Opera</ref> records her attendance of a <rs type="event" ref="#amp_event_id_96">special performance of "Die Fledermaus"</rs> on 6 May 1969.
                                 <listBibl>
                                     <bibl sameAs="https://www.diepresse.com/6187877/fledermaus-und-speck-die-queen-in-oesterreich">
                                         <author>
@@ -94,13 +94,13 @@
                                             </persName>
                                         </author>
                                         <title xml:lang="de">"Fledermaus" und Speck: Die Queen in Österreich</title>
-                                        <orgName ref="#amp_organization_39"/>
-                                        <pubPlace ref="#amp_place_id_1"/>
+                                        <orgName ref="acdh:amp-index-organizations.xml#amp_organization_39"/>
+                                        <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_1"/>
                                         <date when-iso="2022-09-09"/>
                                     </bibl>
                                     <bibl sameAs="https://www.wiener-staatsoper.at/en/staatsoper/media/detail/news/on-the-death-of-the-queen">
                                         <title xml:lang="en">On the Death of the Queen</title>
-                                        <pubPlace ref="#amp_place_id_157"/>
+                                        <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_157"/>
                                         <date when-iso="2022-09-09"/>
                                     </bibl>
                                 </listBibl>
@@ -112,11 +112,11 @@
                             <desc>
                                 The expression "draussen" ("out there") could refer either to <rs type="place" ref="#amp_place_id_7">Schloss Fridau</rs> or to <rs type="place" ref="#amp_place_id_74">Zell am See</rs>, where <rs type="person" ref="#amp_person_167">Janko Musulin</rs> owned the guest house <rs type="place" ref="#amp_place_id_258">Fallegg</rs>, which was managed by <rs type="person" ref="#amp_person_141">Sonja Lanier</rs> in the period circa 1957 to circa 1965. In an e-mail from 12 January 2024, <rs type="person" ref="#amp_person_142">Amelie Lanier</rs> states that she has never been to Fridau.
                                 <listPlace type="choice">
-                                    <place><placeName ref="#amp_place_id_7"/></place>
-                                    <place><placeName ref="#amp_place_id_258"/></place>
+                                    <place><placeName ref="acdh:amp-index-places.xml#amp_place_id_7"/></place>
+                                    <place><placeName ref="acdh:amp-index-places.xml#amp_place_id_258"/></place>
                                 </listPlace>
                                 <bibl type="email">
-                                    <author ref="#amp_person_142"/>
+                                    <author ref="acdh:amp-index-persons.xml#amp_person_142"/>
                                     <title>Re: Anfrage zu Familienmitgliedern von Lanier und von Etthofen, received by Dimitra Grigoriou</title>
                                     <date when-iso="2024-01-12"/>
                                 </bibl>

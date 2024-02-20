@@ -28,7 +28,7 @@
                <interpGrp>
                   <interp xml:id="ana_001" source="ph_001"><!-- link to nanopub -->
                      <desc>
-                        According to <ref target="https://maps.bev.gv.at">the map of Austria provided by the Austrian Federal Office of Metrology and Surveying</ref> (accessed 10 November 2023), there are six settlements named Kirchstetten on Austrian territory. In addition to Marktgemeinde Kirchstetten in St. Pölten district, Lower Austria, there are: <ref target="https://sws.geonames.org/2774360/">Kirchstetten village in Mistelbach district, Lower Austria</ref>; <ref target="https://sws.geonames.org/2774363/">Kirchstetten village in Amstetten district, Lower Austria</ref>; <ref target="https://sws.geonames.org/2774361/">Kirchstetten village in Linz-Land district, Upper Austria</ref>; <ref target="https://sws.geonames.org/12626230/">Kirchstetten village in Vöcklabruck district, Upper Austria</ref>; <ref target="https://sws.geonames.org/2774365/">Kirchstetten village in Perg district, Upper Austria</ref>.
+                        According to <ref target="https://maps.bev.gv.at">the map of Austria provided by the Austrian Federal Office of Metrology and Surveying</ref>, there are six settlements named Kirchstetten on Austrian territory. In addition to Marktgemeinde Kirchstetten in St. Pölten district, Lower Austria, there are: <ref target="https://sws.geonames.org/2774360/">Kirchstetten village in Mistelbach district, Lower Austria</ref>; <ref target="https://sws.geonames.org/2774363/">Kirchstetten village in Amstetten district, Lower Austria</ref>; <ref target="https://sws.geonames.org/2774361/">Kirchstetten village in Linz-Land district, Upper Austria</ref>; <ref target="https://sws.geonames.org/12626230/">Kirchstetten village in Vöcklabruck district, Upper Austria</ref>; <ref target="https://sws.geonames.org/2774365/">Kirchstetten village in Perg district, Upper Austria</ref>.
                         <listPlace type="choice">
                            <place source="https://sws.geonames.org/2774360/"/>
                            <place source="https://sws.geonames.org/2774363/"/>
@@ -36,7 +36,10 @@
                            <place source="https://sws.geonames.org/2774361/"/>
                            <place source="https://sws.geonames.org/2774365/"/>
                         </listPlace>
-                        <bibl sameAs="https://maps.bev.gv.at"/>
+                        <bibl sameAs="https://maps.bev.gv.at">
+                           <title xml:lang="en">Austrian Map</title>
+                           <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_1"/>
+                        </bibl>
                      </desc>
                      <respons locus="value" resp="#tfruehwirth #dgrigoriou #smayer"/>
                      <certainty locus="value" cert="high"/>

@@ -30,9 +30,9 @@
                      <desc>
                         According to her memoir <ref target="acdh:amp-transcript__0062.xml">"The Years in Austria"</ref> (26), <rs type="person" ref="#amp_person_2">Stella Musulin</rs> translated <rs type="person" ref="#amp_person_1">W. H. Auden</rs>'s speech <rs type="lit_work" ref="#lit_work_id_85">"Freedom and Necessity in the Arts"</rs>. This <rs type="lit_work" ref="#lit_work_id_91">translated speech</rs> he delivered at <rs type="event" ref="#amp_event_id_37">Lyrik 70</rs> and was published, without a title or indication of the translator, in the first issue of the literary journal <hi rend="italic">Podium</hi>.
                         <listBibl>
-                           <bibl sameAs="#lit_work_id_91">
-                              <author ref="#amp_person_1"/>
-                              <author role="translator" ref="#amp_person_2"/>
+                           <bibl sameAs="acdh:amp-index-works.xml#lit_work_id_91">
+                              <author ref="acdh:amp-index-persons.xml#amp_person_1"/>
+                              <author role="translator" ref="acdh:amp-index-persons.xml#amp_person_2"/>
                               <title level="a">No title</title>
                               <title level="j">Podium</title>
                               <editor>

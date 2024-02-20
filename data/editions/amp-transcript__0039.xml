@@ -31,12 +31,12 @@
                      <desc>
                         The Berg Collection of the New York Public Library (W. H. Auden Collection of Papers 1809-1979, Folder 18, 69 ALS, etc. to Elizabeth Mayer) includes a letter sent to <rs type="person" ref="#amp_person_157">Mayer</rs> by <rs type="person" ref="#amp_person_1">Auden</rs> from <rs type="place" ref="#amp_place_id_19">Berlin</rs> on 1 March 1965, which contains an early typescript, with manuscript revisions and notes, of his poem <rs type="lit_work" ref="#lit_work_id_60">"Joseph Weinheber"</rs>. In the letter, he asks Mayer for a "literal prose translation into German, stanza by stanza, which I can have mimeographed ..." He intended the copies of this translation to be handed out to the audience of the <rs type="event" ref="#amp_event_id_49">Kirchstetten commemorative event on the occasion of the twentieth anniversary of Josef Weinheber's death</rs>.
                         <listEvent>
-                           <event ref="#amp_event_id_104">
+                           <event ref="acdh:amp-index-events.xml#amp_event_id_104">
                               <label>Letter W. H. Auden to Elizabeth Mayer 1965-03-01</label>
                               <bibl>
                                  <msIdentifier>
-                                    <country ref="#amp_place_id_15"/>
-                                    <settlement ref="#amp_place_id_28"/>
+                                    <country ref="acdh:amp-index-places.xml#amp_place_id_15"/>
+                                    <settlement ref="acdh:amp-index-places.xml#amp_place_id_28"/>
                                     <repository>New York Public Library</repository>
                                     <collection>W. H. Auden collection of papers 1809-1979</collection>
                                     <idno>69 ALS, etc. to Elizabeth Mayer. Folder 18</idno>
@@ -52,11 +52,11 @@
                      <desc>
                         The <rs type="lit_work" ref="#lit_work_id_169">poem</rs> was published under the title "Ephithalamium" and dedicated to <rs type="person" ref="#amp_person_1">W. H. Auden</rs>'s niece Rita Auden and Peter Mudford on the occasion of their wedding on 15 May 1965.
                         <bibl>
-                           <author ref="#amp_person_98"/>
+                           <author ref="acdh:amp-index-persons.xml#amp_person_98"/>
                            <title level="a">Textual Notes</title>
                            <title level="m">Poems: Volume II: 1940-1973</title>
                            <title level="s">The Complete Works of W. H. Auden</title>
-                           <editor ref="#amp_person_98"/>
+                           <editor ref="acdh:amp-index-persons.xml#amp_person_98"/>
                            <publisher>Princeton University Press</publisher>
                            <pubPlace>Princeton</pubPlace>
                            <date when-iso="2022"/>

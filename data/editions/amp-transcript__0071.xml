@@ -46,7 +46,7 @@
                               </persName>
                            </editor>
                            <publisher>Cambridge University Press</publisher>
-                           <pubPlace ref="#amp_place_id_40"/>
+                           <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_40"/>
                            <date when-iso="2004"/>
                            <idno type="ISBN">978-0-521-53647-9</idno>
                            <biblScope unit="page" from="240" to="246"/>

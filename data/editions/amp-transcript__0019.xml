@@ -38,7 +38,7 @@
                            </author>
                            <title>Auden</title>
                            <publisher>Heinemann</publisher>
-                           <pubPlace ref="#amp_place_id_56"/>
+                           <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_56"/>
                            <date when-iso="1995"/>
                            <idno type="ISBN">0-434-17507-2</idno>
                            <citedRange unit="page" from="336" to="337"/>

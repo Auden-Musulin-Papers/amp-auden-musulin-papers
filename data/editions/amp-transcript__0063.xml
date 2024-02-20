@@ -33,7 +33,7 @@
                                 <address>
                                     <street>Neubaugasse</street>
                                     <district>Neubau</district>
-                                    <settlement ref="#amp_place_id_1"/>
+                                    <settlement ref="acdh:amp-index-places.xml#amp_place_id_1"/>
                                 </address>
                                 <bibl>
                                     <author>
@@ -43,8 +43,8 @@
                                         </persName>
                                     </author>
                                     <title xml:lang="de">Lebensform Kaffeehaus: Elegische Betrachtungen eines Wieners</title>
-                                    <orgName ref="#amp_organization_25"/>
-                                    <pubPlace ref="#amp_place_id_1"/>
+                                    <orgName ref="acdh:amp-index-organizations.xml#amp_organization_25"/>
+                                    <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_1"/>
                                     <date when-iso="1960-09-01"/>
                                 </bibl>
                             </desc>
