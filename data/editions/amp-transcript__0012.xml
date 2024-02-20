@@ -28,9 +28,9 @@
                <interpGrp>
                   <interp xml:id="ana_013" source="ph_013"><!-- link to nanopub -->
                      <desc>
-                        In <ref target="acdh:amp-transcript__0013.xml#id">his letter from 4 January 1969</ref>, Auden refers to his "old lawyer", <rs type="person" ref="#amp_person_14">Walter Redlich</rs>, as "supervising the case". Among the Auden papers held by the Archiv der Zeitgenossen, there is a letter to <rs type="person" ref="#amp_person_107">Hugo K.</rs> from 11 January 1969, in which Auden informs him that <rs type="person" ref="#amp_person_14">Redlich</rs> had retired and the case would be handled by a new lawyer, <rs type="person" ref="#amp_person_235">Erich Mikesch</rs>.
+                        In <ref target="acdh:amp-transcript__0013.xml">his letter from 4 January 1969</ref>, Auden refers to his "old lawyer", <rs type="person" ref="#amp_person_14">Walter Redlich</rs>, as "supervising the case". Among the Auden papers held by the Archiv der Zeitgenossen, there is a letter to <rs type="person" ref="#amp_person_107">Hugo K.</rs> from 11 January 1969, in which Auden informs him that <rs type="person" ref="#amp_person_14">Redlich</rs> had retired and the case would be handled by a new lawyer, <rs type="person" ref="#amp_person_235">Erich Mikesch</rs>.
                         <listBibl>
-                           <bibl sameAs="acdh:amp-transcript__0013.xml#id"/>
+                           <bibl sameAs="acdh:amp-transcript__0013.xml"/>
                            <bibl>
                               <title>Typed Letter Signed W. H. Auden to Hugo K. 1969-01-11</title>
                               <msIdentifier>

@@ -126,7 +126,7 @@
                         </interp>
                         <interp source="ph_024" xml:id="ana_024"><!-- link -->
                             <desc>
-                                The <rs type="event" ref="#amp_event_id_22">1969 visit by <rs type="person" ref="#amp_person_54">Friedrich Heer</rs> and <rs type="person" ref="#amp_person_2">Stella Musulin</rs> in Kirchstetten</rs> is documented by a <ref target="acdh:amp-transcript__0065.xml#id acdh:amp-transcript__0066.xml#id acdh:amp-transcript__0067.xml#id acdh:amp-transcript__0068.xml#id acdh:amp-transcript__0069.xml#id">series of photographs</ref> taken by Musulin.
+                                The <rs type="event" ref="#amp_event_id_22">1969 visit by <rs type="person" ref="#amp_person_54">Friedrich Heer</rs> and <rs type="person" ref="#amp_person_2">Stella Musulin</rs> in Kirchstetten</rs> is documented by a <ref target="acdh:amp-transcript__0065.xml acdh:amp-transcript__0066.xml acdh:amp-transcript__0067.xml acdh:amp-transcript__0068.xml acdh:amp-transcript__0069.xml">series of photographs</ref> taken by Musulin.
                             </desc>
                             <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
                             <certainty cert="high" locus="value"></certainty>

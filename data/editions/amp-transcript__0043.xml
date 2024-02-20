@@ -28,7 +28,7 @@
                <interpGrp>
                   <interp xml:id="ana_025" source="ph_025"><!-- link -->
                      <desc>
-                        According to her memoir <ref target="acdh:amp-transcript__0062.xml#id">"The Years in Austria"</ref> (26), <rs type="person" ref="#amp_person_2">Stella Musulin</rs> translated <rs type="person" ref="#amp_person_1">W. H. Auden</rs>'s speech <rs type="lit_work" ref="#lit_work_id_85">"Freedom and Necessity in the Arts"</rs>. This <rs type="lit_work" ref="#lit_work_id_91">translated speech</rs> he delivered at <rs type="event" ref="#amp_event_id_37">Lyrik 70</rs> and was published, without a title or indication of the translator, in the first issue of the literary journal <hi rend="italic">Podium</hi>.
+                        According to her memoir <ref target="acdh:amp-transcript__0062.xml">"The Years in Austria"</ref> (26), <rs type="person" ref="#amp_person_2">Stella Musulin</rs> translated <rs type="person" ref="#amp_person_1">W. H. Auden</rs>'s speech <rs type="lit_work" ref="#lit_work_id_85">"Freedom and Necessity in the Arts"</rs>. This <rs type="lit_work" ref="#lit_work_id_91">translated speech</rs> he delivered at <rs type="event" ref="#amp_event_id_37">Lyrik 70</rs> and was published, without a title or indication of the translator, in the first issue of the literary journal <hi rend="italic">Podium</hi>.
                         <listBibl>
                            <bibl sameAs="#lit_work_id_91">
                               <author ref="#amp_person_1"/>
@@ -43,7 +43,7 @@
                               <date when-iso="1971-04"/>
                               <biblScope unit="page" from="31" to="34"/>
                            </bibl>
-                           <bibl sameAs="acdh:amp-transcript__0062.xml#id">
+                           <bibl sameAs="acdh:amp-transcript__0062.xml">
                               <citedRange unit="page" from="26" to="26"/>
                            </bibl>
                         </listBibl>

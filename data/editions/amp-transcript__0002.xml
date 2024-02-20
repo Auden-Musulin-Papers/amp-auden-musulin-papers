@@ -28,7 +28,7 @@
                <interpGrp>
                   <interp xml:id="ana_007" source="ph_007"><!-- link to nanopub -->
                      <desc>
-                        In her memoirs (<rs type="lit_work" ref="#lit_work_id_162">"Auden in Kirchstetten"</rs> 210, <ref target="acdh:amp-transcript__0062.xml#id">"The Years in Austria"</ref> 14-15), <rs type="person" ref="#amp_person_2">Stella Musulin</rs> refers to her own previous letter to Berlin, in which she had mentioned <rs type="person" ref="#amp_person_70">Brian Bunting</rs>'s non-fiction book <rs type="lit_work" ref="#lit_work_id_72">The Rise of the South African Reich</rs> in relation to the issue of torture.
+                        In her memoirs (<rs type="lit_work" ref="#lit_work_id_162">"Auden in Kirchstetten"</rs> 210, <ref target="acdh:amp-transcript__0062.xml">"The Years in Austria"</ref> 14-15), <rs type="person" ref="#amp_person_2">Stella Musulin</rs> refers to her own previous letter to Berlin, in which she had mentioned <rs type="person" ref="#amp_person_70">Brian Bunting</rs>'s non-fiction book <rs type="lit_work" ref="#lit_work_id_72">The Rise of the South African Reich</rs> in relation to the issue of torture.
                         <listEvent>
                            <event ref="#amp_event_id_70"><label>Letter Stella Musulin to W. H. Auden 1964-09-01--1964-12-23</label></event>
                         </listEvent>
@@ -53,7 +53,7 @@
                               <biblScope unit="page" from="207" to="233"/>
                               <citedRange unit="page" from="210" to="210"/>
                            </bibl>
-                           <bibl sameAs="acdh:amp-transcript__0062.xml#id">
+                           <bibl sameAs="acdh:amp-transcript__0062.xml">
                               <citedRange unit="page" from="14" to="15"/>
                            </bibl>
                         </listBibl>
@@ -63,8 +63,8 @@
                   </interp>
                   <interp source="ph_023" xml:id="ana_023">
                      <desc>
-                        In her memoir <ref target="acdh:amp-transcript__0062.xml#id">"The Years in Austria"</ref> (14-15), <rs type="person" ref="#amp_person_2">Stella Musulin</rs> relates the lines <quote source="acdh:amp-transcript__0038.xml#id">"(In what bars are they welcome? / What girls marry them?)"</quote> in the version of <rs type="person" ref="#amp_person_1">W. H. Auden</rs>'s poem <rs type="lit_work" ref="#lit_work_id_61">"Joseph Weinheber"</rs> from 15 March 1965 to a passage (<quote source="acdh:amp-transcript__0002.xml#id">"Where do the torturers come from? What class? Whom do they marry? <del>Have you ever met one<unclear>?</unclear></del> To what pubs do they go?"</quote>) in the poet's <ref target="acdh:amp-transcript__0002.xml#id">letter to her from 23 December 1964</ref>: "When I told <rs type="person" ref="#amp_person_4">Chester</rs> about how Auden's letter to me had made its own infinitesimal contribution to English literature, Chester snapped: 'Wystan never wastes anything!'"
-                        <bibl sameAs="acdh:amp-transcript__0062.xml#id">
+                        In her memoir <ref target="acdh:amp-transcript__0062.xml">"The Years in Austria"</ref> (14-15), <rs type="person" ref="#amp_person_2">Stella Musulin</rs> relates the lines <quote source="acdh:amp-transcript__0038.xml">"(In what bars are they welcome? / What girls marry them?)"</quote> in the version of <rs type="person" ref="#amp_person_1">W. H. Auden</rs>'s poem <rs type="lit_work" ref="#lit_work_id_61">"Joseph Weinheber"</rs> from 15 March 1965 to a passage (<quote source="acdh:amp-transcript__0002.xml">"Where do the torturers come from? What class? Whom do they marry? <del>Have you ever met one<unclear>?</unclear></del> To what pubs do they go?"</quote>) in the poet's <ref target="acdh:amp-transcript__0002.xml">letter to her from 23 December 1964</ref>: "When I told <rs type="person" ref="#amp_person_4">Chester</rs> about how Auden's letter to me had made its own infinitesimal contribution to English literature, Chester snapped: 'Wystan never wastes anything!'"
+                        <bibl sameAs="acdh:amp-transcript__0062.xml">
                            <citedRange unit="page" from="14" to="15"/>
                         </bibl>
                      </desc>
