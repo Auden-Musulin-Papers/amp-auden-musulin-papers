@@ -29,7 +29,7 @@
                         <interp xml:id="ana_014" source="ph_014"><!-- link to nanopub -->
                             <desc><rs type="person" ref="#amp_person_2">Stella Musulin</rs>'s son, <rs type="person" ref="#amp_person_94">Marko Musulin</rs> (in an email from 15 February 2022), and the niece of <rs type="person" ref="#amp_person_151">Edith Silbermann</rs>, Amy-Diana Colin (in a personal interview conducted in 2022), have identified the addressee of this letter as <rs type="person" ref="#amp_person_151">Edith Silbermann</rs>. In the introduction to her book <hi rend="italic">Paul Celan - Edith Silbermann: Zeugnisse einer Freundschaft: Gedichte, Briefwechsel, Erinnerungen</hi>, Colin outlines the close acquaintance between Silbermann and <rs type="person" ref="#amp_person_167">Janko</rs> and <rs type="person" ref="#amp_person_2">Stella Musulin</rs>.
                                <listPerson>
-                                   <person><persName ref="#amp_person_151"/></person>
+                                   <person><persName ref="acdh:amp-index-persons.xml#amp_person_151"/></person>
                                </listPerson>
                                <listBibl>
                                   <bibl>
@@ -39,17 +39,17 @@
                                              <forename>Amy-Diana</forename>
                                          </name>
                                      </editor>
-                                     <editor ref="#amp_person_151"/>
+                                     <editor ref="acdh:amp-index-persons.xml#amp_person_151"/>
                                      <title>Paul Celan - Edith Silbermann: Zeugnisse einer Freundschaft: Gedichte, Briefwechsel, Erinnerungen</title>
                                      <publisher>Wilhelm Fink</publisher>
-                                     <pubPlace ref="#amp_place_id_26"/>
+                                      <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_26"/>
                                      <date when-iso="2010"/>
                                      <idno type="ISBN">978-3-7705-4842-2</idno>
                                      <citedRange unit="page" from="9" to="20"/>
                                   </bibl>
                                   <bibl type="email">
                                       <author>
-                                          <persName ref="#amp_person_94"></persName>
+                                          <persName ref="acdh:amp-index-persons.xml#amp_person_94"></persName>
                                       </author>
                                       <title>WG:, received by Sandra Mayer</title>
                                       <date when-iso="2022-02-15"/>
@@ -128,8 +128,8 @@
                             <desc>
                                 The <rs type="event" ref="#amp_event_id_22">1969 visit by <rs type="person" ref="#amp_person_54">Friedrich Heer</rs> and <rs type="person" ref="#amp_person_2">Stella Musulin</rs> in Kirchstetten</rs> is documented by a <ref target="acdh:amp-transcript__0065.xml acdh:amp-transcript__0066.xml acdh:amp-transcript__0067.xml acdh:amp-transcript__0068.xml acdh:amp-transcript__0069.xml">series of photographs</ref> taken by Musulin.
                             </desc>
-                            <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
-                            <certainty cert="high" locus="value"></certainty>
+                            <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                            <certainty cert="high" locus="value"/>
                         </interp>
                     </interpGrp>
                 </edition>
