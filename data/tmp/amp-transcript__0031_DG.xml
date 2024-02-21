@@ -23,7 +23,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Copy Typed Letter Stella Musulin to Edward Mendelson 1985-12-15</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -75,6 +77,7 @@ for any purpose, even commercially.</p>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
+            <language ident="de">German</language>
          </langUsage>
       </profileDesc>
       <revisionDesc status="draft">
@@ -101,7 +104,7 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0226/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text type="letter" hand="#typed" xml:lang="en">
       <body>
          <div type="transcription" xml:id="transcription_amp_0031">
             <div type="letter"> 
@@ -110,10 +113,10 @@ for any purpose, even commercially.</p>
                   <opener>
                      <dateline>
                         <placeName>
-                           <address>
+                           <address xml:lang="de">
                               <space quantity="40" unit="char"/><rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                               <space quantity="36" unit="char"/>A-3200 Obergrafendorf<lb/>
-                              <space quantity="42" unit="char"/>bei St.Pölten, Austria.</rs><lb/>
+                              <space quantity="42" unit="char"/>bei St.Pölten, <foreign xml:lang="en">Austria</foreign>.</rs><lb/>
                            </address>
                         </placeName>
                         <space quantity="46" unit="char"/><date rend="#inline">15 De<del>d</del>cember 1985.</date>
@@ -161,7 +164,7 @@ for any purpose, even commercially.</p>
                      great poet should explain to the tax authorities how poetry<lb/>
                      comes to be written.) <space quantity="1" unit="char"/>Do you have the <rs type="lit_work" ref="#lit_work_id_99">English original</rs>, or where<lb/>
                      is it;  did it ever exist or was <rs type="lit_work" ref="#lit_work_id_105">the German</rs> drafted by <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
-                     and put together by, s<del>y</del>ay, <rs type="person" ref="#amp_person_194">his lawyer</rs>? <space quantity="1" unit="char"/>Or could this have been<lb/>
+                     and put together by, s<del>y</del>ay, <rs type="person" ref="#amp_person_14">his lawyer</rs>? <space quantity="1" unit="char"/>Or could this have been<lb/>
                      done by <rs type="person" ref="#amp_person_157">whoever it was who wrote the <rs type="lit_work" ref="#lit_work_id_92">prose version</rs> of <rs type="lit_work" ref="#lit_work_id_60">the<lb/>
                      Weinheber poem</rs></rs>? <space quantity="1" unit="char"/>I have that <rs type="lit_work" ref="#lit_work_id_103">text</rs> which <rs type="person" ref="#amp_person_1">A.</rs> gave me, but there<lb/>
                      is no record of who wrote it. <space quantity="1" unit="char"/>In my first dr<del>s</del>aft of the <rs type="lit_work" ref="#lit_work_id_108">talk<lb/>
@@ -181,14 +184,14 @@ for any purpose, even commercially.</p>
                   </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0224/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0225/" type="sheet"/>
-                  <space quantity="28" unit="char"/>- 2 -<lb/>
+                  <ab><space quantity="28" unit="char"/>- 2 -<lb/></ab><!-- added DG -->
                   <p prev="true">
                      to what extent <rs type="lit_work" ref="#lit_work_id_90"><rs type="person" ref="#amp_person_1">Auden</rs>´s speech</rs> contains hitherto unknown material,<lb/>
                      if any. <space quantity="1" unit="char"/>I said air<del>l</del>ily that he had probably said i<del>a</del>t a<del>s</del>ll before,<lb/>
                      in <rs type="lit_work" ref="#lit_work_id_116">Secondary Worlds</rs> and so on, but this is not true. <space quantity="1" unit="char"/>After a<lb/>
                      preamble the speech begins:
                      <seg>
-                        <space quantity="4" unit="char"/>Between the ages of six and twelve, I spent a great many of<lb/>
+                        <lb/><space quantity="4" unit="char"/>Between the ages of six and twelve, I spent a great many of<lb/><!-- needs better handling similar to doc0004 -->
                         <space quantity="4" unit="char"/>my waking hours in the fabrication of a private secondary<lb/>
                         s <space quantity="2" unit="char"/>sacred world, the basic elements of which were a) a limestone<lb/>
                         landscape mainly derived from the <rs type="place" ref="#amp_place_id_41">Pennine Moors</rs> in the North of<lb/>
@@ -227,7 +230,7 @@ for any purpose, even commercially.</p>
                   <p>   
                      <space quantity="4" unit="char"/>The <rs type="person" ref="#amp_person_118">chaplain</rs> sto the <rs type="org" ref="#amp_organization_27">British Embassy in Vienna</rs> gave me the<lb/>
                      name and addre<del>e</del>ss of the <rs type="person" ref="#amp_person_156">clergyman</rs> who took the service with the<lb/>
-                     <rs type="person" ref="#amp_person_">RC pasrish priest</rs> and I wrote to him to find o<del>iu</del>ut´whether he<lb/>
+                     <rs type="person" ref="#amp_person_230">RC pasrish priest</rs> and I wrote to him to find o<del>iu</del>ut´whether he<lb/>
                      can remember the form of service etc. but no answer so far.<lb/>
                      This would be of interest here because though common practice<lb/>
                      in <rs type="place" ref="#amp_place_id_239">England</rs> such an ecumenical service was a novelty here and<lb/>

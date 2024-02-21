@@ -23,7 +23,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Typed Letter Signed Michael O'Sullivan to Stella Musulin 1984-05-31</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -108,7 +110,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0034">
+         <div type="transcription" xml:id="transcription_amp_0034" xml:lang="en">
             <div type="letter"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0231/" type="sheet"/>
                <div type="letter_message"> 

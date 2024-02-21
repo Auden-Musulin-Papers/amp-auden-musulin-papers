@@ -23,7 +23,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Copy Typed Letter Stella Musulin to Bruce Duncan 1985-11-29</title>
+            </edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
@@ -94,7 +96,7 @@
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0222/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text type="letter" hand="#typed" xml:lang="en">
       <body>
          <div type="transcription" xml:id="transcription_amp_0030">
            <div type="letter">
@@ -129,17 +131,17 @@
                   </p>
                   <p>
                      <space quantity="4" unit="char"/>Would you be so kind as to confirm that you took the<lb/>
-                     <rs type="event" ref="#amp_event_id_19">ecumenical service</rs> - shall I<del>S</del>scall it that? in the <rs type="place" ref="#amp_place_id_104">church at<lb/>
-                     Kirchstetten</rs> in October 1973, jointly with the <rs type="person" ref="#amp_person_">parish priest</rs>?
+                     <rs type="event" ref="#amp_event_id_19">ecumenical service</rs> - shall I<del>S</del>scall it that? in the <rs type="place" ref="#amp_place_id_">church at<lb/><!-- find church -->
+                     Kirchstetten</rs> in October 1973, jointly with the <rs type="person" ref="#amp_person_230">parish priest</rs>?
                   </p>
-                  <p>    
+                  <p prev="true">    
                      <space quantity="5" unit="char"/>Do you recall the form of service used, and did <rs type="person" ref="#amp_person_88">John Auden</rs><lb/>
                      consult you about it? <space quantity="1" unit="char"/>I simply cannot remember, and al<del><gap reason="deleted"/></del>s<del>h</del>though<lb/>
                      there was a long and magnificent passage from the <rs type="lit_work" ref="#lit_work_id_113">NT</rs> which I<lb/>
                      could have sworn was from  <rs type="lit_work" ref="#lit_work_id_14 #lit_work_id_110">Corinthians</rs>, reading throu<del>t</del>gh <rs type="lit_work" ref="#lit_work_id_14">Cor.I</rs> &amp; <rs type="lit_work" ref="#lit_work_id_110">II</rs><lb/>
                      nothing seems to ring the right bell. <space quantity="1" unit="char"/>Then there was the burial<lb/>
                      service.  I am told that the whole occasion aroused a great deal<lb/>
-                     of interest here and was m<del>u</del>k<del>u</del>ch discussed:  so normal to the<lb/>
+                     of interest here and was m<del>u</del>k<del>u</del>ch discussed: so normal to the<lb/>
                      British, in <rs type="place" ref="#amp_place_id_6">Lower Austria</rs> it was a sensation. <space quantity="1" unit="char"/>I should be<lb/>
                      extremely grateful if you could find time to tell me anything<lb/>
                      that you remember, and give me permission to quote you. <space quantity="1" unit="char"/>Not<lb/>
@@ -147,7 +149,7 @@
                      life was a mess. <space quantity="1" unit="char"/>But he was kind, generous and totally<lb/>
                      unpreten<del>s</del>tious, and personally I was devoted to him. <space quantity="1" unit="char"/>It is
                   </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0222/" type="sheet"/>
+                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0222/" type="sheet"/>
                   <p prev="true">
                      my dim recollection that some verse or other in the <rs type="lit_work" ref="#lit_work_id_59">Bible</rs><lb/>
                      reading might help me to describe that amazing mixture of<lb/>
