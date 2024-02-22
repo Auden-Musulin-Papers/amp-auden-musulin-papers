@@ -32,9 +32,7 @@
                         <persName ref="acdh:amp-index-persons.xml#amp_person_234"/>
                         <listBibl>
                            <bibl>
-                              <author>
-                                 <persName ref="acdh:amp-index-persons.xml#amp_person_100"/>
-                              </author>
+                              <author ref="acdh:amp-index-persons.xml#amp_person_100"/>
                               <title>W. H. Auden: A Biography</title>
                               <publisher>George Allen <![CDATA[&]]> Unwin</publisher>
                               <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_56"/>
