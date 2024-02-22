@@ -879,7 +879,7 @@ for any purpose, even commercially.</p>
                   <del>XT</del>The young men who took no part in it and conversed in whispers,
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0208/" type="sheet" ed="13v"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0209/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0209/" type="sheet" ed="14r"/>
                <p>
                   <space quantity="30" unit="char"/>- 14 -
                </p>
@@ -888,8 +888,8 @@ for any purpose, even commercially.</p>
                   baleful eye on us as she spoke into <rs type="person" ref="#amp_person_4">Chester</rs>´s ear.<lb/>
                   <space quantity="4" unit="char"/>The points at issue were not only When and How Much; <space quantity="1" unit="char"/>there<lb/>
                   was also the matter of the church service and the prayers at the<lb/>
-                  graveside. <space quantity="1" unit="char"/>Many people in <rs type="place" ref="#amp_place_id_10">Akustria</rs> had assumed <rs type="person" ref="#amp_person_1">Auden</rs> to be of the<lb/>
-                  <rs type="org" ref="#amp_organization_46">Roman Catholic</rs> faith; <space quantity="1" unit="char"/>he had of course remained <hi rend="underline"><del>a</del></hi>:<del>s</del>member of the<lb/>
+                  graveside. <space quantity="1" unit="char"/>Many people in <rs type="place" ref="#amp_place_id_10">A<del>k</del>ustria</rs> had assumed <rs type="person" ref="#amp_person_1">Auden</rs> to be of the<lb/>
+                  <rs type="org" ref="#amp_organization_46">Roman Catholic</rs> faith; <space quantity="1" unit="char"/>he had of course remained <del>_</del>a   <hi rend="underline"><del>a</del></hi><del>:</del><del>s</del>member of the<lb/>
                   <rs type="org" ref="#amp_organization_4">Anglican</rs> and <rs type="org" ref="#amp_organization_45">Episcopalian churche<del><unclear>e</unclear></del>s</rs>. <space quantity="1" unit="char"/>The misunderstanding arose<lb/>
                   from his regular attendance at mass in the parish church and his<lb/>
                   friendly relationship with <rs type="person" ref="#amp_person_109">Father Lustkandl</rs>, the parish priest<lb/>
