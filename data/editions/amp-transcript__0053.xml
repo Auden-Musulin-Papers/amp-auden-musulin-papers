@@ -48,9 +48,7 @@
                                      <citedRange unit="page" from="9" to="20"/>
                                   </bibl>
                                   <bibl type="email">
-                                      <author>
-                                          <persName ref="acdh:amp-index-persons.xml#amp_person_94"></persName>
-                                      </author>
+                                      <author ref="acdh:amp-index-persons.xml#amp_person_94"/>
                                       <title>WG:, received by Sandra Mayer</title>
                                       <date when-iso="2022-02-15"/>
                                   </bibl>
