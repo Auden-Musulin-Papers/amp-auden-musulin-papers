@@ -26,32 +26,6 @@
             <editionStmt>
                 <edition><!-- 1960-09-01 Lebensform Kaffeehaus, Furche, Helmut Butterweck -->
                     <title>Autograph Letter Signed Stella Musulin to Christine Busta 1962-05-23</title>
-                    <interpGrp>
-                        <interp xml:id="ana_019" source="ph_019"><!-- link to nanopub -->
-                            <desc>
-                                In his report on Viennese coffeehouse culture, "Lebensform Kaffeehaus: Elegische Betrachtungen eines Wieners" (<hi rend="italic"><rs type="org" ref="#amp_organization_25">Die Furche</rs></hi>, 1 Sep. 1960), Helmut Butterweck locates the "<rs type="place" ref="#amp_place_id_301">Café Dreiviertel</rs>" at the "Ende der Neubaugasse" ["the end of Neubaugasse"] in the seventh <rs type="place" ref="#amp_place_id_1">Viennese</rs> district.
-                                <address>
-                                    <street>Neubaugasse</street>
-                                    <district>Neubau</district>
-                                    <settlement ref="acdh:amp-index-places.xml#amp_place_id_1"/>
-                                </address>
-                                <bibl>
-                                    <author>
-                                        <persName>
-                                            <surname>Butterweck</surname>
-                                            <forename>Helmut</forename>
-                                        </persName>
-                                    </author>
-                                    <title xml:lang="de">Lebensform Kaffeehaus: Elegische Betrachtungen eines Wieners</title>
-                                    <orgName ref="acdh:amp-index-organizations.xml#amp_organization_25"/>
-                                    <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_1"/>
-                                    <date when-iso="1960-09-01"/>
-                                </bibl>
-                            </desc>
-                            <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
-                            <certainty cert="high" locus="value"></certainty>
-                        </interp>
-                    </interpGrp>
                 </edition>
                 <respStmt>
                     <resp>Transcription and commentary</resp>

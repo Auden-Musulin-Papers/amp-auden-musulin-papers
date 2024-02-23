@@ -29,7 +29,9 @@
                   <interp xml:id="ana_011" source="ph_011"><!-- link to nanopub -->
                      <desc>
                         The <rs type="place" ref="#amp_place_id_321">Hotel Wandl</rs> is located in <rs type="place" ref="#amp_place_id_1">Vienna</rs>'s first district, Petersplatz 9, and has been operating under this name since 1854.
-                        <placeName ref="acdh:amp-index-places.xml#amp_place_id_321"/>
+                        <address>
+                           <settlement ref="acdh:amp-index-places.xml#amp_place_id_321"/>
+                        </address>
                      </desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
                      <certainty cert="low" locus="value"/>
