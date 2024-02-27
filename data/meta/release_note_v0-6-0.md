@@ -6,7 +6,9 @@ Release of v0.6.0 of the Auden Musulin Papers SDE web app, based on [v0.9.0 of t
 
 ### 1.1 ODD
 
-The AMP ODD has been updated to support editorial interpretation both in human-language and TEI formalization within an XML/TEI environment. Additionally, the ODD now includes the following new elements: `citedRange`, `stamp`, `attr:ed in pb`, `interp`, `interpGrp`, `desc`, `certainty`, `respons`, `choice`, `reg`, `orig`, `rs@type=note` and `quote`. The ODD is now available in the [AMP GitHub repository](https://github.com/Auden-Musulin-Papers/amp-data/).
+The AMP ODD has been updated to support editorial interpretation both in human-readable language and TEI formalization within an XML/TEI environment.
+
+The ODD is available through the [amp-data GitHub repository](https://github.com/Auden-Musulin-Papers/amp-data/).
 
 ### 1.2 Markup of Contents
 
@@ -22,13 +24,13 @@ The previously missing facsimiles of the sheet of [Auden's letter from 30 April 
 
 ### 1.4 Indexes
 
-The TEI/XML Indexes have been updated. Identifiers `idno` received additional subtypes (GND, WIKIDATA, GENONAMES) and types have a more generalized category (URI, URL). The Event Index was updated to support the latest TEI Schema which allows for encoding persons in `listPerson` and places in `listPlace` as children with anonymos blocks `ab`. Next to Event types, start- and end-dates are now encoded in the Index. @timo... do you want to add more details on new data for Indexes?
+The XML/TEI indexes have been updated. The `<idno>` elements have now additional values of the `subtype` attribute (`GND`, `WIKIDATA`, `GEONAMES`) and the values of the `type` attribute specify general categories (`URI`, `URL`). The events index was updated to support the latest TEI schema which allows for encoding persons in `<listPerson>` and places in `<listPlace>`. Next to event types, start and end dates are now encoded in the events index.
 
 ## 2 Web Application Features
 
 ### 2.1 Search
 
-The structure and design of the search interface has been updated to provide a more user-friendly experience. The search results now include a preview of the document, and the search form has been updated to include a date range picker, search in document types (Correspondence, Other and Photograph), search in documents that either include verse or not and search in documents with or without comments. The full text preview has been disabled and instead keywords in context will be displayed after a user's full text search was successful. Furthermore, entity badges have been disabled in the search results as well. #144
+The structure and design of the search interface has been updated to provide a more user-friendly experience. The search results now include a preview of the document, and the search form has been updated to adjust document search according to multiple parameters (including date range, document type, and document content.) The full text preview has been disabled and instead keywords in context will be displayed after successful full-text search. Entity badges have been disabled in the search results to improve readability.
 
 ### 2.2 Updated Document View
 
