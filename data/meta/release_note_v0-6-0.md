@@ -6,9 +6,7 @@ Release of v0.6.0 of the Auden Musulin Papers SDE web app, based on [v0.9.0 of t
 
 ### 1.1 ODD
 
-The AMP ODD has been updated to support editorial interpretation both in human-language and TEI formalization within an XML/TEI environment.
-
-<span style="background-color: #E50000">@Daniel: acdh namespace?, linking to other amp documents, to interp in other docs, to entities?</span>
+The AMP ODD has been updated to support editorial interpretation both in human-language and TEI formalization within an XML/TEI environment. Additionally, the ODD now includes the following new elements: `citedRange`, `stamp`, `attr:ed in pb`, `interp`, `interpGrp`, `desc`, `certainty`, `respons`, `choice`, `reg`, `orig`, `rs@type=note` and `quote`. The ODD is now available in the [AMP GitHub repository](https://github.com/Auden-Musulin-Papers/amp-data/).
 
 ### 1.2 Markup of Contents
 
@@ -20,17 +18,47 @@ The system of numbering pages has been updated to provide information on the pos
 
 ### 1.3 Documents
 
-The previously missing facsimiles of the sheet of [Auden's letter from 30 April 1962](https://amp.acdh.oeaw.ac.at/amp-transcript__0059.html) have been digitally reproduced and are now available through the AMP SDE.<span style="background-color: #E50000">@Daniel: will this be done before release?</span>
+The previously missing facsimiles of the sheet of [Auden's letter from 30 April 1962](https://amp.acdh.oeaw.ac.at/amp-transcript__0059.html) have been digitally reproduced and are now available through the AMP SDE.
+
+### 1.4 Indexes
+
+The TEI/XML Indexes have been updated. Identifiers `idno` received additional subtypes (GND, WIKIDATA, GENONAMES) and types have a more generalized category (URI, URL). The Event Index was updated to support the latest TEI Schema which allows for encoding persons in `listPerson` and places in `listPlace` as children with anonymos blocks `ab`. Next to Event types, start- and end-dates are now encoded in the Index. @timo... do you want to add more details on new data for Indexes?
 
 ## 2 Web Application Features
 
 ### 2.1 Search
 
-<span style="background-color: #E50000">@Daniel</span>
+The structure and design of the search interface has been updated to provide a more user-friendly experience. The search results now include a preview of the document, and the search form has been updated to include a date range picker, search in document types (Correspondence, Other and Photograph), search in documents that either include verse or not and search in documents with or without comments. The full text preview has been disabled and instead keywords in context will be displayed after a user's full text search was successful. Furthermore, entity badges have been disabled in the search results as well. #144
 
 ### 2.2 Updated Document View
 
 The detail document view now includes options for enabling/disabling the display not only of original text features, entities, and comments, but also of intertextuality information (via the `Quotes` button).
+
+### 2.3 Feature Update Summary
+
+- New Comments section below the document view to display editorial comments and interpretations. 
+  - Issues: #121, #123, #124, #125, #126, #127, #133, #134, #135, #136, #137, #139, #140, #141, #143, #145, #146, #153, #154, #157, #158, #159
+- New pagination labels for documents to reflect front and back site (recto and verso) of a sheet or evelope. #122
+- New Event Index data to display type, subtype, start- and end-dates of events. #138 #150
+- New Original Text Feature to display original spelling added to the document view. #142
+- New Sliders for highlighting comments and quotes added to the document view.
+- Updated document view search with navigation and hits counter. #147
+- All HTML documents were updated from xHTML to HTML5. #152
+- New Literay Works Index data to display type of work #155
+- Support for new ACDH-CH Imprint Service added #160
+- Additional data for Correspondence Description `transmitted` and `redirected` added to the document view #149
+- Minor design updates with white background for all documents and light-brown Navigation, Cards and Grid Items.
+
+### 2.4 Bug Fixes
+
+- URLs to navigate to the next and previous document in the document view have been fixed. #110
+- Font family and size features have been fixed for TEI segments #111
+- Typesense Search in newly structured Correspondence documents of v0.8.0 was fixed #114
+- Missing or duplicated content for updated Correspondence structure were fixed 
+  - Issues: #113, #117, #118, #131, #156
+- Missing authority link information for Indexes was fixed #116, #129
+- Organization Index map was fixed #128
+
 
 ## 3 Disclaimer
 
