@@ -30,36 +30,37 @@ The XML/TEI indexes have been updated. The `<idno>` elements have now additional
 
 ### 2.1 Search
 
-The structure and design of the search interface has been updated to provide a more user-friendly experience. The search results now include a preview of the document, and the search form has been updated to adjust document search according to multiple parameters (including date range, document type, and document content.) The full text preview has been disabled and instead keywords in context will be displayed after successful full-text search. Entity badges have been disabled in the search results to improve readability.
+The structure and design of the search interface has been updated to provide a more user-friendly experience. The search results now include a preview of the document, and the search form has been updated to adjust document search according to multiple parameters (including date range, document type, and document content.) The full text preview has been disabled and instead keywords in context will be displayed after successful full-text search. Entity badges have been disabled in the search results to improve readability. #144
 
 ### 2.2 Updated Document View
 
-The detail document view now includes options for enabling/disabling the display not only of original text features, entities, and comments, but also of intertextuality information (via the `Quotes` button).
+The detail document view now includes options for enabling/disabling the display not only of original text features, entities, and comments, but also of intertextuality information (via the `Quotes` slider).
 
 ### 2.3 Feature Update Summary
 
-- New Comments section below the document view to display editorial comments and interpretations. 
-  - Issues: #121, #123, #124, #125, #126, #127, #133, #134, #135, #136, #137, #139, #140, #141, #143, #145, #146, #153, #154, #157, #158, #159
-- New pagination labels for documents to reflect front and back site (recto and verso) of a sheet or evelope. #122
-- New Event Index data to display type, subtype, start- and end-dates of events. #138 #150
-- New Original Text Feature to display original spelling added to the document view. #142
-- New Sliders for highlighting comments and quotes added to the document view.
-- Updated document view search with navigation and hits counter. #147
-- All HTML documents were updated from xHTML to HTML5. #152
-- New Literay Works Index data to display type of work #155
-- Support for new ACDH-CH Imprint Service added #160
-- Additional data for Correspondence Description `transmitted` and `redirected` added to the document view #149
-- Minor design updates with white background for all documents and light-brown Navigation, Cards and Grid Items.
+- HTML documents updated from xHTML to HTML5 #152
+- minor design updates: white background for all documents; light-brown navigation, cards and grid items
+- new comments section below the document view to display editorial comments and interpretations
+  - issues #121, #123, #124, #125, #126, #127, #133, #134, #135, #136, #137, #139, #140, #141, #143, #145, #146, #153, #154, #157, #158, #159
+- new pagination labels for recto and verso of sheets and evelopes #122
+- new `Original spelling` option added to the document view #142
+- sliders for highlighting comments and quotes added to the document view
+- updated document-view search with navigation and hits counter #147
+- new events index to display type, subtype, start and end dates of events #138 #150
+- works index display type of work #155
+- values `transmitted` and `redirected` of `type` attribute in `<correspAction>` displayed in document-view Correspondence Description #149
+- support for new ACDH-CH imprint service added #160
+
 
 ### 2.4 Bug Fixes
 
-- URLs to navigate to the next and previous document in the document view have been fixed. #110
-- Font family and size features have been fixed for TEI segments #111
-- Typesense Search in newly structured Correspondence documents of v0.8.0 was fixed #114
-- Missing or duplicated content for updated Correspondence structure were fixed 
-  - Issues: #113, #117, #118, #131, #156
-- Missing authority link information for Indexes was fixed #116, #129
-- Organization Index map was fixed #128
+- URLs navigating to next and previous documents in the document view #110
+- font family and size features for TEI `<seg>` elements #111
+- Typesense Search in new structure (from v0.8.0 onward) of correspondence documents #114
+- missing or duplicated contents in updated correspondence structure
+  - issues #113, #117, #118, #131, #156
+- authority-record information in indexes #116, #129
+- institutions index map #128
 
 
 ## 3 Disclaimer
