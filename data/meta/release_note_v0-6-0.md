@@ -20,7 +20,7 @@ The system of numbering pages has been updated to provide information on the pos
 
 ### 1.3 Documents
 
-The previously missing facsimiles of the sheet of [Auden's letter from 30 April 1962](https://amp.acdh.oeaw.ac.at/amp-transcript__0059.html) have been digitally reproduced and are now available through the AMP SDE.<span style="background-color: #E50000">@Daniel: will this be done before release?</span>
+The previously missing facsimiles of the sheet of [Auden's letter from 30 April 1962](https://amp.acdh.oeaw.ac.at/amp-transcript__0059.html) have been digitally reproduced and are now available through the AMP SDE.
 
 ## 2 Web Application Features
 
