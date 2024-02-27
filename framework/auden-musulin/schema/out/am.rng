@@ -5,7 +5,7 @@
          xmlns:xlink="http://www.w3.org/1999/xlink"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2023-12-14T10:02:57Z. .
+Schema generated from ODD source 2024-02-14T09:53:26Z. .
 TEI Edition: Version 4.4.0. Last updated on
         19th April 2022, revision ff9cc28b0
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.4.0/
@@ -1833,6 +1833,7 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
       <choice>
          <ref name="tei_origDate"/>
          <ref name="tei_origPlace"/>
+         <ref name="tei_stamp"/>
       </choice>
    </define>
    <define name="tei_model.pPart.editorial">
@@ -1879,6 +1880,8 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
       <choice>
          <ref name="tei_sic"/>
          <ref name="tei_corr"/>
+         <ref name="tei_reg"/>
+         <ref name="tei_orig"/>
          <ref name="tei_add"/>
          <ref name="tei_del"/>
          <ref name="tei_unclear"/>
@@ -1890,6 +1893,8 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
       <choice>
          <ref name="tei_sic"/>
          <ref name="tei_corr"/>
+         <ref name="tei_reg"/>
+         <ref name="tei_orig"/>
          <ref name="tei_add"/>
          <ref name="tei_del"/>
          <ref name="tei_unclear"/>
@@ -1900,6 +1905,8 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
    <define name="tei_model.pPart.transcriptional_sequence">
       <ref name="tei_sic"/>
       <ref name="tei_corr"/>
+      <ref name="tei_reg"/>
+      <ref name="tei_orig"/>
       <ref name="tei_add"/>
       <ref name="tei_del"/>
       <ref name="tei_unclear"/>
@@ -1912,6 +1919,12 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
       </optional>
       <optional>
          <ref name="tei_corr"/>
+      </optional>
+      <optional>
+         <ref name="tei_reg"/>
+      </optional>
+      <optional>
+         <ref name="tei_orig"/>
       </optional>
       <optional>
          <ref name="tei_add"/>
@@ -1937,6 +1950,12 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
          <ref name="tei_corr"/>
       </zeroOrMore>
       <zeroOrMore>
+         <ref name="tei_reg"/>
+      </zeroOrMore>
+      <zeroOrMore>
+         <ref name="tei_orig"/>
+      </zeroOrMore>
+      <zeroOrMore>
          <ref name="tei_add"/>
       </zeroOrMore>
       <zeroOrMore>
@@ -1958,6 +1977,12 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
       </oneOrMore>
       <oneOrMore>
          <ref name="tei_corr"/>
+      </oneOrMore>
+      <oneOrMore>
+         <ref name="tei_reg"/>
+      </oneOrMore>
+      <oneOrMore>
+         <ref name="tei_orig"/>
       </oneOrMore>
       <oneOrMore>
          <ref name="tei_add"/>
@@ -2694,6 +2719,8 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
       <choice>
          <ref name="tei_sic"/>
          <ref name="tei_corr"/>
+         <ref name="tei_reg"/>
+         <ref name="tei_orig"/>
          <ref name="tei_unclear"/>
          <ref name="tei_abbr"/>
          <ref name="tei_seg"/>
@@ -2866,6 +2893,7 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
          <ref name="tei_model.respLike"/>
          <ref name="tei_model.imprintPart"/>
          <ref name="tei_series"/>
+         <ref name="tei_citedRange"/>
          <ref name="tei_bibl"/>
          <ref name="tei_relatedItem"/>
          <ref name="tei_edition"/>
@@ -3166,7 +3194,7 @@ Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line;
                   <choice>
                      <value>underline</value>
                      <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
-                     <value>italics</value>
+                     <value>italic</value>
                      <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                   </choice>
                </oneOrMore>
@@ -3325,6 +3353,26 @@ Suggested values include: 1] deprecationInfo (deprecation information)</a:docume
          <empty/>
       </element>
    </define>
+   <define name="tei_reg">
+      <element name="reg">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(regularization) contains a reading which has been regularized or normalized in some sense. [3.5.2. Regularization and
+Normalization 12. Critical Apparatus]</a:documentation>
+         <ref name="tei_macro.paraContent"/>
+         <ref name="tei_att.global.attributes"/>
+         <ref name="tei_att.editLike.attributes"/>
+         <ref name="tei_att.typed.attributes"/>
+         <empty/>
+      </element>
+   </define>
+   <define name="tei_orig">
+      <element name="orig">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(original form) contains a reading which is marked as following the original, rather than being normalized or corrected. [3.5.2. Regularization and
+Normalization 12. Critical Apparatus]</a:documentation>
+         <ref name="tei_macro.paraContent"/>
+         <ref name="tei_att.global.attributes"/>
+         <empty/>
+      </element>
+   </define>
    <define name="tei_gap">
       <element name="gap">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(gap) indicates a point where material has been omitted in a transcription, whether for editorial reasons described in the TEI header, as part of sampling practice, or because the material is illegible, invisible, or inaudible. [3.5.3. Additions, Deletions, and Omissions]</a:documentation>
@@ -3475,16 +3523,18 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</a:documentation>
             <attribute name="ana">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(analysis) indicates one or more elements containing interpretations of the element on which the <code xmlns="http://www.w3.org/1999/xhtml">@ana</code> attribute appears.</a:documentation>
                <data type="token">
-                  <param name="pattern">#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+</param>
+                  <param name="pattern">#.+|acdh:.+</param>
                </data>
             </attribute>
          </optional>
-         <attribute name="ref">
-            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reference) provides an explicit means of locating a full definition or identity for the entity being named by means of one or more URIs.</a:documentation>
-            <data type="token">
-               <param name="pattern">#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+|#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+\s#[^0-9]+[0-9]+</param>
-            </data>
-         </attribute>
+         <optional>
+            <attribute name="ref">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(reference) provides an explicit means of locating a full definition or identity for the entity being named by means of one or more URIs.</a:documentation>
+               <data type="token">
+                  <param name="pattern">#.+|acdh:.+</param>
+               </data>
+            </attribute>
+         </optional>
          <attribute name="type">
             <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">characterizes the element in some sense, using any convenient classification scheme or typology.</a:documentation>
             <choice>
@@ -3499,6 +3549,8 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</a:documentation>
                <value>org</value>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
                <value>lit_work</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
+               <value>note</value>
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"/>
             </choice>
          </attribute>
@@ -3716,8 +3768,8 @@ attributes @target and @cRef may be supplied on <name/>.</report>
          <ref name="tei_att.typed.attributes"/>
          <attribute name="target">
             <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the destination of the reference by supplying one or more URI References</a:documentation>
-            <data type="anyURI">
-               <param name="pattern">\S+</param>
+            <data type="token">
+               <param name="pattern">#.+|acdh:.+|http.+</param>
             </data>
          </attribute>
          <empty/>
@@ -4338,6 +4390,52 @@ Sample values include: 1] main; 2] sub (subordinate); 3] alt (alternate); 4] sho
          <empty/>
       </element>
    </define>
+   <define name="tei_citedRange">
+      <element name="citedRange">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(cited range) defines the range of cited content, often represented by pages or other units [3.12.2.5. Scopes and Ranges in Bibliographic Citations]</a:documentation>
+         <ref name="tei_macro.phraseSeq"/>
+         <ref name="tei_att.global.attributes"/>
+         <ref name="tei_att.pointing.attributes"/>
+         <attribute name="unit">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">identifies the unit of information conveyed by the element, e.g. columns, pages, volume, entry.
+Suggested values include: 1] volume (volume); 2] issue; 3] page (page); 4] line; 5] chapter (chapter); 6] part; 7] column; 8] entry</a:documentation>
+            <choice>
+               <value>volume</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(volume) the element contains a volume number.</a:documentation>
+               <value>issue</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">the element contains an issue number, or volume and issue numbers.</a:documentation>
+               <value>page</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(page) the element contains a page number or page range.</a:documentation>
+               <value>line</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">the element contains a line number or line range.</a:documentation>
+               <value>chapter</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(chapter) the element contains a chapter indication (number and/or title)</a:documentation>
+               <value>part</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">the element identifies a part of a book or collection.</a:documentation>
+               <value>column</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">the element identifies a column.</a:documentation>
+               <value>entry</value>
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">the element identifies an entry number or label in a list of entries.</a:documentation>
+               <data type="token">
+                  <param name="pattern">[^\p{C}\p{Z}]+</param>
+               </data>
+            </choice>
+         </attribute>
+         <attribute name="from">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the starting point of the range of units indicated by the <code xmlns="http://www.w3.org/1999/xhtml">@unit</code> attribute.</a:documentation>
+            <data type="token">
+               <param name="pattern">[^\p{C}\p{Z}]+</param>
+            </data>
+         </attribute>
+         <attribute name="to">
+            <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the end-point of the range of units indicated by the <code xmlns="http://www.w3.org/1999/xhtml">@unit</code> attribute.</a:documentation>
+            <data type="token">
+               <param name="pattern">[^\p{C}\p{Z}]+</param>
+            </data>
+         </attribute>
+         <empty/>
+      </element>
+   </define>
    <define name="tei_pubPlace">
       <element name="pubPlace">
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(publication place) contains the name of the place where a bibliographic item was published. [3.12.2.4. Imprint, Size of a Document, and Reprint Information]</a:documentation>
@@ -4391,6 +4489,7 @@ Sample values include: 1] main; 2] sub (subordinate); 3] alt (alternate); 4] sho
                   <ref name="tei_model.noteLike"/>
                   <ref name="tei_model.ptrLike"/>
                   <ref name="tei_relatedItem"/>
+                  <ref name="tei_citedRange"/>
                </choice>
             </zeroOrMore>
          </group>
@@ -5719,6 +5818,16 @@ Suggested values include: 1] persuade; 2] express; 3] inform; 4] entertain</a:do
          <ref name="tei_att.datable.attributes"/>
          <ref name="tei_att.editLike.attributes"/>
          <ref name="tei_att.typed.attributes"/>
+         <empty/>
+      </element>
+   </define>
+   <define name="tei_stamp">
+      <element name="stamp">
+         <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(stamp) contains a word or phrase describing a stamp or similar device. [10.3.3. Watermarks and Stamps]</a:documentation>
+         <ref name="tei_macro.phraseSeq"/>
+         <ref name="tei_att.global.attributes"/>
+         <ref name="tei_att.typed.attributes"/>
+         <ref name="tei_att.datable.attributes"/>
          <empty/>
       </element>
    </define>

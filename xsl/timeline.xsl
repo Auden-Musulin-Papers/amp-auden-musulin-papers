@@ -3,6 +3,7 @@
     xmlns="http://www.tei-c.org/ns/1.0"
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
     version="2.0" exclude-result-prefixes="#all">
     <xsl:output encoding="UTF-8" method="xml" version="1.0" indent="yes" omit-xml-declaration="no"/>
     <xsl:strip-space elements="*"/>
@@ -21,7 +22,7 @@
                         <author>
                             <name>Mayer, Sandra</name>
                             <name>Frühwirth, Timo</name>
-                            <name>Stoxreiter, Daniel</name>
+                            <name>Elsner, Daniel</name>
                         </author>
                         <funder>
                             <name>FWF Austrian Science Fund</name>
@@ -90,26 +91,24 @@
     </xsl:template>
     <xsl:template name="event">
         <xsl:for-each select="collection('../data/editions')//tei:TEI">
-            <xsl:choose>                
-                <xsl:when test="substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0055', '0054', '0050']">
-                    <xsl:call-template name="event-el">
-                        <xsl:with-param name="eventType" select="'additional-materials'"/>
-                    </xsl:call-template>
-                </xsl:when>
-                <xsl:when test="not(substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0046', '0047', '0027', '0051', '0052', '0056', '0029', '0053', '0030', '0031', '0032', '0033', '0034', '0036', '0049', '0037', '0026', '0061', '0060','0055', '0048', '0054', '0050','0028'])">
-                    <xsl:call-template name="event-el">
-                        <xsl:with-param name="eventType" select="'correspondence'"/>
-                    </xsl:call-template>
-                </xsl:when>
-                <xsl:when test="substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0049', '0052']">
-                    <xsl:call-template name="event-el">
-                        <xsl:with-param name="eventType" select="'photos'"/>
-                    </xsl:call-template>
-                </xsl:when>
-                <xsl:otherwise>
-                    
-                </xsl:otherwise>
-            </xsl:choose>
+            <xsl:variable name="max_date" select="xs:date('1973-12-31')"/>
+            <xsl:variable name="doc_date" 
+                as="xs:date" 
+                select="xs:date(if(//tei:origDate/@notBefore-iso) then(substring-before(//tei:origDate/@notBefore-iso, 'T')) else ('1958-12-31'))"/>
+            <xsl:if test="$doc_date lt $max_date">
+                <xsl:choose>
+                    <xsl:when test="substring-before(substring-after(@xml:id, 'amp-transcript__'), '.xml') = ['0048','0050', '0054', '0055', '0064', '0065', '0066' ,'0067', '0068', '0069', '0072', '0073', '0074','0075']">
+                        <xsl:call-template name="event-el">
+                            <xsl:with-param name="eventType" select="'photos'"/>
+                        </xsl:call-template>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:call-template name="event-el">
+                            <xsl:with-param name="eventType" select="'correspondence'"/>
+                        </xsl:call-template>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:if>
         </xsl:for-each>      
         
         <xsl:variable name="amp-timeline-manuell" select="doc('../data/meta/amp-timeline__0001_manuell.xml')"/>

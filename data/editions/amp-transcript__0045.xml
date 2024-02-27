@@ -11,10 +11,10 @@
                <name>Grigoriou, Dimitra</name>
             </editor>
             <funder>
-               <name>FWF Austrian Science Fund</name>
+               <name>Austrian Science Fund (FWF)</name>
                <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Vienna</postCode>
+                  <street>Georg-Coch-Platz 2</street>
+                  <postCode>1010 Vienna</postCode>
                   <placeName>
                      <country>A</country>
                      <settlement>Vienna</settlement>
@@ -30,6 +30,7 @@
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -73,6 +74,14 @@ for any purpose, even commercially.</p>
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="acdh" matchPattern="(.+)"
+               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+               <p>Edition Documents Prefix</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
@@ -80,7 +89,7 @@ for any purpose, even commercially.</p>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <orgName ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</orgName>
+               <orgName><rs type="org" ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</rs></orgName>
                <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
                <date notBefore-iso="1960-07-21T06:00:01+01:00" notAfter-iso="1960-07-21T07:00:00+01:00">1960-07-21T06:00:01+01:00/1960-07-21T07:00:00+01:00</date><!-- mark up certainty value -->
             </correspAction>
@@ -125,7 +134,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0045" xml:lang="en">
             <div type="envelope">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0109/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0109/" type="envelope" ed="1r"/>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_1">W. H<unclear>.</unclear> Auden</rs><lb/>
                   <address>  
@@ -144,10 +153,10 @@ for any purpose, even commercially.</p>
                      N.<unclear>O</unclear></rs>
                   </address>
                </ab>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0110/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0110/" type="envelope" ed="1v"/>
             </div>
             <div type="letter">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0111/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0111/" type="sheet" ed="2r"/>
                <div type="letter_message">
                   <opener>
                      <dateline>
@@ -178,7 +187,7 @@ for any purpose, even commercially.</p>
                      <signed><rs type="person" ref="#amp_person_1">Wystan Auden</rs></signed>
                   </closer>
             </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0112/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0112/" type="sheet" ed="2v"/>
          </div>
       </div>
       </body>

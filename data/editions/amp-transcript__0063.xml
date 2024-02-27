@@ -4,17 +4,18 @@
             <titleStmt>
                 <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
                 <title level="a">Autograph Letter Signed Stella Musulin to Christine Busta 1962-05-23</title>
-                <author>Auden, W. H.</author>
+                <author>Musulin, Stella</author>
+                <author>Busta, Christine</author><!-- add hand and handshift -->
                 <editor>
                     <name>Mayer, Sandra</name>
                     <name>Frühwirth, Timo</name>
                     <name>Grigoriou, Dimitra</name>
                 </editor>
                 <funder>
-                    <name>FWF Austrian Science Fund</name>
+                    <name>Austrian Science Fund (FWF)</name>
                     <address>
-                        <street>Sensengasse 1</street>
-                        <postCode>1090 Vienna</postCode>
+                        <street>Georg-Coch-Platz 2</street>
+                        <postCode>1010 Vienna</postCode>
                         <placeName>
                             <country>A</country>
                             <settlement>Vienna</settlement>
@@ -68,7 +69,7 @@
                             <history>
                                 <origin>
                                     <origDate notBefore-iso="1962-05-23T00:00:00+01:00" notAfter-iso="1962-05-23T23:59:59+01:00">1962-05-23</origDate>
-                                    <origPlace ana="amp-transcript__0058.xml#ana_003"/>
+                                    <origPlace ana="acdh:amp-transcript__0058.xml#ana_003"/>
                                 </origin>
                             </history>
                         </msDesc>
@@ -76,6 +77,14 @@
                 </listWit>
             </sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="acdh" matchPattern="(.+)"
+                    replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+                    <p>Edition Documents Prefix</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
         <profileDesc>
             <langUsage>
                 <language ident="de">German</language>
@@ -113,7 +122,7 @@
         <body>
             <div type="transcription" xml:id="transcription_amp_0063" xml:lang="de">
                 <div type="letter"> 
-                    <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0463/" type="sheet"/>
+                    <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0463/" type="sheet" ed="1r"/>
                         <div type="letter_message">
                             <opener>
                                 <dateline>
@@ -143,7 +152,7 @@
                                 Ich wollte Sie heute Abend nicht<lb/>
                                 aufhalten<unclear>.</unclear> Sie hätten sich wahrscheinlich nicht<lb/>
                                 an mich erinnert <unclear>_</unclear> vor drei, vier Jahren<lb/>
-                                habe ich Sie im <rs type="place" ref="#amp_place_id_301">Caféhaus "<unclear>D</unclear>rei viertel"</rs><lb/>
+                                habe ich Sie im <rs type="place" ref="#amp_place_id_301" ana="#ana_019">Caféhaus "<unclear>D</unclear>rei viertel"</rs><lb/>
                                 "<foreign xml:lang="en">interviewed</foreign>"; und doch möchte ich mich<lb/>
                                 für die Freude, die <del>sich</del> Sie mir heute gemacht<lb/>
                                 haben, bedanken.    
@@ -168,7 +177,7 @@
                                 <rs type="person" ref="#amp_person_79">Henze</rs>, <rs type="person" ref="#amp_person_115">Brecht</rs> u.s.w.) Er versteht zu wenig<lb/>
                                 Deutsch, es hat mich aber interessiert,
                             </p>
-                         <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0464/" type="sheet"/>
+                         <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0464/" type="sheet" ed="1v"/>
                             <p prev="true">
                                 daß er imstande war, von der Technik<lb/>
                                 Ihrer Dichtung eine Menge herauszuhören<lb/>

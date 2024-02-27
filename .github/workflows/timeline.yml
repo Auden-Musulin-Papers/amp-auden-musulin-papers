@@ -16,12 +16,12 @@ jobs:
         wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip download -d saxon && rm -rf download
     - name: Build
       run: |
-        ant -f build_timeline.xml
+        ant -f scripts/ant/build_timeline.xml
     - name: Commit files to repo
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: created auden and musulin timeline xml
-        branch: main
+        branch: dev
         skip_dirty_check: true    
         skip_fetch: true
-        file_pattern: .
+        file_pattern: ./data/meta/*.xml

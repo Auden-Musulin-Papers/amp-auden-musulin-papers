@@ -11,10 +11,10 @@
                <name>Grigoriou, Dimitra</name>
             </editor>
             <funder>
-               <name>FWF Austrian Science Fund</name>
+               <name>Austrian Science Fund (FWF)</name>
                <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Vienna</postCode>
+                  <street>Georg-Coch-Platz 2</street>
+                  <postCode>1010 Vienna</postCode>
                   <placeName>
                      <country>A</country>
                      <settlement>Vienna</settlement>
@@ -27,9 +27,16 @@
                <title>Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-03-15</title>
                <interpGrp>
                   <interp xml:id="ana_008" source="ph_008"><!-- link to nanopub -->
-                     <desc>In the legal terminology of Early Modern High German, "Gemein(de)pflicht" ("communal duty") designates the "pledge to be made by the new citizen of a community" (<ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=gemeindepflicht">"Gemeindepflicht", Deutsches Rechtswörterbuch</ref>).</desc>
-                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
-                     <certainty cert="high" locus="value"></certainty>
+                     <desc>
+                        In the legal terminology of Early Modern High German, "Gemein(de)pflicht" ("communal duty") designates the "pledge to be made by the new citizen of a community" (<ref target="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=gemeindepflicht">"Gemeindepflicht", Deutsches Rechtswörterbuch</ref>).
+                        <bibl source="https://drw.hadw-bw.de/drw-cgi/zeige?index=lemmata&amp;term=gemeindepflicht">
+                           <title level="a" xml:lang="de">Gemeindepflicht</title>
+                           <title level="m" xml:lang="de">Deutsches Rechtswörterbuch (DRW)</title>
+                           <publisher xml:lang="de">Heidelberger Akademie der Wissenschaften</publisher>
+                        </bibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="high" locus="value"/>
                   </interp>
                </interpGrp>
             </edition>
@@ -37,6 +44,7 @@
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
+               <name>Grigoriou, Dimitra</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -80,6 +88,14 @@ for any purpose, even commercially.</p>
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="acdh" matchPattern="(.+)"
+               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+               <p>Edition Documents Prefix</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
@@ -87,17 +103,17 @@ for any purpose, even commercially.</p>
          </langUsage>
          <correspDesc>
             <correspAction type="sent">
-               <orgName ref="#amp_organization_79">Postamt Berlin 11 (post office Berlin 11)</orgName>
+               <orgName><rs type="org" ref="#amp_organization_79">Postamt Berlin 11 (post office Berlin 11)</rs></orgName>
                <placeName ref="#amp_place_id_17">Berlin</placeName>
                <date notBefore-iso="1965-03-15T13:00:01+01:00" notAfter-iso="1965-03-15T14:00:00+01:00">1965-03-15T13:00:01+01:00/1965-03-15T14:00:00+01:00</date>
             </correspAction>
             <correspAction type="transmitted">
-               <orgName ref="#amp_organization_71">Postamt Ober-Grafendorf (post office Ober-Grafendorf))</orgName>
+               <orgName><rs type="org" ref="#amp_organization_71">Postamt Ober-Grafendorf (post office Ober-Grafendorf)</rs></orgName>
                <placeName ref="#amp_place_id_8">Ober-Grafendorf</placeName>
                <date notBefore-iso="1965-03-20T09:00:01+01:00" notAfter-iso="1965-03-20T19:00:00+01:00">1965-03-20T09:00:01+01:00/1965-03-20T19:00:00+01:00</date><!-- uncertain time in postmark -->
             </correspAction>
             <correspAction type="redirected">
-               <persName ref="#amp_person_93">Musulin, Elsa von</persName>               
+               <persName ref="#amp_person_93" ana="acdh:amp-transcript__0002.xml#ana_027">Musulin, Elsa von</persName>               
                <placeName ref="#amp_place_id_7">Fridau</placeName>
             </correspAction>
             <correspAction type="received">
@@ -153,7 +169,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0038" xml:lang="en">
             <div type="envelope">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0011/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0011/" type="envelope" ed="1r"/>
                <ab hand="#handwritten" xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   S<unclear>t</unclear>ella Musulin</rs><lb/>
@@ -171,7 +187,7 @@ for any purpose, even commercially.</p>
                      Neuling<unclear>g</unclear>. 2<unclear>6</unclear>/1<unclear>4</unclear></rs>
                   </address>
                </ab>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0012/" type="envelope"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0012/" type="envelope" ed="1v"/>
                <ab hand="#handwritten">
                   <rs type="person" ref="#amp_person_1">W.H. Auden</rs><lb/>
                   <address>
@@ -182,139 +198,139 @@ for any purpose, even commercially.</p>
                </ab>
             </div>
             <div type="letter">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0133/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0133/" type="sheet" ed="2r"/>
                <div type="poem">
                   <head>
-                     <space extent="undefined quantity of characters plus minimum" min="5" unit="char"/><rs type="lit_work" ref="#lit_work_id_61"><hi rend="underline"><rs type="person" ref="#amp_person_5">JOSEPH WEINHEBER</rs></hi><lb/>
-                     <space extent="undefined quantity of characters plus minimum" min="7" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
+                     <space extent="undefined quantity of characters plus minimum" min="6" unit="char"/><rs type="lit_work" ref="#lit_work_id_61"><hi rend="underline"><rs type="person" ref="#amp_person_5">JOSEPH WEINHEBER</rs></hi><lb/>
+                     <space extent="undefined quantity of characters plus minimum" min="8" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
                   </head>
                   <lg>
-                     <lb/><space extent="undefined quantity of characters"/><l>Reachi<del>j</del>ng my gate a narrow</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Lane from the village</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Passes on into a wood:</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>When I walk that way</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>It seems becoming to stop</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>And look through the fence</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Of your garden where(under</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>The circs they had to)</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>They buried you like a loved</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Old family dog.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Reachi<del>j</del>ng my gate a narrow</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Lane from the village</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Passes on into a wood:</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>When I walk that way</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>It seems becoming to stop</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>And look through the fence</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Of your garden where(under</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The circs they had to)</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>They buried you like a loved</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Old family dog.</l>
                   </lg>   
                   <lg>   
-                     <lb/><space extent="undefined quantity of characters"/><l>Categorised enemies</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Twenty years ago,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Now next-door neighbors,we might</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Have become good friends,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Sharing a common ambit</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>And love of the word,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Over a golden Kremser</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Had many a long</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Language on syntax,commas,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Versification.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Categorised enemies</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Twenty years ago,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Now next-door neighbors,we might</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Have become good friends,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Sharing a common ambit</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>And love of the word,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Over a golden Kremser</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Had many a long</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Language on syntax,commas,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Versification.</l>
                   </lg>   
                   <lg>   
-                     <lb/><space extent="undefined quantity of characters"/><l>Yes,yes,it has to be said:</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Men of great damage</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>And malengine took you up.</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Did they,though,ever</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Take you in,who to <rs type="person" ref="#amp_person_196">Goebbels</rs>'</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Offer of culture</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Countered <hi rend="underline"><foreign xml:lang="de">In Ruah lassen!</foreign></hi>?</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>But the crowd prefers</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>A nasty stink and the young</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Condemn you unread.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Yes,yes,it has to be said:</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Men of great damage</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>And malengine took you up.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Did they,though,ever</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Take you in,who to <rs type="person" ref="#amp_person_196">Goebbels</rs>'</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Offer of culture</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Countered <hi rend="underline"><foreign xml:lang="de">In Ruah lassen!</foreign></hi>?</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>But the crowd prefers</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>A nasty stink and the young</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Condemn you unread.</l>
                   </lg>   
                   <lg>   
-                     <lb/><space extent="undefined quantity of characters"/><l>What,had you ever heard of</l>
-                     <lb/><space extent="undefined quantity of characters"/><l><rs type="person" ref="#amp_person_7">Franz J<unclear>ä</unclear>gerst<unclear>ä</unclear>tter</rs>,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>The <rs type="place" ref="#amp_place_id_22">St.Radegund</rs> peasant</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Who said his lonely</l>
-                     <lb/><space extent="undefined quantity of characters"/><l><hi rend="underline"><foreign xml:lang="de">Nein</foreign></hi> to the Aryan State</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>And was beheaded,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Would your heart,as Austrian,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>As poet,have told you?</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Good care,of course,was taken</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>You should hear nothing,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>What,had you ever heard of</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l><rs type="person" ref="#amp_person_7">Franz J<unclear>ä</unclear>gerst<unclear>ä</unclear>tter</rs>,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The <rs type="place" ref="#amp_place_id_22">St.Radegund</rs> peasant</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Who said his lonely</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l><hi rend="underline"><foreign xml:lang="de">Nein</foreign></hi> to the Aryan State</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>And was beheaded,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Would your heart,as Austrian,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>As poet,have told you?</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Good care,of course,was taken</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>You should hear nothing,</l>
                   </lg>   
                   <lg>   
-                     <lb/><space extent="undefined quantity of characters"/><l>Be unprepared for a day</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>That was bound to come,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>A season of dread and tears</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>And dishevelment</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>When,transfixed by a nightmare,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>You destroyed yourself.</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Retribution was ever</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>A bungler at it:</l>
-                     <lb/><space extent="undefined quantity of characters"/><l><hi rend="underline"><foreign xml:lang="de">Dies alles ist furchtbar,hier</foreign></hi></l>
-                     <lb/><space extent="undefined quantity of characters"/><l><hi rend="underline"><foreign xml:lang="de">Nur Schweigen gem<unclear>ä</unclear>ss</foreign></hi>.(I)</l> 
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Be unprepared for a day</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>That was bound to come,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>A season of dread and tears</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>And dishevelment</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>When,transfixed by a nightmare,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>You destroyed yourself.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Retribution was ever</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>A bungler at it:</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l><hi rend="underline"><foreign xml:lang="de">Dies alles ist furchtbar,hier</foreign></hi></l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l><hi rend="underline"><foreign xml:lang="de">Nur Schweigen gem<unclear>ä</unclear>ss</foreign></hi>.(I)</l> 
                   </lg>  
-               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0134/" type="sheet"/>
-               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0135/" type="sheet"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0134/" type="sheet" ed="2v"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0135/" type="sheet" ed="3r"/>
                   <ab>
-                     <space extent="undefined quantity of characters plus minimum" min="39" unit="char"/>(2
+                     <space extent="undefined quantity of characters plus minimum" min="40" unit="char"/>(2
                   </ab>
                   <lg>
-                     <lb/><space extent="undefined quantity of characters"/><l>Unmarked by me,unmourned for,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>The hour of your death,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Unhailed by you the moment</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>When,providence-led,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>I first beheld <rs type='place' ref="#amp_place_id_5">Kirchstetten</rs></l>
-                     <lb/><space extent="undefined quantity of characters"/><l>On a pouring wet</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>October day in a year</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>That changed our Cosmos,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>The <foreign xml:lang="la">annus mirabilis</foreign></l>
-                     <lb/><space extent="undefined quantity of characters"/><l>When Parity fell.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Unmarked by me,unmourned for,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The hour of your death,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Unhailed by you the moment</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>When,providence-led,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>I first beheld <rs type='place' ref="#amp_place_id_5">Kirchstetten</rs></l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>On a pouring wet</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>October day in a year</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>That changed our Cosmos,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The <foreign xml:lang="la">annus mirabilis</foreign></l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>When Parity fell.</l>
                   </lg>
                   <lg>
-                     <lb/><space extent="undefined quantity of characters"/><l>Already the realms that lost</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Were properly warm</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>And over-eating,their crimes</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>The pedestrian</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Private sort,those nuisances,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Corpses and rubble,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Lon<del>f</del>g carted away: for their raped</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>The shock was fading,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Their kidnapped physicists felt</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>No longer homesick.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Already the realms that lost</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Were properly warm</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>And over-eating,their crimes</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The pedestrian</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Private sort,those nuisances,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Corpses and rubble,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Lon<del>f</del>g carted away: for their raped</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The shock was fading,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Their kidnapped physicists felt</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>No longer homesick.</l>
                   </lg>
                   <lg>
-                     <lb/><space extent="undefined quantity of characters"/><l>To-day we smile at weddings</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Where bride and bridegroom</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Were both born since the Shadow</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Lifted,or rather</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Moved elsewhere. Never as yet</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Has Earth been without</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Her bad patch,some unplace with</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Jobs for torturers</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>(In what bars are they welcome?</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>What girls marry them?),</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>To-day we smile at weddings</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Where bride and bridegroom</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Were both born since the Shadow</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Lifted,or rather</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Moved elsewhere. Never as yet</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Has Earth been without</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Her bad patch,some unplace with</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Jobs for torturers</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l ana="acdh:amp-transcript__0002.xml#ana_023">(In what bars are they welcome?</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l ana="acdh:amp-transcript__0002.xml#ana_023">What girls marry them?),</l>
                   </lg>
                   <lg>   
-                     <lb/><space extent="undefined quantity of characters"/><l>Or her nutritive surface</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>At peace all over.</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>No one,so far as we know,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Has ever been safe,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>And so in secret regions</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Good family men</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Keep eye,devoted as monks,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>On apparatus</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Inside which harmless matter</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Turns homicidal.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Or her nutritive surface</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>At peace all over.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>No one,so far as we know,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Has ever been safe,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>And so in secret regions</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Good family men</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Keep eye,devoted as monks,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>On apparatus</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Inside which harmless matter</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Turns homicidal.</l>
                   </lg>
                   <lg>
-                     <lb/><space extent="undefined quantity of characters"/><l>Here,though,I feel as at home</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>As you did: the same</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Short-lived creatures re-utter</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>The same care-free songs,</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Orchards cling to the regime</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>They know,from April's</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Rapid augment of color</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Till boisterous Fall</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>When at each stammering gust</l>
-                     <lb/><space extent="undefined quantity of characters"/><l>Apples thump the ground.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Here,though,I feel as at home</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>As you did: the same</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Short-lived creatures re-utter</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The same care-free songs,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Orchards cling to the regime</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>They know,from April's</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Rapid augment of color</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Till boisterous Fall</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>When at each stammering gust</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Apples thump the ground.</l>
                   </lg>
-               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0136/" type="sheet"/>
-               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0137/" type="sheet"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0136/" type="sheet" ed="3v"/>
+               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0137/" type="sheet" ed="4r"/>
                   <ab>
                      <space quantity="53" unit="char"/>(3
                   </ab>
@@ -356,7 +372,7 @@ for any purpose, even commercially.</p>
                   <p>
                      <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> is intending to have a <rs type="event" ref="#amp_event_id_49">cer<del>o</del>emony in memory of the twentieth<lb/>
                      <space quantity="1" unit="char"/>anniversary of <rs type="person" ref="#amp_person_5">Weinheber</rs>'<del>w</del>s <space quantity="1" unit="char"/>death</rs>. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
-                     <space quantity="1" unit="char"/><hi rend="underline"><foreign xml:lang="de" ana="#ana_008">Gemeindepflicht</foreign>.</hi>
+                     <space quantity="1" unit="char"/><hi rend="underline"><rs type="note" ana="#ana_008"><foreign xml:lang="de">Gemeindepflicht</foreign></rs>.</hi>
                   </p>
                   <closer>
                      <space quantity="17" unit="char"/><salute>love</salute>
@@ -366,12 +382,12 @@ for any purpose, even commercially.</p>
                   </closer>
                   <postscript hand="#handwritten">
                      <p>
-                        P.S. Expect to return <rs type="place" ref="#amp_place_id_5">K</rs> April 22nd. Do hope you<lb/>
+                        P.S. <rs type="event" ref="#amp_event_id_85">Expect to return <rs type="place" ref="#amp_place_id_5">K</rs> April 22nd</rs>. Do hope you<lb/>
                         wil<unclear>l</unclear> be around<unclear>.</unclear>
                      </p>
                   </postscript>
                </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0138/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0138/" type="sheet"  ed="4v"/>
             </div>
          </div>
       </body>
