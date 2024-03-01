@@ -110,8 +110,8 @@
                             <desc>
                                 The expression "draussen" ("out there") could refer either to <rs type="place" ref="#amp_place_id_7">Schloss Fridau</rs> or to <rs type="place" ref="#amp_place_id_74">Zell am See</rs>, where <rs type="person" ref="#amp_person_167">Janko Musulin</rs> owned the guest house <rs type="place" ref="#amp_place_id_258">Fallegg</rs>, which was managed by <rs type="person" ref="#amp_person_141">Sonja Lanier</rs> in the period circa 1957 to circa 1965. In an e-mail from 12 January 2024, <rs type="person" ref="#amp_person_142">Amelie Lanier</rs> states that she has never been to Fridau.
                                 <listPlace type="choice">
-                                    <place><placeName ref="acdh:amp-index-places.xml#amp_place_id_7"/></place>
-                                    <place><placeName ref="acdh:amp-index-places.xml#amp_place_id_258"/></place>
+                                    <place sameAs="acdh:amp-index-places.xml#amp_place_id_7"/>
+                                    <place sameAs="acdh:amp-index-places.xml#amp_place_id_258"/>
                                 </listPlace>
                                 <bibl type="email">
                                     <author ref="acdh:amp-index-persons.xml#amp_person_142"/>
