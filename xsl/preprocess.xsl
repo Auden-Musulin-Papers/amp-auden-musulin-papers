@@ -27,7 +27,7 @@
         </xsl:copy>
     </xsl:template>  
     
-    <xsl:template match="tei:editor">
+    <xsl:template match="tei:titleStmt/tei:editor">
         <xsl:copy>
             <name xmlns="http://www.tei-c.org/ns/1.0" xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name>
             <name xmlns="http://www.tei-c.org/ns/1.0" xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name>
