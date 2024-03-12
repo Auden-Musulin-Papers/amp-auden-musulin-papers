@@ -81,113 +81,125 @@ for any purpose, even commercially.</p>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="5698" lry="7776">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0181/"/>
+      <surface ulx="0" uly="0" lrx="5702.0" lry="7746.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0477/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5700" lry="7780">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0182/"/>
+      <surface ulx="0" uly="0" lrx="5700.0" lry="7748.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0478/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5704" lry="7780">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0183/"/>
+      <surface ulx="0" uly="0" lrx="5700.0" lry="7756.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0479/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5702" lry="7784">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0184/"/>
+      <surface ulx="0" uly="0" lrx="5694.0" lry="7754.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0480/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5702" lry="7772">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0185/"/>
+      <surface ulx="0" uly="0" lrx="5746.0" lry="7754.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0481/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5704" lry="7786">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0186/"/>
+      <surface ulx="0" uly="0" lrx="5748.0" lry="7748.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0482/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5704" lry="7772">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0187/"/>
+      <surface ulx="0" uly="0" lrx="5694.0" lry="7754.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0483/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5704" lry="7782">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0188/"/>
+      <surface ulx="0" uly="0" lrx="5694.0" lry="7748.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0484/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5702" lry="7762">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0189/"/>
+      <surface ulx="0" uly="0" lrx="5698.0" lry="7754.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0485/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5700" lry="7762">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0190/"/>
+      <surface ulx="0" uly="0" lrx="5698.0" lry="7750.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0486/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5700" lry="7776">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0191/"/>
+      <surface ulx="0" uly="0" lrx="5690.0" lry="7744.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0487/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5702" lry="7778">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0192/"/>
+      <surface ulx="0" uly="0" lrx="5694.0" lry="7748.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0488/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5706" lry="7782">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0193/"/>
+      <surface ulx="0" uly="0" lrx="5700.0" lry="7762.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0489/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5700" lry="7768">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0194/"/>
+      <surface ulx="0" uly="0" lrx="5698.0" lry="7752.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0490/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5700" lry="7772">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0195/"/>
+      <surface ulx="0" uly="0" lrx="5698.0" lry="7758.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0491/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5696" lry="7764">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0196/"/>
+      <surface ulx="0" uly="0" lrx="5694.0" lry="7750.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0492/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5698" lry="7768">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0197/"/>
+      <surface ulx="0" uly="0" lrx="5698.0" lry="7762.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0493/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5694" lry="7766">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0198/"/>
+      <surface ulx="0" uly="0" lrx="5696.0" lry="7750.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0494/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5694" lry="7770">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0199/"/>
+      <surface ulx="0" uly="0" lrx="5684.0" lry="7738.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0495/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5698" lry="7766">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0200/"/>
+      <surface ulx="0" uly="0" lrx="5686.0" lry="7740.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0496/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5700" lry="7774">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0201/"/>
+      <surface ulx="0" uly="0" lrx="5684.0" lry="7740.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0497/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5698" lry="7780">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0202/"/>
+      <surface ulx="0" uly="0" lrx="5686.0" lry="7740.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0498/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5698" lry="7772">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0203/"/>
+      <surface ulx="0" uly="0" lrx="5720.0" lry="7758.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0499/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5698" lry="7772">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0204/"/>
+      <surface ulx="0" uly="0" lrx="5718.0" lry="7754.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0500/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5518" lry="7592">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0205/"/>
+      <surface ulx="0" uly="0" lrx="5698.0" lry="7760.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0501/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5702" lry="7768">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0206/"/>
+      <surface ulx="0" uly="0" lrx="5698.0" lry="7750.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0502/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5698" lry="7778">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0207/"/>
+      <surface ulx="0" uly="0" lrx="5712.0" lry="7766.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0503/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5700" lry="7768">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0208/"/>
+      <surface ulx="0" uly="0" lrx="5708.0" lry="7752.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0504/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5700" lry="7772">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0209/"/>
+      <surface ulx="0" uly="0" lrx="5692.0" lry="7738.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0505/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5704" lry="7780">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0210/"/>
+      <surface ulx="0" uly="0" lrx="5688.0" lry="7740.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0506/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5700" lry="7776">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0211/"/>
+      <surface ulx="0" uly="0" lrx="5698.0" lry="7764.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0507/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5708" lry="7768">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0212/"/>
+      <surface ulx="0" uly="0" lrx="5696.0" lry="7752.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0508/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5700" lry="7776">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0213/"/>
+      <surface ulx="0" uly="0" lrx="5694.0" lry="7758.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0509/"/>
       </surface>
-      <surface ulx="0" uly="0" lrx="5698" lry="7780">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0214/"/>
+      <surface ulx="0" uly="0" lrx="5696.0" lry="7756.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0510/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5694.0" lry="7750.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0511/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5692.0" lry="7748.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0512/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5694.0" lry="7758.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0513/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="5692.0" lry="7754.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0514/"/>
       </surface>
    </facsimile>
    <text type="memoir" hand="#typed">
       <body>
          <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0181/" type="sheet" ed="1r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0477/" type="sheet" ed="1r"/>
                <div>
                   <ab>
                      STELLA MUSULIN
@@ -241,7 +253,7 @@ for any purpose, even commercially.</p>
                   1 <rs type="person" ref="#amp_person_100">Hum<del>ö</del>phrey Carpenter</rs>: <rs type="lit_work" ref="#lit_work_id_39">W.H. Auden, a Biography</rs> (<rs type="org" ref="#amp_organization_7">Houghton Mifflin<lb/>
                   Company, Boston</rs> 1981.)
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0182/" type="sheet" ed="1v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0478/" type="sheet" ed="1v"/>
                <div>
                   <ab>
                      NEULINGGASSE 26/14
@@ -249,7 +261,7 @@ for any purpose, even commercially.</p>
                      <lb/>TEL. 73 94 015
                   </ab>
                </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0183/" type="sheet" ed="2r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0479/" type="sheet" ed="2r"/>
                <p>
                   <space quantity="29" unit="char"/>- 2 -
                </p>
@@ -296,8 +308,8 @@ for any purpose, even commercially.</p>
                   2<rs type="person" ref="#amp_person_150">Dorothy J Farnon</rs>: <rs type="lit_work" ref="#lit_work_id_48">Auden in Love</rs>. <rs type="org" ref="#amp_organization_8">Simon &amp; Schuster, NY</rs>, <rs type="org" ref="#amp_organization_5">Faber<lb/>
                   <space quantity="56" unit="char"/>London 1984.</rs>
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0184/" type="sheet" ed="2v"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0185/" type="sheet" ed="3r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0480/" type="sheet" ed="2v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0481/" type="sheet" ed="3r"/>
                <p>
                   <space quantity="28" unit="char"/>- 3 -
                </p>
@@ -345,7 +357,7 @@ for any purpose, even commercially.</p>
                   colonial Englishman of yore speaking to the "boy", and when I<lb/>
                   asked one day at lu<del><unclear>c</unclear></del>nch: "Where is, er....?" he said with a
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0186/" type="sheet" ed="3v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0482/" type="sheet" ed="3v"/>
                <div>
                   <ab>
                      NEULINGGASSE 26/14
@@ -353,7 +365,7 @@ for any purpose, even commercially.</p>
                      <lb/>TEL. 73 94 015
                   </ab>
                </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0187/" type="sheet" ed="4r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0483/" type="sheet" ed="4r"/>
                <p>
                   <space quantity="30" unit="char"/>- 4 -
                </p>
@@ -398,7 +410,7 @@ for any purpose, even commercially.</p>
                <p>
                   1 refers to <rs type="lit_work" ref="#lit_work_id_108">1976 text</rs>.
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0188/" type="sheet" ed="4v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0484/" type="sheet" ed="4v"/>
                <div>
                   <ab>
                      NEULINGGASSE 26/14
@@ -406,7 +418,7 @@ for any purpose, even commercially.</p>
                      <lb/>TEL. 73 94 015
                   </ab>
                </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0189/" type="sheet" ed="5r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0485/" type="sheet" ed="5r"/>
                <p>
                   <space quantity="25" unit="char"/>- 5 -
                </p>
@@ -451,7 +463,7 @@ for any purpose, even commercially.</p>
                   table, a silent young man who, <rs type="person" ref="#amp_person_4">Chester</rs> said in an undertone, was<lb/>
                   a student of technology and <rs type="person" ref="#amp_person_1">Wyst<del>sa</del>an</rs> was helping with his studies.
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0190/" type="sheet" ed="5v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0486/" type="sheet" ed="5v"/>
                <div>
                   <ab>
                      NEULINGGASSE 26/14
@@ -459,7 +471,7 @@ for any purpose, even commercially.</p>
                      <lb/>TEL. 73 94 015
                   </ab>
                </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0191/" type="sheet" ed="5ar"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0487/" type="sheet" ed="5ar"/>
                <p>
                   <space quantity="23" unit="char"/>- 5a -
                </p>
@@ -473,7 +485,7 @@ for any purpose, even commercially.</p>
                <div>
                    →
                </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0192/" type="sheet" ed="5av"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0488/" type="sheet" ed="5av"/>
                <div>
                   <ab>
                      <del>NEULINGGASSE 26/14
@@ -481,7 +493,7 @@ for any purpose, even commercially.</p>
                      <lb/>TEL. 73 94 015</del>
                   </ab>
                </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0193/" type="sheet" ed="6r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0489/" type="sheet" ed="6r"/>
                <p>
                   <space quantity="28" unit="char"/>- 6 -
                </p>
@@ -541,8 +553,8 @@ for any purpose, even commercially.</p>
                   It´s a curious thing, he said, but the first chap <del>you see</del> who<lb/>
                   takes any notice of you when you´re carried into hospital is not
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0194/" type="sheet" ed="6v"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0195/" type="sheet" ed="7r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0490/" type="sheet" ed="6v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0491/" type="sheet" ed="7r"/>
                <p>
                   <space quantity="26" unit="char"/>- 7 -
                </p>
@@ -588,8 +600,8 @@ for any purpose, even commercially.</p>
                   1 <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Wystan Auden</rs>, <del>A</del><rs type="lit_work" ref="#lit_work_id_101">On Installing an American Kitchen in Lower<lb/>
                   <space quantity="3" unit="char"/>Austria</rs>, in <rs type="lit_work" ref="#lit_work_id_2">Homage to Clio</rs>, (<rs type="org" ref="#amp_organization_5">Faber and Faber</rs> 1960).
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0196/" type="sheet" ed="7v"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0197/" type="sheet" ed="8r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0492/" type="sheet" ed="7v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0493/" type="sheet" ed="8r"/>
                <p>
                   <space quantity="27" unit="char"/>- 8 -
                </p>
@@ -642,8 +654,8 @@ for any purpose, even commercially.</p>
                   letter. <space quantity="1" unit="char"/>An <rs type="lit_work" ref="#lit_work_id_99">English original</rs> is not known to exist and it is<lb/>
                   assumed that <rs type="person" ref="#amp_person_1">Auden</rs> destroyed his draft.
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0198/" type="sheet" ed="8v"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0199/" type="sheet" ed="9r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0494/" type="sheet" ed="8v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0495/" type="sheet" ed="9r"/>
                <p>
                   <space quantity="31" unit="char"/>- 9 -
                </p>
@@ -689,8 +701,8 @@ for any purpose, even commercially.</p>
                   <space quantity="10" unit="char"/>book reviews, translations, lectures etc., activities<lb/>
                   <space quantity="10" unit="char"/>which have nothing to do with <rs type="place" ref="#amp_place_id_10">Austria</rs>. <space quantity="1" unit="char"/>A<del>m</del><unclear>n</unclear>d while we are
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0200/" type="sheet" ed="9v"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0201/" type="sheet" ed="10r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0496/" type="sheet" ed="9v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0497/" type="sheet" ed="10r"/>
                <p>
                   <space quantity="25" unit="char"/>- 10 -
                </p>
@@ -730,8 +742,8 @@ for any purpose, even commercially.</p>
                   1 The German text was typed on a different machine, and the<lb/>
                   separate page joined to the <rs type="lit_work" ref="#lit_work_id_103"><del>_D</del>Declaration</rs>.  
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0202/" type="sheet" ed="10v"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0203/" type="sheet" ed="11r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0498/" type="sheet" ed="10v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0499/" type="sheet" ed="11r"/>
                <p>
                   <space quantity="22" unit="char"/>- 11 -
                </p>
@@ -773,7 +785,7 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_4">Herr Kallman</rs> said, would I come over to tea the next day?<lb/>
                   <space quantity="5" unit="char"/>That was the Sunday.
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0204/" type="sheet" ed="11v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0500/" type="sheet" ed="11v"/>
                <div>
                   <ab>
                      SCHLÖSSELGASSE 8/17
@@ -781,7 +793,7 @@ for any purpose, even commercially.</p>
                      <lb/>TEL. 42 17 175
                   </ab>
                </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0205/" type="sheet" ed="12r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0501/" type="sheet" ed="12r"/>
                <p>
                   <unclear>-1</unclear>2-
                </p>
@@ -824,8 +836,8 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_22">Mayor Enzinger</rs> drew a deep breath. <space quantity="1" unit="char"/>The first thing we ha<del>e</del>d<lb/>
                   to realise, he pointed out, was that the body had not yet been
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0206/" type="sheet" ed="12v"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0207/" type="sheet" ed="13r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0502/" type="sheet" ed="12v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0503/" type="sheet" ed="13r"/>
                <p>
                   -13-
                </p>
@@ -872,8 +884,8 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>For a moment the discussion had come to a standstill.<lb/>
                   <del>XT</del>The young men who took no part in it and conversed in whispers,
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0208/" type="sheet" ed="13v"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0209/" type="sheet" ed="14r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0504/" type="sheet" ed="13v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0505/" type="sheet" ed="14r"/>
                <p>
                   <space quantity="30" unit="char"/>- 14 -
                </p>
@@ -915,8 +927,8 @@ for any purpose, even commercially.</p>
                   "It´ll be all right, I´m crammed full of tranquillizers, all I<lb/>
                   need is a bit of a rest." <space quantity="1" unit="char"/>He embraced me warmly and left the room.
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0210/" type="sheet" ed="14v"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_XXXX/" type="sheet" ed="15r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0506/" type="sheet" ed="14v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0507/" type="sheet" ed="15r"/>
                <p>
                   <space quantity="31" unit="char"/>- 15 -
                </p>
@@ -963,8 +975,8 @@ for any purpose, even commercially.</p>
                   to <rs type="person" ref="#amp_person_4">Chester</rs>, who was <del>fusri</del> furious. <space quantity="1" unit="char"/>His view was that the brass<lb/>
                   band had been forced upon him, consequently he could not be
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_XXXX/" type="sheet" ed="15v"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_XXXX/" type="sheet" ed="16r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0508/" type="sheet" ed="15v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0509/" type="sheet" ed="16r"/>
                <p>
                   <space quantity="31" unit="char"/>- 16 -
                </p>
@@ -1022,8 +1034,8 @@ for any purpose, even commercially.</p>
                <p>
                   1<rs type="lit_work" ref="#lit_work_id_178">"Glad"</rs>, March 1965.
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_02XX/" type="sheet" ed="16v"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0211/" type="sheet" ed="17r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0510/" type="sheet" ed="16v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0511/" type="sheet" ed="17r"/>
                <p>
                   <space quantity="27" unit="char"/>- 17 -
                </p>
@@ -1070,7 +1082,7 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>"There is one glory of the sun" I heard myself say, "and<lb/>
                   another glory of the moon, and another glory of the stars: <space quantity="1" unit="char"/>for one
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0212/" type="sheet" ed="17v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0512/" type="sheet" ed="17v"/>
                <div>
                   <ab>
                      NEULINGGASSE 26/14
@@ -1078,7 +1090,7 @@ for any purpose, even commercially.</p>
                      <lb/>TEL. 73 94 015
                   </ab>
                </div>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0213/" type="sheet" ed="18r"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0513/" type="sheet" ed="18r"/>
                <p>
                   <space quantity="30" unit="char"/>- 18 -
                </p>
@@ -1119,7 +1131,7 @@ for any purpose, even commercially.</p>
                   I hope you will pardon me if I speak somewhat personally. <space quantity="1" unit="char"/>I do so,<lb/>
                   not out of vanity...
                </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0214/" type="sheet" ed="18v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0514/" type="sheet" ed="18v"/>
          </div>
       </body>
    </text>
