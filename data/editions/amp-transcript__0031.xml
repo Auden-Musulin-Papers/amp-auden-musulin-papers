@@ -19,7 +19,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Copy Typed Letter Stella Musulin to Edward Mendelson 1985-12-15</title>
+            </edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
          <respStmt><resp>TEI Schema, ODD/RNG</resp><name ref="https://orcid.org/0000-0002-9575-9372" xml:id="pandorfer">Andorfer, Peter</name><name ref="https://orcid.org/0000-0002-0636-4476" xml:id="delsner">Elsner, Daniel</name></respStmt></editionStmt>
          <publicationStmt>
@@ -107,7 +109,7 @@ for any purpose, even commercially.</p>
                               <space quantity="42" unit="char"/>bei St.Pölten, Austria.</rs><lb/>
                            </address>
                         </placeName>
-                        <space quantity="46" unit="char"/><date rend="#inline">15 De<del>d</del>cember 1985.</date>
+                        <space quantity="46" unit="char"/><date rend="#inline">15 De<del>d</del>cember 1985.</date><!-- inconsistent with docs 0061, 0030 -->
                      </dateline>
                      <salute>Dear <rs type="person" ref="#amp_person_98">Ed</rs>,</salute>
                   </opener>
@@ -151,19 +153,19 @@ for any purpose, even commercially.</p>
                      Them look stupid, it must be unique in literary history that a<lb/>
                      great poet should explain to the tax authorities how poetry<lb/>
                      comes to be written.) <space quantity="1" unit="char"/>Do you have the <rs type="lit_work" ref="#lit_work_id_99">English original</rs>, or where<lb/>
-                     is it;  did it ever exist or was <rs type="lit_work" ref="#lit_work_id_105">the German</rs> drafted by <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
-                     and put together by, s<del>y</del>ay, <rs type="person" ref="#amp_person_194">his lawyer</rs>? <space quantity="1" unit="char"/>Or could this have been<lb/>
-                     done by <rs type="person" ref="#amp_person_157">whoever it was who wrote the <rs type="lit_work" ref="#lit_work_id_92">prose version</rs> of <rs type="lit_work" ref="#lit_work_id_60">the<lb/>
-                     Weinheber poem</rs></rs>? <space quantity="1" unit="char"/>I have that <rs type="lit_work" ref="#lit_work_id_103">text</rs> which <rs type="person" ref="#amp_person_1">A.</rs> gave me, but there<lb/>
-                     is no record of who wrote it. <space quantity="1" unit="char"/>In my first dr<del>s</del>aft of the <rs type="lit_work" ref="#lit_work_id_108">talk<lb/>
-                     given at the <rs type="org" ref="#amp_organization_47">PEN Club</rs></rs> in <rs type="place" ref="#amp_place_id_56">London</rs> in 1976 I wrote: "I have the<lb/>
+                     is it;  did it ever exist or was <rs type="lit_work" ref="#lit_work_id_103">the German</rs> drafted by <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
+                     and put together by, s<del>y</del>ay, <rs type="person" ref="#amp_person_241">his lawyer</rs>? <space quantity="1" unit="char"/>Or could this have been<lb/>
+                     done by <rs type="person" ref="#amp_person_157">whoever it was who wrote the <rs type="lit_work" ref="#lit_work_id_92">prose version of <rs type="lit_work" ref="#lit_work_id_60">the<lb/>
+                     Weinheber poem</rs></rs></rs>? <space quantity="1" unit="char"/>I have that <rs type="lit_work" ref="#lit_work_id_103">text</rs> which <rs type="person" ref="#amp_person_1">A.</rs> gave me, but there<lb/>
+                     is no record of who wrote it. <space quantity="1" unit="char"/>In my first dr<del>s</del>aft of the <rs type="lit_work" ref="#lit_work_id_108"><rs type="event" ref="#amp_event_id_106">talk<lb/>
+                     given at the <rs type="org" ref="#amp_organization_47">PEN Club in <rs type="place" ref="#amp_place_id_56">London</rs></rs></rs></rs> in 1976 I wrote: "I have the<lb/>
                      statement in <rs type="lit_work" ref="#lit_work_id_103">German translation</rs>, so that what I am reading is<lb/>
-                     <rs type="lit_work" ref="#lit_work_id_108">my own re-translation</rs> back into English and not the original.
+                     my own re-translation back into English and not the original.
                   </p>
                   <p>   
                      <space quantity="4" unit="char"/>I should be very grateful if you could help me over the<lb/>
-                     <rs type="lit_work" ref="#lit_work_id_90">address which <rs type="person" ref="#amp_person_1">Auden</rs> held at <rs type="place" ref="#amp_place_id_47">Neulengbach</rs></rs>. <space quantity="1" unit="char"/>I have the original<lb/>
-                     <!--<rs type="letter" ref="#amp-transcript__0043.xml">-->English text which to my horror <rs type="person" ref="#amp_person_1">Auden</rs> asked me to translate:<lb/>
+                     <rs type="lit_work" ref="#lit_work_id_85">address which <rs type="person" ref="#amp_person_1">Auden</rs> held at <rs type="event" ref="#amp_event_id_37">Neulengbach</rs></rs>. <space quantity="1" unit="char"/>I have <rs type="lit_work" ref="#lit_work_id_90">the original<lb/>
+                     English text</rs> which to my horror <rs type="person" ref="#amp_person_1">Auden</rs> <rs type="note" ana="#ana_025">asked me to translate</rs>:<lb/>
                      although capable of creative writing in German, to deal with<lb/>
                      this tough text was too m<del>k</del>uch and it was corrected by <rs type="person" ref="#amp_person_167">my husband</rs>.<lb/>
                      <rs type="person" ref="#amp_person_119">Müller</rs> possesses the <rs type="lit_work" ref="#lit_work_id_91">German text</rs> taken from a tape. <space quantity="1" unit="char"/>Now this<lb/>
@@ -172,7 +174,9 @@ for any purpose, even commercially.</p>
                   </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0224/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0225/" type="sheet"/>
-                  <space quantity="28" unit="char"/>- 2 -<lb/>
+                  <ab>
+                     <space quantity="28" unit="char"/>- 2 -<lb/>
+                  </ab>
                   <p prev="true">
                      to what extent <rs type="lit_work" ref="#lit_work_id_90"><rs type="person" ref="#amp_person_1">Auden</rs>´s speech</rs> contains hitherto unknown material,<lb/>
                      if any. <space quantity="1" unit="char"/>I said air<del>l</del>ily that he had probably said i<del>a</del>t a<del>s</del>ll before,<lb/>
