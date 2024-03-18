@@ -285,19 +285,19 @@ for any purpose, even commercially.</p>
                      <space quantity="28" unit="char"/>- 2 -<lb/>
                   </ab>
                   <p prev="true">
-                     to what extent <rs type="lit_work" ref="#lit_work_id_90"><rs type="person" ref="#amp_person_1">Auden</rs>´s speech</rs> contains hitherto unknown material,<lb/>
+                     to what extent <rs type="lit_work" ref="#lit_work_id_85"><rs type="person" ref="#amp_person_1">Auden</rs>´s speech</rs> contains hitherto unknown material,<lb/>
                      if any. <space quantity="1" unit="char"/>I said air<del>l</del>ily that he had probably said i<del>a</del>t a<del>s</del>ll before,<lb/>
                      in <rs type="lit_work" ref="#lit_work_id_116">Secondary Worlds</rs> and so on, but this is not true. <space quantity="1" unit="char"/>After a<lb/>
                      preamble the speech begins:
                      <seg>
-                        <space quantity="4" unit="char"/>Between the ages of six and twelve, I spent a great many of<lb/>
-                        <space quantity="4" unit="char"/>my waking hours in the fabrication of a private secondary<lb/>
-                        s <space quantity="2" unit="char"/>sacred world, the basic elements of which were a) a limestone<lb/>
-                        landscape mainly derived from the <rs type="place" ref="#amp_place_id_41">Pennine Moors</rs> in the North of<lb/>
-                        <space quantity="4" unit="char"/><rs type="place" ref="#amp_place_id_239">England</rs> and b) an industry - lead-mining.<lb/>
-                        <space quantity="4" unit="char"/>I<del>r</del>t is no doubt psychologically significant that my sacred<lb/>
-                        <space quantity="4" unit="char"/>world was autistic - that is to say I had no wish to share<lb/>
-                        <space quantity="4" unit="char"/>it with others ... <space quantity="2" unit="char"/>and so on.<lb/>
+                        <lb/><space quantity="4" unit="char"/><quote source="#lit_work_id_90">Between the ages of six and twelve, I spent a great many of
+                        <lb/><space quantity="4" unit="char"/>my waking hours in the fabrication of a private secondary
+                        <lb/>s <space quantity="2" unit="char"/>sacred world, the basic elements of which were a) a limestone
+                        <lb/>landscape mainly derived from the <rs type="place" ref="#amp_place_id_41">Pennine Moors</rs> in the North of
+                        <lb/><space quantity="4" unit="char"/><rs type="place" ref="#amp_place_id_239">England</rs> and b) an industry - lead-mining.
+                        <lb/><space quantity="4" unit="char"/>I<del>r</del>t is no doubt psychologically significant that my sacred
+                        <lb/><space quantity="4" unit="char"/>world was autistic - that is to say I had no wish to share
+                        <lb/><space quantity="4" unit="char"/>it with others ... </quote><space quantity="2" unit="char"/>and so on.<lb/>
                      </seg>
                      He goes on to define the Primary and Secondary Worlds; <space quantity="1" unit="char"/>his<lb/>
                      private world, the restrictions on the freedom of the artist;<lb/>
@@ -308,7 +308,7 @@ for any purpose, even commercially.</p>
                   <p> 
                      <space quantity="4" unit="char"/>If you like I can have the <rs type="lit_work" ref="#lit_work_id_90">whole thing</rs> photo-copied and<lb/>
                      send it along, but you see what it´s about. <space quantity="1" unit="char"/>I cannot believe<lb/>
-                     that <rs type="person" ref="#amp_person_1">Wystan</rs> <rs type="event" ref="#amp_event_id_37">chose <rs type="place" ref="#amp_place_id_47">Neulengbach</rs></rs> to make a one-time-only<lb/>
+                     that <rs type="person" ref="#amp_person_1">Wystan</rs> chose <rs type="event" ref="#amp_event_id_37">Neulengbach</rs> to make a one-time-only<lb/>
                      statement of this length and weight, the idea is absurd and<lb/>
                      the point of my quotation in <rs type="lit_work" ref="#lit_work_id_108">my talk in 1976</rs> was to show <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
                      in one aspect of his contact with the Austrians, not without<lb/>
@@ -329,8 +329,8 @@ for any purpose, even commercially.</p>
                   <p>   
                      <space quantity="4" unit="char"/>The <rs type="person" ref="#amp_person_118">chaplain</rs> sto the <rs type="org" ref="#amp_organization_27">British Embassy in Vienna</rs> gave me the<lb/>
                      name and addre<del>e</del>ss of the <rs type="person" ref="#amp_person_156">clergyman</rs> who took the service with the<lb/>
-                     <rs type="person" ref="#amp_person_">RC pasrish priest</rs> and I wrote to him to find o<del>iu</del>ut´whether he<lb/>
-                     can remember the form of service etc. but no answer so far.<lb/>
+                     <rs type="person" ref="#amp_person_230">RC pasrish priest</rs> and <ref target="acdh:amp-transcript__0030.xml">I wrote to him to find o<del>iu</del>ut´whether he<lb/>
+                     can remember the form of service etc.</ref> but no answer so far.<lb/>
                      This would be of interest here because though common practice<lb/>
                      in <rs type="place" ref="#amp_place_id_239">England</rs> such an ecumenical service was a novelty here and<lb/>
                      caused much comment.
