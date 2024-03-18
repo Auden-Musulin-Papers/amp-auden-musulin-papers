@@ -172,6 +172,14 @@ for any purpose, even commercially.</p>
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="acdh" matchPattern="(.+)"
+               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+               <p>Edition Documents Prefix</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
@@ -185,6 +193,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-23">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-03-18">entities updated, interpGrp added, quote and link to AMP document added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -203,17 +212,17 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="letter" hand="#typed">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0031">
+         <div type="transcription" xml:id="transcription_amp_0031" xml:lang="en">
             <div type="letter"> 
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0223/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0223/" type="sheet" ed="1r"/>
                <div type="letter_message">
                   <opener>
                      <dateline>
                         <placeName>
-                           <address>
+                           <address xml:lang="de">
                               <space quantity="40" unit="char"/><rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                               <space quantity="36" unit="char"/>A-3200 Obergrafendorf<lb/>
-                              <space quantity="42" unit="char"/>bei St.Pölten, Austria.</rs><lb/>
+                              <space quantity="42" unit="char"/>bei St.Pölten, <foreign xml:lang="en">Austria</foreign>.</rs><lb/>
                            </address>
                         </placeName>
                         <space quantity="46" unit="char"/><date rend="#inline">15 De<del>d</del>cember 1985.</date><!-- inconsistent with docs 0061, 0030 -->
@@ -279,8 +288,8 @@ for any purpose, even commercially.</p>
                      <rs type="lit_work" ref="#lit_work_id_90">English text</rs> is so familia<del>s</del>rrto me that it deafens me to all<lb/>
                      or any sources. <space quantity="1" unit="char"/>A digest of it is in the <rs type="lit_work" ref="#lit_work_id_108">PEN text</rs> but I wonder
                   </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0224/" type="sheet"/>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0225/" type="sheet"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0224/" type="sheet" ed="1v"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0225/" type="sheet" ed="2r"/>
                   <ab>
                      <space quantity="28" unit="char"/>- 2 -<lb/>
                   </ab>
@@ -353,7 +362,7 @@ for any purpose, even commercially.</p>
                      <space quantity="14" unit="char"/><salute>Good health and suc<unclear>c</unclear>ess i<del>j</del>n 1986,</salute>
                   </closer>
                </div>     
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0226/" type="sheet"/>
+         <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0226/" type="sheet" ed="2v"/>
          </div>
       </div>
       </body>
