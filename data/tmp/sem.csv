@@ -41,6 +41,6 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0019,edition_title,,"DONE: amp_event_id_102","DONE: interp plus formalization re dates of event_id_43 (ana_018, ph_018)","DONE: xml:lang","DONE: update Auden wikipedia article re relocation",revision_desc,done,done,no_intertext,`@rend="italic"`,done,done,done,done
 0020,edition_title,,,,"DONE: xml:lang","DONE: update Auden Wikipedia article re Altenburgerhof and Palais Pálffy",revision_desc,done,done,no_intertext,done,done,none,none,none
 0061,edition_title,,,,,,done,,,,,,,,"TODO: `space` before `date`"
-0034,edition_title,,,,,,,,,,,,,,TOCHECK
+0034,edition_title,,,,,,,,,,,,,,,
 0030,edition_title,,,"DONE: interp referring to image of Duncan and Schickelgruber (ana_028, ph_028)",,,,,,,,,,,"TODO: `space` before `date`, comments?"
 0031,edition_title,"problem: inline/block for date?",,"DONE: interp re scandals (ana_029, ph_029), interp re memoir versions (ana_030, ph_030), interp re tax affair (ana_031, ph_031)","TODO: two biblScope on app? comments?"

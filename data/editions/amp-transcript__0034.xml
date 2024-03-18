@@ -121,10 +121,10 @@ for any purpose, even commercially.</p>
                            </seg>
                            <seg hand="#printed">
                               <lb/><rs type="org" ref="#amp_organization_32">TRINITY COLLEGE</rs>
-                              DUBLIN 2
+                              <lb/>DUBLIN 2
                            </seg>
                            <seg hand="#printed"><!-- markup of pictorial element -->
-                              Tel. 772941
+                              <lb/>Tel. 772941
                            </seg>
                            <seg>
                               <lb/><space quantity="60" unit="char"/>Home address :<lb/>
