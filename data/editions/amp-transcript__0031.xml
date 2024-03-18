@@ -55,7 +55,7 @@
                               <title level="j">morgen</title>
                               <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_10"/>
                               <date when-iso="1977"/>
-                              <biblScope unit="volume">1</biblScope>
+                              <biblScope unit="volume">vol. 1</biblScope>
                               <biblScope unit="page" from="6" to="12"/>
                            </bibl>
                            <bibl sameAs="acdh:amp-transcript__0062.xml"/>
@@ -272,7 +272,7 @@ for any purpose, even commercially.</p>
                   <p>   
                      <space quantity="4" unit="char"/>I should be very grateful if you could help me over the<lb/>
                      <rs type="lit_work" ref="#lit_work_id_85">address which <rs type="person" ref="#amp_person_1">Auden</rs> held at <rs type="event" ref="#amp_event_id_37">Neulengbach</rs></rs>. <space quantity="1" unit="char"/>I have <rs type="lit_work" ref="#lit_work_id_90">the original<lb/>
-                     English text</rs> which to my horror <rs type="person" ref="#amp_person_1">Auden</rs> <rs type="note" ana="#ana_025">asked me to translate</rs>:<lb/>
+                        English text</rs> which to my horror <rs type="person" ref="#amp_person_1">Auden</rs> <rs type="note" ana="acdh:amp-transcript__0043.xml#ana_025">asked me to translate</rs>:<lb/>
                      although capable of creative writing in German, to deal with<lb/>
                      this tough text was too m<del>k</del>uch and it was corrected by <rs type="person" ref="#amp_person_167">my husband</rs>.<lb/>
                      <rs type="person" ref="#amp_person_119">Müller</rs> possesses the <rs type="lit_work" ref="#lit_work_id_91">German text</rs> taken from a tape. <space quantity="1" unit="char"/>Now this<lb/>
