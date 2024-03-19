@@ -78,8 +78,8 @@
                         The <rs type="person" ref="#amp_person_78">Hilde Spiel</rs> papers at the Austrian National Library include a letter sent by <rs type="person" ref="#amp_person_1">W. H. Auden</rs>, dated 19 July 1972, in which he asks her to translate a "personal statement of my point of view" in the context of the poet's appeal to the Supreme Administrative Court in Austria. This appeal came after a decision of the Austrian tax authorities regarding Auden's taxation. Auden sent Spiel the English original of his statement on 26 July. Spiel must have sent the final version of her translation of Auden's statement between 23 August and 18 September 1972. A <ref target="acdh:amp-transcript__0052.xml">copy of this document</ref> forms part of the Auden Musulin Papers. For a detailed account of Auden's legal efforts to reduce his liability for taxation in Austria, see Frühwirth and Mayer, <ref target="https://www.vr-elibrary.de/doi/pdf/10.14220/9783737014946.141">"The Auden Musulin Papers: Persona, Life Writing, and the Digital"</ref> (148-151), in <hi rend="italic">Caring for Cultural Studies</hi>, edited by Ganser et al., V&amp;R unipress 2022.
                         <listBibl>
                            <bibl>
-                              <author ref="https://orcid.org/0000-0002-3997-5193"/>
-                              <author ref="https://orcid.org/0000-0002-2915-5888"/>
+                              <author sameAs="#tfruehwirth"/>
+                              <author sameAs="#smayer"/>
                               <title level="a">The Auden Musulin Papers: Persona, Life Writing, and the Digital</title>
                               <title level="m">Caring for Cultural Studies</title>
                               <editor>
