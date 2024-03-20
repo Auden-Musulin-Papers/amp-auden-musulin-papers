@@ -21,6 +21,15 @@
          <editionStmt>
             <edition>
                <title>Aerogram Signed Edward Mendelson to Stella Musulin 1980-12-01</title>
+               <interpGrp>
+                  <interp xml:id="ana_032" source="ph_032"><!-- link -->
+                     <desc>
+                        In June 1957, W. H. Auden wrote to Hedwig Petzold: “I have just won a prize of <hi rend="italic">twenty million</hi> lire . . . I am thinking of using it to buy a house near Vienna” (qtd. in Carpenter 386). Auden had met Petzold when he holidayed in Kitzbühel in 1925. Afterwards, they stayed in touch, and Auden’s letters to Petzold, from 1938 to 1967, are held by the Berg Collection of the New York Public Library (Carpenter 41, 69, 461). In a letter from July 1957, he asked Petzold’s daughter Christa Esders for help in finding a summer home near Vienna (qtd. in Carpenter 387).
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="high" locus="value"/>
+                  </interp>
+               </interpGrp>
             </edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
          <respStmt><resp>TEI Schema, ODD/RNG</resp><name ref="https://orcid.org/0000-0002-9575-9372" xml:id="pandorfer">Andorfer, Peter</name><name ref="https://orcid.org/0000-0002-0636-4476" xml:id="delsner">Elsner, Daniel</name></respStmt></editionStmt>
@@ -123,7 +132,7 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     I just got back from a month in <rs type="place" ref="#amp_place_id_293">England</rs> to find your letter.  I was<lb/>
+                     I just got back from a month in <rs type="place" ref="#amp_place_id_239">England</rs> to find your letter.  I was<lb/>
                      rather worried as to how you were, and am delighted to hear that<lb/>
                      you're on the ascent after a "decline." <space quantity="1" unit="char"/>I'm also abashed not to have<lb/>
                      been in touch with you before about the collapse of <rs type="lit_work" ref="#lit_work_id_117">our four-memoir<lb/>
@@ -131,7 +140,7 @@ for any purpose, even commercially.</p>
                      the basics. <space quantity="1" unit="char"/>First, there should be no need to repay any of the<lb/>
                      advance (I haven't spoken with <rs type="org" ref="#amp_organization_12">Random House</rs> about this, except with<lb/>
                      an ill-informed assitant, but there shouldn't be any problem), and<lb/>
-                     second, I hope you haven't gone out of your way to work on <rs type="lit_work" ref="#lit_work_id_47">the thing</rs><lb/>
+                     second, I hope you haven't gone out of your way to work on <rs type="lit_work" ref="#lit_work_id_47" ana="acdh:amp-transcript__0031.xml#ana_030">the thing</rs><lb/>
                      again. <space quantity="1" unit="char"/>The structure collapsed in two or three stages. <space quantity="1" unit="char"/>First <rs type="person" ref="#amp_person_114">Lincoln<lb/>
                      Kirstein</rs> read the forthcoming <rs type="lit_work" ref="#lit_work_id_39">biography</rs> by <rs type="person" ref="#amp_person_100">Humphrey Carpenter</rs> (not bad,<lb/>
                      not spectacularly good), and decided he didn't know enough <rs type="person" ref="#amp_person_1">Auden</rs> to<lb/>
@@ -164,7 +173,7 @@ for any purpose, even commercially.</p>
                      Please do forgive me for the muddle over <rs type="lit_work" ref="#lit_work_id_117">the book</rs>. <space quantity="1" unit="char"/>And please do keep<lb/>
                      in touch. <space quantity="1" unit="char"/>Incidentally I finished that <rs type="lit_work" ref="#lit_work_id_49">critical book</rs>--to be published<lb/>
                      in the spring--after doing nothing but work on it for a year. <space quantity="1" unit="char"/>My "summer"<lb/>
-                     trip to <rs type="place" ref="#amp_place_id_93">England</rs> got postponed to November while I revised.
+                     trip to <rs type="place" ref="#amp_place_id_239">England</rs> got postponed to November while I revised.
                   </p>
                   <closer>
                      <space quantity="45" unit="char"/><salute>Yours ever,</salute>

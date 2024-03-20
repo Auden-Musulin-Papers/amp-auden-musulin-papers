@@ -45,4 +45,4 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0030,edition_title,,,"DONE: interp referring to image of Duncan and Schickelgruber (ana_028, ph_028)",,,,,,,,,,,"TODO: `space` before `date`"
 0031,edition_title,,,"DONE: interp re scandals (ana_029, ph_029), interp re memoir versions (ana_030, ph_030), interp re tax affair (ana_031, ph_031)",,,,,,,,,,,"TODO: `author`s from ORCID, `space` before `date`, two `biblScope`s?"
 0060,edition_title,,,,,,,,,,,,,,"TODO: correct title for link in work entity"
-0032,edition_title,"TODO: `space` before `date`"
+0032,edition_title,,,"DONE: @ana=ana_030 for memoirs,"TODO: `space` before `date`"
