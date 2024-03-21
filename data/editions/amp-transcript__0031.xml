@@ -225,7 +225,7 @@ for any purpose, even commercially.</p>
                               <space quantity="42" unit="char"/>bei St.Pölten, <foreign xml:lang="en">Austria</foreign>.</rs><lb/>
                            </address>
                         </placeName>
-                        <space quantity="46" unit="char"/><date rend="#inline">15 De<del>d</del>cember 1985.</date><!-- inconsistent with docs 0061, 0030 -->
+                        <space quantity="46" unit="char"/><date rend="#block">15 De<del>d</del>cember 1985.</date>
                      </dateline>
                      <salute>Dear <rs type="person" ref="#amp_person_98">Ed</rs>,</salute>
                   </opener>

@@ -125,7 +125,7 @@
                                      </address>
                                  </seg>
                              </placeName>
-                             <space quantity="44" unit="char"/><date rend="#inline">5. April 1977</date>
+                             <space quantity="44" unit="char"/><date rend="#block">5. April 1977</date>
                          </dateline>
                      </opener>
                 </div>
