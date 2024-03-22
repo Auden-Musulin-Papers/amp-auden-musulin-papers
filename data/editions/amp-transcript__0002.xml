@@ -1,16 +1,12 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0002.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0002.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23</title>
-            <author>Auden, W. H.</author>
-            <author ana="#ana_027">Musulin, Elsa von</author>
-            <editor>
-               <name>Mayer, Sandra</name>
-               <name>Frühwirth, Timo</name>
-               <name>Grigoriou, Dimitra</name>
-            </editor>
+            <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
+            <author ref="https://id.acdh.oeaw.ac.at/emusulin">Musulin, Elsa von</author>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
                <address>
@@ -38,15 +34,8 @@
                               <author ref="acdh:amp-index-persons.xml#amp_person_2"/>
                               <title level="a">Auden in Kirchstetten</title>
                               <title level="m">W.H. Auden: 'In Solitude, for Company': W.H. Auden After 1940</title>
-                              <editor>
-                                 <persName ref="acdh:amp-index-persons.xml#amp_person_231"/>
-                              </editor>
-                              <editor>
-                                 <persName>
-                                    <surname>Jenkins</surname>
-                                    <forename>Nicholas</forename>
-                                 </persName>
-                              </editor>
+                              <editor ref="acdh:amp-index-persons.xml#amp_person_231"/>
+                              <editor ref="acdh:amp-index-persons.xml#amp_person_232"/>
                               <publisher>Clarendon Press</publisher>
                               <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_46"/>
                               <date when-iso="1995"/>
@@ -59,7 +48,7 @@
                            </bibl>
                         </listBibl>
                      </desc>
-                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"></respons>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
                      <certainty cert="high" locus="value"/>
                   </interp>
                   <interp source="ph_023" xml:id="ana_023">
@@ -81,13 +70,8 @@
                   </interp>
                </interpGrp>
             </edition>
-            <respStmt>
-               <resp>Transcription and commentary</resp>
-               <name>Mayer, Sandra</name>
-               <name>Frühwirth, Timo</name>
-               <name>Grigoriou, Dimitra</name>
-            </respStmt>
-         </editionStmt>
+            <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
+         <respStmt><resp>TEI Schema, ODD/RNG</resp><name ref="https://orcid.org/0000-0002-9575-9372" xml:id="pandorfer">Andorfer, Peter</name><name ref="https://orcid.org/0000-0002-0636-4476" xml:id="delsner">Elsner, Daniel</name></respStmt></editionStmt>
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
@@ -131,8 +115,7 @@ for any purpose, even commercially.</p>
       </fileDesc>
       <encodingDesc>
          <listPrefixDef>
-            <prefixDef ident="acdh" matchPattern="(.+)"
-               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+            <prefixDef ident="acdh" matchPattern="(.+)" replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
                <p>Edition Documents Prefix</p>
             </prefixDef>
          </listPrefixDef>

@@ -1,13 +1,17 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0076.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:id="amp-transcript__0076.xml"
+   xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Photograph [Stella Musulin] of W. H. Auden and Margaret Lloyd-Philipps 1970-09-22</title>
+            <title level="a">Autograph Notes W. H. Auden 1961-01-01--1961-11-10</title>
+            <author>Auden, W. H. </author>
             <editor>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
-               <name>Grigoriou, Dimitra</name>
             </editor>
             <funder>
                <name>FWF Austrian Science Fund</name>
@@ -22,16 +26,11 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>
-               <title>
-                  Photograph [Stella Musulin] of W. H. Auden and Margaret Lloyd-Philipps 1970-09-22
-               </title>
-            </edition>
+            <edition>AMP</edition>
             <respStmt>
                <resp>Transcription and commentary</resp>
                <name>Mayer, Sandra</name>
                <name>Frühwirth, Timo</name>
-               <name>Grigoriou, Dimitra</name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -41,7 +40,7 @@
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
-                     for any purpose, even commercially.</p>
+for any purpose, even commercially.</p>
                   <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
                   <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
                   <p>Notices:</p>
@@ -49,7 +48,7 @@
                </licence>
                <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
             </availability>
-            <idno type="handle">https://hdl.handle.net/21.11115/0000-000F-FF7A-A</idno></publicationStmt>
+         </publicationStmt>
          <seriesStmt>
             <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
          </seriesStmt>
@@ -59,14 +58,13 @@
                   <msDesc>
                      <msIdentifier>
                         <country>A</country>
-                        <settlement>Vienna</settlement>
-                        <collection>Musulin private collection</collection>
+                        <settlement>St. Pölten</settlement>
+                        <repository>State Collections of Lower Austria</repository>
+                        <collection>Stella Musulin (Depot)</collection>
+                        <idno>nan</idno>
                      </msIdentifier>
                      <history>
-                        <origin>
-                           <origDate notBefore-iso="1970-09-22T00:00:00+01:00" notAfter-iso="1970-09-22T23:59:59+01:00">1970-09-22T00:00:00+01:00/1970-09-22T23:59:59+01:00</origDate>
-                           <origPlace ref="#amp_place_id_2">Hinterholz 6</origPlace>
-                        </origin>
+                        <origin><origDate>1961-01-01--1961-11-10</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -74,42 +72,37 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <particDesc>
-            <listPerson type="identified">
-               <person role="participant" sameAs="amp_person_1">
-                  <note type="description">left side</note>
-               </person> 
-               <person role="participant" sameAs="amp_person_225">
-                  <note type="description">right side</note>
-               </person>
-               <person role="participant" sameAs="amp_person_2">    
-                  <note type="description">photographer</note>  
-               </person>  
-            </listPerson>
-         </particDesc>
-         <settingDesc>
-            <setting source="https://id.acdh.oeaw.ac.at/auden-musulin-papers/amp-transcript__0016.xml"><!-- let's discuss this -->
-               <name sameAs="amp_place_id_2">Hinterholz 6</name>
-               <date notBefore-iso="1970-09-22T00:00:00+01:00" notAfter-iso="1970-09-22T23:59:59+01:00">22 September 1970</date>
-            </setting>
-         </settingDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
-         <change who="dgrigoriou tfruehwirth" when="2024-01-16">file created, metadata inserted</change>
+         <change who="pandorfer" when="2024-03-08">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="4465" lry="3426">
-         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0448/"/>
+      <surface ulx="0" uly="0" lrx="8028.0" lry="6070.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0473/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="7652.0" lry="5972.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0474/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="8136.0" lry="6052.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0475/"/>
+      </surface>
+      <surface ulx="0" uly="0" lrx="8352.0" lry="5950.0">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0476/"/>
       </surface>
    </facsimile>
-   <text type="photograph">
+   <text type="letter">
       <body>
-         <div type="transcription" xml:id="transcription_amp_0076">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0448/" type="photograph"/>
+         <div xml:id="transcription">
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0473/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0474/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0475/" type="nan"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0476/" type="nan"/>
          </div>
       </body>
    </text>
 </TEI>
-

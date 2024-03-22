@@ -1,15 +1,11 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0062.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0062.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Typescript Memoir Stella Musulin "The Years in Austria" 1976-09-04--1980-12-01</title>
-            <author>Musulin, Stella</author>
-            <editor>
-               <name>Mayer, Sandra</name>
-               <name>Frühwirth, Timo</name>
-               <name>Grigoriou, Dimitra</name>
-            </editor>
+            <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella</author>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
                <address>
@@ -24,13 +20,8 @@
          </titleStmt>
          <editionStmt>
             <edition>AMP</edition>
-            <respStmt>
-               <resp>Transcription and commentary</resp>
-               <name>Mayer, Sandra</name>
-               <name>Frühwirth, Timo</name>
-               <name>Grigoriou, Dimitra</name>
-            </respStmt>
-         </editionStmt>
+            <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
+         <respStmt><resp>TEI Schema, ODD/RNG</resp><name ref="https://orcid.org/0000-0002-9575-9372" xml:id="pandorfer">Andorfer, Peter</name><name ref="https://orcid.org/0000-0002-0636-4476" xml:id="delsner">Elsner, Daniel</name></respStmt></editionStmt>
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
@@ -876,7 +867,7 @@ for any purpose, even commercially.</p>
                   was to bring
                </p>
                <p hand="#handwritten">
-                  &#x2052;
+                  ⁒
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0372/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0373/" type="sheet"/>
@@ -1035,11 +1026,11 @@ for any purpose, even commercially.</p>
                   <del>r</del>tha<del>r</del>t he was lonely, as who wouldn't be in the circumstances.<lb/>
                   <rs type="place" ref="#amp_place_id_18">Berlin-Dahlem</rs>, 23rd December, 1964:<lb/>
                   <rs type="letter" ref="#amp_amp-transcript__0002.xml">It <hi rend="underline">was</hi> sweet of you to think of me at Christmas, especially<lb/>
-                  since it's a little <hi rend="underline">einsam</hi>&#185; here. <space quantity="1" unit="char"/>Am beginning to know some<lb/>
+                  since it's a little <hi rend="underline">einsam</hi>¹ here. <space quantity="1" unit="char"/>Am beginning to know some<lb/>
                   local inhabitants. <space quantity="1" unit="char"/>Oddly enough, the ones I can talk to most<lb/>
                   easily are from <rs type="place" ref="#amp_place_id_21">Ost-Berlin</rs>. <space quantity="1" unit="char"/>The most awful thing about the<lb/>
-                  Bifkes&#178; (sic)§ is that they are so much nicer under a little<lb/>
-                  <hi rend="underline">Druck</hi>&#179; <del><gap reason="illegible"/>pressure)</del>. <space quantity="1" unit="char"/>When they feel their oats they are so apt<lb/>
+                  Bifkes² (sic)§ is that they are so much nicer under a little<lb/>
+                  <hi rend="underline">Druck</hi>³ <del><gap reason="illegible"/>pressure)</del>. <space quantity="1" unit="char"/>When they feel their oats they are so apt<lb/>
                   to become uppish."</rs>
                </p>
                <p hand="#handwritten">
@@ -2160,7 +2151,7 @@ for any purpose, even commercially.</p>
                   man? <space quantity="1" unit="char"/>"Ein alter Mann", one or two German obituarists were to write,<lb/>
                   but without surprise, or: <space quantity="1" unit="char"/>"the aged poet" - when he was 68!<lb/>
                   <space quantity="4" unit="char"/>Surely not. <space quantity="1" unit="char"/>There is one e<del>d</del>xplanation which I place on record<lb/>
-                  only after much hesitation. <space quantity="1" unit="char"/>Some time after <rs type="event" ref='#amp_event_id_18'><rs type="person" ref="#amp_person_1">Auden</rs>'s death</rs> <rs type="person" ref="#amp_person_4">Chester<lb/>
+                  only after much hesitation. <space quantity="1" unit="char"/>Some time after <rs type="event" ref="#amp_event_id_18"><rs type="person" ref="#amp_person_1">Auden</rs>'s death</rs> <rs type="person" ref="#amp_person_4">Chester<lb/>
                   Kallman</rs> gave me his e<del>d</del>xplanation for the evidence that <rs type="person" ref="#amp_person_1">Wystan</rs> had<lb/>
                   become older than his years warranted: <space quantity="1" unit="char"/>he put the phenomenon down<lb/>
                   to Benzedrine. <space quantity="1" unit="char"/>"For how long?" <space quantity="1" unit="char"/>Oh, said <rs type="person" ref="#amp_person_4">Chester</rs>, he began right<lb/>
@@ -2386,7 +2377,7 @@ for any purpose, even commercially.</p>
                   since the <rs type="event" ref="#amp_event_id_54">war</rs> in the countries that lost it, that is to say,<lb/>
                   not only <rs type="place" ref="#amp_place_id_10">Austria</rs>, but also <rs type="place" ref="#amp_place_id_20">Germany</rs> and <rs type="place" ref="#amp_place_id_159">Italy</rs>.<lb/>
                   <space quantity="5" unit="char"/>Then again: <space quantity="1" unit="char"/>in 1964 I wrote a poem with the ti<del>e</del>tle<lb/>
-                  <del>"</del><unclear></unclear><rs type="lit_work" ref="#lit_work_id_5">'Whitsunday in Kirchstetten<del>"</del><unclear>'</unclear></rs> because I happened to be there<lb/>
+                  <del>"</del><unclear/><rs type="lit_work" ref="#lit_work_id_5">'Whitsunday in Kirchstetten<del>"</del><unclear>'</unclear></rs> because I happened to be there<lb/>
                   at the time. <space quantity="1" unit="char"/>But the place is unimportant. <space quantity="1" unit="char"/>What this <rs type="lit_work" ref="#lit_work_id_79">poem</rs> is<lb/>
                   actually about is the question: <space quantity="1" unit="char"/><del>"</del><unclear>'</unclear>What is the significance<lb/>
                   for a Christian of the Feast of Pen<del>e</del>tecost<del><unclear>?</unclear></del>?' <space quantity="1" unit="char"/>And this applies<lb/>
@@ -2446,7 +2437,7 @@ for any purpose, even commercially.</p>
                   and drove to <rs type="place" ref="#amp_place_id_7">Fridau</rs>. <space quantity="1" unit="char"/>An answer to the note came by telephone:<lb/>
                   <rs type="person" ref="#amp_person_4">Chester</rs> would like me to come over in the afternoon - by now it<lb/>
                   was Sunday.<lb/>
-                  <space quantity="5" unit="char"/>The <rs type="place" ref="#amp_place_id_2">room</rs> was <rs type="event" ref="#amp_event_id_40">full of people</rs>. <space quantity="1" unit="char"/>On the seat behind the <del>f</del>coffee<lb/>
+                  <space quantity="5" unit="char"/>The <rs type="place" ref="#amp_place_id_2">room</rs> was full of people. <space quantity="1" unit="char"/>On the seat behind the <del>f</del>coffee<lb/>
                   table sat the pathetic <rs type="person" ref="#amp_person_4">figure</rs> whom one instinctively acknowledged<lb/>
                   as the widow. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_96">Mrs. Clark</rs> and <rs type="person" ref="#amp_person_169">her daughter</rs> had come up from<lb/>
                   <rs type="place" ref="#amp_place_id_14">Florence</rs>, the <rs type="person" ref="#amp_person_22">mayor of Kirchstetten</rs> was there, the headmistress<lb/>
