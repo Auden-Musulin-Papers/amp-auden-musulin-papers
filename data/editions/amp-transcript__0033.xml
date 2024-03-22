@@ -27,7 +27,7 @@
                      <desc>
                         In <rs type="person" ref="#amp_person_2">Stella Musulin</rs>'s <ref target="acdh:amp-transcript__0031.xml">letter</ref> to <rs type="person" ref="#amp_person_98">Edward Mendelson</rs> from December 1985, she writes, "<rs type="person" ref="#amp_person_119">Peter Müller</rs> has not been sleeping over his plan to edit a <rs type="lit_work" ref="#lit_work_id_114">book on <rs type="person" ref="#amp_person_1">Auden</rs>´s time here</rs> . . . Now - you may know this - it is definite and the book is to come out in February 1987 in time for <rs type="person" ref="#amp_person_1">A</rs>´s 80th." In a 1990 interview, <rs type="person" ref="#amp_person_2">she</rs> states that "[d]uring the eighties, she was commissioned by the Niederösterreichische Verlag (Lower Austrian Provincial Publishers) to write a piece on <rs type="person" ref="#amp_person_1">Auden</rs> for some unnamed bilingual publication, which she did. However, due to lack of funds, this never appeared" (Firchow 237).
                         <listBibl>
-                           <bibl sameAs="acdh:amp-index-works.xml#lit_work_id_114"/>
+                           <bibl><title ref="acdh:amp-index-works.xml#lit_work_id_114"/></bibl>
                            <bibl>
                               <author>
                                  <persName>
