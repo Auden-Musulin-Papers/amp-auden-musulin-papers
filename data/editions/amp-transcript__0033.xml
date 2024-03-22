@@ -22,6 +22,33 @@
          <editionStmt>
             <edition>
                <title>Aerogram Signed Edward Mendelson to Stella Musulin 1981-11-21</title>
+               <interpGrp>
+                  <interp xml:id="ana_033" source="ph_033"><!-- link -->
+                     <desc>
+                        In <rs type="person" ref="#amp_person_2">Stella Musulin</rs>'s <ref target="acdh:amp-transcript__0031.xml">letter</ref> to <rs type="person" ref="#amp_person_98">Edward Mendelson</rs> from December 1985, she writes, "<rs type="person" ref="#amp_person_119">Peter Müller</rs> has not been sleeping over his plan to edit a <rs type="lit_work" ref="#lit_work_id_114">book on <rs type="person" ref="#amp_person_1">Auden</rs>´s time here</rs> . . . Now - you may know this - it is definite and the book is to come out in February 1987 in time for <rs type="person" ref="#amp_person_1">A</rs>´s 80th." In a 1990 interview, <rs type="person" ref="#amp_person_2">she</rs> states that "[d]uring the eighties, she was commissioned by the Niederösterreichische Verlag (Lower Austrian Provincial Publishers) to write a piece on <rs type="person" ref="#amp_person_1">Auden</rs> for some unnamed bilingual publication, which she did. However, due to lack of funds, this never appeared" (Firchow 237).
+                        <listBibl>
+                           <bibl sameAs="acdh:amp-index-works.xml#lit_work_id_114"/>
+                           <bibl>
+                              <author>
+                                 <persName>
+                                    <surname>Firchow</surname>
+                                    <forename>Peter Edgerly</forename>
+                                 </persName>
+                              </author>
+                              <title>W. H. Auden: Contexts for Poetry</title>
+                              <publisher>University of Delaware Press</publisher>
+                              <pubPlace>Newark</pubPlace>
+                              <date when-iso="2002"/>
+                              <idno type="ISBN">0-87413-766-7</idno>
+                              <citedRange unit="page" from="237" to="237"/>
+                           </bibl>
+                           <bibl sameAs="acdh:amp-transcript__0031.xml"/>
+                        </listBibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="medium" locus="value"/>
+                  </interp>
+               </interpGrp>
             </edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
          <respStmt><resp>TEI Schema, ODD/RNG</resp><name ref="https://orcid.org/0000-0002-9575-9372" xml:id="pandorfer">Andorfer, Peter</name><name ref="https://orcid.org/0000-0002-0636-4476" xml:id="delsner">Elsner, Daniel</name></respStmt></editionStmt>
@@ -100,6 +127,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-12-14">transcriptions collated</change>
          <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-27">entities and correspDesc collated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-03-22">container structure updated, entities updated, interpGrp added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -153,15 +181,15 @@ for any purpose, even commercially.</p>
                      of TV journalism--was an awed tone of worship.
                   </p>
                   <p>
-                     <del>A</del>Easy answers to important questions. <space quantity="1" unit="char"/>Those <rs type="lit_work" ref="#lit_work_id_114">two volumes <del><gap reason="deleted"/>f</del>by and about<lb/>
+                     <del>A</del>Easy answers to important questions. <space quantity="1" unit="char"/>Those <rs type="lit_work" ref="#lit_work_id_185" ana="#ana_033">two volumes <del><gap reason="deleted"/>f</del>by and about<lb/>
                      <rs type="person" ref="#amp_person_1">Auden</rs></rs> sound very attractive. <space quantity="1" unit="char"/>(Which publisher is interested?) <space quantity="1" unit="char"/>The<lb/>
                      place to write for permissions is to the agents, specifically, to
                      <seg>
-                        <space quantity="24" unit="char"/><rs type="person" ref="#amp_person_159">Maureen Walters</rs><lb/>
-                        <space quantity="24" unit="char"/><rs type="org" ref="#amp_organization_29">Curtis Brown Ltd</rs><lb/>
-                        <space quantity="24" unit="char"/><rs type="place" ref="#amp_place_id_221">575 Madison Avenue<lb/>
-                        <space quantity="24" unit="char"/>New York NY  10022<lb/>
-                        <space quantity="24" unit="char"/>USA</rs>
+                        <space quantity="24" unit="char"/><lb/><rs type="person" ref="#amp_person_159">Maureen Walters</rs>
+                        <space quantity="24" unit="char"/><lb/><rs type="org" ref="#amp_organization_29">Curtis Brown Ltd</rs>
+                        <space quantity="24" unit="char"/><lb/><rs type="place" ref="#amp_place_id_221">575 Madison Avenue
+                        <space quantity="24" unit="char"/><lb/>New York NY  10022
+                        <space quantity="24" unit="char"/><lb/>USA</rs><lb/>
                      </seg>
                      Mention <rs type="person" ref="#amp_person_98">my name</rs>, and things will be easier. <space quantity="1" unit="char"/>But they should be easy<lb/>
                      anyway.

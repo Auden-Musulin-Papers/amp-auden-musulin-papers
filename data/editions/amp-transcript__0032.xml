@@ -131,7 +131,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-12-06">transcriptions collated</change>
          <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-23">entities and correspDesc collated</change>
-         <change who="dgrigoriou smayer tfruehwirth" when="2024-03-21">entities updated, interpGrp added</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-03-21">container structure updated, entities updated, interpGrp added</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
