@@ -185,11 +185,11 @@ for any purpose, even commercially.</p>
                      <rs type="person" ref="#amp_person_1">Auden</rs></rs> sound very attractive. <space quantity="1" unit="char"/>(Which publisher is interested?) <space quantity="1" unit="char"/>The<lb/>
                      place to write for permissions is to the agents, specifically, to
                      <seg>
-                        <space quantity="24" unit="char"/><lb/><rs type="person" ref="#amp_person_159">Maureen Walters</rs>
-                        <space quantity="24" unit="char"/><lb/><rs type="org" ref="#amp_organization_29">Curtis Brown Ltd</rs>
-                        <space quantity="24" unit="char"/><lb/><rs type="place" ref="#amp_place_id_221">575 Madison Avenue
-                        <space quantity="24" unit="char"/><lb/>New York NY  10022
-                        <space quantity="24" unit="char"/><lb/>USA</rs><lb/>
+                        <lb/><space quantity="24" unit="char"/><rs type="person" ref="#amp_person_159">Maureen Walters</rs>
+                        <lb/><space quantity="24" unit="char"/><rs type="org" ref="#amp_organization_29">Curtis Brown Ltd</rs>
+                        <lb/><space quantity="24" unit="char"/><rs type="place" ref="#amp_place_id_221">575 Madison Avenue
+                        <lb/><space quantity="24" unit="char"/>New York NY  10022
+                        <lb/><space quantity="24" unit="char"/>USA</rs><lb/>
                      </seg>
                      Mention <rs type="person" ref="#amp_person_98">my name</rs>, and things will be easier. <space quantity="1" unit="char"/>But they should be easy<lb/>
                      anyway.
