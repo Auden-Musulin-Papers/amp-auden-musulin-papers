@@ -103,21 +103,21 @@ for any purpose, even commercially.</p>
          <correspDesc>
             <correspAction type="sent">
                <orgName><rs type="org" ref="#amp_organization_85">United States General Post Office</rs></orgName>
-               <placeName ref="#amp_place_id_28">New York City</placeName>
+               <placeName><rs type="place" ref="#amp_place_id_28">New York City</rs></placeName>
                <date notBefore-iso="1972-02-23T12:00:00-05:00" notAfter-iso="1972-02-23T23:59:59-05:00">1972-02-23T12:00:00-05:00/1972-02-23T23:59:59-05:00</date>
             </correspAction>
             <correspAction type="transmitted">
                <orgName><rs type="org" ref="#amp_organization_72">Postamt Oberndorf an der Melk (post office Oberndorf an der Melk)</rs></orgName>
-               <placeName ref="#amp_place_id_311">Oberndorf an der Melk</placeName>
+               <placeName><rs type="place" ref="#amp_place_id_311">Oberndorf an der Melk</rs></placeName>
                <date notBefore-iso="1972-02-28T13:00:01+01:00" notAfter-iso="1972-02-28T14:00:00+01:00">1972-02-28T13:00:01+01:00/1972-02-28T14:00:00+01:00</date>
             </correspAction>
             <correspAction type="redirected">
                <orgName><rs type="org" ref="#amp_organization_72">Postamt Oberndorf an der Melk (post office Oberndorf an der Melk)</rs></orgName>
-               <placeName ref="#amp_place_id_311">Oberndorf an der Melk</placeName>
+               <placeName><rs type="place" ref="#amp_place_id_311">Oberndorf an der Melk</rs></placeName>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_7">Fridau</placeName>
+               <placeName><rs type="place" ref="#amp_place_id_7">Fridau</rs></placeName>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>

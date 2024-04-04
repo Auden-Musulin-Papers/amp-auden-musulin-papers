@@ -80,12 +80,12 @@ for any purpose, even commercially.</p>
          <correspDesc>
             <correspAction type="sent">
                <orgName><rs type="org" ref="#amp_organization_70">Postamt Kirchstetten (post office Kirchstetten)</rs></orgName>
-               <placeName ref="#amp_place_id_5">Kirchstetten</placeName>
+               <placeName><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs></placeName>
                <date notBefore-iso="1971-06-04T16:00:01+01:00" notAfter-iso="1971-06-04T17:00:00+01:00">1971-06-04T16:00:01+01:00/1971-06-04T17:00:00+01:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_11">Neulinggasse 26</placeName>
+               <placeName><rs type="place" ref="#amp_place_id_11">Neulinggasse 26</rs></placeName>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_1">Auden, W. H.</ref>
