@@ -106,12 +106,12 @@ for any purpose, even commercially.</p>
          <correspDesc>
             <correspAction type="sent">
                <orgName><rs type="org" ref="#amp_organization_85">United States General Post Office</rs></orgName>
-               <placeName ref="#amp_place_id_28">New York City</placeName>
+               <placeName><rs type="place" ref="#amp_place_id_28">New York City</rs></placeName>
                <date notBefore-iso="1981-11-23T12:00:00-05:00" notAfter-iso="1981-11-23T23:59:59-05:00">1981-11-23T12:00:00-05:00/1981-11-23T23:59:59-05:00</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="#amp_person_2">Musulin, Stella</persName>
-               <placeName ref="#amp_place_id_172">Schlösselgasse 8</placeName>
+               <placeName><rs type="place" ref="#amp_place_id_172">Schlösselgasse 8</rs></placeName>
             </correspAction>
             <correspContext>
                <ref type="belongsToCorrespondence" target="#amp_person_98">Mendelson, Edward</ref>
@@ -199,7 +199,7 @@ for any purpose, even commercially.</p>
                      different people that they had seen (or knew someone else who had seen)<lb/>
                      a <rs type="lit_work" ref="#lit_work_id_115">German text of your Wystan memoir</rs> in print. <space quantity="1" unit="char"/>Are they right, or are<lb/>
                      they confusing this with an occasion when you read it aloud (and it was<lb/>
-                     reported)? <space quantity="1" unit="char"/>I had an Austrian student here this summer working on <rs type="person" ref="#amp_person_1">Wystan</rs>,<lb/>
+                     reported)? <space quantity="1" unit="char"/>I had <rs type="person" ref="#amp_person_242">an Austrian student</rs> here this summer working on <rs type="person" ref="#amp_person_1">Wystan</rs>,<lb/>
                      and I wanted to tell her about <rs type="lit_work" ref="#lit_work_id_115">the piece</rs>, but didn't know where to find<lb/>
                      it. <space quantity="1" unit="char"/>Please, <hi rend="underline">please</hi> tell me if you printed <rs type="lit_work" ref="#lit_work_id_115">it</rs>, and if so, where. <space quantity="1" unit="char"/>No need<lb/>
                      for a long letter: just a "No, calm down, I never printed it" or a "Yes,<lb/>
