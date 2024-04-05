@@ -21,6 +21,15 @@
          <editionStmt>
             <edition>
                <title>Autograph Letter Signed W. H. Auden to Stella Musulin 1970-09-18</title>
+               <interpGrp>
+                  <interp source="ph_034" xml:id="ana_034"><!-- link -->
+                     <desc>
+                        The <rs type="event" ref="#amp_event_id_99">1970 visit by <rs type="person" ref="#amp_person_2">Stella Musulin</rs> and her mother, <rs type="person" ref="#amp_person_225">Margaret Lloyd-Philipps</rs> in Kirchstetten</rs>, is documented by <ref target="acdh:amp-transcript__0077.xml acdh:amp-transcript__0078.xml">two photographs</ref> taken by Musulin.
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="high" locus="value"/>
+                  </interp>
+               </interpGrp>
             </edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
          <respStmt><resp>TEI Schema, ODD/RNG</resp><name ref="https://orcid.org/0000-0002-9575-9372" xml:id="pandorfer">Andorfer, Peter</name><name ref="https://orcid.org/0000-0002-0636-4476" xml:id="delsner">Elsner, Daniel</name></respStmt></editionStmt>
@@ -176,7 +185,7 @@ for any purpose, even commercially.</p>
                   <rs type="place" ref="#amp_place_id_10">back</rs>.
                </p>
                <p>
-                  <rs type="event" ref="#amp_event_id_99">Could you and <rs type="person" ref="#amp_person_225">your mother</rs><lb/>
+                  <rs type="event" ref="#amp_event_id_99" ana="#ana_034">Could you and <rs type="person" ref="#amp_person_225">your mother</rs><lb/>
                   come to lunch <del><unclear>on</unclear></del> next Tuesday</rs> ?
                </p>
                <closer>

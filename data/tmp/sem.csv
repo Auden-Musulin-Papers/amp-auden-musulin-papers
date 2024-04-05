@@ -34,7 +34,7 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0043,edition_title,,,"DONE: interp re Musulin's translation of speech (ana_025, ph_025)","DONE: xml:lang","DONE: create Wikidata on Lyrik 70",revision_desc,done,done,done,`@rend="italic"`,done,done,done,done
 0015,edition_title,,"DONE: amp_event_id_98","DONE: link to ana_025","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
 0041,edition_title,,,"DONE: TEI formalization of interp re ""reference to my garage"" (ana_017, ph_017); interp re intertext letter-foreword (ana_026, ph_026)","DONE: xml:lang","DONE: update Stella Musulin Wikidata re Austria: People and Landscape",revision_desc,done,done,done,`done,done,done,done,done
-0016,edition_title,,"DONE: amp_event_id_99","TODO: interp re link to photos of Margaret and Auden as in doc0053","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
+0016,edition_title,,"DONE: amp_event_id_99","DONE: interp re link to photos of Margaret and Auden as in doc0053 (ana_034, ph_034)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
 0035,edition_title,,"DONE: amp_event_id_100","DONE: @ana=ana_003 for Musulin place","DONE: xml:lang",,revision_desc,done,done,no_intertext,"TODO: preprinted correspondence schema",done,none,none,none
 0017,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
 0018,edition_title,,"DONE: amp_event_id_101",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
