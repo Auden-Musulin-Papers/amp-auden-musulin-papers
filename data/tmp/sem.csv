@@ -47,3 +47,5 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0060,edition_title,,,,,,,,,,,,,,"TODO: correct title for link in work entity"
 0032,edition_title,,,"DONE: @ana=ana_030 for memoirs, interp re Esders help with house (ana_032, ph_032)",,,,,,,,,,,"TODO: `space` before `date`"
 0033,edition_title,,,"DONE: interp re two unpublished volumes (ana_033, ph_033)",,,,,,,"TODO: second `div type=letter_message`",,,,"TODO: display of lit work entity 185; better solution for displaying title of lit work entity in bibl in interp; `space` before `date`"
+0062,edition_title,,,"DONE: interp re memoir verseions (ana_030); interp re Audenstraße/Hinterholz (ana_034, ph_034)"
+0028,

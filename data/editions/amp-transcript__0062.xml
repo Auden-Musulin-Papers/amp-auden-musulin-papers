@@ -19,7 +19,33 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Typescript Memoir Stella Musulin "The Years in Austria" 1976-09-04--1980-12-01</title>
+               <interpGrp>
+                  <interp xml:id="ana_034" source="ph_034"><!-- link -->
+                     <desc>
+                        In his <hi rend="italic"><rs type="lit_work" ref="#lit_work_id_39">W. H. Auden: A Biography</rs></hi>, <rs type="person" ref="#amp_person_100">Humphrey Carpenter</rs> records that the Hinterholz lane, where <rs type="person" ref="#amp_person_1">Auden</rs>'s <rs type="place" ref="#amp_place_id_2">house</rs> was located, was renamed "Audenstraße"; but that Auden continued to give his address as "Hinterholz 6" (448). Both names are now in use; the <ref target="https://maps.bev.gv.at">official map of the Austrian Federal Office of Metrology and Surveying</ref> uses "Hinterholz".
+                        <listBibl>
+                           <bibl>
+                              <author ref="acdh:amp-index-persons.xml#amp_person_100"/>
+                              <title>W. H. Auden: A Biography</title>
+                              <publisher>George Allen &amp; Unwin</publisher>
+                              <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_56"/>
+                              <date when-iso="1981"/>
+                              <idno type="ISBN">0-04-928044-9</idno>
+                              <citedRange unit="page" from="448" to="448"/>
+                           </bibl>
+                           <bibl sameAs="https://maps.bev.gv.at">
+                              <title xml:lang="en">Austrian Map</title>
+                              <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_1"/>
+                           </bibl>
+                        </listBibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="high" locus="value"/>
+                  </interp>
+               </interpGrp>
+            </edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
          <respStmt><resp>TEI Schema, ODD/RNG</resp><name ref="https://orcid.org/0000-0002-9575-9372" xml:id="pandorfer">Andorfer, Peter</name><name ref="https://orcid.org/0000-0002-0636-4476" xml:id="delsner">Elsner, Daniel</name></respStmt></editionStmt>
          <publicationStmt>
@@ -371,10 +397,10 @@ for any purpose, even commercially.</p>
       <body>
          <div xml:id="transcription">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0351/" type="sheet"/>
+               <title><space quantity="17" unit="char"/><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_47" ana="acdh:amp-transcript__0031.xml#ana_030">The Years in Austria</rs>.</hi></title>
                <p>
-                  <space quantity="17" unit="char"/><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_47">The Years in Austria</rs>.</hi><lb/>
                   <space quantity="5" unit="char"/>Half an hour from the outskirts of <rs type="place" ref="#amp_place_id_1">Vienna</rs> an invisible<lb/>
-                  thread bisect<del>x</del>s the motorway. <space quantity="1" unit="char"/>It leads from the church which<lb/>
+                  thread bisect<del>x</del>s the motorway. <space quantity="1" unit="char"/>It leads from <rs type="place" ref="#amp_place_id_322">the church</rs> which<lb/>
                   lies to the north, more accurately speaking from the churchyard,<lb/>
                   disregards entirely the traffic as it thunders to and from <rs type="place" ref="#amp_place_id_1">the<lb/>
                   capital</rs>, wriggles across a field to the south, passes a small<lb/>
@@ -384,9 +410,9 @@ for any purpose, even commercially.</p>
                   left, has reached its objective: <space quantity="1" unit="char"/>a long, low house, more an<lb/>
                   extended workman's cottage. <space quantity="1" unit="char"/>Originally, the address was<lb/>
                   <rs type="place" ref="#amp_place_id_2">Hinterhol<del>6</del>z 6<unclear>;</unclear></rs> <space quantity="1" unit="char"/>later, the lane up from the village on the other<lb/>
-                  side was renamed <rs type="place" ref="#amp_place_id_255">Auden-<del>A</del>Strasse</rs>. <space quantity="1" unit="char"/>This thread or unseen line joins<lb/>
+                  side was renamed <rs type="note" ana="#ana_034">Auden-<del>A</del>Strasse</rs>. <space quantity="1" unit="char"/>This thread or unseen line joins<lb/>
                   the places where <rs type="person" ref="#amp_person_1">Auden</rs> prayed, sang (flat) and <rs type="event" ref="#amp_event_id_19">was buried</rs>, and<lb/>
-                  the place where he lived, and to me it is tangible reality,<lb/>
+                  <rs type="place" ref="#amp_place_id_2">the place where he lived</rs>, and to me it is tangible reality,<lb/>
                   unfailingly sensed at each frequent crossing. <space quantity="1" unit="char"/>Partly it is<lb/>
                   because it was alwa<del>s</del>ys from that direction that I arrived, being<lb/>
                   mistrustful of the narrow lane which lies along the top of the<lb/>
@@ -396,11 +422,13 @@ for any purpose, even commercially.</p>
                   <space quantity="1" unit="char"/>through the field with its ruts, the depth of which left the<lb/>
                   undercarriage to slide along the plateau of coarse grass. <space quantity="1" unit="char"/>And<lb/>
                   to leave the car by the garage and plod up through the orchard,<lb/>
-                  accepting the risk of slithering off the path to the right.<lb/>
+                  accepting the risk of slithering off the path to the right.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>On walking through the wicket-gate next to the woodshed,<lb/>
                   there has been from time to time, and is today, the risk of<lb/>
                   being savaged by a wall-eyed dog; <space quantity="1" unit="char"/>in earlier days, of having<lb/>
-                  to account for ones presence to <rs type="person" ref="#amp_person_16">Frau Emma</rs>. <space quantity="1" unit="char"/>Past the vegetable<lb/>
+                  to account for ones presence to <rs type="person" ref="#amp_person_16"><foreign xml:lang="de">Frau</foreign> Emma</rs>. <space quantity="1" unit="char"/>Past the vegetable<lb/>
                   patch, now the ground levels off and the house stands before us.<lb/>
                   Left, at the foot of the outside staircase and below the window of<lb/>
                   his workroom, there are the white table and comfortable garden<lb/>
@@ -412,10 +440,10 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0352/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0353/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="27" unit="char"/>2.
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   on the wall ahead, kitchen through the right-hand door, a clutter<lb/>
                   of books and papers on a nearby ledge - and to shout. <space quantity="1" unit="char"/>That<lb/>
                   heartwarming bellow from <rs type="person" ref="#amp_person_1">Wystan</rs>: <space quantity="1" unit="char"/>"Ah!" and here is the familiar<lb/>
@@ -424,49 +452,53 @@ for any purpose, even commercially.</p>
                   big, square dining table with its food-stained cloth. <space quantity="1" unit="char"/>Centre<lb/>
                   back, the Austrian peasant cupboard containing drinks, sugar,<lb/>
                   salt, then the corner seat, the table with its cigarette burns<lb/>
-                  and glass rings, and two arm-chairs - a <hi rend="underline">Sitzecke.</hi> <space quantity="1" unit="char"/>To our right<lb/>
+                  and glass rings, and two arm-chairs - a <hi rend="underline"><foreign xml:lang="de">Sitzecke</foreign>.</hi> <space quantity="1" unit="char"/>To our right<lb/>
                   a tumble of assorted titles on an invisible surface; <space quantity="1" unit="char"/>within a<lb/>
                   matter of days, <rs type="person" ref="#amp_person_1">Auden</rs> could make a new book look like a lending<lb/>
                   library reject: <space quantity="1" unit="char"/>the content was all, the package irrelevant.<lb/>
                   Here lie, precariously balanced, collapsing, upended, volumes of<lb/>
-                  poetry, cookery books, <rs type="lit_work" ref="#lit_work_id_1"><rs type="person" ref="#amp_person_39">Benson</rs>'s Lucia novels</rs>, <rs type="lit_work" ref="#lit_work_id_100">Akenfield</rs>, whodunnits<lb/>
+                  poetry, cookery books, <rs type="person" ref="#amp_person_39">Benson</rs>'s <rs type="lit_work" ref="#lit_work_id_1">Lucia novels</rs>, <rs type="lit_work" ref="#lit_work_id_100">Akenfield</rs>, whodunnits,<lb/>
                   a new translation of the <rs type="lit_work" ref="#lit_work_id_59">Bible</rs>. <space quantity="1" unit="char"/>Over the years, the content of<lb/>
                   the heap varied but the overall appearance scarcely at all.<lb/>
                   And now the stove, country style, a white dome with round green<lb/>
-                  tiles set in it, one of the glories of Austrian <hi rend="underline">Wohnkultur</hi>.<lb/>
+                  tiles set in it, one of the glories of Austrian <hi rend="underline"><foreign xml:lang="de">Wohnkultur</foreign></hi>.<lb/>
                   How fortunate that the stove is irremovable, or it would be in<lb/>
                   <rs type="place" ref="#amp_place_id_13">Athens</rs> now, along with the cupboard and the original drawings of<lb/>
                   <rs type="person" ref="#amp_person_25">Stravinsky</rs> and <rs type="person" ref="#amp_person_153">Richard Strauss</rs>. <space quantity="1" unit="char"/>Books also lie along the top<lb/>
                   ledge of the corner seat, and a volume or two of the <rs type="lit_work" ref="#lit_work_id_51">OED</rs> on the<lb/>
-                  upright chairs by the dinner table, adjuncts to the <rs type="org" ref="#amp_organization_59">Times</rs><lb/>
+                  upright chairs by the dinner table, adjuncts to the <rs type="org" ref="#amp_organization_49">Times</rs><lb/>
                   crossword. <space quantity="1" unit="char"/>Was it, I asked, essential to have the complete<lb/>
                   <rs type="lit_work" ref="#lit_work_id_51">Oxford English Dictionary</rs>, all thirteen volumes of it, at each<lb/>
                   of ones residences? <space quantity="1" unit="char"/>"Of cour<del>x</del>se" said <rs type="person" ref="#amp_person_1">Auden</rs>, surprised at such a<lb/>
-                  question.<lb/>
+                  question.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>So much was written during his lifetime about <rs type="person" ref="#amp_person_1">Auden</rs>'s<lb/>
                   way of life in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>: <space quantity="1" unit="char"/>articles by capable journalists<lb/>
                   in the Sunday papers and in their weekly magazines, that any<lb/>
                   attempt at a personal memoir gives the writer the feeling that<lb/>
-                  he is working all too well-trodden ground.<lb/>
+                  he is working all too well-trodden ground.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>It is not only that the scene is familiar. <space quantity="1" unit="char"/>What can a friend<lb/>
                   write withou<del>g</del>t lapsing into triviality and gossip, without calling<lb/>
                   down on his head the wrath of <rs type="person" ref="#amp_person_1">Wystan Auden</rs> himself, about whom,
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0354/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0355/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="27" unit="char"/>3.
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   if we know nothing else, we realise the obsession that he had<lb/>
                   on <del>z</del>the subject of personal privacy. <space quantity="1" unit="char"/>Think <del>of</del>for a moment of<lb/>
                   <rs type="lit_work" ref="#lit_work_id_53">"Forewords and Afterwords"</rs>: <space quantity="1" unit="char"/>again and again he writes on<lb/>
-                  these lines: <space quantity="1" unit="char"/>Of <rs type="person" ref="#amp_person_18">Wagner</rs>: <space quantity="1" unit="char"/>"On principle, I object to biographies<lb/>
+                  these lines: <space quantity="1" unit="char"/>Of <rs type="person" ref="#amp_person_18">Wagner</rs>: <space quantity="1" unit="char"/><quote source="#lit_work_id_53">"On principle, I object to biographies<lb/>
                   of artists, since <unclear>I</unclear> do not believe that knowledge of their<lb/>
-                  private lives <del>t</del>sheds any significant light upon their works."<lb/>
-                  And on <rs type="person" ref="#amp_person_20">Oscar Wilde</rs>: <space quantity="1" unit="char"/>"Since know<del>o</del>ledge of an artist's private li<del>r</del>fe<lb/>
+                  private lives <del>t</del>sheds any significant light upon their works."</quote><lb/>
+                  And on <rs type="person" ref="#amp_person_20">Oscar Wilde</rs>: <space quantity="1" unit="char"/><quote source="#lit_work_id_53">"Since know<del>o</del>ledge of an artist's private li<del>r</del>fe<lb/>
                   never throws any significant light upon his work, there is no<lb/>
-                  justification for intruding upon his privacy." <space quantity="2" unit="char"/>Listening to<lb/>
+                  justification for intruding upon his privacy."</quote> <space quantity="2" unit="char"/>Listening to<lb/>
                   <rs type="person" ref="#amp_person_40">Kurt Weill</rs> records one winter's evening in <rs type="person" ref="#amp_person_4">Chester</rs>'s flat in the<lb/>
                   <rs type="place" ref="#amp_place_id_71">Esslarngasse</rs>, I asked him whether he could account for it.<lb/>
                   Disappointingly, <rs type="person" ref="#amp_person_4">Chester</rs> only said that it was an obsession with<lb/>
@@ -488,7 +520,9 @@ for any purpose, even commercially.</p>
                   of the treacherous depths beneath him. <space quantity="1" unit="char"/>So that my contribution<lb/>
                   can be <del><unclear>m</unclear></del>no more than an attempt to show how <rs type="person" ref="#amp_person_1">Auden</rs> lived among the<lb/>
                   Austrians, on what sort of terms he was with them, and perhaps<lb/>
-                  to fill in one or two gaps in what is generally known.<lb/>
+                  to fill in one or two gaps in what is generally known.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>I got to know <rs type="person" ref="#amp_person_1">Wystan</rs> and <rs type="person" ref="#amp_person_4">Chester</rs> through <del>Chris</del> the daughter<lb/>
                   of <rs type="person" ref="#amp_person_42">Hugo von Hofmannsthal</rs>, <rs type="person" ref="#amp_person_3">Christiane Zimmer</rs>, who was a friend of<lb/>
                   <rs type="person" ref="#amp_person_1">Auden</rs>'s in <rs type="place" ref="#amp_place_id_28">New York</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_43">Gerty von Hofmannsthal</rs>, widow of <rs type="person" ref="#amp_person_42">the poet</rs>, who died in 1929,<lb/>
