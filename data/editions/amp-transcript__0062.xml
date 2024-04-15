@@ -44,6 +44,14 @@
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
                      <certainty cert="high" locus="value"/>
                   </interp>
+                  <interp xml:id="ana_035" source="ph_035"><!-- link -->
+                     <desc>
+                        The first meeting between <rs type="person" ref="#amp_person_2">Stella Musulin</rs>, <rs type="person" ref="#amp_person_1">W. H. Auden</rs>, and <rs type="person" ref="#amp_person_4">Chester Kallman</rs> would seem to have taken place in the second half of 1959. The <ref target="acdh:amp-transcript__0070.xml">earliest letter from Auden to Musulin</ref> dates from 10 October 1959 and contains an invitation to <rs type="place" ref="#amp_place_id_2">Hinterholz 6</rs>.
+                        <bibl sameAs="acdh:amp-transcript__0070.xml"/>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="medium" locus="value"/>
+                  </interp>
                </interpGrp>
             </edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
@@ -526,17 +534,17 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>I got to know <rs type="person" ref="#amp_person_1">Wystan</rs> and <rs type="person" ref="#amp_person_4">Chester</rs> through <del>Chris</del> the daughter<lb/>
                   of <rs type="person" ref="#amp_person_42">Hugo von Hofmannsthal</rs>, <rs type="person" ref="#amp_person_3">Christiane Zimmer</rs>, who was a friend of<lb/>
                   <rs type="person" ref="#amp_person_1">Auden</rs>'s in <rs type="place" ref="#amp_place_id_28">New York</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_43">Gerty von Hofmannsthal</rs>, widow of <rs type="person" ref="#amp_person_42">the poet</rs>, who died in 1929,<lb/>
-                  owned <rs type="place" ref="#amp_place_id_75">Sch<del>,</del>loss Prielau</rs> at the northern tip of the <rs type="place" ref="#amp_place_id_256">lake of <rs type="place" ref="#amp_place_id_75">Zell-<lb/>
-                  am-See</rs></rs> in <rs type="place" ref="#amp_place_id_37">Salzburg</rs> province. <space quantity="1" unit="char"/>She had been forced to sell when the<lb/>
+                  owned <rs type="place" ref="#amp_place_id_75">Sch<del>,</del>loss Prielau</rs> at the northern tip of the <rs type="place" ref="#amp_place_id_256">lake of <rs type="place" ref="#amp_place_id_74">Zell-<lb/>
+                  am-See</rs></rs> in <rs type="place" ref="#amp_place_id_342">Salzburg province</rs>. <space quantity="1" unit="char"/>She had been forced to sell when the<lb/>
                   <rs type="event" ref="#amp_event_id_55">Nazis overran <rs type="place" ref="#amp_place_id_10">Austria</rs></rs> but had regained possession at about the
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0356/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0357/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="23" unit="char"/>4.
-               </p>
-               <p>
-                  turn of the fifties, and <rs type="place" ref="#amp_place_id_75">t<del>e</del>here</rs> she spent her summers until she<lb/>
+               </ab>
+               <p prev="true">
+                  turn of the fifties, and <rs type="place" ref="#amp_place_id_75">t<del>e</del>here</rs> <rs type="person" ref="#amp_person_43">she</rs> spent her summers until she<lb/>
                   died, filling the house with her friends, often like herself Anglo-Austrian<lb/>
                   émigrés - the writers, artists and scholars who had lived and<lb/>
                   worked in <rs type="place" ref="#amp_place_id_1">Vienna</rs> during the twilight of that great explosion of<lb/>
@@ -548,10 +556,10 @@ for any purpose, even commercially.</p>
                   great meeting place for retired birds of paradise such as <rs type="person" ref="#amp_person_48">Lady<lb/>
                   Diana Cooper</rs>, <del>X</del> <rs type="person" ref="#amp_person_181">Ledebur</rs> and the dancer and choreographer <rs type="person" ref="#amp_person_49">Grete Wiesenthal</rs>. <space quantity="1" unit="char"/>Gradually, a well-<lb/>
                   worn track developed between <rs type="place" ref="#amp_place_id_75">Prielau</rs> and <rs type="place" ref="#amp_place_id_258">our house</rs> at the upper<lb/>
-                  end of the <rs type="place" ref="#amp_place_id_76">Schmittenhöhe valley</rs>, and friendships <del>developed</del>grew between<lb/>
-                  <rs type="person" ref="#amp_person_94 #amp_person_93 #amp_person_2">my family</rs> and the <rs type="person" ref="#amp_person_44 #amp_place_45 #amp_person_46 #amp_person_47 #amp_person_42 #amp_person_43 #amp_person_3">Hofmannsthals</rs> and several of their friends<lb/>
+                  end of the Schmittenhöhe valley, and friendships <del>developed</del>grew between<lb/>
+                  <rs type="person" ref="#amp_person_167 #amp_person_94 #amp_person_2">my family</rs> and the <rs type="person" ref="#amp_person_44 #amp_person_45 #amp_person_46 #amp_person_47 #amp_person_43 #amp_person_3">Hofmannsthals</rs> and several of their friends<lb/>
                   which have survived and have been continued by our children.<lb/>
-                  <rs type="event" ref="#amp_event_id_24">My marriage broke up</rs> during 1957-58 and my son <rs type="person" ref="#amp_person_94">Marko</rs> and I went<lb/>
+                  My marriage broke up during 1957-58 and my son <rs type="person" ref="#amp_person_94">Marko</rs> and I went<lb/>
                   to live with my mother-in-law <rs type="person" ref="#amp_person_93">Els<del>e</del>a Musulin</rs> at her home <rs type="place" ref="#amp_place_id_7">Schloss Fridau</rs>,<lb/>
                   in <rs type="place" ref="#amp_place_id_6">Lower Austria</rs>, about half an hour's drive from <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>.<lb/>
                   She will rate<del>s</del> a mention here because of the entertainment value<lb/>
@@ -563,28 +571,34 @@ for any purpose, even commercially.</p>
                   The next time I saw her - in 1959 - she asked whether I had seen<lb/>
                   <rs type="person" ref="#amp_person_1">Auden</rs>, I again scoffed at the very idea that he might "love to<lb/>
                   meet me", and she said "All right. <space quantity="1" unit="char"/>I'm just off <rs type="event" ref="#amp_event_id_57">to spend a<lb/>
-                  week</rs> there now and I shall fix it <del>up</del> ."<lb/>
-                  <space quantity="5" unit="char"/>So in due course I <del>du</del> came to be standing at the green door,<lb/>
+                  week</rs> there now and I shall fix it <del>up</del> ."
+               </p>
+               <p>
+                  <space quantity="5" unit="char"/>So <rs type="note" ana="#ana_035">in due course I <del>du</del> came to be standing at the green door</rs>,<lb/>
                   and yet <del>not a</del>the memory <del>of it</del><unclear>th</unclear>at remains <del>excep</del>is the shock of <rs type="person" ref="#amp_person_4">Chester</rs>'s<lb/>
                   appearance as he stood in the doorway in the strong sunlight:<lb/>
                   pale, misshapen, fish-e<del>s</del>yed, loose-,<del><unclear>o</unclear></del>mouthed; <space quantity="1" unit="char"/>it was the<lb/>
                   unpromising kind of exterior which makes one impatient to discover<lb/>
                   what lies behind it, the general impression however was one of<lb/>
-                  anxious benevolence, and this proved roughly correct.<lb/>
+                  anxious benevolence, and this proved roughly correct.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/><del>I think it was only</del> <del>t</del>The secon<del>e</del>d time I was <del>asked</del><unclear>i</unclear>nvited over to<lb/>
                   <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> was a more convivial occasion: <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Wystan</rs> had asked<lb/>
                   me to come over and stand by him because he was giving a little<lb/>
-                  tea-party. <space quantity="1" unit="char"/>He had invited the parish priest, <rs type="person" ref="#amp_person_109">Father Lustkandl</rs>
+                  <rs type="event" ref="#amp_event_id_108">tea-party</rs>. <space quantity="1" unit="char"/>He had invited the parish priest, <rs type="person" ref="#amp_person_109">Father Lustkandl</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0358/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0359/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="22" unit="char"/>5.
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   - crystallized in <rs type="lit_work" ref="#lit_work_id_79">"Whitsunday in Kirchstetten"</rs> - the local school<lb/>
                   mistress <rs type="person" ref="#amp_person_97">Frau Seitz</rs> and her silent <rs type="person" ref="#amp_person_200">husband</rs>, and as I came in I ran into<lb/>
-                  <rs type="person" ref="#amp_person_1">Auden</rs> who was shuffling out to the kitchen.<lb/>
+                  <rs type="person" ref="#amp_person_1">Auden</rs> who was shuffling out to the kitchen.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>"Thank goodness you've come" he hissed, "go and look after<lb/>
                   them, will you, keep the conversation going and hand round the<lb/>
                   cakes." <space quantity="1" unit="char"/>Whereupon he shot into the kitchen for more hot water.<lb/>
@@ -595,7 +609,9 @@ for any purpose, even commercially.</p>
                   partly too to the fact that in <rs type="person" ref="#amp_person_5">Josef Weinheber</rs> they had had<lb/>
                   their local poet laureate before, and now they had one again.<lb/>
                   This was a cause for great satisfaction, but not for any transports<lb/>
-                  of ecstasy over the celebrity in their midst.<lb/>
+                  of ecstasy over the celebrity in their midst.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>What was so "American" about the <rs type="lit_work" ref="#lit_work_id_101">"kitchen in <rs type="place" ref="#amp_place_id_6">Lower Austria</rs>?"</rs><lb/>
                   Nothing much, so far as I could see. <space quantity="1" unit="char"/>When fitted kitchens first<lb/>
                   came in, Austrians <del>called</del>dubbed them "American"<unclear>,</unclear> <del>kitchen<del>.</del>s.</del> <space quantity="1" unit="char"/>The term is<lb/>
@@ -625,10 +641,10 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0360/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0361/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="27" unit="char"/>6.
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   sustained a miner at the coal face for a full working day, but<lb/>
                   neither <rs type="person" ref="#amp_person_1">Wystan</rs> nor <rs type="person" ref="#amp_person_4">Chester</rs> walked a yard if they could help it.
                </p>
