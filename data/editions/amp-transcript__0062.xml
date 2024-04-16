@@ -52,6 +52,13 @@
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
                      <certainty cert="medium" locus="value"/>
                   </interp>
+                  <interp xml:id="ana_036" source="ph_036"><!-- link -->
+                     <desc>
+                        One of these occasions is documented by a <ref target="acdh:amp-transcript__0055.xml acdh:amp-transcript__0054.xml">series of photographs</ref> taken by <rs type="person" ref="#amp_person_2">Musulin</rs>.
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="high" locus="value"/>
+                  </interp>
                </interpGrp>
             </edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
@@ -660,11 +667,11 @@ for any purpose, even commercially.</p>
                   often emplo<del>x</del>yed over short distances. <space quantity="1" unit="char"/>In <rs type="place" ref="#amp_place_id_10">Austria</rs>, the reign of<lb/>
                   the telegram persisted into the sixties, lost ground sharply<lb/>
                   owing to automatisation, but enjoyed one last indian summer in<lb/>
-                  the <del>P</del>post <del>O</del>office at <rs type="place" ref="#amp_place_id_5">Kir<del>f</del>chstetten</rs>. <space quantity="1" unit="char"/>There was no telephone in the<lb/>
+                  the <rs type="org" ref="#amp_organization_70"><del>P</del>post <del>O</del>office at Kir<del>f</del>chstetten</rs>. <space quantity="1" unit="char"/>There was no telephone in the<lb/>
                   house at <rs type="place" ref="#amp_place_id_2">Holzweg 5</rs> because of the distance from the nearest point<lb/>
                   of contact; <space quantity="1" unit="char"/>it would have been too expensive to instal. <space quantity="1" unit="char"/>Also,<lb/>
                   <rs type="person" ref="#amp_person_1">Auden</rs> liked his peace and quiet and when he wanted to telephone<lb/>
-                  he did so from the post office, combining with his daily shopping<lb/>
+                  he did so from <rs type="org" ref="#amp_organization_70">the post office</rs>, combining with his daily shopping<lb/>
                   expedition. <space quantity="1" unit="char"/>The lack of a telephone accounts for much of my<lb/>
                   correspondence with <rs type="person" ref="#amp_person_1">Auden</rs>, or rather, because I have only scant<lb/>
                   records of what I wrote, for his letters to me, and especially<lb/>
@@ -686,13 +693,13 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0362/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0363/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="27" unit="char"/>7.
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   were roast saddle of <del>roebu</del> roe deer with cranberry preserve,<lb/>
                   <del>roast</del>wild duck or roast pheasant, with a good wine, followed by<lb/>
-                  one of the richer Austrian cakes - Wurmbrand-Torte for i<del>h</del>nstance,<lb/>
+                  one of the richer Austrian cakes - <foreign xml:lang="de">Wurmbrand-Torte</foreign> for i<del>h</del>nstance,<lb/>
                   which consists mainly of ground burnt almonds and creamed chocolate<del>,</del>-<lb/>
                   and then to carry ones wine glass back into the sittingroom and<lb/>
                   wait while the Turkish coffee<del>e</del> ceremony was performed. <space quantity="1" unit="char"/>This was,<lb/>
@@ -707,8 +714,8 @@ for any purpose, even commercially.</p>
                   pear tree. <space quantity="1" unit="char"/>After his second cup he was likel<del>s</del>y to leap to his feet<lb/>
                   without any of those preliminary movements of eyes, hands and feet<lb/>
                   with which people signal their imm<del>e</del>inent departure, shake hands<lb/>
-                  all round and hurry away. <space quantity="1" unit="char"/>But sometimes <del>there </del> he felt like a turn<lb/>
-                  round the park, or even to stay on for a time, sitting in a deck<lb/>
+                  all round and hurry away. <space quantity="1" unit="char"/>But sometimes <del>there </del> he felt <rs type="note" ana="#ana_036">like a turn<lb/>
+                  round the park</rs>, or even to stay on for a time, sitting in a deck<lb/>
                   chair under the trees in the courtyard. <space quantity="2" unit="char"/>But if he hurried, it was<lb/>
                   no discourtesy; <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Wystan</rs> was the most courteous of men, w<del>g</del>ho liked<lb/>
                   to follow the customs of <del>a</del> the country he lived in, and above all<lb/>
@@ -716,7 +723,9 @@ for any purpose, even commercially.</p>
                   Austrian people who sometimes - without the natural excuse of<lb/>
                   his food storekeeper in <rs type="place" ref="#amp_place_id_259">St. Mark's Place</rs> - had no idea of the calibre of<lb/>
                   the man with whom, in his home or theirs, they were having a meal.<lb/>
-                  As I knew him, the only thing he couldn't bear was pretension.<lb/>
+                  As I knew him, the only thing he couldn't bear was pretension.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>So one would have supposed that writers young and older<lb/>
                   would have lost no time in beating a path out to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>.<lb/>
                   Are writers convivial creatures? <space quantity="1" unit="char"/>Do they like to congregate<lb/>
@@ -730,15 +739,15 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0364/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0365/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="25" unit="char"/>8.
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   filmed, and the <rs type="org" ref="#amp_organization_9">Gesellschaft für Literatur</rs> did it<del>x</del>s duty by him<lb/>
                   and more, from start to finish. <space quantity="1" unit="char"/><unclear>I</unclear>t still does. <space quantity="1" unit="char"/>But the <rs type="org" ref="#amp_organization_9">Austrian<lb/>
                   Soci<del>a</del>ety for Literature</rs> is nei<del>gh</del>ther a club nor a coffee house<lb/>
                   but a society for the promotion of literature with a particular<lb/>
-                  mission to writers in communist <rs type="place" ref="#amp_place_id_260">eastern Europe</rs>. <space quantity="1" unit="char"/>Somehow, in the<lb/>
+                  mission to writers in <rs type="place" ref="#amp_place_id_260">communist eastern Europe</rs>. <space quantity="1" unit="char"/>Somehow, in the<lb/>
                   sixties, there was otherwise no group of people, no meeting place<lb/>
                   towards which <rs type="person" ref="#amp_person_1">Auden</rs> himself could naturally gravitate. <space quantity="1" unit="char"/>Think of<lb/>
                   this in terms of the old pre-war <rs type="place" ref="#amp_place_id_1">Vienna</rs>, the life in the coffee<lb/>
@@ -755,15 +764,17 @@ for any purpose, even commercially.</p>
                   <del>hsi</del> his eternal bedroom slippers between his table and the<lb/>
                   telephone kiosk. <space quantity="1" unit="char"/>But this world ended when <rs type="person" ref="#amp_person_51">Egon Friedell</rs>,<lb/>
                   giving the passers by a shou<del>o</del>t of warning as he did so, jumped<lb/>
-                  out of the window to his death on the entry of <rs type="org" ref="#amp_organization_50">the Nazis</rs>. <space quantity="2" unit="char"/>It<lb/>
+                  out of the window to his death on the entry of the Nazis. <space quantity="2" unit="char"/>It<lb/>
                   was a world, described again and again by those who knew it,<lb/>
                   never more effectively than by one of its last active, working<lb/>
                   survivors, <rs type="person" ref="#amp_person_52">Friedrich Torberg</rs>, and it has gone for ever. <space quantity="1" unit="char"/>Today's<lb/>
                   writer<del>y</del>s have no time. <space quantity="1" unit="char"/>They are dashing from recording studios<lb/>
                   be<del>s</del>yond <rs type="place" ref="#amp_place_id_82">Schönbrunn</rs> to newspaper offices at the opposite end of<lb/>
-                  <rs type="place" ref="#amp_place_id_1">Vienna</rs>, from the <rs type="place" ref="#amp_place_id_">head post office</rs> to their homes, where they kiss<lb/>
-                  wife and children, snatch a bag and rush to the airport or to<lb/>
-                  a railway terminal.<lb/>
+                  <rs type="place" ref="#amp_place_id_1">Vienna</rs>, from the <rs type="org" ref="#amp_organization_75">head post office</rs> to their homes, where they kiss<lb/>
+                  wife and children, snatch a bag and rush to <rs type="org" ref="#amp_organization_87">the airport</rs> or to<lb/>
+                  a railway terminal.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>Alternatively, like <rs type="person" ref="#amp_person_53">Thomas Bernhard</rs>, they bury themselves<lb/>
                   in a farmhouse in a district carefully chosen for its unfashion-<lb/>
                   ableness and difficulty of access, emerging, like cats, only on<lb/>
@@ -776,21 +787,25 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0366/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0367/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="26" unit="char"/>9.
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   meet <rs type="person" ref="#amp_person_53">Bernhard</rs>, and asked me to mediate, which I did on several<lb/>
                   occasions, but to no effect; <space quantity="1" unit="char"/>I think I did ove<del>e</del>rcome <rs type="person" ref="#amp_person_53">Bernhard</rs>'s<lb/>
-                  disinclination but the moment never arrived<lb/>
+                  disinclination but the moment never arrived
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>The cultural historian <rs type="person" ref="#amp_person_54">Friedrich Heer</rs>, on the other hand,<lb/>
                   asked whether he would like to go out to lunch in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>,<lb/>
                   replied that he would <unclear>g</unclear>o - he has a tendency towards hyperbole - "on my knees".<lb/>
-                  The <rs type="event" ref="#amp_event_id_22">day is <del>a</del>describe<del>e</del>d</rs> in a <rs type="letter" ref="#amp-transcript__0053.xml">letter of mine</rs> to <rs type="person" ref="#amp_person_151">a friend</rs> in <rs type="place" ref="#amp_place_id_20">Germany</rs><lb/>
-                  dated 29th May ...<lb/>
-                  <space quantity="5" unit="char"/>"I still can't put <rs type="event" ref="#amp_event_id_22">yesterday's expedition</rs> to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs><lb/>
+                  The <rs type="event" ref="#amp_event_id_22">day is <del>a</del>describe<del>e</del>d</rs> in a <ref target="acdh:amp-transcript__0053.xml">letter of mine</ref> to <rs type="person" ref="#amp_person_151" ana="acdh:amp-transcript__0053.xml#ana_014">a friend</rs> in <rs type="place" ref="#amp_place_id_20">Germany</rs><lb/>
+                  dated 29th May ...
+               </p>
+               <p>
+                  <space quantity="5" unit="char"/><quote source="acdh:amp-transcript__0053.xml"><seg>"<rs type="person" ref="#amp_person_2">I</rs> still can't put <rs type="event" ref="#amp_event_id_22" ana="acdh:amp-transcript__0053.xml#ana_024">yesterday's expedition</rs> to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs><lb/>
                   ou<del>r</del>t of my mind. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_54">Fritz Heer</rs> and I drove out to lunch. <space quantity="1" unit="char"/>This manic-<lb/>
-                  depressive genius <rs type="person" ref="#amp_person_54">Friedrich Heer</rs>, <hi rend="underline">dieser verschreckter Lausbub,</hi><lb/>
+                  depressive genius <rs type="person" ref="#amp_person_54">Friedrich Heer</rs>, <hi rend="underline"><foreign xml:lang="de">dieser verschreckter Lausbub</foreign>,</hi><lb/>
                   and the great English poet <rs type="person" ref="#amp_person_1">Auden</rs> - to say nothing of <rs type="person" ref="#amp_person_4">Kallman</rs> -<lb/>
                   how would it go off? <space quantity="1" unit="char"/>It went like a bomb. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_54">Fritz</rs> was like a man<lb/>
                   let out of prison. <space quantity="1" unit="char"/>For months at a time he never escapes from the<lb/>
@@ -798,12 +813,12 @@ for any purpose, even commercially.</p>
                   Woods</rs>, over the accacia trees whose silver shimm<del>d</del>er stood out<lb/>
                   against the darker background, over the good air, the clear view<lb/>
                   after the storm of two days ago. <space quantity="1" unit="char"/>I was a bit worried that the<lb/>
-                  <rs type="person" ref="#amp_person_174 #amp_person_1">two big talkers</rs> might both speak at once or at cross purposes,<lb/>
+                  <rs type="person" ref="#amp_person_54 #amp_person_1">two big talkers</rs> might both speak at once or at cross purposes,<lb/>
                   but this only happened occasionally: <space quantity="1" unit="char"/>each really wanted to hear<lb/>
                   what the other had to say, they exchanged anecdotes and sometimes<lb/>
                   they moved <del>on to (for <rs type="person" ref="#amp_person_4">Chester</rs> and me)</del>on to ground where <del>we</del><rs type="person" ref="#amp_person_4">Chester</rs> and I<lb/>
                   couldn't follow them. <space quantity="1" unit="char"/>Each picked up the other's illusions<lb/>
-                  instantly, and the <hi rend="underline">stimmung</hi> was wonderful. <space quantity="1" unit="char"/>We were on one of my<lb/>
+                  instantly, and the <hi rend="underline"><foreign xml:lang="de">stimmung</foreign></hi> was wonderful. <space quantity="1" unit="char"/>We were on one of my<lb/>
                   favourite hobby-horses, the des<del>c</del>truction of the German language<lb/>
                   by the Nazis. <space quantity="1" unit="char"/>But <rs type="person" ref="#amp_person_54">Fritz</rs> insisted that <rs type="person" ref="#amp_person_55">Mussolini</rs> had vulgarised<lb/>
                   Italian in the same way, and suddenly he drew himself up, threw<lb/>
@@ -814,10 +829,10 @@ for any purpose, even commercially.</p>
                   was this all. <space quantity="1" unit="char"/>The conversation moved to <rs type="place" ref="#amp_place_id_83">France</rs> and the <rs type="place" ref="#amp_place_id_84">Paris</rs><lb/>
                   intellectuals, and now <del>R</del><rs type="person" ref="#amp_person_54">Fritz</rs> topped up his cabaret with a<lb/>
                   simpering, lovingly luxuriant interchange between <rs type="person" ref="#amp_person_56">Gide</rs> and <rs type="person" ref="#amp_person_132">Claudel</rs>.<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs> was convulsed.<lb/>
-                  <space quantity="5" unit="char"/>The talk shifted to <rs type="person" ref="#amp_person_18">Wagner</rs>'s texts, liturgical reform,<lb/>
+                  <rs type="person" ref="#amp_person_1">Wystan</rs> was convulsed.</seg><lb/>
+                  <seg><space quantity="5" unit="char"/>The talk shifted to <rs type="person" ref="#amp_person_18">Wagner</rs>'s texts, liturgical reform,<lb/>
                   <rs type="person" ref="#amp_person_5">Weinheber</rs>, <rs type="person" ref="#amp_person_57">Rudolf Kassner</rs> and <rs type="person" ref="#amp_person_58">Freud</rs>; <space quantity="1" unit="char"/>of these three <rs type="person" ref="#amp_person_54">Fritz</rs> could<lb/>
-                  speak from personal <del>ex</del> knowledge." <space quantity="1" unit="char"/>(The letter continues with an
+                  speak from personal <del>ex</del> knowledge."</seg></quote> <space quantity="1" unit="char"/>(The letter continues with an
                </p>
                <p>
                   § in th<del>4</del>e <rs type="org" ref="#amp_organization_59">Burgtheater</rs>, where<del>,such is Austrian logic,</del> he works as a<lb/>
