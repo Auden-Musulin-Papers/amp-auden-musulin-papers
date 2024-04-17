@@ -839,7 +839,7 @@ for any purpose, even commercially.</p>
                   <del>chief</del> dramatu<del>g</del>rgist.  
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0368/" type="sheet"/>
-               <p>
+               <ab>
                   <del>
                      In the following year there was a <rs type="event" ref="#amp_event_id_25">reading of the <rs type="lit_work" ref="#lit_work_id_56">play</rs></rs> in<lb/>
                      the hall used by the <rs type="org" ref="#amp_organization_9">Society for Literature</rs> in the <rs type="place" ref="#amp_place_id_85">Palais<lb/>
@@ -848,14 +848,16 @@ for any purpose, even commercially.</p>
                      was not satisfied, as he kept muttering "Nonsense - completely<lb/>
                      wrong" and making notes in the text.
                   </del>
-               </p>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0369/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="26" unit="char"/>1O.
+               </ab>
+               <p prev="true">
+                  attempt at an analysis of <rs type="person" ref="#amp_person_54">Heer</rs>'s character and personality which<lb/>
+                  would be out of place here.)
                </p>
                <p>
-                  attempt at an analysis of <rs type="person" ref="#amp_person_54">Heer</rs>'s character and personality which<lb/>
-                  would be out of place here.)<lb/>
                   <space quantity="5" unit="char"/>Unless <rs type="person" ref="#amp_person_1">Auden</rs> had friends to stay, talk of this quality was<lb/>
                   a rare occurrence. <space quantity="1" unit="char"/>It was possible to see why <rs type="person" ref="#amp_person_53">Bernhard</rs>, to take<lb/>
                   one example, did not care to go to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>: <space quantity="1" unit="char"/>there was a<lb/>
@@ -868,17 +870,19 @@ for any purpose, even commercially.</p>
                   work in literary magazines, and if the poet himself ever heard<lb/>
                   of it, it was by pure chance. <space quantity="1" unit="char"/>"They don't" he said indignantly,<lb/>
                   "even send me a copy of their paper". <space quantity="2" unit="char"/>Nor, in those days, was<lb/>
-                  he satisfied with the quality of the work. <space quantity="1" unit="char"/>He said to an<lb/>
-                  interviewer in <rs type="place" ref="#amp_place_id_17">Berlin</rs>§, at a time when little of his poetry<lb/>
-                  had been translated into German: <space quantity="1" unit="char"/>"Translating poetry into a<lb/>
+                  he satisfied with the quality of the work. <space quantity="1" unit="char"/>He said to <rs type="person" ref="#amp_person_163">an<lb/>
+                  interviewer</rs> in <rs type="place" ref="#amp_place_id_17">Berlin</rs>§, at a time when little of his poetry<lb/>
+                  had been translated into German: <space quantity="1" unit="char"/><quote source="#lit_work_id_127">"Translating poetry into a<lb/>
                   different language is very very problematical - and apart from<lb/>
-                  that, people earn too little by it." <space quantity="1" unit="char"/>But: "Why can't one send<lb/>
-                  the translation to a living poet before it is published?" <space quantity="1" unit="char"/>He<lb/>
+                  that, people earn too little by it."</quote> <space quantity="1" unit="char"/>But: <quote source="#lit_work_id_127">"Why can't one send<lb/>
+                  the translation to a living poet before it is published?"</quote> <space quantity="1" unit="char"/>He<lb/>
                   might not know the exactly suitable word, but he would know what<lb/>
                   image a word or a phrase was intended to call up in the reader.<lb/>
-                  "For instance, I spoke in a poem about corn - maize - but the<lb/>
+                  <quote source="#lit_work_id_127">"For instance, I spoke in a poem about corn - maize - but the<lb/>
                   translator rendered it as wheat! <space quantity="1" unit="char"/>I was annoyed, because that<lb/>
-                  sort of thing can be avoided."<lb/>
+                  sort of thing can be avoided."</quote>
+               </p>
+               <p>
                   <space quantity="4" unit="char"/>The fifty minute drive to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> presented too great<lb/>
                   a psychological barrier even to the young, now dead, author and<lb/>
                   poet <rs type="person" ref="#amp_person_59">Gerhard Fritsch</rs> (he committed suicide) who translated <rs type="person" ref="#amp_person_1">Auden</rs>'s<lb/>
@@ -892,18 +896,18 @@ for any purpose, even commercially.</p>
                   day, ironical, grotesque, mocking, tender, full of grief, rising<lb/>
                   to moments of lyrical joy. <space quantity="1" unit="char"/>Rarely even attempted in German<lb/>
                   literature, in religious writing tone changes of this description<lb/>
-                  are unknown. <space quantity="2" unit="char"/><rs type="event" ref="#amp_event_id_58">Austrian television showed a version of the oratorio<lb/>
-                  on the eve of Epiphany - 5 January 1967 -</rs> in which the libretto
+                  are unknown. <space quantity="2" unit="char"/><rs type="org" ref="#amp_organization_88">Austrian television</rs> showed a <rs type="lit_work" ref="#lit_work_id_190">version of the <rs type="lit_work" ref="#lit_work_id_55">oratorio</rs></rs><lb/>
+                  on the eve of Epiphany - 5 January 1967 - in which the libretto
                </p>
                <p>
                   § <rs type="lit_work" ref="#lit_work_id_127">Article</rs> in <rs type="org" ref="#amp_organization_66">Die Zeit</rs>, <rs type="place" ref="#amp_place_id_126">Hamburg</rs>, 23.4.1965, by <rs type="person" ref="#amp_person_163">Cornelia Jacobsen</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0370/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0371/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="24" unit="char"/>1Oa.
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   was adapted and the music written by the composer <rs type="person" ref="#amp_person_60">Paul Kont</rs>.<lb/>
                   A review by the critic <rs type="person" ref="#amp_person_61">Helmut A. Fiechtner</rs> in <rs type="lit_work" ref="#lit_work_id_66">"Die Furche"</rs><lb/>
                   gives the impression that it was a performance which, like<lb/>
