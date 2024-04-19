@@ -59,6 +59,18 @@
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
                      <certainty cert="high" locus="value"/>
                   </interp>
+                  <interp xml:id="ana_038" source="ph_038"><!-- link -->
+                     <desc>
+                        The archives of the <rs type="org" ref="#amp_organization_9">Austrian Society for Literature</rs> do not contain any information on a 1968 reading by <rs type="person" ref="#amp_person_1">Auden</rs>. However, there is a <ref target="https://www.ogl.at/programm/aktuelles-programm/archiv/1962/10/">reference</ref> to a reading by Auden from his works, together with Austrian actor <rs type="person" ref="#amp_person_243">Wolfgang Gasser</rs>, on 4 October 1962 - which is the year after the publication of <rs type="person" ref="#amp_person_59">Gerhard Fritsch</rs>'s <rs type="lit_work" ref="#lit_work_id_56">German translation of <rs type="lit_work" ref="#lit_work_id_55">"For the Time Being"</rs></rs>.
+                        <rs type="event" ref="#amp_event_id_25"/>
+                        <bibl sameAs="https://www.ogl.at/programm/aktuelles-programm/archiv/1962/10/">
+                           <orgName ref="acdh:amp-index-organizations.xml#amp_organization_9"/>
+                           <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_1"/>
+                        </bibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="low" locus="value"/>
+                  </interp>
                </interpGrp>
             </edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
@@ -909,7 +921,7 @@ for any purpose, even commercially.</p>
                </ab>
                <p prev="true">
                   was adapted and the music written by the composer <rs type="person" ref="#amp_person_60">Paul Kont</rs>.<lb/>
-                  A review by the critic <rs type="person" ref="#amp_person_61">Helmut A. Fiechtner</rs> in <rs type="lit_work" ref="#lit_work_id_66">"Die Furche"</rs><lb/>
+                  A review by the critic <rs type="person" ref="#amp_person_61">Helmut A. Fiechtner</rs> in <rs type="org" ref="#amp_organization_25">"Die Furche"</rs><lb/>
                   gives the impression that it was a performance which, like<lb/>
                   Victorian children, should be seen but not heard. <space quantity="1" unit="char"/>Design and<lb/>
                   costumes were by one of <rs type="place" ref="#amp_place_id_10">Austria<del>n</del></rs>'s leading painters of the<lb/>
@@ -917,33 +929,39 @@ for any purpose, even commercially.</p>
                   Davy</rs> and <rs type="person" ref="#amp_person_64">Hilde Rössel-Majdan</rs> did their best, but the music was<lb/>
                   unconvincing, it got in the way of the text, and the most<lb/>
                   impressive passage, not surprisingly, was <rs type="person" ref="#amp_person_164">Helmut Qualtinger</rs>'s<lb/>
-                  monologue as <rs type="person" ref="#amp_person_165">Herod</rs>. <space quantity="2" unit="char"/>In the following year there was a <rs type="event" ref="#amp_event_id_25">reading<lb/>
+                  monologue as <rs type="person" ref="#amp_person_165">Herod</rs>. <space quantity="2" unit="char"/>In the following year there was a <rs type="event" ref="#amp_event_id_109" ana="#ana_038">reading<lb/>
                   of <rs type="lit_work" ref="#lit_work_id_56">"Hier und Jetzt"</rs></rs> in the <rs type="place" ref="#amp_place_id_85">Palais Palffy</rs> under the auspices of<lb/>
                   the <rs type="org" ref="#amp_organization_9">Society for Literature</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> read a short passage in<lb/>
                   English and an actor took over and read in German. <space quantity="1" unit="char"/>It appears<lb/>
                   that <rs type="person" ref="#amp_person_1">Auden</rs> was not satisfied, a<del>n</del>s he kept muttering "Nonsense -<lb/>
-                  completely wrong!" and making notes in the margin.<lb/>
+                  completely wrong!" and making notes in the margin.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>In later years things changed very much for the better, and<lb/>
                   although <rs type="person" ref="#amp_person_1">Auden</rs> did not actually live to see the volume<lb/>
                   <rs type="lit_work" ref="#lit_work_id_67">"Gedichte - Poems"</rs> published in English and German in <rs type="place" ref="#amp_place_id_1">Vienna</rs><lb/>
                   in 1973, he did check the proofs, and a few of the translators<lb/>
                   had been to see him. <space quantity="1" unit="char"/>Today. more of <rs type="person" ref="#amp_person_1">Auden</rs>'s poetry exists in<lb/>
-                  German than in any other foreign language.<lb/>
-                  <space quantity="20" unit="char"/>+ <space quantity="1" unit="char"/>+ <space quantity="1" unit="char"/>+<lb/>
+                  German than in any other foreign language.
+               </p>
+               <ab>
+                  <space quantity="20" unit="char"/>+ <space quantity="1" unit="char"/>+ <space quantity="1" unit="char"/>+
+               </ab>
+               <p>
                   <space quantity="3" unit="char"/>Talking of translations: <space quantity="1" unit="char"/>whatever became of the <rs type="org" ref="#amp_organization_1">Ford<lb/>
                   Foundation</rs> translation scheme? <space quantity="1" unit="char"/>At one time <rs type="person" ref="#amp_person_1">Auden</rs> was<lb/>
                   thinking about a plan in which he had become involved. <space quantity="1" unit="char"/>This<lb/>
-                  was to bring
+                  <space quantity="48" unit="char"/>was to bring
                </p>
-               <p hand="#handwritten">
+               <ab hand="#handwritten">
                   ⁒
-               </p>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0372/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0373/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="27" unit="char"/>11
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   all the main literary works in the German language under review<lb/>
                   in so far as they exist in English translation, to judge their<lb/>
                   quality and to discover the gaps. <space quantity="1" unit="char"/>The real purpose of the<lb/>
@@ -962,8 +980,10 @@ for any purpose, even commercially.</p>
                   it is not so much the language barrier, as a fatal lack of<lb/>
                   universality which has made so many leading Austrian writers - as<lb/>
                   used to be said of Austrian wine though with less justification -<lb/>
-                  travel so badly. <space quantity="1" unit="char"/><del>But it is wortt </del> <space quantity="1" unit="char"/>In a <del>r</del>foreword to a book I<lb/>
-                  wrote on <rs type="lit_work" ref="#lit_work_id_123">Austria Auden</rs> was to write:<lb/>
+                  travel so badly. <space quantity="1" unit="char"/><del>But it is wortt </del> <space quantity="1" unit="char"/>In a <rs type="lit_work" ref="#lit_work_id_175"><del>r</del>foreword to a <rs type="lit_work" ref="#lit_work_id_45">book I<lb/>
+                  wrote on Austria</rs></rs> <rs type="person" ref="#amp_person_1">Auden</rs> was to write:
+               </p>
+               <quote source="#lit_work_id_175">
                   <space quantity="4" unit="char"/>"The relation between Art and Societ<del>s</del>y is so obscure that only<lb/>
                   a fool will claim that he understands it. <space quantity="1" unit="char"/>How, as <rs type="person" ref="#amp_person_2">the author</rs><lb/>
                   asks in her concluding chapter on <rs type="place" ref="#amp_place_id_1">Vienna</rs>, is one to explain the<lb/>
@@ -981,7 +1001,7 @@ for any purpose, even commercially.</p>
                   Of <rs type="person" ref="#amp_person_35">Bruckner</rs> this may be true, but of <rs type="person" ref="#amp_person_36">Stifter</rs> I would say that he<lb/>
                   has not travelled, period: <space quantity="1" unit="char"/>until a few years ago nobody ha<del>s</del>d<lb/>
                   attempted to translate him."
-               </p>
+               </quote>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0374/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0375/" type="sheet"/>
                <p>
