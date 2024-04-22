@@ -911,9 +911,9 @@ for any purpose, even commercially.</p>
                   are unknown. <space quantity="2" unit="char"/><rs type="org" ref="#amp_organization_88">Austrian television</rs> showed a <rs type="lit_work" ref="#lit_work_id_190">version of the <rs type="lit_work" ref="#lit_work_id_55">oratorio</rs></rs><lb/>
                   on the eve of Epiphany - 5 January 1967 - in which the libretto
                </p>
-               <p>
+               <ab>
                   § <rs type="lit_work" ref="#lit_work_id_127">Article</rs> in <rs type="org" ref="#amp_organization_66">Die Zeit</rs>, <rs type="place" ref="#amp_place_id_126">Hamburg</rs>, 23.4.1965, by <rs type="person" ref="#amp_person_163">Cornelia Jacobsen</rs>
-               </p>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0370/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0371/" type="sheet"/>
                <ab>
@@ -1006,9 +1006,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0374/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0375/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="25" unit="char"/>12
-               </p>
+               </ab>
                <p>
                   <space quantity="5" unit="char"/>Perhaps it is worth reminding ourselves of the abortive<lb/>
                   scheme in these difficult times, because of the underlying<lb/>
@@ -1028,17 +1028,17 @@ for any purpose, even commercially.</p>
                   to English writers' lack of <del><gap reason="deleted"/></del>a sympathy towards the German<lb/>
                   classics and mentioned <rs type="person" ref="#amp_person_1">Auden</rs> as a striking exception.
                </p>   
-               <p>
+               <ab>
                   § Leaving <rs type="person" ref="#amp_person_10">Shakespeare</rs> on one side, as no modern translators have<lb/>
                   managed to banish the <rs type="person" ref="#amp_person_202">Schlegel-<rs type="person" ref="#amp_person_201">Tieck</rs></rs> <rs type="lit_work" ref="#lit_work_id_129">version</rs> from the stage,<lb/>
                   <rs type="person" ref="#amp_person_67">Eva Hesse</rs> made her name <del>as the translator </del> with <rs type="person" ref="#amp_person_68">Ezra <del>C</del>Pound</rs>'s<lb/>
                   <rs type="lit_work" ref="#lit_work_id_69">Cantos</rs>, a <rs type="lit_work" ref="#lit_work_id_130 #lit_work_id_131">masterpiece</rs> of the translator's art.    
-               </p>
+               </ab>
                <p>
                   <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> immensely enjoyed working on <rs type="person" ref="#amp_person_11">Goethe</rs>'s <rs type="lit_work" ref="#lit_work_id_70">"Italian<lb/>
                   Journey"</rs>, and was always delighted when he came upon error<del>x</del>s in<lb/>
                   the original caused by <rs type="person" ref="#amp_person_11">Goethe</rs>'s own faulty editing. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_11">Goethe</rs> as<lb/>
-                  a man fascinated him - three items in <rs type="lit_work" ref="#lit_work_id_53">"Forewords and Afterwords"</rs><lb/>
+                  a man fascinated him - <rs type="lit_work" ref="#lit_work_id_191 #lit_work_id_192 #lit_work_id_193">three items in <rs type="lit_work" ref="#lit_work_id_53">"Forewords and Afterwords"</rs></rs><lb/>
                   and much else of an earlier date are there to prove it. <space quantity="1" unit="char"/>So it<lb/>
                   can't have been later than 1962 when there was a ring at the<lb/>
                   doorbell of <rs type="place" ref="#amp_place_id_11">my flat</rs> in <rs type="place" ref="#amp_place_id_1">Vienna</rs>. <space quantity="1" unit="char"/>I opene<del>e</del>d the door and there was<lb/>
@@ -1046,26 +1046,30 @@ for any purpose, even commercially.</p>
                   lift was put in and he had climbed nin<del>t</del>ety steps from street<lb/>
                   level. <space quantity="1" unit="char"/>His shirt was grubby, his tie askew, his hair was<lb/>
                   matted, and before he was half through the door and with no<lb/>
-                  further greeting he gasped out:<lb/>
+                  further greeting he gasped out:
+               </p>
+               <p>
                   <space quantity="4" unit="char"/>"I have come to the concl<del>i</del>usion that <rs type="person" ref="#amp_person_11">Goethe</rs> was a very<lb/>
                   lonely man."
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0376/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0377/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="24" unit="char"/>13.
-               </p>
+               </ab>
                <p>
                   <space quantity="5" unit="char"/>Which I think we may doubt. <space quantity="1" unit="char"/>But <rs type="person" ref="#amp_person_1">Auden</rs> knew loneliness.
                </p>
-               <lg>
-                  <l><space quantity="5" unit="char"/>Gate-crashing ghost, aggressive</l>
-                  <l><space quantity="5" unit="char"/>invisible visitor,</l>
-                  <l><space quantity="5" unit="char"/>tactless gooseberry, spoiling</l>
-                  <l><space quantity="5" unit="char"/>my téte-à-tête with myself,</l>
-                  <l><space quantity="5" unit="char"/>blackmailing brute, behaving</l>
-                  <l><space quantity="5" unit="char"/>as if the house were your own...</l>
-               </lg>
+               <quote source="#lit_work_id_132">
+                  <lg>
+                     <lb/><space quantity="5" unit="char"/><l>Gate-crashing ghost, aggressive</l>
+                     <lb/><space quantity="5" unit="char"/><l>invisible visitor,</l>
+                     <lb/><space quantity="5" unit="char"/><l>tactless gooseberry, spoiling</l>
+                     <lb/><space quantity="5" unit="char"/><l>my téte-à-tête with myself,</l>
+                     <lb/><space quantity="5" unit="char"/><l>blackmailing brute, behaving</l>
+                     <lb/><space quantity="5" unit="char"/><l>as if the house were your own...</l>
+                  </lg>
+               </quote>
                <p>
                   The strengt<del>t</del>h, the violence of the pictures <rs type="lit_work" ref="#lit_work_id_132">in this poem</rs> can<lb/>
                   hardly be paralleled in any other on a related subject.<lb/>
@@ -1076,23 +1080,27 @@ for any purpose, even commercially.</p>
                   business letters. <space quantity="1" unit="char"/>But <rs type="person" ref="#amp_person_1">Auden</rs> is safe from its haunting only<lb/>
                   when fast asleep. Yet: <space quantity="1" unit="char"/>tomorrow
                </p>
-               <lg>
-                  <l><space quantity="5" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs>, my chum, will return.</l>
-                  <l><space quantity="5" unit="char"/>Then you'll be through: <space quantity="1" unit="char"/>in no time</l>
-                  <l><space quantity="5" unit="char"/>he'll throw you out neck-and-crop,</l>
-                  <l><space quantity="5" unit="char"/>We'll merry-make your cadence</l>
-                  <l><space quantity="5" unit="char"/>with music, feasting and fun.</l>
-               </lg>
+               <quote source="#lit_work_id_132">
+                  <lg>
+                     <lb/><space quantity="5" unit="char"/><l><rs type="person" ref="#amp_person_4">Chester</rs>, my chum, will return.</l>
+                     <lb/><space quantity="5" unit="char"/><l>Then you'll be through: <space quantity="1" unit="char"/>in no time</l>
+                     <lb/><space quantity="5" unit="char"/><l>he'll throw you out neck-and-crop,</l>
+                     <lb/><space quantity="5" unit="char"/><l>We'll merry-make your cadence</l>
+                     <lb/><space quantity="5" unit="char"/><l>with music, feasting and fun.</l>
+                  </lg>
+               </quote>
                <p>
                   <space quantity="5" unit="char"/>When <rs type="person" ref="#amp_person_1">Auden</rs> walked into <rs type="place" ref="#amp_place_id_11">Neulinggasse 26</rs> and said what<lb/>
                   he did about <rs type="person" ref="#amp_person_11">Goethe</rs>, it would be almost nine years before he<lb/>
                   would write <rs type="lit_work" ref="#lit_work_id_132">this poem</rs>, but he was already facing wh<del>q</del>at may have<lb/>
                   seemed the disaster of <rs type="person" ref="#amp_person_4">Chester</rs>'s decision <del>t</del>not to return to<lb/>
-                  <rs type="place" ref="#amp_place_id_28">New York</rs>.<lb/>
-                  <space quantity="5" unit="char"/>In October 1964 he went to <rs type="event" ref="#amp_event_id_26">a <rs type="org" ref="#amp_organization_51">PEN</rs> conference</rs> in <rs type="place" ref="#amp_place_id_86">Budapest</rs>,<lb/>
+                  <rs type="place" ref="#amp_place_id_28">New York</rs>.
+               </p>
+               <p>
+                  <space quantity="5" unit="char"/>In October 1964 he went to a <rs type="event" ref="#amp_event_id_26"><rs type="org" ref="#amp_organization_51">PEN</rs> conference</rs> in <rs type="place" ref="#amp_place_id_86">Budapest</rs>,<lb/>
                   and came back saying that he had heard an unbelievable amount<lb/>
                   of hot air. <space quantity="1" unit="char"/>The French delegat<del>4</del>es had got on his nerves with<lb/>
-                  much talk about "mon â<del>`</del>me." <space quantity="1" unit="char"/>He may have been unjust<unclear>;</unclear> <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs><lb/>
+                  much talk about "<foreign xml:lang="fr">mon â<del>`</del>me</foreign>." <space quantity="1" unit="char"/>He may have been unjust<unclear>;</unclear> <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs><lb/>
                   was not a lover of the French language, <del>saying</del>and said that <del>to maintain</del><lb/>
                   it is quite wrong to call it the most precise and logical of languages;<lb/>
                   in no other can a person deliver himself of so much intellectual<lb/>
@@ -1104,78 +1112,88 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0378/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0379/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="25" unit="char"/>14.
-               </p>
+               </ab>
                <p>
                   <space quantity="5" unit="char"/>By <del>Octob</del> the end of October 1964 <rs type="person" ref="#amp_person_1">Auden</rs> was in <rs type="place" ref="#amp_place_id_17">Berlin</rs>,<lb/>
-                  where he would spend the winter as a <rs type="event" ref="#amp_event_id_27">guest of the <rs type="org" ref="#amp_organization_1">Ford<lb/>
+                  where he would spend the winter as a <rs type="org" ref="#amp_organization_89">guest of the <rs type="org" ref="#amp_organization_1">Ford<lb/>
                   Foundation</rs></rs>. <space quantity="1" unit="char"/>As a visiting professor <del>wo</del>he would give lectures<lb/>
                   and be at the disposal of students who wanted to consult him.<lb/>
                   On 21st November he was arrested for drunk driving. <space quantity="1" unit="char"/>It must have<lb/>
-                  been rather a dreary Christmas, and he remarked in a letter<lb/>
+                  been rather a dreary Christmas, and he remarked in <ref target="acdh:amp-transcript__0002.xml">a letter</ref><lb/>
                   <del>r</del>tha<del>r</del>t he was lonely, as who wouldn't be in the circumstances.<lb/>
                   <rs type="place" ref="#amp_place_id_18">Berlin-Dahlem</rs>, 23rd December, 1964:<lb/>
-                  <rs type="letter" ref="#amp_amp-transcript__0002.xml">It <hi rend="underline">was</hi> sweet of you to think of me at Christmas, especially<lb/>
-                  since it's a little <hi rend="underline">einsam</hi>¹ here. <space quantity="1" unit="char"/>Am beginning to know some<lb/>
-                  local inhabitants. <space quantity="1" unit="char"/>Oddly enough, the ones I can talk to most<lb/>
-                  easily are from <rs type="place" ref="#amp_place_id_21">Ost-Berlin</rs>. <space quantity="1" unit="char"/>The most awful thing about the<lb/>
-                  Bifkes² (sic)§ is that they are so much nicer under a little<lb/>
-                  <hi rend="underline">Druck</hi>³ <del><gap reason="illegible"/>pressure)</del>. <space quantity="1" unit="char"/>When they feel their oats they are so apt<lb/>
-                  to become uppish."</rs>
+                  <seg>
+                     <quote source="acdh:amp-transcript__0002.xml">
+                        It <hi rend="underline">was</hi> sweet of you to think of me at Christmas, especially<lb/>
+                        since it's a little <hi rend="underline"><foreign xml:lang="de">einsam</foreign></hi>1 here. <space quantity="1" unit="char"/>Am beginning to know some<lb/>
+                        local inhabitants. <space quantity="1" unit="char"/>Oddly enough, the ones I can talk to most<lb/>
+                        easily are from <rs type="place" ref="#amp_place_id_21"><foreign xml:lang="de">Ost-Berlin</foreign></rs>. <space quantity="1" unit="char"/>The most awful thing about the<lb/>
+                        <foreign xml:lang="de">Bifkes</foreign>2 (sic)§ is that they are so much nicer under a little<lb/>
+                        <hi rend="underline"><foreign xml:lang="de">Druck</foreign></hi>3 <del><gap reason="illegible"/>pressure)</del>. <space quantity="1" unit="char"/>When they feel their oats they are so apt<lb/>
+                        to become uppish."
+                     </quote>
+                  </seg>
                </p>
-               <p hand="#handwritten">
-                  INSERT 14a.
-               </p>
+               <ab hand="#handwritten">
+                  X INSERT 14a.
+               </ab>
                <p>
                   <space quantity="5" unit="char"/>Characteristic t<del>o</del>hough it is, one might not feel justified<lb/>
                   in quoting from this letter if it were not for the fact that<lb/>
-                  it goes on to throw light on a passage in his long <rs type="lit_work" ref="#lit_work_id_61">poem</rs> to<lb/>
-                  <rs type="person" ref="#amp_person_5">Josef Weinheber</rs>. <space quantity="2" unit="char"/><unclear>I</unclear>t came about like this: <space quantity="1" unit="char"/>I had been reading<lb/>
+                  it goes on to throw light on a passage in <rs type="lit_work" ref="#lit_work_id_60">his long poem to<lb/>
+                  <rs type="person" ref="#amp_person_5">Josef Weinheber</rs></rs>. <space quantity="2" unit="char"/><unclear>I</unclear>t came about like this: <space quantity="1" unit="char"/>I had been reading<lb/>
                   a paperback c<del>q</del>alled <rs type="lit_work" ref="#lit_work_id_72">"The Rise of the South African Reich"</rs> by <rs type="person" ref="#amp_person_70">Brian<lb/>
                   Bunting</rs> and mentioned it in my letter with particular reference<lb/>
                   to torture. <space quantity="1" unit="char"/>And I had complained that certain attitudes found<lb/>
                   in so-called liberal circles tended to push one further to the<lb/>
                   right than one wished to go. <space quantity="1" unit="char"/>After a sharp comment on the<lb/>
-                  American magazine <rs type="org" ref="#amp_organization_24">"The National Review"</rs> he continues: <space quantity="1" unit="char"/>"Of<lb/>
+                  American magazine <rs type="org" ref="#amp_organization_24">"The National Review"</rs> he continues: <space quantity="1" unit="char"/><quote source="acdh:amp-transcript__0002.xml">"Of<lb/>
                   course you're right about the lib-labs' ostrich attitude to<lb/>
                   those who wish to destroy them, but one cannot let ones name be<lb/>
                   associated with shits. <space quantity="1" unit="char"/>Torture is the iniquity which utterly<lb/>
                   bewilders me. <space quantity="1" unit="char"/>I know something about the evil in my own heart<lb/>
                   and in the sort of people I meet, but I cannot conceive of<lb/>
                   myself or them tortur<del>n</del>ing anybody. <space quantity="1" unit="char"/>Where do the torturers come<lb/>
-                  from? <space quantity="1" unit="char"/>What class? <space quantity="1" unit="char"/>Whom do they marry?" <space quantity="1" unit="char"/>The words "Have you<lb/>
-                  ever met one?" are deleted. <space quantity="1" unit="char"/>"To what pubs do they go?<del>"</del><lb/>
-                  Much love and best wishes for 1965, <rs type="person" ref="#amp_person_1">Wystan</rs>."<lb/>
+                  from? <space quantity="1" unit="char"/>What class? <space quantity="1" unit="char"/>Whom do they marry?"</quote> <space quantity="1" unit="char"/>The words <quote source="acdh:amp-transcript__0002.xml">"Have you<lb/>
+                  ever met one?"</quote> are deleted. <space quantity="1" unit="char"/><quote source="acdh:amp-transcript__0002.xml">"To what pubs do they go?<del>"</del><lb/>
+                  Much love and best wishes for 1965, <rs type="person" ref="#amp_person_1">Wystan</rs>."</quote>
+               </p>
+               <p>
                   <space quantity="4" unit="char"/>By 20th March 1965 he had completed, typed out and sent<lb/>
-                  off to me the <rs type="lit_work" ref="#lit_work_id_62">long poem to <rs type="person" ref="#amp_person_5">Weinheber</rs></rs>, with the verse:
+                  off to me the <rs type="lit_work" ref="#lit_work_id_61">long poem to <rs type="person" ref="#amp_person_5">Weinheber</rs></rs>, with the verse:
+                  <seg>
+                     <quote source="acdh:amp-transcript__0038.xml">
+                        <lg>
+                           <lb/><space quantity="14" unit="char"/><l>Today we smile at weddings</l>
+                           <lb/><space quantity="14" unit="char"/><l>Where bride and bridegroom</l>
+                        </lg>
+                     </quote>
+                  </seg>
                </p>
-               <lg>
-                  <space quantity="14" unit="char"/><l>Today we smile at weddings</l>
-                  <space quantity="14" unit="char"/><l>Where bride and bridegroom</l>
-               </lg>
-               <p hand="#handwritten">
+               <ab hand="#handwritten">
                   1. lonely .<lb/>
-                  2<unclear>_</unclear>Piefke, the <unclear>ru</unclear>de Austrian generic term for Germans .<lb/>
+                  2<unclear>_</unclear><foreign xml:lang="de">Piefke</foreign>, the <unclear>ru</unclear>de Austrian generic term for Germans .<lb/>
                   3<unclear>_</unclear> Pressure.
-               </p>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0380/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0381/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="26" unit="char"/>14a.
-               </p>
-               <p>
+               </ab>
+               <ab>
                   Insert after "to become uppish".
-               </p>
+               </ab>
                <p>
                   This was the private <rs type="person" ref="#amp_person_1">Auden</rs>. <space quantity="1" unit="char"/>The publi<del>s</del>c <rs type="person" ref="#amp_person_1">Auden</rs> in <rs type="lit_work" ref="#lit_work_id_127">the interview</rs><lb/>
                   with <rs type="org" ref="#amp_organization_66">"Die Zeit"</rs> quoted earlier, hotly denied that he had been<lb/>
-                  lonely. <space quantity="2" unit="char"/>Many of his predecessors, said the interviewer, had<lb/>
+                  lonely. <space quantity="2" unit="char"/>Many of his predecessors, said <rs type="person" ref="#amp_person_163">the interviewer</rs>, had<lb/>
                   repeatedly complain<del><gap reason="deleted"/></del>ed that little notice had been taken of<lb/>
                   them and that their stay was far from enjoyable. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs>'s<lb/>
                   reply was "brusque": <space quantity="1" unit="char"/>Grumbles of that sort were, he thought,<lb/>
-                  unfair and personally objectionable. <space quantity="1" unit="char"/>"One always has to do<lb/>
-                  something to establish contacts, no one can do that for one."<lb/>
+                  unfair and personally objectionable. <space quantity="1" unit="char"/><quote source="#lit_work_id_127">"One always has to do<lb/>
+                  something to establish contacts, no one can do that for one."</quote><lb/>
                   Not even the wealthy <rs type="org" ref="#amp_organization_1">Ford Foundation</rs> or the <rs type="org" ref="#amp_organization_34">Berlin senate</rs>.<lb/>
                   <unclear>I</unclear>t was very ungrateful to accept a monthly grant of a couple<lb/>
                   of t<del>o</del>housand marks and then to start criticising, instead of<lb/>
@@ -1187,31 +1205,43 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0382/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0383/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="25" unit="char"/>15.
+               </ab>
+               <p>
+                  <seg>
+                     <quote source="acdh:amp-transcript__0038.xml">
+                        <lg>
+                           <lb/><space quantity="12" unit="char"/><l>Were both born since the Shadow</l>
+                           <lb/><space quantity="12" unit="char"/><l>Lifted, or rather</l>
+                           <lb/><space quantity="12" unit="char"/><l>Moved elsewhere. <space quantity="1" unit="char"/>Never as <del>w</del>yet</l>
+                           <lb/><space quantity="12" unit="char"/><l>Has Earth been without</l>
+                           <lb/><space quantity="12" unit="char"/><l>Her bad patch, some unplace with</l>
+                           <lb/><space quantity="12" unit="char"/><l>Jobs for tortur<del>d</del>ers.</l>
+                           <lb/><space quantity="12" unit="char"/><l>(In what bars are they welcome?</l>
+                           <lb/><space quantity="12" unit="char"/><l>What girls marry them?)</l>
+                        </lg>
+                     </quote>
+                  </seg>
                </p>
-               <lg>
-                  <space quantity="12" unit="char"/><l>Were both born since the Shadow</l>
-                  <space quantity="12" unit="char"/><l>Lifted, or rather</l>
-                  <space quantity="12" unit="char"/><l>Moved elsewhere. <space quantity="1" unit="char"/>Never as <del>w</del>yet</l>
-                  <space quantity="12" unit="char"/><l>Has Earth been without</l>
-                  <space quantity="12" unit="char"/><l>Her bad patch, some unplace with</l>
-                  <space quantity="12" unit="char"/><l>Jobs for tortur<del>d</del>ers.</l>
-                  <space quantity="12" unit="char"/><l>(In what bars are they welcome?</l>
-                  <space quantity="12" unit="char"/><l>What girls marry them?)</l>
-               </lg>
                <p>
                   <space quantity="5" unit="char"/>Later on, I told <rs type="person" ref="#amp_person_4">Chester</rs> about this infinitesimal and<lb/>
                   unwitting contribution of mine to English literature. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs><lb/>
-                  snapped: <space quantity="1" unit="char"/>"<rs type="person" ref="#amp_person_1">Wystan</rs> never wastes anything."<lb/>
+                  snapped: <space quantity="1" unit="char"/>"<rs type="person" ref="#amp_person_1">Wystan</rs> never wastes anything."
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>There exists a <rs type="lit_work" ref="#lit_work_id_92">prose translation of the poem to <rs type="person" ref="#amp_person_5">Weinheber</rs></rs>,<lb/>
-                  made by <rs type="person" ref="#amp_person_1">Auden</rs> and <rs type="person" ref="#amp_person_157">"a German friend"</rs>, which he sent to me for<lb/>
+                  made by <rs type="person" ref="#amp_person_1">Auden</rs> and <quote source="acdh:amp-transcript__0039.xml">"<rs type="person" ref="#amp_person_157">a German friend</rs>"</quote>, which he sent to me for<lb/>
                   checking together with some amendments to stanza three. <space quantity="1" unit="char"/>As the<lb/>
                   occasion for which the <rs type="lit_work" ref="#lit_work_id_60">poem</rs> was written was a <rs type="event" ref="#amp_event_id_49">celebration of<lb/>
                   the 20th anniversa<del>f</del>ry of <rs type="person" ref="#amp_person_5">Weinheber</rs>'s death</rs>, <rs type="lit_work" ref="#lit_work_id_92">the prose translation</rs><lb/>
-                  was for general information.<lb/>
-                  <space quantity="5" unit="char"/>"Herewith my effort" <rs type="person" ref="#amp_person_1">Auden</rs> wrote, "<del>d</del>to do my Gemeindepflicht."<lb/>
-                  (his civic duty.)<lb/>
+                  was for general information.
+               </p>
+               <p>
+                  <space quantity="5" unit="char"/><quote source="acdh:amp-transcript__0038.xml">"Herewith my effort"</quote> <rs type="person" ref="#amp_person_1">Auden</rs> wrote, <quote source="acdh:amp-transcript__0038.xml">"<del>d</del>to do my <foreign xml:lang="de">Gemeindepflicht</foreign>."</quote><lb/>
+                  (his civic duty.)
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>It hardly needs saying that <rs type="person" ref="#amp_person_1">Auden</rs>'s interest in <rs type="person" ref="#amp_person_5">Weinheber</rs><lb/>
                   w<del>n</del>ent far beyond a mere civic duty. <space quantity="1" unit="char"/>It was part of his whole<lb/>
                   relationship with <rs type="place" ref="#amp_place_id_6">Lower Austria</rs>, his feeling for the landscape,<lb/>
@@ -1220,36 +1250,46 @@ for any purpose, even commercially.</p>
                   the truth of this is to be found in the best known poems of his<lb/>
                   last decade - perhaps they are among the best he ever wrote.<lb/>
                   There is the first pa<del>t</del>rt of <rs type="lit_work" ref="#lit_work_id_37">The Cave of Making (In Memoriam <rs type="person" ref="#amp_person_71">Louis<lb/>
-                  MacNeice</rs>.)</rs> <space quantity="1" unit="char"/>He often emphasizes how unsensational it all is:
-               </p>
-               <lg>
-                  <l><space quantity="5" unit="char"/>"In a house backed by orderly woods,</l>
-                  <l><space quantity="6" unit="char"/>Facing a tractored sugar-beet country,</l>
-                  <l><space quantity="6" unit="char"/>Your working hosts engaged to their stint,</l>
-                  <l><space quantity="6" unit="char"/><del>S</del>You are unlike<del>ly</del> to encounter</l>
-                  <l><space quantity="6" unit="char"/>Dragons or romance: <space quantity="1" unit="char"/>were drama a craving,</l>
-                  <l><space quantity="6" unit="char"/>You would not have come."</l>
-               </lg>
-               <p>
-                  <space quantity="27" unit="char"/>(<rs type="lit_work" ref="#lit_work_id_102">For Friends Only - for <rs type="person" ref="#amp_person_95">John</rs> and<lb/>
-                  <space quantity="39" unit="char"/><rs type="person" ref="#amp_person_96">Teckla Clark</rs></rs>).
+                  MacNeice</rs>.)</rs> <space quantity="1" unit="char"/>He often emphasizes how unsensational it all is:<lb/>
+                  <seg>
+                     <quote source="#lit_work_id_102">
+                        <lg>
+                           <lb/><space quantity="5" unit="char"/><l>"In a house backed by orderly woods,</l>
+                           <lb/><space quantity="6" unit="char"/><l>Facing a tractored sugar-beet country,</l>
+                           <lb/><space quantity="6" unit="char"/><l>Your working hosts engaged to their stint,</l>
+                           <lb/><space quantity="6" unit="char"/><l><del>S</del>You are unlike<del>ly</del> to encounter</l>
+                           <lb/><space quantity="6" unit="char"/><l>Dragons or romance: <space quantity="1" unit="char"/>were drama a craving,</l>
+                           <lb/><space quantity="6" unit="char"/><l>You would not have come."</l>
+                        </lg>
+                     </quote>
+                     <space quantity="27" unit="char"/>(<rs type="lit_work" ref="#lit_work_id_102">For Friends Only - for <rs type="person" ref="#amp_person_95">John</rs> and<lb/>
+                     <space quantity="39" unit="char"/><rs type="person" ref="#amp_person_96">Teckla Clark</rs></rs>).
+                  </seg>
                </p>
                <p>
                   It strikes me suddenly as odd that he should have said that:<lb/>
                   in the mythology of <rs type="place" ref="#amp_place_id_10">Austria</rs> this <del>area</del><del>part of the country</del>area is not, I believe, <del>a</del><lb/>
-                  dragon country.<lb/>
+                  dragon country.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>Or in <rs type="lit_work" ref="#lit_work_id_74">The Common Life (for <rs type="person" ref="#amp_person_4">Chester Kallman</rs>)</rs>:
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0384/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0385/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="26" unit="char"/>16.
+               </ab>
+               <p prev="true">
+                  <seg>
+                     <quote source="#lit_work_id_74">
+                        <lg>
+                           <lb/><space quantity="19" unit="char"/><l>I'm glad the builder gave</l>
+                           <lb/><space quantity="10" unit="char"/><l>our common-room small windows</l>
+                           <lb/><space quantity="8" unit="char"/><l>through which no observe<del>d</del>r outside can observe us: <del>...</del></l>
+                        </lg>
+                     </quote>
+                  </seg>
                </p>
-               <lg>
-                  <space quantity="19" unit="char"/><l>I'm glad the builder gave</l>
-                  <space quantity="10" unit="char"/><l>our common-room small windows</l>
-                  <space quantity="8" unit="char"/><l>through which no observe<del>d</del>r outside can observe us: <del>...</del></l>
-               </lg>
                <p>
                   Quite untrue. <space quantity="1" unit="char"/>If they had the light on, anyone approaching the<lb/>
                   door could and did see them. <space quantity="2" unit="char"/>In the <rs type="lit_work" ref="#lit_work_id_60">poem to Weinheber</rs> he<lb/>
