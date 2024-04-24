@@ -1293,9 +1293,11 @@ for any purpose, even commercially.</p>
                <p>
                   Quite untrue. <space quantity="1" unit="char"/>If they had the light on, anyone approaching the<lb/>
                   door could and did see them. <space quantity="2" unit="char"/>In the <rs type="lit_work" ref="#lit_work_id_60">poem to Weinheber</rs> he<lb/>
-                  tells him: <space quantity="1" unit="char"/>"Here, though, I feel as at home as you did".<lb/>
-                  But the most moving <del>t</del>declaration <del>of love</del> is in <del>"</del><rs type="lit_work" ref="#lit_work_id_38">Prologue at<lb/>
-                  Sixty (for <rs type="person" ref="#amp_person_54">Friedrich Heer</rs>)</rs>.<lb/>
+                  tells him: <space quantity="1" unit="char"/><quote source="#lit_work_id_60">"Here, though, I feel as at home as you did"</quote>.<lb/>
+                  But the most moving <del>t</del>declaration <del>of love</del> is in <rs type="lit_work" ref="#lit_work_id_38"><del>"</del>Prologue at<lb/>
+                  Sixty (for <rs type="person" ref="#amp_person_54">Friedrich Heer</rs>)</rs>.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>It satisfied him to live ne<del>d</del>xt door to where the poet<lb/>
                   <rs type="person" ref="#amp_person_5">Josef Weinheber</rs> had lived, a man for whom he felt a remarkable<lb/>
                   empathy and a strange compassion. <space quantity="1" unit="char"/>It has occurred to me that<lb/>
@@ -1306,57 +1308,65 @@ for any purpose, even commercially.</p>
                   later on he rejected it all and finally he committed suicide.<lb/>
                   This may be fanciful; <space quantity="1" unit="char"/>it is put forward simply as a suggestion.<lb/>
                   <rs type="person" ref="#amp_person_1">Auden</rs> knew that he would have got on with the man next door.
+                  <seg>
+                     <quote source="#lit_work_id_60">
+                        <lg>
+                           <lb/><space quantity="12" unit="char"/><l>Categorised enemies</l>
+                           <lb/><space quantity="12" unit="char"/><l><del>T</del>twenty <space quantity="1" unit="char"/>years ago,</l>
+                           <lb/><space quantity="12" unit="char"/><l>now next-door neighbours, we might</l>
+                           <lb/><space quantity="12" unit="char"/><l>have become good friends,</l>
+                           <lb/><space quantity="12" unit="char"/><l>sharing a common ambit</l>
+                           <lb/><space quantity="12" unit="char"/><l>and love of the <del>w</del>Word,</l>
+                           <lb/><space quantity="12" unit="char"/><l>over a golden Kremser</l>
+                           <lb/><space quantity="12" unit="char"/><l>had many a long</l>
+                           <lb/><space quantity="12" unit="char"/><l>language on syntax, commas,</l>
+                           <lb/><space quantity="12" unit="char"/><l>versification.</l>
+                        </lg>
+                     </quote>
+                  </seg>
                </p>
-               <lg>
-                  <l><space quantity="12" unit="char"/>Categorised enemies</l>
-                  <l><space quantity="12" unit="char"/><del>T</del>twenty <space quantity="1" unit="char"/>years ago,</l>
-                  <l><space quantity="12" unit="char"/>now next-door neighbours, we might</l>
-                  <l><space quantity="12" unit="char"/>have become good friends,</l>
-                  <l><space quantity="12" unit="char"/>sharing a common ambit</l>
-                  <l><space quantity="12" unit="char"/>and love of the <del>w</del>Word,</l>
-                  <l><space quantity="12" unit="char"/>over a golden Kremser</l>
-                  <l><space quantity="12" unit="char"/>had many a long</l>
-                  <l><space quantity="12" unit="char"/>language on syntax, commas,</l>
-                  <l><space quantity="12" unit="char"/>versification.</l>
-               </lg>
                <p>
                   <space quantity="5" unit="char"/>On May 24th 1965,<rs type="person" ref="#amp_person_1">Auden<del>Auden</del></rs> under the auspices of the <rs type="org" ref="#amp_organization_35">Austro-<rs type="org" ref="#amp_organization_16">British<lb/>
                   Council</rs></rs> and <rs type="org" ref="#amp_organization_9">the Society for Literat<unclear>u</unclear>re</rs>, <rs type="person" ref="#amp_person_1">Auden</rs> gave a <rs type="event" ref="#amp_event_id_29">talk on <rs type="person" ref="#amp_person_27">T.S. Eliot</rs></rs> in the lecture hall of<lb/>
-                  <rs type="org" ref="#amp_organization_61">the <del>Museum of</del> Natural History Museum on the Ring</rs>. <space quantity="2" unit="char"/><unclear>I</unclear>t was very<lb/>
+                  <rs type="org" ref="#amp_organization_61">the <del>Museum of</del> Natural History Museum</rs> on the <rs type="place" ref="#amp_place_id_348">Ring</rs>. <space quantity="2" unit="char"/><unclear>I</unclear>t was very<lb/>
                   well attended, largely by crowds of note-taking students of<lb/>
                   Eng. Lit, and I have never been quite sure whether, at one moment,<lb/>
                   he was treating us to a bit of traditional stage business. <space quantity="1" unit="char"/>He<lb/>
                   told us that there is a game: <space quantity="1" unit="char"/>if, like the Trinit<del>,</del>y, we were<lb/>
                   made up of three persons, what would they be? <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_27">Eliot</rs>, now,<lb/>
-                  contained, first<del>,</del>ly, the American pre-Ja<del>f</del>ckson aristocrat of a<lb/>
+                  contained, first<del>,</del>ly, the American pre-<rs type="person" ref="#amp_person_244">Ja<del>f</del>ckson</rs> aristocrat of a<lb/>
                   kind which died out in 1829. <space quantity="1" unit="char"/>He was a dandy, very carefully
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0386/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0387/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="27" unit="char"/>17
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   dressed in black jacket, striped trousers and bowler hat. <space quantity="1" unit="char"/>And<lb/>
                   he worked two floors underground. <space quantity="1" unit="char"/>Then there was the little<lb/>
                   boy aged twe<del>n</del>lve, adoring practical jokes such as cushions which<lb/>
                   fart when you sit on them, and who liked to shock people by<lb/>
                   saying "<del><gap reason="deleted"/></del><rs type="person" ref="#amp_person_11">Goethe</rs> is awful" and so on. <space quantity="1" unit="char"/>Finally, there was the<lb/>
-                  Yiddish Momma...<lb/>
+                  Yiddish Momma...
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>At this point a cascade of papers fell off the high reading<lb/>
                   desk. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> disappeared altogether from our sight, scuffed<lb/>
                   about on the floor for a bit and finally emerged, very slowly,<lb/>
                   to complete his sentence: <space quantity="1" unit="char"/>"... who wrote the poems". <space quantity="1" unit="char"/>By now<lb/>
                   <unclear>a</unclear> very few people wer<del>d</del>e shaking with silent laughter, but the<lb/>
                   students, with poised biros, blank-faced and puzzled, were<lb/>
-                  waiting for all this to stop.<lb/>
+                  waiting for all this to stop.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>He was understandably proud of having been asked to <rs type="event" ref="#amp_event_id_30">preach</rs><lb/>
                   in <rs type="place" ref="#amp_place_id_87">Westminster Ab<del>n</del>bey</rs>. <space quantity="1" unit="char"/>His triumphant comment to me was:<lb/>
                   "<hi rend="underline"><rs type="person" ref="#amp_person_27">Eliot</rs></hi> never did that".
                </p>
                <p>
                   <space quantity="5" unit="char"/><del>S</del>April 1967 brought a <rs type="event" ref="#amp_event_id_31">literary congress</rs> on avantgarde<lb/>
-                  literature to the <rs type="place" ref="#amp_place_id_85">Palais Palffy</rs> on the Josefsplatz in Vienna.<lb/>
+                  literature to the <rs type="place" ref="#amp_place_id_85">Palais Palffy</rs> on the <rs type="place" ref="#amp_place_id_351">Josefsplatz</rs> in Vienna.<lb/>
                   <rs type="person" ref="#amp_person_1">Auden</rs> came, together with a rich, at moments over-rich collection<lb/>
                   of <space quantity="1" unit="char"/>dons, writers and critics from eastern and western <rs type="place" ref="#amp_person_30">Europe</rs>.<lb/>
                   A number of journalists and a few public figures were present<lb/>
