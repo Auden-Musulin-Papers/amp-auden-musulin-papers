@@ -1515,20 +1515,22 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0392/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0393/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="30" unit="char"/>2O.
+               </ab>
+               <p prev="true">
+                  strays.
                </p>
                <p>
-                  strays.<lb/>
-                  <space quantity="5" unit="char"/>In February 1968 he flew over to <rs type="place" ref="#amp_place_id_5">Vienna</rs> to <rs type="event" ref="#amp_event_id_10">interview</rs> <del>a co</del><lb/>
+                  <space quantity="5" unit="char"/>In February 1968 he flew over to <rs type="place" ref="#amp_place_id_1">Vienna</rs> to <rs type="event" ref="#amp_event_id_10">interview</rs> <del>a co</del><lb/>
                   <rs type="person" ref="#amp_person_32">Frau Strobl</rs> after the <rs type="event" ref="#amp_event_id_1">death of <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></rs>. <space quantity="1" unit="char"/>We were lunching<lb/>
                   together at the <rs type="place" ref="#amp_place_id_92">Opern-Café</rs> and this was one of the very few<lb/>
-                  occasions when I kept a <rs type="note" ref="#amp_amp-transcript__0029.xml">note</rs> of what had been said. <space quantity="2" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> had<lb/>
+                  occasions when I kept a <ref target="acdh:amp-transcript__0029.xml">note</ref> of what had been said. <space quantity="2" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> had<lb/>
                   fr<del>3</del>equently taken a stand against drug-taking, and had made his<lb/>
                   attitude clear in a number of lectures and interviews. <space quantity="1" unit="char"/>In<lb/>
                   October 1967, for instance, he brought up the subject in a <rs type="event" ref="#amp_event_id_6">lecture</rs><lb/>
                   at <rs type="org" ref="#amp_organization_57">Eliot College</rs>, and now I told him I was glad he had been<lb/>
-                  saying to young people in <rs type="place" ref="#amp_place_id_93">England</rs> that LSD is a dead duc<del><unclear>h</unclear></del>k for<lb/>
+                  saying to young people in <rs type="place" ref="#amp_place_id_239">England</rs> that LSD is a dead duc<del><unclear>h</unclear></del>k for<lb/>
                   creative workers. <space quantity="1" unit="char"/>This led to a long account of the experiments<lb/>
                   with LSD and <del>M</del>mescalin that he himself had carried out in the<lb/>
                   company of <rs type="person" ref="#amp_person_197">his doctor</rs>. <space quantity="1" unit="char"/>He was perfe<del>f</del>ctly certain that no original<lb/>
