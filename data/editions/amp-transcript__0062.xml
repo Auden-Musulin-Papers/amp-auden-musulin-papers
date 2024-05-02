@@ -24,7 +24,7 @@
                <interpGrp>
                   <interp xml:id="ana_034" source="ph_034"><!-- link -->
                      <desc>
-                        In his <hi rend="italic"><rs type="lit_work" ref="#lit_work_id_39">W. H. Auden: A Biography</rs></hi>, <rs type="person" ref="#amp_person_100">Humphrey Carpenter</rs> records that the Hinterholz lane, where <rs type="person" ref="#amp_person_1">Auden</rs>'s <rs type="place" ref="#amp_place_id_2">house</rs> was located, was renamed "Audenstraße"; but that Auden continued to give his address as "Hinterholz 6" (448). Both names are now in use; the <ref target="https://maps.bev.gv.at">official map of the Austrian Federal Office of Metrology and Surveying</ref> uses "Hinterholz".
+                        In his <hi rend="italic"><rs type="lit_work" ref="#lit_work_id_39">W. H. Auden: A Biography</rs></hi>, <rs type="person" ref="#amp_person_100">Humphrey Carpenter</rs> records that the Hinterholz lane, where <rs type="person" ref="#amp_person_1">Auden</rs>'s <rs type="place" ref="#amp_place_id_2">house</rs> was located, was renamed "Audenstraße"; but that Auden continued to give his address as "Hinterholz 6" (448). The <ref target="https://maps.bev.gv.at">map of the Austrian Federal Office of Metrology and Surveying</ref> uses "Hinterholz" as the only official name.
                         <listBibl>
                            <bibl>
                               <author ref="acdh:amp-index-persons.xml#amp_person_100"/>
@@ -70,6 +70,27 @@
                      </desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
                      <certainty cert="low" locus="value"/>
+                  </interp>
+                  <interp source="ph_039" xml:id="ana_039"><!-- link -->
+                     <desc>
+                        <rs type="person" ref="#amp_person_1">W. H. Auden</rs>'s and <rs type="person" ref="#amp_person_72">Mary McCarthy</rs>'s participation in the <rs type="event" ref="#amp_event_id_31">1967 round-table discussion</rs> is documented by a <ref target="acdh:amp-transcript__0050.xml">photograph</ref> taken by <rs type="person" ref="#amp_person_152">Otto Breicha</rs>.
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="high" locus="value"/>
+                  </interp>
+                  <interp xml:id="ana_040" source="ph_040"><!-- link to nanopub -->
+                     <desc>
+                        The <rs type="person" ref="#amp_person_182">"square-headed commissar type from Moscow"</rs> (17) might be identified as the Ukrainian literary scholar <rs type="person" ref="#amp_person_245">Dmitry Zatonsky</rs>, who is listed as a participant in the <rs type="event" ref="#amp_event_id_31">1967 round-table discussion</rs> in the <ref target="https://www.ogl.at/programm/aktuelles-programm/archiv/1967/4/">online archive</ref> of the <rs type="org" ref="#amp_organization_9">Austrian Society for Literature</rs>.
+                        <listPerson>
+                           <person><persName ref="acdh:amp-index-persons.xml#amp_person_245"/></person>
+                        </listPerson>
+                        <bibl sameAs="https://www.ogl.at/programm/aktuelles-programm/archiv/1967/4/">
+                           <orgName ref="acdh:amp-index-organizations.xml#amp_organization_9"/>
+                           <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_1"/>
+                        </bibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="medium" locus="value"/>
                   </interp>
                </interpGrp>
             </edition>
@@ -1365,16 +1386,16 @@ for any purpose, even commercially.</p>
                   "<hi rend="underline"><rs type="person" ref="#amp_person_27">Eliot</rs></hi> never did that".
                </p>
                <p>
-                  <space quantity="5" unit="char"/><del>S</del>April 1967 brought a <rs type="event" ref="#amp_event_id_31">literary congress</rs> on avantgarde<lb/>
+                  <space quantity="5" unit="char"/><del>S</del>April 1967 brought a <rs type="event" ref="#amp_event_id_31" ana="#ana_039">literary congress</rs> on avantgarde<lb/>
                   literature to the <rs type="place" ref="#amp_place_id_85">Palais Palffy</rs> on the <rs type="place" ref="#amp_place_id_351">Josefsplatz</rs> in Vienna.<lb/>
                   <rs type="person" ref="#amp_person_1">Auden</rs> came, together with a rich, at moments over-rich collection<lb/>
-                  of <space quantity="1" unit="char"/>dons, writers and critics from eastern and western <rs type="place" ref="#amp_person_30">Europe</rs>.<lb/>
+                  of <space quantity="1" unit="char"/>dons, writers and critics from eastern and western <rs type="place" ref="#amp_place_id_30">Europe</rs>.<lb/>
                   A number of journalists and a few public figures were present<lb/>
                   b<del>a</del>y invitation, but no interv<del>n</del>ention from the floor was allowed<lb/>
                   and seldom desired by the listeners. <space quantity="1" unit="char"/><unclear>I</unclear>t was enough to hear<lb/>
                   <rs type="person" ref="#amp_person_73">Francis Bondy</rs> and <rs type="person" ref="#amp_person_72">Mary McCarthy</rs>, to enjoy the striking contrast<lb/>
                   between <rs type="person" ref="#amp_person_74">Yefrim Etkind</rs> of <rs type="place" ref="#amp_place_id_135">Leningrad</rs> <del>(now at the <rs type="org" ref="#amp_organization_36">University of Paris</rs>),</del><lb/>
-                  and <rs type="person" ref="#amp_person_182">the square-headed commissar type from <rs type="place" ref="#amp_place_id_138">Moscow</rs></rs>. <space quantity="1" unit="char"/>And if some<lb/>
+                  and <rs type="person" ref="#amp_person_182" ana="#ana_040">the square-headed commissar type from <rs type="place" ref="#amp_place_id_138">Moscow</rs></rs>. <space quantity="1" unit="char"/>And if some<lb/>
                   of the read contributions were dry, lifeless and badly delivered,<lb/>
                   we only had to wait for the knockout blow from <rs type="person" ref="#amp_person_75">Mar<del>f</del>cel Reich-Ranicki</rs>.<lb/>
                   On the whole it was this leading West German critic with his<lb/>
@@ -1382,7 +1403,7 @@ for any purpose, even commercially.</p>
                   who dominated the platform, but it was <rs type="person" ref="#amp_person_74">Etkind</rs> who with his quiet,<lb/>
                   reasonable argument and his good manners won the affection of<lb/>
                   everyone in the room. <space quantity="1" unit="char"/><del>SA</del> A face-the-public session in the<lb/>
-                  <rs type="place" ref="#amp_place_id_89">Redoutensaal</rs> on the other side of the Josefsplatz ended the<lb/>
+                  <rs type="place" ref="#amp_place_id_89">Redoutensaal</rs> on the other side of the <rs type="place" ref="#amp_place_id_351">Josefsplatz</rs> ended the<lb/>
                   congress. <space quantity="1" unit="char"/>I asked <rs type="person" ref="#amp_person_1">Auden</rs> whether there was <del><unclear>Q</unclear></del>anything I could do <del>for</del><lb/>
                   to help such as lending him my flat, and he promptly replied:<lb/>
                   "Yes, help me to look after <rs type="person" ref="#amp_person_91">Philip</rs> and <rs type="person" ref="#amp_person_72">Mary</rs>." <space quantity="1" unit="char"/>We agreed that<lb/>
@@ -1390,18 +1411,22 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0388/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0389/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="24" unit="char"/>18.
+               </ab>
+               <p prev="true">
+                  session.
                </p>
                <p>
-                  session.<lb/>
                   <space quantity="5" unit="char"/>Since I have no pretensions to being a literary hostess,<lb/>
                   I found the pro<del>p</del>spect alarming. <space quantity="1" unit="char"/>It was not that, as a journalist,<lb/>
                   famous men worried me in the least, but famous women are somehow<lb/>
                   a different matter and I was inclined to be overawed by <rs type="person" ref="#amp_person_72">Mary<lb/>
                   MacCarthy</rs>. <space quantity="1" unit="char"/>But <rs type="person" ref="#amp_person_4">Chester</rs> was reassuring. <space quantity="1" unit="char"/>"Don't you worry about<lb/>
                   <rs type="person" ref="#amp_person_72">Mary</rs>, she won't eat you. <space quantity="1" unit="char"/>In fact<del>thse</del> she'll be charming, she'll<lb/>
-                  merely put you in her next book."<lb/>
+                  merely put you in her next book."
+               </p>
+               <p>
                   <space quantity="6" unit="char"/>A hostess should be at home to welcome her guests, or at<lb/>
                   the very least, she should arrive with them. <space quantity="1" unit="char"/>I did neither.<lb/>
                   Having allowed myself to be pushed down to towards the front<lb/>
@@ -1411,7 +1436,7 @@ for any purpose, even commercially.</p>
                   whom I had invited as an eastern foil for the westerners<del>!</del> <space quantity="1" unit="char"/>He<lb/>
                   was run to ground in a back passage, surrounded by fans. <space quantity="1" unit="char"/>It was<lb/>
                   only with the help of the <rs type="org" ref="#amp_organization_52">Vienn<del>s</del>a<del>se</del> <del>F</del>fire <del>B</del>brigade</rs> who were clearing<lb/>
-                  the bui<del>o</del>lding that I was at last able to extract him from the<lb/>
+                  the <rs type="place" ref="#amp_place_id_89">bui<del>o</del>lding</rs> that I was at last able to extract him from the<lb/>
                   admiring group and take him out to my car. <space quantity="1" unit="char"/>Knowing that the<lb/>
                   rest of the party would be standing outside a locked door<del>k</del>, I<lb/>
                   drove fast. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_74">Etkind</rs> settled himself comfortably, stretched out<lb/>
@@ -1428,21 +1453,23 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_78">Hilde Spiel</rs> and a Danish journalist friend. <space quantity="1" unit="char"/>But over drink and<lb/>
                   food the party soon cheered up, and <rs type="person" ref="#amp_person_72">Mary</rs> sighed: <space quantity="1" unit="char"/>"What heaven<lb/>
                   it is to get away from that man <rs type="person" ref="#amp_person_75">Reich-Ranicki</rs>!" <space quantity="1" unit="char"/>There was a<lb/>
-                  chorus of assent.<lb/>
+                  chorus of assent.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>In August 1966 <rs type="lit_work" ref="#lit_work_id_5">The Bassarids</rs>§ had had its première at the<lb/>
                   <rs type="event" ref="#amp_event_id_56">Salzburg Festival</rs>. <space quantity="1" unit="char"/>Now, in the following year, <rs type="person" ref="#amp_person_1">Auden</rs> was invited
                </p>
-               <p>
+               <ab>
                   <rs type="lit_work" ref="#lit_work_id_5">The Bassarids, Opera Seria with Intermezzo in One Act bas<del>s</del>ed on<lb/>
                   <rs type="lit_work" ref="#lit_work_id_75">The Bacchae</rs> of <rs type="person" ref="#amp_person_203">Euripides</rs></rs> by <rs type="person" ref="#amp_person_1">W.H. Auden</rs> and <rs type="person" ref="#amp_person_4">Chester Kallman</rs>.<lb/>
                   Music by <rs type="person" ref="#amp_person_79">Hans Werner Henze</rs>.
-               </p>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0390/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0391/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="27" unit="char"/>19.
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   to deliver the <rs type="event" ref="#amp_event_id_32">opening address</rs> - a highly festive occasion, and<lb/>
                   his spee<del>d</del>ch would be widely reported. <space quantity="1" unit="char"/>By late April he had already<lb/>
                   made a draft, and he asked me for my comments. <space quantity="2" unit="char"/>He had, he said,<lb/>
@@ -1469,12 +1496,16 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>The <rs type="place" ref="#amp_place_id_28">New York</rs> postmark usually meant an announcement of<lb/>
                   domestic disaster and a request for help, and the winter of 1967<lb/>
                   brought serious disruption to the peaceful running of <rs type="place" ref="#amp_place_id_2">the house<lb/>
-                  at Kirchstetten</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs>'s <rs type="lit_work" ref="#lit_work_id_58">poem to <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></rs> begins in <rs type="letter" ref="#amp-transcript__0042.xml">German:</rs><lb/>
-                  <lg><l>Liebe <rs type="person" ref="#amp_person_16">Frau Emma</rs>,</l> / <l>na, was hast du denn gemacht?</l></lg><lb/>
+                  at Kirchstetten</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs>'s <rs type="lit_work" ref="#lit_work_id_107">poem to <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></rs> begins in German:<lb/>
+                  <seg xml:lang="de">
+                     <quote source="#lit_work_id_107">
+                        <l>Liebe <rs type="person" ref="#amp_person_16">Frau Emma</rs>,</l> / <l>na, was hast du denn gemacht?</l><lb/>
+                     </quote>
+                  </seg>
                   and it contains just about all there is to say about her, and her<lb/>
                   relationship with t<del>he two men</del> <rs type="person" ref="#amp_person_1">Auden</rs> and <rs type="person" ref="#amp_person_4">Kallman</rs>. <space quantity="1" unit="char"/><del><unclear>h</unclear></del>How, the poet<lb/>
                   <del>asks</del>exclaims,, could she go and die when they were both away - and what<lb/>
-                  about the cats - they had to be destroyed. <space quantity="1" unit="char"/>But when his letter<lb/>
+                  about the cats - they had to be destroyed. <space quantity="1" unit="char"/>But when <ref target="acdh:amp-transcript__0005.xml">his letter</ref><lb/>
                   to me arrived he didn't yet know that: <space quantity="1" unit="char"/>it contains an urgent<lb/>
                   plea to hurry over to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> and find out what on earth<lb/>
                   was happening to the animals. <space quantity="1" unit="char"/>He couldn't bear to think - it was<lb/>
