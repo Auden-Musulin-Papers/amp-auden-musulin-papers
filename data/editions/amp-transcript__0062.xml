@@ -1824,15 +1824,17 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0402/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0403/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="27" unit="char"/>25.
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   that to attempt to carry out any form of business in <rs type="place" ref="#amp_place_id_1">Vienna</rs><lb/>
-                  <del>during the twelve days of Christmas </del> <space quantity="1" unit="char"/>between the last days<lb/>
+                  <del>during the twelve days of Christmas </del><space quantity="2" unit="char"/>between the last days<lb/>
                   before Christmas and the Feast of the Epiphany on January 6th<lb/>
                   is a sheer wa<del>y</del>ste of time; <space quantity="1" unit="char"/>during the Twelve Days of Christmas<lb/>
-                  not even a partridge in a peartree move<del>w</del><del>s</del>s.<lb/>
+                  not even a partridge in a peartree move<del>w</del><del>s</del>s.
+               </p>
+               <p>
                   <space quantity="4" unit="char"/>When <rs type="person" ref="#amp_person_1">Auden</rs> and <rs type="person" ref="#amp_person_4">Kallman</rs> got back to <rs type="place" ref="#amp_place_id_10">Austria</rs> in <del>the</del> April<lb/>
                   <rs type="person" ref="#amp_person_4">Chester</rs> was still profoundly shaken up and I remember <rs type="person" ref="#amp_person_1">Auden</rs>'s<lb/>
                   anxiety, saying to me "I don't know how he's going to get<lb/>
@@ -1842,8 +1844,10 @@ for any purpose, even commercially.</p>
                   that they both led, but otherwise with little purpose left.<del>in</del><lb/>
                   And <rs type="person" ref="#amp_person_1">the far greater and much older poet</rs>, with his regular<lb/>
                   hours of work and his considerable <del>p</del>output. <space quantity="1" unit="char"/>The days of their<lb/>
-                  very fruitful collaboration on opera libretti were already<lb/>
-                  over; <space quantity="1" unit="char"/>what remained was the <rs type="org" ref="#amp_organization_49">Times</rs> crossword.<lb/>
+                  very fruitful collaboration on <rs type="lit_work" ref="#lit_work_id_16 #lit_work_id_17 #lit_work_id_18 #lit_work_id_20 #lit_work_id_148 #lit_work_id_149 #lit_work_id_150 #lit_work_id_151 #lit_work_id_152 #lit_work_id_180 #lit_work_id_181">opera libretti</rs> were already<lb/>
+                  over; <space quantity="1" unit="char"/>what remained was the <rs type="org" ref="#amp_organization_49">Times</rs> crossword.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>It was so easy, I think, to make fun of the slightly<lb/>
                   old-maidish w<del>q</del>ays of the house. <space quantity="1" unit="char"/>In all those amusing and<lb/>
                   <del>s</del><unclear>e</unclear>ssentially true <del>newspaper</del> articles in newspapers and glossy<lb/>
