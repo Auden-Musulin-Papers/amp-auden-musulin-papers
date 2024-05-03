@@ -92,6 +92,25 @@
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
                      <certainty cert="medium" locus="value"/>
                   </interp>
+                  <interp xml:id="ana_041" source="ph_041"><!-- link to nanopub -->
+                     <desc>
+                        Mandrake was the name of the <rs type="org" ref="#amp_organization_53">Telegraph</rs>'s diary column, maintained by a team of writers.
+                        <bibl source="http://news.bbc.co.uk/2/hi/uk_news/magazine/8296414.stm">
+                           <author>
+                              <persName>
+                                 <surname>Kent</surname>
+                                 <forename>Tamsyn</forename>
+                              </persName>
+                           </author>
+                           <title>The death of the newspaper diary? </title>
+                           <orgName>BBC</orgName>
+                           <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_56"/>
+                           <date when-iso="2009-10-08"/>
+                        </bibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="high" locus="value"/>
+                  </interp>
                </interpGrp>
             </edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
@@ -1545,48 +1564,66 @@ for any purpose, even commercially.</p>
                   is a curious effect in listening to music: <space quantity="1" unit="char"/>it is intolerable as<lb/>
                   the sounds lose their interrelation and form. <space quantity="1" unit="char"/>Basically, what you<lb/>
                   achieve is a mild degree of schizophrenia. <space quantity="1" unit="char"/>After the experiment<lb/>
-                  was over, he and the doctor went round to the local pub. <space quantity="1" unit="char"/>Suddenly,<lb/>
+                  was over, he and the <rs type="person" ref="#amp_person_197">doctor</rs> went round to the local pub. <space quantity="1" unit="char"/>Suddenly,<lb/>
                   through a window he <del>w</del>saw a postman waving at him, and though<del>,</del>t my<lb/>
                   God, this is it. <space quantity="1" unit="char"/>Later on, the postman said "I waved at you,<lb/>
                   why didn't you answer?" <space quantity="1" unit="char"/>An inter<del>c</del>view he gave to the <rs type="org" ref="#amp_organization_53">S<del>i</del>unday Telegraph</rs>,<lb/>
                   published on October 29, 1967, under the headl<unclear>in</unclear>e <rs type="lit_work" ref="#lit_work_id_133">"<unclear>O</unclear>n drugs and drivel"</rs> adds to what he said in the <rs type="place" ref="#amp_place_id_92">Opern-Café</rs>.<lb/>
                   Much of it is vintage <rs type="person" ref="#amp_person_1">Auden</rs>:<lb/>
-                  <space quantity="4" unit="char"/>"Mandrake met <rs type="person" ref="#amp_person_1">W.H. Auden</rs> la<del>x</del>st week to a background of, not<lb/>
-                  redbrick, but dazzling, chalkwhite college buildings, with<lb/>
-                  miniskirted freshers looking overwhelm<del>ing</del>ed at having <rs type="person" ref="#amp_person_1">Auden</rs> pacing<lb/>
-                  all their fresh-laid corridors in his carpet slipper<del>a</del>s and Sloppy Joe<lb/>
-                  T-shirt marked with the Hobbit motif of the <rs type="person" ref="#amp_person_41">Tolkien</rs> fan club.<lb/>
-                  'Now, I live a lot of the time in <rs type="place" ref="#amp_place_id_28">New York</rs>. <space quantity="1" unit="char"/>You can live really<lb/>
-                  quietly there, you know' says <rs type="person" ref="#amp_person_1">Auden</rs>, and anyway <rs type="place" ref="#amp_place_id_93">Britain</rs> he finds on<lb/>
-                  every trip getting increasingly Am<del>d</del>ericanised 'and vulgar and still<lb/>
-                  more vulgar. <space quantity="1" unit="char"/>It must be the first time in history that culture has<lb/>
-                  spread from the bottom up . <space quantity="1" unit="char"/>The Establishment latches on last of all
+                  <seg>
+                     <quote source="#lit_work_id_133">
+                        <seg>
+                           <space quantity="4" unit="char"/>"<rs type="note" ana="#ana_041">Mandrake</rs> met <rs type="person" ref="#amp_person_1">W.H. Auden</rs> la<del>x</del>st week to a background of, not<lb/>
+                           redbrick, but dazzling, chalkwhite college buildings, with<lb/>
+                           miniskirted freshers looking overwhelm<del>ing</del>ed at having <rs type="person" ref="#amp_person_1">Auden</rs> pacing<lb/>
+                           all their fresh-laid corridors in his carpet slipper<del>a</del>s and Sloppy Joe<lb/>
+                           T-shirt marked with the Hobbit motif of the <rs type="person" ref="#amp_person_41">Tolkien</rs> fan club.<lb/>
+                           'Now, I live a lot of the time in <rs type="place" ref="#amp_place_id_28">New York</rs>. <space quantity="1" unit="char"/>You can live really<lb/>
+                           quietly there, you know' says <rs type="person" ref="#amp_person_1">Auden</rs>, and anyway <rs type="place" ref="#amp_place_id_93">Britain</rs> he finds on<lb/>
+                           every trip getting increasingly Am<del>d</del>ericanised 'and vulgar and still<lb/>
+                           more vulgar. <space quantity="1" unit="char"/>It must be the first time in history that culture has<lb/>
+                           spread from the bottom up . <space quantity="1" unit="char"/>The Establishment latches on last of all
+                        </seg>
+                     </quote>
+                  </seg>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0394/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0395/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="28" unit="char"/>21
+               </ab>
+               <p prev="true">
+                  <seg>
+                     <quote source="#lit_work_id_133">
+                        <seg prev="true">
+                           to what the mass does first. <space quantity="1" unit="char"/>And <rs type="place" ref="#amp_place_id_56">London</rs> is so provincial. <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_84">Pa<del>f</del>ris</rs><lb/>
+                           is provincial. <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_17">Berlin</rs> is provincial. <space quantity="1" unit="char"/>But <rs type="place" ref="#amp_place_id_28">New York</rs> - it's dirty<lb/>
+                           and a damned dangerous place to live in sometimes, but at least it<lb/>
+                           isn't provincial.'... <space quantity="2" unit="char"/>About drug-taking activities in some<lb/>
+                           British universities, <rs type="person" ref="#amp_person_1">Auden</rs> says firmly he is an anti<del>.</del>-drug man,<lb/>
+                           'although I <hi rend="underline">have</hi> taken them myself by way of experiment. <space quantity="1" unit="char"/>By<lb/>
+                           saying that, I don't want <rs type="person" ref="#amp_person_80">Mr. <del>A</del>Quintin Hogg</rs> down on my neck for<lb/>
+                           corrupting the young or anything ... so what I want to make<lb/>
+                           absolutely clear are the three points which should help put young<lb/>
+                           people right off the idea of taking drugs at all.<lb/>
+                        </seg>
+                        <seg>
+                           <space quantity="4" unit="char"/>'First, LSD <space quantity="1" unit="char"/>is a dangerous thing - it should be taken only<lb/>
+                           under medical supervision, with somebody there, because you may<lb/>
+                           get the willies and end up in a loony bin. <space quantity="1" unit="char"/>Second, if people<lb/>
+                           think they're going to get any <del>dru</del> fulfilment in Art through<lb/>
+                           taking drugs then they're in for a hell of a disappointment.<lb/>
+                           Because on tape recordings of people under LSD it's been shown<lb/>
+                           they speak absolute drivel.<lb/>
+                        </seg>
+                        <seg>
+                           <space quantity="5" unit="char"/>'Thirdly, and lastly, taking drugs as a short cut to God<lb/>
+                           is absolute drivel as well.' "
+                        </seg>
+                     </quote>
+                  </seg>
                </p>
                <p>
-                  to what the mass does first. <space quantity="1" unit="char"/>And <rs type="place" ref="#amp_place_id_56">London</rs> is so provincial. <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_84">Pa<del>f</del>ris</rs><lb/>
-                  is provincial. <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_17">Berlin</rs> is provincial. <space quantity="1" unit="char"/>But <rs type="place" ref="#amp_place_id_28">New York</rs> - it's dirty<lb/>
-                  and a damned dangerous place to live in sometimes, but at least it<lb/>
-                  isn't provincial.'... <space quantity="2" unit="char"/>About drug-taking activities in some<lb/>
-                  British universities, <rs type="person" ref="#amp_person_1">Auden</rs> says firmly he is an anti<del>.</del>-drug man,<lb/>
-                  'although I <hi rend="underline">have</hi> taken them myself by way of experiment. <space quantity="1" unit="char"/>By<lb/>
-                  saying that, I don't want <rs type="person" ref="#amp_person_80">Mr. <del>A</del>Quintin Hogg</rs> down on my neck for<lb/>
-                  corrupting the young or anything ... so what I want to make<lb/>
-                  absolutely clear are the three points which should help put young<lb/>
-                  people right off the idea of taking drugs at all.<lb/>
-                  <space quantity="4" unit="char"/>'First, LSD <space quantity="1" unit="char"/>is a dangerous thing - it should be taken only<lb/>
-                  under medical supervision, with somebody there, because you may<lb/>
-                  get the willies and end up in a loony bin. <space quantity="1" unit="char"/>Second, if people<lb/>
-                  think they're going to get any <del>dru</del> fulfilment in Art through<lb/>
-                  taking drugs then they're in for a hell of a disappointment.<lb/>
-                  Because on tape recordings of people under LSD it's been shown<lb/>
-                  they speak absolute drivel.<lb/>
-                  <space quantity="5" unit="char"/>'Thirdly, and lastly, taking drugs as a short cut to God<lb/>
-                  is absolute drivel as well.' "<lb/>
                   <space quantity="5" unit="char"/>It is true,<del> incidentally,</del> that the progressive "vulgarisation"<lb/>
                   of <rs type="place" ref="#amp_place_id_56">London</rs> struck him like a bl<del><gap reason="deleted"/></del>ow in the face every time he went<lb/>
                   there. <space quantity="1" unit="char"/>He seldom failed to mention the subje<del>f</del>ct when he <del>had</del><lb/>
@@ -1594,9 +1631,9 @@ for any purpose, even commercially.</p>
                   advertisements on the <rs type="org" ref="#amp_organization_54">London Underground</rs>, which he said beat anything<lb/>
                   to be found any<del>t</del>where.
                </p>
-               <p hand="#handwritten">
+               <ab hand="#handwritten">
                   + + +
-               </p>
+               </ab>
                <p>
                   <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> liked to be amused. <space quantity="1" unit="char"/>As I mentioned earlier, he was<lb/>
                   interested, as a human phenomenon, in <rs type="person" ref="#amp_person_93">my mother-in-law</rs> who<lb/>
@@ -1616,18 +1653,18 @@ for any purpose, even commercially.</p>
                   blind corner, <del>wo</del>one is about to turn on to a main arterial road<lb/>
                   down which the traffic thunders. <space quantity="1" unit="char"/>The law and common sense<lb/>
                   require one to stop dead, look both ways, and only then to<lb/>
-                  swing across into a gap in the stream of traffic. <space quantity="1" unit="char"/>The driver
+                  swing across into a gap in the stream of traffic. <space quantity="1" unit="char"/>The <rs type="person" ref="#amp_person_172">driver</rs>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0396/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0397/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="23" unit="char"/><del>18</del>22
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   did precisely this, whereupon <rs type="person" ref="#amp_person_93">my mother-in-law</rs> f<del>q</del>avoured<lb/>
                   him with a withering glance and said, unforgivably: <space quantity="1" unit="char"/>'COWARD!'<lb/>
                   This was <rs type="person" ref="#amp_person_1">Auden</rs>'s favourite story. <space quantity="1" unit="char"/>She caught him once when<lb/>
-                  he had nipped round to the garage in <rs type="place" ref="#amp_place_id_7">Fridau</rs> to a look at the<lb/>
+                  he had nipped round to the garage in <rs type="place" ref="#amp_place_id_7">Fridau</rs> to have a look at the<lb/>
                   state of her Volkswagen after one of the usual smashes. <space quantity="1" unit="char"/>It<lb/>
                   may have been the time she left the road and charged through<lb/>
                   one of those telegraph poles with two legs in the shape of<lb/>
@@ -1645,63 +1682,91 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>The reason why <rs type="person" ref="#amp_person_1">Auden</rs> himself failed one day to take a<lb/>
                   corner in <rs type="place" ref="#amp_place_id_5">Kirchstetten village</rs> and <rs type="event" ref="#amp_event_id_34">crashed</rs> I never had the<lb/>
                   courage to ask. <space quantity="3" unit="char"/>It happened on the first day of his<lb/>
-                  arrival <del>o</del><unclear>i</unclear>n about Ap<unclear>r</unclear>il9 <del>in</del> 1968 . <space quantity="1" unit="char"/>A message reache<del>e</del>d me in <rs type="place" ref="#amp_place_id_1">Vienna</rs>:<lb/>
+                  arrival <del>o</del><unclear>i</unclear>n about Ap<unclear>r</unclear>il<unclear>9</unclear> <del>in</del> 1968 . <space quantity="1" unit="char"/>A message reache<del>e</del>d me in <rs type="place" ref="#amp_place_id_1">Vienna</rs>:<lb/>
                   he had had an <del>c</del>accident, was in <rs type="org" ref="#amp_organization_42">St. Pölten hospital</rs> and could I<lb/>
                   come at my convenience? <space quantity="1" unit="char"/>As my informant thought that <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
                   was about to be sent <rs type="place" ref="#amp_place_id_2">home</rs> it seemed advisable to telephone<lb/>
                   the <rs type="org" ref="#amp_organization_42">hospital</rs> and find out where he would be by the afternoon.<lb/>
                   The following conversation ensued:<lb/>
-                  <space quantity="4" unit="char"/>"May I ask whether <rs type="person" ref="#amp_person_1">Professor Auden</rs> is still in <rs type="org" ref="#amp_organization_42">hospital</rs> ,<lb/>
-                  presumably in the <del>accident</del> casualty department, or whether he<lb/>
-                  has been sent <rs type="place" ref="#amp_place_id_2">home</rs>?"<lb/>
-                  <space quantity="6" unit="char"/>"Professor who?"<lb/>
-                  <space quantity="6" unit="char"/>"<rs type="person" ref="#amp_person_1">Auden</rs>. <space quantity="1" unit="char"/>A - U - D - E - N, Anna Union Dora Emil Nordpol."<lb/>
-                  <space quantity="6" unit="char"/>"The name is not familiar. <space quantity="1" unit="char"/>I will check the records."<lb/>
-                  Pause. <space quantity="1" unit="char"/>"No, we have no one of that name <rs type="org" ref="#amp_organization_42">here</rs>."<lb/>
-                  <space quantity="6" unit="char"/>"But I am informed that <rs type="person" ref="#amp_person_1">Professor Auden</rs> was admitted.<lb/>
-                  By the way he is an American citizen."<lb/>
-                  <space quantity="6" unit="char"/>"Ah" (confidently) "then I can say quite definitely<lb/>
-                  that he has not been admitted here."<lb/>
+                  <seg>
+                     <space quantity="4" unit="char"/>"May I ask whether <rs type="person" ref="#amp_person_1">Professor Auden</rs> is still in <rs type="org" ref="#amp_organization_42">hospital</rs> ,<lb/>
+                     presumably in the <del>accident</del> casualty department, or whether he<lb/>
+                     has been sent <rs type="place" ref="#amp_place_id_2">home</rs>?"<lb/>
+                  </seg>
+                  <seg>
+                     <space quantity="6" unit="char"/>"Professor who?"<lb/>
+                  </seg>
+                  <seg>
+                     <space quantity="6" unit="char"/>"<rs type="person" ref="#amp_person_1">Auden</rs>. <space quantity="1" unit="char"/>A - U - D - E - N, Anna Union Dora Emil Nordpol."<lb/>
+                  </seg>
+                  <seg>
+                     <space quantity="6" unit="char"/>"The name is not familiar. <space quantity="1" unit="char"/>I will check the records."<lb/>
+                     Pause. <space quantity="1" unit="char"/>"No, we have no one of that name <rs type="org" ref="#amp_organization_42">here</rs>."<lb/>
+                  </seg>
+                  <seg>
+                     <space quantity="6" unit="char"/>"But I am informed that <rs type="person" ref="#amp_person_1">Professor Auden</rs> was admitted.<lb/>
+                     By the way he is an American citizen."<lb/>
+                  </seg>
+                  <seg>
+                     <space quantity="6" unit="char"/>"Ah" (confidently) "then I can say quite definitely<lb/>
+                     that he has not been admitted here."<lb/>
+                  </seg>
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>So I drove out to <rs type="place" ref="#amp_place_id_5">Kirchstett<del>n</del>en</rs>. <space quantity="1" unit="char"/>And there was <rs type="person" ref="#amp_person_1">Auden</rs>,<lb/>
                   a bundle of misery, sitting at the big table all by himself,
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0398/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0399/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="26" unit="char"/><del>19.</del>23
-               </p>
+               </ab>
                <p>
                   his right arm and shoulder in plaster. <space quantity="2" unit="char"/>He was a little<lb/>
-                  offhand about the accident, but his memories of the <rs type="org" ref="#amp_organization_42">hospital</rs><lb/>
+                  offhand about the <rs type="event" ref="#amp_event_id_34">accident</rs>, but his memories of the <rs type="org" ref="#amp_organization_42">hospital</rs><lb/>
                   which he had just left by taxi were unimpaired. <space quantity="1" unit="char"/>They hadn't<lb/>
                   exact<del>"</del>ly put out the red carpet. <space quantity="1" unit="char"/>For a long time, the first and<lb/>
                   only attention he had received was from a man who wanted <del>to </del><lb/>
                   name and address and all relevant details and, a<del>n</del>bove all, "how<lb/>
-                  I proposed to pay for the t<del>5</del>reatment."<lb/>
+                  I proposed to pay for the t<del>5</del>reatment."
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>Soon I was asking what I could do for him and in what order.<lb/>
-                  What was the most urgent thing?<lb/>
+                  What was the most urgent thing?
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>"I'm almost out of gin". <space quantity="1" unit="char"/>Perhaps I would be kind enough<lb/>
                   to ring up <rs type="org" ref="#amp_organization_38">Wild</rs>, the grocers on the <rs type="place" ref="#amp_place_id_95">Neuer Markt in Vienna</rs>, and<lb/>
                   ask them to send some down. <space quantity="2" unit="char"/>But why, I asked, couldn't I<lb/>
                   drive to <rs type="place" ref="#amp_place_id_79">Böheimkirchen</rs> right away and fetch some? <space quantity="1" unit="char"/>They'd have<lb/>
-                  the usual brands. <space quantity="1" unit="char"/>No, call up <rs type="org" ref="#amp_organization_38">Wild</rs>.<lb/>
+                  the usual brands. <space quantity="1" unit="char"/>No, call up <rs type="org" ref="#amp_organization_38">Wild</rs>.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>Back in the <rs type="place" ref="#amp_place_id_11">Neulinggasse</rs> I rang up that high quality<lb/>
                   emporium and gave the order. <space quantity="1" unit="char"/>"Are you" it seemed sensible to<lb/>
-                  ask, "delivering in that district during the next few days?"<lb/>
-                  <space quantity="5" unit="char"/>"We <del>prac</del> virtually <hi rend="underline">never</hi> deliver to the country, <rs type="person" ref="#amp_person_2">Madam</rs>,<lb/>
-                  but we always make a special trip for the <rs type="person" ref="#amp_person_1">Herr Professor</rs>."<lb/>
-                  <space quantity="5" unit="char"/><del>"That must make the gin, which is quite </del> After a shocked<lb/>
+                  ask, "delivering in that district during the next few days?"
+               </p>
+               <p>
+                  <space quantity="5" unit="char"/>"We <del>prac</del> virtually <hi rend="underline">never</hi> deliver to the country, Madam,<lb/>
+                  but we always make a special trip for the <rs type="person" ref="#amp_person_1">Herr Professor</rs>."
+               </p>
+               <p>
+                  <space quantity="5" unit="char"/><del>"That must make the gin, which is quite </del><space quantity="1" unit="char"/>After a shocked<lb/>
                   silence I said: <space quantity="1" unit="char"/>"It's no business of mine, but that's a pretty<lb/>
                   pricey way of buying the same make of gin as he could get at<lb/>
-                  the local grocer's."<lb/>
-                  <space quantity="5" unit="char"/>"Quite right, <rs type="person" ref="#amp_person_2">Madam</rs>, "said the cheerful voice. <space quantity="1" unit="char"/>"But that<lb/>
-                  has been the <rs type="person" ref="#amp_person_1">Herr Professor</rs> 'susual practice for some years.<del>"</del><lb/>
-                  Who am I to criticise?"<lb/>
+                  the local grocer's."
+               </p>
+               <p>
+                  <space quantity="5" unit="char"/>"Quite right, Madam, "said the cheerful voice. <space quantity="1" unit="char"/>"But that<lb/>
+                  has been the <rs type="person" ref="#amp_person_1">Herr Professor</rs>'s usual practice for some years.<del>"</del><lb/>
+                  Who am I to criticise?"
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>A carefully worded letter to <rs type="org" ref="#amp_organization_42">the hospital</rs> was indicated.<lb/>
                   <del>After <del>a</del>A</del>After a brief summary of events came a few lines of comment:<lb/>
                   It was not of significance,, I s<del>q</del>aid heavily, that <rs type="person" ref="#amp_person_1">Professor Auden</rs> was a poet<lb/>
                   and author of international reputation who had been honoured by<lb/>
-                  the Austrian state. <space quantity="1" unit="char"/><del>To a hospital, a casualty was a casualty. </del><lb/>
+                  the Austrian state. <space quantity="1" unit="char"/><del>To a hospital, a casualty was a casualty.<space quantity="1" unit="char"/></del><lb/>
                   A hospital was not a respecter of persons, and a casualty was a<lb/>
                   casualty. <space quantity="1" unit="char"/>But to disclaim all knowledge of a patient who was<lb/>
                   occupying a bed in the hospital would certainly create confusion<lb/>
@@ -1711,10 +1776,10 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0400/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0401/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="20" unit="char"/>2<del>O</del>4.
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   about Austrian politics or anything else that came to mind<lb/>
                   to <del>h</del>cheer him over the interval until <rs type="person" ref="#amp_person_4">Chester</rs> arrived<del>.</del>from<lb/>
                   <rs type="place" ref="#amp_place_id_13">Athens</rs>. <space quantity="1" unit="char"/>He had been back to <rs type="org" ref="#amp_organization_42">the hospital</rs> for a check-up on<lb/>
@@ -1730,23 +1795,23 @@ for any purpose, even commercially.</p>
                   the car - just <del><unclear>c</unclear></del>b<del>ene</del> below the windscreen, in line with the<lb/>
                   driver's seat. <space quantity="1" unit="char"/>Having had a little experience of some of<lb/>
                   <rs type="person" ref="#amp_person_4">Chester</rs>'s friends in <rs type="place" ref="#amp_place_id_1">Vienna</rs> I wasn't altogether surprised, <space quantity="1" unit="char"/><del>In<lb/>
-                     the end, that car became a total wreck, and the circumstances<lb/>
-                     are the subject of various letters before and after</del> C<lb/>
+                  the end, that car became a total wreck, and the circumstances<lb/>
+                  are the subject of various letters before and after</del> C<lb/>
                   but it later transpired that I was wrong. <space quantity="1" unit="char"/>Naturally, no one had<lb/>
                   told me of the existence of <rs type="person" ref="#amp_person_1">Auden</rs>'s callboy <rs type="person" ref="#amp_person_107">Hugie</rs>, and it was<lb/>
                   he who, having been lent the car, was involved in events which<lb/>
                   led to his <rs type="event" ref="#amp_event_id_36">arrest and imprisonment</rs>. <space quantity="1" unit="char"/>In the end, the car became a<lb/>
                   total wreck, and the circumstances are the subject of various<lb/>
-                  increasingly frantic letters from <rs type="person" ref="#amp_person_1">Auden</rs> before and after<lb/>
+                  increasingly frantic <ref target="acdh:amp-transcript__0011.xml acdh:amp-transcript__0012.xml acdh:amp-transcript__0013.xml">letters</ref> from <rs type="person" ref="#amp_person_1">Auden</rs> before and after<lb/>
                   Christmas 1968. <space quantity="1" unit="char"/>In December, <rs type="person" ref="#amp_person_4">Chester</rs>'s Greek friend <rs type="person" ref="#amp_person_23">Jean Boras</rs><lb/>
                   who often stayed with the <rs type="person" ref="#amp_person_4 #amp_person_1">two men</rs> in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, was in <rs type="place" ref="#amp_place_id_1">Vienna</rs><lb/>
                   and using the car. <space quantity="1" unit="char"/>One day, on the road between <rs type="place" ref="#amp_place_id_1">Vienna</rs> and<lb/>
                   <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> he collided with a lorry head on and was <rs type="event" ref="#amp_event_id_2">killed</rs><lb/>
                   instantly. <space quantity="2" unit="char"/><del>As</del> I was away at the time and o<del>my</del>nly got back to the<lb/>
-                  <rs type="place" ref="#amp_place_id_11">Neulinggasse</rs> shor<del>5</del>tly before Christmas, to find a <rs type="letter" ref="#amp_amp-transcript__0011.xml">letter</rs> from <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
+                  <rs type="place" ref="#amp_place_id_11">Neulinggasse</rs> shor<del>5</del>tly before Christmas, to find a <ref target="acdh:amp-transcript__0011.xml">letter</ref> from <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
                   telling me what had happened. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs> had been so prostrated with<lb/>
-                  grie<del>d</del>f that he, <rs type="person" ref="#amp_person_1">Auden</rs>, had hardly been able to understand him on<lb/>
-                  the telephone <del>line</del> line from <rs type="place" ref="#amp_place_id_13">Athens</rs>, but he believed that he must be in<lb/>
+                  grie<del>d</del>f that he, <rs type="person" ref="#amp_person_1">Auden</rs>, had hardly been able to understand him <rs type="event" ref="#amp_event_id_92">on<lb/>
+                  the telephone <del>line</del> line from <rs type="place" ref="#amp_place_id_13">Athens</rs></rs>, but he believed that he must be in<lb/>
                   <rs type="place" ref="#amp_place_id_1">Vienna</rs>. <space quantity="1" unit="char"/>Would I look for him and see what I could do? <space quantity="2" unit="char"/>The<lb/>
                   thought of <rs type="person" ref="#amp_person_4">Chester</rs>'s f<del>rame</del>state of mind, alone in <rs type="place" ref="#amp_place_id_1">Vienna</rs> <del>at Chr</del> over<lb/>
                   Christmas, was blood-chilling, and my imagination ran away with me.<lb/>
@@ -1754,8 +1819,8 @@ for any purpose, even commercially.</p>
                   at all, and it finally turned out that he had never left <rs type="place" ref="#amp_place_id_13">Athens</rs>.<lb/>
                   Letters flew to and fro on the subjects of: <space quantity="1" unit="char"/>release of corpse,<lb/>
                   release of wrecked car and/or papers, with <rs type="person" ref="#amp_person_1">Auden</rs> becoming<lb/>
-                  increasi<del>g</del>ngly impatient ("I am in despair") over the inaction both<lb/>
-                  of officialdom and of <rs type="person" ref="#amp_person_">his lawyers</rs>. <space quantity="1" unit="char"/>He was learning the hard way
+                  increasi<del>g</del>ngly impatient (<quote source="acdh:amp-transcript__0012.xml">"I am in despair"</quote>) over the inaction both<lb/>
+                  of officialdom and of <rs type="person" ref="#amp_person_14 #amp_person_235" ana="acdh:amp-transcript__0012.xml#ana_013">his lawyers</rs>. <space quantity="1" unit="char"/>He was learning the hard way
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0402/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0403/" type="sheet"/>
