@@ -1862,22 +1862,22 @@ for any purpose, even commercially.</p>
                   including the journalist with his sharp eye. <space quantity="1" unit="char"/>So that these<lb/>
                   sometimes rather rib-nudging descriptions of this unconventional<lb/>
                   household leave it altogether to us to remember that in the<lb/>
-                  last dozen years of his life, <rs type="person" ref="#amp_person_1">Auden</rs> was writing several volumes<lb/>
-                  of poetry, opera libretti, translating the <rs type="lit_work" ref="#lit_work_id_27">Elder Ed<del>e</del>da</rs>, the<lb/>
-                  <rs type="lit_work" ref="#lit_work_id_70">"Italian Journey "</rs>, <rs type="person" ref="#amp_person_131">Dag Hammarskjöld</rs>'s <rs type="lit_work" ref="#lit_work_id_30">"Markings"</rs> and <rs type="lit_work" ref="#lit_work_id_2 #lit_work_id_137 #lit_work_id_135 #lit_work_id_136 #lit_work_id_137 #lit_work_id_138">other<lb/>
-                  works</rs>, editing <rs type="lit_work" ref="#lit_work_id_31">"The Dyer's Hand"</rs>, the <rs type="lit_work" ref="#lit_work_id_32">"Faber Book of Aphorisms"</rs>,<lb/>
+                  last dozen years of his life, <rs type="person" ref="#amp_person_1">Auden</rs> was writing several <rs type="lit_work" ref="#lit_work_id_2 #lit_work_id_134 #lit_work_id_137 #lit_work_id_194 #lit_work_id_138 #lit_work_id_195 #lit_work_id_135 #lit_work_id_136 #lit_work_id_196 #lit_work_id_197">volumes<lb/>
+                  of poetry</rs>, opera libretti, translating the <rs type="lit_work" ref="#lit_work_id_27">Elder Ed<del>e</del>da</rs>, the<lb/>
+                  <rs type="lit_work" ref="#lit_work_id_70">"Italian Journey "</rs>, <rs type="person" ref="#amp_person_131">Dag Hammarskjöld</rs>'s <rs type="lit_work" ref="#lit_work_id_30">"Markings"</rs> and other<lb/>
+                  works, editing <rs type="lit_work" ref="#lit_work_id_31">"The Dyer's Hand"</rs>, the <rs type="lit_work" ref="#lit_work_id_32">"Faber Book of Aphorisms"</rs>,<lb/>
                   his <rs type="lit_work" ref="#lit_work_id_33">Commonplace Book</rs>, <rs type="lit_work" ref="#lit_work_id_53">"Forewords and Afterwords"</rs>, and that<lb/>
-                  heavenly compilation the "<rs type="lit_work" ref="#lit_work_id_34">Nineteenth Century Book of Minor Poets"</rs>.<lb/>
+                  heavenly compilation the <rs type="lit_work" ref="#lit_work_id_34">"Nineteenth Century Book of Minor Poets"</rs>.<lb/>
                   He was reading over an enormous field, writing and delivering<lb/>
                   le<del>x</del>ctures, writing articles and book reviews - sometimes they<lb/>
                   were demanding publications such as <rs type="person" ref="#amp_person_106">Emily Anderson</rs>'s 3 volume
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0404/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0405/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="26" unit="char"/>26
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   <rs type="lit_work" ref="#lit_work_id_77">"Letters of Beethoven"</rs> - <del>s</del>which he gave me, the blank pages are<lb/>
                   filled with his notes - and even a new <rs type="lit_work" ref="#lit_work_id_">12 volume annotated<lb/>
                   translation of the Bible</rs>. <space quantity="1" unit="char"/>In any case, the sacred beast in his<lb/>
@@ -1886,13 +1886,13 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="5" unit="char"/>On 19th May 1970 I was mildly horrified (I write in German<lb/>
-                  but do not translate into it) to get a tel<del>g</del>egram asking "If I<lb/>
+                  but do not translate into it) to <rs type="event" ref="#amp_event_id_110">get a tel<del>g</del>egram</rs> asking "If I<lb/>
                   sent half hour speech in a few days could you translate soon<lb/>
                   into German - Love <rs type="person" ref="#amp_person_1">Wystan</rs>." <space quantity="1" unit="char"/>On the principle: <space quantity="1" unit="char"/>say yes now,<lb/>
-                  worry afterwards, I agreed. <space quantity="1" unit="char"/>He was to deliver <rs type="lit_work" ref="#lit_work_id_85">the speech</rs> a couple<lb/>
-                  of weeks later <rs type="event" ref="#amp_event_id_37">in <del>a</del>the small country <del>r</del>town of <rs type="place" ref="#amp_place_id_10">Neulengbach</rs></rs> in the<lb/>
-                  presence of the <rs type="person" ref="#amp_person_112">governor of Lower Austria</rs>. <space quantity="1" unit="char"/>After making a draft,<lb/>
-                  I sent both texts to <rs type="person" ref="#amp_person_167">my husband</rs> so that he could <rs type="lit_work" ref="#lit_work_id_139">polish</rs> up my<lb/>
+                  worry afterwards, I agreed. <space quantity="1" unit="char"/>He was to <rs type="event" ref="#amp_event_id_37">deliver the <rs type="lit_work" ref="#lit_work_id_85">speech</rs> a couple<lb/>
+                  of weeks later in <del>a</del>the small country <del>r</del>town of <rs type="place" ref="#amp_place_id_10">Neulengbach</rs> in the<lb/>
+                  presence of the <rs type="person" ref="#amp_person_112">governor of Lower Austria</rs></rs>. <space quantity="1" unit="char"/>After making a draft,<lb/>
+                  I sent both texts to <rs type="person" ref="#amp_person_167">my husband</rs> so that he could <ref target="acdh:amp-transcript__0070.xml"><rs type="lit_work" ref="#lit_work_id_139">polish</rs></ref> up my<lb/>
                   version. <space quantity="1" unit="char"/><del>This</del> It had not been easy.
                </p>
                <p>
