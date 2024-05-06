@@ -221,30 +221,40 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0100/" type="sheet" ed="1v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0145/" type="sheet" ed="2r"/>
                <div type="speech">
-               <p hand="#handwritten">
+               <ab hand="#handwritten">
                   (<unclear>1</unclear>
+               </ab>
+               <p xml:lang="de">
+                  <space quantity="17" unit="char"/>Sehr vee<del>rh</del>hrter <rs type="person" ref="#amp_person_112">Herr Landeshauptman<unclear>n</unclear></rs><unclear>,</unclear> meine Damen und Herren:
                </p>
                <p>
-                  <space quantity="17" unit="char"/><foreign xml:lang="de">Sehr vee<del>rh</del>hrter <rs type="person" ref="#amp_person_112">Herr Landeshauptman<unclear>n</unclear></rs><unclear>,</unclear> meine Damen und Herren</foreign>:<lb/>
                   <space quantity="10" unit="char"/>I hope you will pardon me if I speak somewhat personally. I do so,<lb/>
                   not out of vanity,but bec<del>ua</del>ause <space quantity="1" unit="char"/>I do <del>j</del>not wish to give the impression that I<lb/>
                   am attempting to lay down absolute laws which are valid for all. I give you my<lb/>
                   experience<unclear>s</unclear> as a poet,in the hope that you will be able to compare the<del>,</del>m with<lb/>
-                  yours<del><unclear>own</unclear></del>,and form your own judgment about them.<lb/>
+                  yours<del><unclear>own</unclear></del>,and form your own judgment about them.
+               </p>
+               <p>
                   <space quantity="3" unit="char"/>Most of what I <del><unclear>o</unclear></del>know about the writing of poetry,or at least about the kind I<lb/>
                   am interested in writing,I discovered long before I took any interest in poetry<lb/>
-                  itself.<lb/>
+                  itself.
+               </p>
+               <p>
                   <space quantity="2" unit="char"/>Between the ages of six and twelve,I spent a great many of my waking hours in<lb/>
                   the fab<del>o</del>rication of a private secondary sacred world,the basic elements of which<lb/>
                   were <del><del><unclear>at</unclear></del><unclear>O</unclear></del> a) a limestone landscape mainly derived from the <rs type="place" ref="#amp_place_id_41">Pennine Moors in the<lb/>
-                  North of England</rs> and b) an industry - lead-mining.<lb/>
+                  North of England</rs> and b) an industry - lead-mining.
+               </p>
+               <p>
                   <space quantity="3" unit="char"/>It is no doubt psychologically significant that my sacred world was autistic -<lb/>
                   that is to say,I had no wish to share it with others no<del>t</del>r could I have done so.<lb/>
                   However,though constructed for and inhabited by myself alone,I needed the help of<lb/>
                   others,<rs type="person" ref="#amp_person_183 #amp_person_184">my parents</rs> in particular,in collecting its basic materials; others had to<lb/>
                   procure for me the necessary text-books on geology and machinery,maps,catalog<del>i</del>ues,<lb/>
                   guide-books and photographs,and,when occasion offered<del>,to</del> ta<del>l</del>ke me down real mines,<lb/>
-                  tasks which they performed with unfailing patience and generosity.<lb/>
+                  tasks which they performed with unfailing patience and generosity.
+               </p>
+               <p>
                   <space quantity="4" unit="char"/>From this activity,I learned certain principles which I was later to find applied<lb/>
                   to all artistic fabrication. First,whatever other elements it may include,the<lb/>
                   initial impulse to create a secondary world is a feeling of awe aroused by<lb/>
@@ -255,7 +265,9 @@ for any purpose, even commercially.</p>
                   the Primary World. Even the 'purest' poem,in the French <foreign xml:lang="fr">Symboliste</foreign> sense,is<lb/>
                   made of words which are not the poet's private property,but the communal creation<lb/>
                   of the linguistic group to whom he belongs,so that their meaning can be looked up<lb/>
-                  in a dictionary.<lb/>
+                  in a dictionary.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>Secondly,in constructing my private world,I discovere<del>s</del>d that,though this was<lb/>
                   a game,or rather precisely <hi rend="underline">because it was a game</hi> - that is to say,not a necessity<lb/>
                   like eating or sleeping,but something I was free to do or not as I chose - it<lb/>
@@ -264,13 +276,15 @@ for any purpose, even commercially.</p>
                   or a game of football or bridge,must be as much a world of law as the Primary,the<lb/>
                   only difference being that in the world of games one is free to decide what its<lb/>
                   laws shall be. But to all games as to real life,<rs type="person" ref="#amp_person_11">Goethe</rs>'s lines apply.
+                  <seg>
+                     <quote source="#lit_work_id_170">
+                        <lg xml:lang="de">
+                           <lb/><space quantity="14" unit="char"/><l><hi rend="underline">In der Beschr<unclear>ä</unclear>nkung zeigt sich erst der Meister</hi>,</l>
+                           <lb/><space quantity="14" unit="char"/><l><hi rend="underline">Und d<del>s</del>as Gesetz nur kann uns Freiheit geben.</hi></l>
+                        </lg>
+                     </quote>
+                  </seg>
                </p>
-               <quote source="#lit_work_id_170">
-                  <lg xml:lang="de">
-                     <lb/><space quantity="14" unit="char"/><l><hi rend="underline">In der Beschr<unclear>ä</unclear>nkung zeigt sich erst der Meister</hi>,</l>
-                     <lb/><space quantity="14" unit="char"/><l><hi rend="underline">Und d<del>s</del>as Gesetz nur kann uns Freiheit geben.</hi></l>
-                  </lg>
-               </quote>
                <p>
                   <space quantity="3" unit="char"/>As regards my particu<del>al</del>l<unclear>a</unclear>r lead-mining world,I decided,or rather,without conscious<lb/>
                   decision I instinctively felt,that I must impose two restrictions upon my freedom<lb/>
@@ -291,9 +305,9 @@ for any purpose, even commercially.</p>
                </p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0146/" type="sheet" ed="2v"/>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0147/" type="sheet" ed="3r"/>
-               <p hand="#handwritten">
+               <ab hand="#handwritten">
                   (2
-               </p>
+               </ab>
                <p>
                   <space quantity="4" unit="char"/>When,later,I began to write poetry’I found that,for me,at least,the same<lb/>
                   obligation was binding. That is to say,I cannot accept the do<del><unclear>s</unclear></del>ctrine that,in<lb/>
@@ -302,7 +316,9 @@ for any purpose, even commercially.</p>
                   true. This does not mean,of course,that one can only appreciate a poet whose<lb/>
                   beliefs happen to co-incide with one's own. It does mean,however,that one must<lb/>
                   <del>n</del>be convinced that the poet really believ<del><gap reason="deleted"/></del>es what he says,however odd <del>that</del> the<lb/>
-                  belief may seem to oneself.<lb/>
+                  belief may seem to oneself.
+               </p>
+               <p>
                   <space quantity="7" unit="char"/>Between constructing a private <del>fantsa</del>yfantasy world for oneself alone<lb/>
                   and writing poetry,there is,of course,a profound difference. A <del>fanatsy</del><lb/>
                   fantasy world exists only in the head of its creator: a poem is a public<lb/>
@@ -329,21 +345,23 @@ for any purpose, even commercially.</p>
                   only been my exper<del>ei</del>ience is accidental. What the poet or any artist has to convey<lb/>
                   is a perception of a reality common to all,but seen from a unique perpsective,<lb/>
                   which it is his duty as well as his pleasure to share with others. To small<lb/>
-                  truths as well as great,<rs type="person" ref="#amp_person_111">St Augustine</rs>'s words apply.
-               </p>
-               <p>
-                  <quote source="#lit_work_id_171">
-                     <space quantity="12" unit="char"/><hi rend="underline">The truth is neither mine nor his nor another's;but belongs</hi><lb/>
-                     <space quantity="12" unit="char"/><hi rend="underline">to us all whom Thou callest to partake of it: warning us</hi><lb/>
-                     <space quantity="12" unit="char"/><hi rend="underline">terribly,not to account it private to ourselves,lest we be</hi><lb/>
-                     <space quantity="12" unit="char"/><hi rend="underline">deprived of it.</hi>
-                  </quote>
+                  truths as well as great,<rs type="person" ref="#amp_person_111">St Augustine</rs>'s words apply.<lb/>
+                  <seg>
+                     <quote source="#lit_work_id_171">
+                        <space quantity="12" unit="char"/><hi rend="underline">The truth is neither mine nor his nor another's;but belongs</hi><lb/>
+                        <space quantity="12" unit="char"/><hi rend="underline">to us all whom Thou callest to partake of it: warning us</hi><lb/>
+                        <space quantity="12" unit="char"/><hi rend="underline">terribly,not to account it private to ourselves,lest we be</hi><lb/>
+                        <space quantity="12" unit="char"/><hi rend="underline">deprived of it.</hi>
+                     </quote>
+                  </seg>
                </p>
                <p>
                   <space quantity="2" unit="char"/>Then the second impulse to artistic fabrication is the desire to transcend<lb/>
                   our mortality,by making objects which,unlike ourselves,are not subject to<lb/>
                   natural death,but can remain <del>permantly</del> permanently 'on hand' in the world,<lb/>
-                  long after we and our society have perished.<lb/>
+                  long after we and our society have perished.
+               </p>
+               <p>
                   <space quantity="3" unit="char"/>Every genuine work of art,I believe,exhibits two qualities,Nowness and<lb/>
                   Permanence. By Nowness I mean the quality which enables an art-historian<lb/>
                   to date a work,at least,approximately. If,for example,one listens to<lb/>
