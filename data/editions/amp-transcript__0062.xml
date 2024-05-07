@@ -492,11 +492,11 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0446/"/>
       </surface>
    </facsimile>
-   <text type="memoir" hand="#typed">
+   <text type="prose" hand="#typed">
       <body>
          <div type="transcription" xml:id="transcription_amp_0062" xml:lang="en">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0351/" type="sheet"/>
-               <title><space quantity="17" unit="char"/><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_47" ana="acdh:amp-transcript__0031.xml#ana_030">The Years in Austria</rs>.</hi></title>
+               <space quantity="17" unit="char"/><title><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_47" ana="acdh:amp-transcript__0031.xml#ana_030">The Years in Austria</rs>.</hi></title>
                <p>
                   <space quantity="5" unit="char"/>Half an hour from the outskirts of <rs type="place" ref="#amp_place_id_1">Vienna</rs> an invisible<lb/>
                   thread bisect<del>x</del>s the motorway. <space quantity="1" unit="char"/>It leads from <rs type="place" ref="#amp_place_id_322">the church</rs> which<lb/>
