@@ -62,7 +62,11 @@
                   <interp xml:id="ana_038" source="ph_038"><!-- link -->
                      <desc>
                         The archives of the <rs type="org" ref="#amp_organization_9">Austrian Society for Literature</rs> do not contain any information on a 1968 reading by <rs type="person" ref="#amp_person_1">Auden</rs>. However, there is a <ref target="https://www.ogl.at/programm/aktuelles-programm/archiv/1962/10/">reference</ref> to a reading by Auden from his works, together with Austrian actor <rs type="person" ref="#amp_person_243">Wolfgang Gasser</rs>, on 4 October 1962 - which is the year after the publication of <rs type="person" ref="#amp_person_59">Gerhard Fritsch</rs>'s <rs type="lit_work" ref="#lit_work_id_56">German translation of <rs type="lit_work" ref="#lit_work_id_55">"For the Time Being"</rs></rs>.
-                        <rs type="event" ref="#amp_event_id_25"/>
+                        <listEvent>
+                           <event ref="acdh:amp-index-events.xml#amp_event_id_25">
+                              <label xml:lang="de">W. H. (Wystan Hugh) Auden liest aus seinen Werken in englischer Sprache</label>
+                           </event>
+                        </listEvent>
                         <bibl sameAs="https://www.ogl.at/programm/aktuelles-programm/archiv/1962/10/">
                            <orgName ref="acdh:amp-index-organizations.xml#amp_organization_9"/>
                            <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_1"/>
@@ -110,6 +114,34 @@
                      </desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
                      <certainty cert="high" locus="value"/>
+                  </interp>
+                  <interp source="ph_042" xml:id="ana_042"><!-- link to nanopub -->
+                     <desc>
+                        In his 1973 review of <hi rend="italic">English Biblical Translation</hi> by A. C. Partridge Deutsch, "Renderings", <rs type="person" ref="#amp_person_1">Auden</rs> refers to the "as yet incomplete, <rs type="lit_work" ref="#lit_work_id_198">Anchor Bible</rs>". He claims that he owes an "increased understanding" of the "version of the Scriptures I was brought up on" to the "scholarly introductions" therein (587-588). To the knowledge of Auden's literary executor <rs type="person" ref="#amp_person_98">Edward Mendelson</rs>, Auden did not review any volumes of the <rs type="lit_work" ref="#lit_work_id_198">Anchor Bible Series</rs>.
+                        <bibl sameAs="acdh:amp-index-works#lit_work_id_198"/>
+                        <listBibl>
+                           <bibl>
+                              <author ref="acdh:amp-index-persons.xml#amp_person_1"/>
+                              <title level="a">Renderings</title>
+                              <title level="m">Prose: Volume VI: 1969-1973</title>
+                              <title level="s">The Complete Works of W. H. Auden</title>
+                              <editor ref="acdh:amp-index-persons.xml#amp_person_98"/>
+                              <publisher>Princeton University Press</publisher>
+                              <pubPlace>Princeton</pubPlace>
+                              <date when-iso="2015"/>
+                              <idno type="ISBN">978-0-691-16458-8</idno>
+                              <biblScope unit="page" from="585" to="588"/>
+                              <citedRange unit="page" from="587" to="588"/>
+                           </bibl>
+                           <bibl type="email">
+                              <author ref="acdh:amp-index-persons.xml#amp_person_98"/>
+                              <title>Re: Auden's review of a Bible translation?, received by Timo Frühwirth</title>
+                              <date when-iso="2024-05-06"/>
+                           </bibl>
+                        </listBibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="medium" locus="value"/>
                   </interp>
                </interpGrp>
             </edition>
@@ -525,7 +557,7 @@ for any purpose, even commercially.</p>
                   library reject: <space quantity="1" unit="char"/>the content was all, the package irrelevant.<lb/>
                   Here lie, precariously balanced, collapsing, upended, volumes of<lb/>
                   poetry, cookery books, <rs type="person" ref="#amp_person_39">Benson</rs>'s <rs type="lit_work" ref="#lit_work_id_1">Lucia novels</rs>, <rs type="lit_work" ref="#lit_work_id_100">Akenfield</rs>, whodunnits,<lb/>
-                  a new translation of the <rs type="lit_work" ref="#lit_work_id_59">Bible</rs>. <space quantity="1" unit="char"/>Over the years, the content of<lb/>
+                  a <rs type="lit_work" ref="#lit_work_id_199" ana="#ana_042">new translation of the Bible</rs>. <space quantity="1" unit="char"/>Over the years, the content of<lb/>
                   the heap varied but the overall appearance scarcely at all.<lb/>
                   And now the stove, country style, a white dome with round green<lb/>
                   tiles set in it, one of the glories of Austrian <hi rend="underline"><foreign xml:lang="de">Wohnkultur</foreign></hi>.<lb/>
@@ -1879,7 +1911,7 @@ for any purpose, even commercially.</p>
                </ab>
                <p prev="true">
                   <rs type="lit_work" ref="#lit_work_id_77">"Letters of Beethoven"</rs> - <del>s</del>which he gave me, the blank pages are<lb/>
-                  filled with his notes - and even a new <rs type="lit_work" ref="#lit_work_id_">12 volume annotated<lb/>
+                  filled with his notes - and even a new <rs type="lit_work" ref="#lit_work_id_198" ana="#ana_042">12 volume annotated<lb/>
                   translation of the Bible</rs>. <space quantity="1" unit="char"/>In any case, the sacred beast in his<lb/>
                   lair was probably much wittier than most strangers who came<lb/>
                   to view the set-up.
