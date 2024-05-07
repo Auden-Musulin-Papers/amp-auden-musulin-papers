@@ -494,7 +494,7 @@ for any purpose, even commercially.</p>
    </facsimile>
    <text type="memoir" hand="#typed">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0062" xml:lang="en">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0351/" type="sheet"/>
                <title><space quantity="17" unit="char"/><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_47" ana="acdh:amp-transcript__0031.xml#ana_030">The Years in Austria</rs>.</hi></title>
                <p>
