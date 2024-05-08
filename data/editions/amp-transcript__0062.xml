@@ -118,7 +118,7 @@
                   <interp source="ph_042" xml:id="ana_042"><!-- link to nanopub -->
                      <desc>
                         In his 1973 review of <hi rend="italic">English Biblical Translation</hi> by A. C. Partridge Deutsch, "Renderings", <rs type="person" ref="#amp_person_1">Auden</rs> refers to the "as yet incomplete, <rs type="lit_work" ref="#lit_work_id_198">Anchor Bible</rs>". He claims that he owes an "increased understanding" of the "version of the Scriptures I was brought up on" to the "scholarly introductions" therein (587-588). To the knowledge of Auden's literary executor <rs type="person" ref="#amp_person_98">Edward Mendelson</rs>, Auden did not review any volumes of the <rs type="lit_work" ref="#lit_work_id_198">Anchor Bible Series</rs>.
-                        <bibl sameAs="acdh:amp-index-works#lit_work_id_198"/>
+                        <bibl sameAs="acdh:amp-index-works.xml#lit_work_id_198"/>
                         <listBibl>
                            <bibl>
                               <author ref="acdh:amp-index-persons.xml#amp_person_1"/>
