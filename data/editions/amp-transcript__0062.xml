@@ -2129,171 +2129,201 @@ for any purpose, even commercially.</p>
                      past without having a profound reverence for it.
                   </p>
                   <p>   
-                  <space quantity="4" unit="char"/>There are periods in history when the arts develop uninterr-<lb/>
-                  uptedly, each generation building on the achievements of the<lb/>
-                  previous generation. <space quantity="1" unit="char"/>There are other periods when radical breaks<lb/>
-                  seem to be ne<del>f</del>cessary. <space quantity="1" unit="char"/>However, when they are, one will generally<lb/>
-                  find that the 'radical' artist does not disown the past, but finds<lb/>
-                  in works of a much earlier period or in those of a cul<del>r</del>ture (other)<lb/>
-                  than his own, the clue as to what he should do now. <space quantity="1" unit="char"/>In my own<lb/>
-                  case, for example, I know how much I owe to Anglo-Saxon and<lb/>
-                  Medieval Poetry.<lb/>
-                  <space quantity="5" unit="char"/>When I review the contemporary artistic scene, it strikes me<lb/>
-                  how extraordinarily fortunate men like <rs type="person" ref="#amp_person_25">Stravinsky</rs>, <rs type="person" ref="#amp_person_26">Picasso</rs>, <rs type="person" ref="#amp_person_27">Eliot</rs>,<lb/>
-                  etc., that is, those persons we think of as the founders of<lb/>
-                  'modern' art, were in being born when they were, so that they came<lb/>
-                  to manhoo<del>f</del><unclear>d</unclear> before 1914. <space quantity="1" unit="char"/>Until the <rs type="event" ref="#amp_event_id_53">First World War</rs>, western<lb/>
-                  society was still pretty much what it had been in the nineteenth<lb/>
-                  century. <space quantity="1" unit="char"/>This meant that for these artists, the felt need to<lb/>
-                  create something new arose from an artistic imperative, not a<lb/>
-                  historic imperative. <space quantity="1" unit="char"/>No one asked himself: <space quantity="1" unit="char"/>"What is the proper<lb/>
-                  kind of music to compose or picture to paint or poem to w<del>ir</del>rite<lb/>
-                  in the year 1912?" <space quantity="2" unit="char"/>Secondly, their contemporary audiences<lb/>
-                  were mostly conservative, but honestly so. <space quantity="1" unit="char"/>Those, for instance,<lb/>
-                  who were scandalised by <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_35">Le Sacre du Printemps</rs></hi>, may seem to us now<lb/>
-                  to have been old fogies, but their reaction was genuine. <space quantity="1" unit="char"/>They did<lb/>
-                  not say to themselves: <space quantity="1" unit="char"/>"Times have changed and we must change<lb/>
-                  with them in order not to be left behind."<lb/>
-                  <space quantity="4" unit="char"/>Here are a few statements by <rs type="person" ref="#amp_person_25">Stravinsky</rs> to which the young,<lb/>
-                  whether artists or critics would do well to listen and ponder over.
-               </p>
-               <p>
-                  <space quantity="4" unit="char"/><hi rend="underline">In my youth the new music g<del>e</del>rew out of, and in</hi> <hi rend="underline">re<del>q</del>action to,<lb/><!-- what about the "c"? deletion unterneath? -->
-                     <space quantity="4" unit="char"/>tradition</hi>s<hi rend="underline">, whereas it appears to be evolving to-day as much<lb/>
-                        <space quantity="4" unit="char"/>from social needs as interior artistic ones... <space quantity="1" unit="char"/>The status<lb/>
-                        <space quantity="4" unit="char"/>of new mu</hi>s<hi rend="underline">ic as a category is another incomparable. <space quantity="1" unit="char"/>It had</hi>
-               </p>
+                     <space quantity="4" unit="char"/>There are periods in history when the arts develop uninterr-<lb/>
+                     uptedly, each generation building on the achievements of the<lb/>
+                     previous generation. <space quantity="1" unit="char"/>There are other periods when radical breaks<lb/>
+                     seem to be ne<del>f</del>cessary. <space quantity="1" unit="char"/>However, when they are, one will generally<lb/>
+                     find that the 'radical' artist does not disown the past, but finds<lb/>
+                     in works of a much earlier period or in those of a cul<del>r</del>ture (other)<lb/>
+                     than his own, the clue as to what he should do now. <space quantity="1" unit="char"/>In my own<lb/>
+                     case, for example, I know how much I owe to Anglo-Saxon and<lb/>
+                     Medieval Poetry.
+                  </p>
+                  <p>
+                     <space quantity="5" unit="char"/>When I review the contemporary artistic scene, it strikes me<lb/>
+                     how extraordinarily fortunate men like <rs type="person" ref="#amp_person_25">Stravinsky</rs>, <rs type="person" ref="#amp_person_26">Picasso</rs>, <rs type="person" ref="#amp_person_27">Eliot</rs>,<lb/>
+                     etc., that is, those persons we think of as the founders of<lb/>
+                     'modern' art, were in being born when they were, so that they came<lb/>
+                     to manhoo<del>f</del><unclear>d</unclear> before 1914. <space quantity="1" unit="char"/>Until the <rs type="event" ref="#amp_event_id_53">First World War</rs>, western<lb/>
+                     society was still pretty much what it had been in the nineteenth<lb/>
+                     century. <space quantity="1" unit="char"/>This meant that for these artists, the felt need to<lb/>
+                     create something new arose from an artistic imperative, not a<lb/>
+                     historic imperative. <space quantity="1" unit="char"/>No one asked himself: <space quantity="1" unit="char"/>"What is the proper<lb/>
+                     kind of music to compose or picture to paint or poem to w<del>ir</del>rite<lb/>
+                     in the year 1912?" <space quantity="2" unit="char"/>Secondly, their contemporary audiences<lb/>
+                     were mostly conservative, but honestly so. <space quantity="1" unit="char"/>Those, for instance,<lb/>
+                     who were scandalised by <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_35">Le Sacre du Printemps</rs></hi>, may seem to us now<lb/>
+                     to have been old fogies, but their reaction was genuine. <space quantity="1" unit="char"/>They did<lb/>
+                     not say to themselves: <space quantity="1" unit="char"/>"Times have changed and we must change<lb/>
+                     with them in order not to be left behind."
+                  </p>
+                  <p>
+                     <space quantity="4" unit="char"/>Here are a few statements by <rs type="person" ref="#amp_person_25">Stravinsky</rs> to which the young,<lb/>
+                     whether artists or critics would do well to listen and ponder over.<lb/>
+                     <seg>
+                        <quote source="#lit_work_id_172">
+                           <space quantity="4" unit="char"/><hi rend="underline">In my youth the new music g<del>e</del>rew out of, and in</hi> <hi rend="underline">re<del>q</del>action to,</hi><lb/>
+                           <space quantity="4" unit="char"/><hi rend="underline">tradition</hi>s<hi rend="underline">, whereas it appears to be evolving to-day as much</hi><lb/>
+                           <space quantity="4" unit="char"/><hi rend="underline">from social needs as interior artistic ones... <space quantity="1" unit="char"/>The status</hi><lb/>
+                           <space quantity="4" unit="char"/><hi rend="underline">of new mu</hi>s<hi rend="underline">ic as a category is another incomparable. <space quantity="1" unit="char"/>It had</hi>
+                        </quote>
+                     </seg>
+                  </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0414/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0415/" type="sheet"/>
-               <p>
-                  <space quantity="25" unit="char"/>31
-               </p>
-               <p>
-                  <space quantity="5" unit="char"/><hi rend="underline">none at all in my early years, being in fact categorically<lb/>
-                     <space quantity="5" unit="char"/>opposed, and often with real hostility, <space quantity="1" unit="char"/>But the unsuccess<lb/>
-                     <space quantity="5" unit="char"/>of composers of my generation at least kept them from trading<lb/>
-                     <space quantity="5" unit="char"/>on success, and our unsuccess may have been less insidious <lb/>
-                     <space quantity="5" unit="char"/>than the automatic superlatives which nowadays kill the new<lb/>
-                     <space quantity="5" unit="char"/>by absorbing it to death.</hi><lb/>
-                  <space quantity="27" unit="char"/>++++++++<lb/>
-                  <space quantity="5" unit="char"/><hi rend="underline">The use of the new hardware naturally appears to the new<lb/>
-                     <space quantity="5" unit="char"/>musician as "historicallv imberative "; <space quantity="1" unit="char"/>but music is made <lb/>
-                     <space quantity="5" unit="char"/>out of musical imperatives, and the awareness of historical<lb/>
-                     <space quantity="5" unit="char"/>processes is probably best left to future and diff</hi>e<hi rend="underline">re</hi>n<hi rend="underline">t<lb/>
-                        <space quantity="5" unit="char"/>kinds of </hi>w<hi rend="underline">age-earners.</hi><lb/>
-                  <space quantity="27" unit="char"/>+++++++++
-               </p>
-               <p>
-                  <space quantity="5" unit="char"/>In times, like our own, of rapid social change and political<lb/>
-                  crisis, there is always a danger of confusing the principles<lb/>
-                  governing political action and those governing artistic fabrication<unclear>.</unclear><lb/>
-                  The most important of such confusions are three.<lb/>
-                  <space quantity="4" unit="char"/>Firstly, one may come to think of artistic fabrication as a<lb/>
-                  form of political action. <space quantity="1" unit="char"/>Every citizen, poets included, has a<lb/>
-                  duty to be politically 'engagé', that is, to play a responsible<lb/>
-                  part i<del>s</del>n seeing that the society of which he is a member shall<lb/>
-                  fun<del>a</del>ction properly and improve. <space quantity="1" unit="char"/>But the poet, qua poet, has only<lb/>
-                  one political function. <space quantity="1" unit="char"/>Since language is his medium, it is his<lb/>
-                  duty, by hi<del>w</del>s own example, to defend his mother-tongue against<lb/>
-                  corruption by demagogues, journalists, the mass-media etc. <space quantity="1" unit="char"/>As<lb/>
-                  <rs type="person" ref="#amp_person_81">Karl Kraus</rs> said: <space quantity="1" unit="char"/>"<del><gap reason="deleted"/></del><hi rend="underline"><unclear><del><del>E</del>D</del></unclear>Die Sprache ist die Mutter, nicht das Magd</hi>,<lb/>
-                  des Gedankens<del>.</del>", and when language loses its meaning, <del>social </del><lb/>
-                  its place is taken by violence. <space quantity="1" unit="char"/>Of course, the poet may use<lb/>
-                  political and social events as subject-matter for poems - they<lb/>
-                  are as much a part of human experience as love or nature - bu<del>z</del>t<lb/>
-                  he must never imagine that his poems have the power to affect<lb/>
-                  the course of history. <space quantity="1" unit="char"/>The poli<del>c</del>tical and social history of<lb/>
-                  Europe would be w<del>z</del>hat it has been if <rs type="person" ref="#amp_person_9">Dante</rs>, <rs type="person" ref="#amp_person_10">Shakespeare</rs>, <rs type="person" ref="#amp_person_11">Goethe</rs>,<lb/>
-                  <rs type="person" ref="#amp_person_28">Michael Angelo</rs>, <rs type="person" ref="#amp_person_12">Titian</rs>, <rs type="person" ref="#amp_person_13">Mozart</rs>, <rs type="person" ref="#amp_person_29">Beethoven</rs>, etc. had never e<del>d</del>xisted.<lb/>
-                  <space quantity="5" unit="char"/>Where political and social evils are concerned, only two<lb/>
-                  things are effective: <space quantity="1" unit="char"/>political action and straightforward,<lb/>
-                  truthful, detailed journalistic rapportage of the facts. <space quantity="1" unit="char"/>The Arts<lb/>
-                  are powerless.<lb/>
-                  <space quantity="4" unit="char"/>The second confusion, of which <rs type="person" ref="#amp_person_30">Plato</rs> is the most famous examp<del>o</del>le,<lb/>
-                  is to take artistic fabrication as the model f<del>r</del>or a good society.
-               </p>
+                  <ab>
+                     <space quantity="25" unit="char"/>31
+                  </ab>
+                  <p prev="true">
+                     <seg>
+                        <quote source="#lit_work_id_172">
+                           <space quantity="5" unit="char"/><hi rend="underline">none at all in my early years, being in fact categorically</hi><lb/>
+                           <space quantity="5" unit="char"/><hi rend="underline">opposed, and often with real hostility, <space quantity="1" unit="char"/>But the unsuccess</hi><lb/>
+                           <space quantity="5" unit="char"/><hi rend="underline">of composers of my generation at least kept them from trading</hi><lb/>
+                           <space quantity="5" unit="char"/><hi rend="underline">on success, and our unsuccess may have been less insidious<space quantity="1" unit="char"/></hi><lb/>
+                           <space quantity="5" unit="char"/><hi rend="underline">than the automatic superlatives which nowadays kill the new</hi><lb/>
+                           <space quantity="5" unit="char"/><hi rend="underline">by absorbing it to death.</hi><lb/>
+                        </quote>
+                        <space quantity="27" unit="char"/>++++++++<lb/>
+                     </seg>
+                     <seg>
+                        <quote source="#lit_work_id_172">
+                           <space quantity="5" unit="char"/><hi rend="underline">The use of the new hardware naturally appears to the new</hi><lb/>
+                           <space quantity="5" unit="char"/><hi rend="underline">musician as "historicallv imberative "; <space quantity="1" unit="char"/>but music is made<space quantity="1" unit="char"/></hi><lb/>
+                           <space quantity="5" unit="char"/><hi rend="underline">out of musical imperatives, and the awareness of historical</hi><lb/>
+                           <space quantity="5" unit="char"/><hi rend="underline">processes is probably best left to future and diff</hi>e<hi rend="underline">re</hi>n<hi rend="underline">t</hi><lb/>
+                           <space quantity="5" unit="char"/><hi rend="underline">kinds of </hi>w<hi rend="underline">age-earners.</hi><lb/>
+                        </quote>
+                        <space quantity="27" unit="char"/>+++++++++
+                     </seg>
+                  </p>
+                  <p>
+                     <space quantity="5" unit="char"/>In times, like our own, of rapid social change and political<lb/>
+                     crisis, there is always a danger of confusing the principles<lb/>
+                     governing political action and those governing artistic fabrication<unclear>.</unclear><lb/>
+                     The most important of such confusions are three.
+                  </p>
+                  <p>
+                     <space quantity="4" unit="char"/>Firstly, one may come to think of artistic fabrication as a<lb/>
+                     form of political action. <space quantity="1" unit="char"/>Every citizen, poets included, has a<lb/>
+                     duty to be politically 'engagé', that is, to play a responsible<lb/>
+                     part i<del>s</del>n seeing that the society of which he is a member shall<lb/>
+                     fun<del>a</del>ction properly and improve. <space quantity="1" unit="char"/>But the poet, qua poet, has only<lb/>
+                     one political function. <space quantity="1" unit="char"/>Since language is his medium, it is his<lb/>
+                     duty, by hi<del>w</del>s own example, to defend his mother-tongue against<lb/>
+                     corruption by demagogues, journalists, the mass-media etc. <space quantity="1" unit="char"/>As<lb/>
+                     <rs type="person" ref="#amp_person_81">Karl Kraus</rs> said: <space quantity="1" unit="char"/><quote source="#lit_work_id_173">"<foreign xml:lang="de"><del><gap reason="deleted"/></del><hi rend="underline"><unclear><del><del>E</del>D</del></unclear>Die Sprache ist die Mutter, nicht das Magd</hi>,<lb/>
+                     des Gedankens</foreign><del>.</del>"</quote>, and when language loses its meaning, <del>social </del><lb/>
+                     its place is taken by violence. <space quantity="1" unit="char"/>Of course, the poet may use<lb/>
+                     political and social events as subject-matter for poems - they<lb/>
+                     are as much a part of human experience as love or nature - bu<del>z</del>t<lb/>
+                     he must never imagine that his poems have the power to affect<lb/>
+                     the course of history. <space quantity="1" unit="char"/>The poli<del>c</del>tical and social history of<lb/>
+                     <rs type="place" ref="#amp_place_id_30">Europe</rs> would be w<del>z</del>hat it has been if <rs type="person" ref="#amp_person_9">Dante</rs>, <rs type="person" ref="#amp_person_10">Shakespeare</rs>, <rs type="person" ref="#amp_person_11">Goethe</rs>,<lb/>
+                     <rs type="person" ref="#amp_person_28">Michael Angelo</rs>, <rs type="person" ref="#amp_person_12">Titian</rs>, <rs type="person" ref="#amp_person_13">Mozart</rs>, <rs type="person" ref="#amp_person_29">Beethoven</rs>, etc. had never e<del>d</del>xisted.
+                  </p>
+                  <p>
+                     <space quantity="5" unit="char"/>Where political and social evils are concerned, only two<lb/>
+                     things are effective: <space quantity="1" unit="char"/>political action and straightforward,<lb/>
+                     truthful, detailed journalistic rapportage of the facts. <space quantity="1" unit="char"/>The Arts<lb/>
+                     are powerless.
+                  </p>
+                  <p>
+                     <space quantity="4" unit="char"/>The second confusion, of which <rs type="person" ref="#amp_person_30">Plato</rs> is the most famous examp<del>o</del>le,<lb/>
+                     is to take artistic fabrication as the model f<del>r</del>or a good society.
+                  </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0416/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0417/" type="sheet"/>
-               <p>
-                  <space quantity="26" unit="char"/>32
-               </p>
-               <p>
-                  Such a model, if put into practice, is bound to produce a tyranny.<lb/>
-                  The aim of the artist is to produce an object which is complete<lb/>
-                  and will endure without change. <space quantity="1" unit="char"/>In the 'city' of a poem, there<lb/>
-                  are always the same inhabitants doing exactly the same jobs for<lb/>
-                  ever. <space quantity="1" unit="char"/>A societ<del>s</del>y which was really like a good poem, embodying the<lb/>
-                  aesthetic virtues of order, economy and subordination of the<lb/>
-                  detail to the whole, would be a nightmare of horror for, given the<lb/>
-                  historical reality of actual men, such a society could only come<lb/>
-                  into being through selective breeding, extermination of the<lb/>
-                  physically and mentally unfit, absolute obedience to its Director,<lb/>
-                  a large slave class kept out of sight in cellars and the strictest<lb/>
-                  censureship (sic) of the Arts, forbidding anything to be said<lb/>
-                  which is out of keeping with the official 'line'.<lb/>
-                  <space quantity="4" unit="char"/>The third confusion, typical of our western 'free' so<del>f</del>cieties<lb/>
-                  at this time, is the opposite of <rs type="person" ref="#amp_person_30">Plato</rs>'s, namely to take political<lb/>
-                  action as the model for artistic fabrication. <space quantity="1" unit="char"/>Political action<lb/>
-                  is a necessity, that is to say, at (e)very moment something has<lb/>
-                  to be done, and it is momentary - action at this moment is<lb/>
-                  immediately followed by another action at the next. <space quantity="1" unit="char"/>Artistic<lb/>
-                  fabrication, on the other hand, is voluntary - the alternative<lb/>
-                  to one work of art can be no work of art - and the artistic<lb/>
-                  object is permanent, that is to say, immune to historical change.<lb/>
-                  The attempt to model artistic fabrication on political action can<lb/>
-                  therefore, only r<del>d</del>educe it to momenta<del>f</del>ry and arbitrary 'happenings',<lb/>
-                  a conformism with the tyranny of the immediate moment which is<lb/>
-                  far more enslaving and destructive of integrity than any conformism<lb/>
-                  with past tradition.<lb/>
-                  <space quantity="4" unit="char"/>At this point, a little digression on the subject of 'free'<lb/>
-                  verse, which seems now to be almost universal among young poets.<lb/>
-                  Though excellent examples, the poems of <rs type="person" ref="#amp_person_31">D.H<del>-</del>. Lawrence</rs>, for example,<lb/>
-                  exist, they are, in my opinion, the exception, not the rule.<lb/>
-                  The great virtue of formal metrical rules is that they forbid<lb/>
-                  automatic responses and, by forcing the poet to have second<lb/>
-                  thoughts, free him from the fetters of self. <space quantity="1" unit="char"/>All too often, the<lb/>
-                  result of not having a fixed form to be true to, is a self-<lb/>
-                  indulgence which in the detached reader can only cause boredom.<lb/>
-                  Further, in my experience, contrary to what one might expect, the<lb/>
-                  free-verse poets sound much mor<del>d</del>e like each other than those who<lb/>
-                  write in fixed forms. <space quantity="1" unit="char"/>Whatever freedom may do, it does not, it<lb/>
-                  would seem, <del>a<unclear>m</unclear></del> make for originality.
-               </p>
+                  <ab>
+                     <space quantity="26" unit="char"/>32
+                  </ab>
+                  <p prev="true">
+                     Such a model, if put into practice, is bound to produce a tyranny.<lb/>
+                     The aim of the artist is to produce an object which is complete<lb/>
+                     and will endure without change. <space quantity="1" unit="char"/>In the 'city' of a poem, there<lb/>
+                     are always the same inhabitants doing exactly the same jobs for<lb/>
+                     ever. <space quantity="1" unit="char"/>A societ<del>s</del>y which was really like a good poem, embodying the<lb/>
+                     aesthetic virtues of order, economy and subordination of the<lb/>
+                     detail to the whole, would be a nightmare of horror for, given the<lb/>
+                     historical reality of actual men, such a society could only come<lb/>
+                     into being through selective breeding, extermination of the<lb/>
+                     physically and mentally unfit, absolute obedience to its Director,<lb/>
+                     a large slave class kept out of sight in cellars and the strictest<lb/>
+                     censureship (sic) of the Arts, forbidding anything to be said<lb/>
+                     which is out of keeping with the official 'line'.
+                  </p>
+                  <p>
+                     <space quantity="4" unit="char"/>The third confusion, typical of our western 'free' so<del>f</del>cieties<lb/>
+                     at this time, is the opposite of <rs type="person" ref="#amp_person_30">Plato</rs>'s, namely to take political<lb/>
+                     action as the model for artistic fabrication. <space quantity="1" unit="char"/>Political action<lb/>
+                     is a necessity, that is to say, at (e)very moment something has<lb/>
+                     to be done, and it is momentary - action at this moment is<lb/>
+                     immediately followed by another action at the next. <space quantity="1" unit="char"/>Artistic<lb/>
+                     fabrication, on the other hand, is voluntary - the alternative<lb/>
+                     to one work of art can be no work of art - and the artistic<lb/>
+                     object is permanent, that is to say, immune to historical change.<lb/>
+                     The attempt to model artistic fabrication on political action can<lb/>
+                     therefore, only r<del>d</del>educe it to momenta<del>f</del>ry and arbitrary 'happenings',<lb/>
+                     a conformism with the tyranny of the immediate moment which is<lb/>
+                     far more enslaving and destructive of integrity than any conformism<lb/>
+                     with past tradition.
+                  </p>
+                  <p>
+                     <space quantity="4" unit="char"/>At this point, a little digression on the subject of 'free'<lb/>
+                     verse, which seems now to be almost universal among young poets.<lb/>
+                     Though excellent examples, the poems of <rs type="person" ref="#amp_person_31">D.H<del>-</del>. Lawrence</rs>, for example,<lb/>
+                     exist, they are, in my opinion, the exception, not the rule.<lb/>
+                     The great virtue of formal metrical rules is that they forbid<lb/>
+                     automatic responses and, by forcing the poet to have second<lb/>
+                     thoughts, free him from the fetters of self. <space quantity="1" unit="char"/>All too often, the<lb/>
+                     result of not having a fixed form to be true to, is a self-<lb/>
+                     indulgence which in the detached reader can only cause boredom.<lb/>
+                     Further, in my experience, contrary to what one might expect, the<lb/>
+                     free-verse poets sound much mor<del>d</del>e like each other than those who<lb/>
+                     write in fixed forms. <space quantity="1" unit="char"/>Whatever freedom may do, it does not, it<lb/>
+                     would seem, <del>a<unclear>m</unclear></del> make for originality.
+                  </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0418/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0419/" type="sheet"/>
-               <p>
-                  <space quantity="26" unit="char"/>31. a
-               </p>
-               <p>
-                  <space quantity="5" unit="char"/>What, then, can the Arts do for us? <space quantity="1" unit="char"/>In my opinion, they can<lb/>
-                  do two things. <space quantity="1" unit="char"/>They can, as <rs type="person" ref="#amp_person_33">Dr. Johnson</rs> said, 'enable us a little<lb/>
-                  better to enjoy life or a little better to endure it.<unclear><del>"</del>'</unclear> <space quantity="1" unit="char"/>And,<lb/>
-                  because they are objects <del>l</del>permanently on hand in the world, they<lb/>
-                  are the chief means by which the living are able to break bread<lb/>
-                  with the dead, and, without a communication with the dead, I do<lb/>
-                  not believe that a fully human civilised life is possible.<lb/>
-                  <space quantity="5" unit="char"/>Perhaps, too, in our age, the mere making of a work of art<lb/>
-                  is itself a political act. <space quantity="1" unit="char"/>So long as artists exist, making<lb/>
-                  what they please or think they ought to make, even if their works<lb/>
-                  are not terribly good, they remind the Management of something<lb/>
-                  managers need to be reminded of, namely, that the managed are<lb/>
-                  people with faces, not anonymous numbers, that <hi rend="underline">Homo Laborans</hi><lb/>
-                  is also <hi rend="underline">Homo Ludens.</hi><lb/>
-                  <space quantity="5" unit="char"/>And now, I hope those of you who know no English will<lb/>
-                  forgive me if I conclude these remarks with a light poem of my<lb/>
-                  own, entitled <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_57">Doggerel by a Senior Citizen</rs>.</hi>"
-               </p>
+                  <ab>
+                     <space quantity="26" unit="char"/>31. a
+                  </ab>
+                  <p>
+                     <space quantity="5" unit="char"/>What, then, can the Arts do for us? <space quantity="1" unit="char"/>In my opinion, they can<lb/>
+                     do two things. <space quantity="1" unit="char"/>They can, as <rs type="person" ref="#amp_person_33">Dr. Johnson</rs> said, <quote source="#lit_work_id_174">'enable us a little<lb/>
+                     better to enjoy life or a little better to endure it.<unclear><del>"</del>'</unclear></quote> <space quantity="1" unit="char"/>And,<lb/>
+                     because they are objects <del>l</del>permanently on hand in the world, they<lb/>
+                     are the chief means by which the living are able to break bread<lb/>
+                     with the dead, and, without a communication with the dead, I do<lb/>
+                     not believe that a fully human civilised life is possible.
+                  </p>
+                  <p>
+                     <space quantity="5" unit="char"/>Perhaps, too, in our age, the mere making of a work of art<lb/>
+                     is itself a political act. <space quantity="1" unit="char"/>So long as artists exist, making<lb/>
+                     what they please or think they ought to make, even if their works<lb/>
+                     are not terribly good, they remind the Management of something<lb/>
+                     managers need to be reminded of, namely, that the managed are<lb/>
+                     people with faces, not anonymous numbers, that <hi rend="underline">Homo Laborans</hi><lb/>
+                     is also <hi rend="underline">Homo Ludens.</hi>
+                  </p>
+                  <p>
+                     <space quantity="5" unit="char"/>And now, I hope those of you who know no English will<lb/>
+                     forgive me if I conclude these remarks with a light poem of my<lb/>
+                     own, entitled <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_57">Doggerel by a Senior Citizen</rs>.</hi>"
+                  </p>
                </quote>
                <p>
                   <space quantity="5" unit="char"/>To what extent parts of this lecture had been said or written<lb/>
                   before is immaterial, it is still surprising that <del>he</del><rs type="person" ref="#amp_person_1">Auden</rs> chose to<lb/>
-                  repeat it in <rs type="place" ref="#amp_place_id_47">Neulengbach</rs>. <space quantity="1" unit="char"/>If here and there, he
-               </p>
-               <lg>
-                  <space quantity="11" unit="char"/><l>Adopted what I would disown</l>
-                  <space quantity="11" unit="char"/><l>The preacher's loose immodest tone</l>
-               </lg>
-               <p>
+                  repeat it in <rs type="place" ref="#amp_place_id_47">Neulengbach</rs>. <space quantity="1" unit="char"/>If here and there, he<lb/>
+                  <seg>
+                     <quote source="#lit_work_id_200">
+                        <lg>
+                           <lb/><space quantity="11" unit="char"/><l>Adopted what I would disown</l>
+                           <lb/><space quantity="11" unit="char"/><l>The preacher's loose immodest tone</l>
+                        </lg>
+                     </quote>
+                  </seg>
                   in the main, such a closely argued statement must surely have<lb/>
                   floated past the ear of most of his listeners. <space quantity="1" unit="char"/>This would not,<lb/>
                   I think, have been because of an innate lack of intelligence<lb/>
@@ -2314,10 +2344,10 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0420/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0421/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="29" unit="char"/>32.a
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   liturgies. <space quantity="1" unit="char"/>The new banality offended his acute sense of the<lb/>
                   power contained in words and phrases which have brought mankind<lb/>
                   into mystical contact with the primary world: <space quantity="1" unit="char"/>Darkness, Silence,<lb/>
@@ -2328,7 +2358,9 @@ for any purpose, even commercially.</p>
                   <hi rend="underline">some</hi>thing from a poem; <space quantity="1" unit="char"/>it is consistent that he should have laughed<lb/>
                   when he told me that some earnes<unclear>t</unclear> person wanted to know just what he<lb/>
                   had meant by a word written thirty years ago. <space quantity="1" unit="char"/>"Ridiculous! <space quantity="1" unit="char"/>How<lb/>
-                  should I know?"<lb/>
+                  should I know?"
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>It always seemed that as the years passed <rs type="person" ref="#amp_person_1">Auden</rs> became more<lb/>
                   and more <del><unclear>G</unclear></del>English; <space quantity="1" unit="char"/>this natural process of reverting to type annoyed<lb/>
                   <rs type="person" ref="#amp_person_4">Chester</rs> who would expostulate at signs of it. <space quantity="1" unit="char"/>He liked to listen<lb/>
@@ -2342,26 +2374,30 @@ for any purpose, even commercially.</p>
                   urged me to come in, to stay ... No no, I said, we're both busy,<lb/>
                   I must get on. <space quantity="1" unit="char"/>"Oh!" he exclaimed, and it was as though he were<lb/>
                   begging me not to infringe the most basic rule of British hospitality:<lb/>
-                  "But you <hi rend="underline">can't</hi> go without having a cup of tea!"<lb/>
+                  "But you <hi rend="underline">can't</hi> go without having a cup of tea!"
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>That study of his is so bare now: <space quantity="1" unit="char"/>it is <del>t</del><rs type="lit_work" ref="#lit_work_id_37">"The Cave of Making"</rs><lb/>
                   which he wished he could have <del>d</del>shown to <rs type="person" ref="#amp_person_71">Louis MacNeice</rs>, and the house<lb/>
                   and garden.
+                  <seg>
+                     <quote source="#lit_work_id_37">
+                        <lg>
+                           <lb/><space quantity="38" unit="char"/><l>... Devoid of</l>
+                           <lb/><space quantity="7" unit="char"/><l>flowers and family photographs, all is subordinate</l>
+                           <lb/><space quantity="10" unit="char"/><l>here to a function, de<del>g</del>signed to</l>
+                           <lb/><space quantity="7" unit="char"/><l>discourage daydreams - hence windows averted from plausible</l>
+                           <lb/><space quantity="10" unit="char"/><l>videnda but admitting a light one</l>
+                           <lb/><space quantity="7" unit="char"/><l>could mend a watch by - and to sharpen hearing: <space quantity="1" unit="char"/>reached
+                           <lb/><space quantity="55" unit="char"/>by an</l>
+                           <lb/><space quantity="10" unit="char"/><l>outside staircase, domestic</l>
+                           <lb/><space quantity="7" unit="char"/><l>noises and odours, the vast background of natural</l>
+                           <lb/><space quantity="10" unit="char"/><l>life are shut off. <space quantity="1" unit="char"/>Here silence</l>
+                           <lb/><space quantity="7" unit="char"/><l>is turned into objects.</l>
+                        </lg>
+                     </quote>
+                  </seg>
                </p>
-               <lg>
-                  <l><space quantity="38" unit="char"/>... Devoid of</l>
-                  <l><space quantity="7" unit="char"/>flowers and family photographs, all is subordinate</l>
-                  <l><space quantity="10" unit="char"/>here to a function, de<del>g</del>signed to</l>
-                  <l><space quantity="7" unit="char"/>discourage daydreams - hence windows averted from plausible</l>
-                  <l><space quantity="10" unit="char"/>videnda but admitting a light one</l>
-                  <l><space quantity="7" unit="char"/>could mend a watch by - and to sharpen hearing: <space quantity="1" unit="char"/>reached</l>
-                  <l><space quantity="55" unit="char"/>by an</l>
-               </lg>
-               <lg>
-                  <l><space quantity="10" unit="char"/>outside staircase, domestic</l>
-                  <l><space quantity="7" unit="char"/>noises and odours, the vast background of natural</l>
-                  <l><space quantity="10" unit="char"/>life are shut off. <space quantity="1" unit="char"/>Here silence</l>
-                  <l><space quantity="7" unit="char"/>is turned into objects.</l>
-               </lg>
                <p>
                   <space quantity="5" unit="char"/>To write to <rs type="person" ref="#amp_person_1">Auden</rs> unnecessarily would have been to encroach on<lb/>
                   his time. <space quantity="1" unit="char"/>But <rs type="person" ref="#amp_person_4">Chester</rs> spent the whole of one winter in <rs type="place" ref="#amp_place_id_1">Vienna</rs> and<lb/>
@@ -2369,42 +2405,50 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0422/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0423/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="26" unit="char"/>33.
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   Afterwards, I had given a lift home to a carload of people<lb/>
                   including one whose pockets, had <del>I</del><unclear>I</unclear> but known it, were stuffed<lb/>
                   with <rs type="person" ref="#amp_person_4">Chester</rs>'s money - lifted from a jacket h<del>u</del>anging on the<lb/>
                   bedroom door. <space quantity="1" unit="char"/>The party itself had been all but wrecked by a<lb/>
-                  loudly argumentative individual who succeeded in clearing the<lb/>
+                  <rs type="person" ref="#amp_person_175">loudly argumentative individual</rs> who succeeded in clearing the<lb/>
                   sittingroom altogether as the gue<del>e</del>sts gradually slunk off to the<lb/>
                   kitchen, refugees from his abrasive but tedious presen<del>f</del>ce.<lb/>
-                  <rs type="person" ref="#amp_person_1">Auden</rs>'s reply was:<lb/>
-                  <space quantity="4" unit="char"/>"So! <space quantity="1" unit="char"/>You encountered <rs type="person" ref="#amp_person_175">the one-whose-name-we-never-mention</rs>.<lb/>
-                  Why <rs type="person" ref="#amp_person_4">Chester</rs> should have been so foolish as to invite him to a<lb/>
-                  party I cannot imagine. <space quantity="1" unit="char"/>If he is to be seen at all he is to<lb/>
-                  be seen alone."<lb/>
-                  <space quantity="5" unit="char"/>My next sighting of this cloven-hooved adjunct to the<lb/>
-                  Viennese literary scene was at <rs type="person" ref="#amp_person_1">Auden</rs>'s <rs type="event" ref="#amp_event_id_19">funeral</rs>, where I watched<lb/>
-                  <rs type="person" ref="#amp_person_175">him</rs> work his way up the procession to the church until he found<lb/>
+                  <rs type="person" ref="#amp_person_1">Auden</rs>'s reply was:
+                  <seg>
+                     <quote source="acdh:amp-transcript__0004.xml">
+                        <space quantity="4" unit="char"/>"So! <space quantity="1" unit="char"/>You encountered <rs type="person" ref="#amp_person_175">the one-whose-name-we-never-mention</rs>.<lb/>
+                        Why <rs type="person" ref="#amp_person_4">Chester</rs> should have been so foolish as to invite him to a<lb/>
+                        party I cannot imagine. <space quantity="1" unit="char"/>If he is to be seen at all he is to<lb/>
+                        be seen alone."
+                     </quote>
+                  </seg>
+               </p>
+               <p>
+                  <space quantity="5" unit="char"/>My next sighting of this <rs type="person" ref="#amp_person_175">cloven-hooved adjunct to the<lb/>
+                  Viennese literary scene</rs> was at <rs type="person" ref="#amp_person_1">Auden</rs>'s <rs type="event" ref="#amp_event_id_19">funeral</rs>, where I watched<lb/>
+                  him work his way up the procession to the <rs type="place" ref="#amp_place_id_332">church</rs> until he found<lb/>
                   the place he sought: <space quantity="1" unit="char"/>immediately behind the coffin among the<lb/>
                   chief mourners. <space quantity="1" unit="char"/>Wondering at this, and remembering <rs type="person" ref="#amp_person_1">Wystan</rs>'s<lb/>
                   sinister euphemism, <del><unclear>I</unclear></del>I subsequently asked <rs type="person" ref="#amp_person_4">Chester</rs> whether <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
                   had ever liked the man. <space quantity="1" unit="char"/>"LIKED him?" shrieked <rs type="person" ref="#amp_person_4">Chester</rs>. <space quantity="1" unit="char"/>"Why,<lb/>
-                  he crossed himself whenever his name was mentioned."<lb/>
-                  <space quantity="5" unit="char"/>In that same letter to <rs type="place" ref="#amp_place_id_28">Ne<del>e</del>w Work</rs> I mentioned that a <rs type="person" ref="#amp_person_8">friend<lb/>
+                  he crossed himself whenever his name was mentioned."
+               </p>
+               <p>
+                  <space quantity="5" unit="char"/>In that <ref target="acdh:amp-transcript__0004.xml">same letter</ref> to <rs type="place" ref="#amp_place_id_28">Ne<del>e</del>w Work</rs> I mentioned that a <rs type="person" ref="#amp_person_8">friend<lb/>
                   of his</rs> had quoted him as using the term - as a definition of<lb/>
-                  humour - "Serious insistence on unseriousness." <space quantity="1" unit="char"/>His response<lb/>
-                  was as follows: <space quantity="1" unit="char"/>"<rs type="person" ref="#amp_person_8">X</rs> has a genius for subtle misrepresentation.<lb/>
+                  humour - <quote source="#lit_work_id_157">"Serious insistence on unseriousness."</quote> <space quantity="1" unit="char"/>His response<lb/>
+                  was as follows: <space quantity="1" unit="char"/><quote source="acdh:amp-transcript__0004.xml">"<seg><rs type="person" ref="#amp_person_8">X</rs> has a genius for subtle misrepresentation.<lb/>
                   'Serious insistence on unseriousness' telescopes two distinct<lb/>
-                  <del>d</del>convictions of mine, falsifying both.<lb/>
-                  One. <space quantity="1" unit="char"/>I believe it to be a serious moral error when an artist<lb/>
+                  <del>d</del>convictions of mine, falsifying both.</seg><lb/>
+                  <seg>One. <space quantity="1" unit="char"/>I believe it to be a serious moral error when an artist<lb/>
                   overestimates the importance of art and, by implication, of<lb/>
                   himself. <space quantity="1" unit="char"/>One must admit that the political history of <rs type="place" ref="#amp_place_id_30">Europe</rs>,<lb/>
                   with the same horrors, would be what it has been, if <rs type="person" ref="#amp_person_9">Dante</rs>,<lb/>
-                  <rs type="person" ref="#amp_person_10">Shakespeare</rs>, <rs type="person" ref="#amp_person_11">Goethe</rs>, <rs type="person" ref="#amp_person_12">Titian</rs>, <rs type="person" ref="#amp_person_13">Mozart</rs>, et al, had never existed.<del>"</del><lb/>
-                  Two. <space quantity="1" unit="char"/>I believe that the only way in which, to-day at any rate,<lb/>
+                  <rs type="person" ref="#amp_person_10">Shakespeare</rs>, <rs type="person" ref="#amp_person_11">Goethe</rs>, <rs type="person" ref="#amp_person_12">Titian</rs>, <rs type="person" ref="#amp_person_13">Mozart</rs>, et al, had never existed.<del>"</del></seg><lb/>
+                  <seg>Two. <space quantity="1" unit="char"/>I believe that the only way in which, to-day at any rate,<lb/>
                   one can speak <hi rend="underline">seriously</hi> about serious matters (the alternative<lb/>
                   is silence) is comically.... <space quantity="1" unit="char"/>I have enormously admired - and <del>by</del><lb/>
                   been influenced by - the tradition of Jewish humor. <space quantity="1" unit="char"/>More than<lb/>
@@ -2412,34 +2456,38 @@ for any purpose, even commercially.</p>
                   that is to say, human suffering, the contradictions of human<lb/>
                   existence, and the relation between man and God, occasions for<lb/>
                   humorous expression. <space quantity="1" unit="char"/>e.g. '<del>I</del>If the rich could hire other people<lb/>
-                  to die for them, the poor could make a wonderful living', or,
+                  to die for them, the poor could make a wonderful living', or,</seg></quote>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0424/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0425/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="27" unit="char"/>34.
-               </p>
-               <p>
-                  'Truth rests with God alone, and a little bit with me', or 'God<lb/>
-                  will provide - ah, if only he would till He does so.'" <space quantity="1" unit="char"/>After a<lb/>
+               </ab>
+               <p prev="true">
+                  <quote source="acdh:amp-transcript__0004.xml"><seg>'Truth rests with God alone, and a little bit with me', or 'God<lb/>
+                  will provide - ah, if only he would till He does so.'"</seg></quote> <space quantity="1" unit="char"/>After a<lb/>
                   brief domestic chronicle he adds that <rs type="person" ref="#amp_person_174">a friend of his who teaches<lb/>
                   schyzophrenics</rs> had a seventeen year old girl who was interested<lb/>
                   in poetry. <space quantity="1" unit="char"/>Asked what poets she liked, she mentioned <rs type="person" ref="#amp_person_1">Auden</rs>.<lb/>
-                  <del>'</del>'I happen to know him quite well'said the friend. <space quantity="1" unit="char"/>To wh<del>8</del>ich the<lb/>
-                  girl in astonishment: <space quantity="1" unit="char"/>'You mean to say, he's still <hi rend="underline">alive</hi>?'<lb/>
-                  (<rs type="person" ref="#amp_person_1">Auden</rs> was about 58 at the time).<lb/>
+                  <del>'</del>'I happen to know him quite well'said the friend. <space quantity="1" unit="char"/><quote source="acdh:amp-transcript__0004.xml">To wh<del>8</del>ich the<lb/>
+                  girl in astonishment: <space quantity="1" unit="char"/>'You mean to say, he's still <hi rend="underline">alive</hi>?'</quote><lb/>
+                  (<rs type="person" ref="#amp_person_1">Auden</rs> was about 58 at the time).
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>That deeply scored face which struck awe into so many people<lb/>
                   who saw him, that battlefield so mercilessly displayed above dozens<lb/>
-                  upon dozens of newspaper articles: <space quantity="1" unit="char"/>when I look at my own photographs<lb/>
-                  of him I am appalled at the speed of the development. <space quantity="1" unit="char"/>It was a<lb/>
+                  upon dozens of newspaper articles: <space quantity="1" unit="char"/>when I look at <ref target="acdh:amp-transcript__0072.xml acdh:amp-transcript__0054.xml acdh:amp-transcript__0055.xml acdh:amp-transcript__0068.xml acdh:amp-transcript__0066.xml acdh:amp-transcript__0065.xml acdh:amp-transcript__0067.xml acdh:amp-transcript__0077.xml acdh:amp-transcript__0078.xml">my own photographs<lb/>
+                  of him</ref> I am appalled at the speed of the development. <space quantity="1" unit="char"/>It was a<lb/>
                   head straight out of the icelandic sagas, or a prehistoric head<lb/>
                   from the bogs of <rs type="place" ref="#amp_place_id_96">Jutland</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> should have been car<del>c</del>ved, much<lb/>
-                  larger than life, by <rs type="person" ref="#amp_person_82">Henry Moore</rs> and placed in effigy on a high hill.<lb/>
+                  larger than life, by <rs type="person" ref="#amp_person_82">Henry Moore</rs> and placed in effigy on a high hill.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>Abruptly, the way most statements emerged from <rs type="person" ref="#amp_person_1">Auden</rs>, he said<lb/>
                   one day at lunch: <space quantity="1" unit="char"/>"<rs type="person" ref="#amp_person_83">Kokoschka</rs> wants to paint me." <space quantity="1" unit="char"/><unclear>I</unclear>t appears that<lb/>
-                  <rs type="person" ref="#amp_person_83">Oskar Kokoschka</rs> had written and asked him to come to <rs type="place" ref="#amp_place_id_97">Switzerland</rs>.<lb/>
-                  But <rs type="person" ref="#amp_person_1">Auden</rs> felt it was too much of an effort, and evidently the much<lb/>
-                  older man felt the same way, so that nothing came of it. <space quantity="1" unit="char"/><unclear>I</unclear>t is a<lb/>
+                  <rs type="event" ref="#amp_event_id_111"><rs type="person" ref="#amp_person_83">Oskar Kokoschka</rs> had written and asked him to come to <rs type="place" ref="#amp_place_id_97">Switzerland</rs></rs>.<lb/>
+                  But <rs type="person" ref="#amp_person_1">Auden</rs> felt it was too much of an effort, and evidently the <rs type="person" ref="#amp_person_83">much<lb/>
+                  older man</rs> felt the same way, so that nothing came of it. <space quantity="1" unit="char"/><unclear>I</unclear>t is a<lb/>
                   great pity, because for one thing they would have enjoyed each<lb/>
                   other's company, and the sight of these physically so oddly similar<lb/>
                   men sitting together must have fired some onlooker if only to the<lb/>
@@ -2448,11 +2496,15 @@ for any purpose, even commercially.</p>
                   portrait, though the thought satisfied him. <space quantity="1" unit="char"/>"After all", he said,<lb/>
                   as he reached for his wine glass and narrowed his eyes to slits<lb/>
                   against the su<del>b</del>nlight seeping in from the garden, "After all, I AM<lb/>
-                  a <rs type="person" ref="#amp_person_83">Kokoschka</rs> painting."<lb/>
+                  a <rs type="person" ref="#amp_person_83">Kokoschka</rs> painting."
+               </p>
+               <p>
                   <space quantity="4" unit="char"/>But the causes: <space quantity="1" unit="char"/>the question needs to be answered. <space quantity="1" unit="char"/><hi rend="underline">Why</hi> was<lb/>
                   <rs type="person" ref="#amp_person_1">Auden</rs>, in his sixties and indeed much earlier, a prematurely aged<lb/>
-                  man? <space quantity="1" unit="char"/>"Ein alter Mann", one or two German obituarists were to write,<lb/>
-                  but without surprise, or: <space quantity="1" unit="char"/>"the aged poet" - when he was 68!<lb/>
+                  man? <space quantity="1" unit="char"/>"<foreign xml:lang="de">Ein alter Mann</foreign>", one or two German obituarists were to write,<lb/>
+                  but without surprise, or: <space quantity="1" unit="char"/>"the aged poet" - when he was 68!
+               </p>
+               <p>
                   <space quantity="4" unit="char"/>Surely not. <space quantity="1" unit="char"/>There is one e<del>d</del>xplanation which I place on record<lb/>
                   only after much hesitation. <space quantity="1" unit="char"/>Some time after <rs type="event" ref="#amp_event_id_18"><rs type="person" ref="#amp_person_1">Auden</rs>'s death</rs> <rs type="person" ref="#amp_person_4">Chester<lb/>
                   Kallman</rs> gave me his e<del>d</del>xplanation for the evidence that <rs type="person" ref="#amp_person_1">Wystan</rs> had<lb/>
@@ -2463,10 +2515,10 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0426/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0427/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="28" unit="char"/>35.
-               </p>
-               <p>
+               </ab>
+               <p prev="true">
                   in <rs type="place" ref="#amp_place_id_10">Austria</rs>. <space quantity="1" unit="char"/>Most people now have forgotten about Benzedrene;<lb/>
                   other things <space quantity="1" unit="char"/>have taken its place. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs> reminded me that it<lb/>
                   was the stimulant with the help of which airmen in wartime,<lb/>
@@ -2478,7 +2530,9 @@ for any purpose, even commercially.</p>
                   later when the emergency was over. <space quantity="1" unit="char"/>But to take Benzedr<del>e</del>ine over a<lb/>
                   long period meant - I am quoting <rs type="person" ref="#amp_person_4">Kallman</rs> and subject to correction -<lb/>
                   using up ones body at an accelerated rate with the obvious<lb/>
-                  consequence that it would become prematurely aged.<lb/>
+                  consequence that it would become prematurely aged.
+               </p>
+               <p>
                   <space quantity="4" unit="char"/>It would be difficult to think of any reason why <rs type="person" ref="#amp_person_4">Chester</rs> should<lb/>
                   say <del>r</del>this if it were not substantially true. <space quantity="2" unit="char"/>As to why <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
                   should have felt he needed such a powerful stimulant, over and<lb/>
