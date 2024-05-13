@@ -106,7 +106,7 @@
                                  <forename>Tamsyn</forename>
                               </persName>
                            </author>
-                           <title>The death of the newspaper diary? </title>
+                           <title>The death of the newspaper diary?</title>
                            <orgName>BBC</orgName>
                            <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_56"/>
                            <date when-iso="2009-10-08"/>
@@ -142,6 +142,24 @@
                      </desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
                      <certainty cert="medium" locus="value"/>
+                  </interp>
+                  <interp xml:id="ana_043" source="ph_043"><!-- link to nanopub -->
+                     <desc>
+                        The personal memoir of Auden's Austrian acquaintance Franz Kaisergruber, principal of the Böheimkirchen secondary school, recalls <rs type="person" ref="#amp_person_1">Auden</rs> issuing a cheque worth 450 dollars to support the son of a friend (released from his duties because of his membership in the National Socialist party) of Kaisergruber's. The 18-year-old was planning to attend the <rs type="org" ref="#amp_organization_56">Technical University in Vienna</rs> to become an engineer. According to Kaisergruber, Auden continued his support of the family for many years (2).
+                        <bibl source="https://totzenbach.topothek.at/?doc=44653">
+                           <author>
+                              <persName>
+                                 <surname>Kaisergruber</surname>
+                                 <forename>Franz</forename>
+                              </persName>
+                           </author>
+                           <title>W.H. Auden</title>
+                           <orgName>ZEITzeigen: Wissenschaftlicher Verein für die Geschichte des westlichen Wienerwalds</orgName>
+                           <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_5"/>
+                        </bibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="high" locus="value"/>
                   </interp>
                </interpGrp>
             </edition>
@@ -2539,36 +2557,38 @@ for any purpose, even commercially.</p>
                   above those which modern man indulges in as a matter of course -<lb/>
                   coffee, tea, alcohol and cigaret<del>e</del>tes - his friends of those <del>days</del><lb/>
                   years can answer. <space quantity="2" unit="char"/>Perhaps an extract from <rs type="person" ref="#amp_person_84">Edmund Wilson</rs>'s<lb/>
-                  <rs type="lit_work" ref="#lit_work_id_78">"W.H. Auden in America"</rs> is helpful: <space quantity="1" unit="char"/>it is one of a collection of<lb/>
-                  critical essays edited by <rs type="person" ref="#amp_person_85">Monroe Spears</rs> and published in 1964:<lb/>
+                  <rs type="lit_work" ref="#lit_work_id_78">"W.H. Auden in America"</rs> is helpful: <space quantity="1" unit="char"/>it is one of a <rs type="lit_work" ref="#lit_work_id_201">collection of<lb/>
+                  critical essays</rs> edited by <rs type="person" ref="#amp_person_85">Monroe Spears</rs> and published in 1964:<lb/>
                   the operative phrase lies buried in the quotation.
-               </p>
-               <p>
-                  <space quantity="5" unit="char"/>"Since becoming an American citizen, the poet has not<lb/>
-                  <space quantity="4" unit="char"/>ceased to explore, to roam - he has covered more ground in<lb/>
-                  <space quantity="4" unit="char"/>this country than most Americans do, and he now spends every<lb/>
-                  <space quantity="4" unit="char"/>summer in <rs type="place" ref="#amp_place_id_159">Italy</rs>. This spring he returns to <rs type="place" ref="#amp_place_id_93">England</rs> to be<lb/>
-                  <space quantity="4" unit="char"/>lecturer on poetry at <rs type="org" ref="#amp_organization_55">Oxford</rs>. <space quantity="1" unit="char"/>It is a part of his role to go<lb/>
-                  <space quantity="4" unit="char"/>everywhere, <del>to</del> be accessible to all sorts of people, serve<lb/>
-                  <space quantity="4" unit="char"/>int<del>r</del>erestedly and conscientiously in innumerable varied<lb/>
-                  <space quantity="4" unit="char"/>capacities: <space quantity="1" unit="char"/><rs type="event" ref="#amp_event_id_60">on the staff of a <rs type="org" ref="#amp_organization_58">Middle Western college</rs></rs>; <space quantity="1" unit="char"/>at <rs type="event" ref="#amp_event_id_59">a<lb/>
-                  <space quantity="4" unit="char"/>cultural congress in <rs type="place" ref="#amp_place_id_98">India</rs></rs>; <space quantity="1" unit="char"/>on a grand jury in <rs type="place" ref="#amp_place_id_28">New York City</rs>,<lb/>
-                  <space quantity="4" unit="char"/>deciding the fate of gangsters; <space quantity="1" unit="char"/>on a committee of the<lb/>
-                  <space quantity="4" unit="char"/><rs type="org" ref="#amp_organization_2">American Academy</rs>, making handouts to needy writers. <space quantity="1" unit="char"/>He has<lb/>
-                  <space quantity="4" unit="char"/>above all withstood the ordeal of <del><del><unclear>L</unclear></del>Y</del><rs type="place" ref="#amp_place_id_15">America</rs> through a habitation<lb/>
-                  <space quantity="4" unit="char"/>of seventeen years; <space quantity="1" unit="char"/>he has even 'succeeded' here." And he<lb/>
-                  <space quantity="4" unit="char"/>has made all these exploits contribute to the work of a great<lb/>
-                  <space quantity="4" unit="char"/>English poet who is also - in the not <hi rend="underline">mondain</hi> sense - one<lb/>
-                  <space quantity="4" unit="char"/>of the great English men of the world."
+                  <seg>
+                     <quote source="#lit_work_id_78">
+                        <space quantity="5" unit="char"/>"Since becoming an American citizen, <rs type="person" ref="#amp_person_1">the poet</rs> has not<lb/>
+                        <space quantity="4" unit="char"/>ceased to explore, to roam - he has covered more ground in<lb/>
+                        <space quantity="4" unit="char"/>this country than most Americans do, and he now spends every<lb/>
+                        <space quantity="4" unit="char"/>summer in <rs type="place" ref="#amp_place_id_159">Italy</rs>. This spring he returns to <rs type="place" ref="#amp_place_id_239">England</rs> to be<lb/>
+                        <space quantity="4" unit="char"/>lecturer on poetry at <rs type="org" ref="#amp_organization_55">Oxford</rs>. <space quantity="1" unit="char"/>It is a part of his role to go<lb/>
+                        <space quantity="4" unit="char"/>everywhere, <del>to</del> be accessible to all sorts of people, serve<lb/>
+                        <space quantity="4" unit="char"/>int<del>r</del>erestedly and conscientiously in innumerable varied<lb/>
+                        <space quantity="4" unit="char"/>capacities: <space quantity="1" unit="char"/><rs type="event" ref="#amp_event_id_60">on the staff of a <rs type="org" ref="#amp_organization_58">Middle Western college</rs></rs>; <space quantity="1" unit="char"/>at <rs type="event" ref="#amp_event_id_59">a<lb/>
+                        <space quantity="4" unit="char"/>cultural congress in <rs type="place" ref="#amp_place_id_98">India</rs></rs>; <space quantity="1" unit="char"/>on a grand jury in <rs type="place" ref="#amp_place_id_28">New York City</rs>,<lb/>
+                        <space quantity="4" unit="char"/>deciding the fate of gangsters; <space quantity="1" unit="char"/>on a committee of the<lb/>
+                        <space quantity="4" unit="char"/><rs type="org" ref="#amp_organization_2">American Academy</rs>, making handouts to needy writers. <space quantity="1" unit="char"/>He has<lb/>
+                        <space quantity="4" unit="char"/>above all withstood the ordeal of <del><del><unclear>L</unclear></del>Y</del><rs type="place" ref="#amp_place_id_15">America</rs> through a habitation<lb/>
+                        <space quantity="4" unit="char"/>of seventeen years; <space quantity="1" unit="char"/>he has even 'succeeded' here." And he<lb/>
+                        <space quantity="4" unit="char"/>has made all these exploits contribute to the work of a great<lb/>
+                        <space quantity="4" unit="char"/>English poet who is also - in the not <hi rend="underline">mondain</hi> sense - one<lb/>
+                        <space quantity="4" unit="char"/>of the great English men of the world."
+                     </quote>
+                  </seg>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0428/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0429/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="25" unit="char"/>36.
-               </p>
-               <p hand="handwritten">
+               </ab>
+               <ab hand="#handwritten">
                   <unclear>+</unclear> + <unclear>+</unclear>
-               </p>
+               </ab>
                <p>
                   <space quantity="5" unit="char"/>During <rs type="event" ref="#amp_event_id_42">the uprising in <rs type="place" ref="#amp_place_id_100">Czechoslovakia</rs></rs> in the early autumn<lb/>
                   of 1968 <rs type="place" ref="#amp_place_id_1">Vienna</rs> was filled with people who had come across the<lb/>
@@ -2576,37 +2596,41 @@ for any purpose, even commercially.</p>
                   their own country and explore the possibilities. <space quantity="1" unit="char"/>Many people<lb/>
                   had strangers in their houses and <rs type="person" ref="#amp_person_1">Auden</rs> wanted to do his bit.<lb/>
                   As he was just leaving <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> he left it to me to choose<lb/>
-                  a suitable family, and having done so I wrote to him c/o <rs type="person" ref="#amp_person_19">Heyworth</rs>,<lb/>
-                  <rs type="place" ref="#amp_place_id_45">32 Bryanston Square, London W.1</rs>. <space quantity="1" unit="char"/>A <rs type="letter" ref="#amp-transcript__0009.xml">reply</rs> is dated 15 October 1968:
-               </p>
-               <p>
-                  <space quantity="5" unit="char"/>"Got back from <del><gap reason="deleted"/></del><rs type="place" ref="#amp_place_id_46">Oxford</rs> yesterday and found your letter waiting.<lb/>
-                  <space quantity="5" unit="char"/>1) I think I ought to take the <rs type="person" ref="#amp_person_155 #amp_person_171">couple</rs> in, but I must leave<lb/>
-                  <space quantity="5" unit="char"/>it to you to decide whether they are O.K. If they are, all<lb/>
-                  <space quantity="5" unit="char"/>rooms, including my study (which can't be heated) are open<lb/>
-                  <space quantity="5" unit="char"/>to them.<lb/>
-                  <space quantity="5" unit="char"/>2) How much money will they need to keep going? <space quantity="1" unit="char"/>And how<lb/>
-                  <space quantity="5" unit="char"/>shall I make the arrangements for payment.<lb/>
-                  <space quantity="5" unit="char"/>3) Will they be able to find work or emigrate before I<lb/>
-                  <space quantity="5" unit="char"/>return in April, when I'<del>M</del>m afraid there will not be room<lb/>
-                  <space quantity="5" unit="char"/>for them?<lb/>
-                  <space quantity="5" unit="char"/>4) I'm worried about how they will get gas cylinders for<lb/>
-                  <space quantity="5" unit="char"/>cooking from <rs type="place" ref="#amp_place_id_47">Neulengbach</rs>, since, presumably, they have no car.<lb/>
-                  <space quantity="5" unit="char"/>I expect someone in the <rs type="place" ref="#amp_place_id_5">village</rs> will help.<lb/>
-                  <space quantity="5" unit="char"/>5) If and when they come, I must know in advance so that<lb/>
-                  <space quantity="5" unit="char"/>I can write a note to the <rs type="person" ref="#amp_person_22">Burgomeister</rs>..."
+                  a suitable family, and having done so <rs type="event" ref="#amp_event_id_88">I wrote to him c/o <rs type="person" ref="#amp_person_19">Heyworth</rs>,<lb/>
+                  <rs type="place" ref="#amp_place_id_45">32 Bryanston Square, London W.1</rs></rs>. <space quantity="1" unit="char"/>A <ref target="acdh:amp-transcript__0009.xml">reply</ref> is dated 15 October 1968:<lb/>
+                  <seg>
+                     <quote source="acdh:amp-transcript__0009.xml">
+                        <seg><space quantity="5" unit="char"/>"Got back from <del><gap reason="deleted"/></del><rs type="place" ref="#amp_place_id_46">Oxford</rs> yesterday and found <rs type="event" ref="#amp_event_id_88">your letter</rs> waiting.</seg><lb/>
+                        <seg><space quantity="5" unit="char"/>1) I think I ought to take the <rs type="person" ref="#amp_person_155 #amp_person_171" ana="acdh:amp-transcript__0009.xml#ana_012">couple</rs> in, but I must leave<lb/>
+                        <space quantity="5" unit="char"/>it to you to decide whether they are O.K. If they are, all<lb/>
+                        <space quantity="5" unit="char"/>rooms, including my study (which can't be heated) are open<lb/>
+                        <space quantity="5" unit="char"/>to them.</seg><lb/>
+                        <seg><space quantity="5" unit="char"/>2) How much money will they need to keep going? <space quantity="1" unit="char"/>And how<lb/>
+                        <space quantity="5" unit="char"/>shall I make the arrangements for payment.</seg><lb/>
+                        <seg><space quantity="5" unit="char"/>3) Will they be able to find work or emigrate before I<lb/>
+                        <space quantity="5" unit="char"/>return in April, when I'<del>M</del>m afraid there will not be room<lb/>
+                        <space quantity="5" unit="char"/>for them?</seg><lb/>
+                        <seg><space quantity="5" unit="char"/>4) I'm worried about how they will get gas cylinders for<lb/>
+                        <space quantity="5" unit="char"/>cooking from <rs type="place" ref="#amp_place_id_47">Neulengbach</rs>, since, presumably, they have no car.<lb/>
+                        <space quantity="5" unit="char"/>I expect someone in the <rs type="place" ref="#amp_place_id_5">village</rs> will help.</seg><lb/>
+                        <seg><space quantity="5" unit="char"/>5) If and when they come, I must know in advance so that<lb/>
+                        <space quantity="5" unit="char"/>I can write a note to the <rs type="person" ref="#amp_person_22"><foreign xml:lang="de"><choice><orig>Burgomeister</orig><reg>Bürgermeister</reg></choice></foreign></rs>..."</seg>
+                     </quote>
+                  </seg>
                </p>
                <p>
                   <space quantity="5" unit="char"/>The <rs type="person" ref="#amp_person_155 #amp_person_171">couple</rs> found somewhere else to live in a less remote<lb/>
                   place, the emergency was soon over and <rs type="person" ref="#amp_person_1">Auden</rs> did<del>n't</del> not disguise<lb/>
-                  his <rs type="letter" ref="#amp-transcript__0010">relief</rs>:
-               </p>
-               <p>
-                  <space quantity="35" unit="char"/>"<rs type="place" ref="#amp_place_id_29">77 St. Mark's Place, N.Y.C.</rs><lb/>
-                  <space quantity="46" unit="char"/>Nov.6th.<lb/>
-                  <space quantity="5" unit="char"/>Many thanks for your letter. <space quantity="1" unit="char"/>Of course, selfishly, I'm<lb/>
-                  <space quantity="5" unit="char"/>rather relieved. <space quantity="1" unit="char"/>How horrid one is!<lb/>
-                  <space quantity="5" unit="char"/>The <rs type="place" ref="#amp_place_id_15">U.S.</rs> is grim."
+                  his relief:
+                  <seg>
+                     <quote source="acdh:amp-transcript__0010.xml">
+                        <space quantity="35" unit="char"/>"<rs type="place" ref="#amp_place_id_29">77 St. Mark's Place, N.Y.C.</rs><lb/>
+                        <space quantity="46" unit="char"/>Nov.6th.<lb/>
+                        <space quantity="5" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_91">your letter</rs>. <space quantity="1" unit="char"/>Of course, selfishly, I'm<lb/>
+                        <space quantity="5" unit="char"/>rather relieved. <space quantity="1" unit="char"/>How horrid one is!<lb/>
+                        <space quantity="5" unit="char"/>The <rs type="place" ref="#amp_place_id_15">U.S.</rs> is grim."
+                     </quote>
+                  </seg>
                </p>
                <p>
                   <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> was an extraordinarily generous person. <space quantity="1" unit="char"/>An evening<lb/>
@@ -2617,18 +2641,20 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0430/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0431/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="27" unit="char"/>37.
-               </p>
-               <p>
-                  greater the contrast with the enfor<del>f</del>ced silence of a young<lb/>
-                  Austrian whose identity was never fully revealed, though<lb/>
+               </ab>
+               <p prev="true">
+                  greater the contrast with the enfor<del>f</del>ced silence of a <rs type="note" ana="#ana_043">young<lb/>
+                  Austrian whose identity was never fully revealed</rs>, though<lb/>
                   <rs type="person" ref="#amp_person_4">Chester</rs> muttered to me: <space quantity="1" unit="char"/>"<rs type="person" ref="#amp_person_1">W<del>Y</del>ystan</rs> is helping with his studies<lb/>
                   at the <rs type="org" ref="#amp_organization_56">College of Technology</rs>." <space quantity="1" unit="char"/>When the party broke up it<lb/>
                   turned out that the young man lived in my direction, so I took<lb/>
                   him home, and in my car he opened his mouth and spo<del>i</del>ke, and<lb/>
                   what he said became engraved on my mind. <space quantity="1" unit="char"/>"Who is <rs type="person" ref="#amp_person_1">Professor<lb/>
-                  Auden</rs>?" he asked. <space quantity="1" unit="char"/>"Tell me about him. <space quantity="1" unit="char"/>Is he an important man?"<lb/>
+                  Auden</rs>?" he asked. <space quantity="1" unit="char"/>"Tell me about him. <space quantity="1" unit="char"/>Is he an important man?"
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>This is the cue for a story which, though with names<lb/>
                   omitted, should be placed on record. <space quantity="1" unit="char"/>It must have been in<lb/>
                   about 1949 or 1950 that an American woman was travelling by<lb/>
