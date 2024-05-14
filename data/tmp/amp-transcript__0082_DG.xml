@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="amp-transcript__0082.xml" xml:base="https://id.acdh.oeaw.ac.at/auden-musulin-papers">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
+            <title level="a">Notes W. H. Auden Beethoven Books</title>
+            <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+            <funder>
+               <name>Austrian Science Fund (FWF)</name>
+               <address>
+                  <street>Georg-Coch-Platz 2</street>
+                  <postCode>1010 Vienna</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Vienna</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <title>Notes W. H. Auden Beethoven Books</title>
+            </edition>
+            <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
+            <respStmt><resp>TEI Schema, ODD/RNG</resp><name ref="https://orcid.org/0000-0002-9575-9372" xml:id="pandorfer">Andorfer, Peter</name><name ref="https://orcid.org/0000-0002-0636-4476" xml:id="delsner">Elsner, Daniel</name></respStmt></editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
+                  <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
+                     for any purpose, even commercially.</p>
+                  <p>The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:</p>
+                  <p>Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+                  <p>Notices:</p>
+                  <p>You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.</p>
+               </licence>
+               <p>Copyright literary texts W. H. Auden Estate of W. H. Auden.</p>
+            </availability>
+            <idno type="handle">https://hdl.handle.net/21.11115/0000-000F-7452-2</idno></publicationStmt>
+         <seriesStmt>
+            <p>Machine-Readable Transcriptions of the Auden Musulin Papers</p>
+         </seriesStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>A</country>
+                        <settlement>St. Pölten</settlement>
+                        <repository>State Collections of Lower Austria</repository>
+                        <collection>Stella Musulin (Depot)</collection>
+                        <idno>nan</idno>
+                     </msIdentifier>
+                     <history>
+                        <origin>
+                           <origDate notBefore-iso="1976-09-04T00:00:00+01:00" notAfter-iso="1980-12-01T23:59:59+01:00">1976-09-04--1980-12-01</origDate>
+                        </origin>
+                     </history>
+                  </msDesc>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+            <language ident="de">German</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2022-08-30">template populated with script "create_templates.py"</change>
+         <change who="dgrigoriou" when="2024-05-14">text transcribed</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5710" lry="7740">
+         <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0389/"/>
+      </surface>
+   </facsimile>
+   <text type="notes" hand="#handwritten">
+      <body>
+         <div type="transcription" xml:id="transcription_amp_0082" xml:lang="XXX">
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_XXXX/" type="sheet"/>
+            <ab>
+               <seg>1182 quality of 127</seg><lb/>
+               <seg>1202. temper with Karl</seg><lb/>
+               <seg>1211 alone at ...</seg><lb/>
+               <seg>1258. who of taking .....</seg><lb/>
+               <seg>1266. universal respect</seg><lb/>
+               <seg>1269 temper with ... ist</seg><lb/>
+               <seg>1282 with a cluster</seg><lb/>
+               <seg>1322 ... who owns pe...</seg><lb/>
+               <seg>goethe</seg><lb/>
+               <seg>44. .... 2.</seg><lb/>
+               <seg>995. opinion of M... Sh...</seg><lb/>
+               <seg>999. of at wh....</seg><lb/>
+               <seg>1027. music july</seg><lb/>
+               <seg>1028. Grillfaizer. whether</seg><lb/>
+               <seg>1036. Grillfaizer. whether</seg><lb/>
+            </ab>
+         </div>
+      </body>
+   </text>
+</TEI>
