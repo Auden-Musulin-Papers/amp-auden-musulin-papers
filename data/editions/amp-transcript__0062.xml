@@ -2677,34 +2677,42 @@ for any purpose, even commercially.</p>
                   <del>the more</del> sad, and ironical too, that his final years in <rs type="place" ref="#amp_place_id_10">Austria</rs><lb/>
                   should have brought him into conflict with the tax authorities.<lb/>
                   He had felt at peace in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>:
+                  <seg>
+                     <quote source="#lit_work_id_60">
+                        <lg>
+                           <lb/><space quantity="11" unit="char"/><l>Here, though, I feel as at home</l>
+                           <lb/><space quantity="11" unit="char"/><l>as you did: <space quantity="1" unit="char"/>the same</l>
+                           <lb/><space quantity="11" unit="char"/><l>short-<del>öo</del>lived creatures re-utter</l>
+                           <lb/><space quantity="11" unit="char"/><l>the same care-free songs,</l>
+                           <lb/><space quantity="11" unit="char"/><l>orchards cling to the regime</l>
+                           <lb/><space quantity="11" unit="char"/><l>they know, from April's</l>
+                           <lb/><space quantity="11" unit="char"/><l>rapid augment of colour</l>
+                           <lb/><space quantity="11" unit="char"/><l>till boisterous Fall,</l>
+                           <lb/><space quantity="11" unit="char"/><l>when at each stammering gust</l>
+                           <lb/><space quantity="11" unit="char"/><l>apples thump the ground.</l>
+                        </lg>
+                     </quote>
+                  </seg>
                </p>
-               <lg>
-                  <l><space quantity="11" unit="char"/>Here, though, I feel as at home</l>
-                  <l><space quantity="11" unit="char"/>as you did: <space quantity="1" unit="char"/>the same</l>
-                  <l><space quantity="11" unit="char"/>short-<del>öo</del>lived creatures re-utter</l>
-                  <l><space quantity="11" unit="char"/>the same care-free songs,</l>
-                  <l><space quantity="11" unit="char"/>orchards cling to the regime</l>
-                  <l><space quantity="11" unit="char"/>they know, from April's</l>
-                  <l><space quantity="11" unit="char"/>rapid augment of colour</l>
-                  <l><space quantity="11" unit="char"/>till boisterous Fall,</l>
-                  <l><space quantity="11" unit="char"/>when at each stammering gust</l>
-                  <l><space quantity="11" unit="char"/>apples thump the ground.</l>
-               </lg>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0432/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0433/" type="sheet"/>
-               <p>
+               <ab>
                   <space quantity="23" unit="char"/>38.
-               </p>
+               </ab>
                <p>
                   A nd in his <rs type="lit_work" ref="#lit_work_id_38">Prologue at Sixty</rs>:
+                  <seg>
+                     <quote source="#lit_work_id_38">
+                        <lg>
+                           <lb/><space quantity="10" unit="char"/><l>Though the absence of hedge-rows is odd to me</l>
+                           <lb/><space quantity="10" unit="char"/><l>(no Whi<del>t</del>g landlord, the landscape vaunts,</l>
+                           <lb/><space quantity="10" unit="char"/><l>ever <del><unclear>u</unclear></del>empired on Austrian ground),</l>
+                           <lb/><space quantity="10" unit="char"/><l>this unenglish tract after ten years</l>
+                           <lb/><space quantity="10" unit="char"/><l>into my love has looked itself...</l>
+                        </lg>
+                     </quote>
+                  </seg>
                </p>
-               <lg>
-                  <l><space quantity="10" unit="char"/>Though the absence of hedge-rows is odd to me</l>
-                  <l><space quantity="10" unit="char"/>(no Whi<del>t</del>g landlord, the landscape vaunts,</l>
-                  <l><space quantity="10" unit="char"/>ever <del><unclear>u</unclear></del>empired on Austrian ground),</l>
-                  <l><space quantity="10" unit="char"/>this unenglish tract after ten years</l>
-                  <l><space quantity="10" unit="char"/>into my love has looked itself...</l>
-               </lg>
                <p>
                   <space quantity="5" unit="char"/>But then worry invaded it. <space quantity="1" unit="char"/>While all the time believing<lb/>
                   himself not to be liable for income tax, debts to the fiscus were<lb/>
@@ -2713,22 +2721,26 @@ for any purpose, even commercially.</p>
                   930,000. <space quantity="1" unit="char"/>What this meant to <rs type="person" ref="#amp_person_1">Auden</rs> was that instead of being able<lb/>
                   to take things a bit more easily, he had to pay out pretty well<lb/>
                   all that he had put on one side, and return to the lecture circuit<lb/>
-                  in the <rs type="place" ref="#amp_place_id_15">States</rs>, a prospect which he viewed with dread.<lb/>
+                  in the <rs type="place" ref="#amp_place_id_15">States</rs>, a prospect which he viewed with dread.
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>"Do you know" he said to me, "they're accusing me of having<lb/>
                   been inspired by the Austrian landscape! <space quantity="1" unit="char"/>The <rs type="lit_work" ref="#lit_work_id_60">Weinheber poem</rs> and<lb/>
                   all that." <space quantity="1" unit="char"/>I said: <space quantity="1" unit="char"/>"You wrote <rs type="lit_work" ref="#lit_work_id_60">the poem</rs> in <rs type="place" ref="#amp_place_id_17">Berlin</rs>" and he<lb/>
                   shrugged. <space quantity="1" unit="char"/>At that time I had no idea how serious the whole thing<lb/>
                   was. <space quantity="1" unit="char"/>As <del>r</del>the result of an appeal in high quarters the sum <del>a</del>was<lb/>
                   reduced by about half, and was fully paid up. <space quantity="1" unit="char"/>At some point, the<lb/>
-                  document is undated, <rs type="person" ref="#amp_person_1">Auden</rs> composed a <rs type="lit_work" ref="#lit_work_81">statement</rs>, consisting of<lb/>
+                  document is undated, <rs type="person" ref="#amp_person_1">Auden</rs> composed a <rs type="lit_work" ref="#lit_work_105" ana="acdh:amp-transcript__0031.xml#ana_031">statement</rs>, consisting of<lb/>
                   three pages of typescript, giving his point of view in this<lb/>
                   extraordinary aff<del>q</del>air. <space quantity="1" unit="char"/>One day, if the whole official correspondence<lb/>
                   is published, t<del>i</del>his document with the rest will be numbered among<lb/>
-                  the curiosities of literary history.§<lb/>
+                  the curiosities of literary history.§
+               </p>
+               <p>
                   <space quantity="5" unit="char"/>Having disposed of the "accusations" that he had a "material<lb/>
                   interest" in <rs type="place" ref="#amp_place_id_10">Austria</rs>, that he had been <rs type="event" ref="#amp_event_id_46">awarded <del>a</del>the state prize for<lb/>
-                  literature</rs> and that a <rs type="place" ref="#amp_place_id_266">road in Kirchstetten</rs> had been named after<lb/>
-                  him (he requested the local authorities, by the way, not to do so<lb/>
+                  literature</rs> and that a <rs type="note" ana="#ana_034">road in Kirchstetten had been named after<lb/>
+                  him</rs> (he requested the local authorities, by the way, not to do so<lb/>
                   until after his death, but they disregarded his wish) he continued:<lb/>
                   <space quantity="5" unit="char"/>"You go on to say, correctly, that I have written a few<lb/>
                   poems on Austrian themes. <space quantity="1" unit="char"/>To this I should like to make t<del>z</del>hree<lb/>
@@ -2737,10 +2749,10 @@ for any purpose, even commercially.</p>
                   <rs type="place" ref="#amp_place_id_10">Austria</rs>. <space quantity="1" unit="char"/>A few of them were translated into German, but in this<lb/>
                   case the translators received the money, not I.
                </p>
-               <p>
+               <ab>
                   § The <rs type="lit_work" ref="#lit_work_id_103">statement</rs> is in German translation, what follows is my own<lb/>
                   <space quantity="2" unit="char"/><rs type="lit_work" ref="#lit_work_id_104">re-translation</rs> back into English and not the <rs type="lit_work" ref="#lit_work_id_99">original</rs>.
-               </p>
+               </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0434/" type="sheet"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0435/" type="sheet"/>
                <p>
