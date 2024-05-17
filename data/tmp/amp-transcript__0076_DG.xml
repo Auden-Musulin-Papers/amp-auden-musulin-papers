@@ -158,12 +158,15 @@
                <seg>789. Flatten</seg><lb/> 
                <seg>822. only H<gap reason="illegible"/> and Bach gewesen</seg><lb/>    
                <seg>824. love for Karl</seg><lb/> 
-               <seg>829. <hi rend="underline">cancel</hi></seg><lb/>
+               <seg>829.c <hi rend="underline">anc</hi>el</seg><lb/>
                <seg>830. Re<gap reason="illegible"/> Karl's letter</seg><lb/>
                <seg>834. <gap reason="illegible"/> loud</seg><lb/>
                <seg>889, copycited notes</seg><lb/>
                <seg><hi rend="underline">922</hi> To his ca<gap reason="illegible"/></seg><lb/>
-               <seg>952. seeing</seg><lb/>
+               <seg><hi rend="underline">1070</hi> . Schw<gap reason="illegible"/></seg>
+               <seg>95<del>0</del>2. seeing</seg><lb/>
+            </ab>
+            <ab>
                <seg>559. way of making our c...</seg><lb/>
                <seg>596. search what museum le....</seg><lb/>
                <seg>453. s<gap reason="illegible"/>ien of docks</seg><lb/>
@@ -177,26 +180,28 @@
                <seg>750. Bah<gap reason="illegible"/>, chair</seg><lb/>
                <seg>751. Giarmata920 937 c f747</seg><lb/>
                <seg>Jan 6th</seg><lb/>
-               <seg>759. Art-life</seg><lb/>
+               <seg><hi rend="underline">759.</hi>Art-life</seg><lb/>
                <seg>770</seg><lb/>
-               <seg>766. Musical letter</seg><lb/>
+               <hi rend="underline"><seg>766. Musical letter</seg></hi><lb/>
                <seg>769. Self-defence.</seg><lb/>
-               <seg>883. Folk-songs</seg><lb/>
+               <hi rend="underline"><seg>883. Folk-songs</seg></hi><lb/>
                <seg>773. <gap reason="illegible"/></seg><lb/>
                <seg>poet Aukin musical o<gap reason="illegible"/></seg><lb/>
-               <seg>782. debt</seg><lb/>
+               <seg><hi rend="underline">782.</hi> debt</seg><lb/>
                <seg>as u<gap reason="illegible"/></seg>
             </ab>
            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_XXXX/" type="sheet"/>
             <ab>
                <seg>1182 quality of 127</seg><lb/>
                <seg>1202. Temper with Karl</seg><lb/>
-               <seg>1211 alone at <gap reason="illegible"/></seg><lb/>
+               <seg>1211 alone at table</seg><lb/>
                <seg>1258. who of taking <gap reason="illegible"/></seg><lb/>
                <seg>1266. universal respect</seg><lb/>
                <seg>1<del><gap reason="illegible"/></del>269 temper with <gap reason="illegible"/> ist</seg><lb/>
                <seg>1282 with a cluster</seg><lb/>
                <seg>1322 <gap reason="illegible"/> who owns pe<gap reason="illegible"/></seg><lb/>
+            </ab>
+            <ab>
                <seg>goethe</seg><lb/>
                <seg>44.<gap reason="illegible"/>. 2.</seg><lb/>
                <seg>995. opinion of M<gap reason="illegible"/> Sh<gap reason="illegible"/></seg><lb/>
@@ -206,13 +211,13 @@
                <seg>1036. of Math <gap reason="illegible"/> Tade T</seg><lb/>
                <seg>1040. Tohan  wife</seg><lb/>
                <seg>1056. Adonis <gap reason="illegible"/></seg><lb/>
-               <seg>1081.2 </seg><lb/>
+               <seg>1081.2</seg><lb/>
                <seg>Schmitten</seg><lb/>
                <seg>1110. living <gap reason="illegible"/> <gap reason="illegible"/> work</seg><lb/>
                <seg>1122. Teufel</seg><lb/>
-               <seg>1299. Sch<gap reason="illegible"/></seg><lb/>
+               <seg>1299. Scholar</seg><lb/>
                <seg>113.7 Never <gap reason="illegible"/> <gap reason="illegible"/> <gap reason="illegible"/> <gap reason="illegible"/> <gap reason="illegible"/></seg><lb/>
-               <seg>113 9 <gap reason="illegible"/> <gap reason="illegible"/> <gap reason="illegible"/></seg>
+               <seg>113 9. <gap reason="illegible"/> <gap reason="illegible"/> <gap reason="illegible"/></seg>
             </ab>
          </div>
       </body>
