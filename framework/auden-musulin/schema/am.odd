@@ -204,7 +204,7 @@
             </content>
             <constraintSpec ident="opener" module="textstructure" scheme="schematron">
               <constraint>
-                <sch:rule context="//tei:div[@type='letter_message']">
+                <sch:rule context="//tei:div[@type='letter_message'][1]">
                   <sch:assert test="count(./tei:opener) > 0">element missing; element opener required</sch:assert>
                 </sch:rule>
               </constraint>
