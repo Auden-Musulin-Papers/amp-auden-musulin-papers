@@ -1457,6 +1457,26 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>data/editions/amp-transcript__0039.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>schema - correspondence</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>Validation_scenario</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>data/editions/amp-transcript__0062.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -1526,6 +1546,9 @@
                                                     </field>
                                                 </validationUnitSchema>
                                             </field>
+                                            <field name="validationAdvancedSettings">
+                                                <null/>
+                                            </field>
                                         </validationUnit>
                                     </list>
                                 </field>
@@ -1581,6 +1604,9 @@
                                                         <String>${pdu}/framework/auden-musulin/schema/out/am-prose.rng</String>
                                                     </field>
                                                 </validationUnitSchema>
+                                            </field>
+                                            <field name="validationAdvancedSettings">
+                                                <null/>
                                             </field>
                                         </validationUnit>
                                     </list>
