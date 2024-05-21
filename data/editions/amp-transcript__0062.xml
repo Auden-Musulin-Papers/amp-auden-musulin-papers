@@ -572,7 +572,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0062" xml:lang="en">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0351/" type="sheet" ed="1r"/>
-               <space quantity="17" unit="char"/><title><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_47" ana="acdh:amp-transcript__0031.xml#ana_030">The Years in Austria</rs>.</hi></title>
+               <space quantity="17" unit="char"/><head><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_47" ana="acdh:amp-transcript__0031.xml#ana_030">The Years in Austria</rs>.</hi></head>
                <p>
                   <space quantity="5" unit="char"/>Half an hour from the outskirts of <rs type="place" ref="#amp_place_id_1">Vienna</rs> an invisible<lb/>
                   thread bisect<del>x</del>s the motorway. <space quantity="1" unit="char"/>It leads from <rs type="place" ref="#amp_place_id_322">the church</rs> which<lb/>
@@ -820,7 +820,7 @@ for any purpose, even commercially.</p>
                   beside my desk puts me in mind of the rise and fall of the<lb/>
                   telegram as a means of social communication. <space quantity="1" unit="char"/>In English novels<lb/>
                   during the period up to and even well beyond the <rs type="event" ref="#amp_event_id_53">first world war</rs> -<lb/>
-                  particularly in detective stories - the in<del><gap reason="deleted"/></del>cessant despatch and<lb/>
+                  particularly in detective stories - the in<del><gap  quantity="1" unit="char" reason="deleted"/></del>cessant despatch and<lb/>
                   receipt of telegrams, often of some length, play a prominent<lb/>
                   part in human relationships. <space quantity="1" unit="char"/>They were an <del>s</del>astonishingly rapid<lb/>
                   and comparatively inexpensive medium of communication and were<lb/>
@@ -1173,7 +1173,7 @@ for any purpose, even commercially.</p>
                   "sound" are there, so that it is almost a matter of indifference<lb/>
                   whether the play is read in English or German. <space quantity="1" unit="char"/>And <del>u</del>in a way,<lb/>
                   <rs type="person" ref="#amp_person_27">Eliot</rs> hardly deserved it: <space quantity="1" unit="char"/>Not long<del>o</del> ago <rs type="person" ref="#amp_person_166">George Steiner</rs> referred<lb/>
-                  to English writers' lack of <del><gap reason="deleted"/></del>a sympathy towards the German<lb/>
+                  to English writers' lack of <del><gap quantity="1" unit="char" reason="deleted"/></del>a sympathy towards the German<lb/>
                   classics and mentioned <rs type="person" ref="#amp_person_1">Auden</rs> as a striking exception.
                </p>   
                <ab>
@@ -1279,7 +1279,7 @@ for any purpose, even commercially.</p>
                         local inhabitants. <space quantity="1" unit="char"/>Oddly enough, the ones I can talk to most<lb/>
                         easily are from <rs type="place" ref="#amp_place_id_21"><foreign xml:lang="de">Ost-Berlin</foreign></rs>. <space quantity="1" unit="char"/>The most awful thing about the<lb/>
                         <foreign xml:lang="de">Bifkes</foreign>2 (sic)§ is that they are so much nicer under a little<lb/>
-                        <hi rend="underline"><foreign xml:lang="de">Druck</foreign></hi>3 <del><gap reason="illegible"/>pressure)</del>. <space quantity="1" unit="char"/>When they feel their oats they are so apt<lb/>
+                        <hi rend="underline"><foreign xml:lang="de">Druck</foreign></hi>3 <del><unclear>(</unclear>pressure)</del>. <space quantity="1" unit="char"/>When they feel their oats they are so apt<lb/>
                         to become uppish."
                      </quote>
                   </seg>
@@ -1337,7 +1337,7 @@ for any purpose, even commercially.</p>
                   This was the private <rs type="person" ref="#amp_person_1">Auden</rs>. <space quantity="1" unit="char"/>The publi<del>s</del>c <rs type="person" ref="#amp_person_1">Auden</rs> in <rs type="lit_work" ref="#lit_work_id_127">the interview</rs><lb/>
                   with <rs type="org" ref="#amp_organization_66">"Die Zeit"</rs> quoted earlier, hotly denied that he had been<lb/>
                   lonely. <space quantity="2" unit="char"/>Many of his predecessors, said <rs type="person" ref="#amp_person_163">the interviewer</rs>, had<lb/>
-                  repeatedly complain<del><gap reason="deleted"/></del>ed that little notice had been taken of<lb/>
+                  repeatedly complain<del>4</del>ed that little notice had been taken of<lb/>
                   them and that their stay was far from enjoyable. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs>'s<lb/>
                   reply was "brusque": <space quantity="1" unit="char"/>Grumbles of that sort were, he thought,<lb/>
                   unfair and personally objectionable. <space quantity="1" unit="char"/><quote source="#lit_work_id_127">"One always has to do<lb/>
@@ -1495,7 +1495,7 @@ for any purpose, even commercially.</p>
                   he worked two floors underground. <space quantity="1" unit="char"/>Then there was the little<lb/>
                   boy aged twe<del>n</del>lve, adoring practical jokes such as cushions which<lb/>
                   fart when you sit on them, and who liked to shock people by<lb/>
-                  saying "<del><gap reason="deleted"/></del><rs type="person" ref="#amp_person_11">Goethe</rs> is awful" and so on. <space quantity="1" unit="char"/>Finally, there was the<lb/>
+                  saying "<del><gap quantity="1" unit="char" reason="deleted"/></del><rs type="person" ref="#amp_person_11">Goethe</rs> is awful" and so on. <space quantity="1" unit="char"/>Finally, there was the<lb/>
                   Yiddish Momma...
                </p>
                <p>
@@ -1733,7 +1733,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="5" unit="char"/>It is true,<del> incidentally,</del> that the progressive "vulgarisation"<lb/>
-                  of <rs type="place" ref="#amp_place_id_56">London</rs> struck him like a bl<del><gap reason="deleted"/></del>ow in the face every time he went<lb/>
+                  of <rs type="place" ref="#amp_place_id_56">London</rs> struck him like a bl<del><gap quantity="1" unit="char" reason="deleted"/></del>ow in the face every time he went<lb/>
                   there. <space quantity="1" unit="char"/>He seldom failed to mention the subje<del>f</del>ct when he <del>had</del><lb/>
                   c<del>o</del>ame back to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, and was particularly angry about the<lb/>
                   advertisements on the <rs type="org" ref="#amp_organization_54">London Underground</rs>, which he said beat anything<lb/>
@@ -2011,7 +2011,7 @@ for any purpose, even commercially.</p>
                      <space quantity="5" unit="char"/>I hope you will pardon me if I speak somewhat personally.<lb/>
                      I do so, not out of vanity, but because <unclear>I</unclear> do not wish to give the<lb/>
                      impression that I am attempting to lay down absolute laws which<lb/>
-                     are valid for all. <space quantity="1" unit="char"/><unclear>I</unclear> give you m<del><gap reason="deleted"/></del>y experiences<del>,</del>as a poet, in the hope<lb/>
+                     are valid for all. <space quantity="1" unit="char"/><unclear>I</unclear> give you m<del><gap quantity="1" unit="char" reason="deleted"/></del>y experiences<del>,</del>as a poet, in the hope<lb/>
                      that you will be able to compare them with yours, and form your<lb/>
                      own judgment about them.
                   </p>
@@ -2288,7 +2288,7 @@ for any purpose, even commercially.</p>
                      one political function. <space quantity="1" unit="char"/>Since language is his medium, it is his<lb/>
                      duty, by hi<del>w</del>s own example, to defend his mother-tongue against<lb/>
                      corruption by demagogues, journalists, the mass-media etc. <space quantity="1" unit="char"/>As<lb/>
-                     <rs type="person" ref="#amp_person_81">Karl Kraus</rs> said: <space quantity="1" unit="char"/><quote source="#lit_work_id_173">"<foreign xml:lang="de"><del><gap reason="deleted"/></del><hi rend="underline"><unclear><del><del>E</del>D</del></unclear>Die Sprache ist die Mutter, nicht das Magd</hi>,<lb/>
+                     <rs type="person" ref="#amp_person_81">Karl Kraus</rs> said: <space quantity="1" unit="char"/><quote source="#lit_work_id_173">"<foreign xml:lang="de"><del><gap quantity="1" unit="char" reason="deleted"/></del><hi rend="underline"><unclear><del><del>E</del>D</del></unclear>Die Sprache ist die Mutter, nicht das Magd</hi>,<lb/>
                      des Gedankens</foreign><del>.</del>"</quote>, and when language loses its meaning, <del>social </del><lb/>
                      its place is taken by violence. <space quantity="1" unit="char"/>Of course, the poet may use<lb/>
                      political and social events as subject-matter for poems - they<lb/>
@@ -2658,7 +2658,7 @@ for any purpose, even commercially.</p>
                   <rs type="place" ref="#amp_place_id_45">32 Bryanston Square, London W.1</rs></rs>. <space quantity="1" unit="char"/>A <ref target="acdh:amp-transcript__0009.xml">reply</ref> is dated 15 October 1968:<lb/>
                   <seg>
                      <quote source="acdh:amp-transcript__0009.xml">
-                        <seg><space quantity="5" unit="char"/>"Got back from <del><gap reason="deleted"/></del><rs type="place" ref="#amp_place_id_46">Oxford</rs> yesterday and found <rs type="event" ref="#amp_event_id_88">your letter</rs> waiting.</seg><lb/>
+                        <seg><space quantity="5" unit="char"/>"Got back from <del><gap quantity="1" unit="char" reason="deleted"/></del><rs type="place" ref="#amp_place_id_46">Oxford</rs> yesterday and found <rs type="event" ref="#amp_event_id_88">your letter</rs> waiting.</seg><lb/>
                         <seg><space quantity="5" unit="char"/>1) I think I ought to take the <rs type="person" ref="#amp_person_155 #amp_person_171" ana="acdh:amp-transcript__0009.xml#ana_012">couple</rs> in, but I must leave<lb/>
                         <space quantity="5" unit="char"/>it to you to decide whether they are O.K. If they are, all<lb/>
                         <space quantity="5" unit="char"/>rooms, including my study (which can't be heated) are open<lb/>
@@ -2899,7 +2899,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="5" unit="char"/>There was all too much time on the motorway to react, and I<lb/>
-                  fought against what seemed to be unr<del><gap reason="deleted"/></del>easonable waves of emotion.<lb/>
+                  fought against what seemed to be unr<del><gap quantity="1" unit="char" reason="deleted"/></del>easonable waves of emotion.<lb/>
                   Don't exaggerate, I told myself, don't flatter yourself that<lb/>
                   you have the right to mourn. <space quantity="1" unit="char"/>Think of <rs type="person" ref="#amp_person_4">Chester</rs>. <space quantity="1" unit="char"/>I <hi rend="underline">am</hi> thinking<lb/>
                   of <rs type="person" ref="#amp_person_4">Chester</rs>; <space quantity="1" unit="char"/>I hardly dare think of him. <space quantity="1" unit="char"/>How will he live?<lb/>
