@@ -2685,7 +2685,7 @@ for any purpose, even commercially.</p>
                   place, the emergency was soon over and <rs type="person" ref="#amp_person_1">Auden</rs> did<del>n't</del> not disguise<lb/>
                   his relief:<lb/>
                   <seg>
-                     <quote sameAs="acdh:amp-transcript__0010.xml">
+                     <quote source="acdh:amp-transcript__0010.xml">
                         <space quantity="35" unit="char"/>"<rs type="place" ref="#amp_place_id_29">77 St. Mark's Place, N.Y.C.</rs><lb/>
                         <space quantity="46" unit="char"/>Nov.6th.<lb/>
                         <space quantity="5" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_91">your letter</rs>. <space quantity="1" unit="char"/>Of course, selfishly, I'm<lb/>
