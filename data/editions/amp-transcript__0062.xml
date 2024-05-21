@@ -35,7 +35,7 @@
                               <idno type="ISBN">0-04-928044-9</idno>
                               <citedRange unit="page" from="448" to="448"/>
                            </bibl>
-                           <bibl sameAs="https://maps.bev.gv.at">
+                           <bibl source="https://maps.bev.gv.at">
                               <title xml:lang="en">Austrian Map</title>
                               <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_1"/>
                            </bibl>
@@ -67,7 +67,7 @@
                               <label xml:lang="de">W. H. (Wystan Hugh) Auden liest aus seinen Werken in englischer Sprache</label>
                            </event>
                         </listEvent>
-                        <bibl sameAs="https://www.ogl.at/programm/aktuelles-programm/archiv/1962/10/">
+                        <bibl source="https://www.ogl.at/programm/aktuelles-programm/archiv/1962/10/">
                            <orgName ref="acdh:amp-index-organizations.xml#amp_organization_9"/>
                            <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_1"/>
                         </bibl>
@@ -88,7 +88,7 @@
                         <listPerson>
                            <person><persName ref="acdh:amp-index-persons.xml#amp_person_245"/></person>
                         </listPerson>
-                        <bibl sameAs="https://www.ogl.at/programm/aktuelles-programm/archiv/1967/4/">
+                        <bibl source="https://www.ogl.at/programm/aktuelles-programm/archiv/1967/4/">
                            <orgName ref="acdh:amp-index-organizations.xml#amp_organization_9"/>
                            <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_1"/>
                         </bibl>
@@ -118,7 +118,7 @@
                   <interp source="ph_042" xml:id="ana_042"><!-- link to nanopub -->
                      <desc>
                         In his 1973 review of <hi rend="italic">English Biblical Translation</hi> by A. C. Partridge Deutsch, "Renderings", <rs type="person" ref="#amp_person_1">Auden</rs> refers to the "as yet incomplete, <rs type="lit_work" ref="#lit_work_id_198">Anchor Bible</rs>". He claims that he owes an "increased understanding" of the "version of the Scriptures I was brought up on" to the "scholarly introductions" therein (587-588). To the knowledge of Auden's literary executor <rs type="person" ref="#amp_person_98">Edward Mendelson</rs>, Auden did not review any volumes of the <rs type="lit_work" ref="#lit_work_id_198">Anchor Bible Series</rs>.
-                        <!--<bibl sameAs="acdh:amp-index-works.xml#lit_work_id_198"/>-->
+                        <bibl sameAs="acdh:amp-index-works.xml#lit_work_id_198"/>
                         <listBibl>
                            <bibl>
                               <author ref="acdh:amp-index-persons.xml#amp_person_1"/>
