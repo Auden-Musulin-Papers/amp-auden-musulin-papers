@@ -5,9 +5,6 @@
 			<String>document.types</String>
 			<documentTypeDescriptor-array>
 				<documentTypeDescriptor>
-					<field name="webResources">
-						<null/>
-					</field>
 					<field name="extensionPatch">
 						<null/>
 					</field>
@@ -15,14 +12,7 @@
 						<String>Auden-Musulin-Framework</String>
 					</field>
 					<field name="schemaDescriptor">
-						<docTypeSchema>
-							<field name="type">
-								<Integer>6</Integer>
-							</field>
-							<field name="uri">
-								<String>${framework}/schema/out/am.rng</String>
-							</field>
-						</docTypeSchema>
+						<null/>
 					</field>
 					<field name="classpath">
 						<String-array>
