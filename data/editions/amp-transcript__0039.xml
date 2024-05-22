@@ -151,6 +151,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2023-05-11">CVL transcription inserted</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-08-02">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-12-01">entities updated, events created, interpGrp added</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-05-22">prose container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
