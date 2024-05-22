@@ -20,7 +20,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Autograph Notes W. H. Auden Stella Musulin 1959-06-01--1973-09-28</title>
+            </edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
          <respStmt><resp>TEI Schema, ODD/RNG</resp><name ref="https://orcid.org/0000-0002-9575-9372" xml:id="pandorfer">Andorfer, Peter</name><name ref="https://orcid.org/0000-0002-0636-4476" xml:id="delsner">Elsner, Daniel</name></respStmt></editionStmt>
          <publicationStmt>
@@ -61,12 +63,19 @@ for any purpose, even commercially.</p>
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="acdh" matchPattern="(.+)"
+               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+               <p>Edition Documents Prefix</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
-         
       </profileDesc>
       <revisionDesc status="draft">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
@@ -75,6 +84,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2021-10-28">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-10">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities collated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-05-22">entities reviewed, container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -85,22 +95,22 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0250/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#handwritten">
+   <text type="prose" hand="#handwritten">
       <body>
-         <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0249/" type="sheet"/>
-               <p>
+         <div type="transcription" xml:id="transcription_amp_0026" xml:lang="en">
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0249/" type="sheet" ed="1r"/>
+               <ab>
                   <rs type="person" ref="#amp_person_1">W<unclear>,</unclear>H.Auden</rs><lb/>
                   ℅ <rs type="person" ref="#amp_person_8 #amp_person_191">Spender</rs><lb/>
                   <rs type="place" ref="#amp_place_id_69">15 Loudoun Rd<lb/>
                   St John's Wood<lb/>
                   London. N.W. <unclear>8</unclear></rs>
-               </p>
-               <p>
+               </ab>
+               <ab xml:lang="de">
                   <rs type="place" ref="#amp_place_id_224">Johann-Strauß-Gasse 28 <unclear>.</unclear><lb/>
                   1040 Wien .</rs>
-               </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0250/" type="sheet"/>
+               </ab>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0250/" type="sheet" ed="1v"/>
          </div>
       </body>
    </text>
