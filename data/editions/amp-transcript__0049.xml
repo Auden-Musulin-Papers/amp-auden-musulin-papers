@@ -19,7 +19,9 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition>
+               <title>Invitation Card Österreichische Gesellschaft für Literatur Poetry Reading W. H. Auden 1973-01-01--1973-09-28</title>
+            </edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
          <respStmt><resp>TEI Schema, ODD/RNG</resp><name ref="https://orcid.org/0000-0002-9575-9372" xml:id="pandorfer">Andorfer, Peter</name><name ref="https://orcid.org/0000-0002-0636-4476" xml:id="delsner">Elsner, Daniel</name></respStmt></editionStmt>
          <publicationStmt>
@@ -60,9 +62,16 @@ for any purpose, even commercially.</p>
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="acdh" matchPattern="(.+)"
+               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+               <p>Edition Documents Prefix</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
-            <language ident="en">English</language>
             <language ident="de">German</language>
          </langUsage>
       </profileDesc>
@@ -73,6 +82,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-01-07">transcriptions collated</change>
          <change who="tfruehwirth" when="2022-11-09">transcriptions updated v0.1</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated</change>
+         <change who="dgrigoriou tfruehwirth" when="2024-05-23">entities reviewed, prose container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -83,28 +93,36 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0244/"/>
       </surface>
    </facsimile>
-   <text type="invitation_card" hand="#printed">
+   <text type="prose" hand="#printed">
       <body>
-         <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0243/" type="card"/>
-               <p>
+         <div type="transcription" xml:id="transcription_amp_0049" xml:lang="de">
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0243/" type="card" ed="1r"/>
+               <ab>
                   <rs type="org" ref="#amp_organization_9">ÖSTERREICHISCHE GESELLSCHAFT FÜR LITERATUR</rs>
-               </p>
-               <p>
+               </ab>
+               <ab>
                   Einladung
-               </p>
-               <p>
-                  <rs type="event" ref="#amp_event_id_3"><rs type="person" ref="#amp_person_1">W. H. AUDEN</rs><lb/>
-                  GEDICHTE/POEMS</rs>
-               </p>
-               <p>
-                  Zum Erscheinen <rs type="lit_work" ref="#lit_work_id_124">der neuen, zweisprachigen Ausgabe</rs> im <rs type="org" ref="#amp_organization_26">Europa Verlag</rs>, <rs type="place" ref="#amp_place_id_1">Wien</rs><lb/>
-                  Es lesen der <rs type="person" ref="#amp_person_1">Autor</rs> und <rs type="person" ref="#amp_person_129">Achim Benning</rs>
-               </p>
-               <p>
+               </ab>
+               <ab>
+                  <seg>
+                     <rs type="person" ref="#amp_person_1">W. H. AUDEN</rs><lb/>
+                  </seg>
+                  <seg>
+                     <rs type="lit_work" ref="#lit_work_id_67">GEDICHTE/POEMS</rs>
+                  </seg>
+               </ab>
+               <ab>
+                  <seg>
+                     Zum Erscheinen der neuen, zweisprachigen Ausgabe im <rs type="org" ref="#amp_organization_26">Europa Verlag</rs>, <rs type="place" ref="#amp_place_id_1">Wien</rs><lb/>
+                  </seg>
+                  <seg>
+                     <rs type="event" ref="#amp_event_id_3">Es lesen der <rs type="person" ref="#amp_person_1">Autor</rs> und <rs type="person" ref="#amp_person_129">Achim Benning</rs></rs>
+                  </seg>
+               </ab>
+               <ab>
                   Freitag, 28. September, 20 Uhr, <rs type="place" ref="#amp_place_id_85">Palais Palffy</rs>, Großer Saal, Wien I., Josefsplatz 6
-               </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0244/" type="card"/>
+               </ab>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0244/" type="card" ed="1v"/>
          </div>
       </body>
    </text>

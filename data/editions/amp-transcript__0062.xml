@@ -1655,7 +1655,7 @@ for any purpose, even commercially.</p>
                   strays.
                </p>
                <p>
-                  <space quantity="5" unit="char"/>In February 1968 he flew over to <rs type="place" ref="#amp_place_id_1">Vienna</rs> to <rs type="event" ref="#amp_event_id_10">interview</rs> <del>a co</del><lb/>
+                  <space quantity="5" unit="char"/>In February 1968 he <rs type="event" ref="#amp_event_id_82">flew over to <rs type="place" ref="#amp_place_id_1">Vienna</rs></rs> to <rs type="event" ref="#amp_event_id_10">interview</rs> <del>a co</del><lb/>
                   <rs type="person" ref="#amp_person_32">Frau Strobl</rs> after the <rs type="event" ref="#amp_event_id_1">death of <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></rs>. <space quantity="1" unit="char"/>We were lunching<lb/>
                   together at the <rs type="place" ref="#amp_place_id_92">Opern-Café</rs> and this was one of the very few<lb/>
                   occasions when I kept a <ref target="acdh:amp-transcript__0029.xml">note</ref> of what had been said. <space quantity="2" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> had<lb/>
