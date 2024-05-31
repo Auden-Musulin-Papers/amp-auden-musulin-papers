@@ -5,7 +5,7 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Autograph Notes Stella Musulin on Translation W. H. Auden "Joseph Weinheber" 1965-04-28--1965-12-31</title>
             <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella</author>
-            <author ref="https://id.acdh.oeaw.ac.at/emusulin" ana="acdh:amp-transcript__0002.xml#ana_027">Musulin, Elsa von</author><!-- point to ana="acdh:amp-transcript__0002.xml#ana_027" in handNote -->
+            <author ref="https://id.acdh.oeaw.ac.at/emusulin" ana="acdh:amp-transcript__0002.xml#ana_027">Musulin, Elsa Gerda Maria Louise Pauline von</author><!-- point to ana="acdh:amp-transcript__0002.xml#ana_027" in handNote -->
             <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
@@ -56,7 +56,7 @@ for any purpose, even commercially.</p>
                         <idno>2, 2</idno>
                      </msIdentifier>
                      <history>
-                        <origin><origDate notBefore-iso="1965-04-28T00:00:00+01:00" notAfter-iso="1965-12-31T23:59:59+01:00">1965-04-28--1965-12-31</origDate></origin>
+                        <origin><origDate notBefore-iso="1965-04-28T00:00:00+01:00" notAfter-iso="1965-12-31T23:59:59+01:00" ana="acdh:amp-transcript__0039.xml#ana_046">1965-04-28--1965-12-31</origDate></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -101,7 +101,7 @@ for any purpose, even commercially.</p>
          <div type="transcription" xml:id="transcription_amp_0046" xml:lang="de">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0141/" type="sheet" ed="1r"/>
                <ab>
-                  1. In dem <hi rend="underline">man</hi><unclear>✓</unclear> dich — begrub ·
+                  1. In dem <hi rend="underline">man</hi><unclear>&#x2713;</unclear> dich — begrub ·
                </ab>
                <ab>
                   2. Kategorisiert<unclear>.</unclear><lb/>
@@ -114,14 +114,14 @@ for any purpose, even commercially.</p>
                   <hi rend="underline"><unclear>1</unclear></hi> the act<unclear>io</unclear>n<lb/>
                   <hi rend="underline">2</hi> the intent</foreign>.<lb/>
                   Übelwollens?<lb/>
-                  Männer<unclear>✓</unclear> grossen Unheils und Übelwol<unclear>l</unclear>ens<unclear>.</unclear> ?
+                  Männer<unclear>&#x2713;</unclear> grossen Unheils und Übelwol<unclear>l</unclear>ens<unclear>.</unclear> ?
                </ab>
                <ab>
                   <unclear>5</unclear>. Alpdruck.(vom nicht vor)<lb/>
                   Stümper .
                </ab>
                <ab>
-                  <unclear>6.</unclear> <del><unclear>I</unclear>n str</del> Bei✓ strömendem Regen<lb/>
+                  <unclear>6.</unclear> <del><unclear>I</unclear>n str</del> Bei&#x2713; strömendem Regen<lb/>
                </ab>
                <ab>
                   <unclear>7.</unclear> <foreign xml:lang="en">Hope ever<unclear>y</unclear>one won't think</foreign> <unclear>"</unclear>die Reiche<unclear>"</unclear><lb/>
@@ -136,10 +136,10 @@ for any purpose, even commercially.</p>
                   ein Uno<unclear>r</unclear>t mit <hi rend="underline">Posten</hi> fü<unclear>r</unclear> Folterer
                </ab>
                <ab>
-                  <unclear>9.</unclear> Frieden oder Friede✓ ?
+                  <unclear>9.</unclear> Frieden oder Friede&#x2713; ?
                </ab>
                <ab>
-                  10. An das Regime? Wie <unclear>w</unclear>u einst<unclear>✓</unclear> <unclear>·</unclear> W<hi rend="underline">ann</hi> bei jedem<lb/>
+                  10. An das Regime? Wie <unclear>w</unclear>u einst<unclear>&#x2713;</unclear> <unclear>·</unclear> W<hi rend="underline">ann</hi> bei jedem<lb/>
                   <hi rend="underline">Wenn</hi> .
                </ab>
                <ab>
@@ -151,14 +151,14 @@ for any purpose, even commercially.</p>
                   statt Bratschen Violas oder Geigen
                </ab>
                <ab>
-                  ⁒
+                  &#x2052;
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0142/" type="sheet" ed="1v"/>
                <ab>
                   Heute lächeln wir bei Hochzeiten ,<lb/>
                   bei <unclear>d</unclear>enen Braut u. Bräutigam schon<lb/>
                   auf der Welt waren als sich der Schatten<lb/>
-                  gehoben <unclear>oder</unclear> (vielmehr)✓ weiter<unclear>✓</unclear>gerückt war<unclear>.</unclear>
+                  gehoben <unclear>oder</unclear> (vielmehr)&#x2713; weiter<unclear>&#x2713;</unclear>gerückt war<unclear>.</unclear>
                </ab>
                <ab>
                   1<unclear>2·</unclear><lb/>

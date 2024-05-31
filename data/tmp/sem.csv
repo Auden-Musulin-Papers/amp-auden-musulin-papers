@@ -14,7 +14,7 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0001,edition_title,,"DONE: amp_event_id_71, amp_event_id_84","DONE: ""be in Vienna this coming week ..."" (ana_006, ph_006)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done
 0002,edition_title,,amp_event_id_70,"DONE: reference to previous letter by Musulin (ana_007, ph_007); intertext 0002/0038 (ana_023, ph_023); identification Elsa Musulin's handwriting (ana_027, ph_027)","DONE: xml:lang",,revision_desc,done,done,done,done,done,none,done,done
 0038,edition_title,,amp_event_id_85,"DONE: comment on Gemeindepflicht (ana_008, ph_008); intertext 0002/0038 link to ana_023","DONE: xml:lang",,revision_desc,done,done,done,`rs@type=note`,done,none,done,done
-0039,edition_title,,"amp_event_id_72, amp_event_id_73, amp_event_id_104","DONE: TEI formalization of interp re ""German friend""(ana_009, ph_009) and interp re Epithalamium dedication (ana_022, ph_022)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done
+0039,edition_title,,"amp_event_id_72, amp_event_id_73, amp_event_id_104","DONE: TEI formalization of interp re ""German friend""(ana_009, ph_009) and interp re Epithalamium dedication (ana_022, ph_022); inter re Musulin's reworking of translation (ana_046, ph_046)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done
 0003,edition_title,"TODO: research Amerikahaus event","DONE: amp_event_id_74, amp_event_id_75",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
 0004,edition_title,"TODO: ""one-whose-name-we-never-mention"", ""friend of mine who teaches schyzophrenics"", ""seventeen year old girl""","DONE: amp_event_id_76, amp_event_id_77, amp_event_id_86","DONE: interp re ""Harrison"" (ana_010, ph_010)","DONE: xml:lang",,revision_desc,done,done,done,`italic`,done,done,done,done
 0005,edition_title,,"DONE: amp_event_id_1",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
@@ -49,8 +49,9 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0033,edition_title,,,"DONE: interp re two unpublished volumes (ana_033, ph_033)",,,,,,,"TODO: second `div type=letter_message`",,,,"TODO: display of lit work entity 185; better solution for displaying title of lit work entity in bibl in interp; `space` before `date`"
 0062,edition_title,,,"DONE: interp re memoir verseions (ana_030); interp re Audenstraße/Hinterholz (ana_034, ph_034); interp re first Auden-Musulin meeting (ana_035, ph_035); inter re photos of Auden in Fridau (ana_036, ph_036); reuse interp ana_014, reuse interp ana_024; interp re 1962/1968 Auden reading (ana_038, ph_038); interp re photo Auden/McCarthy (ana_039, ph_039); interp re square-headed type (ana_040, ph_040); note re Mandrake (ana_041, ph_041); reuse ana_013; interp re Anchor Bible (ana_042, ph_042); reuse ana_012; interp re student of technical college (ana_043, ph_043); reuse ana_031; interp re tax affair (ana_044, ph_044); interp re funeral photos (ana_045, ph_045)",,,,,,,,,,,TODO
 0026,edition_title,,,,,,,,,,"TODO: no p required",,,,TODO
-0046,edition_title,,,"DONE: interp re Elsa's hand in author element; TODO: interp re Elsa's hand in handNote",,,,,,TODO?,"TODO: no p required",,,,TODO
-0047,edition_title,,,,,,,,,,,,,,TODO
+0046,edition_title,,,"DONE: interp re Elsa's hand in author element; reuse ana_046; TODO: interp re Elsa's hand in handNote",,,,,,TODO?,"TODO: no p required",,,,TODO
+0047,edition_title,,,,,,,,,,,,,"DONE: reuse ana_046",TODO
 0029,edition_title,,"DONE: amp_event_id_112",,,,,,,,,,,,TODO
 0051,edition_title,,,,,,,,,,"TODO: no p required",,,,TODO
 0049,edition_title,,,,,,,,,,"TODO: no p required",,,,TODO
+0052,edition_title,,,"DONE: reuse ana_034, reuse ana_031",,,,,,,,,,,TODO

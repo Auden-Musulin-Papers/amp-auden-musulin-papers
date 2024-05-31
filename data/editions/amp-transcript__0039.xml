@@ -5,7 +5,7 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-04-28 and with Typescript W. H. Auden Translation "Joseph Weinheber"</title>
             <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
-            <author ref="https://id.acdh.oeaw.ac.at/emusulin">Musulin, Elsa von</author><!-- point to ana="acdh:amp-transcript__0002.xml#ana_027" at some point, either author or hand -->
+            <author ref="https://id.acdh.oeaw.ac.at/emusulin">Musulin, Elsa Gerda Maria Louise Pauline von</author><!-- point to ana="acdh:amp-transcript__0002.xml#ana_027" at some point, either author or hand -->
             <author ref="https://d-nb.info/gnd/117542784">Mayer, Elizabeth</author>
             <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
@@ -62,6 +62,11 @@
                            <citedRange unit="page" from="1027" to="1027"/>
                         </bibl>
                      </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="high" locus="value"/>
+                  </interp>
+                  <interp source="ph_046" xml:id="ana_046"><!-- link -->
+                     <desc>In <rs type="person" ref="#amp_person_1">W. H. Auden</rs>'s <ref target="acdh:amp-transcript__0039.xml">letter</ref> to <rs type="person" ref="#amp_person_2">Stella Musulin</rs> from 28 April 1965, he sends her a German-language prose translation of his poem <rs type="lit_work" ref="#lit_work_id_60">"Joseph Weinheber"</rs>, made in collaboration with <rs type="person" ref="#amp_person_157">Elizabeth Mayer</rs>. In the same letter, he asks Musulin to "check the translation for errors". The estate of Stella Musulin includes <ref target="acdh:amp-transcript__0046.xml">manuscript notes</ref>, in Stella Musulin's and <rs type="person" ref="#amp_person_93">Elsa von Musulin</rs>'s hands, that relate to this translation; as well as a <ref target="acdh:amp-transcript__0047.xml">typescript of a reworked version</ref> of the German translation that incorporates these notes.</desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
                      <certainty cert="high" locus="value"/>
                   </interp>
@@ -275,7 +280,7 @@ for any purpose, even commercially.</p>
                      changes in stanza 3. (see above)
                   </p>
                   <p>
-                     Could you che<unclear>c</unclear>k the translat<unclear>io</unclear>n for errors.
+                     <rs type="note" ana="#ana_046">Could you che<unclear>c</unclear>k the translat<unclear>io</unclear>n for errors.</rs>
                   </p>
                   <closer>
                      <salute>love</salute>
@@ -299,7 +304,7 @@ for any purpose, even commercially.</p>
                         <lb/><space quantity="7" unit="char"/><del>Von meiner Gartentur</del><lb/>
                         <space quantity="7" unit="char"/>Von meiner Gartent<unclear>ü</unclear>r f<unclear>ü</unclear><del>rh</del>hrt ein schmaler Pfad vom Dorf weiter in einen Wald. Auf<lb/>
                         meinen G<unclear>ä</unclear>ngen dorthin scheint es geh<unclear>ö</unclear>rig,stehen zu bleiben und durch den Zaun deines<lb/>
-                        Gartens zu schauen,in dem🗴 dich(die Umst<unclear>ä</unclear>nde verlangten es) wie einen alten geliebten<lb/>
+                        Gartens zu schauen,in dem&#x1F5F4; dich(die Umst<unclear>ä</unclear>nde verlangten es) wie einen alten geliebten<lb/>
                         Familienhund begrub.
                      </seg>
                   </p>
@@ -308,7 +313,7 @@ for any purpose, even commercially.</p>
                         2
                      </seg>
                      <seg>
-                        <lb/><space quantity="7" unit="char"/>Vor zwanzig Jahren kat<hi rend="underline">erg</hi>orisierte🗴 Feinde,jezt nah benachbart,w<unclear>ä</unclear>ren wir<lb/>
+                        <lb/><space quantity="7" unit="char"/>Vor zwanzig Jahren kat<hi rend="underline">erg</hi>orisierte&#x1F5F4; Feinde,jezt nah benachbart,w<unclear>ä</unclear>ren wir<lb/>
                         vielleicht gute Freunde geworden,die eine gemeinsame <hi rend="underline">Umwelt</hi> und Liebe f<unclear>ü</unclear>r das Wort<lb/>
                         teilten,und h<unclear>ä</unclear>tten bei einem goldhellen Kremser <hi rend="underline">l<unclear>ä</unclear>nge</hi> Gespr<unclear>ä</unclear>che uber Syntax,Kommas<lb/>
                         und Verskunst gef<unclear>ü</unclear>hrt.
