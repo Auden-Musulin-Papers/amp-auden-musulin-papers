@@ -55,3 +55,4 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0051,edition_title,,,,,,,,,,"TODO: no p required",,,,TODO
 0049,edition_title,,,,,,,,,,"TODO: no p required",,,,TODO
 0052,edition_title,,,"DONE: reuse ana_034, reuse ana_031",,,,,,,,,,,TODO
+0028,edition_title
