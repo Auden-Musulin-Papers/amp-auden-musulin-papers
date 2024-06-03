@@ -416,7 +416,7 @@
                 <sch:rule context="//tei:body/tei:div">
                   <sch:assert test="@type = 'transcription'">missing @type or invalid attribute value; allowed value is 'transcription'</sch:assert>
                   <sch:assert test="matches(@xml:id, 'transcription_amp_\d+')">xml:id required with pattern: transcription_amp_0001 |(final digits = document xml:id)</sch:assert>
-                  <sch:assert test="count(./tei:p) > 0">div must contain at least one p(aragraph) element.</sch:assert>
+                  <sch:assert test="count(./tei:p) > 0 or count(./tei:ab) > 0">div must contain at least one p(aragraph) or ab(anonymous block) element.</sch:assert>
                   <sch:assert test="@xml:lang">missing attribute @xml:lang</sch:assert>
                 </sch:rule>
               </constraint>
