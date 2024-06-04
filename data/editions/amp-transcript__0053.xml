@@ -231,7 +231,9 @@
                    <div type="letter_message">
                       <opener>
                          <dateline>
-                            <space quantity="35" unit="char"/><date>29.Mai.</date><!-- rend="#block" -->
+                            <seg rend="#block">
+                                <space quantity="35" unit="char"/><date>29.Mai.</date>
+                            </seg>
                          </dateline>
                          <salute><del><rs type="person" ref="#amp_person_237" ana="#ana_014">Liebling</rs>,</del></salute>
                       </opener>

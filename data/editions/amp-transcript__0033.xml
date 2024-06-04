@@ -151,7 +151,9 @@ for any purpose, even commercially.</p>
                               <space quantity="45" unit="char"/>New York NY  10027</rs>
                            </address>
                         </placeName>
-                        <space quantity="45" unit="char"/><date>21 Novembe<del>er</del>r <space quantity="1" unit="char"/>1981</date><!-- rend="#block" -->
+                        <seg rend="#block">
+                           <space quantity="45" unit="char"/><date>21 Novembe<del>er</del>r <space quantity="1" unit="char"/>1981</date>
+                        </seg>
                      </dateline>
                      <salute>
                         Dear <rs type="person" ref="#amp_person_2">Stella</rs>,

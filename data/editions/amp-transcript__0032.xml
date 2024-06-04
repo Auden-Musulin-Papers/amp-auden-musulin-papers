@@ -156,7 +156,9 @@ for any purpose, even commercially.</p>
                               <space quantity="41" unit="char"/>USA</rs>
                            </address>
                         </placeName>
-                        <space quantity="41" unit="char"/><date>1 December 1980</date><!-- rend="#block" -->
+                        <seg rend="#block">
+                           <space quantity="41" unit="char"/><date>1 December 1980</date>
+                        </seg>
                      </dateline>
                      <salute>
                         Dear <rs type="person" ref="#amp_person_2">Stella</rs>,
