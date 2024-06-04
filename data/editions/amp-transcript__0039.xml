@@ -7,7 +7,7 @@
             <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
             <author ref="https://id.acdh.oeaw.ac.at/emusulin">Musulin, Elsa Gerda Maria Louise Pauline von</author><!-- point to ana="acdh:amp-transcript__0002.xml#ana_027" at some point, either author or hand -->
             <author ref="https://d-nb.info/gnd/117542784">Mayer, Elizabeth</author>
-            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
                <address>
@@ -304,7 +304,7 @@ for any purpose, even commercially.</p>
                         <lb/><space quantity="7" unit="char"/><del>Von meiner Gartentur</del><lb/>
                         <space quantity="7" unit="char"/>Von meiner Gartent<unclear>ü</unclear>r f<unclear>ü</unclear><del>rh</del>hrt ein schmaler Pfad vom Dorf weiter in einen Wald. Auf<lb/>
                         meinen G<unclear>ä</unclear>ngen dorthin scheint es geh<unclear>ö</unclear>rig,stehen zu bleiben und durch den Zaun deines<lb/>
-                        Gartens zu schauen,in dem&#x1F5F4; dich(die Umst<unclear>ä</unclear>nde verlangten es) wie einen alten geliebten<lb/>
+                        Gartens zu schauen,in dem🗴 dich(die Umst<unclear>ä</unclear>nde verlangten es) wie einen alten geliebten<lb/>
                         Familienhund begrub.
                      </seg>
                   </p>
@@ -313,7 +313,7 @@ for any purpose, even commercially.</p>
                         2
                      </seg>
                      <seg>
-                        <lb/><space quantity="7" unit="char"/>Vor zwanzig Jahren kat<hi rend="underline">erg</hi>orisierte&#x1F5F4; Feinde,jezt nah benachbart,w<unclear>ä</unclear>ren wir<lb/>
+                        <lb/><space quantity="7" unit="char"/>Vor zwanzig Jahren kat<hi rend="underline">erg</hi>orisierte🗴 Feinde,jezt nah benachbart,w<unclear>ä</unclear>ren wir<lb/>
                         vielleicht gute Freunde geworden,die eine gemeinsame <hi rend="underline">Umwelt</hi> und Liebe f<unclear>ü</unclear>r das Wort<lb/>
                         teilten,und h<unclear>ä</unclear>tten bei einem goldhellen Kremser <hi rend="underline">l<unclear>ä</unclear>nge</hi> Gespr<unclear>ä</unclear>che uber Syntax,Kommas<lb/>
                         und Verskunst gef<unclear>ü</unclear>hrt.
