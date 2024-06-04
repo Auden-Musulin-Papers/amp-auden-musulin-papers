@@ -272,9 +272,9 @@ for any purpose, even commercially.</p>
                   </ab>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0479/" type="sheet" ed="2r"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="29" unit="char"/>- 2 -
-               </p>
+               </fw>
                <p>
                   <space quantity="4" unit="char"/><rs type="person" ref="#amp_person_100">Carpenter</rs>´s <rs type="lit_work" ref="#lit_work_id_39">book</rs> calls itself <quote source="#lit_work_id_39">"a first biography"</quote>, and the<lb/>
                   author expressly restricts his aims: <space quantity="1" unit="char"/><quote source="#lit_work_id_39">"It is not a work of literary<lb/>
@@ -320,9 +320,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0480/" type="sheet" ed="2v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0481/" type="sheet" ed="3r"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="28" unit="char"/>- 3 -
-               </p>
+               </fw>
                <p>
                   loved but who was already - though <rs type="person" ref="#amp_person_1">Auden</rs> did not know it -<lb/>
                   add<del>di</del><unclear>i</unclear>cted to promiscuity. <space quantity="1" unit="char"/>In literature and music his knowledge<lb/>
@@ -376,9 +376,9 @@ for any purpose, even commercially.</p>
                   </ab>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0483/" type="sheet" ed="4r"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="30" unit="char"/>- 4 -
-               </p>
+               </fw>
                <p>
                   smirk of satisfaction: "I sent him up on to the roof to mend tiles."<lb/>
                   But fundamentally nothing had changed between them: <space quantity="1" unit="char"/>this explains<lb/>
@@ -429,9 +429,9 @@ for any purpose, even commercially.</p>
                   </ab>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0485/" type="sheet" ed="5r"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="25" unit="char"/>- 5 -
-               </p>
+               </fw>
                <p>
                   lost his roots in <rs type="place" ref="#amp_place_id_30">Europe</rs>.<lb/>
                   <space quantity="4" unit="char"/>On his own ground, operatic libretti, <rs type="person" ref="#amp_person_4">Chester Kallman</rs> was<lb/>
@@ -482,9 +482,9 @@ for any purpose, even commercially.</p>
                   </ab>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0487/" type="sheet" ed="5ar"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="23" unit="char"/>- 5a -
-               </p>
+               </fw>
                <p>
                   It turned out that he lived not far from <rs type="place" ref="#amp_place_id_11">my flat</rs> so we drove<lb/>
                   off together, and he suddenly broke his silence to ask: <space quantity="1" unit="char"/>"Who<lb/>
@@ -506,9 +506,9 @@ for any purpose, even commercially.</p>
                   </ab>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0489/" type="sheet" ed="6r"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="28" unit="char"/>- 6 -
-               </p>
+               </fw>
                <p>
                   <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> the question cropped <del>i</del>up whether he would be willing<lb/>
                   to <rs type="note" ana="acdh:amp-transcript__0009.xml#ana_012">lend the <rs type="place" ref="#amp_place_id_2">house</rs> to a <rs type="person" ref="#amp_person_155">Czech refugee</rs> and <rs type="person" ref="#amp_person_171">his wife</rs></rs>. <space quantity="1" unit="char"/>By mid-<lb/>
@@ -569,9 +569,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0490/" type="sheet" ed="6v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0491/" type="sheet" ed="7r"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="26" unit="char"/>- 7 -
-               </p>
+               </fw>
                <p>
                   the doctor but the man from the accounts offic<del>d</del>e who wants to<lb/>
                   know how you propose to pay for your treatment. <space quantity="1" unit="char"/>No, he said,<lb/>
@@ -616,9 +616,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0492/" type="sheet" ed="7v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0493/" type="sheet" ed="8r"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="27" unit="char"/>- 8 -
-               </p>
+               </fw>
                <p>
                   to the enormous fat content of some of the dishes. <space quantity="1" unit="char"/>I remember<lb/>
                   my horror as I watched a sauce being prepared in the mixer before<lb/>
@@ -670,9 +670,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0494/" type="sheet" ed="8v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0495/" type="sheet" ed="9r"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="31" unit="char"/>- 9 -
-               </p>
+               </fw>
                <p>
                   second time. <space quantity="1" unit="char"/>You also go on to say that a road in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs><lb/>
                   has been named <rs type="note" ana="acdh:amp-transcript__0062.xml#ana_034">Audenstraße</rs> after me. <space quantity="1" unit="char"/>That was a very kind gesture<lb/>
@@ -717,9 +717,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0496/" type="sheet" ed="9v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0497/" type="sheet" ed="10r"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="25" unit="char"/>- 10 -
-               </p>
+               </fw>
                <p>
                   <space quantity="10" unit="char"/>on the subject of translation<del>s</del>: <space quantity="1" unit="char"/>you rightly say that<lb/>
                   <space quantity="10" unit="char"/>I have a great int<del>r</del>erest in German and Austrian literature -<lb/>
@@ -758,9 +758,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0498/" type="sheet" ed="10v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0499/" type="sheet" ed="11r"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="22" unit="char"/>- 11 -
-               </p>
+               </fw>
                <p>
                   <space quantity="5" unit="char"/>"Every day f<del>p</del>or the past year" said <rs type="person" ref="#amp_person_4">Chester</rs> "I have stood<lb/>
                   outside his door in the early morning, afraid to go in."<lb/>
@@ -808,9 +808,9 @@ for any purpose, even commercially.</p>
                   </ab>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0501/" type="sheet" ed="12r"/>
-               <p>
+               <fw type="pageNum">
                   <unclear>-1</unclear>2-
-               </p>
+               </fw>
                <p>
                   <space quantity="5" unit="char"/>The <rs type="place" ref="#amp_place_id_2">sittingroom</rs> seemed to be full of people. <space quantity="1" unit="char"/><del>-</del><rs type="person" ref="#amp_person_4">Chester</rs> was<lb/>
                   sitting on the corner-seat facing the door, where <rs type="person" ref="#amp_person_1">Auden</rs> always<lb/>
@@ -852,19 +852,19 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0502/" type="sheet" ed="12v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0503/" type="sheet" ed="13r"/>
-               <p>
+               <fw type="pageNum">
                   -13-
-               </p>
+               </fw>
                <p>
                   released by the authorities. <space quantity="1" unit="char"/>In all cases where the cause of death<lb/>
                   is not wholly clear certain<del>k</del>formalities are obligatory, and even<lb/>
                   intervention at a high level would not work miracles. <space quantity="1" unit="char"/>Everything<lb/>
-                  takes time. <space quantity="1" unit="char"/>And how could anyone expect it of him, the <rs type="person" ref="#amp_person_22">Bürgermeister</rs>,<lb/>
+                  takes time. <space quantity="1" unit="char"/>And how could anyone expect it of him, the <rs type="person" ref="#amp_person_22"><foreign xml:lang="de">Bürgermeister</foreign></rs>,<lb/>
                   that he should refrain from notifying the <rs type="org" ref="#amp_organization_43">Ministry</rs> and the Cultural<lb/>
-                  department of <rs type="org" ref="#amp_organization_44">the Council</rs> of the <del>e</del>death of <rs type="person" ref="#amp_person_1">Professor _Auden</rs>? <space quantity="1" unit="char"/>It<lb/>
-                  was as much as his job was worth. <space quantity="1" unit="char"/>Now <rs type="person" ref="#amp_person_97">Frau Seitz</rs> spoke. <space quantity="1" unit="char"/>The<lb/>
+                  department of the <rs type="org" ref="#amp_organization_44">Council</rs> of the <del>e</del>death of <rs type="person" ref="#amp_person_1">Professor _Auden</rs>? <space quantity="1" unit="char"/>It<lb/>
+                  was as much as his job was worth. <space quantity="1" unit="char"/>Now <rs type="person" ref="#amp_person_97"><foreign xml:lang="de">Frau</foreign> Seitz</rs> spoke. <space quantity="1" unit="char"/>The<lb/>
                   inhabitants of <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, she believed, would hardly bury a dog<lb/>
-                  in the manner proposed by <rs type="person" ref="#amp_person_4">Herr Kallman</rs>, let alone a great poet.<lb/>
+                  in the manner proposed by <rs type="person" ref="#amp_person_4"><foreign xml:lang="de">Herr</foreign> Kallman</rs>, let alone a great poet.<lb/>
                   <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_4">Chester Kallman</rs>´s position was entirely comprehensible - to<lb/>
                   some of us. <space quantity="1" unit="char"/>To him, an <del>E</del>American of Jewish origin and a non-believer,<lb/>
                   the whole pomp and circumstance of a traditional Austrian funeral<lb/>
@@ -884,7 +884,7 @@ for any purpose, even commercially.</p>
                   trimmings - one can almost hear his Olympian laughter - followed<lb/>
                   by a hearty meal at the inn where he had so often <del>ate</del>had his l<del>i</del>unch.<lb/>
                   As it turned out, <rs type="person" ref="#amp_person_4">Chester</rs> got no marks in local opinion for this<lb/>
-                  finale either, as the meal consisted of <hi rend="underline">Leberkäs</hi> with vegetables:<del><lb/>
+                  finale either, as the meal consisted of <hi rend="underline"><foreign xml:lang="de">Leberkäs</foreign></hi> with vegetables:<del><lb/>
                   fried slices off a loaf of a flabby substance which is neither liver nor cheese related to the<lb/>
                   Frankfurter sausage. <space quantity="1" unit="char"/>It is a</del><lb/>
                   this consisted of fried slices off a loaf made of a flabby substance<lb/>
@@ -900,9 +900,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0504/" type="sheet" ed="13v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0505/" type="sheet" ed="14r"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="30" unit="char"/>- 14 -
-               </p>
+               </fw>
                <p>
                   fetched more beer, <rs type="person" ref="#amp_person_32">Frau Strobl</rs> walked in and out and rolled a<lb/>
                   baleful eye on us as she spoke into <rs type="person" ref="#amp_person_4">Chester</rs>´s ear.<lb/>
@@ -943,9 +943,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0506/" type="sheet" ed="14v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0507/" type="sheet" ed="15r"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="31" unit="char"/>- 15 -
-               </p>
+               </fw>
                <p>
                   <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_97">Frau Seitz</rs> drove the <rs type="person" ref="#amp_person_22">mayor</rs> and <rs type="person" ref="#amp_person_2">myself</rs> to her house at the<lb/>
                   other end of <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, and we settled down to talk things over.<lb/> 
@@ -991,9 +991,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0508/" type="sheet" ed="15v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0509/" type="sheet" ed="16r"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="31" unit="char"/>- 16 -
-               </p>
+               </fw>
                <p>
                   expected to pay for it. <space quantity="1" unit="char"/>He was so enraged that he could not wait<lb/>
                   to see the last of <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>. <space quantity="1" unit="char"/>With little pause for thought<lb/>
@@ -1050,9 +1050,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0510/" type="sheet" ed="16v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0511/" type="sheet" ed="17r"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="27" unit="char"/>- 17 -
-               </p>
+               </fw>
                <p>
                   the chief mourners. <space quantity="1" unit="char"/>It was <rs type="person" ref="#amp_person_175">"he-whose-name-we-never-mention"</rs>;<lb/>
                   or if it was, <rs type="person" ref="#amp_person_4">Chester</rs> had said, <rs type="person" ref="#amp_person_1">Auden</rs> crossed himself.<lb/>
@@ -1105,9 +1105,9 @@ for any purpose, even commercially.</p>
                   </ab>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0513/" type="sheet" ed="18r"/>
-               <p>
+               <fw type="pageNum">
                   <space quantity="30" unit="char"/>- 18 -
-               </p>
+               </fw>
                <p>
                   star differeth from another in glory."<lb/>
                   <space quantity="4" unit="char"/>"Ah" he said, "you´ve been reading <rs type="lit_work" ref="#lit_work_id_14">Corinthians One</rs>, chapter 15.<lb/>
