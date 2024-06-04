@@ -114,8 +114,8 @@
                   <opener>
                      <dateline>
                         <space quantity="40" unit="char"/><date>29th November 1985.</date><!--  rend="#block" -->
-                        <persName><rs type="person" ref="#amp_person_156">The Revd. Br<del><unclear>i</unclear></del>uce Duncan,</rs></persName><lb/>
                         <placeName>
+                           <persName><rs type="person" ref="#amp_person_156">The Revd. Br<del><unclear>i</unclear></del>uce Duncan,</rs></persName>
                            <address>
                               <rs type="place" ref="#amp_place_id_170">The Vicarage,<lb/>
                               Crediton<lb/>
