@@ -5,7 +5,7 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Typescript Memoir Stella Musulin "The Years in Austria" 1976-09-04--1980-12-01</title>
             <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella Mary Bellairs</author>
-            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
                <address>
@@ -257,8 +257,7 @@ for any purpose, even commercially.</p>
       </fileDesc>
       <encodingDesc>
          <listPrefixDef>
-            <prefixDef ident="acdh" matchPattern="(.+)"
-               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+            <prefixDef ident="acdh" matchPattern="(.+)" replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
                <p>Edition Documents Prefix</p>
             </prefixDef>
          </listPrefixDef>
@@ -822,7 +821,7 @@ for any purpose, even commercially.</p>
                   beside my desk puts me in mind of the rise and fall of the<lb/>
                   telegram as a means of social communication. <space quantity="1" unit="char"/>In English novels<lb/>
                   during the period up to and even well beyond the <rs type="event" ref="#amp_event_id_53">first world war</rs> -<lb/>
-                  particularly in detective stories - the in<del><gap  quantity="1" unit="char" reason="deleted"/></del>cessant despatch and<lb/>
+                  particularly in detective stories - the in<del><gap quantity="1" unit="char" reason="deleted"/></del>cessant despatch and<lb/>
                   receipt of telegrams, often of some length, play a prominent<lb/>
                   part in human relationships. <space quantity="1" unit="char"/>They were an <del>s</del>astonishingly rapid<lb/>
                   and comparatively inexpensive medium of communication and were<lb/>
