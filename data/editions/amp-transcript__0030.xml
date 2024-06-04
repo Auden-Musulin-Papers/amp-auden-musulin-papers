@@ -112,9 +112,9 @@
                <div type="letter_message">
                   <opener>
                      <dateline>
-                        <ab rend="#block">
+                        <seg rend="#block">
                            <space quantity="40" unit="char"/><date>29th November 1985.</date>
-                        </ab>
+                        </seg>
                         <persName><rs type="person" ref="#amp_person_156">The Revd. Br<del><unclear>i</unclear></del>uce Duncan,</rs></persName>
                         <placeName>
                            <address>
