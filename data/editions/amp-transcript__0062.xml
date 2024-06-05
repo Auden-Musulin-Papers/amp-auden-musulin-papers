@@ -616,9 +616,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0352/" type="sheet" ed="1v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0353/" type="sheet" ed="2r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="27" unit="char"/>2.
-               </ab>
+              </fw>
                <p prev="true">
                   on the wall ahead, kitchen through the right-hand door, a clutter<lb/>
                   of books and papers on a nearby ledge - and to shout. <space quantity="1" unit="char"/>That<lb/>
@@ -662,9 +662,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0354/" type="sheet" ed="2v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0355/" type="sheet" ed="3r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="27" unit="char"/>3.
-               </ab>
+               </fw>
                <p prev="true">
                   if we know nothing else, we realise the obsession that he had<lb/>
                   on <del>z</del>the subject of personal privacy. <space quantity="1" unit="char"/>Think <del>of</del>for a moment of<lb/>
@@ -708,9 +708,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0356/" type="sheet" ed="3v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0357/" type="sheet" ed="4r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="23" unit="char"/>4.
-               </ab>
+               </fw>
                <p prev="true">
                   turn of the fifties, and <rs type="place" ref="#amp_place_id_75">t<del>e</del>here</rs> <rs type="person" ref="#amp_person_43">she</rs> spent her summers until she<lb/>
                   died, filling the house with her friends, often like herself Anglo-Austrian<lb/>
@@ -758,9 +758,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0358/" type="sheet" ed="4v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0359/" type="sheet" ed="5r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="22" unit="char"/>5.
-               </ab>
+               </fw>
                <p prev="true">
                   - crystallized in <rs type="lit_work" ref="#lit_work_id_79">"Whitsunday in Kirchstetten"</rs> - the local school<lb/>
                   mistress <rs type="person" ref="#amp_person_97">Frau Seitz</rs> and her silent <rs type="person" ref="#amp_person_200">husband</rs>, and as I came in I ran into<lb/>
@@ -809,9 +809,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0360/" type="sheet" ed="5v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0361/" type="sheet" ed="6r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="27" unit="char"/>6.
-               </ab>
+               </fw>
                <p prev="true">
                   sustained a miner at the coal face for a full working day, but<lb/>
                   neither <rs type="person" ref="#amp_person_1">Wystan</rs> nor <rs type="person" ref="#amp_person_4">Chester</rs> walked a yard if they could help it.
@@ -854,9 +854,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0362/" type="sheet" ed="6v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0363/" type="sheet" ed="7r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="27" unit="char"/>7.
-               </ab>
+               </fw>
                <p prev="true">
                   were roast saddle of <del>roebu</del> roe deer with cranberry preserve,<lb/>
                   <del>roast</del>wild duck or roast pheasant, with a good wine, followed by<lb/>
@@ -900,9 +900,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0364/" type="sheet" ed="7v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0365/" type="sheet" ed="8r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="25" unit="char"/>8.
-               </ab>
+               </fw>
                <p prev="true">
                   filmed, and the <rs type="org" ref="#amp_organization_9">Gesellschaft für Literatur</rs> did it<del>x</del>s duty by him<lb/>
                   and more, from start to finish. <space quantity="1" unit="char"/><unclear>I</unclear>t still does. <space quantity="1" unit="char"/>But the <rs type="org" ref="#amp_organization_9">Austrian<lb/>
@@ -948,9 +948,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0366/" type="sheet" ed="8v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0367/" type="sheet" ed="9r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="26" unit="char"/>9.
-               </ab>
+               </fw>
                <p prev="true">
                   meet <rs type="person" ref="#amp_person_53">Bernhard</rs>, and asked me to mediate, which I did on several<lb/>
                   occasions, but to no effect; <space quantity="1" unit="char"/>I think I did ove<del>e</del>rcome <rs type="person" ref="#amp_person_53">Bernhard</rs>'s<lb/>
@@ -1011,9 +1011,9 @@ for any purpose, even commercially.</p>
                   </del>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0369/" type="sheet" ed="10r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="26" unit="char"/>1O.
-               </ab>
+               </fw>
                <p prev="true">
                   attempt at an analysis of <rs type="person" ref="#amp_person_54">Heer</rs>'s character and personality which<lb/>
                   would be out of place here.)
@@ -1065,9 +1065,9 @@ for any purpose, even commercially.</p>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0370/" type="sheet" ed="10v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0371/" type="sheet" ed="10ar"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="24" unit="char"/>1Oa.
-               </ab>
+               </fw>
                <p prev="true">
                   was adapted and the music written by the composer <rs type="person" ref="#amp_person_60">Paul Kont</rs>.<lb/>
                   A review by the critic <rs type="person" ref="#amp_person_61">Helmut A. Fiechtner</rs> in <rs type="org" ref="#amp_organization_25">"Die Furche"</rs><lb/>
@@ -1107,9 +1107,9 @@ for any purpose, even commercially.</p>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0372/" type="sheet" ed="10av"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0373/" type="sheet" ed="11r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="27" unit="char"/>11
-               </ab>
+               </fw>
                <p prev="true">
                   all the main literary works in the German language under review<lb/>
                   in so far as they exist in English translation, to judge their<lb/>
@@ -1155,9 +1155,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0374/" type="sheet" ed="11v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0375/" type="sheet" ed="12r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="25" unit="char"/>12
-               </ab>
+               </fw>
                <p>
                   <space quantity="5" unit="char"/>Perhaps it is worth reminding ourselves of the abortive<lb/>
                   scheme in these difficult times, because of the underlying<lb/>
@@ -1203,9 +1203,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0376/" type="sheet" ed="12v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0377/" type="sheet" ed="13r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="24" unit="char"/>13.
-               </ab>
+               </fw>
                <p prev="true">
                   <space quantity="5" unit="char"/>Which I think we may doubt. <space quantity="1" unit="char"/>But <rs type="person" ref="#amp_person_1">Auden</rs> knew loneliness.<lb/>
                   <seg>
@@ -1332,9 +1332,9 @@ for any purpose, even commercially.</p>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0380/" type="sheet" ed="14v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0381/" type="sheet" ed="14ar"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="26" unit="char"/>14a.
-               </ab>
+               </fw>
                <ab>
                   Insert after "to become uppish".
                </ab>
@@ -1358,9 +1358,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0382/" type="sheet" ed="14av"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0383/" type="sheet" ed="15r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="25" unit="char"/>15.
-               </ab>
+               </fw>
                <p>
                   <seg>
                      <quote source="acdh:amp-transcript__0038.xml">
@@ -1429,9 +1429,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0384/" type="sheet" ed="15v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0385/" type="sheet" ed="16r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="26" unit="char"/>16.
-               </ab>
+               </fw>
                <p prev="true">
                   <seg>
                      <quote source="#lit_work_id_74">
@@ -1492,9 +1492,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0386/" type="sheet" ed="16v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0387/" type="sheet" ed="17r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="27" unit="char"/>17
-               </ab>
+               </fw>
                <p prev="true">
                   dressed in black jacket, striped trousers and bowler hat. <space quantity="1" unit="char"/>And<lb/>
                   he worked two floors underground. <space quantity="1" unit="char"/>Then there was the little<lb/>
@@ -1543,9 +1543,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0388/" type="sheet" ed="17v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0389/" type="sheet" ed="18r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="24" unit="char"/>18.
-               </ab>
+               </fw>
                <p prev="true">
                   session.
                </p>
@@ -1598,9 +1598,9 @@ for any purpose, even commercially.</p>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0390/" type="sheet" ed="18v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0391/" type="sheet" ed="19r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="27" unit="char"/>19.
-               </ab>
+               </fw>
                <p prev="true">
                   to deliver the <rs type="event" ref="#amp_event_id_32">opening address</rs> - a highly festive occasion, and<lb/>
                   his spee<del>d</del>ch would be widely reported. <space quantity="1" unit="char"/>By late April he had already<lb/>
@@ -1647,9 +1647,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0392/" type="sheet" ed="19v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0393/" type="sheet" ed="20r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="30" unit="char"/>2O.
-               </ab>
+               </fw>
                <p prev="true">
                   strays.
                </p>
@@ -1702,9 +1702,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0394/" type="sheet" ed="20v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0395/" type="sheet" ed="21r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="28" unit="char"/>21
-               </ab>
+               </fw>
                <p prev="true">
                   <seg>
                      <quote source="#lit_work_id_133">
@@ -1770,9 +1770,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0396/" type="sheet" ed="21v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0397/" type="sheet" ed="22r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="23" unit="char"/><del>18</del>22
-               </ab>
+               </fw>
                <p prev="true">
                   did precisely this, whereupon <rs type="person" ref="#amp_person_93">my mother-in-law</rs> f<del>q</del>avoured<lb/>
                   him with a withering glance and said, unforgivably: <space quantity="1" unit="char"/>'COWARD!'<lb/>
@@ -1831,9 +1831,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0398/" type="sheet" ed="22v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0399/" type="sheet" ed="23r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="26" unit="char"/><del>19.</del>23
-               </ab>
+               </fw>
                <p>
                   his right arm and shoulder in plaster. <space quantity="2" unit="char"/>He was a little<lb/>
                   offhand about the <rs type="event" ref="#amp_event_id_34">accident</rs>, but his memories of the <rs type="org" ref="#amp_organization_42">hospital</rs><lb/>
@@ -1889,9 +1889,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0400/" type="sheet" ed="23v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0401/" type="sheet" ed="24r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="20" unit="char"/>2<del>O</del>4.
-               </ab>
+               </fw>
                <p prev="true">
                   about Austrian politics or anything else that came to mind<lb/>
                   to <del>h</del>cheer him over the interval until <rs type="person" ref="#amp_person_4">Chester</rs> arrived<del>.</del>from<lb/>
@@ -1937,9 +1937,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0402/" type="sheet" ed="24v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0403/" type="sheet" ed="25r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="27" unit="char"/>25.
-               </ab>
+               </fw>
                <p prev="true">
                   that to attempt to carry out any form of business in <rs type="place" ref="#amp_place_id_1">Vienna</rs><lb/>
                   <del>during the twelve days of Christmas </del><space quantity="2" unit="char"/>between the last days<lb/>
@@ -1987,9 +1987,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0404/" type="sheet" ed="25v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0405/" type="sheet" ed="26r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="26" unit="char"/>26
-               </ab>
+               </fw>
                <p prev="true">
                   <rs type="lit_work" ref="#lit_work_id_77">"Letters of Beethoven"</rs> - <del>s</del>which he gave me, the blank pages are<lb/>
                   filled with his notes - and even a new <rs type="lit_work" ref="#lit_work_id_198" ana="#ana_042">12 volume annotated<lb/>
@@ -2044,9 +2044,9 @@ for any purpose, even commercially.</p>
                   </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0406/" type="sheet" ed="26v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0407/" type="sheet" ed="27r"/>
-                  <ab>
+                  <fw type="pageNum">
                      <space quantity="27" unit="char"/>27
-                  </ab>
+                  </fw>
                   <p prev="true">
                      which they performed with unfailing patience and generosity.
                   </p>
@@ -2100,9 +2100,9 @@ for any purpose, even commercially.</p>
                   </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0408/" type="sheet" ed="27v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0409/" type="sheet" ed="28r"/>
-                  <ab>
+                  <fw type="pageNum">
                      <space quantity="26" unit="char"/>28.
-                  </ab>
+                  </fw>
                   <p prev="true">
                      <del>w</del> either b<del>a</del>y an adit or a pump - but physical impossibilities and<lb/>
                      magic means were forbidden. <space quantity="1" unit="char"/>When I say forbidden, I mean that I<lb/>
@@ -2146,9 +2146,9 @@ for any purpose, even commercially.</p>
                   </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0410/" type="sheet" ed="28v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0411/" type="sheet" ed="29r"/>
-                  <ab>
+                  <fw type="pageNum">
                      <space quantity="25" unit="char"/>29.
-                  </ab>
+                  </fw>
                   <p prev="true">
                      of their species vital information about food, territory, sex,<lb/>
                      the presence of enemies etc., and in social animals like the bee,<lb/>
@@ -2197,9 +2197,9 @@ for any purpose, even commercially.</p>
                   </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0412/" type="sheet" ed="29v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0413/" type="sheet" ed="30r"/>
-                  <ab>
+                  <fw type="pageNum">
                      <space quantity="24" unit="char"/>3O.-
-                  </ab>
+                  </fw>
                   <p prev="true">
                      works of art, on the other hand, are of the utmost importance<lb/>
                      to the contemporary practitioner. <space quantity="1" unit="char"/>Every artist tries to produce<lb/>
@@ -2252,9 +2252,9 @@ for any purpose, even commercially.</p>
                   </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0414/" type="sheet" ed="30v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0415/" type="sheet" ed="31r"/>
-                  <ab>
+                  <fw type="pageNum">
                      <space quantity="25" unit="char"/>31
-                  </ab>
+                  </fw>
                   <p prev="true">
                      <seg>
                         <quote source="#lit_work_id_172">
@@ -2315,9 +2315,9 @@ for any purpose, even commercially.</p>
                   </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0416/" type="sheet" ed="31v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0417/" type="sheet" ed="32r"/>
-                  <ab>
+                  <fw type="pageNum">
                      <space quantity="26" unit="char"/>32
-                  </ab>
+                  </fw>
                   <p prev="true">
                      Such a model, if put into practice, is bound to produce a tyranny.<lb/>
                      The aim of the artist is to produce an object which is complete<lb/>
@@ -2366,9 +2366,9 @@ for any purpose, even commercially.</p>
                   </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0418/" type="sheet" ed="32v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0419/" type="sheet" ed="31ar"/>
-                  <ab>
+                  <fw type="pageNum">
                      <space quantity="26" unit="char"/>31. a
-                  </ab>
+                  </fw>
                   <p>
                      <space quantity="5" unit="char"/>What, then, can the Arts do for us? <space quantity="1" unit="char"/>In my opinion, they can<lb/>
                      do two things. <space quantity="1" unit="char"/>They can, as <rs type="person" ref="#amp_person_33">Dr. Johnson</rs> said, <quote source="#lit_work_id_174">'enable us a little<lb/>
@@ -2425,9 +2425,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0420/" type="sheet" ed="31av"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0421/" type="sheet" ed="32ar"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="29" unit="char"/>32.a
-               </ab>
+               </fw>
                <p prev="true">
                   liturgies. <space quantity="1" unit="char"/>The new banality offended his acute sense of the<lb/>
                   power contained in words and phrases which have brought mankind<lb/>
@@ -2486,9 +2486,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0422/" type="sheet" ed="32av"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0423/" type="sheet" ed="33r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="26" unit="char"/>33.
-               </ab>
+               </fw>
                <p prev="true">
                   Afterwards, I had given a lift home to a carload of people<lb/>
                   including one whose pockets, had <del>I</del><unclear>I</unclear> but known it, were stuffed<lb/>
@@ -2541,9 +2541,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0424/" type="sheet" ed="33v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0425/" type="sheet" ed="34r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="27" unit="char"/>34.
-               </ab>
+               </fw>
                <p prev="true">
                   <quote source="acdh:amp-transcript__0004.xml"><seg>'Truth rests with God alone, and a little bit with me', or 'God<lb/>
                   will provide - ah, if only he would till He does so.'"</seg></quote> <space quantity="1" unit="char"/>After a<lb/>
@@ -2596,9 +2596,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0426/" type="sheet" ed="34v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0427/" type="sheet" ed="35r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="28" unit="char"/>35.
-               </ab>
+               </fw>
                <p prev="true">
                   in <rs type="place" ref="#amp_place_id_10">Austria</rs>. <space quantity="1" unit="char"/>Most people now have forgotten about Benzedrene;<lb/>
                   other things <space quantity="1" unit="char"/>have taken its place. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs> reminded me that it<lb/>
@@ -2646,9 +2646,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0428/" type="sheet" ed="35v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0429/" type="sheet" ed="36r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="25" unit="char"/>36.
-               </ab>
+               </fw>
                <ab hand="#handwritten">
                   <unclear>+</unclear> + <unclear>+</unclear>
                </ab>
@@ -2704,9 +2704,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0430/" type="sheet" ed="36v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0431/" type="sheet" ed="37r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="27" unit="char"/>37.
-               </ab>
+               </fw>
                <p prev="true">
                   greater the contrast with the enfor<del>f</del>ced silence of a <rs type="note" ana="#ana_043">young<lb/>
                   Austrian whose identity was never fully revealed</rs>, though<lb/>
@@ -2759,9 +2759,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0432/" type="sheet" ed="37v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0433/" type="sheet" ed="38r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="23" unit="char"/>38.
-               </ab>
+               </fw>
                <p>
                   A nd in his <rs type="lit_work" ref="#lit_work_id_38">Prologue at Sixty</rs>:<lb/>
                   <seg>
@@ -2824,9 +2824,9 @@ for any purpose, even commercially.</p>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0434/" type="sheet" ed="38v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0435/" type="sheet" ed="39r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="25" unit="char"/>39.
-               </ab>
+               </fw>
                <p prev="true">
                   <seg>
                      <seg>
@@ -2885,9 +2885,9 @@ for any purpose, even commercially.</p>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0436/" type="sheet" ed="39v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0437/" type="sheet" ed="40r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="24" unit="char"/>40.
-               </ab>
+               </fw>
                <p>
                   <space quantity="5" unit="char"/>The news reached me over the car radio on the motorway near<lb/>
                   <rs type="place" ref="#amp_place_id_66">Linz</rs>, and I headed straight for <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> on the off-chance<lb/>
@@ -2936,9 +2936,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0438/" type="sheet" ed="40v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0439/" type="sheet" ed="41r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="26" unit="char"/>41
-               </ab>
+               </fw>
                <p>
                   <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs> tried to explain, and gradually his wishes became<lb/>
                   clear. <space quantity="1" unit="char"/>He hated everything in the shape of pompes funèbres.<lb/>
@@ -2987,9 +2987,9 @@ for any purpose, even commercially.</p>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0440/" type="sheet" ed="41v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0441/" type="sheet" ed="42r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="26" unit="char"/>42.
-               </ab>
+               </fw>
                <p>
                   <space quantity="5" unit="char"/>The room was stifling. <space quantity="1" unit="char"/>It seemed that <rs type="person" ref="#amp_person_4">Chester</rs> needed to<lb/>
                   have fewer people around him and that the party needed to be<lb/>
@@ -3037,9 +3037,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0442/" type="sheet" ed="42v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0443/" type="sheet" ed="43r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="30" unit="char"/>43.
-               </ab>
+               </fw>
                <p prev="true">
                   pay for the band. <space quantity="1" unit="char"/>As <rs type="person" ref="#amp_person_4">Chester</rs> was being compelled to comply with<lb/>
                   local customs, and the district council in the person of its <rs type="person" ref="#amp_person_22">mayor</rs><lb/>
@@ -3088,9 +3088,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0444/" type="sheet" ed="43v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0445/" type="sheet" ed="44r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="22" unit="char"/>44.
-               </ab>
+               </fw>
                <p prev="true">
                   had never left <rs type="place" ref="#amp_place_id_28">New York</rs> for <rs type="place" ref="#amp_place_id_13">Athens</rs>. <space quantity="1" unit="char"/>Apart, <rs type="person" ref="#amp_person_1 #amp_person_4">both</rs> lapsed into<lb/>
                   squalor; <space quantity="1" unit="char"/>together, they kept the pot boiling and the stove<lb/>
