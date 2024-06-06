@@ -97,6 +97,13 @@ for any purpose, even commercially.</p>
             </listWit>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <listPrefixDef>
+            <prefixDef ident="acdh" matchPattern="(.+)" replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+               <p>Edition Documents Prefix</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="en">English</language>
@@ -1163,9 +1170,9 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_1">Auden</rs>´s <rs type="lit_work" ref="#lit_work_id_85">speech</rs> at <rs type="place" ref="#amp_place_id_47">Neulengbach</rs>.
                </p>
                <p>
-                  Sehr verehrter <rs type="person" ref="#amp_person_22">Herr Landeshauptmann</rs>, Ladies and gentlemen:<lb/>
+                  <quote source="#lit_work_id_90">Sehr verehrter <rs type="person" ref="#amp_person_112"><foreign xml:lang="de">Herr Landeshauptmann</foreign></rs>, Ladies and gentlemen:<lb/>
                   I hope you will pardon me if I speak somewhat personally. <space quantity="1" unit="char"/>I do so,<lb/>
-                  not out of vanity...
+                  not out of vanity...</quote>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0514/" type="sheet" ed="18v"/>
          </div>
