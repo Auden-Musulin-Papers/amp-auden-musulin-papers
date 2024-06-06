@@ -49,7 +49,7 @@
                               <idno type="ISBN">3-471-78633-3</idno>
                               <citedRange unit="page" from="250" to="251"/>
                            </bibl>
-                           <bibl sameAs="acdh:amp-transcript__0072.xml"/>
+                           <!--<bibl sameAs="acdh:amp-transcript__0072.xml"/>-->
                         </listBibl>
                      </desc>
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
