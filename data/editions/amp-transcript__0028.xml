@@ -33,6 +33,28 @@
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
                      <certainty cert="high" locus="value"/>
                   </interp>
+                  <interp xml:id="ana_048" source="ph_048"><!-- link -->
+                     <desc>
+                        In her autobiography <hi rend="italic"><foreign xml:lang="de">Welche Welt ist meine Welt? Erinnerungen 1946-1989</foreign></hi>, <rs type="person" ref="#amp_person_78">Hilde Spiel</rs> recalls a dinner “at the manor house of a Count Colloredo, near <rs type="place" ref="#amp_place_id_2">Auden’s house</rs>”, including herself as well as <rs type="person" ref="#amp_person_1">Auden</rs> and <rs type="person" ref="#amp_person_4">Kallman</rs>, in May 1971 (250-251). <rs type="person" ref="#amp_person_2">Stella Musulin</rs>'s estate includes a <ref target="acdh:amp-transcript__0072.xml">photograph</ref>, taken by her, of <rs type="person" ref="#amp_person_226">Friedrich Colloredo-Mansfeld</rs>, Auden, and Kallman.
+                        <listPerson>
+                           <person><persName ref="acdh:amp-index-persons.xml#amp_person_226"/></person>
+                        </listPerson>
+                        <listBibl>
+                           <bibl>
+                              <author ref="acdh:amp-index-persons.xml#amp_person_78"/>
+                              <title xml:lang="de">Welche Welt ist meine Welt? Erinnerungen 1946-1989</title>
+                              <publisher>List Verlag</publisher>
+                              <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_26"/>
+                              <date when-iso="1990"/>
+                              <idno type="ISBN">3-471-78633-3</idno>
+                              <citedRange unit="page" from="250" to="251"/>
+                           </bibl>
+                           <bibl sameAs="acdh:amp-transcript__0072.xml"/>
+                        </listBibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="medium" locus="value"/>
+                  </interp>
                </interpGrp>
             </edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
@@ -1020,8 +1042,8 @@ for any purpose, even commercially.</p>
                   It was <rs type="person" ref="#amp_person_1">Wystan Auden</rs>, out-distancing now all his human frailty,<lb/>
                   remote and unknowable as perhaps he always was. <space quantity="1" unit="char"/>He had written the<lb/>
                   finest love poem of the century, and it might have been <del>said</del> of<lb/>
-                  him that <rs type="person" ref="#amp_person_8">Spender</rs> wrote: <space quantity="1" unit="char"/><rs type="lit_work" ref="#lit_work_id_177">"I think continually of those who were<lb/>
-                  truly great."</rs>
+                  him that <rs type="person" ref="#amp_person_8">Spender</rs> wrote: <space quantity="1" unit="char"/><quote source="#lit_work_id_177">"I think continually of those who were<lb/>
+                  truly great."</quote>
                </p>
                <p>
                   <space quantity="4" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs> shut the sittingroom door. <space quantity="1" unit="char"/>Surprised and <del>ö</del>slightly<lb/>
@@ -1033,9 +1055,9 @@ for any purpose, even commercially.</p>
                   public and private<handShift new="#handwritten"/>, <handShift new="#typed"/>was quite adequately reflected in the long<lb/>
                   defile now slowly winding its way through the village to the church.<lb/>
                   English and Austrian cultural institutions were represented,<lb/>
-                  but <rs type="place" ref="#amp_person_239">England</rs> would <handShift new="#handwritten"/>only <handShift new="#typed"/>turn up in force at the <rs type="place" ref="#amp_place_id_331">Poet's Corner in<lb/>
+                  but <rs type="place" ref="#amp_place_id_239">England</rs> would <handShift new="#handwritten"/>only <handShift new="#typed"/>turn up in force at the <rs type="place" ref="#amp_place_id_331">Poet's Corner in<lb/>
                   Westminster Abbey</rs>. <space quantity="1" unit="char"/>Among the local population the sense of<lb/>
-                  occasion may have been patchy. <space quantity="1" unit="char"/>A nobleman who had often exchanged<lb/>
+                  occasion may have been patchy. <space quantity="1" unit="char"/>A <rs type="person" ref="#amp_person_248" ana="#ana_048">nobleman</rs> who had often exchanged<lb/>
                   hospitality with the <rs type="person" ref="#amp_person_1 #amp_person_4">two poets</rs> asked me over lunch to fill in his<lb/>
                   very vague picture of who and what <rs type="person" ref="#amp_person_1">Auden</rs> was. <space quantity="1" unit="char"/>The underworld of<lb/>
                   <rs type="place" ref="#amp_place_id_13">Athens</rs> had sent one of its own, but so had <rs type="place" ref="#amp_place_id_1">Vienna</rs>: <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_107">Hugi</rs>, or<lb/>
@@ -1059,19 +1081,19 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>At the lowest point in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> where the roads divide<lb/>
                   th<del>r</del>e procession halted while the coffin was transferred from the<lb/>
                   hearse to a hand-drawn bier. <space quantity="1" unit="char"/>At this point the Church took charge<lb/>
-                  and the procession resumed its steady pace; <space quantity="1" unit="char"/>photographs exist<lb/>
+                  and the procession resumed its steady pace; <space quantity="1" unit="char"/><rs type="note" ana="acdh:amp-transcript__0062.xml#ana_045">photographs</rs> exist<lb/>
                   which were taken during the brief interval.<lb/>
                   <space quantity="5" unit="char"/>To British ears quite unremarkable, the <rs type="event" ref="#amp_event_id_19">ecumenic<del>la</del>al service</rs><lb/>
                   was much ta<del>ö</del>lked about in A<del>ku</del>ustrian circles because nothing of the<lb/>
                   kind had been known <del>n</del>before. <space quantity="1" unit="char"/>The <rs type="person" ref="#amp_person_156">Revd. Bruce Du<del>c</del>ncan</rs>, today Rector<lb/>
                   of Crediton in Devon, can remember little <del>more</del> about the general<lb/>
                   circumstances but confirms that he used the <rs type="lit_work" ref="#lit_work_id_13">Book of Common Prayer</rs><lb/>
-                  and the long reading from the first <del>book</del><rs type="lit_work" ref="#lit_work_id_14">Letter of <rs type="person" ref="#amp_person_190">St.Paul</rs> to the<lb/>
+                  and the long reading from the first <del>book</del><rs type="lit_work" ref="#lit_work_id_14">Letter of St.Paul to the<lb/>
                   Corin<del>g</del>thians</rs>, chapter 15, verses 20-58. <space quantity="1" unit="char"/>Beyond that, all he recalls<lb/>
                   <del>is the hysterical behaviour<space quantity="1" unit="char"/></del> is his difficulties with <rs type="person" ref="#amp_person_4">Chester</rs>.<lb/>
                </p>
-               <p>
-                  ↕ ↕
+               <p hand="#handwritten">
+                  &#x2195; &#x2195;
                </p>
                <p>
                   <space quantity="5" unit="char"/>Reaching for my <rs type="lit_work" ref="#lit_work_id_82">Authorised Version</rs>, for surely no one would<lb/>
@@ -1081,26 +1103,26 @@ for any purpose, even commercially.</p>
                   time, I did the same with the <rs type="lit_work" ref="#lit_work_id_109">Luther<del>n</del>an Bible</rs> and lost in thought<lb/>
                   compared the two, verse by verse.<lb/>
                   <space quantity="5" unit="char"/>"How nice to see you" said <rs type="person" ref="#amp_person_1">Auden</rs> who was sitting on one of the<lb/>
-                  white garden chairs with the red covers, "it´s a bit <hi rend="underline">einsam</hi> here.<lb/>
+                  white garden chairs with the red covers, "it´s a bit <hi rend="underline"><foreign xml:lang="de">einsam</foreign></hi> here.<lb/>
                   And I wanted to write and tell you that the technical word for<lb/>
-                  <hi rend="underline">buddle</hi> is <hi rend="underline">Erzwaschtrog</hi>. <space quantity="1" unit="char"/>I hope there is an equivalent German<lb/>
-                  euphemism for `senior citizen´. <space quantity="1" unit="char"/>Oh and <hi rend="underline">adit</hi> is <hi rend="underline"><del>s</del>Stollen,</hi> and although<lb/>
-                  I may be wrong, I guess <hi rend="underline">concentrating mill</hi> is <hi rend="underline">Vereinigungsmühle.</hi>"<lb/>
+                  <hi rend="underline">buddle</hi> is <hi rend="underline"><foreign xml:lang="de">Erzwaschtrog</foreign></hi>. <space quantity="1" unit="char"/>I hope there is an equivalent German<lb/>
+                  euphemism for `senior citizen´. <space quantity="1" unit="char"/>Oh and <hi rend="underline">adit</hi> is <hi rend="underline"><foreign xml:lang="de"><del>s</del>Stollen</foreign>,</hi> and although<lb/>
+                  I may be wrong, I guess <hi rend="underline">concentrating mill</hi> is <hi rend="underline"><foreign xml:lang="de">Vereinigungsmühle</foreign>.</hi>"<lb/>
                   <space quantity="5" unit="char"/>"What a mercy you´ve told me" I said, relieved. <space quantity="1" unit="char"/>"I should have<lb/>
-                  had to <del>have</del> d<del>u</del>ig up such frightful words in the British Council library.<lb/>
+                  had to <del>have</del> d<del>u</del>ig up such frightful words in the <rs type="org" ref="#amp_organization_16">British Council</rs> library.<lb/>
                   But do you think people will understand all that about the primary<lb/>
                   and secondary worlds, or will they get muddled?"<lb/>
                   <space quantity="5" unit="char"/>"It´s perfectly simple" said <rs type="person" ref="#amp_person_1">Auden</rs>. <space quantity="1" unit="char"/>"The initial impulse to<lb/>
                   create a secondary world is a feeling of awe aroused by encounters,<lb/>
                   in the primary world, with sacred beings or events."<lb/>
-                  <space quantity="5" unit="char"/>"There is one glory of the sun" I heard myself say, "and<lb/>
-                  another glory of the moon, and another glory of the stars: <space quantity="1" unit="char"/>for one
+                  <space quantity="5" unit="char"/><quote source="#lit_work_id_14">"There is one glory of the sun"</quote> I heard myself say, <quote source="#lit_work_id_14">"and<lb/>
+                  another glory of the moon, and another glory of the stars: <space quantity="1" unit="char"/>for one</quote>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0512/" type="sheet" ed="17v"/>
                <div>
-                  <ab>
-                     NEULINGGASSE 26/14
-                     <lb/>1030 WIEN
+                  <ab xml:lang="de">
+                     <rs type="place" ref="#amp_place_id_11">NEULINGGASSE 26/14
+                     <lb/>1030 WIEN</rs>
                      <lb/>TEL. 73 94 015
                   </ab>
                </div>
@@ -1109,34 +1131,34 @@ for any purpose, even commercially.</p>
                   <space quantity="30" unit="char"/>- 18 -
                </fw>
                <p>
-                  star differeth from another in glory."<lb/>
+                  <quote source="#lit_work_id_14">star differeth from another in glory."</quote><lb/>
                   <space quantity="4" unit="char"/>"Ah" he said, "you´ve been reading <rs type="lit_work" ref="#lit_work_id_14">Corinthians One</rs>, chapter 15.<lb/>
-                  `Let us eat and drink; for tomorrow we die.´ <rs type="person" ref="#amp_person_4">Chester</rs> and I took<lb/>
+                  <quote source="#lit_work_id_14">`Let us eat and drink; for tomorrow we die.´</quote> <rs type="person" ref="#amp_person_4">Chester</rs> and I took<lb/>
                   that bidding rather too literally."<lb/>
                   <space quantity="5" unit="char"/>"Who would know where that familiar quotation comes from?"<lb/>
                   I wondered.<lb/>
                   <space quantity="5" unit="char"/>"I would" said <rs type="person" ref="#amp_person_1">Auden</rs>. <space quantity="1" unit="char"/>"I´ve been looking up the German text.<lb/>
                   Have you ever compared the <rs type="lit_work" ref="#lit_work_id_82">Autho<del>s</del>rized Version</rs> with <rs type="lit_work" ref="#lit_work_id_109">Martin Luther</rs>?"<lb/>
                   <space quantity="5" unit="char"/>"Funny you should ask that" I said. <space quantity="1" unit="char"/>"It´s one of the things<lb/>
-                  I forgot to talk to you about. <space quantity="1" unit="char"/>`Be not deceived: <space quantity="1" unit="char"/>evil<del>,</del>comm<del>ku</del>unica-<lb/>
-                  tions corrupt good manners.´ He renders that as `Lasset euch nicht<lb/>
-                  verführen! <space quantity="1" unit="char"/>Böse Geschwätze verderben gute Sitten.´"<lb/>
-                  <space quantity="6" unit="char"/>"Very neat" said <rs type="person" ref="#amp_person_1">Auden</rs> happily. <space quantity="1" unit="char"/>I like `evil chatter´<lb/>
-                  better than `comm<del>k</del>unications´."<lb/>
+                  I forgot to talk to you about. <space quantity="1" unit="char"/><quote source="#lit_work_id_82 #lit_work_id_14">`Be not deceived: <space quantity="1" unit="char"/>evil<del>,</del>comm<del>ku</del>unica-<lb/>
+                  tions corrupt good manners.´</quote> He renders that as <quote source="#lit_work_id_109 #lit_work_id_14">`<foreign xml:lang="de">Lasset euch nicht<lb/>
+                  verführen! <space quantity="1" unit="char"/>Böse Geschwätze verderben gute Sitten</foreign>.´</quote>"<lb/>
+                  <space quantity="6" unit="char"/>"Very neat" said <rs type="person" ref="#amp_person_1">Auden</rs> happily. <space quantity="1" unit="char"/>I like <quote source="#lit_work_id_109 #lit_work_id_14">`evil chatter´</quote><lb/>
+                  better than <quote source="#lit_work_id_82 #lit_work_id_14">`comm<del>k</del>unications´</quote>."<lb/>
                   <space quantity="6" unit="char"/>"The publishers" Isaid "have a rather heavy-handed way of<lb/>
                   printing the more quotable bits in bold-face<del>.</del>d type <space quantity="1" unit="char"/>But in the next<lb/>
-                  verse <rs type="person" ref="#amp_person_102">Luther</rs> seems to flounder. <space quantity="1" unit="char"/>`Werdet doch einmal recht nüchtern<lb/>
-                  und sündiget nicht!´" Do be a bit sober for once, he pleads. <space quantity="1" unit="char"/>And<lb/>
-                  sin not. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_170">King James</rs>´s translators fancied that <rs type="person" ref="#amp_person_190">St Paul</rs> cried out<lb/>
-                  <del>S</del>`Awake to righteousness!"<lb/>
+                  verse <rs type="person" ref="#amp_person_102">Luther</rs> seems to flounder. <space quantity="1" unit="char"/><quote source="#lit_work_id_109 #lit_work_id_14">`<foreign xml:lang="de">Werdet doch einmal recht nüchtern<lb/>
+                  und sündiget nicht</foreign>!´</quote>" <quote source="#lit_work_id_109 #lit_work_id_14">Do be a bit sober for once</quote>, he pleads. <space quantity="1" unit="char"/><quote source="#lit_work_id_109 #lit_work_id_14">And<lb/>
+                  sin not</quote>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_170">King James</rs>´s translators fancied that <rs type="person" ref="#amp_person_190">St Paul</rs> cried out<lb/>
+                  <del>S</del><quote source="#lit_work_id_82 #lit_work_id_14">`Awake to righteousness!</quote>"<lb/>
                   <space quantity="5" unit="char"/>"Who knows what he really said<del>.</del>?"<lb/>
                   <space quantity="5" unit="char"/>"<rs type="person" ref="#amp_person_102">Luther</rs>´s language is very fine as he reaches the clim<del>x</del>ax:<lb/>
-                  `Siehe, ich sage euch ein Geheimnis... ´"<lb/>
-                  <space quantity="5" unit="char"/>But <rs type="person" ref="#amp_person_1">Auden</rs> was speaking. <space quantity="1" unit="char"/>"Behold, I shew you a mystery:<lb/>
+                  <quote source="#lit_work_id_109 #lit_work_id_14">`<foreign xml:lang="de">Siehe, ich sage euch ein Geheimnis</foreign>... ´</quote>"<lb/>
+                  <space quantity="5" unit="char"/>But <rs type="person" ref="#amp_person_1">Auden</rs> was speaking. <space quantity="1" unit="char"/><quote source="#lit_work_id_82 #lit_work_id_14">"Behold, I shew you a mystery:<lb/>
                   we shall not all sleep, but we shall all be changed, In a moment,<lb/>
                   in the twinkling of an eye, at the last trump: <space quantity="1" unit="char"/>for the trumpet<lb/>
                   shall sound, and the dead shall be raised incorruptible, and we<lb/>
-                  shall be changed.´" <space quantity="1" unit="char"/>And with that he vanished. <space quantity="1" unit="char"/>Now wide awake, I<lb/>
+                  shall be changed.´</quote>" <space quantity="1" unit="char"/>And with that he vanished. <space quantity="1" unit="char"/>Now wide awake, I<lb/>
                   put the <rs type="lit_work" ref="#lit_work_id_82 #lit_work_id_109">two books</rs> back on their shelf and settled down to re-type<lb/>
                   <rs type="person" ref="#amp_person_1">Auden</rs>´s <rs type="lit_work" ref="#lit_work_id_85">speech</rs> at <rs type="place" ref="#amp_place_id_47">Neulengbach</rs>.
                </p>
