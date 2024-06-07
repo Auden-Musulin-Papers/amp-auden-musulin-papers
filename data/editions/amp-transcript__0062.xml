@@ -1265,9 +1265,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0378/" type="sheet" ed="13v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0379/" type="sheet" ed="14r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="25" unit="char"/>14.
-               </ab>
+               </fw>
                <p>
                   <space quantity="5" unit="char"/>By <del>Octob</del> the end of October 1964 <rs type="person" ref="#amp_person_1">Auden</rs> was in <rs type="place" ref="#amp_place_id_17">Berlin</rs>,<lb/>
                   where he would spend the winter as a <rs type="org" ref="#amp_organization_89">guest of the <rs type="org" ref="#amp_organization_1">Ford<lb/>
