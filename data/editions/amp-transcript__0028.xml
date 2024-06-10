@@ -235,19 +235,22 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0514/"/>
       </surface>
    </facsimile>
-   <text type="memoir" hand="#typed">
+   <text type="prose" hand="#typed">
       <body>
-         <div xml:id="transcription">
+         <div type="transcription" xml:id="transcription_amp_0028" xml:lang="en">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0477/" type="sheet" ed="1r"/>
-               <div>
-                  <ab>
-                     STELLA MUSULIN
-                     <lb/>FRIDAU
-                     <lb/>A<unclear>-</unclear>3200 OB<unclear>E</unclear>RGRA<unclear>FE</unclear>N<unclear>D</unclear>OR<unclear>F</unclear>
-                  </ab>
-               </div>
+            <div>
+               <ab>
+                  <rs type="person" ref="#amp_person_2">STELLA MUSULIN</rs>
+                  <lb/><rs type="place" ref="#amp_place_id_7">FRIDAU
+                  <lb/>A<unclear>-</unclear>3200 OB<unclear>E</unclear>RGRA<unclear>FE</unclear>N<unclear>D</unclear>OR<unclear>F</unclear></rs>
+               </ab>
+            </div>
+            <div>
+               <head>
+                  <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_46">In Retrospect</rs>.</hi>
+               </head>
                <p>
-                  <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_46">In Retrospect</rs>.</hi><lb/>
                   <space quantity="5" unit="char"/>Since then the <rs type="person" ref="#amp_person_1">Auden</rs> industry has not been idle. <space quantity="1" unit="char"/>An<lb/>
                   excellent <rs type="lit_work" ref="#lit_work_id_39">biography</rs> was published1 and <del>k</del>in this the Austrian<lb/>
                   period was dealt with but not locally researched. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_98">Edward<lb/>
@@ -1174,6 +1177,7 @@ for any purpose, even commercially.</p>
                   I hope you will pardon me if I speak somewhat personally. <space quantity="1" unit="char"/>I do so,<lb/>
                   not out of vanity...</quote>
                </p>
+            </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0514/" type="sheet" ed="18v"/>
          </div>
       </body>
