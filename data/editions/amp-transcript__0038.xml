@@ -256,9 +256,9 @@ for any purpose, even commercially.</p>
                   </lg>  
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0134/" type="sheet" ed="2v"/>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0135/" type="sheet" ed="3r"/>
-                  <ab>
+                  <fw type="pageNum">
                      <space extent="undefined quantity of characters plus minimum" min="40" unit="char"/>(2
-                  </ab>
+                  </fw>
                   <lg>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Unmarked by me,unmourned for,</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The hour of your death,</l>
@@ -321,9 +321,9 @@ for any purpose, even commercially.</p>
                   </lg>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0136/" type="sheet" ed="3v"/>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0137/" type="sheet" ed="4r"/>
-                  <ab>
+                  <fw type="pagenNum">
                      <space quantity="53" unit="char"/>(3
-                  </ab>
+                  </fw>
                   <lg>
                      <lb/><space quantity="15" unit="char"/><l>Looking across <del>u</del>our valley</l>
                      <lb/><space quantity="15" unit="char"/><l>Where,hidden from view,</l>

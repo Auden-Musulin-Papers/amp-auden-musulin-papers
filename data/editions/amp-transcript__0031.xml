@@ -282,7 +282,7 @@ for any purpose, even commercially.</p>
                   <p>   
                      <space quantity="4" unit="char"/>I should be very grateful if you could help me over the<lb/>
                      <rs type="lit_work" ref="#lit_work_id_85">address which <rs type="person" ref="#amp_person_1">Auden</rs> held at <rs type="event" ref="#amp_event_id_37">Neulengbach</rs></rs>. <space quantity="1" unit="char"/>I have <rs type="lit_work" ref="#lit_work_id_90">the original<lb/>
-                        English text</rs> which to my horror <rs type="person" ref="#amp_person_1">Auden</rs> <rs type="note" ana="acdh:amp-transcript__0043.xml#ana_025">asked me to translate</rs>:<lb/>
+                     English text</rs> which to my horror <rs type="person" ref="#amp_person_1">Auden</rs> <rs type="note" ana="acdh:amp-transcript__0043.xml#ana_025">asked me to translate</rs>:<lb/>
                      although capable of creative writing in German, to deal with<lb/>
                      this tough text was too m<del>k</del>uch and it was corrected by <rs type="person" ref="#amp_person_167">my husband</rs>.<lb/>
                      <rs type="person" ref="#amp_person_119">Müller</rs> possesses the <rs type="lit_work" ref="#lit_work_id_91">German text</rs> taken from a tape. <space quantity="1" unit="char"/>Now this<lb/>
@@ -291,9 +291,9 @@ for any purpose, even commercially.</p>
                   </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0224/" type="sheet" ed="1v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0225/" type="sheet" ed="2r"/>
-                  <ab>
+                  <fw type= "pageNum">
                      <space quantity="28" unit="char"/>- 2 -<lb/>
-                  </ab>
+                  </fw>
                   <p prev="true">
                      to what extent <rs type="lit_work" ref="#lit_work_id_85"><rs type="person" ref="#amp_person_1">Auden</rs>´s speech</rs> contains hitherto unknown material,<lb/>
                      if any. <space quantity="1" unit="char"/>I said air<del>l</del>ily that he had probably said i<del>a</del>t a<del>s</del>ll before,<lb/>
