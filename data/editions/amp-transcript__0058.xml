@@ -42,7 +42,7 @@
                            <place sameAs="acdh:amp-index-places.xml#amp_place_id_11"/>
                         </listPlace>
                      </desc>
-                     <respons locus="value" resp="#tfruehwirth #dgrigoriou #smayer"/>
+                     <respons locus="value" resp="dgrigoriou smayer tfruehwirth"/>
                      <certainty locus="value" cert="high"/>
                   </interp>
                </interpGrp>
