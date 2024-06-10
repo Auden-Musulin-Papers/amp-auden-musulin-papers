@@ -99,6 +99,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0046" xml:lang="de">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0141/" type="sheet" ed="1r"/>
+            <div type="prose">
                <ab>
                   1. In dem <hi rend="underline">man</hi><unclear>✓</unclear> dich — begrub ·
                </ab>
@@ -149,10 +150,14 @@ for any purpose, even commercially.</p>
                   12. W<hi rend="underline">as</hi> ist der Abgrund?<lb/>
                   statt Bratschen Violas oder Geigen
                </ab>
+            </div>
+            <div>
                <ab>
                   ⁒
                </ab>
+            </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0142/" type="sheet" ed="1v"/>
+            <div type="prose">
                <ab>
                   Heute lächeln wir bei Hochzeiten ,<lb/>
                   bei <unclear>d</unclear>enen Braut u. Bräutigam schon<lb/>
@@ -174,6 +179,7 @@ for any purpose, even commercially.</p>
                      <unclear>(</unclear><foreign xml:lang="en">Strin<unclear>g</unclear>end instruments genera<unclear>l</unclear>ly</foreign>.)
                   </seg>
                </ab>
+            </div>
          </div>
       </body>
    </text>

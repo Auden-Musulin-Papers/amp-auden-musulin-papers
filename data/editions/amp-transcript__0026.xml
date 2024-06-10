@@ -98,6 +98,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0026" xml:lang="en">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0249/" type="sheet" ed="1r"/>
+            <div type="prose">
                <ab>
                   <rs type="person" ref="#amp_person_1">W<unclear>,</unclear>H.Auden</rs><lb/>
                   ℅ <rs type="person" ref="#amp_person_8 #amp_person_191">Spender</rs><lb/>
@@ -109,6 +110,7 @@ for any purpose, even commercially.</p>
                   <rs type="place" ref="#amp_place_id_224">Johann-Strauß-Gasse 28 <unclear>.</unclear><lb/>
                   1040 Wien .</rs>
                </ab>
+            </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0250/" type="sheet" ed="1v"/>
          </div>
       </body>

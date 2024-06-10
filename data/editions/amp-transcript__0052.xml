@@ -115,17 +115,18 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0052" xml:lang="de">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0171/" type="sheet" ed="1r"/>
+            <div type="prose">
                <head>
                   <space quantity="16" unit="char"/><rs type="lit_work" ref="#lit_work_id_103" ana="acdh:amp-transcript__0031.xml#ana_031"><hi rend="underline">Erklärung</hi></rs>
                </head>
-               <p>
+               <ab>
                   Meine Herren !
-               </p>
+               </ab>
                <p>
                   <space quantity="6" unit="char"/>Mein Standpunkt ist sehr einfach : Man bezahlt dort<lb/>
                   Einkommensteuer, wo man Geld verdient, das heisst in meinem<lb/>
                   Fall, als Schriftsteller, der englisch schreibt, in den <rs type="place" ref="#amp_place_id_15">Ver-<lb/>
-                     einigten Staaten</rs> und in <rs type="place" ref="#amp_place_id_93">England</rs>. In <rs type="place" ref="#amp_place_id_10">Österreich</rs> verdiene <rs type="person" ref="#amp_person_1">ich</rs><lb/>
+                  einigten Staaten</rs> und in <rs type="place" ref="#amp_place_id_93">England</rs>. In <rs type="place" ref="#amp_place_id_10">Österreich</rs> verdiene <rs type="person" ref="#amp_person_1">ich</rs><lb/>
                   keinen Groschen, ich gebe lediglich Schillinge aus.
                </p>
                <p>
@@ -158,9 +159,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0172/" type="sheet" ed="1v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0173/" type="sheet" ed="2r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="56" unit="char"/>2
-               </ab>
+               </fw>
                <p prev="true">
                   Gemeinde, aber man kann nicht behaupten, dass ich finanziellen<lb/>
                   Nutzen daraus ziehe.
@@ -200,9 +201,9 @@ for any purpose, even commercially.</p>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0174/" type="sheet" ed="2v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0175/" type="sheet" ed="3r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="53" unit="char"/>3
-               </ab>
+               </fw>
                <p>
                   <seg>
                      <space quantity="8" unit="char"/>3. <del><gap reason="deleted"/></del>Ich glaube, Sie sind sich nicht i<del><gap reason="deleted"/></del>m Klaren über die<lb/>
@@ -260,6 +261,7 @@ for any purpose, even commercially.</p>
                   eines plötzlichen Ablebens grosse Schwierigkeiten für den<lb/>
                   Erben von Grundbesitz, besonders in ei<unclear><del><gap reason="deleted"/></del></unclear>nem fremden Lande.
                </p>
+            </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0178/" type="sheet" ed="4v"/>
          </div>
       </body>

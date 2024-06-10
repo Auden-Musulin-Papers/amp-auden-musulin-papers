@@ -98,6 +98,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0047" xml:lang="de">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0143/" type="sheet" ed="1r"/>
+            <div type="prose">
                <head>
                   <space quantity="21" unit="char"/><rs type="lit_work" ref="#lit_work_id_93"><rs type="person" ref="#amp_person_5">JOSEPH WEINHEBER</rs><lb/>
                   <space quantity="22" unit="char"/>(1892-1945)</rs>
@@ -183,16 +184,21 @@ for any purpose, even commercially.</p>
                   <space quantity="4" unit="char"/>doch möcht ich auch dir Achtung erweisen, Nachbar und Kolle<lb/>
                   <del>de</del>
                </p>
+            </div>
+            <div>
                <ab>
                   <space quantity="57" unit="char"/>⁒
                </ab>
+            </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0144/" type="sheet" ed="1v"/>
+            <div type="prose">
                <p prev="true">
                   denn selbst mein englisches Ohr erfasst in deinem Deutsch die<lb/>
                   Meisterschaft und den Tonfall einen dem es vergönnt war, auf dem<lb/>
                   gepfählten Anger die Violas zu hören, die ihn nachher dazu<lb/>
                   verpflichteten, sie "den Abgrund zu nennen".
                </p>
+            </div>
          </div>
       </body>
    </text>

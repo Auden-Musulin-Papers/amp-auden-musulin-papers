@@ -167,7 +167,7 @@ for any purpose, even commercially.</p>
          <div type="transcription" xml:id="transcription_amp_0043" xml:lang="en">
             <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0099/" type="sheet" ed="1r"/>
-               <div type="speech">
+               <div type="prose">
                   <ab>
                      <title>
                         <rs type="lit_work" ref="#lit_work_id_90"><hi rend="underline">FREEDOM AND NECESSITY IN THE ARTS</hi></rs>
@@ -220,13 +220,13 @@ for any purpose, even commercially.</p>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0100/" type="sheet" ed="1v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0145/" type="sheet" ed="2r"/>
-               <div type="speech">
-                  <ab hand="#handwritten">
+               <div type="prose">
+                  <fw type="pageNum" hand="#handwritten">
                      (<unclear>1</unclear>
-                  </ab>
-                  <p xml:lang="de">
+                  </fw>
+                  <ab xml:lang="de">
                      <space quantity="17" unit="char"/>Sehr vee<del>rh</del>hrter <rs type="person" ref="#amp_person_112">Herr Landeshauptman<unclear>n</unclear></rs><unclear>,</unclear> meine Damen und Herren:
-                  </p>
+                  </ab>
                   <p>
                      <space quantity="10" unit="char"/>I hope you will pardon me if I speak somewhat personally. I do so,<lb/>
                      not out of vanity,but bec<del>ua</del>ause <space quantity="1" unit="char"/>I do <del>j</del>not wish to give the impression that I<lb/>
@@ -305,9 +305,9 @@ for any purpose, even commercially.</p>
                   </p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0146/" type="sheet" ed="2v"/>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0147/" type="sheet" ed="3r"/>
-                  <ab hand="#handwritten">
+                  <fw type="pageNum" hand="#handwritten">
                      (2
-                  </ab>
+                  </fw>
                   <p>
                      <space quantity="4" unit="char"/>When,later,I began to write poetry’I found that,for me,at least,the same<lb/>
                      obligation was binding. That is to say,I cannot accept the do<del><unclear>s</unclear></del>ctrine that,in<lb/>
@@ -382,9 +382,9 @@ for any purpose, even commercially.</p>
                   </p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0148/" type="sheet" ed="3v"/>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0149/" type="sheet" ed="4r"/>
-                  <ab hand="#handwritten">
+                  <fw type="pageNum" hand="#handwritten">
                      (3
-                  </ab>
+                  </fw>
                   <p>
                      <space quantity="6" unit="char"/>There are periods in history when <del>art</del> the arts develop uninterruptedly,<lb/>
                      <space quantity="1" unit="char"/>each generation building on the achievements of the previous generation.<lb/>
@@ -463,9 +463,9 @@ for any purpose, even commercially.</p>
                   </p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0150/" type="sheet" ed="4v"/>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0151/" type="sheet" ed="5r"/>
-                  <ab hand="#handwritten">
+                  <fw type="pageNum" hand="#handwritten">
                      4
-                  </ab>
+                  </fw>
                   <p>
                      <space quantity="3" unit="char"/>Where <del>politicla</del> political and social <del>eveils</del> evils are concerned,only<lb/>
                      t<del>k</del>wo things are effective<del>*</del><unclear>:</unclear> political action and straightforward,truthful,<lb/>
@@ -527,12 +527,16 @@ for any purpose, even commercially.</p>
                   </p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0152/" type="sheet" ed="5v"/>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0153/" type="sheet" ed="6r"/>
-                  <ab hand="#handwritten">
+                  <fw type="pageNum" hand="#handwritten">
                      (4a
-                  </ab>
+                  </fw>
+               </div>
+               <div>
                   <ab hand="#handwritten">
                      insert into next page
                   </ab>
+               </div>
+               <div type="prose">
                   <p>
                      <space quantity="7" unit="char"/>At this p<del>in</del>oint,a little digression on the subject of 'free' verse,which<lb/>
                      <space quantity="2" unit="char"/>seems now to be almost universal among young poets. Though excellent<lb/>
@@ -546,8 +550,8 @@ for any purpose, even commercially.</p>
                      like each other than those who write in fixed forms. Whatever freedom may do,<lb/>
                      it does not,it would seem,make for originality.
                   </p>
+               </div>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0154/" type="sheet" ed="6v"/>
-            </div>
          </div>
       </div>
       </body>

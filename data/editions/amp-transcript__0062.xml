@@ -571,6 +571,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0062" xml:lang="en">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0351/" type="sheet" ed="1r"/>
+            <div type="prose">
                <head>
                   <space quantity="17" unit="char"/><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_47" ana="acdh:amp-transcript__0031.xml#ana_030">The Years in Austria</rs>.</hi>
                </head>
@@ -1102,11 +1103,15 @@ for any purpose, even commercially.</p>
                   thinking about a plan in which he had become involved. <space quantity="1" unit="char"/>This<lb/>
                   <space quantity="48" unit="char"/>was to bring
                </p>
+            </div>
+            <div>
                <ab hand="#handwritten">
                   ⁒
                </ab>
+            </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0372/" type="sheet" ed="10av"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0373/" type="sheet" ed="11r"/>
+            <div type="prose">
                <fw type="pageNum">
                   <space quantity="27" unit="char"/>11
                </fw>
@@ -1289,9 +1294,13 @@ for any purpose, even commercially.</p>
                      </quote>
                   </seg>
                </p>
+            </div>
+            <div>
                <ab hand="#handwritten">
                   X INSERT 14a.
                </ab>
+            </div>
+            <div type="prose">
                <p>
                   <space quantity="5" unit="char"/>Characteristic t<del>o</del>hough it is, one might not feel justified<lb/>
                   in quoting from this letter if it were not for the fact that<lb/>
@@ -2265,7 +2274,9 @@ for any purpose, even commercially.</p>
                            <space quantity="5" unit="char"/><hi rend="underline">than the automatic superlatives which nowadays kill the new</hi><lb/>
                            <space quantity="5" unit="char"/><hi rend="underline">by absorbing it to death.</hi><lb/>
                         </quote>
-                        <space quantity="27" unit="char"/>++++++++<lb/>
+                        <seg>
+                           <space quantity="27" unit="char"/>++++++++<lb/>
+                        </seg>
                      </seg>
                      <seg>
                         <quote source="#lit_work_id_172">
@@ -2275,7 +2286,9 @@ for any purpose, even commercially.</p>
                            <space quantity="5" unit="char"/><hi rend="underline">processes is probably best left to future and diff</hi>e<hi rend="underline">re</hi>n<hi rend="underline">t</hi><lb/>
                            <space quantity="5" unit="char"/><hi rend="underline">kinds of </hi>w<hi rend="underline">age-earners.</hi><lb/>
                         </quote>
-                        <space quantity="27" unit="char"/>+++++++++
+                        <seg>
+                           <space quantity="27" unit="char"/>+++++++++
+                        </seg>
                      </seg>
                   </p>
                   <p>
@@ -3133,6 +3146,7 @@ for any purpose, even commercially.</p>
                      </quote>
                   </seg>
                </p>
+            </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0446/" type="sheet" ed="44v"/>
          </div>
       </body>

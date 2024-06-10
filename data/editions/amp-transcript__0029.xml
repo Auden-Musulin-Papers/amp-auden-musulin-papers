@@ -101,6 +101,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0029" xml:lang="en">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0215/" type="sheet" ed="1r"/>
+            <div type="prose">
                <head>
                   Lunch with <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear>A.</rs> at the <rs type="place" ref="#amp_place_id_92"><unclear>O</unclear>pern-Café</rs> on<lb/>
                   13th' Feb.19<unclear>6</unclear>8 .
@@ -167,9 +168,9 @@ for any purpose, even commercially.</p>
                   at you , why didn't you <unclear>answ</unclear>er<unclear>?"</unclear>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0217/" type="sheet" ed="2r"/>
-               <ab>
+               <fw type="pageNum">
                   <hi rend="underline">2</hi>
-               </ab>   
+               </fw>   
                <p>
                   Tal<unclear>k</unclear>ed with great enthusiasm<lb/>
                   about <rs type="lit_work" ref="#lit_work_id_111">"Mayhew"</rs>. Said <unclear>th</unclear>is is the<lb/>
@@ -195,6 +196,7 @@ for any purpose, even commercially.</p>
                   to <rs type="event" ref="#amp_event_id_10">interview <rs type="person" ref="#amp_person_32 #amp_person_176">couple</rs> for <rs type="place" ref="#amp_place_id_2">Kir<unclear>c</unclear>hstetten</rs></rs> ,<lb/>
                   <unclear>&amp;</unclear> had to <rs type="event" ref="#amp_event_id_112">return to <rs type="place" ref="#amp_place_id_28">N<unclear>_</unclear>Y</rs></rs>.
                </p>
+            </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0218/" type="sheet" ed="2v"/>
          </div>
       </body>

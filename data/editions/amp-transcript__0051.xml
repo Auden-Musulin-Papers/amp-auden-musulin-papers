@@ -109,6 +109,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0051" xml:lang="de">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0165/" type="sheet" ed="1r"/>
+            <div type="prose">
                <ab>
                   <seg>
                      Einschub 1 ,<lb/>
@@ -164,9 +165,9 @@ for any purpose, even commercially.</p>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0166/" type="sheet" ed="1v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0167/" type="sheet" ed="2r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="27" unit="char"/>- 2 -
-               </ab>
+               </fw>
                <ab prev="true">
                   <seg>
                      aufbauen und Gedichte schreiben , das ist gewiss auf profunde Weise etwas<lb/>
@@ -226,9 +227,9 @@ for any purpose, even commercially.</p>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0168/" type="sheet" ed="2v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0169/" type="sheet" ed="3r"/>
-               <ab>
+               <fw type="pageNum">
                   <space quantity="25" unit="char"/>- 3 -
-               </ab>
+               </fw>
                <ab>
                   <seg>
                      <space quantity="1" unit="char"/>Einschub 1o<lb/>
@@ -251,6 +252,7 @@ for any purpose, even commercially.</p>
                      <space quantity="4" unit="char"/>Formen schreiben "
                   </seg>
                </ab>
+            </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0170/" type="sheet" ed="3v"/>
          </div>
       </body>

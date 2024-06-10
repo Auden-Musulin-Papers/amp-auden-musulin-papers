@@ -96,6 +96,7 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0049" xml:lang="de">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0243/" type="card" ed="1r"/>
+            <div type="prose">
                <ab>
                   <rs type="org" ref="#amp_organization_9">ÖSTERREICHISCHE GESELLSCHAFT FÜR LITERATUR</rs>
                </ab>
@@ -121,6 +122,7 @@ for any purpose, even commercially.</p>
                <ab>
                   Freitag, 28. September, 20 Uhr, <rs type="place" ref="#amp_place_id_85">Palais Palffy</rs>, Großer Saal, Wien I., Josefsplatz 6
                </ab>
+            </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0244/" type="card" ed="1v"/>
          </div>
       </body>

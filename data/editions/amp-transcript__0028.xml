@@ -246,7 +246,7 @@ for any purpose, even commercially.</p>
                   <lb/>A<unclear>-</unclear>3200 OB<unclear>E</unclear>RGRA<unclear>FE</unclear>N<unclear>D</unclear>OR<unclear>F</unclear></rs>
                </ab>
             </div>
-            <div>
+            <div type="prose">
                <head>
                   <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_46">In Retrospect</rs>.</hi>
                </head>
@@ -307,7 +307,7 @@ for any purpose, even commercially.</p>
                   </ab>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0479/" type="sheet" ed="2r"/>
-            <div>
+            <div type="prose">
                <fw type="pageNum">
                   <space quantity="29" unit="char"/>- 2 -
                </fw>
@@ -426,7 +426,7 @@ for any purpose, even commercially.</p>
                   </ab>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0483/" type="sheet" ed="4r"/>
-            <div>
+            <div type="prose">
                <fw type="pageNum">
                   <space quantity="30" unit="char"/>- 4 -
                </fw>
@@ -485,7 +485,7 @@ for any purpose, even commercially.</p>
                   </ab>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0485/" type="sheet" ed="5r"/>
-            <div>
+            <div type="prose">
                <fw type="pageNum">
                   <space quantity="25" unit="char"/>- 5 -
                </fw>
@@ -546,7 +546,7 @@ for any purpose, even commercially.</p>
                   </ab>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0487/" type="sheet" ed="5ar"/>
-            <div>
+            <div type="prose">
                <fw type="pageNum">
                   <space quantity="23" unit="char"/>- 5a -
                </fw>
@@ -574,7 +574,7 @@ for any purpose, even commercially.</p>
                   </ab>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0489/" type="sheet" ed="6r"/>
-            <div>
+            <div type="prose">
                <fw type="pageNum">
                   <space quantity="28" unit="char"/>- 6 -
                </fw>
@@ -926,7 +926,7 @@ for any purpose, even commercially.</p>
                   </ab>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0501/" type="sheet" ed="12r"/>
-            <div>
+            <div type="prose">
                <fw type="pageNum">
                   <unclear>-1</unclear>2-
                </fw>
@@ -1213,7 +1213,7 @@ for any purpose, even commercially.</p>
                   &#x2195; &#x2195;
                </ab>
             </div>
-            <div>
+            <div type="prose">
                <p>
                   <space quantity="5" unit="char"/>Reaching for my <rs type="lit_work" ref="#lit_work_id_82">Authorised Version</rs>, for surely no one would<lb/>
                   have dared to use any other, on second thoughts I also took out the<lb/>
@@ -1255,7 +1255,7 @@ for any purpose, even commercially.</p>
                   </ab>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0513/" type="sheet" ed="18r"/>
-            <div>
+            <div type="prose">
                <fw type="pageNum">
                   <space quantity="30" unit="char"/>- 18 -
                </fw>
