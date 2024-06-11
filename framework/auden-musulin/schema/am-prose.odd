@@ -422,7 +422,7 @@
                 
                 <sch:rule context="//tei:body[parent::tei:floatingText]/tei:div">
                   <sch:assert test="@type='prose' or @type='letter'">missing @type or invalid attribute value; allowed value is 'prose' or 'letter'</sch:assert>
-                  <sch:assert test="count(./tei:div) > 0">div must contain at least one div element with @type=evelope or letter ...</sch:assert>
+                  <sch:assert test="count(./tei:p) > 0 or count(./tei:ab) > 0">div must contain at least one p(aragraph) or ab(anonymous block) element.</sch:assert>
                 </sch:rule>
                 
                 <sch:rule context="//tei:body/tei:div/tei:div[@type='prose']">
