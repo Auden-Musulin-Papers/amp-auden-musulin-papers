@@ -55,6 +55,16 @@
                      <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
                      <certainty cert="medium" locus="value"/>
                   </interp>
+                  <interp source="ph_049" xml:id="ana_049"><!-- link -->
+                     <desc>
+                        Vol. 68, no. 3 (30 January 1970) of <hi rend="italic"><rs type="org" ref="#amp_organization_15">LIFE</rs></hi> contains a three-page <rs type="lit_work" ref="#lit_work_id_206">feature</rs> of <rs type="person" ref="#amp_person_1">W. H. Auden</rs> (52-54) with a focus on the poet's life at <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, written by <rs type="person" ref="#amp_person_249">Webster Schott</rs>.
+                        <listBibl>
+                           <bibl sameAs="acdh:amp-index-works.xml#lit_work_id_206"/>
+                        </listBibl>
+                     </desc>
+                     <respons resp="dgrigoriou smayer tfruehwirth" locus="value"/>
+                     <certainty cert="medium" locus="value"/>
+                  </interp>
                </interpGrp>
             </edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
@@ -117,6 +127,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-01-13">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-05-10">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-22">entities collated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-06-11">entities reviewed, interpGrp added, prose container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -628,7 +639,7 @@ for any purpose, even commercially.</p>
                   character quite readily with his legendary stinginess in the<lb/>
                   small things of everyday life such as stamps or cigarettes.<lb/>
                   <rs type="org" ref="#amp_organization_15">"Life" magazine</rs>, he told me one day with a beaming smile, had<lb/>
-                  just paid him 5,000 dolla<del>sr</del>rs for an article. <space quantity="1" unit="char"/>"I´m thinking<lb/>
+                  just paid him 5,000 dolla<del>sr</del>rs for an <rs type="lit_work" ref="#lit_work_id_205" ana="#ana_049">article</rs>. <space quantity="1" unit="char"/>"I´m thinking<lb/>
                   of building on a diningroom." <space quantity="1" unit="char"/>"Very good idea" I said,<lb/>
                   "but for a start I shall smoke your cigarettes for the rest of<lb/>
                   the afternoon." <space quantity="1" unit="char"/>I very much doubt whether I did. <space quantity="1" unit="char"/>On the other<lb/>
