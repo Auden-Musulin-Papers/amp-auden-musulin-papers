@@ -567,6 +567,23 @@
             </attList>
           </elementSpec>
           
+          <elementSpec ident="text" module="textstructure" mode="change">
+            <attList>
+              <attDef ident="hand" mode="change" usage="req">
+                <valList type="closed" mode="replace">
+                  <valItem ident="#handwritten"/>
+                  <valItem ident="#typed"/>
+                  <valItem ident="#printed"/>
+                </valList>
+              </attDef>
+              <attDef ident="type" mode="change" usage="req">
+                <valList type="closed" mode="replace">
+                  <valItem ident="letter"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
           <elementSpec ident="body" module="textstructure" mode="change">
             <content>
               <alternate maxOccurs="1" minOccurs="1">
@@ -616,6 +633,19 @@
                   <valItem ident="#handwritten"/>
                   <valItem ident="#typed"/>
                   <valItem ident="#printed"/>
+                </valList>
+              </attDef>
+              <attDef ident="type" mode="change" usage="opt">
+                <valList type="closed" mode="replace">
+                  <valItem ident="prose"/>
+                  <valItem ident="letter"/>
+                  <valItem ident="letter_message"/>
+                  <valItem ident="poem"/>
+                  <valItem ident="envelope"/>
+                  <valItem ident="enclosure"/>
+                  <valItem ident="prose_translation"/>
+                  <valItem ident="comments"/>
+                  <valItem ident="transcription"/>
                 </valList>
               </attDef>
             </attList>

@@ -61,7 +61,7 @@
           <moduleRef key="msdescription" include="stamp institution msDesc msIdentifier repository collection history origin origDate origPlace"/>
           <moduleRef key="namesdates" include="country settlement listEvent event listOrg org listPerson person listPlace place listObject object forename geo location objectName orgName persName placeName region roleName surname state geogName affiliation district"/>
           <moduleRef key="tei"/>
-          <moduleRef key="textstructure" include="TEI text body div"/>
+          <moduleRef key="textstructure" include="TEI text body div floatingText"/>
           <moduleRef key="textcrit" include="listWit witness"/>
           <moduleRef key="transcr" include="fw space facsimile surface damage handShift"/>
           <moduleRef key="linking" include="ab seg"/>
@@ -413,11 +413,20 @@
           <elementSpec ident="div" module="textstructure" mode="change">
             <constraintSpec ident="div" scheme="schematron" mode="change">
               <constraint>
-                <sch:rule context="//tei:body/tei:div">
-                  <sch:assert test="@type = 'transcription'">missing @type or invalid attribute value; allowed value is 'transcription'</sch:assert>
+                <sch:rule context="//tei:body[parent::tei:text]/tei:div">
+                  <sch:assert test="@type='transcription'">missing @type or invalid attribute value; allowed value is 'transcription'</sch:assert>
                   <sch:assert test="matches(@xml:id, 'transcription_amp_\d+')">xml:id required with pattern: transcription_amp_0001 |(final digits = document xml:id)</sch:assert>
-                  <sch:assert test="count(./tei:p) > 0 or count(./tei:ab) > 0">div must contain at least one p(aragraph) or ab(anonymous block) element.</sch:assert>
+                  <sch:assert test="count(./tei:div) > 0">div must contain at least one div element with @type=evelope or letter ...</sch:assert>
                   <sch:assert test="@xml:lang">missing attribute @xml:lang</sch:assert>
+                </sch:rule>
+                
+                <sch:rule context="//tei:body[parent::tei:floatingText]/tei:div">
+                  <sch:assert test="@type='prose' or @type='letter'">missing @type or invalid attribute value; allowed value is 'prose' or 'letter'</sch:assert>
+                  <sch:assert test="count(./tei:p) > 0 or count(./tei:ab) > 0">div must contain at least one p(aragraph) or ab(anonymous block) element.</sch:assert>
+                </sch:rule>
+                
+                <sch:rule context="//tei:body/tei:div/tei:div[@type='prose']">
+                  <sch:assert test="count(./tei:p) > 0 or count(./tei:ab) > 0">div must contain at least one p(aragraph) or ab(anonymous block) element.</sch:assert>
                 </sch:rule>
               </constraint>
             </constraintSpec>
@@ -427,6 +436,13 @@
                   <valItem ident="#handwritten"/>
                   <valItem ident="#typed"/>
                   <valItem ident="#printed"/>
+                </valList>
+              </attDef>
+              <attDef ident="type" mode="change" usage="opt">
+                <valList type="closed" mode="replace">
+                  <valItem ident="prose"/>
+                  <valItem ident="letter"/>
+                  <valItem ident="transcription"/>
                 </valList>
               </attDef>
             </attList>
