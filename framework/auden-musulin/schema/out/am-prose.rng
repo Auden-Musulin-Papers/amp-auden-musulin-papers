@@ -5,7 +5,7 @@
          xmlns="http://relaxng.org/ns/structure/1.0"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2024-06-11T08:40:52Z. .
+Schema generated from ODD source 2024-06-11T08:47:53Z. .
 TEI Edition: Version 4.1.0. Last updated on
 	19th August 2020, revision b414ba550
 TEI Edition Location: https://www.tei-c.org/Vault/P5/Version 4.1.0/
@@ -6622,7 +6622,7 @@ Sample values include: 1] sponsor; 2] recommend; 3] discredit; 4] pledged</a:doc
                       xmlns:rng="http://relaxng.org/ns/structure/1.0"
                       context="//tei:body[parent::tei:floatingText]/tei:div">
                <sch:assert test="@type='prose' or @type='letter'">missing @type or invalid attribute value; allowed value is 'prose' or 'letter'</sch:assert>
-               <sch:assert test="count(./tei:div) &gt; 0">div must contain at least one div element with @type=evelope or letter ...</sch:assert>
+               <sch:assert test="count(./tei:p) &gt; 0 or count(./tei:ab) &gt; 0">div must contain at least one p(aragraph) or ab(anonymous block) element.</sch:assert>
             </sch:rule>
             <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
