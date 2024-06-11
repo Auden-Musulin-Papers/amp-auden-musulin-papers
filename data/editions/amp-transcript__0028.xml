@@ -731,147 +731,151 @@ for any purpose, even commercially.</p>
                   written must be unique.<del>and deserves a place in the history of <space quantity="1" unit="char"/></del><lb/>
                   <del>literature. <space quantity="1" unit="char"/></del>
                </p>
-               <div>
-                  <head>
-                     <space quantity="21" unit="char"/><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_106">Declaration</rs>. 1 </hi>
-                  </head>
-                  <ab>
-                     Gentlemen,<lb/>
-                  </ab>
-                  <p>
-                     <space quantity="5" unit="char"/>My position is very simple: one pays income tax where one<lb/>
-                     earns money, that is to say in my case, as a writer writing in<lb/>
-                     English, in the <rs type="place" ref="#amp_place_id_15">United States</rs> and in <rs type="place" ref="#amp_place_id_93">England</rs>. <space quantity="1" unit="char"/>In <rs type="place" ref="#amp_place_id_10">Austria</rs> I<lb/>
-                     earn not one groschen, I merely spend sch<del>u</del>illings.
-                  </p>
-                  <p>
-                     You maintain that I possess a "material interest" in <rs type="place" ref="#amp_place_id_10">Austria</rs>,<lb/>
-                     by which you presumably mean a "financial" interest. <space quantity="1" unit="char"/>That might<lb/>
-                     conceivably be the case if I had to say to myself: <space quantity="1" unit="char"/>"I must go<lb/>
-                     to <rs type="place" ref="#amp_place_id_10">Austria</rs> because I can only work in <rs type="place" ref="#amp_place_id_10">Austria</rs>!" <space quantity="1" unit="char"/>But that is not<lb/>
-                     the case. <space quantity="1" unit="char"/>I have lived in many places in many different countries<lb/>
-                     and was always able <del>e</del>to work wherever I might be.
-                  </p>
-                  <p>
-                     <space quantity="5" unit="char"/>I naturally have a "p<del>ö<unclear>e</unclear></del><unclear>e</unclear>rsonal" interest in <rs type="place" ref="#amp_place_id_10">Austria</rs>, otherwise<lb/>
-                     I should not come here. <space quantity="1" unit="char"/>The landscape is pleasing, and I find<lb/>
-                     the Austrians whose acquaintance I have made, friendly ansd<lb/>
-                     charming.
-                  </p>
-                  <p>
-                     <space quantity="4" unit="char"/>You say correctly that I once <rs type="event" ref="#amp_event_id_46">received <del>n</del>an Austrian prize<lb/>
-                     for li<del>e</del>terature.</rs> <space quantity="1" unit="char"/>This was a great honour of which I am very<lb/>
-                     proud. <space quantity="1" unit="char"/>You cannot however serio<del>i</del>usly believe, Gentlemen, that I<lb/>
-                     calculated: <space quantity="1" unit="char"/>"If I continue to go to <rs type="place" ref="#amp_place_id_10">Austria</rs> maybe I shall be<lb/>
-                     given a prize"? <space quantity="1" unit="char"/>Until it was awarded to me I had never heard<lb/>
-                     of <del>the</del>this prize. <space quantity="1" unit="char"/>It is equally clear that I cannot receive it a
-                  </p>
-                  <ab>
-                     1<rs type="lit_work" ref="#lit_work_id_106">Translation</rs> from the <rs type="lit_work" ref="#lit_work_id_103">German text which is a manuscript</rs>, not a<lb/>
-                     letter. <space quantity="1" unit="char"/>An <rs type="lit_work" ref="#lit_work_id_99">English original</rs> is not known to exist and it is<lb/>
-                     assumed that <rs type="person" ref="#amp_person_1">Auden</rs> destroyed his draft.
-                  </ab>
+               <floatingText>
+                  <body>
+                     <div type="prose">
+                        <head>
+                           <space quantity="21" unit="char"/><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_106">Declaration</rs>. 1 </hi>
+                        </head>
+                        <ab>
+                           Gentlemen,<lb/>
+                        </ab>
+                        <p>
+                           <space quantity="5" unit="char"/>My position is very simple: one pays income tax where one<lb/>
+                           earns money, that is to say in my case, as a writer writing in<lb/>
+                           English, in the <rs type="place" ref="#amp_place_id_15">United States</rs> and in <rs type="place" ref="#amp_place_id_93">England</rs>. <space quantity="1" unit="char"/>In <rs type="place" ref="#amp_place_id_10">Austria</rs> I<lb/>
+                           earn not one groschen, I merely spend sch<del>u</del>illings.
+                        </p>
+                        <p>
+                           You maintain that I possess a "material interest" in <rs type="place" ref="#amp_place_id_10">Austria</rs>,<lb/>
+                           by which you presumably mean a "financial" interest. <space quantity="1" unit="char"/>That might<lb/>
+                           conceivably be the case if I had to say to myself: <space quantity="1" unit="char"/>"I must go<lb/>
+                           to <rs type="place" ref="#amp_place_id_10">Austria</rs> because I can only work in <rs type="place" ref="#amp_place_id_10">Austria</rs>!" <space quantity="1" unit="char"/>But that is not<lb/>
+                           the case. <space quantity="1" unit="char"/>I have lived in many places in many different countries<lb/>
+                           and was always able <del>e</del>to work wherever I might be.
+                        </p>
+                        <p>
+                           <space quantity="5" unit="char"/>I naturally have a "p<del>ö<unclear>e</unclear></del><unclear>e</unclear>rsonal" interest in <rs type="place" ref="#amp_place_id_10">Austria</rs>, otherwise<lb/>
+                           I should not come here. <space quantity="1" unit="char"/>The landscape is pleasing, and I find<lb/>
+                           the Austrians whose acquaintance I have made, friendly ansd<lb/>
+                           charming.
+                        </p>
+                        <p>
+                           <space quantity="4" unit="char"/>You say correctly that I once <rs type="event" ref="#amp_event_id_46">received <del>n</del>an Austrian prize<lb/>
+                           for li<del>e</del>terature.</rs> <space quantity="1" unit="char"/>This was a great honour of which I am very<lb/>
+                           proud. <space quantity="1" unit="char"/>You cannot however serio<del>i</del>usly believe, Gentlemen, that I<lb/>
+                           calculated: <space quantity="1" unit="char"/>"If I continue to go to <rs type="place" ref="#amp_place_id_10">Austria</rs> maybe I shall be<lb/>
+                           given a prize"? <space quantity="1" unit="char"/>Until it was awarded to me I had never heard<lb/>
+                           of <del>the</del>this prize. <space quantity="1" unit="char"/>It is equally clear that I cannot receive it a
+                        </p>
+                        <ab>
+                           1<rs type="lit_work" ref="#lit_work_id_106">Translation</rs> from the <rs type="lit_work" ref="#lit_work_id_103">German text which is a manuscript</rs>, not a<lb/>
+                           letter. <space quantity="1" unit="char"/>An <rs type="lit_work" ref="#lit_work_id_99">English original</rs> is not known to exist and it is<lb/>
+                           assumed that <rs type="person" ref="#amp_person_1">Auden</rs> destroyed his draft.
+                        </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0494/" type="sheet" ed="8v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0495/" type="sheet" ed="9r"/>
                <fw type="pageNum">
                   <space quantity="31" unit="char"/>- 9 -
                </fw>
-                  <p prev="true">
-                     second time. <space quantity="1" unit="char"/>You also go on to say that a road in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs><lb/>
-                     has been named <rs type="note" ana="acdh:amp-transcript__0062.xml#ana_034">Audenstraße</rs> after me. <space quantity="1" unit="char"/>That was a very kind gesture<lb/>
-                     on the part of the local council, but it cannot be maintaine<del>s</del>d<del>d</del><lb/>
-                     that I profit from it <del>i</del>financially.
-                  </p>
-                  <p>   
-                     <space quantity="4" unit="char"/>Further, you say with truth that I have written several poems<lb/>
-                     <del>in A</del> <del>with</del>o<del><unclear>j</unclear></del>n Austrian themes. <space quantity="1" unit="char"/>To this I would like to make three<lb/>
-                     statements.
-                  </p>
-                  <p>
-                     <seg>
-                        <space quantity="10" unit="char"/>1. <space quantity="1" unit="char"/>I have never, in <rs type="place" ref="#amp_place_id_10">Austria</rs>, received so much as one<lb/>
-                        <space quantity="10" unit="char"/>penny for my poems. <space quantity="1" unit="char"/>One or two of them have been trans-<lb/>
-                        <space quantity="10" unit="char"/>lated into German, but in these cases the translators have<lb/>
-                        <space quantity="10" unit="char"/>received the money, not I.<lb/>
-                     </seg>
-                     <seg>
-                        <space quantity="10" unit="char"/>2. <space quantity="1" unit="char"/>I believe you are not clearly aware how poetry comes<lb/>
-                        <space quantity="10" unit="char"/>to be written. <space quantity="1" unit="char"/>What is generally taken to be the subject<lb/>
-                        <space quantity="10" unit="char"/>matter is only a viewpoint, an occasion whereby certain<lb/>
-                        <space quantity="10" unit="char"/>thoughts about nature, God, history, mankind etc. may be<lb/>
-                        <space quantity="10" unit="char"/>expressed which the poet may have had in mind for a very<lb/>
-                        <space quantity="10" unit="char"/>long time. <space quantity="1" unit="char"/>I wrote, for example, a <rs type="lit_work" ref="#lit_work_id_60">poem to commemorate the<lb/>
-                        <space quantity="10" unit="char"/>20th anniversary of the death of <rs type="person" ref="#amp_person_5">Josef Weinheber</rs></rs>.<lb/>
-                        <space quantity="10" unit="char"/>Fundamentally however the <rs type="lit_work" ref="#lit_work_id_60">poem</rs> is concerned with quite<lb/>
-                        <space quantity="10" unit="char"/>different things. <space quantity="1" unit="char"/>First of all it is about the love<lb/>
-                        <space quantity="10" unit="char"/>which every poet, whatever his nationality, has for his<lb/>
-                        <space quantity="10" unit="char"/>mother tongue, and secondly about what happened after the<lb/>
-                        <space quantity="10" unit="char"/><rs type="event" ref="#amp_event_id_54">war</rs> in the countries which were defeated, i.e. not only<lb/>
-                        <space quantity="10" unit="char"/>in <rs type="place" ref="#amp_place_id_10">Austria</rs> but in <rs type="place" ref="#amp_place_id_20">Germany</rs> and <rs type="place" ref="#amp_place_id_159">Italy</rs>. <space quantity="1" unit="char"/>Again: <space quantity="1" unit="char"/>in 1964<lb/>
-                        <space quantity="10" unit="char"/>I wrote a poem with the title <rs type="lit_work" ref="#lit_work_id_79">"Whitsunday in Kirchstetten"</rs><lb/>
-                        <space quantity="10" unit="char"/>because it was where I happ<del>p</del>ened to be. <space quantity="1" unit="char"/>But the place is<lb/>
-                        <space quantity="10" unit="char"/>unimportant. <space quantity="1" unit="char"/>In real<del>t</del>ity the question in this poem is<lb/>
-                        <space quantity="10" unit="char"/>what, for a Christian, is the meaning of the Feast of<lb/>
-                        <space quantity="10" unit="char"/>Pentecost. <space quantity="1" unit="char"/>And this is valid for all countries in the<lb/>
-                        <space quantity="10" unit="char"/>same way.<lb/>
-                     </seg>
-                     <seg>
-                        <space quantity="10" unit="char"/>3. <space quantity="1" unit="char"/>I believe you do not clearly recognize a poet´s (<foreign xml:lang="de">Dichter</foreign><lb/>
-                        <space quantity="10" unit="char"/>financial s<del>k</del>ituation. <space quantity="1" unit="char"/>If he is suc<del>e</del>cessful, a novelist<lb/>
-                        <space quantity="10" unit="char"/>can ma<del>,</del>ke a good deal of money. <space quantity="1" unit="char"/>A poet (<foreign xml:lang="de">Lyriker</foreign>) cannot,<lb/>
-                        <space quantity="10" unit="char"/>even if he is very well known, because he is only read<lb/>
-                        <space quantity="10" unit="char"/>by a minority. <space quantity="1" unit="char"/>By far the greater part of my income<lb/>
-                        <space quantity="10" unit="char"/>comes not from the sale of my volumes of poetry but from<lb/>
-                        <space quantity="10" unit="char"/>book reviews, translations, lectures etc., activities<lb/>
-                        <space quantity="10" unit="char"/>which have nothing to do with <rs type="place" ref="#amp_place_id_10">Austria</rs>. <space quantity="1" unit="char"/>A<del>m</del><unclear>n</unclear>d while we are
-                     </seg>
-                  </p>
+                        <p prev="true">
+                           second time. <space quantity="1" unit="char"/>You also go on to say that a road in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs><lb/>
+                           has been named <rs type="note" ana="acdh:amp-transcript__0062.xml#ana_034">Audenstraße</rs> after me. <space quantity="1" unit="char"/>That was a very kind gesture<lb/>
+                           on the part of the local council, but it cannot be maintaine<del>s</del>d<del>d</del><lb/>
+                           that I profit from it <del>i</del>financially.
+                        </p>
+                        <p>   
+                           <space quantity="4" unit="char"/>Further, you say with truth that I have written several poems<lb/>
+                           <del>in A</del> <del>with</del>o<del><unclear>j</unclear></del>n Austrian themes. <space quantity="1" unit="char"/>To this I would like to make three<lb/>
+                           statements.
+                        </p>
+                        <p>
+                           <seg>
+                              <space quantity="10" unit="char"/>1. <space quantity="1" unit="char"/>I have never, in <rs type="place" ref="#amp_place_id_10">Austria</rs>, received so much as one<lb/>
+                              <space quantity="10" unit="char"/>penny for my poems. <space quantity="1" unit="char"/>One or two of them have been trans-<lb/>
+                              <space quantity="10" unit="char"/>lated into German, but in these cases the translators have<lb/>
+                              <space quantity="10" unit="char"/>received the money, not I.<lb/>
+                           </seg>
+                           <seg>
+                              <space quantity="10" unit="char"/>2. <space quantity="1" unit="char"/>I believe you are not clearly aware how poetry comes<lb/>
+                              <space quantity="10" unit="char"/>to be written. <space quantity="1" unit="char"/>What is generally taken to be the subject<lb/>
+                              <space quantity="10" unit="char"/>matter is only a viewpoint, an occasion whereby certain<lb/>
+                              <space quantity="10" unit="char"/>thoughts about nature, God, history, mankind etc. may be<lb/>
+                              <space quantity="10" unit="char"/>expressed which the poet may have had in mind for a very<lb/>
+                              <space quantity="10" unit="char"/>long time. <space quantity="1" unit="char"/>I wrote, for example, a <rs type="lit_work" ref="#lit_work_id_60">poem to commemorate the<lb/>
+                              <space quantity="10" unit="char"/>20th anniversary of the death of <rs type="person" ref="#amp_person_5">Josef Weinheber</rs></rs>.<lb/>
+                              <space quantity="10" unit="char"/>Fundamentally however the <rs type="lit_work" ref="#lit_work_id_60">poem</rs> is concerned with quite<lb/>
+                              <space quantity="10" unit="char"/>different things. <space quantity="1" unit="char"/>First of all it is about the love<lb/>
+                              <space quantity="10" unit="char"/>which every poet, whatever his nationality, has for his<lb/>
+                              <space quantity="10" unit="char"/>mother tongue, and secondly about what happened after the<lb/>
+                              <space quantity="10" unit="char"/><rs type="event" ref="#amp_event_id_54">war</rs> in the countries which were defeated, i.e. not only<lb/>
+                              <space quantity="10" unit="char"/>in <rs type="place" ref="#amp_place_id_10">Austria</rs> but in <rs type="place" ref="#amp_place_id_20">Germany</rs> and <rs type="place" ref="#amp_place_id_159">Italy</rs>. <space quantity="1" unit="char"/>Again: <space quantity="1" unit="char"/>in 1964<lb/>
+                              <space quantity="10" unit="char"/>I wrote a poem with the title <rs type="lit_work" ref="#lit_work_id_79">"Whitsunday in Kirchstetten"</rs><lb/>
+                              <space quantity="10" unit="char"/>because it was where I happ<del>p</del>ened to be. <space quantity="1" unit="char"/>But the place is<lb/>
+                              <space quantity="10" unit="char"/>unimportant. <space quantity="1" unit="char"/>In real<del>t</del>ity the question in this poem is<lb/>
+                              <space quantity="10" unit="char"/>what, for a Christian, is the meaning of the Feast of<lb/>
+                              <space quantity="10" unit="char"/>Pentecost. <space quantity="1" unit="char"/>And this is valid for all countries in the<lb/>
+                              <space quantity="10" unit="char"/>same way.<lb/>
+                           </seg>
+                           <seg>
+                              <space quantity="10" unit="char"/>3. <space quantity="1" unit="char"/>I believe you do not clearly recognize a poet´s (<foreign xml:lang="de">Dichter</foreign><lb/>
+                              <space quantity="10" unit="char"/>financial s<del>k</del>ituation. <space quantity="1" unit="char"/>If he is suc<del>e</del>cessful, a novelist<lb/>
+                              <space quantity="10" unit="char"/>can ma<del>,</del>ke a good deal of money. <space quantity="1" unit="char"/>A poet (<foreign xml:lang="de">Lyriker</foreign>) cannot,<lb/>
+                              <space quantity="10" unit="char"/>even if he is very well known, because he is only read<lb/>
+                              <space quantity="10" unit="char"/>by a minority. <space quantity="1" unit="char"/>By far the greater part of my income<lb/>
+                              <space quantity="10" unit="char"/>comes not from the sale of my volumes of poetry but from<lb/>
+                              <space quantity="10" unit="char"/>book reviews, translations, lectures etc., activities<lb/>
+                              <space quantity="10" unit="char"/>which have nothing to do with <rs type="place" ref="#amp_place_id_10">Austria</rs>. <space quantity="1" unit="char"/>A<del>m</del><unclear>n</unclear>d while we are
+                           </seg>
+                        </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0496/" type="sheet" ed="9v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0497/" type="sheet" ed="10r"/>
                <fw type="pageNum">
                   <space quantity="25" unit="char"/>- 10 -
                </fw>
-                  <p prev="true">
-                     <seg>
-                        <space quantity="10" unit="char"/>on the subject of translation<del>s</del>: <space quantity="1" unit="char"/>you rightly say that<lb/>
-                        <space quantity="10" unit="char"/>I have a great int<del>r</del>erest in German and Austrian literature -<lb/>
-                        <space quantity="10" unit="char"/>I may add in music as well - but I do not have to come<lb/>
-                        <space quantity="10" unit="char"/>to <rs type="place" ref="#amp_place_id_10">Austria</rs> in order to read or to hear them.
-                     </seg>
-                  </p>
-                  <p>
-                     <space quantity="5" unit="char"/>You see f<del>e</del>r<unclear><del><del>e</del>r</del></unclear>o<del>o</del>m all <del>the above</del> this that the arguments brought<lb/>
-                     forward by you for subjecting me to payment of income tax are not<lb/>
-                     valid. <space quantity="1" unit="char"/>The most pertinent argument against it is that in the<lb/>
-                     course of one year I always stay under six months in <rs type="place" ref="#amp_place_id_10">Austri<del>sa</del><unclear>a</unclear><del>a</del></rs><lb/>
-                     and never spend more than three months here consecutively.
-                  </p>
-                  <p>
-                     <space quantity="5" unit="char"/>A word in conclusion: if this in my view entirely unjustifiable<lb/>
-                     nonsense does not cease, I shall leave <rs type="place" ref="#amp_place_id_10">Austria</rs> never to return,<lb/>
-                     which would be very sad for me and perhaps too for the shopkeepers<lb/>
-                     <del>i</del>of <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>. <space quantity="1" unit="char"/>One thing, Gentlemen, I cannot conceal from you:<lb/>
-                     if this should happen it m<del>k</del>ight give rise to a scandal of worldwide<lb/>
-                     dimensions.
-                  </p>
-                  <ab>
-                     <space quantity="48" unit="char"/><rs type="person" ref="#amp_person_1">W.H. Auden</rs>.
-                  </ab>
-                  <ab>   
-                     1 You ask why I have made over my half of <rs type="place" ref="#amp_place_id_2">our property</rs> in<lb/>
-                     <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> to <rs type="person" ref="#amp_person_4">Mr Chester Kallman</rs> who is not related to me.<lb/>
-                     <rs type="person" ref="#amp_person_4">Mr Kallman</rs> is my heir. <space quantity="1" unit="char"/>I have no children and for years past<lb/>
-                     he has been my literary collaborator. <space quantity="1" unit="char"/><del>s</del>Jointly, we have written<lb/>
-                     five new opera libretti, <rs type="lit_work" ref="#lit_work_id_16">"The Rake´s Progress</rs>, <rs type="lit_work" ref="#lit_work_id_17">"Elegy for Young<lb/>
-                     Lovers</rs>", <rs type="lit_work" ref="#lit_work_id_18">"The Bassarids<del>_</del>"</rs> and <rs type="lit_work" ref="#lit_work_id_20">"Love´s Labours Lost"</rs>. <space quantity="1" unit="char"/>And<lb/>
-                     together we have made new translations of <rs type="lit_work" ref="#lit_work_id_21">"The Magic<del>c</del>Flute"</rs>,<lb/>
-                     <rs type="lit_work" ref="#lit_work_id_22">"Don Giovanni"</rs>, <rs type="lit_work" ref="#lit_work_id_23">"Die Sieben Todsünden"</rs>, <rs type="lit_work" ref="#lit_work_id_24">"Mahagonny"</rs> and<lb/>
-                     <rs type="lit_work" ref="#lit_work_id_25">"Archifanfaro"</rs>. <space quantity="1" unit="char"/>I am now 65 years old and must reckon with all<lb/>
-                     eventualities such as a heart attack. <space quantity="1" unit="char"/>As you know better than<lb/>
-                     I, in the event of sudden death great difficulties arise for the<lb/>
-                     heirs to landed property, particularly in a foreign country.
-                  </ab>
-               </div>
+                        <p prev="true">
+                           <seg>
+                              <space quantity="10" unit="char"/>on the subject of translation<del>s</del>: <space quantity="1" unit="char"/>you rightly say that<lb/>
+                              <space quantity="10" unit="char"/>I have a great int<del>r</del>erest in German and Austrian literature -<lb/>
+                              <space quantity="10" unit="char"/>I may add in music as well - but I do not have to come<lb/>
+                              <space quantity="10" unit="char"/>to <rs type="place" ref="#amp_place_id_10">Austria</rs> in order to read or to hear them.
+                           </seg>
+                        </p>
+                        <p>
+                           <space quantity="5" unit="char"/>You see f<del>e</del>r<unclear><del><del>e</del>r</del></unclear>o<del>o</del>m all <del>the above</del> this that the arguments brought<lb/>
+                           forward by you for subjecting me to payment of income tax are not<lb/>
+                           valid. <space quantity="1" unit="char"/>The most pertinent argument against it is that in the<lb/>
+                           course of one year I always stay under six months in <rs type="place" ref="#amp_place_id_10">Austri<del>sa</del><unclear>a</unclear><del>a</del></rs><lb/>
+                           and never spend more than three months here consecutively.
+                        </p>
+                        <p>
+                           <space quantity="5" unit="char"/>A word in conclusion: if this in my view entirely unjustifiable<lb/>
+                           nonsense does not cease, I shall leave <rs type="place" ref="#amp_place_id_10">Austria</rs> never to return,<lb/>
+                           which would be very sad for me and perhaps too for the shopkeepers<lb/>
+                           <del>i</del>of <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>. <space quantity="1" unit="char"/>One thing, Gentlemen, I cannot conceal from you:<lb/>
+                           if this should happen it m<del>k</del>ight give rise to a scandal of worldwide<lb/>
+                           dimensions.
+                        </p>
+                        <ab>
+                           <space quantity="48" unit="char"/><rs type="person" ref="#amp_person_1">W.H. Auden</rs>.
+                        </ab>
+                        <ab>   
+                           1 You ask why I have made over my half of <rs type="place" ref="#amp_place_id_2">our property</rs> in<lb/>
+                           <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> to <rs type="person" ref="#amp_person_4">Mr Chester Kallman</rs> who is not related to me.<lb/>
+                           <rs type="person" ref="#amp_person_4">Mr Kallman</rs> is my heir. <space quantity="1" unit="char"/>I have no children and for years past<lb/>
+                           he has been my literary collaborator. <space quantity="1" unit="char"/><del>s</del>Jointly, we have written<lb/>
+                           five new opera libretti, <rs type="lit_work" ref="#lit_work_id_16">"The Rake´s Progress</rs>, <rs type="lit_work" ref="#lit_work_id_17">"Elegy for Young<lb/>
+                           Lovers</rs>", <rs type="lit_work" ref="#lit_work_id_18">"The Bassarids<del>_</del>"</rs> and <rs type="lit_work" ref="#lit_work_id_20">"Love´s Labours Lost"</rs>. <space quantity="1" unit="char"/>And<lb/>
+                           together we have made new translations of <rs type="lit_work" ref="#lit_work_id_21">"The Magic<del>c</del>Flute"</rs>,<lb/>
+                           <rs type="lit_work" ref="#lit_work_id_22">"Don Giovanni"</rs>, <rs type="lit_work" ref="#lit_work_id_23">"Die Sieben Todsünden"</rs>, <rs type="lit_work" ref="#lit_work_id_24">"Mahagonny"</rs> and<lb/>
+                           <rs type="lit_work" ref="#lit_work_id_25">"Archifanfaro"</rs>. <space quantity="1" unit="char"/>I am now 65 years old and must reckon with all<lb/>
+                           eventualities such as a heart attack. <space quantity="1" unit="char"/>As you know better than<lb/>
+                           I, in the event of sudden death great difficulties arise for the<lb/>
+                           heirs to landed property, particularly in a foreign country.
+                        </ab>
+                     </div>
+                  </body>
+               </floatingText>
                <ab>
                   1 The German text was typed on a different machine, and the<lb/>
                   separate page joined to the <rs type="lit_work" ref="#lit_work_id_103"><del>_D</del>Declaration</rs>.  
