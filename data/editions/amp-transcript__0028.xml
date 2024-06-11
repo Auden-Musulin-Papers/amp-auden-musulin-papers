@@ -614,25 +614,29 @@ for any purpose, even commercially.</p>
                   <space quantity="4" unit="char"/>In the end nothing came of <del>ö</del><unclear>i</unclear>t, but the letter is quoted<lb/>
                   here because it is so characteristic; <space quantity="1" unit="char"/>the follow-up is even<lb/>
                   more so.
-                  <seg>
-                     <quote source="acdh:amp-transcript__0010.xml">
-                        <seg>
-                           <space quantity="8" unit="char"/><rs type="place" ref="#amp_place_id_29">77 St. Mark´s Place</rs> <space quantity="25" unit="char"/>Nov 6th<lb/>
-                           <space quantity="8" unit="char"/>NYC<lb/>
-                           <space quantity="9" unit="char"/>NY.1003
-                        </seg>
-                        <seg>
-                           <space quantity="16" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>,<lb/>
-                           <space quantity="13" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_91">your letter</rs>. <space quantity="1" unit="char"/>Of course,<lb/>
-                           <space quantity="13" unit="char"/>selfishly, I´m rather relieved. <space quantity="1" unit="char"/>How horrid<lb/>
-                           <space quantity="13" unit="char"/>one is!<lb/>
-                           <space quantity="13" unit="char"/>The <rs type="place" ref="#amp_place_id_15">U.S.</rs> is grim.<lb/>
-                           <space quantity="25" unit="char"/>Love,<lb/>
-                           <space quantity="30" unit="char"/><rs type="person" ref="#amp_person_1">Wystan</rs>.
-                        </seg>
-                     </quote>
-                  </seg>
                </p>
+               <quote source="acdh:amp-transcript__0010.xml">
+                  <floatingText>
+                     <body>
+                        <div type="letter">
+                           <ab>
+                              <space quantity="8" unit="char"/><rs type="place" ref="#amp_place_id_29">77 St. Mark´s Place</rs> <space quantity="25" unit="char"/>Nov 6th<lb/>
+                              <space quantity="8" unit="char"/>NYC<lb/>
+                              <space quantity="9" unit="char"/>NY.1003
+                           </ab>
+                           <ab>
+                              <space quantity="16" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>,<lb/>
+                              <space quantity="13" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_91">your letter</rs>. <space quantity="1" unit="char"/>Of course,<lb/>
+                              <space quantity="13" unit="char"/>selfishly, I´m rather relieved. <space quantity="1" unit="char"/>How horrid<lb/>
+                              <space quantity="13" unit="char"/>one is!<lb/>
+                              <space quantity="13" unit="char"/>The <rs type="place" ref="#amp_place_id_15">U.S.</rs> is grim.<lb/>
+                              <space quantity="25" unit="char"/>Love,<lb/>
+                              <space quantity="30" unit="char"/><rs type="person" ref="#amp_person_1">Wystan</rs>.
+                           </ab>
+                        </div>
+                     </body>
+                  </floatingText>
+               </quote>
                <p>
                   <space quantity="5" unit="char"/>Great generosity (these facts<del>, even separately</del>are known<lb/>
                   to no more than two or three people) <del>ed <space quantity="1" unit="char"/>e<unclear>xi</unclear>sted</del>combined in <rs type="person" ref="#amp_person_1">Auden</rs>´s<lb/>
