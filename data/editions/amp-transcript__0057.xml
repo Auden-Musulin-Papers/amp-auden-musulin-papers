@@ -134,7 +134,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0105/" type="envelope" ed="1r"/>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella <choice><orig>Mussolin</orig><reg>Musulin</reg></choice></rs><lb/>
+                  Stella Mussolin</rs><lb/>
                   <address>
                      <rs type="place" ref="#amp_place_id_11"><del rend="overstrike">WIEN III</del><lb/>
                      <del rend="overstrike">Neulinggasse 26</del></rs>

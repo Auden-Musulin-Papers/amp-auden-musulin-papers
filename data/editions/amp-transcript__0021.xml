@@ -127,10 +127,10 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/" type="envelope" ed="1r"/>
                <ab hand="#handwritten" xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baroni<unclear>n</unclear><lb/>
-                  Stella von <choice><orig>Mussolin</orig><reg>Musulin</reg></choice></rs><lb/>
+                  Stella von Mussolin</rs><lb/>
                   <address>
                      <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
-                     <choice><orig>Neulingasse</orig><reg>Neulinggasse</reg></choice> 26 <unclear>,</unclear></rs>
+                     Neulingasse 26 <unclear>,</unclear></rs>
                   </address>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0114/" type="envelope" ed="1v"/>
@@ -166,7 +166,7 @@ for any purpose, even commercially.</p>
                      <salute><space quantity="17" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     <space quantity="9" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_65">your letter</rs>. Ac<subst><del rend="overtyped">r</del><add place="superimposed">t</add></subst>ually,<choice><orig></orig><reg> </reg></choice><rs type="person" ref="#amp_person_1 #amp_person_4">we</rs><lb/>
+                     <space quantity="9" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_65">your letter</rs>. Ac<subst><del rend="overtyped">r</del><add place="superimposed">t</add></subst>ually,<rs type="person" ref="#amp_person_1 #amp_person_4">we</rs><lb/>
                      <space quantity="4" unit="char"/>shall be <rs type="place" ref="#amp_place_id_2">here</rs> till the end of October.
                   </p>
                   <p>   

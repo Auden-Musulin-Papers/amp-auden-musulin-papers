@@ -2696,7 +2696,7 @@ for any purpose, even commercially.</p>
                         <space quantity="5" unit="char"/>cooking from <rs type="place" ref="#amp_place_id_47">Neulengbach</rs>, since, presumably, they have no car.<lb/>
                         <space quantity="5" unit="char"/>I expect someone in the <rs type="place" ref="#amp_place_id_5">village</rs> will help.</seg><lb/>
                         <seg><space quantity="5" unit="char"/>5) If and when they come, I must know in advance so that<lb/>
-                        <space quantity="5" unit="char"/>I can write a note to the <rs type="person" ref="#amp_person_22"><foreign xml:lang="de"><choice><orig>Burgomeister</orig><reg>Bürgermeister</reg></choice></foreign></rs>..."</seg>
+                        <space quantity="5" unit="char"/>I can write a note to the <rs type="person" ref="#amp_person_22"><foreign xml:lang="de">Burgomeister</foreign></rs>..."</seg>
                      </quote>
                   </seg>
                </p>
