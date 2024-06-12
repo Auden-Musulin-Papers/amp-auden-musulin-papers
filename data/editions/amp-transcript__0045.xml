@@ -153,11 +153,11 @@ for any purpose, even commercially.</p>
                         <date rend="#inline">Thursday</date>
                         <placeName>
                            <seg>
-                              <rs type="place" ref="#amp_place_id_5">Kirstetten.</rs>
+                              <rs type="place" ref="#amp_place_id_5"><choice><orig>Kirstetten</orig><reg>Kirchstetten</reg></choice>.</rs>
                            </seg>
                            <seg hand="#printed">
-                              <rs type="org" ref="#amp_organization_6"><del>CHRIST CHURCH,</del><lb/>
-                              <del>OXFORD.</del></rs>
+                              <rs type="org" ref="#amp_organization_6"><del rend="overstrike">CHRIST CHURCH,</del><lb/>
+                              <del rend="overstrike">OXFORD.</del></rs>
                            </seg>
                         </placeName>
                      </dateline>

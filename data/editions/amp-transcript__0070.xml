@@ -40,6 +40,18 @@
                      <respons locus="value" resp="#tfruehwirth #dgrigoriou #smayer"/>
                      <certainty locus="value" cert="high"/>
                   </interp>
+                  <interp xml:id="ana_050" source="ph_050"><!-- link -->
+                     <desc>
+                        According to <rs type="person" ref="#amp_person_2">Stella Musulin</rs>'s son <rs type="person" ref="#amp_person_94">Marko Musulin</rs>, <rs type="place" ref="#amp_place_id_303">Fillgradergasse 12</rs> was the address of <rs type="person" ref="#amp_person_147">Eva Windisch-Graetz</rs>, the daughter of <rs type="person" ref="#amp_person_93">Elsa von Musulin</rs>'s brother Lothar von Isbary.
+                        <bibl type="email">
+                           <author ref="acdh:amp-index-persons.xml#amp_person_94"/>
+                           <title xml:lang="de">AW: Bitte um Informationen, received by Sandra Mayer</title>
+                           <date when-iso="2024-01-29"/>
+                        </bibl>
+                     </desc>
+                     <respons locus="value" resp="#tfruehwirth #dgrigoriou #smayer"/>
+                     <certainty locus="value" cert="high"/>
+                  </interp>
                </interpGrp>
             </edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
@@ -144,7 +156,7 @@ for any purpose, even commercially.</p>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_1">W.H.Auden</rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_2">Kirchst<del>t</del>etten (West Bahn)<lb/> 
+                     <rs type="place" ref="#amp_place_id_2">Kirchst<subst><del rend="overtyped">t</del><add place="superimposed">e</add></subst>tten (West Bahn)<lb/> 
                      Hinterholz # 6<lb/> 
                      N.O.</rs>
                   </address>
@@ -152,7 +164,7 @@ for any purpose, even commercially.</p>
                <ab xml:lang="de">
                   <space quantity="21" unit="char"/>Die <rs type="person" ref="#amp_person_2">Baronin Stella Musulin</rs><lb/>
                   <address>
-                     <space quantity="24" unit="char"/><rs type="place" ref="#amp_place_id_303">bei Windisch-<del>frcty</del> fracty<lb/><!-- research person (Eva Windisch-Graez) -->
+                     <space quantity="24" unit="char"/><rs type="place" ref="#amp_place_id_303" ana="#ana_050">bei Windisch-<del rend="overtyped">frcty</del> fracty<lb/>
                      <space quantity="30" unit="char"/>WIEN VI<lb/> 
                      <space quantity="31" unit="char"/>Fillgradegasse I2</rs>
                   </address>
@@ -166,7 +178,7 @@ for any purpose, even commercially.</p>
                      <dateline xml:lang="de">
                         <placeName>
                            <address>
-                              <rs type="place" ref="#amp_place_id_2">Kirchstetten(West Bah<del>h</del>n)<lb/> 
+                              <rs type="place" ref="#amp_place_id_2">Kirchstetten(West Bah<subst><del rend="overtyped">h</del><add place="superimposed">n</add></subst>)<lb/> 
                               Hinterholz # 6<lb/> 
                               N.O.</rs>
                            </address>
@@ -178,7 +190,7 @@ for any purpose, even commercially.</p>
                      </salute>
                   </opener>
                   <p>
-                     <space quantity="6" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_61">your letter of Oct <del>%</del>5th which I have only just<lb/>
+                     <space quantity="6" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_61">your letter of Oct <subst><del rend="overtyped">%</del><add place="superimposed">5</add></subst>th which I have only just<lb/>
                      <space quantity="3" unit="char"/>received</rs>:it went to <rs type="place" ref="#amp_place_id_314" ana="#ana_001">the wrong Kirchstetten</rs>.
                   </p>
                   <p>

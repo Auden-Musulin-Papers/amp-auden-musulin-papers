@@ -143,7 +143,7 @@ for any purpose, even commercially.</p>
                <div> 
                   <ab xml:lang="de">
                      K<unclear>ö</unclear>nnen Sie Mittwoch<lb/>
-                     <unclear>a</unclear>ns<unclear>t</unclear>att Donnerstag zum Abend<unclear>e</unclear>ssen kommen<lb/>
+                     <add place="below"><unclear>a</unclear>ns<unclear>t</unclear>att Donnerstag</add> zum Abend<unclear>e</unclear>ssen kommen<lb/>
                   </ab>
                   <ab>
                      <rs type="person" ref="#amp_person_1">Auden</rs>

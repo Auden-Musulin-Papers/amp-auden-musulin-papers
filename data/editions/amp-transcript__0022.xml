@@ -127,10 +127,10 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0117/" type="envelope" ed="1r"/>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Mu<unclear><del>s</del></unclear>silin</rs><lb/>
+                  Stella <choice><orig>Mu<gap reason="illegible" unit="char" quantity="1"/>silin</orig><reg>Musulin</reg></choice></rs><lb/>
                   <address>
                      <rs type="place" ref="#amp_place_id_11"><hi rend="underline">Wien III</hi><lb/>
-                     Neulingasse 26.</rs>
+                     <choice><orig>Neulingasse</orig><reg>Neulinggasse</reg></choice> 26.</rs>
                   </address>    
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0118/" type="envelope" ed="1v"/>
@@ -161,13 +161,13 @@ for any purpose, even commercially.</p>
                            </seg>
                         </placeName>
                      </dateline>
-                     <salute><del>De</del>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
+                     <salute><subst><del rend="overwritten">De</del><add place="superimposed">De</add></subst>ar <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     Del<unclear>i</unclear>ghted to hear yo<del><gap reason="deleted"/></del><unclear>u</unclear> are<lb/>
+                     Del<unclear>i</unclear>ghted to hear yo<gap reason="illegible" unit="char" quantity="1"/><unclear>u</unclear> are<lb/>
                      <rs type="place" ref="#amp_place_id_10">back</rs> and would love to see you<lb/>
                      anytime<unclear>:</unclear> Are you living in <rs type="place" ref="#amp_place_id_1"><foreign xml:lang="de">Wien</foreign></rs> or<lb/>
-                     in <rs type="place" ref="#amp_place_id_8">Obergrabendorf</rs>.?
+                     in <rs type="place" ref="#amp_place_id_8"><choice><orig>Obergrabendorf</orig><reg>Ober-Grafendorf</reg></choice></rs>.?
                   </p>
                   <p>
                      I read <rs type="lit_work" ref="#lit_work_id_87">your piece in <rs type="org" ref="#amp_organization_39"><hi rend="underline">Die Presse</hi></rs></rs><lb/>
