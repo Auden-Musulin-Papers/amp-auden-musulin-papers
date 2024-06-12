@@ -166,7 +166,7 @@ for any purpose, even commercially.</p>
                      <salute><space quantity="17" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     <space quantity="9" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_65">your letter</rs>. Ac<subst><del rend="overtyped">r</del><add place="superimposed">t</add></subst>ually,<choice><orig> </orig><reg></reg></choice><rs type="person" ref="#amp_person_1 #amp_person_4">we</rs><lb/>
+                     <space quantity="9" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_65">your letter</rs>. Ac<subst><del rend="overtyped">r</del><add place="superimposed">t</add></subst>ually,<choice><orig></orig><reg> </reg></choice><rs type="person" ref="#amp_person_1 #amp_person_4">we</rs><lb/>
                      <space quantity="4" unit="char"/>shall be <rs type="place" ref="#amp_place_id_2">here</rs> till the end of October.
                   </p>
                   <p>   
