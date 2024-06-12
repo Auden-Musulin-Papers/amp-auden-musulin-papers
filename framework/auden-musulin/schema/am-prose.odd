@@ -63,7 +63,7 @@
           <moduleRef key="tei"/>
           <moduleRef key="textstructure" include="TEI text body div floatingText"/>
           <moduleRef key="textcrit" include="listWit witness"/>
-          <moduleRef key="transcr" include="fw space facsimile surface damage handShift"/>
+          <moduleRef key="transcr" include="fw space facsimile surface damage handShift subst"/>
           <moduleRef key="linking" include="ab seg"/>
           <moduleRef key="analysis" include="interpGrp interp"/>
           <moduleRef key="certainty" include="certainty respons"/>
@@ -518,7 +518,41 @@
           </elementSpec>
           
           <!-- element del -->
-          <elementSpec ident="del" module="core" mode="change"/>
+          <elementSpec ident="del" module="core" mode="change">
+            <attList>
+              <attDef ident="rend" mode="change" usage="opt">
+                <valList type="closed" mode="replace">
+                  <valItem ident="overtyped"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <!-- element del -->
+          <elementSpec ident="add" module="core" mode="change">
+            <attList>
+              <attDef ident="place" mode="change" usage="req">
+                <valList type="closed" mode="replace">
+                  <valItem ident="top"/>
+                  <valItem ident="bottom"/>
+                  <valItem ident="margin"/>
+                  <valItem ident="opposite"/>
+                  <valItem ident="overleaf"/>
+                  <valItem ident="above"/>
+                  <valItem ident="right"/>
+                  <valItem ident="below"/>
+                  <valItem ident="left"/>
+                  <valItem ident="end"/>
+                  <valItem ident="inline"/>
+                  <valItem ident="inspace"/>
+                  <valItem ident="superimposed"/>
+                </valList>
+              </attDef>
+            </attList>
+          </elementSpec>
+          
+          <!-- element subst -->
+          <elementSpec ident="subst" module="transcr" mode="change"/>     
           
           <!-- element unclear -->
           <elementSpec ident="unclear" module="core" mode="change"/>
