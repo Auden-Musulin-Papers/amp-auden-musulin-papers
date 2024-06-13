@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-04-28 and with Typescript W. H. Auden Translation "Joseph Weinheber"</title>
+            <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" and with Typescript W. H. Auden Translation "Joseph Weinheber" 1965-04-28</title>
             <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
             <author ref="https://id.acdh.oeaw.ac.at/emusulin">Musulin, Elsa Gerda Maria Louise Pauline von</author><!-- point to ana="acdh:amp-transcript__0002.xml#ana_027" at some point, either author or hand -->
             <author ref="https://d-nb.info/gnd/117542784">Mayer, Elizabeth</author>
@@ -22,7 +22,7 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title>Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-04-28 and with Typescript W. H. Auden Translation "Joseph Weinheber"</title>
+               <title>Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" and with Typescript W. H. Auden Translation "Joseph Weinheber" 1965-04-28</title>
                <interpGrp>
                   <interp xml:id="ana_009" source="ph_009"><!-- link to nanopub -->
                      <desc>

@@ -89,6 +89,7 @@
                            <person><persName ref="acdh:amp-index-persons.xml#amp_person_245"/></person>
                         </listPerson>
                         <bibl source="https://www.ogl.at/programm/aktuelles-programm/archiv/1967/4/">
+                           <title>Program Archive April 1967 Austrian Society for Literature</title>
                            <orgName ref="acdh:amp-index-organizations.xml#amp_organization_9"/>
                            <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_1"/>
                         </bibl>

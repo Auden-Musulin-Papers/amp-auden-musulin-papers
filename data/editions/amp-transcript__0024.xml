@@ -104,6 +104,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-11-17">entities updated, internal events created</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-06-13">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -127,7 +128,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0125/" type="envelope" ed="1r"/>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Musuli<unclear>m</unclear></rs><lb/>
+                  Stella Musuli<gap reason="illegible" unit="char" atLeast="1" atMost="2"/></rs><lb/>
                   <address>
                      <rs type="place" ref="#amp_place_id_11">Wien III<lb/>
                      Neulinggasse 26. 14</rs>
@@ -161,7 +162,7 @@ for any purpose, even commercially.</p>
                         </seg>   
                      </placeName>
                   </dateline>
-                  <salute>Dear <rs type="person" ref="#amp_person_2"><del>Sell</del> Stella</rs>:</salute>
+                  <salute>Dear <del rend="overstrike">Sell</del> <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                </opener>
                <p>
                   Many thanks for <rs type="event" ref="#amp_event_id_68">your card</rs>.<lb/>

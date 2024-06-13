@@ -132,6 +132,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou tfruehwirth" when="2023-07-31">transcriptions collated</change>
          <change who="dgrigoriou tfruehwirth" when="2023-08-02">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-11-15">entities updated, internal events created, interpGrp added</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-06-12">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>

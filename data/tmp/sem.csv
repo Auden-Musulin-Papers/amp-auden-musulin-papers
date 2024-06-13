@@ -6,13 +6,13 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0022,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
 0021,edition_title,,"DONE: amp_event_id_65",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
 0071,edition_title,,,"DONE: origDate (ana_005, ph_005); @ana=ana_003 for origPlace","DONE: xml:lang",,revision_desc,done,done,no_intertext,`italic`,done,done,done,done,none
-0059,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0063,edition_title,"TODO: ""heute Abend"" reading of Christine Busta","DONE: amp_event_id_67","DONE: @ana=ana_003 for origPlace","DONE: xml:lang",,revision_desc,done,done,no_intertext,`italic`,done,done,done,done
-0023,edition_title,,"DONE: amp_event_id_16",,"DONE: xml:lang","DONE: link to Auden in Zimmer Wikidata, include Auden in de Wikipedia",revision_desc,done,done,no_intertext,done,done,none,none,none
-0024,edition_title,,"DONE: amp_event_id_68",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0025,edition_title,,"DONE: amp_event_id_17",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0001,edition_title,,"DONE: amp_event_id_71, amp_event_id_84","DONE: ""be in Vienna this coming week ..."" (ana_006, ph_006)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done
-0002,edition_title,,amp_event_id_70,"DONE: reference to previous letter by Musulin (ana_007, ph_007); intertext 0002/0038 (ana_023, ph_023); identification Elsa Musulin's handwriting (ana_027, ph_027)","DONE: xml:lang",,revision_desc,done,done,done,done,done,none,done,done
+0059,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0063,edition_title,"TODO: ""heute Abend"" reading of Christine Busta","DONE: amp_event_id_67","DONE: @ana=ana_003 for origPlace","DONE: xml:lang",,revision_desc,done,done,no_intertext,`italic`,done,done,done,done,done
+0023,edition_title,,"DONE: amp_event_id_16",,"DONE: xml:lang","DONE: link to Auden in Zimmer Wikidata, include Auden in de Wikipedia",revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0024,edition_title,,"DONE: amp_event_id_68",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0025,edition_title,,"DONE: amp_event_id_17",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,none
+0001,edition_title,,"DONE: amp_event_id_71, amp_event_id_84","DONE: ""be in Vienna this coming week ..."" (ana_006, ph_006)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done,done
+0002,edition_title,,amp_event_id_70,"DONE: reference to previous letter by Musulin (ana_007, ph_007); intertext 0002/0038 (ana_023, ph_023); identification Elsa Musulin's handwriting (ana_027, ph_027)","DONE: xml:lang",,revision_desc,done,done,done,done,done,none,done,done,done
 0038,edition_title,,amp_event_id_85,"DONE: comment on Gemeindepflicht (ana_008, ph_008); intertext 0002/0038 link to ana_023","DONE: xml:lang",,revision_desc,done,done,done,`rs@type=note`,done,none,done,done
 0039,edition_title,,"amp_event_id_72, amp_event_id_73, amp_event_id_104","DONE: TEI formalization of interp re ""German friend""(ana_009, ph_009) and interp re Epithalamium dedication (ana_022, ph_022); inter re Musulin's reworking of translation (ana_046, ph_046)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done
 0003,edition_title,"TODO: research Amerikahaus event","DONE: amp_event_id_74, amp_event_id_75",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
@@ -55,4 +55,4 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0051,edition_title,,,,,,,,,,,,,,TODO
 0049,edition_title,,,,,,,,,,,,,,TODO
 0052,edition_title,,,"DONE: reuse ana_034, reuse ana_031",,,,,,,,,,,TODO
-0028,edition_title,"TODO: letter Kallman Presse; artist neighbor",,"DONE: interp re reference to 1976 text (ana_047, ph_047); reuse of ana_043; interp re 'nobleman' (ana_048, ph_048); interp re LIFE feature (ana_049, ph_049)",,,,,,,,,,,TODO
+0028,edition_title,"TODO: artist neighbor",,"DONE: interp re reference to 1976 text (ana_047, ph_047); reuse of ana_043; interp re 'nobleman' (ana_048, ph_048); interp re LIFE feature (ana_049, ph_049)",,,,,,,,,,,TODO
