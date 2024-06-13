@@ -523,6 +523,8 @@
               <attDef ident="rend" mode="change" usage="opt">
                 <valList type="closed" mode="replace">
                   <valItem ident="overtyped"/>
+                  <valItem ident="overstrike"/>
+                  <valItem ident="overwritten"/>
                 </valList>
               </attDef>
             </attList>
