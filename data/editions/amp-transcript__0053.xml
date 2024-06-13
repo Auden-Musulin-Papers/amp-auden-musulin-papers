@@ -94,7 +94,7 @@
                                     </bibl>
                                     <bibl sameAs="https://www.wiener-staatsoper.at/en/staatsoper/media/detail/news/on-the-death-of-the-queen">
                                         <title xml:lang="en">On the Death of the Queen</title>
-                                        <pubPlace ref="acdh:amp-index-places.xml#amp_place_id_157"/>
+                                        <orgName ref="acdh:amp-index-organizations.xml#amp_organization_90"/>
                                         <date when-iso="2022-09-09"/>
                                     </bibl>
                                 </listBibl>
@@ -359,7 +359,7 @@
                          ein bis zum Boden reichendes Kleid in sanft grüner Farbe, aus<lb/>
                          <del>einer</del> mit winzigen Perlen besticker, schwerer Seide. <space quantity="1" unit="char"/>Der Mantel<lb/>
                          mit ein wenig hochstehendem Kragen war aus dem gleichen aber<lb/>
-                         unbesticktem Stoff. <space quantity="1" unit="char"/>Mein eigenes Kleid für die <rs type="event" ref="#amp_event_id_96" ana="#ana_020"><rs type="place" ref="#amp_place_id_157">Oper</rs></rs> war leider<lb/>
+                         unbesticktem Stoff. <space quantity="1" unit="char"/>Mein eigenes Kleid für die <rs type="event" ref="#amp_event_id_96" ana="#ana_020"><rs type="org" ref="#amp_organization_90">Oper</rs></rs> war leider<lb/>
                          auch grün, ganz schlicht, gold-lurex Art, mit Seitenschlitz<lb/>
                          links bis zum Knie. <space quantity="1" unit="char"/>Für den makellosen Teint der <rs type="person" ref="#amp_person_138">Königin</rs> ist<lb/>
                          Veranlagung verantwortlich, ich habe selten jemanden mit einem<lb/>
