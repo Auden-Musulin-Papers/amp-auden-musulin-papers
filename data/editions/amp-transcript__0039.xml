@@ -157,6 +157,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-08-02">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-12-01">entities updated, events created, interpGrp added</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2024-05-22">prose container structure updated</change>
+         <change who="smayer tfruehwirth" when="2024-06-17">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -195,7 +196,7 @@ for any purpose, even commercially.</p>
                   Stella Musulin</rs><lb/>
                   <address>
                      <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
-                     Obergra<del><gap reason="deleted"/></del><gap reason="illegible"/>endorf<lb/>
+                     Obergra<subst><del rend="overwritten"><gap reason="illegible" unit="char" atLeast="3" atMost="4"/></del><add place="superimposed"><unclear>b</unclear>en</add></subst>dorf<lb/>
                      bei S. Pölten<lb/>
                      N.Ö.</rs>
                   </address>
@@ -246,7 +247,7 @@ for any purpose, even commercially.</p>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Men of great damage</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>And malengine took you up.</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Did they for long,though,</l>
-                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Take you in,who to <rs type="person" ref="#amp_person_196">Goebbel<del>l</del>s</rs>'</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Take you in,who to <rs type="person" ref="#amp_person_196">Goebbel<del rend="overtyped">l</del>s</rs>'</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Offer of culture</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Countered <hi rend="underline"><foreign xml:lang="de">In Ruah lassen</foreign></hi>!?</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>But Rag,Tag,Bobtail</l>
@@ -276,7 +277,7 @@ for any purpose, even commercially.</p>
                   </p>
                   <p>
                      I enclose a <rs type="lit_work" ref="#lit_work_id_92">pr<unclear>o</unclear>se translation</rs> ma<unclear>d</unclear>e by <rs type="person" ref="#amp_person_1">me</rs> and <rs type="person" ref="#amp_person_157" ana="#ana_009">a German friend</rs><unclear>;</unclear><lb/>
-                     <gap reason="illegible"/> <del><gap reason="deleted"/></del> Sin<unclear>ce</unclear> <rs type="lit_work" ref="#lit_work_id_61">the copy I sent you</rs> , <del><gap reason="deleted"/></del> I have made <unclear>a</unclear> few slig<unclear>h</unclear>t<lb/>
+                     <gap reason="illegible" unit="char" quantity="1"/> <del rend="overstrike"><gap reason="illegible" unit="char" atLeast="2" atMost="3"/></del> Sin<unclear>ce</unclear> <rs type="lit_work" ref="#lit_work_id_61">the copy I sent you</rs> , <del rend="overstrike"><gap reason="illegible" atLeast="1" atMost="2"/></del> I have made <unclear>a</unclear> few slig<unclear>h</unclear>t<lb/>
                      changes in stanza 3. (see above)
                   </p>
                   <p>
@@ -301,8 +302,8 @@ for any purpose, even commercially.</p>
                         1
                      </seg>
                      <seg>
-                        <lb/><space quantity="7" unit="char"/><del>Von meiner Gartentur</del><lb/>
-                        <space quantity="7" unit="char"/>Von meiner Gartent<unclear>ü</unclear>r f<unclear>ü</unclear><del>rh</del>hrt ein schmaler Pfad vom Dorf weiter in einen Wald. Auf<lb/>
+                        <lb/><space quantity="7" unit="char"/><del rend="overtyped">Von meiner Gartentur</del><lb/>
+                        <space quantity="7" unit="char"/>Von meiner Gartent<unclear>ü</unclear>r f<unclear>ü</unclear><subst><del rend="overtyped">rh</del><add place="superimposed">hr</add></subst>t ein schmaler Pfad vom Dorf weiter in einen Wald. Auf<lb/>
                         meinen G<unclear>ä</unclear>ngen dorthin scheint es geh<unclear>ö</unclear>rig,stehen zu bleiben und durch den Zaun deines<lb/>
                         Gartens zu schauen,in dem&#x1F5F4; dich(die Umst<unclear>ä</unclear>nde verlangten es) wie einen alten geliebten<lb/>
                         Familienhund begrub.
@@ -325,14 +326,16 @@ for any purpose, even commercially.</p>
                      </seg>
                      <seg>
                         <lb/><space quantity="6" unit="char"/>Ja,ja,es muss gesagt werden,Machthaber,die grosses Unheil stifteten und <hi rend="underline">B<unclear>ö</unclear>ses</hi><lb/>
-                        <hi rend="underline">pl<del>na</del>anten</hi>,nahmen dich auf;f<unclear>ü</unclear>r wie lang,doch,wickelten sie dich ein,dich,der auf <rs type="person" ref="#amp_person_196">Goebbels</rs><lb/>
-                        Angebot von Kultur "In Ruah lassen!" entgegnetest? <del>a</del>Aber <space quantity="1" unit="char"/>/? <gap reason="illegible"/> <foreign xml:lang="en">Rag,Tag, Bobta<unclear>il ?</unclear></foreign> <space quantity="3" unit="char"/><del>x</del>ziehen einen Stunk<lb/>
+                        <hi rend="underline">pl<subst><del rend="overtyped">na</del><add place="superimposed">an</add></subst>ten</hi>,nahmen dich auf;f<unclear>ü</unclear>r wie lang,doch,wickelten sie dich ein,dich,der auf <rs type="person" ref="#amp_person_196">Goebbels</rs><lb/>
+                        Angebot von Kultur "In Ruah lassen!" entgegnetest? <subst><del rend="overtyped">a</del><add place="superimposed">A</add></subst>ber <space quantity="1" unit="char"/>/? <add place="below"><gap reason="illegible"/> <foreign xml:lang="en">Rag,Tag, Bobta<unclear>il ?</unclear></foreign></add> <space quantity="3" unit="char"/><subst><del rend="overtyped">x</del><add place="superimposed">z</add></subst>iehen einen Stunk<lb/>
                         vor,und die Jungen verdammen dich ungelesen.
                      </seg>
-                     <seg hand="#handwritten" xml:lang="en">
-                        <lb/>M<unclear>y</unclear> dictionary gives <hi rend="underline"><foreign xml:lang="de">Krethi und Plethi</foreign></hi> .<lb/>
-                        I<unclear>s</unclear> that right<unclear>?</unclear>
-                     </seg>
+                     <add place="bottom">
+                        <seg hand="#handwritten" xml:lang="en">
+                           <lb/>M<unclear>y</unclear> dictionary gives <hi rend="underline"><foreign xml:lang="de">Krethi und Plethi</foreign></hi> .<lb/>
+                           I<unclear>s</unclear> that right<unclear>?</unclear>
+                        </seg>
+                     </add>
                   </p>
                   <p>
                      <seg hand="#handwritten">
@@ -341,7 +344,7 @@ for any purpose, even commercially.</p>
                      <seg>
                         <lb/><space quantity="6" unit="char"/>Was wohl w<unclear>ü</unclear>rde dir,dem Osterreicher,dem Dichter,dein Herz gesagt haben,h<unclear>ä</unclear>ttest<lb/>
                         du je von <rs type="person" ref="#amp_person_7">Franz J<unclear>ä</unclear>gerst<unclear>ä</unclear>tter</rs>,dem <rs type="place" ref="#amp_place_id_22">Sankt Radegund</rs>er Bauern,geh<unclear>ö</unclear>rt,der sein einsames<lb/>
-                        Nein zu dem Arierstaat sagte und gek<unclear>ö</unclear>p<del>t</del>ft wurde? Naturlich sorgte man daf<unclear>ü</unclear>r,dass nichts<lb/>
+                        Nein zu dem Arierstaat sagte und gek<unclear>ö</unclear>p<del>t</del>ft<add place="inline"> </add>wurde? Naturlich sorgte man daf<unclear>ü</unclear>r,dass nichts<lb/>
                         davon zu Ohren kam,
                      </seg>
                   </p>
@@ -350,9 +353,9 @@ for any purpose, even commercially.</p>
                         <unclear>5</unclear>
                      </seg>
                      <seg>
-                        <lb/><space quantity="5" unit="char"/>dass du unvorbereitet auf einen Tag sein solltest,der kommen mu<del>u</del>sste,eine Zeit,<lb/>
-                        voller Schrecken,Tr<unclear>ä</unclear>nen und Aufl<unclear>ö</unclear>sung,in <del>s</del>dem du,vor Al<del>p</del>bd<hi rend="underline">r<unclear>ü</unclear>c</hi>k erstarrt,dich selbst<lb/>
-                        vernichtetest? Vergeltung ging immer wie ein S<hi rend="underline">t<unclear>ü</unclear>mp</hi>er vor. "Dies alles ist furchtbar,<lb/>
+                        <lb/><space quantity="5" unit="char"/>dass du unvorbereitet auf einen Tag sein solltest,der kommen mu<subst><del rend="overtyped">u</del><add place="superimposed">s</add></subst>ste,eine Zeit,<lb/>
+                        voller Schrecken,Tr<unclear>ä</unclear>nen und Aufl<unclear>ö</unclear>sung,in <subst><del rend="overtyped">s</del><add place="superimposed">d</add></subst>em du,vor Al<subst><del rend="overwritten">p</del><add place="superimposed">b</add></subst>d<hi rend="underline">r<unclear>ü</unclear>c</hi>k erstarrt,dich selbst<lb/>
+                        vernichtetest? Vergeltung ging immer wie ein S<hi rend="underline">tu<add place="inline">&#xA8;</add>mp</hi>er vor. "Dies alles ist furchtbar,<lb/>
                         hier nur Schweigen gem<unclear>ä</unclear>ss."
                      </seg>
                   </p>
@@ -363,7 +366,7 @@ for any purpose, even commercially.</p>
                      <seg>
                         <lb/><space quantity="5" unit="char"/>Unbemerkt und unbetrauert von mir die Stunde deines Todes,unbegr<unclear>ü</unclear>sst von dir<lb/>
                         war der Augenblick,als ich,von der Vorsehung geleitet,<rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> zuerst erblickte,<lb/>
-                        an einem Oktobertag in str<unclear>ö</unclear>menden Regen,in einem Jahr,<del>s</del>das unsern Kosmos ver<unclear>ä</unclear>nderte<del>t</del> ,<lb/>
+                        an einem Oktobertag in str<unclear>ö</unclear>menden Regen,in einem Jahr,<subst><del rend="overtyped">s</del><add place="superimposed">d</add></subst>as unsern Kosmos ver<unclear>ä</unclear>nderte<del rend="overtyped">t</del> ,<lb/>
                         dem <hi rend="underline"><foreign xml:lang="la">annus mirabilis</foreign></hi> als die Parit<unclear>ä</unclear>t gest<unclear>ü</unclear>rzt wurde.
                      </seg>
                   </p>
@@ -374,8 +377,8 @@ for any purpose, even commercially.</p>
                      <seg>
                         <lb/><space quantity="4" unit="char"/>Schon waren die Reiche,die verloren hatten,gen<unclear>ü</unclear>gend warm und sattgegessen,ihre<lb/>
                         Verbrechen waren auf prosaischer und privater Art,jene <unclear>Ä</unclear>rgernisse,Tote und Schutt,<lb/>
-                        l<unclear>ä</unclear>ngst weggeschafft: f<unclear>ü</unclear>r ihre Gesch<unclear>ä</unclear>ndeten ver<unclear>b</unclear>l<del>al</del>lasste der Schock,ihre gewaltsam<lb/>
-                        entf<unclear>ü</unclear>hrten Physiker hatten kein Heimw<del>h</del>eh mehr.
+                        l<unclear>ä</unclear>ngst weggeschafft: f<unclear>ü</unclear>r ihre Gesch<unclear>ä</unclear>ndeten ver<unclear>b</unclear><subst><del rend="overtyped">al</del><add place="superimposed">la</add></subst>sste der Schock,ihre gewaltsam<lb/>
+                        entf<unclear>ü</unclear>hrten Physiker hatten kein Heimw<subst><del rend="overtyped">h</del><add place="superimposed">e</add></subst>h mehr.
                      </seg>
                   </p>
                   <p>
@@ -385,7 +388,7 @@ for any purpose, even commercially.</p>
                      <seg>
                         <lb/><space quantity="4" unit="char"/>Heute lacheln wir bei Hochzeiten,auf denen sowohl Braut als Br<unclear>ä</unclear>utigam geboren<lb/>
                         waren,als sich der Schatten gehoben oder vielmehr anderswohin ger<unclear>ü</unclear>ckt war. Bis<lb/>
-                        <del>jezt</del> jetzt ist die Erde noch nie ohne ihren faulen Stellen,einen Unort mit<lb/>
+                        <del rend="overtyped">jezt</del> jetzt ist die Erde noch nie ohne ihren faulen Stellen,einen Unort mit<lb/>
                         Stellungen f<unclear>ü</unclear>r Folterer,(In welchen Bars sind sie willkommen? Welche M<unclear>ä</unclear>dchen<lb/>
                         heiraten sie?)
                      </seg>
@@ -406,8 +409,8 @@ for any purpose, even commercially.</p>
                         10
                      </seg>
                      <seg>
-                        <lb/><space quantity="4" unit="char"/>Doch hier f<unclear>ü</unclear>hl ich mich zuhause,wie <hi rend="underline">du es ta</hi>tst: dieselben kurzlebigen Gesch<unclear>ö</unclear>pfe<lb/>
-                        stimmen wieder dieselben sorglosen Lieder an; Obstg<unclear>ä</unclear>rten halten fest an dem Regime,<lb/>
+                        <lb/><space quantity="4" unit="char"/>Doch <add place="above">hier</add> f<unclear>ü</unclear>hl ich mich zuhause,wie <hi rend="underline">du es ta</hi>tst: dieselben kurzlebigen Gesch<unclear>ö</unclear>pfe<lb/>
+                        stimmen wieder dieselben sorglose<add place="inline">n</add> Lieder an; Obstg<unclear>ä</unclear>rten halten fest an dem Regime,<lb/>
                         das sie kennen,von des Aprils rasch zunehmenden Farbt<unclear>ö</unclear>nen bis zum ungest<unclear>ü</unclear>men Herbst,<lb/>
                         wann bei jedem stotternden Windstoss <unclear>Ä</unclear>pfel auf den Boden plumpsen.
                      </seg>
@@ -417,7 +420,7 @@ for any purpose, even commercially.</p>
                         11
                      </seg>
                      <seg>
-                        <lb/><space quantity="4" unit="char"/>Wenn ich <unclear>ü</unclear>ber unser Tal - human <del>un</del> bescheiden und sanft im Umriss - schaue,in dem<lb/>
+                        <lb/><space quantity="4" unit="char"/>Wenn ich <unclear>ü</unclear>ber unser Tal - human <del rend="overtyped">un</del> bescheiden und sanft im Umriss - schaue,in dem<lb/>
                         der <rs type="place" ref="#amp_place_id_252">Sichelbach</rs> westwarts gurgelt,um sich mit dem <rs type="place" ref="#amp_place_id_251">Perschling</rs> zu vereinigen,bin ich<lb/>
                         mir bedeutendere Nachbarn ehrf<unclear>ü</unclear>rchtig bewusst,der Berge,die hinter mir aufragen,<lb/>
                         vor mir des noblen Flusses,
@@ -430,12 +433,14 @@ for any purpose, even commercially.</p>
                      <seg>
                         <lb/><space quantity="4" unit="char"/>doch m<unclear>ö</unclear>cht ich auch dir Achtung erweisen,Nachbar und Kollege; denn selbst mein<lb/>
                         englisches Ohr erfasst in deinem Deutsch die Meisterschaft und den Tonfall einen<lb/>
-                        dem es verg<unclear>ö</unclear>nnt war,auf dem umzaunten Rasen die Brat<del>ch</del>schen zu h<unclear>ö</unclear>ren,die er sich<lb/>
-                        sp<unclear>ä</unclear>ter verpflichtet f<unclear>ü</unclear>hlte<del>t</del>,"den Abgrund zu nennen."<lb/>
+                        dem es verg<unclear>ö</unclear>nnt war,auf dem umzaunten Rasen die Brat<subst><del rend="overtyped">ch</del><add place="superimposed">sc</add></subst>hen zu h<unclear>ö</unclear>ren,die er sich<lb/>
+                        sp<unclear>ä</unclear>ter verpflichtet f<unclear>ü</unclear>hlte<del rend="overtyped">t</del>,"den Abgrund zu nennen."<lb/>
                      </seg>
-                     <seg hand="#handwritten">
-                        sta<unclear>t</unclear>t Bra<unclear>t</unclear>
-                     </seg>
+                     <add place="below">
+                        <seg hand="#handwritten">
+                           sta<unclear>t</unclear>t Bra<unclear>t</unclear>
+                        </seg>
+                     </add>
                   </p>
                   <ab>
                      <space quantity="25" unit="char"/>______
@@ -446,7 +451,7 @@ for any purpose, even commercially.</p>
                   <lg>
                      <lb/><space quantity="1" unit="char"/><l><rs type="lit_work" ref="#lit_work_id_168" ana="#ana_022"><unclear>A</unclear>ll folk-t<unclear>a</unclear>les mean that end with</rs></l>
                      <lb/><space quantity="4" unit="char"/><l>A palace wed<unclear>d</unclear>ing,</l>
-                     <lb/><space quantity="1" unit="char"/><l><gap quantity="1" unit="char" reason="illegible"/>eas<del>r</del>ts and fireworks,we wish you,</l>
+                     <lb/><space quantity="1" unit="char"/><l><gap quantity="1" unit="char" reason="illegible"/>eas<subst><del rend="overtyped">r</del><add place="superimposed">t</add></subst>s and fireworks,we wish you,</l>
                      <lb/><space quantity="4" unit="char"/><l><gap quantity="1" unit="char" reason="illegible"/>eter and Rita,</l>
                      <lb/><l>Two idiosyncr<gap quantity="1" unit="char" reason="illegible"/><unclear>c</unclear>ies</l>
                      <lb/><space quantity="1" unit="char"/><l><gap quantity="2" unit="char" reason="illegible"/>o opt in this <unclear>h</unclear>awt<unclear>h</unclear>orn <unclear>m</unclear>o<unclear>n</unclear>th</l>
@@ -464,7 +469,7 @@ for any purpose, even commercially.</p>
                   <lg>
                      <lb/><l><gap quantity="1" unit="char" reason="illegible"/><unclear>ay</unclear> Venus,to wh<unclear>os</unclear>e <gap quantity="1" unit="char" reason="illegible"/>a<gap quantity="1" unit="char" reason="illegible"/><unclear>r</unclear>ice</l>
                      <lb/><space quantity="4" unit="char"/><l><gap quantity="1" unit="char" reason="illegible"/>ll blood <unclear>m</unclear>ust <gap quantity="1" unit="char" reason="illegible"/>u<gap quantity="1" unit="char" reason="illegible"/>om,</l>
-                     <lb/><l>t<unclear><del>o</del>a</unclear>k<del>t</del><unclear>e</unclear> such a shine to you both</l>
+                     <lb/><l>t<unclear><subst><del rend="overtyped">o</del><add place="superimposed">a</add></subst></unclear>k<subst><del rend="overtyped">t</del><add place="superimposed"><unclear>e</unclear></add></subst> such a shine to you both</l>
                      <lb/><space quantity="4" unit="char"/><l>Th<gap quantity="1" unit="char" reason="illegible"/>t <unclear>b</unclear>y her favor</l>
                      <lb/><l>Your p<unclear>a</unclear>lpable subtances</l>
                      <lb/><l><gap quantity="1" unit="char" reason="illegible"/>ay rei<unclear>f</unclear>y those deli<unclear>g</unclear>hts</l>
@@ -473,7 +478,7 @@ for any purpose, even commercially.</p>
                   <lg>
                      <lb/><l><unclear>M</unclear>ay <unclear>H</unclear>ymen from jealousy's</l>
                      <lb/><space quantity="4" unit="char"/><l>Teratoid ph<gap quantity="1" unit="char" reason="illegible"/>n<del><unclear>r</unclear></del>tasms,</l>
-                     <lb/><l><gap quantity="1" unit="char" reason="illegible"/>o<gap quantity="1" unit="char" reason="illegible"/>p<unclear>e</unclear>tit<del>v<unclear>e</unclear></del>ive s<unclear>ce</unclear>n<unclear>e</unclear>s <unclear>a</unclear>nd su<gap quantity="2" unit="char" reason="illegible"/><unclear>s,</unclear></l>
+                     <lb/><l><gap quantity="1" unit="char" reason="illegible"/>o<gap quantity="1" unit="char" reason="illegible"/>p<unclear>e</unclear>tit<subst><del rend="overtyped">v<unclear>e</unclear></del><add place="superimposed">iv</add></subst>e s<unclear>ce</unclear>n<unclear>e</unclear>s <unclear>a</unclear>nd su<gap quantity="2" unit="char" reason="illegible"/><unclear>s,</unclear></l>
                      <lb/><space quantity="4" unit="char"/><l><unclear>A</unclear>nd pride's monologu<unclear>e</unclear></l>
                      <lb/><l>That won't listen but demands</l>
                      <lb/><l>Tautological echoes,</l>
@@ -484,7 +489,7 @@ for any purpose, even commercially.</p>
                      <lb/><space quantity="4" unit="char"/><l><gap quantity="1" unit="char" reason="illegible"/>ho share with all flesh</l>
                      <lb/><l><unclear>A</unclear> left-han<gap quantity="1" unit="char" reason="illegible"/>ed twist,to-day</l>
                      <lb/><space quantity="4" unit="char"/><l><gap quantity="1" unit="char" reason="illegible"/>e thank <gap quantity="1" unit="char" reason="illegible"/>rs.<gap quantity="1" unit="char" reason="illegible"/>ind,</l>
-                     <lb/><l><gap quantity="1" unit="char" reason="illegible"/>or,<unclear>a</unclear>ll in <unclear>a</unclear>ll,<unclear>s</unclear>he h<unclear>a</unclear><del>d</del>s do<unclear>n</unclear>e</l>
+                     <lb/><l><gap quantity="1" unit="char" reason="illegible"/>or,<unclear>a</unclear>ll in <unclear>a</unclear>ll,<unclear>s</unclear>he h<unclear>a</unclear><subst><del rend="overtyped">d</del><add place="superimposed">s</add></subst> do<unclear>n</unclear>e</l>
                      <lb/><l>(<gap quantity="1" unit="char" reason="illegible"/>ur ugly looks are our <unclear>d</unclear>eed)</l>
                      <lb/><space quantity="4" unit="char"/><l>The handsome by us.</l>
                   </lg>
