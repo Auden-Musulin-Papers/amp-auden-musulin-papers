@@ -118,6 +118,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-03">container structure updated</change>
          <change who="smayer tfruehwirth" when="2024-01-02">entities updated, events created</change>
+         <change who="smayer tfruehwirth" when="2024-06-18">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -146,7 +147,7 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_2">Die Ba<unclear>r</unclear>onin<lb/>
                   Stella Musulin</rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11"><hi rend="underline">1030</hi> Wien <del>IV</del><lb/>
+                     <rs type="place" ref="#amp_place_id_11"><hi rend="underline">1030</hi> Wien <del rend="overstrike">IV</del><lb/>
                      Neulingasse 26</rs>
                   </address>
                </ab>
