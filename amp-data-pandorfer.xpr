@@ -1457,11 +1457,51 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>data/editions/amp-transcript__0003.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>schema - correspondence</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>Validation_scenario</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>data/editions/amp-transcript__0004.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
                                         <String>schema - correspondence</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>Validation_scenario</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>data/editions/amp-transcript__0028.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>schema - prose</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1502,6 +1542,26 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>schema - correspondence</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>Validation_scenario</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>data/editions/amp-transcript__0062.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>schema - prose</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1562,46 +1622,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>schema - correspondence</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>Validation_scenario</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>data/editions/amp-transcript__0062.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>schema - prose</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>Validation_scenario</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>data/editions/amp-transcript__0028.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>schema - prose</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
