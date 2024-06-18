@@ -17,9 +17,9 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0039,edition_title,,"amp_event_id_72, amp_event_id_73, amp_event_id_104","DONE: TEI formalization of interp re ""German friend""(ana_009, ph_009) and interp re Epithalamium dedication (ana_022, ph_022); inter re Musulin's reworking of translation (ana_046, ph_046)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done,"TODO: rev, Trema, Umlauts"
 0003,edition_title,"TODO: research Amerikahaus event","DONE: amp_event_id_74, amp_event_id_75",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
 0004,edition_title,"TODO: ""one-whose-name-we-never-mention"", ""friend of mine who teaches schyzophrenics"", ""seventeen year old girl""","DONE: amp_event_id_76, amp_event_id_77, amp_event_id_86","DONE: interp re ""Harrison"" (ana_010, ph_010)","DONE: xml:lang",,revision_desc,done,done,done,`italic`,done,done,done,done,done
-0005,edition_title,,"DONE: amp_event_id_1",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0006,edition_title,"TODO: ""Wandl"", name of Strobl husband","DONE: amp_event_id_10, amp_event_id_82","DONE: TEI formalization of interp re ""Wandl"" (ana_011, ph_011)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,done
-0042,edition_title,,"DONE: amp_event_id_78",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
+0005,edition_title,,"DONE: amp_event_id_1",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0006,edition_title,"TODO: ""Wandl"", name of Strobl husband","DONE: amp_event_id_10, amp_event_id_82","DONE: TEI formalization of interp re ""Wandl"" (ana_011, ph_011)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,done,done
+0042,edition_title,,"DONE: amp_event_id_78",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
 0007,edition_title,,"DONE: amp_event_id_79, amp_event_id_80, amp_event_id_81, amp_event_id_83",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
 0008,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
 0009,edition_title,"TODO: check Otto Hoffmann and Schweighofer address","DONE: amp_event_id_87, amp_event_id_88, amp_event_id_89","DONE: comment Czech refugees (ana_012, ph_012); partly TEI formalization","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done
