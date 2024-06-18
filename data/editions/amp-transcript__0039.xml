@@ -246,22 +246,22 @@ for any purpose, even commercially.</p>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Yes,yes,it has to be said:</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Men of great damage</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>And malengine took you up.</l>
-                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Did they for long,though,</l>
-                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Take you in,who to <rs type="person" ref="#amp_person_196">Goebbel<del rend="overtyped">l</del>s</rs>'</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l xml:id="rev1_1">Did they for long,though,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l xml:id="rev1_2">Take you in,who to <rs type="person" ref="#amp_person_196">Goebbel<del rend="overtyped">l</del>s</rs>'</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Offer of culture</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Countered <hi rend="underline"><foreign xml:lang="de">In Ruah lassen</foreign></hi>!?</l>
-                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>But Rag,Tag,Bobtail</l>
-                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Prefer a stink,and the young</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l xml:id="rev2_1">But Rag,Tag,Bobtail</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l xml:id="rev2_2">Prefer a stink,and the young</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Condemn you unread.</l>
                   </lg>
                   <lg>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>What,had you ever heard of <space quantity="1" unit="char"/>etc</l>
                   </lg>   
                   <ab hand="#handwritten">
-                     Re<unclear>v .</unclear>
+                     <add place="left" corresp="#rev1_1 #rev1_2">Re<unclear>v .</unclear></add>
                   </ab>
                   <ab hand="#handwritten">
-                     re<unclear>v.</unclear>
+                     <add place="left" corresp="#rev2_1 #rev2_2">re<unclear>v.</unclear></add>
                   </ab>
                </div>
                <div type="letter_message" hand="#handwritten">

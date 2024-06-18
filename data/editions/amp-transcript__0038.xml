@@ -80,6 +80,11 @@ for any purpose, even commercially.</p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
+         <charDecl>
+            <glyph xml:id="uml_a_lc_tt">
+               <desc>lower-case German ä rendered by superimposing typed double-quotation-mark character (") on typed lower-case a</desc>
+            </glyph>
+         </charDecl>
          <listPrefixDef>
             <prefixDef ident="acdh" matchPattern="(.+)" replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
                <p>Edition Documents Prefix</p>
@@ -233,7 +238,7 @@ for any purpose, even commercially.</p>
                   </lg>   
                   <lg>   
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>What,had you ever heard of</l>
-                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l><rs type="person" ref="#amp_person_7">Franz J<unclear>ä</unclear>gerst<unclear>ä</unclear>tter</rs>,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l><rs type="person" ref="#amp_person_7">Franz J<g ref="#uml_a_lc_tt">ä</g>gerst<g ref="#uml_a_lc_tt">ä</g>tter</rs>,</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The <rs type="place" ref="#amp_place_id_22">St.Radegund</rs> peasant</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Who said his lonely</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l><hi rend="underline"><foreign xml:lang="de">Nein</foreign></hi> to the Aryan State</l>
