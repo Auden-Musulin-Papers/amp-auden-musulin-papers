@@ -21,7 +21,7 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0006,edition_title,"TODO: ""Wandl"", name of Strobl husband","DONE: amp_event_id_10, amp_event_id_82","DONE: TEI formalization of interp re ""Wandl"" (ana_011, ph_011)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,done,done
 0042,edition_title,,"DONE: amp_event_id_78",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
 0007,edition_title,,"DONE: amp_event_id_79, amp_event_id_80, amp_event_id_81, amp_event_id_83",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
-0008,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
+0008,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
 0009,edition_title,"TODO: check Otto Hoffmann and Schweighofer address","DONE: amp_event_id_87, amp_event_id_88, amp_event_id_89","DONE: comment Czech refugees (ana_012, ph_012); partly TEI formalization","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done
 0044,edition_title,,"DONE: amp_event_id_90","DONE: @ana=ana_012 for Langers","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
 0010,edition_title,,"DONE: amp_event_id_91","DONE: @ana=ana_012 for Langers","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
