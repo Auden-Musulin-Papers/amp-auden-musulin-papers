@@ -97,6 +97,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-28">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2024-01-08">entities updated, events created</change>
+         <change who="smayer tfruehwirth" when="2024-06-21">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -118,7 +119,7 @@ for any purpose, even commercially.</p>
                         <placeName>
                            <seg hand="#printed">
                               <address>
-                                 <addrLine>from <rs type="person" ref="#amp_person_19">Peter Heyworth</rs><lb/></addrLine>
+                                 <addrLine><hi rend="italic">from</hi> <rs type="person" ref="#amp_person_19">Peter Heyworth</rs><lb/></addrLine>
                                  <rs type="place" ref="#amp_place_id_45">32 BRYANSTON SQUARE <space quantity="1" unit="char"/>LONDON W1 <space quantity="1" unit="char"/>· <space quantity="1" unit="char"/>AMBASSADOR 8906</rs>
                               </address>
                            </seg>
@@ -144,7 +145,7 @@ for any purpose, even commercially.</p>
                   him a note of welcome.
                </p>
                <p>
-                  <rs type="event" ref="#amp_event_id_89">I leave <unclear><del><gap reason="deleted"/></del>to-</unclear>day week for <rs type="place" ref="#amp_place_id_28">Ne<unclear>w</unclear> York</rs></rs>.<lb/>
+                  <rs type="event" ref="#amp_event_id_89">I leave <subst><del rend="overwritten"><gap reason="illegible" unit="char" quantity="2"/></del><add place="superimposed">to</add></subst>-day week for <rs type="place" ref="#amp_place_id_28">Ne<unclear>w</unclear> York</rs></rs>.<lb/>
                   <unclear>A</unclear>ddress. <rs type="place" ref="#amp_place_id_29">77 St Mark's Place. New<lb/>
                   York City. New York 10003.</rs>
                </p>
