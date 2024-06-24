@@ -182,8 +182,8 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Mus<unclear>u</unclear>l<unclear>in</unclear></rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11"><del>W<gap reason="deleted"/>en IV</del> <del>Wien III</del><lb/>
-                     <del>Neuling gasse 26/14</del>.</rs>
+                     <rs type="place" ref="#amp_place_id_11"><del rend="overstrike">W<gap reason="deleted"/>en IV</del> <del>Wien III</del><lb/>
+                     <del rend="overstrike">Neuling gasse 26/14</del>.</rs>
                   </address>
                </ab>
                <ab>
@@ -250,12 +250,12 @@ for any purpose, even commercially.</p>
                   appreciate <rs type="person" ref="#amp_person_35">Bruckner</rs> better than I)<unclear>.</unclear>. <rs type="note" ana="#ana_026">Even odder to<lb/>
                   me is the <rs type="event" ref="#amp_event_id_8">Biedermayer peri<unclear>od,</unclear></rs> No one can<lb/>
                   possibly approv<unclear>e</unclear> of <rs type="person" ref="#amp_person_178">Metternich</rs>'s police state,yet,<lb/>
-                  in a more liberal mil<del>e</del>ieu, could <rs type="person" ref="#amp_person_36">St<unclear>i</unclear>fter</rs>,<lb/>
+                  in a more liberal mil<subst><del rend="overwritten">e</del><add place="superimposed">i</add></subst>eu, could <rs type="person" ref="#amp_person_36">St<unclear>i</unclear>fter</rs>,<lb/>
                   <rs type="person" ref="#amp_person_37">Rai<unclear>m</unclear>und</rs>, <rs type="person" ref="#amp_person_38">Nestroy</rs>, have <unclear>wr</unclear>itten what they did?</rs>
                </p>
                <p>
                   Hope this reaches yo<unclear>u.</unclear> Loo<unclear>k</unclear>ing forw<unclear>ar</unclear>d to se<unclear>e</unclear>ing yo<unclear>u</unclear><lb/>
-                  in Sept<unclear><gap reason="illegible"/></unclear>
+                  in Sept<unclear><gap reason="illegible" unit="char" quantity="1"/></unclear>
               </p> 
               <closer>
                  <salute>love and ad<unclear>m</unclear>irat<unclear>ion</unclear></salute>
