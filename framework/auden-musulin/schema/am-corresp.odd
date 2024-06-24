@@ -67,6 +67,7 @@
           <moduleRef key="linking" include="ab seg"/>
           <moduleRef key="analysis" include="interpGrp interp"/>
           <moduleRef key="certainty" include="certainty respons"/>
+          <moduleRef key="gaiji" include="g glyph charDecl"/>
           
           <elementSpec ident="correspDesc" mode="change">
             <constraintSpec ident="correspDesc" module="header" scheme="schematron">
@@ -728,6 +729,7 @@
                   <valItem ident="overtyped"/>
                   <valItem ident="overstrike"/>
                   <valItem ident="overwritten"/>
+                  <valItem ident="whiteout"/>
                 </valList>
               </attDef>
             </attList>
