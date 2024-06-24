@@ -161,6 +161,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-02">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-11-20">entities updated, event created, interpGrp added</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-06-13">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -192,10 +193,10 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_7"><del>Fridau</del><lb/>
-                     <del>Obergrafendorf</del><lb/>
-                     <del>bei<unclear>.</unclear> S. Pölten</del><lb/>
-                     <del>NÖ</del></rs><lb/>
+                     <rs type="place" ref="#amp_place_id_7"><del rend="overstrike">Fridau</del><lb/>
+                     <del rend="overstrike">Obergrafendorf</del><lb/>
+                     <del rend="overstrike">bei<unclear>.</unclear> S. Pölten</del><lb/>
+                     <del rend="overstrike">NÖ</del></rs><lb/>
                      <rs type="place" ref="#amp_place_id_10">Osterreich</rs>
                   </address>
                </ab>
@@ -211,7 +212,7 @@ for any purpose, even commercially.</p>
                   <address>
                      <rs type="place" ref="#amp_place_id_19">Berlin<unclear>-</unclear>Dahlem<lb/>
                      Hubertusbaderstrasse 43<lb/>
-                     Deut<unclear>s</unclear>c<unclear>h</unclear>land<unclear>·</unclear></rs>
+                     Deut<unclear>s</unclear>c<gap reason="illegible" unit="char" quantity="1"/>land<unclear>·</unclear></rs>
                   </address>
                </ab>
             </div>
@@ -235,7 +236,7 @@ for any purpose, even commercially.</p>
                      Christmas</rs> ,especially since it's a little <foreign xml:lang="de">einsam</foreign> here.<lb/>
                      Am beginning to know some local inhabitants. Oddly enough,<lb/>
                      the ones I can talk to most easily ar from <rs type="place" ref="#amp_place_id_21"><foreign xml:lang="de"><unclear>O</unclear>st-Berlin</foreign></rs><unclear>,</unclear><lb/>
-                     The most awful thi<unclear>ng</unclear> about the <foreign xml:lang="de">Bifk<unclear>e</unclear>s</foreign> is that<lb/>
+                     The most awful thi<unclear>ng</unclear> about the <foreign xml:lang="de">Bifk<subst><del rend="overwritten">i</del><add place="superimposed">e</add></subst>s</foreign> is that<lb/>
                      they are so much nicer under a little <hi rend="underline"><foreign xml:lang="de">Druck</foreign></hi>.<lb/>
                      When they feel their oats they are so apt to become<lb/>
                      uppish.
@@ -251,10 +252,10 @@ for any purpose, even commercially.</p>
                   <p>
                      Torture is the iniquity which utterly bewilders me.<lb/>
                      I know something about the evil in my own heart and<lb/>
-                     <del><gap reason="deleted"/></del><unclear>i</unclear>n the <unclear>s</unclear>o<unclear>r</unclear>t of people I <del>know</del>meet, but I cannot conceive of myself<lb/>
+                     <subst><del rend="overstrike"><gap reason="illegible" unit="char" atLeast="2" atMost="3"/></del><add place="above"><unclear>i</unclear>n</add></subst> the <add place="above"><unclear>s</unclear>o<unclear>r</unclear>t of</add> people I <subst><del rend="overstrike">know</del><add place="above">meet</add></subst>, but I cannot conceive of myself<lb/>
                      or them torturing anybody. <rs type="note" ana="#ana_023">Where do the torturers<lb/>
                      come from? What class? Whom do they marry?<lb/>
-                     <del>Have you ever met one<unclear>?</unclear></del> To what pubs do they go?</rs>
+                     <del rend="overstrike">Have you ever met one<unclear>?</unclear></del> To what pubs do they go?</rs>
                   </p>
                   <closer>
                      <salute>much love and best wishes for 1<unclear>9</unclear>65</salute>

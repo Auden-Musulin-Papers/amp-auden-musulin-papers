@@ -109,6 +109,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-08-03">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-12-01">entities updated, events created</change>
+         <change who="smayer tfruehwirth" when="2024-06-17">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -155,7 +156,7 @@ for any purpose, even commercially.</p>
                   26/14</rs><lb/>
                   27.9.<lb/>
                   beigefügter Brief<lb/>
-                  schlamp<unclear>e</unclear>rte <rs type="org" ref="#amp_organization_40">Post</rs><lb/>
+                  schlamp<unclear><subst><del rend="overwritten"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed">e</add></subst></unclear>rte <rs type="org" ref="#amp_organization_40">Post</rs><lb/>
                   feste Adresse
                </ab>
                <ab xml:lang="de">
@@ -201,7 +202,7 @@ for any purpose, even commercially.</p>
                   to <rs type="place" ref="#amp_place_id_1">Vienna</rs> this week. Will you be there <rs type="event" ref="#amp_event_id_75">next<lb/>
                   T<unclear>u</unclear>esday? I have to go to a reception at<lb/>
                   <rs type="place" ref="#amp_place_id_27">Amerika Haus</rs> 6-8</rs>. If you were free,it<lb/>
-                  woul<unclear>d</unclear> be fun t<unclear>o</unclear> have dinner to-gether. I<lb/>
+                  woul<unclear>d</unclear> be fun t<gap reason="illegible" unit="char" atLeast="1" atMost="2"/> have dinner to-gether. I<lb/>
                   certainly shan't stay at the do after <unclear>7</unclear>·30.
                </p>
                <p>

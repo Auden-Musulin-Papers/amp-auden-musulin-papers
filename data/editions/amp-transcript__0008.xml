@@ -113,6 +113,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-03">container structure updated</change>
          <change who="smayer tfruehwirth" when="2024-01-02">entities updated</change>
+         <change who="smayer tfruehwirth" when="2024-06-18">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -145,7 +146,7 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_2">Die Baroninin<lb/>
                   Stella Musulin</rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11"><del>Vi</del> Wien I<del>V</del>II<lb/>
+                     <rs type="place" ref="#amp_place_id_11"><del rend="overstrike">Vi</del> Wien I<subst><del rend="overwritten">V</del><add place="superimposed">II</add></subst><lb/>
                      Neulinggasse 26<lb/>
                      <foreign xml:lang="en">Au<hi rend="underline">str</hi>ia</foreign></rs>
                   </address>
@@ -156,7 +157,7 @@ for any purpose, even commercially.</p>
                   ℅ <rs type="person" ref="#amp_person_19">Heyworth</rs><lb/>
                   <address>
                      <rs type="place" ref="#amp_place_id_45">32 Bryanston Sq<unclear>u</unclear>are<lb/>
-                     London. <del><unclear>N.,</unclear></del> W.I<lb/>
+                     London. <del rend="overstrike"><unclear>N.,</unclear></del> W.I<lb/>
                      England</rs>
                   </address>
                </ab>
@@ -177,8 +178,8 @@ for any purpose, even commercially.</p>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs><unclear>.</unclear></salute>
                   </opener>
                <p>
-                  Like an idiot<unclear>,</unclear> I<unclear>v</unclear>e<del><gap reason="deleted"/></del> gone and<lb/>
-                  left my American Dr<del><gap reason="deleted"/></del>iving Licence<lb/>
+                  Like an idiot<unclear>,</unclear> I<unclear>v</unclear>e<del rend="overstrike"><gap reason="illegible" unit="char" atLeast="1" atMost="2"/></del> gone and<lb/>
+                  left my American Dr<subst><del rend="overstrike"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed">i</add></subst>ving Licence<lb/>
                   <rs type="place" ref="#amp_place_id_2">behind</rs>.
                </p>
                <p>   

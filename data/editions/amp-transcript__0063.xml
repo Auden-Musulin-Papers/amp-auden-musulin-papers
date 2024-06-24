@@ -98,6 +98,7 @@
             <change who="dgrigoriou smayer tfruehwirth" when="2023-07-05">transcription collated</change>
             <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
             <change who="dgrigoriou smayer tfruehwirth" when="2023-11-17">entities updated, internal events created, @ana added</change>
+            <change who="dgrigoriou smayer tfruehwirth" when="2024-06-13">revision markup updated</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -144,7 +145,7 @@
                                 an mich erinnert <unclear>_</unclear> vor drei, vier Jahren<lb/>
                                 habe ich Sie im <rs type="place" ref="#amp_place_id_301">Caféhaus "<unclear>D</unclear>rei viertel"</rs><lb/>
                                 "<foreign xml:lang="en">interviewed</foreign>"; und doch möchte ich mich<lb/>
-                                für die Freude, die <del>sich</del> Sie mir heute gemacht<lb/>
+                                für die Freude, die <del rend="overstrike">sich</del> Sie mir heute gemacht<lb/>
                                 haben, bedanken.    
                             </p>
                             <p>
@@ -158,11 +159,11 @@
                                 anerkennende Worte über Ihre Dichtung<lb/>
                                 gesprochen hat. Wenn Sie erlauben: auch<lb/>
                                 Ihr Wesen, und die Art, wie Sie vorlesen,<lb/>
-                                <del><gap reason="deleted"/></del>sind ihm sehr sympathisch .
+                                si<subst><del rend="overwritten"><gap reason="illegibe" unit="char" atLeast="1" atMost="2"/>t</del><add place="superimposed">nd</add></subst> ihm sehr sympathisch .
                             </p>
                             <p>
                                 Sein Freund und Mitarbeiter <rs type="person" ref="#amp_person_4">Chester<lb/>
-                                Kallman</rs>, war auch da<unclear><del>r</del></unclear>. Er ist ebenfalls<lb/>
+                                Kallman</rs>, war auch da<unclear><del rend="overstrike">r</del></unclear>. Er ist ebenfalls<lb/>
                                 Dichter, vor allem Librettist (<rs type="person" ref="#amp_person_25">Stravinsky</rs>,<lb/>
                                 <rs type="person" ref="#amp_person_79">Henze</rs>, <rs type="person" ref="#amp_person_115">Brecht</rs> u.s.w.) Er versteht zu wenig<lb/>
                                 Deutsch, es hat mich aber interessiert,
@@ -175,7 +176,7 @@
                                 Ohren hat<unclear>,</unclear> oft überhört .
                             </p>
                             <p>
-                                Übrigens: warum wohl niemand <del>die</del>nach den<lb/>
+                                Übrigens: warum wohl niemand <subst><del rend="overstrike">die</del><add place="inline">nachden</add></subst><lb/>
                                 <rs type="lit_work" ref="#lit_work_id_156">"Hinterhöfen"</rs> applaudiert hat? Eins Ihrer<lb/>
                                 <unclear>S</unclear>chönsten Gedichten<unclear>,</unclear> hat es etwas<lb/>
                                 (ärgern Sie sich nicht) <rs type="person" ref="#amp_person_42">Hofmannsthal</rs>sches<lb/>
@@ -192,7 +193,7 @@
                             <closer>
                                 <salute>
                                     Mit herzlichen Grüssen und<lb/>
-                                    besten Wü<unclear><del>s</del>n</unclear>schen<lb/>
+                                    besten Wü<subst><del rend="overwritten"><gap reason="illegibe" unit="char" atLeast="1" atMost="2"/></del><add place="superimposed">n</add></subst>schen<lb/>
                                     Ihre
                                 </salute>
                                 <signed><rs type="person" ref="#amp_person_2">Stella Musulin</rs> .</signed>

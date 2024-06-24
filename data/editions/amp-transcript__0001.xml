@@ -120,6 +120,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-01">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-11-17">entities updated, event created, interpGrp added</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-06-13">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -144,10 +145,10 @@ for any purpose, even commercially.</p>
                <ab><rs type="person" ref="#amp_person_4"><unclear>Ch</unclear>ester</rs> in <rs type="place" ref="#amp_place_id_14">Florence</rs><unclear>.</unclear></ab>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Ba<unclear>ron</unclear>in<lb/>
-                  Stella M<unclear>eu</unclear>ss<unclear>u</unclear>lin</rs><lb/>
+                  Stella M<gap reason="illegible" unit="char" atLeast="1" atMost="2"/>s<gap reason="illegible" unit="char" quantity="2"/>lin</rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11"><del>Wien III</del><lb/>
-                     <del>Neulinggasse 26</del></rs>
+                     <rs type="place" ref="#amp_place_id_11"><del rend="overstrike">Wien III</del><lb/>
+                     <del rend="overstrike">Neulinggasse 26</del></rs>
                   </address>   
                </ab>
                <ab xml:lang="de">
@@ -192,7 +193,7 @@ for any purpose, even commercially.</p>
                      Delighted to hear you are <rs type="place" ref="#amp_place_id_11"><foreign xml:lang="de">zu Haus</foreign></rs>.<lb/>
                      No, I d<unclear>i</unclear>dnt get any letter from you. <unclear>Pe</unclear>rhaps<lb/>
                      it is in the <unclear>.</unclear><rs type="place" ref="#amp_place_id_15">U.S.</rs><unclear>,</unclear> <rs type="event" ref="#amp_event_id_69" ana="#ana_006">I shall be in <rs type="place" ref="#amp_place_id_1">Vienna</rs> this<lb/>
-                     coming week on Monday, <del>T<unclear>hur</unclear></del> Wednesday and Friday</rs>.<lb/>
+                     coming week on Monday, <del rend="overstrike">T<unclear>hur</unclear></del> Wednesday and Friday</rs>.<lb/>
                      <rs type="event" ref="#amp_event_id_71">Wi<unclear>ll</unclear> try to call you to-mo<unclear>rrow</unclear></rs> to arrange<lb/>
                      a meeting.
                   </p>

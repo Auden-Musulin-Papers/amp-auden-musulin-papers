@@ -113,6 +113,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-08">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2024-01-08">entities updated, events created</change>
+         <change who="smayer tfruehwirth" when="2024-06-21">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -153,7 +154,7 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">Wien <del>IV .</del><lb/>
+                     <rs type="place" ref="#amp_place_id_11">Wien <del rend="overstrike">IV .</del><lb/>
                      Neulin<unclear>g</unclear>gasse 26/14<lb/>
                      <foreign xml:lang="en">Austria</foreign></rs>
                   </address>
@@ -178,7 +179,7 @@ for any purpose, even commercially.</p>
                               <rs type="place" ref="#amp_place_id_29">7 St Mark's Place<lb/>
                               New York City<lb/>
                               N.Y. 10003<lb/>
-                              <del><gap reason="deleted"/></del></rs>
+                              <del rend="overstrike"><gap reason="illegible" unit="char" quantity="1"/></del></rs>
                            </address>
                         </placeName>
                      </dateline>
@@ -195,7 +196,7 @@ for any purpose, even commercially.</p>
                   </p>
                   <p>
                      <rs type="person" ref="#amp_person_4">Chester</rs> is going to <rs type="place" ref="#amp_place_id_1">Vienna</rs>,but he was too<lb/>
-                     upset for <del><gap reason="deleted"/></del><unclear>m</unclear>e to find out where he would<lb/>
+                     upset for <subst><del rend="overwritten"><gap reason="illegible" unit="char" atLeast="1" atMost="2"/></del><add place="superimposed"><unclear>m</unclear></add></subst>e to find out where he would<lb/>
                      stay. I presume in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>.
                   </p>
                   <p>

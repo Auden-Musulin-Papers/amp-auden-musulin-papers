@@ -108,6 +108,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-03-16">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2024-01-09">entities updated, events created</change>
+         <change who="smayer tfruehwirth" when="2024-06-21">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -184,12 +185,12 @@ for any purpose, even commercially.</p>
                      by phone,but w<unclear>ithou</unclear>t succ<unclear>e</unclear>ss</rs>  
                   </p>
                   <p>
-                     <rs type="event" ref="#amp_event_id_22" ana="acdh:amp-transcript__0053.xml#ana_024">Wed<unclear>n</unclear>esday <del>lunch</del> May 28th is fine<lb/>
+                     <rs type="event" ref="#amp_event_id_22" ana="acdh:amp-transcript__0053.xml#ana_024">Wed<unclear>n</unclear>esday <del rend="overstrike">lunch</del> May 28th is fine<lb/>
                      for <rs type="person" ref="#amp_person_1 #amp_person_4">us</rs>,and we shall much look<lb/>
                      forward to seeing you <rs type="person" ref="#amp_person_2 #amp_person_54">both</rs></rs><unclear>-</unclear>
                   </p>
                   <p>
-                     <del>H</del> Longing to hear about the<lb/>
+                     <del rend="overstrike"><gap reason="illegible" unit="char" atLeast="1" atMost="2"/></del> Longing to hear about the<lb/>
                      <rs type="event" ref="#amp_event_id_7">Royal v<unclear>s</unclear>it</rs>.<lb/>
                   </p>
                   <closer>

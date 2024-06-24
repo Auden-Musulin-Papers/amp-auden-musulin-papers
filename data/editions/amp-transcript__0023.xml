@@ -104,6 +104,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-11-17">entities updated, internal events created</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-06-13">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -127,7 +128,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0121/" type="envelope" ed="1r"/>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  Stella Mus<del><gap reason="deleted"/></del><unclear>s</unclear>ulin</rs><lb/>
+                  Stella Mus<gap reason="illegible" unit="char" quantity="1"/>ulin</rs><lb/>
                   <address> 
                      <rs type="place" ref="#amp_place_id_7">Fridau<lb/>
                      <unclear>O</unclear>bergrabendorf,<lb/>
@@ -171,7 +172,7 @@ for any purpose, even commercially.</p>
                   <p>
                      If in <rs type="place" ref="#amp_place_id_7">Fridau</rs>,<rs type="person" ref="#amp_person_1 #amp_person_4">we</rs> would love to<lb/>
                      see you. Am <rs type="event" ref="#amp_event_id_16">expecting <rs type="person" ref="#amp_person_3">Christiane<lb/>
-                     Zimmer</rs></rs> <rs type="place" ref="#amp_place_id_2">here</rs> about <del><gap reason="deleted"/></del> August 5th.
+                     Zimmer</rs></rs> <rs type="place" ref="#amp_place_id_2">here</rs> about <del rend="overstrike"><gap reason="illegible" unit="char" atLeast="2" atMost="3"/></del> August 5th.
                   </p>
                  <closer>
                     <signed><rs type="person" ref="#amp_person_1">Wystan</rs></signed>

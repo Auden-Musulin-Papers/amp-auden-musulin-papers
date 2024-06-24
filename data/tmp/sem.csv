@@ -1,4 +1,4 @@
-document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_comment,translation,Wikipedia,revision_desc,consistent_solutions,page_number,intertext,schema,prefix,"`@rend=""italic""`",bibl,app-issues,rev
+document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_comment,translation,Wikipedia,revision_desc,consistent_solutions,page_number,intertext,schema,prefix,"`@rend=""italic""`",bibl,app-issues,rev,trema
 0070,edition_title,"TODO: clarify ""fracty""",amp_event_id_61,"DONE: ""the wrong Kirchstetten"" (amp_place_id_314, ana_001, ph_001); interp re fracty (ana_050, ph_050)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
 0045,edition_title,,"DONE: amp_event_id_62, amp_event_id_63",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,none,done
 0058,edition_title,,"DONE: amp_event_id_64","DONE: ""yourPlace"" (amp_place_id_315, ana_003, ph_003); origDate (ana_002, ph_002)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done,done
@@ -6,30 +6,30 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0022,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
 0021,edition_title,,"DONE: amp_event_id_65",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
 0071,edition_title,,,"DONE: origDate (ana_005, ph_005); @ana=ana_003 for origPlace","DONE: xml:lang",,revision_desc,done,done,no_intertext,`italic`,done,done,done,done,none
-0059,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0063,edition_title,"TODO: ""heute Abend"" reading of Christine Busta","DONE: amp_event_id_67","DONE: @ana=ana_003 for origPlace","DONE: xml:lang",,revision_desc,done,done,no_intertext,`italic`,done,done,done,done
-0023,edition_title,,"DONE: amp_event_id_16",,"DONE: xml:lang","DONE: link to Auden in Zimmer Wikidata, include Auden in de Wikipedia",revision_desc,done,done,no_intertext,done,done,none,none,none
-0024,edition_title,,"DONE: amp_event_id_68",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0025,edition_title,,"DONE: amp_event_id_17",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0001,edition_title,,"DONE: amp_event_id_71, amp_event_id_84","DONE: ""be in Vienna this coming week ..."" (ana_006, ph_006)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done
-0002,edition_title,,amp_event_id_70,"DONE: reference to previous letter by Musulin (ana_007, ph_007); intertext 0002/0038 (ana_023, ph_023); identification Elsa Musulin's handwriting (ana_027, ph_027)","DONE: xml:lang",,revision_desc,done,done,done,done,done,none,done,done
-0038,edition_title,,amp_event_id_85,"DONE: comment on Gemeindepflicht (ana_008, ph_008); intertext 0002/0038 link to ana_023","DONE: xml:lang",,revision_desc,done,done,done,`rs@type=note`,done,none,done,done
-0039,edition_title,,"amp_event_id_72, amp_event_id_73, amp_event_id_104","DONE: TEI formalization of interp re ""German friend""(ana_009, ph_009) and interp re Epithalamium dedication (ana_022, ph_022); inter re Musulin's reworking of translation (ana_046, ph_046)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done
-0003,edition_title,"TODO: research Amerikahaus event","DONE: amp_event_id_74, amp_event_id_75",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0004,edition_title,"TODO: ""one-whose-name-we-never-mention"", ""friend of mine who teaches schyzophrenics"", ""seventeen year old girl""","DONE: amp_event_id_76, amp_event_id_77, amp_event_id_86","DONE: interp re ""Harrison"" (ana_010, ph_010)","DONE: xml:lang",,revision_desc,done,done,done,`italic`,done,done,done,done
-0005,edition_title,,"DONE: amp_event_id_1",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0006,edition_title,"TODO: ""Wandl"", name of Strobl husband","DONE: amp_event_id_10, amp_event_id_82","DONE: TEI formalization of interp re ""Wandl"" (ana_011, ph_011)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,done
-0042,edition_title,,"DONE: amp_event_id_78",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0007,edition_title,,"DONE: amp_event_id_79, amp_event_id_80, amp_event_id_81, amp_event_id_83",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0008,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0009,edition_title,"TODO: check Otto Hoffmann and Schweighofer address","DONE: amp_event_id_87, amp_event_id_88, amp_event_id_89","DONE: comment Czech refugees (ana_012, ph_012); partly TEI formalization","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done
-0044,edition_title,,"DONE: amp_event_id_90","DONE: @ana=ana_012 for Langers","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0010,edition_title,,"DONE: amp_event_id_91","DONE: @ana=ana_012 for Langers","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0011,edition_title,,"DONE: amp_event_id_92",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0012,edition_title,,,"DONE: TEI formalization of interp re ""my lawyer"" (ana_013, ph_013)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done
-0013,edition_title,"TODO: find more personal info on Redlich","DONE: amp_event_id_93",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0014,edition_title,,"DONE: amp_event_id_94, amp_event_id_95","DONE: @ana=ana_024 for photos on Heer visit","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,done
-0053,edition_title,,,"DONE: TEI formalization of interp (1) re ""Liebling"" (ana_014, ph_014) and (2) re ""T."" (ana_015, ph_015) and (3) re ""Schaumpon"" (ana_016, ph_016) and (4) re ""Schönbrunn"" and ""Fledermaus"" (ana_020, ph_020) and (5) re ""draussen"" (ana_021, ph_021) and (6) re photos relating to Heer visit (ana_024, ph_024), (7) re translation of letter part in doc 0062 (ana_037, ph_037)","DONE: xml:lang",,revision_desc,done,done,no_intertext,"`ref` with multiple @target URIs; `italic`",done,`italic`,done,done
+0059,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0063,edition_title,"TODO: ""heute Abend"" reading of Christine Busta","DONE: amp_event_id_67","DONE: @ana=ana_003 for origPlace","DONE: xml:lang",,revision_desc,done,done,no_intertext,`italic`,done,done,done,done,done
+0023,edition_title,,"DONE: amp_event_id_16",,"DONE: xml:lang","DONE: link to Auden in Zimmer Wikidata, include Auden in de Wikipedia",revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0024,edition_title,,"DONE: amp_event_id_68",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0025,edition_title,,"DONE: amp_event_id_17",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,none
+0001,edition_title,,"DONE: amp_event_id_71, amp_event_id_84","DONE: ""be in Vienna this coming week ..."" (ana_006, ph_006)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done,done
+0002,edition_title,,amp_event_id_70,"DONE: reference to previous letter by Musulin (ana_007, ph_007); intertext 0002/0038 (ana_023, ph_023); identification Elsa Musulin's handwriting (ana_027, ph_027)","DONE: xml:lang",,revision_desc,done,done,done,done,done,none,done,done,done
+0038,edition_title,,amp_event_id_85,"DONE: comment on Gemeindepflicht (ana_008, ph_008); intertext 0002/0038 link to ana_023","DONE: xml:lang",,revision_desc,done,done,done,`rs@type=note`,done,none,done,done,"TODO: Umlauts"
+0039,edition_title,,"amp_event_id_72, amp_event_id_73, amp_event_id_104","DONE: TEI formalization of interp re ""German friend""(ana_009, ph_009) and interp re Epithalamium dedication (ana_022, ph_022); inter re Musulin's reworking of translation (ana_046, ph_046)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done,"TODO: rev, Trema, Umlauts"
+0003,edition_title,"TODO: research Amerikahaus event","DONE: amp_event_id_74, amp_event_id_75",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0004,edition_title,"TODO: ""one-whose-name-we-never-mention"", ""friend of mine who teaches schyzophrenics"", ""seventeen year old girl""","DONE: amp_event_id_76, amp_event_id_77, amp_event_id_86","DONE: interp re ""Harrison"" (ana_010, ph_010)","DONE: xml:lang",,revision_desc,done,done,done,`italic`,done,done,done,done,done
+0005,edition_title,,"DONE: amp_event_id_1",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0006,edition_title,"TODO: ""Wandl"", name of Strobl husband","DONE: amp_event_id_10, amp_event_id_82","DONE: TEI formalization of interp re ""Wandl"" (ana_011, ph_011)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,done,done
+0042,edition_title,,"DONE: amp_event_id_78",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0007,edition_title,,"DONE: amp_event_id_79, amp_event_id_80, amp_event_id_81, amp_event_id_83",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0008,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0009,edition_title,"TODO: check Otto Hoffmann and Schweighofer address","DONE: amp_event_id_87, amp_event_id_88, amp_event_id_89","DONE: comment Czech refugees (ana_012, ph_012); partly TEI formalization","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done,done
+0044,edition_title,,"DONE: amp_event_id_90","DONE: @ana=ana_012 for Langers","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0010,edition_title,,"DONE: amp_event_id_91","DONE: @ana=ana_012 for Langers","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0011,edition_title,,"DONE: amp_event_id_92",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0012,edition_title,,,"DONE: TEI formalization of interp re ""my lawyer"" (ana_013, ph_013)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done,done
+0013,edition_title,"TODO: find more personal info on Redlich","DONE: amp_event_id_93",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0014,edition_title,,"DONE: amp_event_id_94, amp_event_id_95","DONE: @ana=ana_024 for photos on Heer visit","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,done,done
+0053,edition_title,,,"DONE: TEI formalization of interp (1) re ""Liebling"" (ana_014, ph_014) and (2) re ""T."" (ana_015, ph_015) and (3) re ""Schaumpon"" (ana_016, ph_016) and (4) re ""Schönbrunn"" and ""Fledermaus"" (ana_020, ph_020) and (5) re ""draussen"" (ana_021, ph_021) and (6) re photos relating to Heer visit (ana_024, ph_024), (7) re translation of letter part in doc 0062 (ana_037, ph_037)","DONE: xml:lang",,revision_desc,done,done,no_intertext,"`ref` with multiple @target URIs; `italic`",done,`italic`,done,done,done
 0040,edition_title,,"DONE: amp_event_id_97",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
 0043,edition_title,,,"DONE: interp re Musulin's translation of speech (ana_025, ph_025)","DONE: xml:lang","DONE: create Wikidata on Lyrik 70",revision_desc,done,done,done,`@rend="italic"`,done,done,done,done
 0015,edition_title,,"DONE: amp_event_id_98","DONE: link to ana_025","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
@@ -37,7 +37,7 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0016,edition_title,,"DONE: amp_event_id_99","DONE: interp re link to photos of Margaret and Auden as in doc0053 (ana_034, ph_034)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
 0035,edition_title,,"DONE: amp_event_id_100","DONE: @ana=ana_003 for Musulin place","DONE: xml:lang",,revision_desc,done,done,no_intertext,"TODO: preprinted correspondence schema",done,none,none,none
 0017,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
-0018,edition_title,,"DONE: amp_event_id_101",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none
+0018,edition_title,,"DONE: amp_event_id_101",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
 0019,edition_title,,"DONE: amp_event_id_102","DONE: interp plus formalization re dates of event_id_43 (ana_018, ph_018)","DONE: xml:lang","DONE: update Auden wikipedia article re relocation",revision_desc,done,done,no_intertext,`@rend="italic"`,done,done,done,done
 0020,edition_title,,,,"DONE: xml:lang","DONE: update Auden Wikipedia article re Altenburgerhof and Palais Pálffy",revision_desc,done,done,no_intertext,done,done,none,none,none
 0061,edition_title,,,,,,done,,,,,,,,"TODO: `space` before `date`"
@@ -55,4 +55,4 @@ document_id,edition_title,entities_to_check,internal_evidence,interp_nanopub_com
 0051,edition_title,,,,,,,,,,,,,,TODO
 0049,edition_title,,,,,,,,,,,,,,TODO
 0052,edition_title,,,"DONE: reuse ana_034, reuse ana_031",,,,,,,,,,,TODO
-0028,edition_title,"TODO: letter Kallman Presse; artist neighbor",,"DONE: interp re reference to 1976 text (ana_047, ph_047); reuse of ana_043; interp re 'nobleman' (ana_048, ph_048); interp re LIFE feature (ana_049, ph_049)",,,,,,,,,,,TODO
+0028,edition_title,"TODO: artist neighbor",,"DONE: interp re reference to 1976 text (ana_047, ph_047); reuse of ana_043; interp re 'nobleman' (ana_048, ph_048); interp re LIFE feature (ana_049, ph_049)",,,,,,,,,,,TODO

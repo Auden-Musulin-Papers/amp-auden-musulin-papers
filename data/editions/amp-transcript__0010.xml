@@ -104,6 +104,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-04">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2024-01-08">entities updated, events created</change>
+         <change who="smayer tfruehwirth" when="2024-06-21">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -170,7 +171,7 @@ for any purpose, even commercially.</p>
                   </opener>
                   <p>
                      Many thanks for <rs type="event" ref="#amp_event_id_91">your letter</rs>. <rs type="note" ana="acdh:amp-transcript__0009.xml#ana_012">Of course,<lb/>
-                     selfishly, I'm rather reli<unclear><del>v</del></unclear>eved. How horrid<lb/>
+                        selfishly, I'm rather reli<subst><del rend="overwritten"><unclear>v</unclear></del><add place="superimposed">e</add></subst>ved. How horrid<lb/>
                      one is !</rs>
                   </p>
                   <p>
