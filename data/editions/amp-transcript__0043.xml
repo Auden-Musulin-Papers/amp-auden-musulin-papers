@@ -90,6 +90,11 @@ for any purpose, even commercially.</p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
+         <charDecl>
+            <glyph xml:id="uml_a_lc_tt">
+               <desc>lower-case German ä rendered by superimposing typed double-quotation-mark character (") on typed lower-case a</desc>
+            </glyph>
+         </charDecl>
          <listPrefixDef>
             <prefixDef ident="acdh" matchPattern="(.+)" replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
                <p>Edition Documents Prefix</p>
@@ -182,7 +187,7 @@ for any purpose, even commercially.</p>
                         </date>
                      </dateline>
                      <salute>
-                        Dear <rs type="person" ref="#amp_person_2">S<del><unclear>e</unclear></del>tella</rs><unclear>·</unclear><lb/>
+                        Dear <rs type="person" ref="#amp_person_2">S<subst><del rend="overwritten"><unclear>e</unclear></del><add place="superimposed">t</add></subst>ella</rs><unclear>·</unclear><lb/>
                      </salute>
                   </opener>
                   <p>
@@ -196,7 +201,7 @@ for any purpose, even commercially.</p>
                   </p>
                   <p>
                      I hope there is an equivalent German euphemism<lb/>
-                     for <unclear>"t</unclear>e Senior Citizen."<unclear>,</unclear>
+                     for <unclear>"</unclear><add place="above"><unclear>t</unclear>e</add> Senior Citizen."<unclear>,</unclear>
                   </p>
                   <p>
                      If there is a special honary title of adress<lb/>
@@ -213,7 +218,7 @@ for any purpose, even commercially.</p>
                   <postscript>
                      <p>
                         P<unclear>_</unclear>S. <hi rend="underline">Adit</hi>= <hi rend="underline"><foreign xml:lang="de">Stollen</foreign></hi>.<lb/>
-                        <hi rend="underline">Concentrating Mill</hi> is,I <del>suspec</del>t<unclear>G</unclear>uess, though I <unclear>ma</unclear>y<lb/>
+                        <hi rend="underline">Concentrating Mill</hi> is,I <subst><del rend="overstrike">suspec</del><add place="above"><unclear>G</unclear>uess</add></subst>t, though I <unclear>ma</unclear>y<lb/>
                         be wrong , <hi rend="underline"><foreign xml:lang="de">Vereinigungmühle</foreign></hi> <unclear>.</unclear>
                      </p>
                   </postscript>
@@ -225,33 +230,33 @@ for any purpose, even commercially.</p>
                      (<unclear>1</unclear>
                   </fw>
                   <ab xml:lang="de">
-                     <space quantity="17" unit="char"/>Sehr vee<del>rh</del>hrter <rs type="person" ref="#amp_person_112">Herr Landeshauptman<unclear>n</unclear></rs><unclear>,</unclear> meine Damen und Herren:
+                     <space quantity="17" unit="char"/>Sehr vee<del>rh</del>hrter <rs type="person" ref="#amp_person_112">Herr Landeshauptman<add place="inline"><unclear>n</unclear></add></rs>,meine Damen und Herren:
                   </ab>
                   <p>
                      <space quantity="10" unit="char"/>I hope you will pardon me if I speak somewhat personally. I do so,<lb/>
-                     not out of vanity,but bec<del>ua</del>ause <space quantity="1" unit="char"/>I do <del>j</del>not wish to give the impression that I<lb/>
+                     not out of vanity,but bec<subst><del rend="overtyped">ua</del><add place="superimposed">au</add></subst>se <space quantity="1" unit="char"/>I do <subst><del rend="overtyped">j</del><add place="superimposed">n</add></subst>ot wish to give the impression that I<lb/>
                      am attempting to lay down absolute laws which are valid for all. I give you my<lb/>
-                     experience<unclear>s</unclear> as a poet,in the hope that you will be able to compare the<del>,</del>m with<lb/>
-                     yours<del><unclear>own</unclear></del>,and form your own judgment about them.
+                     experience<unclear>s</unclear> as a poet,in the hope that you will be able to compare the<subst><del rend="overtyped">,</del><add place="superimposed">m</add></subst> with<lb/>
+                     your<add place="inline">s</add><del rend="overtyped">ow<unclear>n</unclear></del>,and form your own judgment about them.
                   </p>
                   <p>
-                     <space quantity="3" unit="char"/>Most of what I <del><unclear>o</unclear></del>know about the writing of poetry,or at least about the kind I<lb/>
-                     am interested in writing,I discovered long before I took any interest in poetry<lb/>
+                     <space quantity="3" unit="char"/>Most of what I <subst><del rend="overtyped"><unclear>o</unclear></del><add place="superimposed">k</add></subst>now about the writing of poetry,or at least about the kind I<lb/>
+                     am interested in writing,I discovered long before I took an<add place="inline">y</add> interest in poetry<lb/>
                      itself.
                   </p>
                   <p>
                      <space quantity="2" unit="char"/>Between the ages of six and twelve,I spent a great many of my waking hours in<lb/>
-                     the fab<del>o</del>rication of a private secondary sacred world,the basic elements of which<lb/>
-                     were <del><del><unclear>at</unclear></del><unclear>O</unclear></del> a) a limestone landscape mainly derived from the <rs type="place" ref="#amp_place_id_41">Pennine Moors in the<lb/>
+                     the fab<del rend="overtyped">o</del>rication of a private secondary sacred world,the basic elements of which<lb/>
+                     were <del rend="overtyped">a<subst><del rend="overtyped"><unclear>t</unclear></del><add place="superimposed"><unclear>O</unclear></add></subst></del> a) a limestone landscape mainly derived from the <rs type="place" ref="#amp_place_id_41">Pennine Moors in the<lb/>
                      North of England</rs> and b) an industry - lead-mining.
                   </p>
                   <p>
                      <space quantity="3" unit="char"/>It is no doubt psychologically significant that my sacred world was autistic -<lb/>
-                     that is to say,I had no wish to share it with others no<del>t</del>r could I have done so.<lb/>
+                     that is to say,I had no wish to share it with others no<subst><del rend="overtyped">t</del><add place="superimposed">r</add></subst> could I have done so.<lb/>
                      However,though constructed for and inhabited by myself alone,I needed the help of<lb/>
                      others,<rs type="person" ref="#amp_person_183 #amp_person_184">my parents</rs> in particular,in collecting its basic materials; others had to<lb/>
-                     procure for me the necessary text-books on geology and machinery,maps,catalog<del>i</del>ues,<lb/>
-                     guide-books and photographs,and,when occasion offered<del>,to</del> ta<del>l</del>ke me down real mines,<lb/>
+                     procure for me the necessary text-books on geology and machinery,maps,catalog<subst><del rend="overtyped">i</del><add place="superimposed">u</add></subst>es,<lb/>
+                     guide-books and photographs,and,when occasion offered<del rend="overstrike">,to</del> ta<subst><del rend="overtyped">l</del><add place="superimposed">k</add></subst>e me down real mines,<lb/>
                      tasks which they performed with unfailing patience and generosity.
                   </p>
                   <p>
@@ -261,47 +266,47 @@ for any purpose, even commercially.</p>
                      encounters,in the Primary World,with sacred beings or events. <space quantity="1" unit="char"/>This feeling of awe<lb/>
                      is an imperative,that is to<unclear>´</unclear> say,one is not free to choose the object or the event<lb/>
                      that arouses it. Though every work of art is a secondary world,it cannot be<lb/>
-                     constructed <hi rend="underline">ex nihilo</hi>,but is a selection from and a recombination of the contents of<lb/>
-                     the Primary World. Even the 'purest' poem,in the French <foreign xml:lang="fr">Symboliste</foreign> sense,is<lb/>
+                     constructed <hi rend="underline">ex nihilo</hi>,but is a selection <add place="above">from</add> and <add place="above">a</add> recombination of the contents of<lb/>
+                     <space quantity="1" unit="char"/>the Primary World. Even the 'purest' poem,in the French <foreign xml:lang="fr">Symboliste</foreign> sense,is<lb/>
                      made of words which are not the poet's private property,but the communal creation<lb/>
                      of the linguistic group to whom he belongs,so that their meaning can be looked up<lb/>
                      in a dictionary.
                   </p>
                   <p>
-                     <space quantity="5" unit="char"/>Secondly,in constructing my private world,I discovere<del>s</del>d that,though this was<lb/>
+                     <space quantity="5" unit="char"/>Secondly,in constructing my private world,I discovere<subst><del rend="overtyped">s</del><add place="superimposed">d</add></subst> that,though this was<lb/>
                      a game,or rather precisely <hi rend="underline">because it was a game</hi> - that is to say,not a necessity<lb/>
                      like eating or sleeping,but something I was free to do or not as I chose - it<lb/>
                      could not be played without rules. Absolute freedom is meaningless: freedom can<lb/>
-                     only be realised in a choice between alternati<del>c</del>ves. A secondary world,be it a poem,<lb/>
+                     only be realised in a choice between alternati<subst><del rend="overtyped">c</del><add place="superimposed">v</add></subst>es. A secondary world,be it a poem,<lb/>
                      or a game of football or bridge,must be as much a world of law as the Primary,the<lb/>
                      only difference being that in the world of games one is free to decide what its<lb/>
                      laws shall be. But to all games as to real life,<rs type="person" ref="#amp_person_11">Goethe</rs>'s lines apply.
                      <seg>
                         <quote source="#lit_work_id_170">
                            <lg xml:lang="de">
-                              <lb/><space quantity="14" unit="char"/><l><hi rend="underline">In der Beschr<unclear>ä</unclear>nkung zeigt sich erst der Meister</hi>,</l>
-                              <lb/><space quantity="14" unit="char"/><l><hi rend="underline">Und d<del>s</del>as Gesetz nur kann uns Freiheit geben.</hi></l>
+                              <lb/><space quantity="14" unit="char"/><l><hi rend="underline">In der Beschr<g ref="#uml_a_lc_tt">ä</g>nkung zeigt sich erst der Meister</hi>,</l>
+                              <lb/><space quantity="14" unit="char"/><l><hi rend="underline">Und d<subst><del rend="overtyped">s</del><add place="superimposed">a</add></subst>s Gesetz nur kann uns Freiheit geben.</hi></l>
                            </lg>
                         </quote>
                      </seg>
                   </p>
                   <p>
-                     <space quantity="3" unit="char"/>As regards my particu<del>al</del>l<unclear>a</unclear>r lead-mining world,I decided,or rather,without conscious<lb/>
+                     <space quantity="3" unit="char"/>As regards my particu<subst><del rend="overtyped">al</del><add place="superimposed">l<unclear>a</unclear></add></subst>r lead-mining world,I decided,or rather,without conscious<lb/>
                      decision I instinctively felt,that I must impose two restrictions upon my freedom<lb/>
                      of fantasy. In choosing what objects were to be included,I was free to select this<lb/>
                      and reject that,on condition that both were real objects in the Primary World,to<lb/>
                      choose,for example,between two kinds of water-turbine,which could be found in a<lb/>
                      text-book <space quantity="1" unit="char"/>on mining machinery or a manufacturer's catalogue: but I was not free<lb/>
-                     to invent one. <space quantity="1" unit="char"/>In deciding how my world was to function,I <del>was </del> could choose between<lb/>
-                     <space quantity="1" unit="char"/>t<del><unclear>e</unclear></del>wo practical possibilit<del>es</del>ies <space quantity="1" unit="char"/>- a mine can be drained either by an adit or a pump -<lb/>
-                     <space quantity="1" unit="char"/>but physic<del><gap reason="deleted"/></del>al impossibili<del>es</del>ties and magic means were forbidden. <del><unclear>T</unclear></del>When I say forbidden,<lb/>
+                     to invent one. <space quantity="1" unit="char"/>In deciding how my world was to function,I <del rend="overtyped">was </del> could choose between<lb/>
+                     <space quantity="1" unit="char"/>t<subst><del rend="overtyped"><unclear>e</unclear></del><add place="superimposed">w</add></subst>o practical possibilit<subst><del rend="overtyped">es</del><add place="superimposed">ie</add></subst>s <space quantity="1" unit="char"/>- a mine can be drained either by an adit or a pump -<lb/>
+                     <space quantity="1" unit="char"/>but physic<unclear>a</unclear>l impossibili<subst><del rend="overtyped">es</del><add place="superimposed">ti</add></subst>es and magic means were forbidden. <subst><del rend="overtyped"><unclear>T</unclear></del><add place="superimposed">W</add></subst>hen I say forbidden,<lb/>
                      <space quantity="1" unit="char"/>I mean that I felt,in some obscure way,that they were morally forbidden. Then there<lb/>
                      <space quantity="1" unit="char"/>came a day when the moral issue became quite conscious. As I was planning my<lb/>
                      <space quantity="1" unit="char"/>Platonic Idea of a concentrating-mill,I ran into difficulties. I had to choose<lb/>
-                     <space quantity="1" unit="char"/>between two types of a cer<del>at</del>tain machine for separating the sli<unclear>m</unclear>es,called a buddle.<lb/>
-                     <space quantity="1" unit="char"/>One type I found more sacred or '<del>beat<del>i</del>uful</del> beautiful',but the other type was,I<lb/>
+                     <space quantity="1" unit="char"/>between two types of a cer<subst><del rend="overwritten">at</del><add place="superimposed">ta</add></subst>in machine for separating the sli<unclear>m</unclear>es,called a buddle.<lb/>
+                     <space quantity="1" unit="char"/>One type I found more sacred or '<del rend="overtyped">beat<subst><del rend="overtyped">i</del><add place="superimposed">u</add></subst>ful</del> beautiful',but the other type was,I<lb/>
                      <space quantity="1" unit="char"/>knew from my reading,the more efficient. At this point I realised that it was my<lb/>
-                     <space quantity="1" unit="char"/>moral duty to sacrifice my <del>aethetic</del> aesthetic preference to reality or truth.
+                     <space quantity="1" unit="char"/>moral duty to sacrifice my <del rend="overtyped">aethetic</del> aesthetic preference to reality or truth.
                   </p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0146/" type="sheet" ed="2v"/>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0147/" type="sheet" ed="3r"/>
