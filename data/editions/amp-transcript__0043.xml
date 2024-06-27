@@ -227,10 +227,12 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0145/" type="sheet" ed="2r"/>
                <div type="prose">
                   <fw type="pageNum" hand="#handwritten">
-                     (<unclear>1</unclear>
+                     <add place="margin">
+                        (<unclear>1</unclear>
+                     </add>
                   </fw>
                   <ab xml:lang="de">
-                     <space quantity="17" unit="char"/>Sehr vee<del>rh</del>hrter <rs type="person" ref="#amp_person_112">Herr Landeshauptman<add place="inline"><unclear>n</unclear></add></rs>,meine Damen und Herren:
+                     <space quantity="17" unit="char"/>Sehr vee<subst><del rend="metamark">rh</del><add place="inline">hr</add></subst>ter <rs type="person" ref="#amp_person_112">Herr Landeshauptman<add place="inline"><unclear>n</unclear></add></rs>,meine Damen und Herren:
                   </ab>
                   <p>
                      <space quantity="10" unit="char"/>I hope you will pardon me if I speak somewhat personally. I do so,<lb/>
@@ -311,7 +313,9 @@ for any purpose, even commercially.</p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0146/" type="sheet" ed="2v"/>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0147/" type="sheet" ed="3r"/>
                   <fw type="pageNum" hand="#handwritten">
-                     (2
+                     <add place="margin">
+                        (2
+                     </add>
                   </fw>
                   <p>
                      <space quantity="4" unit="char"/>When,later,I began to write poetry’I found that,for me,at least,the same<lb/>
@@ -388,49 +392,51 @@ for any purpose, even commercially.</p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0148/" type="sheet" ed="3v"/>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0149/" type="sheet" ed="4r"/>
                   <fw type="pageNum" hand="#handwritten">
-                     (3
+                     <add place="margin">
+                        (3
+                     </add>
                   </fw>
                   <p>
-                     <space quantity="6" unit="char"/>There are periods in history when <del>art</del> the arts develop uninterruptedly,<lb/>
+                     <space quantity="6" unit="char"/>There are periods in history when <del rend="overtyped">art</del> the arts develop uninterruptedly,<lb/>
                      <space quantity="1" unit="char"/>each generation building on the achievements of the previous generation.<lb/>
                      There are other periods when radical breaks seem to be necessary. However,<lb/>
-                     <del>t</del>when they are,one will generally find that the 'radical' artist does not<lb/>
-                     <del>diswon</del> disown the past,but finds in works of a much earlier period or in<lb/>
-                     those of <del>anotehr</del> culture than his own,the clue as to what he should do now.<lb/>
+                     <subst><del rend="overtyped">t</del><add place="superimposed">w</add></subst>hen they are,one will generally find that the 'radical' artist does not<lb/>
+                     <del rend="overtyped">diswon</del> disown the past,but finds in works of a much earlier period or <add place="inline">in</add><lb/>
+                     those<add place="inline"> </add>of <del rend="overtyped">anotehr</del> culture than his own,the clue <add place="above">as</add> to what he should do now.<lb/>
                      In my own case,for example,I know how much I owe to Anglo-Saxon and<lb/>
-                     Medie<del>av</del>val Poetry.
+                     Medie<subst><del rend="overtyped">av</del><add place="superimposed">va</add></subst>l Poetry.
                   </p>
                   <p>
-                     <space quantity="4" unit="char"/>When I <del>revei<unclear>w</unclear></del> review the contemporary artistic scene,<del>I</del><unclear>i</unclear>t strikes me how<lb/>
-                     <del>extraorinary</del> extraordinarily fortunate men like <rs type="person" ref="#amp_person_25">Stravinsky</rs>,<rs type="person" ref="#amp_person_26">Picasso</rs>,<rs type="person" ref="#amp_person_27">Eliot</rs>,<lb/>
+                     <space quantity="4" unit="char"/>When I <del rend="overtyped">revei<unclear>w</unclear></del> review the contemporary artistic scene,<subst><del rend="overtyped">I</del><add place="superimposed"><unclear>i</unclear></add></subst>t strikes me how<lb/>
+                     <del rend="overtyped">extraorinary</del> extraordinarily fortunate men like <rs type="person" ref="#amp_person_25">Stravinsky</rs>,<rs type="person" ref="#amp_person_26">Picasso</rs>,<rs type="person" ref="#amp_person_27">Eliot</rs>,<lb/>
                      etc,that is,those persons we think of as the founders of 'modern' art,<lb/>
                      were in being born when they were,so that they came to manhood before<lb/>
-                     I9I4. Until the <del>Fis </del> <rs type="event" ref="#amp_event_id_53">First World War</rs>,western society was still pretty much<lb/>
+                     I9I4. Until the <del rend="overtyped">Fis </del> <rs type="event" ref="#amp_event_id_53">First World War</rs>,western society was still pretty much<lb/>
                      what it had been in the nineteenth century. This meant that for these artists,<lb/>
                      the felt need to create something new arose from an artistic imperative,<lb/>
-                     not a <del>histroi</del> historic imperative. No one asked himself:"What is the proper<lb/>
+                     not a <del rend="overtyped">histroi</del> historic imperative. No one asked himself:"What is the proper<lb/>
                      kind of music to compose or picture to paint or poem to write in the year<lb/>
-                     I9I2.?" <space quantity="1" unit="char"/>Secondly,their <del>audiences</del> contemporary audiences <space quantity="1" unit="char"/>were mostly<lb/>
-                     cons<del>r</del>ervative,but honestly so. <space quantity="1" unit="char"/>Those,for instance,who were scandalised by<lb/>
-                     <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_35">Le Sacre du Printemps</rs></hi>,may seem to us now to have been old <del>fgi</del> fogies,but<lb/>
+                     I9I2.?" <space quantity="1" unit="char"/>Secondly,their <del rend="overtyped">audiences</del> contemporary audiences <space quantity="1" unit="char"/>were mostly<lb/>
+                     cons<subst><del rend="overtyped">r</del><add place="superimposed">e</add></subst>rvative,but honestly so. <space quantity="1" unit="char"/>Those,for instance,who were scandalised by<lb/>
+                     <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_35">Le Sacre du Printemps</rs></hi>,may seem to us now to have been old <del rend="overtyped">fgi</del> fogies,but<lb/>
                      their reaction was genuine. They did not say to themselves:"Times have<lb/>
-                     changed and we must change with them in order <del>to be up to date." </del> not to<lb/>
+                     changed and we must change with them in order <del rend="overtyped">to be up to date." </del> not to<lb/>
                      be left behind."
                   </p>
                   <p>
-                     <space quantity="5" unit="char"/>Here are a few statements by <rs type="person" ref="#amp_person_25">Stravinsky</rs> to <del>whcih</del> which the young,<del>w<unclear>h</unclear>ere</del><del>where</del>whether<lb/>
-                     artists or critics would do well to listen and <del>pknde </del> ponder over.<lb/>
+                     <space quantity="5" unit="char"/>Here are a few statements by <rs type="person" ref="#amp_person_25">Stravinsky</rs> to <del rend="overtyped">whcih</del> which the young,<subst><del rend="overtyped">w<unclear>h</unclear>ere</del><del rend="overtyped"><add place="above">where</add></del><add place="above">whether</add></subst><lb/>
+                     artists or critics would do well to listen and <del rend="overtyped">pknde </del> ponder over.<lb/>
                      <seg>
                         <quote source="#lit_work_id_172">
                            <space quantity="11" unit="char"/><hi rend="underline">In my youth the new music grew out of,and in reaction to,traditions</hi>,<lb/>
                            <space quantity="11" unit="char"/><hi rend="underline">whereas it appears to be evolving to-day as much from social needs</hi><lb/>
-                           <space quantity="11" unit="char"/><hi rend="underline">as interior artistic ones...The status of <del>the</del> new music as a</hi><lb/>
+                           <space quantity="11" unit="char"/><hi rend="underline">as interior artistic ones...The status of <del rend="overtyped">the</del> new music as a</hi><lb/>
                            <space quantity="11" unit="char"/><hi rend="underline">category is another incomparable. It had none at all in my early</hi><lb/>
                            <space quantity="12" unit="char"/><hi rend="underline">years,being in fact categorically opposed,and often with real</hi><lb/>
-                           <space quantity="10" unit="char"/><hi rend="underline">hostility. But the unsuccess of composers o<del>n</del>f my generation at</hi><lb/>
+                           <space quantity="10" unit="char"/><hi rend="underline">hostility. But the unsuccess of composers o<subst><del rend="overtyped">n</del><add place="superimposed">f</add></subst> my generation at</hi><lb/>
                            <space quantity="10" unit="char"/><hi rend="underline">least kept them from trading on success,and our unsuccess may have</hi><lb/>
                            <space quantity="11" unit="char"/><hi rend="underline">been less insidious than the automatic superlatives which nowadays</hi><lb/>
-                           <space quantity="10" unit="char"/><hi rend="underline">kill the new by absorbing it t<del>i</del>o de</hi>a<hi rend="underline">th.</hi><lb/>
+                           <space quantity="10" unit="char"/><hi rend="underline">kill the new by absorbing it t<subst><del rend="overtyped">i</del><add place="superimposed">o</add></subst> de</hi>a<hi rend="underline">th.</hi><lb/>
                         </quote>
                         <space quantity="33" unit="char"/>***<lb/>
                      </seg>
@@ -447,111 +453,123 @@ for any purpose, even commercially.</p>
                   <p>
                      <space quantity="1" unit="char"/>In times,like our own,of rapid social change and political crisis,there i<unclear>s</unclear><lb/>
                      always a danger of confusing the principles governing political action and<lb/>
-                     those governing artistic fabrication. <space quantity="1" unit="char"/>The most important of such confus<del>u</del>ions<lb/>
-                     are thr<del>r</del>ee.
+                     those governing artistic fabrication. <space quantity="1" unit="char"/>The most important of such confus<del rend="overtyped">u</del>ions<lb/>
+                     are thr<subst><del rend="overtyped">r</del><add place="superimposed">e</add></subst>e.
                   </p>
                   <p>
-                     <space quantity="2" unit="char"/>Firstly,one may come to think of artistic fabrication as <del>s</del><unclear>a</unclear> f<del>rom</del>orm of politic<unclear>a</unclear>l<lb/>
-                     action. Every citizen,<del>artists</del>poets includ<del>i</del>ed,has a duty to be politically 'engagé',<lb/>
-                     that is,to <del>feel</del> play a responsible part in seeing that the society of which<lb/>
+                     <space quantity="2" unit="char"/>Firstly,one may come to think of artistic fabrication as <subst><del rend="overtyped">s</del><add place="superimposed"><unclear>a</unclear></add></subst> f<subst><del rend="overstrike">rom</del><add place="above">orm</add></subst> of politic<unclear>a</unclear>l<lb/>
+                     action. Every citizen,<subst><del rend="overtyped">artists</del><add place="above">poets</add></subst> includ<subst><del rend="overtyped">i</del><add place="superimposed">e</add></subst>d,has a duty to be politically 'engag<add place="inline">&#x301;</add>e',<lb/>
+                     that is,to <del rend="overtyped">feel</del> play a responsible part in seeing that the society of which<lb/>
                      he is a member shall function properly and improve. But the poet,qua poet,<lb/>
-                     has only one political function. Since lang<del>i</del>uage is his medium,it is his duty,<lb/>
-                     by his own example,to defend his <del>mot<del>eh</del>her</del>mothermother-tongue against corruption by demagogues,<lb/>
-                     journalists,the mass-media etc. As <rs type="person" ref="#amp_person_81">Karl Kraus</rs><del>s</del> said:<quote source="#lit_work_id_173">"<foreign xml:lang="de">D<hi rend="underline">ie Sprache ist die</hi> <del>Muuet</del><lb/>
-                     <space quantity="1" unit="char"/><hi rend="underline">Mutter,nicht das Magd,des <del>d</del> <del>g</del>Gedankens"</hi></foreign></quote>,and when language loses its meaning,<lb/>
-                     its <del>palce</del> place is taken by violence. Of course,the poet may use political and<lb/>
+                     has only one political function. Since lang<subst><del rend="overtyped">i</del><add place="superimposed">u</add></subst>age is his medium,it is his duty,<lb/>
+                     by his own example,to defend his <subst><del rend="overtyped">mot<del rend="overtyped">eh</del><add place="superimposed">he</add>r</del><add place="superimposed">mother</add><add place="above">mother</add></subst>-tongue against corruption by demagogues,<lb/>
+                     journalists,the mass-media etc. As <rs type="person" ref="#amp_person_81">Karl Kraus</rs><del rend="overtyped">s</del> said:<quote source="#lit_work_id_173">"<foreign xml:lang="de">D<hi rend="underline">ie Sprache ist die</hi> <del rend="overtyped">Muuet</del><lb/>
+                     <space quantity="1" unit="char"/><hi rend="underline">Mutter,nicht das Magd,des <del rend="overtyped">d</del> <subst><del rend="overtyped">g</del><add place="superimposed">G</add></subst>edankens"</hi></foreign></quote>,and when language loses its meaning,<lb/>
+                     its <del rend="overtyped">palce</del> place is taken by violence. Of course,the poet may use political and<lb/>
                      social events as subject-matter for poems - they are as much a part of human<lb/>
                      experience as love or nature - but he must never imagine that his poems have<lb/>
-                     the power to affect the course of history. The political and social history<lb/>
-                     of <rs type="place" ref="#amp_place_id_30">Europe</rs> w<unclear>o</unclear>uld be what it <del>ahs</del> has been if <rs type="person" ref="#amp_person_9">Dante</rs>,<rs type="person" ref="#amp_person_10">Shakepeare</rs>,<rs type="person" ref="#amp_person_11">Goethe</rs>,<rs type="person" ref="#amp_person_28">Micha<del>le</del>el<lb/>
-                     Angelo</rs>,<rs type="person" ref="#amp_person_12">Tit<del>ai</del>ian</rs>,<rs type="person" ref="#amp_person_13">Mozart</rs>,<rs type="person" ref="#amp_person_29">Beethoven</rs>,e<del>y</del>tc,<del>ahd</del> had never existed.
+                     the power to affect the course of history. The politic<del rend="metamark"> </del>al and social history<lb/>
+                     of <rs type="place" ref="#amp_place_id_30">Europe</rs> w<unclear>o</unclear>uld be what it <del rend="overtyped">ahs</del> has been if <rs type="person" ref="#amp_person_9">Dante</rs>,<rs type="person" ref="#amp_person_10">Shakepeare</rs>,<rs type="person" ref="#amp_person_11">Goethe</rs>,<rs type="person" ref="#amp_person_28">Micha<subst><del rend="overtyped">le</del><add place="superimposed">el</add></subst><lb/>
+                     Angelo</rs>,<rs type="person" ref="#amp_person_12">Tit<subst><del rend="overtyped">ai</del><add place="superimposed">ia</add></subst>n</rs>,<rs type="person" ref="#amp_person_13">Mozart</rs>,<rs type="person" ref="#amp_person_29">Beethoven</rs>,e<subst><del rend="overtyped">y</del><add place="superimposed">t</add></subst>c,<del rend="overtyped">ahd</del> had never existed.
                   </p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0150/" type="sheet" ed="4v"/>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0151/" type="sheet" ed="5r"/>
                   <fw type="pageNum" hand="#handwritten">
-                     4
+                     <add place="margin">
+                        4
+                     </add>
                   </fw>
                   <p>
-                     <space quantity="3" unit="char"/>Where <del>politicla</del> political and social <del>eveils</del> evils are concerned,only<lb/>
-                     t<del>k</del>wo things are effective<del>*</del><unclear>:</unclear> political action and straightforward,truthful,<lb/>
+                     <space quantity="3" unit="char"/>Where <del rend="overtyped">politicla</del> political and social <del rend="overtyped">eveils</del> evils are concerned,only<lb/>
+                     t<del rend="overtyped">k</del>wo things are effective<subst><del rend="overtyped">*</del><add place="superimposed"><unclear>:</unclear></add></subst> political action and straightforward,truthful,<lb/>
                      detailed journalistic rapportage of the facts. The Arts are powerless.
                   </p>
                   <p>
                      <space quantity="2" unit="char"/>The second confusion,of which <rs type="person" ref="#amp_person_30">Plato</rs> is the most famous example,is to take<lb/>
-                     arti<del>t</del>stic fabrication as the model for a good society. <del>The aim of any artist <space quantity="1" unit="char"/></del><lb/>
+                     arti<subst><del rend="overtyped">t</del><add place="superimposed">s</add></subst>tic fabrication as the model for a good society. <del rend="overtyped">The aim of any artist <space quantity="1" unit="char"/></del><lb/>
                      Such a model,if put into practice,is bound to produce a tyrrany. The aim of<lb/>
-                     the artist<del>s</del> is to produce an object which is complete and will endure without<lb/>
-                     change. <del>A</del> In the 'city' of a poem,there are always the same inhabitants doing<lb/>
+                     the artist<del rend="overstrike">s</del> is to produce an object which is complete and will endure without<lb/>
+                     change. <del rend="overtyped">A</del> In the 'city' of a poem,there are always the same inhabitants doing<lb/>
                      exactly the same jobs for ever. A society which was really like a good poem,<lb/>
                      embodying the aesthetic virtues of order,economy and subordination of the detail<lb/>
                      to the whole,would be a nightmare of horror for,given the historical reality of<lb/>
-                     actual men,such a society could only come into being through selective breeding,<lb/>
-                     ex<del>y</del>termination <space quantity="1" unit="char"/>of the physically and mentally unfit,absolute obedience to<lb/>
-                     its <del>D</del>director,a alrge slave cla<del>a</del>ss kept out of sight in <del>f</del>cellars and the<lb/>
-                     strictest censure<del>e</del>ship of the Arts,forbidding anything to be said which <del>was</del> is<lb/>
-                     <del>not</del> out of keeping with the official 'line.'
+                     actual men,such a society could <add place="above">only</add> come into being through selective breeding,<lb/>
+                     ex<subst><del rend="overtyped">y</del><add place="superimposed">t</add></subst>ermination <space quantity="1" unit="char"/>of the physically and mentally unfit,absolute obedience to<lb/>
+                     its <subst><del rend="overtyped">D</del><add place="superimposed">d</add></subst>irector,a alrge slave cla<subst><del rend="overtyped">a</del><add place="superimposed">s</add></subst>s kept out of sight in <subst><del rend="overtyped">f</del><add place="superimposed">c</add></subst>ellars and the<lb/>
+                     strictest censur<add place="above">e</add><subst><del rend="overwritten">e</del><add place="superimposed">s</add></subst>hip of the Arts,forbidding anything to be said which <del rend="overtyped">was</del> is<lb/>
+                     <del rend="overtyped">not</del> out of keeping with the official 'line.'
                   </p>
                   <p>
-                     <space quantity="3" unit="char"/>The third confusion,typical of our western <del>civilisat</del> 'free' <del>soncietis</del><lb/>
+                     <space quantity="3" unit="char"/>The third confusion,typical of our western <del rend="overtyped">civilisat</del> 'free' <del rend="overtyped">soncietis</del><lb/>
                      societies at this time,is the opposite of <rs type="person" ref="#amp_person_30">Plato</rs>'s,namely to take political<lb/>
-                     act<del>u</del>ion as the model for arti<del>t</del>stic fabrication. Political action is a necessity,<lb/>
-                     that is to say,a<del>y</del>t very moment something has to be done,and <del>politicla</del> it<lb/>
+                     act<subst><del rend="overtyped">u</del><add place="superimposed">i</add></subst>on as the model for arti<subst><del rend="overtyped">t</del><add place="superimposed">s</add></subst>tic fabrication. Political action is a necessity,<lb/>
+                     that is to say,a<subst><del rend="overtyped">y</del><add place="superimposed">t</add></subst> very moment something has to be done,and <del rend="overtyped">politicla</del> it<lb/>
                      is momentary - action at this moment is immeiately followed by another action<lb/>
-                     at the next. <space quantity="1" unit="char"/>Artistic fabrication,on the other hand,is <del>voluntarily</del> voluntary-<lb/>
+                     at the next. <space quantity="1" unit="char"/>Artistic fabrication,on the other hand,is <del rend="overtyped">voluntarily</del> voluntary-<lb/>
                      the alternative to one work of art can be no work of art - and the artistic<lb/>
                      object is permanent,that is to say,immune to historical change. The attempt<lb/>
-                     to model arti<del>t</del>stic fabrication o<del>s</del>n political action can therefore,only<lb/>
-                     reduce it to momentary <del>(<unclear>h</unclear> </del> a<del>d</del>nd arbitrary 'happenings',a conformism with<lb/>
+                     to model arti<subst><del rend="overtyped">t</del><add place="superimposed">s</add></subst>tic fabrication o<subst><del rend="overtyped">s</del><add place="superimposed">n</add></subst> political action can therefore,only<lb/>
+                     reduce it to momentary <del rend="overtyped">(<unclear>h</unclear><space quantity="1" unit="char"/></del> a<subst><del rend="overtyped">d</del><add place="superimposed">n</add></subst>d arbitrary 'happenings',a conformism with<lb/>
                      the tyrrany of the immediate moment which is far more enslaving and<lb/>
                      destructive of integrity than any conformism with past tradition.
                   </p>
+               </div>
+               <div>
                   <ab hand="#handwritten">
-                     i<unclear>n</unclear>sert<lb/>
-                     4<unclear>`</unclear>a
+                     <add place="margin">
+                        i<unclear>n</unclear>sert<lb/>
+                        4<unclear>`</unclear>a
+                     </add>
                   </ab>
+               </div>
+               <div type="prose">
                   <p>
-                     <space quantity="3" unit="char"/>What then,can the Arts do for us? In my opi<del>o</del>nion,they can do two things.<lb/>
-                     They can,as <rs type="person" ref="#amp_person_33">Dr Johns<del>t</del>on</rs> said,<quote source="#lit_work_id_174">'enable us a little better to enjoy life or a<lb/>
-                     little better to <del>enjoy</del>endure it"</quote>. And,<del>bec<unclear>aas</unclear>e</del> because they are objects <del>permant</del><lb/>
-                     permanently on hand in the world,they are the chief means by which the <del>lvi</del><lb/>
+                     <space quantity="3" unit="char"/>What then,can the Arts do for us? In my opi<subst><del rend="overtyped">o</del><add place="superimposed">n</add></subst>ion,they can do two things.<lb/>
+                     They can,as <rs type="person" ref="#amp_person_33">Dr Johns<subst><del rend="overtyped">t</del><add place="superimposed">o</add></subst>n</rs> said,<quote source="#lit_work_id_174">'enable us a little better to enjoy life or a<lb/>
+                     little better to <subst><del rend="overstrike">enjo</del><add place="above">endure</add></subst>y it"</quote>. And,<del rend="overtyped">bec<unclear>aas</unclear>e</del> because they are objects <del rend="overtyped">permant</del><lb/>
+                     permanently on hand in the world,they are the chief means by which the <del rend="overtyped">lvi</del><lb/>
                      living are able to break bread with the dead,and,without a communication<lb/>
                      with the dead,I do not believe that a fully human civilised life is possible.
                   </p>
                   <p>
                      <space quantity="2" unit="char"/>Perhaps,too,in our age,the mere making of a work of art is itself a<lb/>
                      political act. So long as artists exist,making what they please or think<lb/>
-                     they ought to make,even if <del>the worlks</del> their wor<del>l</del>ks are not terribly good,they<lb/>
+                     they ought to make,even if <del rend="overtyped">the worlks</del> their wor<subst><del rend="overtyped">l</del><add place="superimposed">k</add></subst>s are not terribly good,they<lb/>
                      remind the Management of something managers need to be reminded of,namely,<lb/>
                      that the managed are people with faces,not anonymous numbers,that <hi rend="underline">Homo</hi><lb/>
                      <hi rend="underline">Laborans</hi> is also <hi rend="underline">Homo Ludens.</hi>
                   </p>
                   <p>
-                     <space quantity="9" unit="char"/>And now,I hope those of you who know no English will forgive me i<del>s</del>f<lb/>
-                     I conclude<del>d</del> these remarks with a light poem of my own,entitled<lb/>
-                     <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_57">Doggerel <del>of</del> by a Senior Citizen</rs></hi>.
+                     <space quantity="9" unit="char"/>And now,I hope those of you who know no English will forgive me i<subst><del rend="overtyped">s</del><add place="superimposed">f</add></subst><lb/>
+                     I conclude<del rend="overtyped">d</del> these remarks with a light poem of my own,entitled<lb/>
+                     <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_57">Doggerel <del rend="overtyped">of</del> by a Senior Citizen</rs></hi>.
                   </p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0152/" type="sheet" ed="5v"/>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0153/" type="sheet" ed="6r"/>
                   <fw type="pageNum" hand="#handwritten">
-                     (4a
+                     <add place="margin">
+                        (4a
+                     </add>
                   </fw>
                </div>
                <div>
                   <ab hand="#handwritten">
-                     insert into next page
+                     <add place="margin">
+                            insert into next page
+                     </add>
                   </ab>
                </div>
                <div type="prose">
                   <p>
-                     <space quantity="7" unit="char"/>At this p<del>in</del>oint,a little digression on the subject of 'free' verse,which<lb/>
+                     <space quantity="7" unit="char"/>At this p<subst><del rend="overtyped">in</del><add place="superimposed">oi</add></subst>nt,a little digression on the subject of 'free' verse,which<lb/>
                      <space quantity="2" unit="char"/>seems now to be almost universal among young poets. Though excellent<lb/>
-                     <space quantity="1" unit="char"/>examples,the poems of <rs type="person" ref="#amp_person_31">D.H.Lawrence</rs>,for example,exist,i<del>n my opinion </del>they are,<unclear>in</unclear> my opinio<unclear>n</unclear><lb/>
+                     <space quantity="1" unit="char"/>examples,the poems of <rs type="person" ref="#amp_person_31">D.H.Lawrence</rs>,for example,exist,i<del rend="overstrike">n my opinion </del>they are<add place="inline">,<unclear>in</unclear> my opinio<unclear>n</unclear></add><lb/>
                      the exception,not the rule. The great virtue of formal metrical rules is<lb/>
-                     that they forbid automatic <del>reposnse</del> resp<del>i</del>onses and,by forcing the <del>piet</del> poet<lb/>
-                     to have second thoughts,free <del>f</del>him f<del>or</del>rom the fetters of self. All too often,the<lb/>
+                     that they forbid automatic <del rend="overtyped">reposnse</del> resp<subst><del rend="overtyped">i</del><add place="superimposed">o</add></subst>nses and,by forcing the <del rend="overtyped">piet</del> poet<lb/>
+                     to have second thoughts,free <subst><del rend="overwritten">f</del><add place="superimposed">h</add></subst>im f<subst><del rend="overwritten">or</del><add place="superimposed">ro</add></subst>m the fetters of self. All too often,the<lb/>
                      result of not having a fixed form to be true to,is a self-indulgence which in<lb/>
-                     the detached reader can only cause boredom. Further,in my exper<del>ei</del>ience ,contrary<lb/>
-                     to what one might exp<del>s</del>ect,the <del>writers o</del> free-verse poets sound much more<lb/>
+                     the detached reader can only cause boredom. Further,in my exper<subst><del rend="overtyped">ei</del><add place="superimposed">ie</add></subst>nce ,contrary<lb/>
+                     to what one might exp<subst><del rend="overtyped">s</del><add place="superimposed">e</add></subst>ct,the <del rend="overtyped">writers o</del> free-verse poets sound much more<lb/>
                      like each other than those who write in fixed forms. Whatever freedom may do,<lb/>
                      it does not,it would seem,make for originality.
                   </p>
