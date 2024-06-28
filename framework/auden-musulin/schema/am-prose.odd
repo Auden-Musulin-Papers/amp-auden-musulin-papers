@@ -527,6 +527,7 @@
                   <valItem ident="overstrike"/>
                   <valItem ident="overwritten"/>
                   <valItem ident="whiteout"/>
+                  <valItem ident="metamark"/>
                 </valList>
               </attDef>
             </attList>
