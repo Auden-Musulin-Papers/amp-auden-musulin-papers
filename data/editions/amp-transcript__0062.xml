@@ -574,11 +574,11 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0351/" type="sheet" ed="1r"/>
             <div type="prose">
                <head>
-                  <space quantity="17" unit="char"/><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_47" ana="acdh:amp-transcript__0031.xml#ana_030">The Years in Austria</rs>.</hi>
+                  <space quantity="17" unit="char"/><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_47" ana="acdh:amp-transcript__0031.xml#ana_030">The Years in Austria</rs>.</hi> <!-- can we check the S how we can transcribe it? -->
                </head>
                <p>
                   <space quantity="5" unit="char"/>Half an hour from the outskirts of <rs type="place" ref="#amp_place_id_1">Vienna</rs> an invisible<lb/>
-                  thread bisect<del>x</del>s the motorway. <space quantity="1" unit="char"/>It leads from <rs type="place" ref="#amp_place_id_322">the church</rs> which<lb/>
+                  thread bisect<subst><del rend="overtyped">x</del><add place="superimposed">s</add></subst> the motorway. <space quantity="1" unit="char"/>It leads from <rs type="place" ref="#amp_place_id_322">the church</rs> which<lb/>
                   lies to the north, more accurately speaking from the churchyard,<lb/>
                   disregards entirely the traffic as it thunders to and from <rs type="place" ref="#amp_place_id_1">the<lb/>
                   capital</rs>, wriggles across a field to the south, passes a small<lb/>
@@ -587,12 +587,12 @@ for any purpose, even commercially.</p>
                   gate, and now the thread, which has turned neither to right nor<lb/>
                   left, has reached its objective: <space quantity="1" unit="char"/>a long, low house, more an<lb/>
                   extended workman's cottage. <space quantity="1" unit="char"/>Originally, the address was<lb/>
-                  <rs type="place" ref="#amp_place_id_2">Hinterhol<del>6</del>z 6<unclear>;</unclear></rs> <space quantity="1" unit="char"/>later, the lane up from the village on the other<lb/>
-                  side was renamed <rs type="note" ana="#ana_034">Auden-<del>A</del>Strasse</rs>. <space quantity="1" unit="char"/>This thread or unseen line joins<lb/>
+                  <rs type="place" ref="#amp_place_id_2">Hinterhol<subst><del rend="overtyped">6</del><add place="superimposed">z</add></subst> 6<unclear>;</unclear></rs> <space quantity="1" unit="char"/>later, the lane up from the village on the other<lb/>
+                  side was renamed <rs type="note" ana="#ana_034">Auden-<subst><del rend="overtyped">A</del><add place="superimposed">S</add></subst><subst><del rend="overtyped">s</del><add place="superimposed">t</add></subst><subst><del rend="overtyped"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed">r</add></subst>asse</rs>. <space quantity="1" unit="char"/>This thread or unseen line joins<lb/>
                   the places where <rs type="person" ref="#amp_person_1">Auden</rs> prayed, sang (flat) and <rs type="event" ref="#amp_event_id_19">was buried</rs>, and<lb/>
                   <rs type="place" ref="#amp_place_id_2">the place where he lived</rs>, and to me it is tangible reality,<lb/>
                   unfailingly sensed at each frequent crossing. <space quantity="1" unit="char"/>Partly it is<lb/>
-                  because it was alwa<del>s</del>ys from that direction that I arrived, being<lb/>
+                  because it was alwa<subst><del rend="overtyped">s</del><add place="superimposed">y</add></subst>s from that direction that I arrived, being<lb/>
                   mistrustful of the narrow lane which lies along the top of the<lb/>
                   garden and leads into a wood where in a small clearing floored<lb/>
                   at times by sticky mud, the car can be turned. <space quantity="1" unit="char"/><unclear>I</unclear>t seemed<lb/>
@@ -626,7 +626,7 @@ for any purpose, even commercially.</p>
                   of books and papers on a nearby ledge - and to shout. <space quantity="1" unit="char"/>That<lb/>
                   heartwarming bellow from <rs type="person" ref="#amp_person_1">Wystan</rs>: <space quantity="1" unit="char"/>"Ah!" and here is the familiar<lb/>
                   scene, we are enveloped in the unchanging fug. <space quantity="1" unit="char"/>The shelves<lb/>
-                  of re<del>f</del>cords and the oversized record player on the left, the<lb/>
+                  of re<subst><del rend="overtyped">f</del><add place="superimposed">c</add></subst>ords and the oversized record player on the left, the<lb/>
                   big, square dining table with its food-stained cloth. <space quantity="1" unit="char"/>Centre<lb/>
                   back, the Austrian peasant cupboard containing drinks, sugar,<lb/>
                   salt, then the corner seat, the table with its cigarette burns<lb/>
@@ -647,7 +647,7 @@ for any purpose, even commercially.</p>
                   upright chairs by the dinner table, adjuncts to the <rs type="org" ref="#amp_organization_49">Times</rs><lb/>
                   crossword. <space quantity="1" unit="char"/>Was it, I asked, essential to have the complete<lb/>
                   <rs type="lit_work" ref="#lit_work_id_51">Oxford English Dictionary</rs>, all thirteen volumes of it, at each<lb/>
-                  of ones residences? <space quantity="1" unit="char"/>"Of cour<del>x</del>se" said <rs type="person" ref="#amp_person_1">Auden</rs>, surprised at such a<lb/>
+                  of ones residences? <space quantity="1" unit="char"/>"Of cour<subst><del rend="overtyped">x</del><add place="superimposed">s</add></subst>e" said <rs type="person" ref="#amp_person_1">Auden</rs>, surprised at such a<lb/>
                   question.
                </p>
                <p>
@@ -659,7 +659,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="5" unit="char"/>It is not only that the scene is familiar. <space quantity="1" unit="char"/>What can a friend<lb/>
-                  write withou<del>g</del>t lapsing into triviality and gossip, without calling<lb/>
+                  write withou<subst><del rend="overtyped">g</del><add place="superimposed">t</add></subst> lapsing into triviality and gossip, without calling<lb/>
                   down on his head the wrath of <rs type="person" ref="#amp_person_1">Wystan Auden</rs> himself, about whom,
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0354/" type="sheet" ed="2v"/>
@@ -669,41 +669,41 @@ for any purpose, even commercially.</p>
                </fw>
                <p prev="true">
                   if we know nothing else, we realise the obsession that he had<lb/>
-                  on <del>z</del>the subject of personal privacy. <space quantity="1" unit="char"/>Think <del>of</del>for a moment of<lb/>
+                  on <subst><del rend="overwritten">z</del><add place="superimposed">t</add></subst>he subject of person<subst><del rend="overwritten"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed">a</add></subst>l privacy. <space quantity="1" unit="char"/>Think <subst><del rend="overtyped">of</del><add place="superimposed">fo</add></subst>r a moment of<lb/>
                   <rs type="lit_work" ref="#lit_work_id_53">"Forewords and Afterwords"</rs>: <space quantity="1" unit="char"/>again and again he writes on<lb/>
                   these lines: <space quantity="1" unit="char"/>Of <rs type="person" ref="#amp_person_18">Wagner</rs>: <space quantity="1" unit="char"/><quote source="#lit_work_id_53">"On principle, I object to biographies<lb/>
-                  of artists, since <unclear>I</unclear> do not believe that knowledge of their<lb/>
-                  private lives <del>t</del>sheds any significant light upon their works."</quote><lb/>
-                  And on <rs type="person" ref="#amp_person_20">Oscar Wilde</rs>: <space quantity="1" unit="char"/><quote source="#lit_work_id_53">"Since know<del>o</del>ledge of an artist's private li<del>r</del>fe<lb/>
+                  of artists, since <unclear>I</unclear> do not believe that knowledge of their<lb/> <!-- we need to think if we have to reform it -->
+                  private lives <subst><del rend="overtyped">t</del><add place="superimposed">s</add></subst>heds any significant light upon their works."</quote><lb/>
+                  And on <rs type="person" ref="#amp_person_20">Oscar Wild<space quantity="1" unit="char"/>e</rs>: <space quantity="1" unit="char"/><quote source="#lit_work_id_53">"Since know<subst><del rend="overtyped">o</del><add place="superimposed">l</add></subst>edge of an artist's private li<subst><del rend="overtyped">r</del><add place="superimposed">f</add></subst>e<lb/> <!-- I added a space in Wild e -->
                   never throws any significant light upon his work, there is no<lb/>
                   justification for intruding upon his privacy."</quote> <space quantity="2" unit="char"/>Listening to<lb/>
                   <rs type="person" ref="#amp_person_40">Kurt Weill</rs> records one winter's evening in <rs type="person" ref="#amp_person_4">Chester</rs>'s flat in the<lb/>
                   <rs type="place" ref="#amp_place_id_71">Esslarngasse</rs>, I asked him whether he could account for it.<lb/>
                   Disappointingly, <rs type="person" ref="#amp_person_4">Chester</rs> only said that it was an obsession with<lb/>
-                  <rs type="person" ref="#amp_person_1">Wystan</rs>, a<del>j</del>n individual phobia like any other. <space quantity="2" unit="char"/>The only time that<lb/>
+                  <rs type="person" ref="#amp_person_1">Wystan</rs>, a<subst><del rend="overtyped">j</del><add place="superimposed">n</add></subst> individual phobia like any other. <space quantity="2" unit="char"/>The only time that<lb/>
                   <rs type="person" ref="#amp_person_1">Auden</rs> ever came near to snapping at me was when he spoke once,<lb/>
-                  affectionately, of <rs type="person" ref="#amp_person_41">Tolkien</rs>, saying that he was to speak or write<lb/>
+                  affection<subst><del rend="overwritten"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed">a</add></subst>tely, of <rs type="person" ref="#amp_person_41">Tolkien</rs>, saying that he was to speak or write<lb/>
                   about him. <space quantity="1" unit="char"/>Was he, I asked, going to say anything at all about<lb/>
                   the man as the creator of the world of <rs type="person" ref="#amp_person_41">Tolkien</rs>, of the <rs type="lit_work" ref="#lit_work_id_54">Lord of the<lb/>
-                  Rings</rs><del>,</del>? <del>and</del> <del>h</del>He said "Certainly not! <space quantity="1" unit="char"/>I shouldn't dream of saying<lb/>
+                  Rings</rs><subst><del rend="overwritten">,</del><add place="superimposed">?</add></subst> <del rend="overstrike">and</del> <subst><del rend="overwritten">h</del><add place="superimposed">H</add></subst>e said "Certainly not! <space quantity="1" unit="char"/>I shouldn't dream of saying<lb/>
                   anything about <rs type="person" ref="#amp_person_41">Tolkien</rs> himself." <space quantity="1" unit="char"/>So that the predicament is<lb/>
-                  understood : <space quantity="1" unit="char"/>either we keep silent when asked to speak <del>o</del>and write<lb/>
+                  understood : <space quantity="1" unit="char"/>either we keep silent when asked to speak <subst><del rend="overtyped">o</del><add place="superimposed">a</add></subst>nd write<lb/>
                   about <rs type="person" ref="#amp_person_1">Auden</rs>, which might seem a trifle portentous, not to say<lb/>
-                  uncivil. <space quantity="1" unit="char"/>Or <del>w</del>else we run the dual risk of trivi<del>li</del><unclear>a</unclear>lity or indiscretio<unclear>n.</unclear><lb/>
-                  In the eyes of <del>those</del>other<unclear>s</unclear> who knew him <del>best</del>better, there is probably a<lb/>
-                  further risk, that of being couple<unclear>d</unclear> with the German mythical<lb/>
-                  figure, the hor<del>e</del>seman who rode, as he supposed, over the frozen<lb/>
+                  uncivil. <space quantity="1" unit="char"/>Or <subst><del rend="overtyped">w</del><add place="superimposed">e</add></subst>lse we run the dual risk of trivi<subst><del rend="overwritten">li</del><add place="superimposed"><unclear>a</unclear></add></subst>lity or indiscretio<unclear rend="below">n.</unclear><lb/> <!-- we need to discuss this line-->
+                  In the eyes of <subst><del rend="overstrike">those</del><add place="above">other<unclear>s</unclear></add></subst> who knew him <subst><del rend="overstrike">best</del><add place="above">better</add></subst>, there is probably a<lb/>
+                  further risk, that of being couple<subst><del rend="overwritten"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed"><unclear>d</unclear></add></subst> with the German mythical<lb/>
+                  figure, the hor<subst><del rend="overtyped">e</del><add place="superimposed">s</add></subst>eman who rode, as he supposed, over the frozen<lb/>
                   <rs type="place" ref="#amp_place_id_72">Lake of Constance</rs>, unaware that this was not the case at all, but<lb/>
-                  he was being carried along above dark waters, knowing nothing<lb/>
+                  he was being carried along above dark waters, knowing nothing<lb/><!-- let's discuss how dark will be shown -->
                   of the treacherous depths beneath him. <space quantity="1" unit="char"/>So that my contribution<lb/>
                   can be <del><unclear>m</unclear></del>no more than an attempt to show how <rs type="person" ref="#amp_person_1">Auden</rs> lived among the<lb/>
                   Austrians, on what sort of terms he was with them, and perhaps<lb/>
                   to fill in one or two gaps in what is generally known.
                </p>
                <p>
-                  <space quantity="5" unit="char"/>I got to know <rs type="person" ref="#amp_person_1">Wystan</rs> and <rs type="person" ref="#amp_person_4">Chester</rs> through <del>Chris</del> the daughter<lb/>
+                  <space quantity="5" unit="char"/>I got to know <rs type="person" ref="#amp_person_1">Wystan</rs> and <rs type="person" ref="#amp_person_4">Chester</rs> through <del rend="overtyped">Chris</del> the daughter<lb/>
                   of <rs type="person" ref="#amp_person_42">Hugo von Hofmannsthal</rs>, <rs type="person" ref="#amp_person_3">Christiane Zimmer</rs>, who was a friend of<lb/>
-                  <rs type="person" ref="#amp_person_1">Auden</rs>'s in <rs type="place" ref="#amp_place_id_28">New York</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_43">Gerty von Hofmannsthal</rs>, widow of <rs type="person" ref="#amp_person_42">the poet</rs>, who died in 1929,<lb/>
+                  <rs type="person" ref="#amp_person_1">Auden</rs>'s in <rs type="place" ref="#amp_place_id_28">New York</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_43">Gerty von Hofmannsthal</rs>, widow of <rs type="person" ref="#amp_person_42">the poet</rs>, who died in 1929,<lb/><!-- shall we think if in the last phrase we should add rend above?  -->
                   owned <rs type="place" ref="#amp_place_id_75">Sch<del>,</del>loss Prielau</rs> at the northern tip of the <rs type="place" ref="#amp_place_id_256">lake of <rs type="place" ref="#amp_place_id_74">Zell-<lb/>
                   am-See</rs></rs> in <rs type="place" ref="#amp_place_id_342">Salzburg province</rs>. <space quantity="1" unit="char"/>She had been forced to sell when the<lb/>
                   <rs type="event" ref="#amp_event_id_55">Nazis overran <rs type="place" ref="#amp_place_id_10">Austria</rs></rs> but had regained possession at about the
