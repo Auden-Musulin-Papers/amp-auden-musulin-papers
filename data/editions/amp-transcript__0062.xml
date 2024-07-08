@@ -1296,10 +1296,8 @@ for any purpose, even commercially.</p>
                         to become uppish."
                      </quote>
                   </seg>
+                <add hand="handwritten" place="inline">X INSERT 14a.</add><!-- let's check it -->
                </p>
-               <ab hand="#handwritten"><!-- restructure the markup according to the facsimile -->
-                  <add place="inline">X INSERT 14a.</add>
-               </ab>
             </div>
             <div type="prose">
                <p>
@@ -1543,7 +1541,7 @@ for any purpose, even commercially.</p>
                   of the read contributions were dry, lifeless and badly delivered,<lb/>
                   we only had to wait for the knockout blow from <rs type="person" ref="#amp_person_75">Mar<subst><del rend="overtyped">f</del><add place="superimposed">c</add></subst>el Reich-Ranicki</rs>.<lb/>
                   On the whole it was this leading West German critic with his<lb/>
-                  maddeningly declamatory style and <del rend="overtyped">monitary ind </del><space quantity="1" unit="char"/>wagging index finger<lb/><!-- let's check it; the extra space -->
+                  maddeningly declamatory style and <del rend="overtyped">monitary ind </del><space quantity="1" unit="char"/>wagging index finger<lb/>
                   who dominated the platform, but it was <rs type="person" ref="#amp_person_74">Etkind</rs> who with his quiet,<lb/>
                   reasonable argument and his good manners won the affection of<lb/>
                   everyone in the room. <space quantity="1" unit="char"/><del rend="overtyped">SA</del> A face-the-public session in the<lb/>
@@ -1600,7 +1598,7 @@ for any purpose, even commercially.</p>
                   chorus of assent.
                </p>
                <p>
-                  <space quantity="5" unit="char"/>In August 1966 <rs type="lit_work" ref="#lit_work_id_5">The Bassarids</rs><add place="above">§</add> had had its premi<add place="above">&#x300;</add>ere at the<lb/><!-- to check -->
+                  <space quantity="5" unit="char"/>In August 1966 <rs type="lit_work" ref="#lit_work_id_5">The Bassarids</rs><add place="above">§</add> had had its premie<add place="above">&#x300;</add>re at the<lb/>
                   <rs type="event" ref="#amp_event_id_56">Salzburg Festival</rs>. <space quantity="1" unit="char"/>Now, in the following year, <rs type="person" ref="#amp_person_1">Auden</rs> was invited
                </p>
                <ab>
