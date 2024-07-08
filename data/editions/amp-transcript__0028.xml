@@ -263,7 +263,7 @@ for any purpose, even commercially.</p>
                </head>
                <p>
                   <space quantity="5" unit="char"/>Since then the <rs type="person" ref="#amp_person_1">Auden</rs> industry has not been idle. <space quantity="1" unit="char"/>An<lb/>
-                  excellent <rs type="lit_work" ref="#lit_work_id_39">biography</rs> was published1 and <del>k</del>in this the Austrian<lb/>
+                  excellent <rs type="lit_work" ref="#lit_work_id_39">biography</rs> was published<add place="above">1</add> and <subst><del rend="overtyped">k</del><add place="superimposed">i</add></subst>n this the Austrian<lb/>
                   period was dealt with but not locally researched. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_98">Edward<lb/>
                   Mendelson</rs> <rs type="lit_work" ref="#lit_work_id_202 #lit_work_id_203 #lit_work_id_80">edited <rs type="person" ref="#amp_person_1">Auden</rs>´s early works</rs> and wrote superb commentaries.<lb/>
                   There has been a <rs type="lit_work" ref="#lit_work_id_48">biography of <rs type="person" ref="#amp_person_4">Chester Kallman</rs></rs>. <space quantity="1" unit="char"/>Writers of PhD<lb/>
@@ -271,7 +271,7 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_99">Michael O´Sullivan</rs> of <rs type="org" ref="#amp_organization_32">Trinity College, Dublin</rs> who - not speaking<lb/>
                   a word of German - organised a full-scale <rs type="event" ref="#amp_event_id_21">exhibition</rs> and an<lb/>
                   <rs type="event" ref="#amp_event_id_105">international symposium</rs> in <rs type="place" ref="#amp_place_id_1">Vienna</rs>. <space quantity="1" unit="char"/>The editor of <rs type="lit_work" ref="#lit_work_id_114">this volume</rs><lb/>
-                  <rs type="person" ref="#amp_person_119">Peter Müller</rs> had brought <rs type="person" ref="#amp_person_99">Michael</rs> out to see <rs type="person" ref="#amp_person_2">me</rs> at <rs type="place" ref="#amp_place_id_7">Fri<del>e</del>dau</rs> in the<lb/>
+                  <rs type="person" ref="#amp_person_119">Peter Müller</rs> had brought <rs type="person" ref="#amp_person_99">Michael</rs> out to see <rs type="person" ref="#amp_person_2">me</rs> at <rs type="place" ref="#amp_place_id_7">Fri<subst><del rend="overtyped">e</del><add place="superimposed">d</add></subst>au</rs> in the<lb/>
                   preceding year; <space quantity="1" unit="char"/>now <rs type="person" ref="#amp_person_99">he</rs> came again, and after the closure,<lb/>
                   exhausted, he spent a long weekend in the country to recover.<lb/>
                   We dug out ancient files containing original <rs type="person" ref="#amp_person_1">Auden</rs> manuscripts,<lb/>
@@ -281,13 +281,13 @@ for any purpose, even commercially.</p>
                   life in <rs type="place" ref="#amp_place_id_6">Lower Austria</rs> which are not on record, or where they are,<lb/>
                   not from the worm´s eye view. <space quantity="1" unit="char"/>As an older man <rs type="person" ref="#amp_person_1">he</rs> was happier<lb/>
                   here than anywhere else: <space quantity="1" unit="char"/>he felt at home. <space quantity="1" unit="char"/>He was at <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs><lb/>
-                  not only during the summer, <del>i</del>as is often said, but with<lb/>
+                  not only during the summer, <subst><del rend="overtyped">i</del><add place="superimposed">a</add></subst>s is often said, but with<lb/>
                   interruptions for five months, depending on his engagements.<lb/>
-                  In the course of these years he was still highly <del>productive</del><lb/>
+                  In the course of these years he was still highly <del rend="overtyped">productive</del><lb/>
                   creative. <space quantity="1" unit="char"/>So that it might, we thought, be of value to put some<lb/>
                   of those things on record which would otherwise be lost. <space quantity="1" unit="char"/>Not<lb/>
-                  for the first time self<del>.</del>-criticism was expressed, but while doubts<lb/>
-                  concerning self-importance<del><unclear>s</unclear></del>and sell-out of f<del>i</del>riendship were not<lb/>
+                  for the first time self<subst><del rend="overtyped">.</del><add place="superimposed">-</add></subst>criticism was expressed, but while doubts<lb/>
+                  concerning self-importance<del rend="whiteout"><unclear>s</unclear></del>and sell-out of f<subst><del rend="overtyped">i</del><add place="superimposed">r</add></subst>iendship were not<lb/><!-- to discuss 'whiteout' -->
                   entirely banished, the view prevailed that the local witness<lb/>
                   needs to be put on paper. <space quantity="1" unit="char"/>Scholarship is at work elsewhere;<lb/>
                   here a few appendices and footnotes are on offer.
@@ -297,15 +297,15 @@ for any purpose, even commercially.</p>
                   were, as <rs type="person" ref="#amp_person_100">Humphrey Carpenter</rs> pointed out, highly contradictory.<lb/>
                   Again and again he said that the private life of poets and other<lb/>
                   people engaged in creative work is none of the public´s business<lb/>
-                  but he also said<unclear>:</unclear><del>´</del><quote source="#lit_work_id_39">`The biography of an artist, if his life as a man<lb/>
+                  but he also said<unclear>:</unclear><del rend="overwritten">´</del><quote source="#lit_work_id_39">`The biography of an artist, if his life as a man<lb/><!-- to discuss -->
                   was sufficiently interesting, is permissible, provided that the<lb/>
                   biographer and his readers realise that such an account throws no<lb/>
                   light whatsoever upon the artist´s work."</quote> <space quantity="1" unit="char"/>And <quote source="#lit_work_id_39">"I do believe,<lb/>
-                  however, that, more often than most people realise, <del>k</del>his works<lb/>
+                  however, that, more often than most people realise, <subst><del rend="whiteout">k</del><add place="inline">h</add></subst>is works<lb/>
                   may throw light upon his life."</quote>
                </p>
                <ab>
-                  1 <rs type="person" ref="#amp_person_100">Hum<del>ö</del>phrey Carpenter</rs>: <rs type="lit_work" ref="#lit_work_id_39">W.H. Auden, a Biography</rs> (<rs type="org" ref="#amp_organization_7">Houghton Mifflin<lb/>
+                  1 <rs type="person" ref="#amp_person_100">Hum<subst><del rend="whiteout">ö</del><add place="superimposed">p</add></subst>hrey Carpenter</rs>: <rs type="lit_work" ref="#lit_work_id_39">W.H. Auden, a Biography</rs> (<rs type="org" ref="#amp_organization_7">Houghton Mifflin<lb/>
                   Company</rs>, <rs type="place" ref="#amp_place_id_155">Boston</rs> 1981.)
                </ab>
             </div>
@@ -329,16 +329,16 @@ for any purpose, even commercially.</p>
                   fundamental questions: <space quantity="1" unit="char"/>about the depths of the <rs type="person" ref="#amp_person_1">poet</rs>´s personality,<lb/>
                   his "otherness" (to confine this to his homosexuality would be to<lb/>
                   oversimplify) and the basis of his all-important relationship<lb/>
-                  with <rs type="person" ref="#amp_person_4">Chester Kallman</rs>. <space quantity="1" unit="char"/>As a star<del>it</del>ting point, <rs type="lit_work" ref="#lit_work_id_49">"Early Auden"</rs>1 which<lb/>
-                  presents an<del>s</del>d comments on the poetry, drama and prose up to 1939<lb/>
+                  with <rs type="person" ref="#amp_person_4">Chester Kallman</rs>. <space quantity="1" unit="char"/>As a star<subst><del rend="whiteout">it</del><add place="superimposed">ti</add></subst>ng point, <rs type="lit_work" ref="#lit_work_id_49">"Early Auden"</rs><add place="above">1</add> which<lb/>
+                  presents an<subst><del rend="overtyped">s</del><add place="superimposed">d</add></subst> comments on the poetry, drama and prose up to 1939<lb/>
                   is most valuable, and <rs type="person" ref="#amp_person_98">Edward Mendelson</rs> will produce further works<lb/>
                   of scholarship.
                </p>
                <p>
                   <space quantity="5" unit="char"/>What would <rs type="person" ref="#amp_person_1">Wystan Auden</rs> say if he could read <rs type="lit_work" ref="#lit_work_id_48">"Auden in Love"</rs><lb/>
-                  by <rs type="person" ref="#amp_person_4">Chester</rs>´s old coll<del>a</del>ege friend and last-minute stepmother <rs type="person" ref="#amp_person_150">Dorothy<lb/>
-                  J. Farnon</rs>?2 <space quantity="1" unit="char"/>In July 1985 the <rs type="org" ref="#amp_organization_20">Sunday Times</rs> published a <rs type="lit_work" ref="#lit_work_id_204">list of<lb/>
-                  recommended holiday <del>books</del> reading</rs>. <space quantity="1" unit="char"/>The assessment of <rs type="lit_work" ref="#lit_work_id_48">"Auden in<lb/>
+                  by <rs type="person" ref="#amp_person_4">Chester</rs>´s old coll<subst><del rend="overwritten">a</del><add place="superimposed">e</add></subst>ge friend and last-minute stepmother <rs type="person" ref="#amp_person_150">Dorothy<lb/>
+                  J. Farnon</rs>?<add place="above">2</add> <space quantity="1" unit="char"/>In July 1985 the <rs type="org" ref="#amp_organization_20">Sunday Times</rs> published a <rs type="lit_work" ref="#lit_work_id_204">list of<lb/>
+                  recommended holiday <del rend="overtyped">books</del> reading</rs>. <space quantity="1" unit="char"/>The assessment of <rs type="lit_work" ref="#lit_work_id_48">"Auden in<lb/>
                   Love"</rs> was a model of compression: <space quantity="1" unit="char"/><quote source="#lit_work_id_204">"emetic but compulsive"</quote>.<lb/>
                   I more than once came up against <rs type="person" ref="#amp_person_1">Auden</rs>´s idée fixe about the<lb/>
                   irrelevance of the poet´s private self, and asked him one day:<lb/>
@@ -349,7 +349,7 @@ for any purpose, even commercially.</p>
                   was totally inconsistent. <space quantity="1" unit="char"/>Be that as it may, if the effect on the<lb/>
                   general public was judged as emetic, <rs type="person" ref="#amp_person_1">Auden</rs>´s nausea can be<lb/>
                   imagined. <space quantity="1" unit="char"/>All the same, it is a fascinating <rs type="lit_work" ref="#lit_work_id_48">book</rs>, and for people<lb/>
-                  who knew the <rs type="person" ref="#amp_person_1 #amp_person_4">two men</rs> only in <del>r</del>the later years of their lives, does throw<lb/>
+                  who knew the <rs type="person" ref="#amp_person_1 #amp_person_4">two men</rs> only in<add place="above"> <subst><del rend="overtyped">r</del><add place="superimposed">t</add></subst></add>he later years of their lives, does throw<lb/>
                   light on apparently conflicting phenomena and makes their actions,<lb/>
                   and <rs type="person" ref="#amp_person_4">Chester</rs>´s character in particular, more comprehensible.
                </p>
@@ -357,19 +357,19 @@ for any purpose, even commercially.</p>
                   <space quantity="4" unit="char"/>When <rs type="person" ref="#amp_person_1">Auden</rs> first met <rs type="person" ref="#amp_person_4">Kallman</rs> he was just 32 and already a poet<lb/>
                   with an established reputation, respected and even revered on<lb/>
                   many a campus. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Kallman</rs> was an 18 year old undergraduate,<lb/>
-                  brilliant, beautiful, foca<del>s</del>l<del>l</del>point and leader of a crowd of young<lb/>
+                  brilliant, beautiful, foca<subst><del rend="overtyped">s</del><add place="superimposed">l</add></subst><del rend="whiteout">l</del>point and leader of a crowd of young<lb/>
                   intellectuals of both sexes. <space quantity="1" unit="char"/>He was a Dorian Grey figure,<lb/>
-                  sparkling<del>a</del>and damned, hero and victim, immature and over-ripe,<lb/>
+                  sparkling<del rend="whiteout">a</del>and damned, hero and victim, immature and over-ripe,<lb/>
                   sensitive and heartless, a man capable of loving and of being
                </p>
                <ab>
-                  1<rs type="person" ref="#amp_person_98">Edward Mendelson</rs>: <rs type="lit_work" ref="#lit_work_id_49">Early Auden</rs>, <rs type="org" ref="#amp_organization_5">Faber and Faber</rs> 1981. Also:<lb/>
+                  <add place="above">1</add><rs type="person" ref="#amp_person_98">Edward Mendelson</rs>: <rs type="lit_work" ref="#lit_work_id_49">Early Auden</rs>, <rs type="org" ref="#amp_organization_5">Faber and Faber</rs> 1981. Also:<lb/>
                   <rs type="lit_work" ref="#lit_work_id_28">W.H. Auden: Collected Poems</rs>, ed.by <rs type="person" ref="#amp_person_98">E.Mendelson</rs>, <rs type="org" ref="#amp_organization_5">Faber</rs> 1976, and<lb/>
                   <rs type="lit_work" ref="#lit_work_id_80">The English Auden</rs>, <rs type="person" ref="#amp_person_98">same Editor</rs>, <rs type="org" ref="#amp_organization_5">Faber</rs> 1977.
                </ab>
                <ab>
-                  2<rs type="person" ref="#amp_person_150">Dorothy J Farnon</rs>: <rs type="lit_work" ref="#lit_work_id_48">Auden in Love</rs>. <rs type="org" ref="#amp_organization_8">Simon &amp; Schuster, NY</rs>, <rs type="org" ref="#amp_organization_5">Faber<lb/>
-                  <space quantity="56" unit="char"/>London 1984.</rs>
+                  <add place="above">2</add><rs type="person" ref="#amp_person_150">Dorothy J Farnon</rs>: <rs type="lit_work" ref="#lit_work_id_48">Auden in Love</rs>. <rs type="org" ref="#amp_organization_8">Simon &amp; Schuster, NY</rs>, <rs type="org" ref="#amp_organization_5">Faber<lb/>
+                  <space quantity="56" unit="char"/><add place="below">London 1984.</add></rs><!-- is it an addition or am I exaggerating? -->
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0480/" type="sheet" ed="2v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0481/" type="sheet" ed="3r"/>
@@ -378,7 +378,7 @@ for any purpose, even commercially.</p>
                </fw>
                <p prev="true">
                   loved but who was already - though <rs type="person" ref="#amp_person_1">Auden</rs> did not know it -<lb/>
-                  add<del>di</del><unclear>i</unclear>cted to promiscuity. <space quantity="1" unit="char"/>In literature and music his knowledge<lb/>
+                  add<subst><del rend="whiteout">di</del><add place="superimposed"><unclear>i</unclear>c</add></subst>ted to promiscuity. <space quantity="1" unit="char"/>In literature and music his knowledge<lb/>
                   was, for his age, above average, but when important examinations<lb/>
                   loomed a kind of petulant mood would come over him and he would<lb/>
                   fail to appear.
@@ -387,13 +387,13 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs> never wanted to earn his living, and all his life he wa<unclear>s</unclear><lb/>
                   supported financially by other people, particularly by <rs type="person" ref="#amp_person_1">Auden</rs>.<lb/>
                   He usually promptly lost what he was given because he was<lb/>
-                  perpetually being robbed by se<del>ö</del>amen picked up on the wharfs of<lb/>
+                  perpetually being robbed by se<subst><del rend="whiteout">ö</del><add place="superimposed">a</add></subst>men picked up on the wharfs of<lb/>
                   <rs type="place" ref="#amp_place_id_28">New York</rs>. <space quantity="1" unit="char"/>By one of them he was robbed of three months´ income<lb/>
                   in succession. <space quantity="1" unit="char"/>Or else he gave it away: <space quantity="1" unit="char"/>no matter what actually<lb/>
                   happened, the money left his pocket.
                </p>
                <p>
-                  <del><space quantity="5" unit="char"/>The scene shifts to a flat in the <rs type="place" ref="#amp_place_id_71">Esslingasse</rs> in <rs type="place" ref="#amp_place_id_156">Vienna´s<lb/>
+                  <!-- to discuss --><del rend="whiteout"><space quantity="5" unit="char"/>The scene shifts to a flat in the <rs type="place" ref="#amp_place_id_71">Esslingasse</rs> in <rs type="place" ref="#amp_place_id_156">Vienna´s<lb/>
                   3rd District</rs>, where <rs type="person" ref="#amp_person_4">Kallman</rs> once spent the winter. <space quantity="1" unit="char"/>He gave a<lb/>
                   <rs type="event" ref="#amp_event_id_38">party</rs> one evening, and afterwards I took two or three of the men<lb/>
                   part of t<del>i</del>heir way home in my car. <space quantity="1" unit="char"/>When <rs type="person" ref="#amp_person_4">Chester</rs> told me later on<lb/>
@@ -401,19 +401,19 @@ for any purpose, even commercially.</p>
                   gone off with 2,000 schillings taken out of the pocket of a<lb/>
                   jacket hanging on the bedroom door, I could not know that this<lb/>
                   was not a mere incident but almost a matter of routine. <space quantity="1" unit="char"/></del>
-                  <rs type="event" ref="#amp_event_id_38">That winter evening in the <rs type="place" ref="#amp_place_id_71">Esslingasse</rs></rs> when one of <rs type="person" ref="#amp_person_4">Chester</rs>'s<lb/>
+                   <!-- to discuss potential addition --><rs type="event" ref="#amp_event_id_38">That winter evening in the <rs type="place" ref="#amp_place_id_71">Esslingasse</rs></rs> when one of <rs type="person" ref="#amp_person_4">Chester</rs>'s<lb/>
                   "friends" went off with what cash he could put his hands on, was,<lb/>
-                  I realised much later <del>on</del>, no isolated occasi<del>n</del>on but routine, as it<lb/>
-                  were a calculated hazard. When,<lb/>
-                  ultimately, he took with him to <rs type="place" ref="#amp_place_id_13">Athens</rs> 80,000 sch. in <del>cash</del> notes<lb/>
+                  I realised much later <del rend="overstrike">on</del>, no isolated occasi<del>n</del>on but routine, as it<lb/>
+                  were a calculated hazard. <add place="inline">When,</add><lb/><!-- to discuss -->
+                  ultimately, he took with him to <rs type="place" ref="#amp_place_id_13">Athens</rs> 80,000 sch. in <subst><del rend="overwritten">cash</del><add place="inline"> notes</add></subst><lb/>
                   (proceeds of the sale of a building plot) and lost it all on the<lb/>
                   way, this mishap was almost a foregone conclusion.
                </p>
                <p>
-                  <space quantity="4" unit="char"/>That the sexual relationship between <rs type="person" ref="#amp_person_1">Auden</rs> and <rs type="person" ref="#amp_person_4">Kallman</rs><lb/>
-                  ceased as far back as 19<del>5</del>41 is well known: <space quantity="1" unit="char"/>from that time on -<lb/>
+                 <space quantity="4" unit="char"/>That the sexual relationship between <rs type="person" ref="#amp_person_1">Auden</rs> and <rs type="person" ref="#amp_person_4">Kallman</rs><lb/>
+                  <add place= "margin">4/</add>ceased as far back as 19<subst><del rend="overwritten">5</del><add place="superimposed">4</add></subst>1 is well known: <space quantity="1" unit="char"/>from that time on -<lb/> <!-- to discuss -->
                   there is evidence in the poetry - sex and love became, for <rs type="person" ref="#amp_person_1">Auden</rs>,<lb/>
-                  t<del>o</del>wo separate matters. <space quantity="1" unit="char"/>He felt married to <rs type="person" ref="#amp_person_4">Chester</rs> (when he was<lb/>
+                  t<subst><del rend="whiteout">o</del><add place="superimposed">w</add></subst>o separate matters. <space quantity="1" unit="char"/>He felt married to <rs type="person" ref="#amp_person_4">Chester</rs> (when he was<lb/>
                   not Mother) for the rest of his life, and he wrote that <rs type="person" ref="#amp_person_4">Chester</rs><lb/>
                   was the only person who, emotionally and intellectually, was<lb/>
                   wholly indispensable to him.
@@ -444,15 +444,15 @@ for any purpose, even commercially.</p>
                <p prev="true">
                   smirk of satisfaction: "I sent him up on to the roof to mend tiles."<lb/>
                   But fundamentally nothing had changed between them: <space quantity="1" unit="char"/>this explains<lb/>
-                  <del>his</del><rs type="person" ref="#amp_person_1">Auden</rs>´s intense anxiety over the <rs type="event" ref="#amp_event_id_2">death of <rs type="person" ref="#amp_person_23">Boras</rs></rs> in a car accident in<lb/>
+                  <subst><del rend="overtyped">his</del><add place="superimposed"><rs type="person" ref="#amp_person_1">Auden</rs>´s</add></subst> intense anxiety over the <rs type="event" ref="#amp_event_id_2">death of <rs type="person" ref="#amp_person_23">Boras</rs></rs> in a car accident in<lb/>
                   <rs type="place" ref="#amp_place_id_6">Lower Austria</rs>, and his fear <ref target="acdh:amp-transcript__0011.xml acdh:amp-transcript__0012.xml acdh:amp-transcript__0013.xml">communicated itself to me</ref> as I searched<lb/>
                   for <rs type="person" ref="#amp_person_4">Chester</rs> in <rs type="place" ref="#amp_place_id_1">Vienna</rs>. <space quantity="1" unit="char"/>It was nearly Christmas, what on earth<lb/>
                   would become of him, distraught and alone? <space quantity="1" unit="char"/>(He had in fact not<lb/>
-                  go<del>en</del>ne to <rs type="place" ref="#amp_place_id_10">Austria</rs> after all, but had not let <rs type="person" ref="#amp_person_1">Auden</rs> know.) There<lb/>
-                  followed the gloomy summer <del>l</del>of 1969 when <rs type="person" ref="#amp_person_4">Chester</rs> was sunk in deep<lb/>
-                  depression while <rs type="person" ref="#amp_person_1">W<del><unclear>E</unclear></del>yśtan</rs> had a full work programme, and when he<lb/>
+                  go<subst><del rend="whiteout">en</del><add place="superimposed">ne</add></subst> to <rs type="place" ref="#amp_place_id_10">Austria</rs> after all, but had not let <rs type="person" ref="#amp_person_1">Auden</rs> know.) There<lb/>
+                  followed the gloomy summer <subst><del rend="whiteout">l</del><add place="superimposed">o</add></subst>f 1969 when <rs type="person" ref="#amp_person_4">Chester</rs> was sunk in deep<lb/>
+                  depression while <rs type="person" ref="#amp_person_1">W<subst><del rend="whiteout"><unclear>E</unclear></del><add place="superimposed">y</add></subst>śtan</rs> had a full work programme, and when he<lb/>
                   told me he could hardly think how <rs type="person" ref="#amp_person_4">Chester</rs> would get through the<lb/>
-                  summer1 this was indeed Mother speaking.
+                  summer<add place="above">1</add> this was indeed Mother speaking.
                </p>
                <p>
                   <space quantity="5" unit="char"/>What was it in <rs type="person" ref="#amp_person_4">Chester Kallman</rs> that made him so entirely<lb/>
@@ -460,31 +460,31 @@ for any purpose, even commercially.</p>
                   answer; <space quantity="1" unit="char"/>some may hold it to be inadmissible, or attempts to find<lb/>
                   points of reference impertinent. <space quantity="1" unit="char"/>Others again may find the whole<lb/>
                   subject unappetising. <space quantity="1" unit="char"/>But to anyone with an interest in psychology,<lb/>
-                  in the processes of cre<del>w</del>ativity in general and in those of <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
+                  in the processes of cre<subst><del rend="whiteout">w</del><add place="superimposed">a</add></subst>tivity in general and in those of <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
                   in particular, there is no way of getting round this essential<lb/>
                   relationship. <space quantity="1" unit="char"/>It may, after all, come to be seen as one of the<lb/>
                   most curious in the history of English literature.
                </p>
                <p>
-                  <space quantity="5" unit="char"/>In their love of music, of opera above all, <rs type="person" ref="#amp_person_4">Kallman<del>n</del></rs>was in<lb/>
+                  <space quantity="5" unit="char"/>In their love of music, of opera above all, <rs type="person" ref="#amp_person_4">Kallman<del rend="whiteout">n</del></rs>was in<lb/>
                   the lead. <space quantity="1" unit="char"/>He was a minor poet who wrote because he needed to do so,<lb/>
                   but his output was slight. <space quantity="1" unit="char"/>Yet in many spheres which were of<lb/>
                   intense interest to <rs type="person" ref="#amp_person_1">Auden</rs> he had little, sometimes nothing to offer:<lb/>
-                  German literature (though <rs type="person" ref="#amp_person_4">Chester</rs> picked <del>i</del>up languages with uncommon<lb/>
-                  facility; <rs type="person" ref="#amp_person_1">Wystan</rs>´s <del>G</del> spoken German was execrable but his compre-<lb/>
+                  German literature (though <rs type="person" ref="#amp_person_4">Chester</rs> picked <subst><del rend="whiteout">i</del><add place="superimposed">u</add></subst>p languages with uncommon<lb/>
+                  facility; <rs type="person" ref="#amp_person_1">Wystan</rs>´s <del rend="whiteout">G</del> spoken German was execrable but his compre-<lb/>
                   hension unerring), the history of cultures, religion and liturgy,<lb/>
                   translation. <space quantity="1" unit="char"/>When I was with <rs type="person" ref="#amp_person_1 #amp_person_4">them</rs> <rs type="person" ref="#amp_person_1">Wystan</rs> did not only most of the<lb/>
                   talking, but of the asking as well; his great charm lay in his<lb/>
                   alert interest in other people´s work, and he would draw one out<lb/>
                   on the odder backwaters of Austrian history. <space quantity="1" unit="char"/>This side of him comes<lb/>
                   out in a <ref target="acdh:amp-transcript__0041.xml">letter dated 6 July 1970</ref>. <space quantity="1" unit="char"/><rs type="event" ref="#amp_event_id_22" ana="acdh:amp-transcript__0053.xml#ana_024">When the historian <rs type="person" ref="#amp_person_54">Friedrich<lb/>
-                  Heer</rs> and <del>Y</del><rs type="person" ref="#amp_person_1">Auden</rs>, both entranced, struck sparks off one another all<lb/>
+                  Heer</rs> and <rs type="person" ref="#amp_person_1"><subst><del rend="overtyped">Y</del><add place="superimposed">A</add></subst>uden</rs>, both entranced, struck sparks off one another all<lb/><!-- I restructured the 'rs' -->
                   afternoon</rs>, <rs type="person" ref="#amp_person_4">Kallman</rs> was silent. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Kallman</rs> lacked <rs type="person" ref="#amp_person_1">Auden</rs>´s sensitivity<lb/>
-                  to places and people, <del>ot</del> to the <hi rend="underline">genius loci</hi>; <space quantity="1" unit="char"/>perhaps it was just<lb/>
+                  to places and people, <del rend="overtyped">ot</del> to the <hi rend="underline">genius loci</hi>; <space quantity="1" unit="char"/>perhaps it was just<lb/>
                   that he was an American, and a New Yorker, while <rs type="person" ref="#amp_person_1">Auden</rs> never
                </p>
                <ab>
-                  1 refers to <rs type="note" ana="#ana_047">1976 text</rs>.
+                  <add place="above">1</add> refers to <rs type="note" ana="#ana_047">1976 text</rs>.
                </ab>
             </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0484/" type="sheet" ed="4v"/>
