@@ -2104,7 +2104,7 @@ for any purpose, even commercially.</p>
                               this and reject that, on condition that both were real objects<lb/>
                               in the Primary World, to choose, for example, between two kinds of<lb/>
                               water-turb<subst><del rend="overtyped">u</del><add place="superimposed">i</add></subst>ne, which could be found in a text-book on mining<lb/>
-                              machinery or a manufacturer's catalogue: <space quantity="1" unit="char"/>but I was not free to<lb/><!-- we need to duscuss how to mark up manufacturer -->
+                              machinery or a manufactu<add place="inline">r</add>er's catalogue: <space quantity="1" unit="char"/>but I was not free to<lb/><!-- we need to duscuss how to mark up manufacturer -->
                               invent one. <space quantity="1" unit="char"/>In deciding how my world was to function, I could<lb/>
                               choose between two practical possibilities <space quantity="1" unit="char"/>- a mine can be drained
                            </p>
@@ -2133,7 +2133,7 @@ for any purpose, even commercially.</p>
                               of belief'. <space quantity="1" unit="char"/>A poet must never make a statement simply because<lb/>
                               it sounds poetically exciting: <space quantity="1" unit="char"/>he must also believe it to be true.<lb/>
                               This does not mean, of course, that one can only appreciate a<lb/>
-                              poet whose beliefs happen to co-incide with one's own. <space quantity="1" unit="char"/>It does<lb/>
+                              poet whose beliefs happen to co-incide with one<add place="inline">'</add>s own. <space quantity="1" unit="char"/>It does<lb/>
                               mean, however, that one must be convinced that the poet really<lb/>
                               believes what he says, however odd the belief may seem to oneself.
                            </p>
@@ -2197,9 +2197,9 @@ for any purpose, even commercially.</p>
                               an art-historian to date a work, at least, approximately. <space quantity="1" unit="char"/>If,<lb/>
                               for example, one listens to a composition by <rs type="person" ref="#amp_person_24">Palestrina</rs> and one by<lb/>
                               <rs type="person" ref="#amp_person_13">Mozart</rs>, one knows immediately that, quit<subst><del rend="overtyped">d</del><add place="superimposed">e</add></subst> aside from their artistic<lb/>
-                              merits, <rs type="person" ref="#amp_person_24">Palestrina</rs> must have live<subst><del rend="overtyped">e</del><add place="superimposed">d</add></subst> earlier than <rs type="person" ref="#amp_person_13">Mozart</rs>: <space quantity="1" unit="char"/>he could<lb/>
+                              merits, <rs type="person" ref="#amp_person_24">Palestrina</rs> must have live<subst><del rend="overtyped">e</del><add place="superimposed">d</add></subst> earlier than <rs type="person" ref="#amp_person_13">Mozart</rs>: <space quantity="1" unit="char"/>he could<lb/><!-- whiteout or overtyped? -->
                               not possibly have written as he did after <rs type="person" ref="#amp_person_13">Mozart</rs>. <space quantity="1" unit="char"/>By Permanence,<lb/>
-                              I mean that<del rend="overtyped">h</del> the work continues to have relevance<del rend="overstrike">,</del> and importance<lb/>
+                              I mean that<del rend="overtyped">h</del> the work continues to have relevance<del rend="overtyped">,</del> and importance<lb/>
                               long after its creator is dead. <space quantity="1" unit="char"/>In the history of Art, unlike the<lb/>
                               history of Science, no genuine work of art is made obsolete by a<lb/>
                               later work. <space quantity="1" unit="char"/>Past science is of interest only to the historian of<lb/>
@@ -2220,7 +2220,7 @@ for any purpose, even commercially.</p>
                               past without having a profound reverence for it.
                            </p>
                            <p>   
-                              <space quantity="4" unit="char"/>There are periods in history when the arts develop uninterr-<lb/>
+                              <space quantity="4" unit="char"/><add place="superimposed">T</add><unclear>T</unclear>here are periods in history when the arts develop uninterr-<lb/>
                               uptedly, each generation building on the achievements of the<lb/>
                               previous generation. <space quantity="1" unit="char"/>There are other periods when radical breaks<lb/>
                               seem to be ne<subst><del rend="overtyped">f</del><add place="superimposed">c</add></subst>essary. <space quantity="1" unit="char"/>However, when they are, one will generally<lb/>
@@ -2307,8 +2307,8 @@ for any purpose, even commercially.</p>
                              one political function. <space quantity="1" unit="char"/>Since language is his medium, it is his<lb/>
                              duty, by hi<subst><del rend="overwritten">w</del><add place="superimposed">s</add></subst> own example, to defend his mother-tongue against<lb/>
                              corruption by demagogues, journalists, the mass-media etc. <space quantity="1" unit="char"/>As<lb/>
-                             <rs type="person" ref="#amp_person_81">Karl Kraus</rs> said: <space quantity="1" unit="char"/><quote source="#lit_work_id_173">"<foreign xml:lang="de"><del><gap quantity="1" unit="char" reason="deleted"/></del><hi rend="underline"><unclear><del rend="overwritten"><subst><del rend="overtyped">E</del><add place="superimposed">D</add></subst>D</del></unclear>Die Sprache ist die Mutter, nicht das Magd</hi>,<lb/><!-- to discuss -->
-                             des Gedankens</foreign><del rend="overstrike">.</del>"</quote>, and when language loses its meaning, <del rend="overtyped">social </del><lb/>
+                             <rs type="person" ref="#amp_person_81">Karl Kraus</rs> said: <space quantity="1" unit="char"/><quote source="#lit_work_id_173">"<foreign xml:lang="de"><del><gap quantity="1" unit="char" reason="deleted"/></del><hi rend="underline"><unclear><del rend="overwritten"><subst><del rend="overtyped">E</del><add place="superimposed">D</add></subst></del></unclear><add place="superimposed">D</add>ie Sprache ist die Mutter, nicht das Magd</hi>,<lb/><!-- to discuss/ to check -->
+                             des Gedankens</foreign><del rend="overtyped">.</del>"</quote>, and when language loses its meaning, <del rend="overtyped">social<space quantity="1" unit="char"/></del><lb/>
                              its place is taken by violence. <space quantity="1" unit="char"/>Of course, the poet may use<lb/>
                              political and social events as subject-matter for poems - they<lb/>
                              are as much a part of human experience as love or nature - bu<subst><del rend="overtyped">z</del><add place="superimposed">t</add></subst><lb/>
@@ -2324,7 +2324,7 @@ for any purpose, even commercially.</p>
                              are powerless.
                           </p>
                           <p>
-                             <space quantity="4" unit="char"/>The second confusion, of which <rs type="person" ref="#amp_person_30">Plato</rs> is the most famous examp<subst><del rend="overtyped">o</del><add place="superimposed">l</add></subst>e,<lb/><!-- how to tag 'most' -->
+                             <space quantity="4" unit="char"/>The second confusion, of which <rs type="person" ref="#amp_person_30">Plato</rs> is the mo<add place="inline">s</add>t famous examp<subst><del rend="overtyped">o</del><add place="superimposed">l</add></subst>e,<lb/><!-- how to tag 'most' -->
                              is to take artistic fabrication as the model f<subst><del rend="overtyped">r</del><add place="superimposed">o</add></subst>r a good society.
                           </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0416/" type="sheet" ed="31v"/>
