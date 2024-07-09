@@ -351,13 +351,13 @@ for any purpose, even commercially.</p>
                      sometimes quite erroneously called 'self-expression'. If I write a poem<lb/>
                      about <del rend="overtyped">ceratin</del> experiences I have had,I do so<del rend="overtyped">,not bec</del> bec<subst><del rend="overwritten">ua</del><add place="superimposed"><unclear>a</unclear>u</add></subst>se I think it<lb/>
                      <subst><del rend="overstrike">may</del><add place="left">should</add></subst> be of interest and value to others<del rend="overtyped">,not</del>: the fact that it has till now<lb/>
-                     only been <add place="inline">&#x332;</add>m<add place="inline">&#x332;</add>y exper<subst><del rend="overwritten">ei</del><add place="superimposed">ie</add></subst>nce is accidental. What the poet or any artist has to convey<lb/>
+                     only been <add place="inline">&#x332;</add>m<add place="inline">&#x332;</add>y exper<subst><del rend="overwritten">ei</del><add place="superimposed">ie</add></subst>nce is accidental. What the poet or any artist has to convey<lb/><!-- we need to add 'span' from to and the correspondent word that the line is below  -->
                      is a perception of a reality common to all,but seen from a unique perpsective,<lb/>
                      which it is his duty as well as his pleasure to share with others. To small<lb/>
                      truths as well as great,<rs type="person" ref="#amp_person_111">St Augustine</rs>'s words apply.<lb/>
                      <seg>
                         <quote source="#lit_work_id_171">
-                           <space quantity="12" unit="char"/><hi rend="underline">The truth is neither mine nor his nor another's;but belongs</hi><lb/>
+                           <space quantity="12" unit="char"/><hi rend="underline">The truth is neither mine nor his nor another's;but belongs</hi><lb/> <!-- replace hi with add place below -->
                            <space quantity="12" unit="char"/><hi rend="underline">to us all whom Thou callest to partake of it: warning us</hi><lb/>
                            <space quantity="12" unit="char"/><hi rend="underline">terribly,not to account it private to ourselves,lest we be</hi><lb/>
                            <space quantity="12" unit="char"/><hi rend="underline">deprived of it.</hi>

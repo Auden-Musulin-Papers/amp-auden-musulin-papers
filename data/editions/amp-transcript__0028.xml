@@ -507,13 +507,13 @@ for any purpose, even commercially.</p>
                   <space quantity="4" unit="char"/>On his own ground, operatic libretti, <rs type="person" ref="#amp_person_4">Chester Kallman</rs> was<lb/>
                   still in good running order, and <rs type="event" ref="#amp_event_id_113">when the <rs type="lit_work" ref="#lit_work_id_3">Rake´s Progress</rs> was put<lb/>
                   on</rs> in <rs type="place" ref="#amp_place_id_1">Vienna</rs> he wrote a <rs type="lit_work" ref="#lit_work_id_207">letter</rs> to <hi rend="underline"><rs type="org" ref="#amp_organization_39">Die Presse</rs></hi> protesting sharply<lb/>
-                  <del>over</del><del>AGAINST</del>against the cuts <del>which had been</del> made by the <rs type="person" ref="#amp_person_250">producer</rs>. <space quantity="1" unit="char"/>But of that<lb/>
+                  <del rend="overtyped">over</del><subst><del rend="whiteout"><add place="left">AGAINST</add></del><add place="left">against</add></subst> the cuts <del rend="overtyped">which had been</del> made by the <rs type="person" ref="#amp_person_250">producer</rs>. <space quantity="1" unit="char"/>But of that<lb/><!-- to discuss but I think I have it correct -->
                   conversational brilliance which old friends have described there<lb/>
                   was little sign. <space quantity="1" unit="char"/>A scene comes to mind: <rs type="person" ref="#amp_person_1">Auden</rs> was away, and <rs type="person" ref="#amp_person_4">Chester</rs><lb/>
                   asked me to meet him for lunch at a restaurant off the <rs type="place" ref="#amp_place_id_235">Kärntner-<lb/>
                   strasse</rs>. <space quantity="1" unit="char"/>A young man whose background clearly lay somewhere<lb/>
                   within the crime belt near the <rs type="place" ref="#amp_place_id_158">Prater</rs> was with him, and soon the<lb/>
-                  youth <unclear>s</unclear>and I were engrossed in conversation, while <rs type="person" ref="#amp_person_4">Chester</rs> feeling<lb/>
+                  youth <del rend="whiteout"><unclear>s</unclear></del>and I were engrossed in conversation, while <rs type="person" ref="#amp_person_4">Chester</rs> feeling<lb/>
                   out of it, sulked. <space quantity="1" unit="char"/>Immediately after coffee it seemed best to<lb/>
                   leave them. <space quantity="2" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs>´s intelligence and wit had not deserted him<lb/>
                   but they had too little scope, and, perhaps owing to his carp-like<lb/>
@@ -526,26 +526,26 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="5" unit="char"/>It cannot, all the same, have been easy living on a long-term<lb/>
-                  basis with <rs type="person" ref="#amp_person_1">Auden</rs> in <rs type="place" ref="#amp_place_id_28">New Yo<del>w</del>rk</rs> while attempting, even though<lb/>
-                  fitfully, to develop his own personality and talents. <space quantity="1" unit="char"/>Putting up with <rs type="person" ref="#amp_person_1">Auden</rs>´s<lb/>
+                  basis with <rs type="person" ref="#amp_person_1">Auden</rs> in <rs type="place" ref="#amp_place_id_28">New Yo<subst><del rend="whiteout">w</del><add place="superimposed">r</add></subst>k</rs> while attempting, even though<lb/>
+                  fitfully,<add place="left"> to develop</add> his own personality and talents. <space quantity="1" unit="char"/>Putting up with <rs type="person" ref="#amp_person_1">Auden</rs>´s<lb/>
                   fads, his insistence on punctuality and the rigid routine was one<lb/>
                   thing; <space quantity="1" unit="char"/>to grow up, to mature in the shadow of this oversized tree<lb/>
                   was another. <space quantity="1" unit="char"/>There was not enough light. <space quantity="1" unit="char"/>So he fled, but without<lb/>
                   Mother there was no way he could live at all.
                </p>
                <p>
-                  <space quantity="5" unit="char"/>It is essentia<del>sl</del>l, in the light of what happened later on, to<lb/>
+                  <space quantity="5" unit="char"/>It is essentia<subst><del rend="whiteout">sl</del><add place="superimposed">l,</add></subst> in the light of what happened later on, to<lb/>
                   remember <rs type="person" ref="#amp_person_1">Auden</rs>´s generosity. <space quantity="1" unit="char"/>His <rs type="person" ref="#amp_person_100">biographer</rs> mentioned the two boys<lb/>
                   whose further education was financed by <rs type="person" ref="#amp_person_1">Auden</rs>: <space quantity="1" unit="char"/>I can confirm this<lb/>
                   as we lived next door to them for a few years. <space quantity="1" unit="char"/>They were the sons of<lb/>
                   an artist; <space quantity="1" unit="char"/>both made rapid careers in industrial management. <space quantity="1" unit="char"/>But<lb/>
-                  there were other examples. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Wyst<del>s</del><unclear>a</unclear>n</rs> had telephoned and asked me to<lb/>
+                  there were other examples. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Wyst<subst><del rend="overtyped">s</del><add place="superimposed"><unclear>a</unclear></add></subst>n</rs> had telephoned and asked me to<lb/>
                   meet him and <rs type="person" ref="#amp_person_4">Chester</rs> at the <rs type="place" ref="#amp_place_id_92">Operncafé</rs> - the much-missed café-<lb/>
                   restaurant next to the <rs type="org" ref="#amp_organization_90">Opera</rs>, now a car salesroom. <space quantity="1" unit="char"/>They were waiting<lb/>
                   for <rs type="person" ref="#amp_person_86">Balanchine</rs> to join them after the performance, but we waited in<lb/>
-                  vain and fi<del>kn</del>n<unclear>a</unclear>lly gave up and went home. <space quantity="1" unit="char"/>There was a fourth at our<lb/>
+                  vain and fi<subst><del rend="whiteout">kn</del><add place="superimposed">n<unclear>a</unclear></add></subst>lly gave up and went home. <space quantity="1" unit="char"/>There was a fourth at our<lb/>
                   table, a silent young man who, <rs type="person" ref="#amp_person_4">Chester</rs> said in an undertone, was<lb/>
-                  a <rs type="note" ana="acdh:amp-transcript__0062.xml#ana_043">student of technology and <rs type="person" ref="#amp_person_1">Wyst<del>sa</del>an</rs> was helping with his studies</rs>.
+                  a <rs type="note" ana="acdh:amp-transcript__0062.xml#ana_043">student of technology and <rs type="person" ref="#amp_person_1">Wyst<subst><del rend="whiteout">sa</del><add place="superimposed">an</add></subst></rs> was helping with his studies</rs>.
                </p>
             </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0486/" type="sheet" ed="5v"/>
@@ -573,13 +573,15 @@ for any purpose, even commercially.</p>
             </div>
             <div>
                <ab>
+                  <add place="margin"> <!-- to discuss -->
                   &#x2192;
+                  </add>
                </ab>
             </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0488/" type="sheet" ed="5av"/>
                <div>
                   <ab xml:lang="de">
-                     <del><rs type="place" ref="#amp_place_id_11">NEULINGGASSE 26/14
+                     <del rend="overstrike"><rs type="place" ref="#amp_place_id_11">NEULINGGASSE 26/14
                      <lb/>1030 WIEN</rs>
                      <lb/>TEL. 73 94 015</del>
                   </ab>
@@ -590,16 +592,16 @@ for any purpose, even commercially.</p>
                   <space quantity="28" unit="char"/>- 6 -
                </fw>
                <p prev="true">
-                  <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> the question cropped <del>i</del>up whether he would be willing<lb/>
+                  <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> the question cropped <del rend="whiteout">i</del>up whether he would be willing<lb/>
                   to <rs type="note" ana="acdh:amp-transcript__0009.xml#ana_012">lend the <rs type="place" ref="#amp_place_id_2">house</rs> to a <rs type="person" ref="#amp_person_155">Czech refugee</rs> and <rs type="person" ref="#amp_person_171">his wife</rs></rs>. <space quantity="1" unit="char"/>By mid-<lb/>
                   October <rs type="person" ref="#amp_person_1">Auden</rs> was in <rs type="place" ref="#amp_place_id_239">England</rs>, and he wrote from <rs type="place" ref="#amp_place_id_56">London</rs>, c/o<lb/>
                   <rs type="person" ref="#amp_person_19">Heyworth</rs>, <rs type="place" ref="#amp_place_id_45">32 Bryanston Square</rs>:<lb/>
                   <seg>
                      <quote source="acdh:amp-transcript__0009.xml">Dear <rs type="person" ref="#amp_person_2">Stella</rs>, <rs type="event" ref="#amp_event_id_87">Got back from <rs type="place" ref="#amp_place_id_46">Oxford</rs> yesterday</rs> and found <rs type="event" ref="#amp_event_id_88">your<lb/>
                      letter</rs> waiting. <space quantity="1" unit="char"/>1) I think I ought to take the <rs type="person" ref="#amp_person_155 #amp_person_171">couple</rs> <rs type="place" ref="#amp_place_id_2">in</rs>,<lb/>
-                     but I m<del>k</del>ust leave it to you to decide whether they are O.K.<lb/>
+                     but I m<del rend="overtyped">k</del>ust leave it to you to decide whether they are O.K.<lb/>
                      If they are, all rooms, including my study (which can´t be<lb/>
-                     heated) are open to them. <space quantity="2" unit="char"/>2) <space quantity="1" unit="char"/>How m<del>ku</del>uch money will they need<lb/>
+                     heated) are open to them. <space quantity="2" unit="char"/>2) <space quantity="1" unit="char"/>How m<subst><del rend="whiteout">ku</del><add place="superimposed">uc</add></subst>h money will they need<lb/>
                      to keep going? <space quantity="1" unit="char"/>And how shall I make the arrangements for<lb/>
                      payment. <space quantity="1" unit="char"/>3) Will they be able to find work or emigrate<lb/>
                      before I return in April, when I´m afraid there will not<lb/>
@@ -611,7 +613,7 @@ for any purpose, even commercially.</p>
                   </seg>
                </p>
                <p>
-                  <space quantity="4" unit="char"/>In the end nothing came of <del>ö</del><unclear>i</unclear>t, but the letter is quoted<lb/>
+                  <space quantity="4" unit="char"/>In the end nothing came of <subst><del rend="whiteout">ö</del><add place="inline"><unclear>i</unclear></add></subst>t, but the letter is quoted<lb/>
                   here because it is so characteristic; <space quantity="1" unit="char"/>the follow-up is even<lb/>
                   more so.
                </p>
@@ -638,8 +640,8 @@ for any purpose, even commercially.</p>
                   </floatingText>
                </quote>
                <p>
-                  <space quantity="5" unit="char"/>Great generosity (these facts<del>, even separately</del>are known<lb/>
-                  to no more than two or three people) <del>ed <space quantity="1" unit="char"/>e<unclear>xi</unclear>sted</del>combined in <rs type="person" ref="#amp_person_1">Auden</rs>´s<lb/>
+                  <space quantity="5" unit="char"/>Great generosity (these facts<del rend="overstrike">, even separately</del><add place="superimposed"><space quantity="1" unit="char"/></add>are known<lb/><!-- to disccss the addition of space -->
+                  to no more than two or three people) <subst><del rend="overtyped">ed <space quantity="1" unit="char"/>e<unclear>xi</unclear>sted</del><add place="above">combined in</add></subst> <rs type="person" ref="#amp_person_1">Auden</rs>´s<lb/>
                   character quite readily with his legendary stinginess in the<lb/>
                   small things of everyday life such as stamps or cigarettes.<lb/>
                   <rs type="org" ref="#amp_organization_15">"Life" magazine</rs>, he told me one day with a beaming smile, had<lb/>
@@ -647,10 +649,10 @@ for any purpose, even commercially.</p>
                   of building on a diningroom." <space quantity="1" unit="char"/>"Very good idea" I said,<lb/>
                   "but for a start I shall smoke your cigarettes for the rest of<lb/>
                   the afternoon." <space quantity="1" unit="char"/>I very much doubt whether I did. <space quantity="1" unit="char"/>On the other<lb/>
-                  hand he would order things to be sent out from <rs type="place" ref="#amp_place_id_1">Vienna</rs> <del>a</del>without<lb/>
+                  hand he would order things to be sent out from <rs type="place" ref="#amp_place_id_1">Vienna</rs> <del rend="whiteout">a</del>without<lb/>
                   a second thought. <space quantity="1" unit="char"/>After <rs type="event" ref="#amp_event_id_34">his car accident</rs> he sent me a message<lb/>
                   and I drove out to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>. <space quantity="1" unit="char"/>He was dishevelled and cross.<lb/>
-                  It´s a curious thing, he said, but the first chap <del>you see</del> who<lb/>
+                  It´s a curious thing, he said, but the first chap <del rend="overtyped">you see</del> who<lb/>
                   takes any notice of you when you´re carried into hospital is not
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0490/" type="sheet" ed="6v"/>
@@ -659,7 +661,7 @@ for any purpose, even commercially.</p>
                   <space quantity="26" unit="char"/>- 7 -
                </fw>
                <p prev="true">
-                  the doctor but the man from the accounts offic<del>d</del>e who wants to<lb/>
+                  the doctor but the man from the accounts offic<subst><del rend="whiteout">d</del><add place="superimposed">e</add></subst> who wants to<lb/>
                   know how you propose to pay for your treatment. <space quantity="1" unit="char"/>No, he said,<lb/>
                   he didn´t really need anything and <rs type="person" ref="#amp_person_4">Chester</rs> would arrive shortly,<lb/>
                   but he was running out of gin. <space quantity="2" unit="char"/>If I´d be an angel and ring<lb/>
@@ -668,46 +670,46 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="5" unit="char"/>When the friendly voice on the end of the line had repeated<lb/>
-                  the order I<del>ö</del>asked when they would be making their next delivery<lb/>
+                  the order I<del rend="whiteout">ö</del>asked when they would be making their next delivery<lb/>
                   in the area around <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>. <space quantity="1" unit="char"/>"Oh but we never deliver out<lb/>
                   there" said the voice, "We make a special trip for the <rs type="person" ref="#amp_person_1"><foreign xml:lang="de">Herr<lb/>
                   Professor</foreign></rs>." <space quantity="1" unit="char"/>Startled, I exclaimed "For goodness´ sake, that must<lb/>
                   cost him a packet - you can buy that brand of gin in <rs type="place" ref="#amp_place_id_79">Böheimkirchen</rs>!"<lb/>
                   "Certainly you can" said the voice which now sounded amused,<lb/>
                   "but why do we have to worry our heads over the way a <foreign xml:lang="de">Herr<lb/>
-                  Profess<del>s</del>or</foreign> flings his money around?" <space quantity="1" unit="char"/>I liked the "we".
+                  Profess<subst><del rend="overtyped">s</del><add place="superimposed">o</add></subst>r</foreign> flings his money around?" <space quantity="1" unit="char"/>I liked the "we".
                </p>
                <p>
-                  <space quantity="4" unit="char"/>What was so American about the kitchen?1
+                  <space quantity="4" unit="char"/>What was so American about the kitchen?<add place="above">1</add>
                </p>
                <p>
-                  <space quantity="4" unit="char"/>When fitted kitchens first came in the Austrians calle<del>s</del>d<del>d</del><lb/>
-                  them "American" - the term is now as ex<del>d</del>tinct as "Russian" tea<lb/>
+                  <space quantity="4" unit="char"/>When fitted kitchens first came in the Austrians calle<subst><del rend="whiteout">s</del><add place="superimposed">d</add></subst><del rend="whiteout">d</del><lb/>
+                  them "American" - the term is now as ex<subst><del rend="overwritten">d</del><add place="superimposed">t</add></subst>inct as "Russian" tea<lb/>
                   but m<del>k</del>ust still have been common parlance in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>.
                </p>
                <p>
                   <space quantity="5" unit="char"/>There was a tidy line-up consisting of fridge, sink, low<lb/>
-                  cupboards providing a good working surface,<del>,</del>a corner <del>f</del>cupboard<lb/>
-                  the interior of which s<del>x</del>wung out, and a gas stove. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4 #amp_person_1">Both men</rs> were<lb/>
+                  cupboards providing a good working surface,<del rend="whiteout">,</del>a corner <subst><del rend="whiteout">f</del><add place="superimposed">c</add></subst>upboard<lb/>
+                  the interior of which s<subst><del rend="overtyped">x</del><add place="superimposed">w</add></subst>ung out, and a gas stove. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4 #amp_person_1">Both men</rs> were<lb/>
                   very proud of the kitchen and it became <rs type="person" ref="#amp_person_4">Chester</rs>´s habitat.<lb/>
                   But the whole point of a modern kitchen: <space quantity="1" unit="char"/>the labour-saving<lb/>
                   working area, ample storage space, accessibility, was totally<lb/>
                   cancelled out by the permanent clutter. <space quantity="1" unit="char"/>It was a matter of<lb/>
-                  principle with <rs type="person" ref="#amp_person_4">Chester</rs> to have all cooking ingredients con<del>c</del>veniently<lb/>
+                  principle with <rs type="person" ref="#amp_person_4">Chester</rs> to have all cooking ingredients con<subst><del rend="whiteout">c</del><add place="superimposed">v</add></subst>eniently<lb/>
                   to hand, which meant that nothing was ever put away, and where<lb/>
                   his loving eye saw method, even the least fussy visitor could<lb/>
                   only see a shambles. <space quantity="1" unit="char"/>But an interesting shambles owing to the<lb/>
                   exotic nature of the preserved foods and spices which <rs type="person" ref="#amp_person_4">Chester</rs><lb/>
-                  brought with him. <space quantity="1" unit="char"/>There was <del>a</del> for example a dried leaf which,<lb/>
+                  brought with him. <space quantity="1" unit="char"/>There was <del rend="overtyped">a</del> for example a dried leaf which,<lb/>
                   detected by me in a casserole, was said to have no flavour but<lb/>
                   to serve as a stimulus or bridge to other flavours.
                </p>
                <p>
                   <space quantity="4" unit="char"/>It was clear from the beginning that the <rs type="person" ref="#amp_person_4 #amp_person_1">two of them</rs> were<lb/>
-                  not so much drinking as eating their way into their graves <del>i</del>owing
+                  not so much drinking as eating their way into their graves <subst><del rend="overtyped">i</del><add place="superimposed">o</add></subst>wing
                </p>
                <ab>
-                  1 <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Wystan Auden</rs>, <del>A</del><rs type="lit_work" ref="#lit_work_id_101">On Installing an American Kitchen in Lower<lb/>
+                  <add place="above">1</add> <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Wystan Auden</rs>, <rs type="lit_work" ref="#lit_work_id_101"><subst><del rend="whiteout">A</del><add place="superimposed">O</add></subst>n Installing an American Kitchen in Lower<lb/>
                   <space quantity="3" unit="char"/>Austria</rs>, in <rs type="lit_work" ref="#lit_work_id_2">Homage to Clio</rs>, (<rs type="org" ref="#amp_organization_5">Faber and Faber</rs> 1960).
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0492/" type="sheet" ed="7v"/>
@@ -719,27 +721,27 @@ for any purpose, even commercially.</p>
                   to the enormous fat content of some of the dishes. <space quantity="1" unit="char"/>I remember<lb/>
                   my horror as I watched a sauce being prepared in the mixer before<lb/>
                   it was re-heated to accompany the roast duck. <space quantity="1" unit="char"/>It consisted of<lb/>
-                  equal parts of rendered down duck <del>v</del>fat, and cream, and would have<lb/>
-                  sustained a miner at the <del>cola</del> coal face for an indefinite period<lb/>
-                  of time. <space quantity="1" unit="char"/>If they could possibly help<del>i</del>it, of course, neither<lb/>
+                  equal parts of rendered down duck <subst><del rend="whiteout">>v</del><add place="superimposed">f</add></subst>at, and cream, and would have<lb/><!-- to discuss about comma -->
+                  sustained a miner at the <del rend="overtyped">cola</del> coal face for an indefinite period<lb/>
+                  of time. <space quantity="1" unit="char"/>If they could possibly help<del rend="overwritten">i</del>it, of course, neither<lb/>
                   <rs type="person" ref="#amp_person_1">Wystan</rs> nor <rs type="person" ref="#amp_person_4">Chester</rs> ever walked a yard.
                </p>
                <ab hand="#handwritten">
-                  x x x x
+                  <add place="below">x x x x</add>
                </ab>
                <p>
                   <space quantity="5" unit="char"/>Whether or not - and <rs type="person" ref="#amp_person_4">Chester</rs> was convinced that this was so -<lb/>
                   the business about <rs type="event" ref="#amp_event_id_45" ana="acdh:amp-transcript__0062.xml#ana_044">alleged arrears of income tax</rs> shortened <rs type="person" ref="#amp_person_1">Auden</rs>´s<lb/>
-                  life, must be left open. <space quantity="1" unit="char"/>The <rs type="lit_work" ref="#lit_work_id_105" ana="acdh:amp-transcript__0031.xml#ana_031">"Declaration"</rs> to the tax authorities<lb/>
+                  life<add place="inline">,</add> must be left open. <space quantity="1" unit="char"/>The <rs type="lit_work" ref="#lit_work_id_105" ana="acdh:amp-transcript__0031.xml#ana_031">"Declaration"</rs> to the tax authorities<lb/>
                   in which a great poet patiently explains how poetry comes to be<lb/>
-                  written must be unique.<del>and deserves a place in the history of <space quantity="1" unit="char"/></del><lb/>
-                  <del>literature. <space quantity="1" unit="char"/></del>
+                  written must be unique.<del rend="overtyped">and deserves a place in the history of <space quantity="1" unit="char"/></del><lb/>
+                  <del rend="overtyped">literature. <space quantity="1" unit="char"/></del>
                </p>
                <floatingText>
                   <body>
                      <div type="prose">
                         <head>
-                           <space quantity="21" unit="char"/><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_106">Declaration</rs>. 1 </hi>
+                           <space quantity="21" unit="char"/><hi rend="underline"><rs type="lit_work" ref="#lit_work_id_106">Declaration</rs>. <add place="above">1</add> </hi>
                         </head>
                         <ab>
                            Gentlemen,<lb/>
@@ -748,7 +750,7 @@ for any purpose, even commercially.</p>
                            <space quantity="5" unit="char"/>My position is very simple: one pays income tax where one<lb/>
                            earns money, that is to say in my case, as a writer writing in<lb/>
                            English, in the <rs type="place" ref="#amp_place_id_15">United States</rs> and in <rs type="place" ref="#amp_place_id_93">England</rs>. <space quantity="1" unit="char"/>In <rs type="place" ref="#amp_place_id_10">Austria</rs> I<lb/>
-                           earn not one groschen, I merely spend sch<del>u</del>illings.
+                           earn not one groschen, I merely spend sch<subst><del rend="whiteout">u</del><add place="superimposed">i</add></subst>llings.
                         </p>
                         <p>
                            You maintain that I possess a "material interest" in <rs type="place" ref="#amp_place_id_10">Austria</rs>,<lb/>
@@ -756,24 +758,24 @@ for any purpose, even commercially.</p>
                            conceivably be the case if I had to say to myself: <space quantity="1" unit="char"/>"I must go<lb/>
                            to <rs type="place" ref="#amp_place_id_10">Austria</rs> because I can only work in <rs type="place" ref="#amp_place_id_10">Austria</rs>!" <space quantity="1" unit="char"/>But that is not<lb/>
                            the case. <space quantity="1" unit="char"/>I have lived in many places in many different countries<lb/>
-                           and was always able <del>e</del>to work wherever I might be.
+                           and was always able <del rend="whiteout">e</del>to work wherever I might be.
                         </p>
                         <p>
-                           <space quantity="5" unit="char"/>I naturally have a "p<del>ö<unclear>e</unclear></del><unclear>e</unclear>rsonal" interest in <rs type="place" ref="#amp_place_id_10">Austria</rs>, otherwise<lb/>
+                           <space quantity="5" unit="char"/>I naturally have a "p<subst><del rend="whiteout">ö<unclear>e</unclear></del><add place="superimposed"><unclear>e</unclear></add></subst>rsonal" interest in <rs type="place" ref="#amp_place_id_10">Austria</rs>, otherwise<lb/>
                            I should not come here. <space quantity="1" unit="char"/>The landscape is pleasing, and I find<lb/>
                            the Austrians whose acquaintance I have made, friendly ansd<lb/>
                            charming.
                         </p>
                         <p>
-                           <space quantity="4" unit="char"/>You say correctly that I once <rs type="event" ref="#amp_event_id_46">received <del>n</del>an Austrian prize<lb/>
-                           for li<del>e</del>terature.</rs> <space quantity="1" unit="char"/>This was a great honour of which I am very<lb/>
-                           proud. <space quantity="1" unit="char"/>You cannot however serio<del>i</del>usly believe, Gentlemen, that I<lb/>
+                           <space quantity="4" unit="char"/>You say correctly that I once <rs type="event" ref="#amp_event_id_46">received <subst><del rend="overtyped">n</del><add place="superimposed">a</add></subst>n Austrian prize<lb/>
+                           for li<del rend="metamark">e</del>terature.</rs> <space quantity="1" unit="char"/>This was a great honour of which I am very<lb/>
+                           proud. <space quantity="1" unit="char"/>You cannot however serio<del rend="overstrike">i</del>usly believe, Gentlemen, that I<lb/>
                            calculated: <space quantity="1" unit="char"/>"If I continue to go to <rs type="place" ref="#amp_place_id_10">Austria</rs> maybe I shall be<lb/>
                            given a prize"? <space quantity="1" unit="char"/>Until it was awarded to me I had never heard<lb/>
-                           of <del>the</del>this prize. <space quantity="1" unit="char"/>It is equally clear that I cannot receive it a
+                           of <subst><del rend="overtyped">the</del><add place="above">this</add></subst> prize. <space quantity="1" unit="char"/>It is equally clear that I cannot receive it a
                         </p>
                         <ab>
-                           1<rs type="lit_work" ref="#lit_work_id_106">Translation</rs> from the <rs type="lit_work" ref="#lit_work_id_103">German text which is a manuscript</rs>, not a<lb/>
+                           <add place="above">1</add><rs type="lit_work" ref="#lit_work_id_106">Translation</rs> from the <rs type="lit_work" ref="#lit_work_id_103">German text which is a manuscript</rs>, not a<lb/>
                            letter. <space quantity="1" unit="char"/>An <rs type="lit_work" ref="#lit_work_id_99">English original</rs> is not known to exist and it is<lb/>
                            assumed that <rs type="person" ref="#amp_person_1">Auden</rs> destroyed his draft.
                         </ab>
@@ -785,12 +787,12 @@ for any purpose, even commercially.</p>
                         <p prev="true">
                            second time. <space quantity="1" unit="char"/>You also go on to say that a road in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs><lb/>
                            has been named <rs type="note" ana="acdh:amp-transcript__0062.xml#ana_034">Audenstraße</rs> after me. <space quantity="1" unit="char"/>That was a very kind gesture<lb/>
-                           on the part of the local council, but it cannot be maintaine<del>s</del>d<del>d</del><lb/>
-                           that I profit from it <del>i</del>financially.
+                           on the part of the local council, but it cannot be maintaine<subst><del rend="whiteout">s</del><add place="superimposed">d</add></subst><del rend="whiteout">d</del><lb/>
+                           that I profit from it <subst><del rend="overtyped">i</del><add place="superimposed">f</add></subst>inancially.
                         </p>
                         <p>   
                            <space quantity="4" unit="char"/>Further, you say with truth that I have written several poems<lb/>
-                           <del>in A</del> <del>with</del>o<del><unclear>j</unclear></del>n Austrian themes. <space quantity="1" unit="char"/>To this I would like to make three<lb/>
+                           <del rend="overtyped">in A</del> <del rend="overtyped">with</del><add place="above">o<subst><del rend="overtyped"><unclear>j</unclear></del><add place="superimposed">n</add></subst></add> Austrian themes. <space quantity="1" unit="char"/>To this I would like to make three<lb/><!-- to discuss -->
                            statements.
                         </p>
                         <p>
@@ -815,21 +817,21 @@ for any purpose, even commercially.</p>
                               <space quantity="10" unit="char"/><rs type="event" ref="#amp_event_id_54">war</rs> in the countries which were defeated, i.e. not only<lb/>
                               <space quantity="10" unit="char"/>in <rs type="place" ref="#amp_place_id_10">Austria</rs> but in <rs type="place" ref="#amp_place_id_20">Germany</rs> and <rs type="place" ref="#amp_place_id_159">Italy</rs>. <space quantity="1" unit="char"/>Again: <space quantity="1" unit="char"/>in 1964<lb/>
                               <space quantity="10" unit="char"/>I wrote a poem with the title <rs type="lit_work" ref="#lit_work_id_79">"Whitsunday in Kirchstetten"</rs><lb/>
-                              <space quantity="10" unit="char"/>because it was where I happ<del>p</del>ened to be. <space quantity="1" unit="char"/>But the place is<lb/>
-                              <space quantity="10" unit="char"/>unimportant. <space quantity="1" unit="char"/>In real<del>t</del>ity the question in this poem is<lb/>
+                              <space quantity="10" unit="char"/>because it was where I happ<subst><del rend="whiteout">p</del><add place="superimposed">e</add></subst>ned to be. <space quantity="1" unit="char"/>But the place is<lb/>
+                              <space quantity="10" unit="char"/>unimportant. <space quantity="1" unit="char"/>In real<subst><del rend="overtyped">t</del><add place="superimposed">i</add></subst>ty the question in this poem is<lb/>
                               <space quantity="10" unit="char"/>what, for a Christian, is the meaning of the Feast of<lb/>
                               <space quantity="10" unit="char"/>Pentecost. <space quantity="1" unit="char"/>And this is valid for all countries in the<lb/>
                               <space quantity="10" unit="char"/>same way.<lb/>
                            </seg>
                            <seg>
                               <space quantity="10" unit="char"/>3. <space quantity="1" unit="char"/>I believe you do not clearly recognize a poet´s (<foreign xml:lang="de">Dichter</foreign><lb/>
-                              <space quantity="10" unit="char"/>financial s<del>k</del>ituation. <space quantity="1" unit="char"/>If he is suc<del>e</del>cessful, a novelist<lb/>
-                              <space quantity="10" unit="char"/>can ma<del>,</del>ke a good deal of money. <space quantity="1" unit="char"/>A poet (<foreign xml:lang="de">Lyriker</foreign>) cannot,<lb/>
+                              <space quantity="10" unit="char"/>financial s<subst><del rend="whiteout">k</del><add place="superimposed">i</add></subst>tuation. <space quantity="1" unit="char"/>If he is suc<del>e</del>cessful, a novelist<lb/>
+                              <space quantity="10" unit="char"/>can ma<subst><del rend="overtyped">,</del><add place="superimposed">k</add></subst>e a good deal of money. <space quantity="1" unit="char"/>A poet (<foreign xml:lang="de">Lyriker</foreign>) cannot,<lb/>
                               <space quantity="10" unit="char"/>even if he is very well known, because he is only read<lb/>
                               <space quantity="10" unit="char"/>by a minority. <space quantity="1" unit="char"/>By far the greater part of my income<lb/>
                               <space quantity="10" unit="char"/>comes not from the sale of my volumes of poetry but from<lb/>
                               <space quantity="10" unit="char"/>book reviews, translations, lectures etc., activities<lb/>
-                              <space quantity="10" unit="char"/>which have nothing to do with <rs type="place" ref="#amp_place_id_10">Austria</rs>. <space quantity="1" unit="char"/>A<del>m</del><unclear>n</unclear>d while we are
+                              <space quantity="10" unit="char"/>which have nothing to do with <rs type="place" ref="#amp_place_id_10">Austria</rs>. <space quantity="1" unit="char"/>A<subst><del rend="whiteout">m</del><add place="superimposed"><unclear>n</unclear></add></subst>d while we are
                            </seg>
                         </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0496/" type="sheet" ed="9v"/>
@@ -839,38 +841,38 @@ for any purpose, even commercially.</p>
                </fw>
                         <p prev="true">
                            <seg>
-                              <space quantity="10" unit="char"/>on the subject of translation<del>s</del>: <space quantity="1" unit="char"/>you rightly say that<lb/>
-                              <space quantity="10" unit="char"/>I have a great int<del>r</del>erest in German and Austrian literature -<lb/>
+                              <space quantity="10" unit="char"/>on the subject of translation<subst><del rend="whiteout">s</del><add place="superimposed">:</add></subst> <space quantity="1" unit="char"/>you rightly say that<lb/>
+                              <space quantity="10" unit="char"/>I have a great int<subst><del rend="whiteout">r</del><add place="superimposed">e</add></subst>rest in German and Austrian literature -<lb/>
                               <space quantity="10" unit="char"/>I may add in music as well - but I do not have to come<lb/>
                               <space quantity="10" unit="char"/>to <rs type="place" ref="#amp_place_id_10">Austria</rs> in order to read or to hear them.
                            </seg>
                         </p>
                         <p>
-                           <space quantity="5" unit="char"/>You see f<del>e</del>r<unclear><del><del>e</del>r</del></unclear>o<del>o</del>m all <del>the above</del> this that the arguments brought<lb/>
+                           <space quantity="5" unit="char"/>You see f<subst><del rend="whiteout">e</del><add place="superimposed">r</add></subst><unclear><del><subst><del rend="whiteout">e</del><add place="superimposed">r</add></subst></del></unclear>o<subst><del rend="overtyped">o</del><add place="superimposed">m</add></subst> all <del rend="overtyped">the above</del> this that the arguments brought<lb/><!-- to discuss -->
                            forward by you for subjecting me to payment of income tax are not<lb/>
                            valid. <space quantity="1" unit="char"/>The most pertinent argument against it is that in the<lb/>
-                           course of one year I always stay under six months in <rs type="place" ref="#amp_place_id_10">Austri<del>sa</del><unclear>a</unclear><del>a</del></rs><lb/>
+                           course of one year I always stay under six months in <rs type="place" ref="#amp_place_id_10">Austri<subst><del rend="overtyped">sa</del><add place="superimposed"><unclear>a</unclear></add></subst><del rend="whiteout">a</del></rs><lb/><!-- to discuss -->
                            and never spend more than three months here consecutively.
                         </p>
                         <p>
                            <space quantity="5" unit="char"/>A word in conclusion: if this in my view entirely unjustifiable<lb/>
                            nonsense does not cease, I shall leave <rs type="place" ref="#amp_place_id_10">Austria</rs> never to return,<lb/>
                            which would be very sad for me and perhaps too for the shopkeepers<lb/>
-                           <del>i</del>of <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>. <space quantity="1" unit="char"/>One thing, Gentlemen, I cannot conceal from you:<lb/>
-                           if this should happen it m<del>k</del>ight give rise to a scandal of worldwide<lb/>
+                           <subst><del rend="whiteout">i</del><add place="superimposed">o</add></subst>f <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>. <space quantity="1" unit="char"/>One thing, Gentlemen, I cannot conceal from you:<lb/>
+                           if this should happen it m<subst><del rend="whiteout">k</del><add place="superimposed">i</add></subst>ght give rise to a scandal of worldwide<lb/>
                            dimensions.
                         </p>
                         <ab>
                            <space quantity="48" unit="char"/><rs type="person" ref="#amp_person_1">W.H. Auden</rs>.
                         </ab>
                         <ab>   
-                           1 You ask why I have made over my half of <rs type="place" ref="#amp_place_id_2">our property</rs> in<lb/>
+                           <add place="above">1</add> You ask why I have made over my half of <rs type="place" ref="#amp_place_id_2">our property</rs> in<lb/>
                            <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> to <rs type="person" ref="#amp_person_4">Mr Chester Kallman</rs> who is not related to me.<lb/>
                            <rs type="person" ref="#amp_person_4">Mr Kallman</rs> is my heir. <space quantity="1" unit="char"/>I have no children and for years past<lb/>
-                           he has been my literary collaborator. <space quantity="1" unit="char"/><del>s</del>Jointly, we have written<lb/>
+                           he has been my literary collaborator. <space quantity="1" unit="char"/><subst><del rend="overtyped">s</del><add place="superimposed">J</add></subst>ointly, we have written<lb/>
                            five new opera libretti, <rs type="lit_work" ref="#lit_work_id_16">"The Rake´s Progress</rs>, <rs type="lit_work" ref="#lit_work_id_17">"Elegy for Young<lb/>
-                           Lovers</rs>", <rs type="lit_work" ref="#lit_work_id_18">"The Bassarids<del>_</del>"</rs> and <rs type="lit_work" ref="#lit_work_id_20">"Love´s Labours Lost"</rs>. <space quantity="1" unit="char"/>And<lb/>
-                           together we have made new translations of <rs type="lit_work" ref="#lit_work_id_21">"The Magic<del>c</del>Flute"</rs>,<lb/>
+                           Lovers</rs>", <rs type="lit_work" ref="#lit_work_id_18">"The Bassarids<del rend="overstrike">_</del>"</rs> and <rs type="lit_work" ref="#lit_work_id_20">"Love´s Labours Lost"</rs>. <space quantity="1" unit="char"/>And<lb/>
+                           together we have made new translations of <rs type="lit_work" ref="#lit_work_id_21">"The Magic<del rend="whiteout">c</del>Flute"</rs>,<lb/>
                            <rs type="lit_work" ref="#lit_work_id_22">"Don Giovanni"</rs>, <rs type="lit_work" ref="#lit_work_id_23">"Die Sieben Todsünden"</rs>, <rs type="lit_work" ref="#lit_work_id_24">"Mahagonny"</rs> and<lb/>
                            <rs type="lit_work" ref="#lit_work_id_25">"Archifanfaro"</rs>. <space quantity="1" unit="char"/>I am now 65 years old and must reckon with all<lb/>
                            eventualities such as a heart attack. <space quantity="1" unit="char"/>As you know better than<lb/>
@@ -881,8 +883,8 @@ for any purpose, even commercially.</p>
                   </body>
                </floatingText>
                <ab>
-                  1 The German text was typed on a different machine, and the<lb/>
-                  separate page joined to the <rs type="lit_work" ref="#lit_work_id_103"><del>_D</del>Declaration</rs>.  
+                  <add place="above">1</add> The German text was typed on a different machine, and the<lb/>
+                  separate page joined to the <rs type="lit_work" ref="#lit_work_id_103"><subst><del rend="overstrike">_</del><add place="superimposed">D</add></subst><subst><del rend="whiteout">D</del><add place="superimposed">e</add></subst>claration</rs>.<!-- I did some restructuring -->  
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0498/" type="sheet" ed="10v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0499/" type="sheet" ed="11r"/>
@@ -890,7 +892,7 @@ for any purpose, even commercially.</p>
                   <space quantity="22" unit="char"/>- 11 -
                </fw>
                <p>
-                  <space quantity="5" unit="char"/>"Every day f<del>p</del>or the past year" said <rs type="person" ref="#amp_person_4">Chester</rs> "I have stood<lb/>
+                  <space quantity="5" unit="char"/>"Every day f<subst><del rend="whiteout">p</del><add place="superimposed">o</add></subst>r the past year" said <rs type="person" ref="#amp_person_4">Chester</rs> "I have stood<lb/>
                   outside his door in the early morning, afraid to go in."
                </p>
                <p>
@@ -898,22 +900,22 @@ for any purpose, even commercially.</p>
                   from the car radio had just said so. <space quantity="1" unit="char"/>A few days ago we had<lb/>
                   talked about his <rs type="event" ref="#amp_event_id_3">reading in the <rs type="org" ref="#amp_organization_9">Society for Literature</rs> on 28<lb/>
                   September</rs>. <space quantity="1" unit="char"/>Unfortunately, I said, I was obliged to drive to<lb/>
-                  <rs type="place" ref="#amp_place_id_66">Linz</rs> and to spend the n<del>k</del>ight there, but they were welcome to use<lb/>
+                  <rs type="place" ref="#amp_place_id_66">Linz</rs> and to spend the n<subst><del rend="whiteout">k</del><add place="superimposed">i</add></subst>ght there, but they were welcome to use<lb/>
                   my <rs type="place" ref="#amp_place_id_11">Vienna flat</rs>. <space quantity="1" unit="char"/>It was maddening and I would just as soon<lb/>
                   put it off. <space quantity="1" unit="char"/>No, said <rs type="person" ref="#amp_person_1">Auden</rs>, mustn´t do that, one should stick<lb/>
                   to one´s commitments. <space quantity="1" unit="char"/>"And you won´t be missing much" he<lb/>
                   reassured me, "you´ve heard it all before." <space quantity="1" unit="char"/>We would meet again<lb/>
                   in a few days´time and then he would tell me all about it. <space quantity="1" unit="char"/>He was<lb/>
-                  not sure about the fla<del>a</del>t<del>s</del>but he would let me know in good time.<lb/>
+                  not sure about the fla<subst><del rend="whiteout">a</del><add place="superimposed">t</add></subst><del rend="whiteout">s</del>but he would let me know in good time.<lb/>
                   <ref target="acdh:amp-transcript__0020.xml">On 24 September he wrote a note</ref> to say that he did not need the<lb/>
                   flat, he would go to the <rs type="place" ref="#amp_place_id_225">Hotel Altenburgerhof</rs>. <space quantity="1" unit="char"/>The handwriting<lb/>
                   is ragged.
                </p>
                <p>
-                  <space quantity="5" unit="char"/><rs type="place" ref="#amp_place_id_66">Linz</rs> already lay far behind, the car radio went on m<del>k</del>uttering<lb/>
-                  to itself unheeded until the familiar voice of <rs type="person" ref="#amp_person_54">Friedrich Hee<del>e</del>r<del>r</del></rs><lb/>
+                  <space quantity="5" unit="char"/><rs type="place" ref="#amp_place_id_66">Linz</rs> already lay far behind, the car radio went on m<del rend="whiteout">k</del>uttering<lb/>
+                  to itself unheeded until the familiar voice of <rs type="person" ref="#amp_person_54">Friedrich Hee<subst><del rend="whiteout">e</del><add place="superimposed">r</add></subst><del rend="whiteout">r</del></rs><lb/>
                   came through, reading one of his book reviews. <space quantity="1" unit="char"/>It was consoling<lb/>
-                  in a world where, suddenly, a signpost was missing. <space quantity="1" unit="char"/>W<del>j</del>hat are<lb/>
+                  in a world where, suddenly, a signpost was missing. <space quantity="1" unit="char"/>W<subst><del rend="whiteout">j</del><add place="superimposed">h</add></subst>at are<lb/>
                   you howling about, I asked myself, what gives you the right to<lb/>
                   mourn for <rs type="person" ref="#amp_person_1">Wystan</rs>? <space quantity="1" unit="char"/>Think of <rs type="person" ref="#amp_person_4">Chester</rs>. <space quantity="1" unit="char"/>It was impossible not to<lb/>
                   think of <rs type="person" ref="#amp_person_4">Chester</rs>: <space quantity="1" unit="char"/>it was not so much a question how much he<lb/>
