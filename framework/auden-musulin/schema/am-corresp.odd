@@ -617,11 +617,11 @@
                 </sch:rule>
                 <sch:rule context="//tei:body/tei:div/tei:div/tei:div[@type='poem']">
                   <sch:assert test="count(./tei:lg) > 0">missing element; lg required</sch:assert>
-                  <sch:report test="*[not(self::tei:head or self::tei:lg or self::tei:ab or self::tei:pb or self::tei:cb)]">invalid child element: lg, ab and pb allowed</sch:report>
+                  <sch:report test="*[not(self::tei:head or self::tei:lg or self::tei:ab or self::tei:pb or self::tei:cb or self::tei:fw)]">invalid child element: lg, ab and pb allowed</sch:report>
                 </sch:rule>
                 <sch:rule context="//tei:body/tei:div/tei:div[@type='envelope']">
                   <sch:assert test="count(./tei:ab) > 0">div@type=envelope must contain at least one tei:ab element</sch:assert>
-                  <sch:report test="*[not(self::tei:ab or self::tei:pb)]">invalid element; only pb and ab elements allowed</sch:report>
+                  <sch:report test="*[not(self::tei:ab or self::tei:pb or self::tei:fw)]">invalid element; only pb and ab elements allowed</sch:report>
                 </sch:rule>
                 <sch:rule context="//tei:body/tei:div/tei:div[@type='enclosure']">
                   <sch:assert test="*[self::tei:div[@type='poem' or @type='prose_translation' or @type='comments']]">type required or invalid type value; only poem, comments or prose_translation allowed</sch:assert>
