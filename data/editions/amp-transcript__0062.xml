@@ -1288,15 +1288,15 @@ for any purpose, even commercially.</p>
                   <seg>
                      <quote source="acdh:amp-transcript__0002.xml">
                         It <hi rend="underline">was</hi> sweet of you to think of me at Christmas, especially<lb/>
-                        since it's a little <hi rend="underline"><foreign xml:lang="de">einsam</foreign></hi><add place="above">1</add> here. <space quantity="1" unit="char"/>Am beginning to know some<lb/><!-- let's discuss -->
+                        since it's a little <hi rend="underline"><foreign xml:lang="de">einsam</foreign></hi><add place="inline">&#xB9;</add> here. <space quantity="1" unit="char"/>Am beginning to know some<lb/><!-- let's discuss -->
                         local inhabitants. <space quantity="1" unit="char"/>Oddly enough, the ones I can talk to most<lb/>
                         easily are from <rs type="place" ref="#amp_place_id_21"><foreign xml:lang="de">Ost-Berlin</foreign></rs>. <space quantity="1" unit="char"/>The most awful thing about the<lb/>
-                        <foreign xml:lang="de">Bifkes</foreign><add place="above">2</add> (sic)§ is that they are so much nicer under a little<lb/>
-                        <hi rend="underline"><foreign xml:lang="de">Druck</foreign></hi><add place="above">3</add><del rend="overstrike"><unclear>(</unclear>pressure)</del>. <space quantity="1" unit="char"/>When they feel their oats they are so apt<lb/>
+                        <foreign xml:lang="de">Bifkes</foreign><add place="inline">&#xB2;</add> (sic)§ is that they are so much nicer under a little<lb/>
+                        <hi rend="underline"><foreign xml:lang="de">Druck</foreign></hi><add place="inline">&#xB3;</add><del rend="overstrike"><unclear>(</unclear>pressure)</del>. <space quantity="1" unit="char"/>When they feel their oats they are so apt<lb/>
                         to become uppish."
                      </quote>
                   </seg>
-                <add hand="handwritten" place="inline">X INSERT 14a.</add><!-- let's check it -->
+                <add hand="#handwritten" place="inline">X INSERT 14a.</add><!-- let's check it -->
                </p>
             </div>
             <div type="prose">
