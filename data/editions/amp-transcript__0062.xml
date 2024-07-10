@@ -1288,7 +1288,7 @@ for any purpose, even commercially.</p>
                   <seg>
                      <quote source="acdh:amp-transcript__0002.xml">
                         It <hi rend="underline">was</hi> sweet of you to think of me at Christmas, especially<lb/>
-                        since it's a little <hi rend="underline"><foreign xml:lang="de">einsam</foreign></hi><add place="inline">&#xB9;</add> here. <space quantity="1" unit="char"/>Am beginning to know some<lb/><!-- let's discuss -->
+                        since it's a little <hi rend="underline"><foreign xml:lang="de">einsam</foreign></hi><add place="inline">&#xB9;</add> here. <space quantity="1" unit="char"/>Am beginning to know some<lb/>
                         local inhabitants. <space quantity="1" unit="char"/>Oddly enough, the ones I can talk to most<lb/>
                         easily are from <rs type="place" ref="#amp_place_id_21"><foreign xml:lang="de">Ost-Berlin</foreign></rs>. <space quantity="1" unit="char"/>The most awful thing about the<lb/>
                         <foreign xml:lang="de">Bifkes</foreign><add place="inline">&#xB2;</add> (sic)§ is that they are so much nicer under a little<lb/>
@@ -1296,7 +1296,7 @@ for any purpose, even commercially.</p>
                         to become uppish."
                      </quote>
                   </seg>
-                <add hand="#handwritten" place="inline">X INSERT 14a.</add><!-- let's check it -->
+                <add hand="#handwritten" place="inline">X INSERT 14a.</add>
                </p>
             </div>
             <div type="prose">
@@ -1411,7 +1411,7 @@ for any purpose, even commercially.</p>
                   for its history, for the history of the people who lived, or<lb/>
                   had lived there. <space quantity="2" unit="char"/>For some reason he felt at home <rs type="place" ref="#amp_place_id_6">there</rs>, and<lb/>
                   the truth of this is to be found in the best known poems of his<lb/>
-                  last decade - perhaps they are among the b<add place="inline">e</add>st he ever wrote.<lb/> <!-- what about the squeezed 'e'? -->
+                  last decade - perhaps they are among the b<add place="inline">e</add>st he ever wrote.<lb/>
                   There is the first pa<subst><del rend="overtyped">t</del><add place="superimposed">r</add></subst>t of <rs type="lit_work" ref="#lit_work_id_37">The Cave of Making (In Memoriam <rs type="person" ref="#amp_person_71">Louis<lb/>
                   MacNeice</rs>.<add place="inline">)</add></rs> <space quantity="1" unit="char"/>He often emphasizes how unsensational it all is:<lb/>
                   <seg>
@@ -1635,7 +1635,7 @@ for any purpose, even commercially.</p>
                   almost incomprehensible.
                </p>
                <p>
-                  <space quantity="5" unit="char"/>The <subst><del rend="metamark">postmark</del><add place="inline"><rs type="place" ref="#amp_place_id_28">New York</rs></add></subst> usually meant an announcement of<lb/><!-- let's discuss it -->
+                  <space quantity="5" unit="char"/>The <subst><del rend="metamark">postmark <rs type="place" ref="#amp_place_id_28">New York</rs></del><add place="inline"><rs type="place" ref="#amp_place_id_28">New York</rs> postmark</add></subst> usually meant an announcement of<lb/>
                   domestic disaster and a request for help, and the winter of 1967<lb/>
                   brought serious disruption to the peaceful running of <rs type="place" ref="#amp_place_id_2">the house<lb/>
                   at Kirchstetten</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs>'s <rs type="lit_work" ref="#lit_work_id_107">poem to <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></rs> begins in German:<lb/>
@@ -1802,7 +1802,7 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>The reason why <rs type="person" ref="#amp_person_1">Auden</rs> himself failed one day to take a<lb/>
                   corner in <rs type="place" ref="#amp_place_id_5">Kirchstetten village</rs> and <rs type="event" ref="#amp_event_id_34">crashed</rs> I never had the<lb/>
                   courage to ask. <space quantity="3" unit="char"/>It happened on the first day of his<lb/>
-                  arrival <subst><del rend="overwritten">o</del><add place="superimposed"><unclear>i</unclear></add></subst>n <del rend="overstrike">in</del><add place="inline"> about Ap<unclear>r</unclear>il<unclear>9</unclear> 1968</add> . <space quantity="1" unit="char"/>A message reache<subst><del rend="overtyped">e</del><add place="superimposed">d</add></subst> me in <rs type="place" ref="#amp_place_id_1">Vienna</rs>:<lb/>
+                  arrival <subst><del rend="overwritten">o</del><add place="superimposed"><unclear>i</unclear></add></subst>n<subst> <del rend="overwritten"><space quantity="8" unit="char"/></del><add place="inline">about Ap<unclear>r</unclear>il</add></subst><subst><del rend="overstrike">in</del><add place="above"><unclear>9</unclear></add></subst> <subst><del rend="overwritten"><space quantity="6" unit="char"/></del><add place="inline">1968</add></subst>. <space quantity="1" unit="char"/>A message reache<subst><del rend="overtyped">e</del><add place="superimposed">d</add></subst> me in <rs type="place" ref="#amp_place_id_1">Vienna</rs>:<lb/>
                   he had had an <subst><del rend="overtyped">c</del><add place="superimposed">a</add></subst>ccident, was in <rs type="org" ref="#amp_organization_42">St. Pölten hospital</rs> and could I<lb/>
                   come at my convenience? <space quantity="1" unit="char"/>As my informant thought that <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
                   was about to be sent <rs type="place" ref="#amp_place_id_2">home</rs> it seemed advisable to telephone<lb/>
@@ -1883,7 +1883,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="5" unit="char"/>A carefully worded letter to <rs type="org" ref="#amp_organization_42">the hospital</rs> was indicated.<lb/>
-                  <subst><del rend="overtyped">After<subst> <del rend="overtyped">A</del><add place="superimposed">a</add></subst></del><add place="above">After a</add></subst> brief summary of events came a few lines of comment:<lb/><!-- to discuss -->
+                  <subst><del rend="overtyped">After <subst><del rend="overtyped">A</del><add place="superimposed">a</add></subst></del><add place="above">After a</add></subst> brief summary of events came a few lines of comment:<lb/>
                   It was not<add place="above"> of significance,</add>, I s<subst><del rend="overtyped">q</del><add place="superimposed">a</add></subst>id heavily, that <rs type="person" ref="#amp_person_1">Professor Auden</rs> was a poet<lb/>
                   and author of international reputation who had been honoured by<lb/>
                   the Austrian state. <space quantity="1" unit="char"/><del rend="overtyped">To a hospital, a casualty was a casualty.<space quantity="1" unit="char"/></del><lb/>
@@ -1900,7 +1900,7 @@ for any purpose, even commercially.</p>
                   <space quantity="20" unit="char"/>2<subst><del rend="overwritten">O</del><add place="superimposed">4</add></subst>.
                </fw>
                <p prev="true">
-                  about Austrian politics or anything else that came to mind<lb/>
+                  about Austrian politics or anything else that came t<add place="above"><unclear>/</unclear></add>o mind<lb/>
                   to <subst><del rend="overtyped">h</del><add place="superimposed">c</add></subst>heer him over the interval until <rs type="person" ref="#amp_person_4">Chester</rs> arrived<del rend="overstrike">.</del>from<lb/>
                   <rs type="place" ref="#amp_place_id_13">Athens</rs>. <space quantity="1" unit="char"/>He had been back to <rs type="org" ref="#amp_organization_42">the hospital</rs> for a check-up on<lb/>
                   the sit of the plaster, and <del rend="overtyped">he r</del> as I walked in he grinned<lb/>
@@ -2026,7 +2026,7 @@ for any purpose, even commercially.</p>
                               <space quantity="5" unit="char"/>I hope you will pardon me if I speak somewhat personally.<lb/>
                               I do so, not out of vanity, but because <unclear>I</unclear> do not wish to give the<lb/>
                               impression that I am attempting to lay down absolute laws which<lb/>
-                              are valid for all. <space quantity="1" unit="char"/><unclear>I</unclear> give you m<subst><del rend="overtyped"><gap quantity="1" unit="char" reason="illegible"/></del><add place="superimposed">y</add></subst> experiences<del rend="overstrike">,</del>as a poet, in the hope<lb/><!-- ti discuss -->
+                              are valid for all. <space quantity="1" unit="char"/><unclear>I</unclear> give you m<subst><del rend="overtyped"><gap quantity="1" unit="char" reason="illegible"/></del><add place="superimposed">y</add></subst> experiences<unclear>,</unclear>as a poet, in the hope<lb/>
                               that you will be able to compare them with yours, and form your<lb/>
                               own judgment about them.
                            </p>
@@ -2104,7 +2104,7 @@ for any purpose, even commercially.</p>
                               this and reject that, on condition that both were real objects<lb/>
                               in the Primary World, to choose, for example, between two kinds of<lb/>
                               water-turb<subst><del rend="overtyped">u</del><add place="superimposed">i</add></subst>ne, which could be found in a text-book on mining<lb/>
-                              machinery or a manufactu<add place="inline">r</add>er's catalogue: <space quantity="1" unit="char"/>but I was not free to<lb/><!-- we need to duscuss how to mark up manufacturer -->
+                              machinery or a manufactu<add place="inline">r</add>er's catalogue: <space quantity="1" unit="char"/>but I was not free to<lb/>
                               invent one. <space quantity="1" unit="char"/>In deciding how my world was to function, I could<lb/>
                               choose between two practical possibilities <space quantity="1" unit="char"/>- a mine can be drained
                            </p>
@@ -2196,8 +2196,8 @@ for any purpose, even commercially.</p>
                               Nowness and Permanence. <space quantity="1" unit="char"/>By Nowness I <subst><del rend="overtyped">e</del><add place="superimposed">m</add></subst>ean the quality which enables<lb/>
                               an art-historian to date a work, at least, approximately. <space quantity="1" unit="char"/>If,<lb/>
                               for example, one listens to a composition by <rs type="person" ref="#amp_person_24">Palestrina</rs> and one by<lb/>
-                              <rs type="person" ref="#amp_person_13">Mozart</rs>, one knows immediately that, quit<subst><del rend="overtyped">d</del><add place="superimposed">e</add></subst> aside from their artistic<lb/>
-                              merits, <rs type="person" ref="#amp_person_24">Palestrina</rs> must have live<subst><del rend="overtyped">e</del><add place="superimposed">d</add></subst> earlier than <rs type="person" ref="#amp_person_13">Mozart</rs>: <space quantity="1" unit="char"/>he could<lb/><!-- whiteout or overtyped? -->
+                              <rs type="person" ref="#amp_person_13">Mozart</rs>, one knows immediately that, quit<subst><del rend="overtyped"><unclear>d</unclear></del><add place="superimposed">e</add></subst> aside from their artistic<lb/>
+                              merits, <rs type="person" ref="#amp_person_24">Palestrina</rs> must have live<subst><del rend="overtyped"><unclear>e</unclear></del><add place="superimposed">d</add></subst> earlier than <rs type="person" ref="#amp_person_13">Mozart</rs>: <space quantity="1" unit="char"/>he could<lb/>
                               not possibly have written as he did after <rs type="person" ref="#amp_person_13">Mozart</rs>. <space quantity="1" unit="char"/>By Permanence,<lb/>
                               I mean that<del rend="overtyped">h</del> the work continues to have relevance<del rend="overtyped">,</del> and importance<lb/>
                               long after its creator is dead. <space quantity="1" unit="char"/>In the history of Art, unlike the<lb/>
