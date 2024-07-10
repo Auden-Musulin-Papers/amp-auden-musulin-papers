@@ -263,7 +263,7 @@ for any purpose, even commercially.</p>
                </head>
                <p>
                   <space quantity="5" unit="char"/>Since then the <rs type="person" ref="#amp_person_1">Auden</rs> industry has not been idle. <space quantity="1" unit="char"/>An<lb/>
-                  excellent <rs type="lit_work" ref="#lit_work_id_39">biography</rs> was published<add place="above">1</add> and <subst><del rend="overtyped">k</del><add place="superimposed">i</add></subst>n this the Austrian<lb/>
+                  excellent <rs type="lit_work" ref="#lit_work_id_39">biography</rs> was published<add place="inline">&#xB9;</add> and <subst><del rend="overtyped"><unclear>k</unclear></del><add place="superimposed">i</add></subst>n this the Austrian<lb/>
                   period was dealt with but not locally researched. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_98">Edward<lb/>
                   Mendelson</rs> <rs type="lit_work" ref="#lit_work_id_202 #lit_work_id_203 #lit_work_id_80">edited <rs type="person" ref="#amp_person_1">Auden</rs>´s early works</rs> and wrote superb commentaries.<lb/>
                   There has been a <rs type="lit_work" ref="#lit_work_id_48">biography of <rs type="person" ref="#amp_person_4">Chester Kallman</rs></rs>. <space quantity="1" unit="char"/>Writers of PhD<lb/>
@@ -271,7 +271,7 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_99">Michael O´Sullivan</rs> of <rs type="org" ref="#amp_organization_32">Trinity College, Dublin</rs> who - not speaking<lb/>
                   a word of German - organised a full-scale <rs type="event" ref="#amp_event_id_21">exhibition</rs> and an<lb/>
                   <rs type="event" ref="#amp_event_id_105">international symposium</rs> in <rs type="place" ref="#amp_place_id_1">Vienna</rs>. <space quantity="1" unit="char"/>The editor of <rs type="lit_work" ref="#lit_work_id_114">this volume</rs><lb/>
-                  <rs type="person" ref="#amp_person_119">Peter Müller</rs> had brought <rs type="person" ref="#amp_person_99">Michael</rs> out to see <rs type="person" ref="#amp_person_2">me</rs> at <rs type="place" ref="#amp_place_id_7">Fri<subst><del rend="overtyped">e</del><add place="superimposed">d</add></subst>au</rs> in the<lb/>
+                  <rs type="person" ref="#amp_person_119">Peter Müller</rs> had brought <rs type="person" ref="#amp_person_99">Michael</rs> out to see <rs type="person" ref="#amp_person_2">me</rs> at <rs type="place" ref="#amp_place_id_7">Fri<subst><del rend="overtyped"><unclear>e</unclear></del><add place="superimposed">d</add></subst>au</rs> in the<lb/>
                   preceding year; <space quantity="1" unit="char"/>now <rs type="person" ref="#amp_person_99">he</rs> came again, and after the closure,<lb/>
                   exhausted, he spent a long weekend in the country to recover.<lb/>
                   We dug out ancient files containing original <rs type="person" ref="#amp_person_1">Auden</rs> manuscripts,<lb/>
@@ -305,7 +305,7 @@ for any purpose, even commercially.</p>
                   may throw light upon his life."</quote>
                </p>
                <ab>
-                  1 <rs type="person" ref="#amp_person_100">Hum<subst><del rend="whiteout">ö</del><add place="superimposed">p</add></subst>hrey Carpenter</rs>: <rs type="lit_work" ref="#lit_work_id_39">W.H. Auden, a Biography</rs> (<rs type="org" ref="#amp_organization_7">Houghton Mifflin<lb/>
+                  &#xB9; <rs type="person" ref="#amp_person_100">Hum<subst><del rend="whiteout">ö</del><add place="superimposed">p</add></subst>hrey Carpenter</rs>: <rs type="lit_work" ref="#lit_work_id_39">W.H. Auden, a Biography</rs> (<rs type="org" ref="#amp_organization_7">Houghton Mifflin<lb/>
                   Company</rs>, <rs type="place" ref="#amp_place_id_155">Boston</rs> 1981.)
                </ab>
             </div>
@@ -949,72 +949,72 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0501/" type="sheet" ed="12r"/>
             <div type="prose">
                <fw type="pageNum">
-                  <unclear>-1</unclear>2-
+                  <add place="margin"><unclear>-1</unclear>2-</add>
                </fw>
                <p>
-                  <space quantity="5" unit="char"/>The <rs type="place" ref="#amp_place_id_2">sittingroom</rs> seemed to be full of people. <space quantity="1" unit="char"/><del>-</del><rs type="person" ref="#amp_person_4">Chester</rs> was<lb/>
+                  <space quantity="5" unit="char"/>The <rs type="place" ref="#amp_place_id_2">sittingroom</rs> seemed to be full of people. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4"><subst><del rend="overtyped">-</del><add place="superimposed">C</add></subst>hester</rs> was<lb/>
                   sitting on the corner-seat facing the door, where <rs type="person" ref="#amp_person_1">Auden</rs> always<lb/>
-                  used to sit, every <del>seat</del>chair appeared to be occupied and two young<lb/>
-                  men were sitting <del>in the back</del> on the floor. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs> hurried<lb/>
+                  used to sit, every <subst><del rend="overtyped">seat</del><add place="above">chair</add></subst> appeared to be occupied and two young<lb/><!-- 'X' below -->
+                  men were sitting <del rend="overtyped">in the back</del> on the floor. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs> hurried<lb/>
                   across the room, hugged me and said "The whole thing´s terrible,<lb/>
                   you have to help me."
                </p>
                <p>
                   <space quantity="5" unit="char"/>I was introduced to the others. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_96">Mrs. Thekla Clark</rs> and <rs type="person" ref="#amp_person_169">her<lb/>
-                  daughter</rs> had come up from <rs type="place" ref="#amp_place_id_14">Florence</rs> as soon<del>a</del>as t<del>e</del>hey heard the<lb/>
-                  news; <space quantity="1" unit="char"/>there was <rs type="person" ref="#amp_person_97"><foreign xml:lang="de">Frau</foreign> Maria Seitz</rs>, headmistress of the high school;<lb/>
-                  <del>in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, the <rs type="person" ref="#amp_person_22">mayor <foreign xml:lang="de">Herr</foreign> Enzinger</rs> </del><rs type="person" ref="#amp_person_22"><foreign xml:lang="de">Herr</foreign> Enzinger</rs> the mayor<lb/>
-                  of <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, <del>a</del>the film scriptwriter <rs type="person" ref="#amp_person_87">Adolf Opel</rs>, and the young men.<lb/>
-                  Clearly, the meeting to discuss the funeral arra<del>g</del>ngements was<lb/>
+                  daughter</rs> had come up from <rs type="place" ref="#amp_place_id_14">Florence</rs> as soon<del rend="whiteout">a</del>as t<subst><del rend="overtyped">e</del><add place="superimposed">h</add></subst>ey heard the<lb/>
+                  news; <space quantity="1" unit="char"/>there was <rs type="person" ref="#amp_person_97"><foreign xml:lang="de">Frau</foreign> Maria Seitz</rs>, headmistress of the<add place="above"> high</add> school;<lb/>
+                  <del rend="whiteout">in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, the <rs type="person" ref="#amp_person_22">mayor <foreign xml:lang="de">Herr</foreign> Enzinger</rs> </del><rs type="person" ref="#amp_person_22"><foreign xml:lang="de">Herr</foreign> Enzinger</rs> the mayor<lb/>
+                  of <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, <subst><del rend="overtyped">a</del><add place="above">the</add></subst> film scriptwriter <rs type="person" ref="#amp_person_87">Adolf Opel</rs>, and the young men.<lb/>
+                  Clearly, the meeting to discuss the funeral arra<subst><del rend="whiteout">g</del><add place="superimposed">n</add></subst>gements was<lb/>
                   not proceeding smoothly. <space quantity="1" unit="char"/>The <rs type="person" ref="#amp_person_22">mayor</rs> looked annoyed, <rs type="person" ref="#amp_person_97"><foreign xml:lang="de">Frau</foreign> Seitz</rs><lb/>
                   looked worried and <rs type="person" ref="#amp_person_96">Mrs Clark</rs> bewildered. <space quantity="1" unit="char"/>There were, of course,<lb/>
                   language difficulties. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_22">Mayor Enzinger</rs> spoke not a word of<lb/>
-                  <del><unclear>G</unclear></del>English and the <rs type="person" ref="#amp_person_96 #amp_person_95">Clarks</rs> no German, while the <rs type="person" ref="#amp_person_97">headmistress</rs> had a<lb/>
+                  <subst><del rend="overtyped"><unclear>G</unclear></del><add place="superimposed">E</add></subst>nglish and the <rs type="person" ref="#amp_person_96 #amp_person_95">Clarks</rs> no German, while the <rs type="person" ref="#amp_person_97">headmistress</rs> had a<lb/>
                   certain command of English but did not feel up to acting as<lb/>
-                  interpreter and adviser in one; <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs>´<del>a</del>s German was <del>o</del>perfect<del>k</del>ly<lb/>
+                  interpreter and adviser in one; <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs>´<subst><del rend="overwritten">a</del><add place="superimposed">s</add></subst> German was <subst><del rend="overtyped">o</del><add place="superimposed">p</add></subst>erfect<subst><del rend="overtyped">k</del><add place="superimposed">l</add></subst>y<lb/>
                   adequate.
                </p>
                <p>
                   <space quantity="4" unit="char"/>The root of the problem lay on a deeper level, where two<lb/>
                   separate cultures collided head on. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs> was barely coherent,<lb/>
-                  but he managed to explain his point of view. <space quantity="1" unit="char"/>He loathed<del>,</del> from<lb/>
+                  but he managed to explain his point of view. <space quantity="1" unit="char"/>He loathed<del rend="overstrike">,</del> from<lb/>
                   the bottom of his hearteverything in the way of <hi rend="underline"><foreign xml:lang="fr">pompes funèbres</foreign></hi>.<lb/>
                   He wanted to bury <rs type="person" ref="#amp_person_1">Aud<del>s</del>en</rs>, he said, quietly and privately and, if<lb/>
                   it could possibly be managed, on Tuesday. <space quantity="1" unit="char"/>He had already informed<lb/>
-                  <rs type="person" ref="#amp_person_1">Wyst<del>s</del>an</rs>´s brother <rs type="person" ref="#amp_person_88">Dr. John Auden</rs>, <rs type="person" ref="#amp_person_8">Stephen Spender</rs> and <del>os</del>others<lb/>
-                  of the arran<del>t</del>gements and asked them to arrive, if not tomorrow,<lb/>
+                  <rs type="person" ref="#amp_person_1">Wyst<del rend="overstrike">s</del>an</rs>´s brother <rs type="person" ref="#amp_person_88">Dr. John Auden</rs>, <rs type="person" ref="#amp_person_8">Stephen Spender</rs> and <del rend="overwritten">o</del><subst><del rend="whiteout">s</del><add place="superimposed">o</add></subst>thers<lb/>
+                  of the arran<subst><del rend="overtyped">t</del><add place="superimposed">g</add></subst>ements and asked them to arrive, if not tomorrow,<lb/>
                   then on Tuesday morning at the latest. <space quantity="1" unit="char"/>On the other hand the<lb/>
                   <rs type="person" ref="#amp_person_22">mayor of Kirchstetten</rs>, he went on, wanted to lay on a really big<lb/>
-                  show with brass bands and all the rest of it, and what was more,<lb/>
+                  show with brass bands and all the rest of it, and what was more<add place="inline">,</add><lb/>
                   on the Saturday to give as many people as possible the chance to<lb/>
                   come. <space quantity="1" unit="char"/><rs type="org" ref="#amp_organization_43">The Ministry of Education</rs> and the <rs type="org" ref="#amp_organization_44">provincial council of<lb/>
                   <rs type="place" ref="#amp_place_id_6">Lower Austria</rs></rs> were to be represented, and as the last straw the<lb/>
-                  hearse was to drive <del>i</del>up to the house. <space quantity="1" unit="char"/>He would not allow any of<lb/>
+                  hearse was to drive <subst><del rend="overtyped">i</del><add place="superimposed">u</add></subst>p to the house. <space quantity="1" unit="char"/>He would not allow any of<lb/>
                   this, he said: <space quantity="1" unit="char"/>"I can´t bear it and I won´t have it."
                </p>
                <p>
-                  <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_22">Mayor Enzinger</rs> drew a deep breath. <space quantity="1" unit="char"/>The first thing we ha<del>e</del>d<lb/>
+                  <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_22">Mayor Enzinger</rs> drew a deep breath. <space quantity="1" unit="char"/>The first thing we ha<subst><del rend="overtyped">e</del><add place="superimposed">d</add></subst><lb/>
                   to realise, he pointed out, was that the body had not yet been
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0502/" type="sheet" ed="12v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0503/" type="sheet" ed="13r"/>
                <fw type="pageNum">
-                  -13-
+                  <add place="margin">-13-</add>
                </fw>
                <p prev="true">
                   released by the authorities. <space quantity="1" unit="char"/>In all cases where the cause of death<lb/>
-                  is not wholly clear certain<del>k</del>formalities are obligatory, and even<lb/>
+                  is not wholly clear certain<del rend="whiteout">k</del>formalities are obligatory, and even<lb/><!-- to discuss -->
                   intervention at a high level would not work miracles. <space quantity="1" unit="char"/>Everything<lb/>
                   takes time. <space quantity="1" unit="char"/>And how could anyone expect it of him, the <rs type="person" ref="#amp_person_22"><foreign xml:lang="de">Bürgermeister</foreign></rs>,<lb/>
                   that he should refrain from notifying the <rs type="org" ref="#amp_organization_43">Ministry</rs> and the Cultural<lb/>
-                  department of the <rs type="org" ref="#amp_organization_44">Council</rs> of the <del>e</del>death of <rs type="person" ref="#amp_person_1">Professor _Auden</rs>? <space quantity="1" unit="char"/>It<lb/>
+                  department of the <rs type="org" ref="#amp_organization_44">Council</rs> of the <subst><del rend="overtyped">e</del><add place="superimposed">d</add></subst>eath of <rs type="person" ref="#amp_person_1">Professor _Auden</rs>? <space quantity="1" unit="char"/>It<lb/>
                   was as much as his job was worth. <space quantity="1" unit="char"/>Now <rs type="person" ref="#amp_person_97"><foreign xml:lang="de">Frau</foreign> Seitz</rs> spoke. <space quantity="1" unit="char"/>The<lb/>
                   inhabitants of <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, she believed, would hardly bury a dog<lb/>
                   in the manner proposed by <rs type="person" ref="#amp_person_4"><foreign xml:lang="de">Herr</foreign> Kallman</rs>, let alone a great poet.
                </p>
                <p>
                   <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_4">Chester Kallman</rs>´s position was entirely comprehensible - to<lb/>
-                  some of us. <space quantity="1" unit="char"/>To him, an <del>E</del>American of Jewish origin and a non-believer,<lb/>
+                  some of us. <space quantity="1" unit="char"/>To him, an <subst><del rend="overtyped">E</del><add place="superimposed">A</add></subst>merican of Jewish origin and a non-believer,<lb/>
                   the whole pomp and circumstance of a traditional Austrian funeral<lb/>
                   was abhorrent. <space quantity="1" unit="char"/>Where prominent personages are concerned, there<lb/>
                   would certainly be the local brass band, and delegations representing<lb/>
@@ -1030,23 +1030,23 @@ for any purpose, even commercially.</p>
                   never occurred to him that <rs type="person" ref="#amp_person_1">Auden</rs> himself would very likely have<lb/>
                   been entranced at the idea of a slap-up funeral with all the<lb/>
                   trimmings - one can almost hear his Olympian laughter - followed<lb/>
-                  by a hearty meal at the <rs type="place" ref="#amp_place_id_355">inn where he had so often <del>ate</del>had his l<del>i</del>unch</rs>.<lb/>
+                  by a hearty meal at the <rs type="place" ref="#amp_place_id_355">inn where he had so often <subst><del rend="whiteout">ate</del><add place="superimposed">had</add></subst> his l<subst><del rend="overtyped">i</del><add place="superimposed">u</add></subst>nch</rs>.<lb/>
                   As it turned out, <rs type="person" ref="#amp_person_4">Chester</rs> got no marks in local opinion for this<lb/>
                   finale either, as the meal consisted of <hi rend="underline"><foreign xml:lang="de">Leberkäs</foreign></hi> with vegetables:<lb/>
-                  <del>fried slices off a loaf of a flabby substance which is neither liver nor cheese related to the<lb/>
+                  <del rend="whiteout">fried slices off a loaf of a flabby substance which is neither liver nor cheese related to the<lb/>
                   Frankfurter sausage. <space quantity="1" unit="char"/>It is a</del>
                   this consisted of fried slices off a loaf made of a flabby substance<lb/>
-                  which is neither liver nor cheese, <del>but</del> vaguely related to the<lb/>
+                  which is neither liver nor cheese<add place="inline">,</add> <del rend="overstrike">but</del> vaguely related to the<lb/>
                   Frankfurter sausage. <space quantity="1" unit="char"/>It is a<lb/>
                   homely, juicy meal all too familiar to every Austrian; <space quantity="1" unit="char"/>a<del>b</del>nd it is<lb/>
-                  cheap.<del>n</del> There would be <del>mkuc</del> much talk of this also after all was over<unclear>.</unclear><lb/>
+                  cheap.<del rend="whiteout">n</del> There would be <del rend="overtyped">mkuc</del> much talk of this also after all was over<unclear>.</unclear><lb/>
                   For their part, the local people were forgetting that <rs type="person" ref="#amp_person_4">Chester</rs> was<lb/>
                   probably in financial straits - not that this would have been taken<lb/>
                   as an excuse.
                </p>
                <p>
                   <space quantity="5" unit="char"/>For a moment the discussion had come to a standstill.<lb/>
-                  <del>XT</del>The young men who took no part in it and conversed in whispers,
+                  <subst><del rend="overtyped">XT</del><add place="superimposed">Th</add></subst>e young men who took no part in it and conversed in whispers,
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0504/" type="sheet" ed="13v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0505/" type="sheet" ed="14r"/>
@@ -1060,35 +1060,35 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="4" unit="char"/>The points at issue were not only When and How Much; <space quantity="1" unit="char"/>there<lb/>
                   was also the matter of the church service and the prayers at the<lb/>
-                  graveside. <space quantity="1" unit="char"/>Many people in <rs type="place" ref="#amp_place_id_10">A<del>k</del>ustria</rs> had assumed <rs type="person" ref="#amp_person_1">Auden</rs> to be of the<lb/>
-                  Roman Catholic faith; <space quantity="1" unit="char"/>he had of course remained <del>_</del>a<del>:</del> <del>s</del>member of the<lb/><!-- develop solution for deletion of signs to be substituted by space -->
-                  <rs type="org" ref="#amp_organization_4">Anglican</rs> and <rs type="org" ref="#amp_organization_45">Episcopalian churche<del><unclear>e</unclear></del>s</rs>. <space quantity="1" unit="char"/>The misunderstanding arose<lb/>
+                  graveside. <space quantity="1" unit="char"/>Many people in <rs type="place" ref="#amp_place_id_10">A<del rend="whiteout">k</del>ustria</rs> had assumed <rs type="person" ref="#amp_person_1">Auden</rs> to be of the<lb/>
+                  Roman Catholic faith; <space quantity="1" unit="char"/>he had of course remained <subst><del rend="overtyped">_</del><add place="superimposed">a</add></subst><del rend="overstrike">:</del> <subst><del rend="whiteout">s</del><add place="superimposed">m</add></subst>ember of the<lb/><!-- develop solution for deletion of signs to be substituted by space -->
+                  <rs type="org" ref="#amp_organization_4">Anglican</rs> and <rs type="org" ref="#amp_organization_45">Episcopalian chur<add place="above">c</add>he<subst><del rend="overtyped"><unclear>e</unclear></del><add place="superimposed">s</add></subst></rs>. <space quantity="1" unit="char"/>The misunderstanding arose<lb/>
                   from his regular attendance at mass in the <rs type="place" ref="#amp_place_id_332">parish church</rs> and his<lb/>
                   friendly relationship with <rs type="person" ref="#amp_person_109">Father Lustkandl</rs>, the parish priest<lb/>
                   referred to in <rs type="lit_work" ref="#lit_work_id_79">"Whitsunday in Kirchstetten"</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> asked<lb/>
                   <rs type="person" ref="#amp_person_109">Lustkandl</rs>´s <rs type="person" ref="#amp_person_230">sucessor</rs> for permission to be buried in the churchyard,<lb/>
-                  and his wish was accede<del>ö</del>d to. <space quantity="2" unit="char"/>Evid<del>n</del>ently, <del>T</del>the next logical thing to do<del>, then,</del><lb/>
+                  and his wish was accede<subst><del rend="overtyped">ö</del><add place="superimposed">d</add></subst> to. <space quantity="2" unit="char"/><add place="above">Evid<subst><del rend="overtyped">n</del><add place="superimposed">n</add></subst>tly,</add> <subst><del rend="overtyped">T</del><add place="superimposed">t</add></subst>he next logical thing to do<del rend="overstrike">, then,</del><lb/>
                   was to approach the chaplain to the <rs type="org" ref="#amp_organization_27">British Embassy in Vienna</rs>,´<lb/>
                   the <rs type="person" ref="#amp_person_156">Revd. Bruce Duncan</rs>, and ask him to officiate. <space quantity="1" unit="char"/>What form of<lb/>
                   service this should be - there could be no question of a funeral<lb/>
                   mass - left everyone present at a loss. <space quantity="1" unit="char"/>We agreed at last that<lb/>
                   it ought to be some kind of ecumenical ceremony held jointly by<lb/>
                   the <rs type="person" ref="#amp_person_230 #amp_person_156">two clergymen</rs>, but that first of all, the plan must be put<lb/>
-                  before <rs type="person" ref="#amp_person_88"><hi rend="underline">D</hi><del>D</del>r John Auden</rs>.
+                  before <rs type="person" ref="#amp_person_88"><hi rend="underline">D</hi><subst><del rend="overtyped">D</del><add place="superimposed">r</add></subst> John Auden</rs>.<!-- we need to add a unicode -->
                </p>
                <p>
                   <space quantity="5" unit="char"/>At this juncture <rs type="person" ref="#amp_person_4">Chester Kallman</rs> withdrew his insistence on<lb/>
-                  <del>an all too early funeral.</del> <space quantity="1" unit="char"/>the impossibly early date for the<lb/>
+                  <del rend="overtyped">an all too early funeral.</del> <space quantity="1" unit="char"/>the impossibly early date for the<lb/>
                   funeral. <space quantity="1" unit="char"/>The room had become much too warm, the oxygen was<lb/>
                   running out and <rs type="person" ref="#amp_person_4">Chester</rs> would not be able to stand much more<lb/>
-                  pressure. <space quantity="1" unit="char"/>The most urgent <del>step</del> objective was<del>l</del>quite simply to<lb/>
+                  pressure. <space quantity="1" unit="char"/>The most urgent <del rend="overtyped">step</del> objective was<del rend="whiteout"><unclear>l</unclear></del>quite simply to<lb/>
                   free him from our burdensome presence. <space quantity="1" unit="char"/>Once everyone had agreed<lb/>
-                  <del>that</del> <rs type="person" ref="#amp_person_1">Auden</rs>´s relations must be told immediately that the <rs type="event" ref="#amp_event_id_19">funeral</rs><lb/>
+                  <del rend="overstrike">that</del> <rs type="person" ref="#amp_person_1">Auden</rs>´s relations must be told immediately that the <rs type="event" ref="#amp_event_id_19">funeral</rs><lb/>
                   <del>ah</del>had been postponed, the moment had come to dissolve the meeting.<lb/>
                   <rs type="person" ref="#amp_person_96">Mrs Clark</rs> undertook to telephone to <rs type="place" ref="#amp_place_id_56">London</rs> and <rs type="person" ref="#amp_person_32"><foreign xml:lang="de">Frau</foreign> Strobl</rs> would<lb/>
                   drive her to the <rs type="org" ref="#amp_organization_70">Post Office</rs>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs> asked me to talk everything<lb/>
-                  over with <rs type="person" ref="#amp_person_97"><foreign xml:lang="de">Frau</foreign> Seitz</rs> and <rs type="person" ref="#amp_person_22"><foreign xml:lang="de">Herr</foreign> Enzinger</rs> and reach definite concl<del>i</del>u-<lb/>
-                  sions. <space quantity="1" unit="char"/>We all stood up, <rs type="person" ref="#amp_person_4"><hi rend="underline">C</hi>hester</rs> came across the room to me and<lb/>
+                  over with <rs type="person" ref="#amp_person_97"><foreign xml:lang="de">Frau</foreign> Seitz</rs> and <rs type="person" ref="#amp_person_22"><foreign xml:lang="de">Herr</foreign> Enzinger</rs> and reach definite concl<subst><del rend="overtyped">i</del><add place="superimposed">u</add></subst>-<lb/>
+                  sions. <space quantity="1" unit="char"/>We all stood up, <rs type="person" ref="#amp_person_4"><hi rend="underline">C</hi>hester</rs> came across the room to me and<lb/><!-- maybe we need to reconsider C with unicode -->
                   spoke in an undertone. <space quantity="1" unit="char"/>He was completely exhausted, he said,<lb/>
                   he couldn´t stand much more. <space quantity="1" unit="char"/>"I´ll do anything you want, you<lb/>
                   must just try to hold the others in check." Finally he said<lb/>
@@ -1103,30 +1103,30 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_97"><foreign xml:lang="de">Frau</foreign> Seitz</rs> drove the <rs type="person" ref="#amp_person_22">mayor</rs> and <rs type="person" ref="#amp_person_2">myself</rs> to her house at the<lb/>
                   other end of <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, and we settled down to talk things over.<lb/> 
-                  I remember that I brought up<del>p</del>the subject of <rs type="person" ref="#amp_person_4">Chester Kallman</rs>'s<lb/>
+                  I remember that I brought up<del rend="whiteout">p</del>the subject of <rs type="person" ref="#amp_person_4">Chester Kallman</rs>'s<lb/>
                   phobia about hearses. <space quantity="1" unit="char"/>He would have preferred the hearse not to<lb/>
-                  reverse up the lane to the <rs type="place" ref="#amp_place_id_2">garden gate</rs>, but that <del>h</del>the coffin be<lb/>
+                  reverse up the lane to the <rs type="place" ref="#amp_place_id_2">garden gate</rs>, but that <subst><del rend="overtyped">h</del><add place="superimposed">t</add></subst>he coffin be<lb/>
                   carried down to the road, and he would have liked it still better<lb/>
-                  if the undertaker's men could have carried it most of the wa<del>s</del><handShift new="#handwritten"/>y <handShift new="#typed"/>to<lb/> 
+                  if the undertaker's men could have carried it most of the wa<subst><del rend="overwritten">s</del><add place="superimposed"><handShift new="#handwritten"/>y</add></subst> <handShift new="#typed"/>to<lb/> <!-- to discuss markup -->
                   the church. <space quantity="1" unit="char"/>But I flinched from the very thought of the heavy<lb/>
-                  coffin being borne <del>over</del> along a steep downhill lane over uneven,<lb/>
+                  coffin being borne <del rend="overtyped">over</del> along a steep downhill lane over uneven,<lb/>
                   stony ground; <space quantity="1" unit="char"/>the hearse must be brought up the lane so that the<lb/>
                   bearers only had to cross the small garden. 
                </p>
                <p>
                   <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_22"><foreign xml:lang="de">Herr</foreign> Enzinger</rs> had an entirely different problem on his mind,<lb/>
-                  concerning <del>r</del>the safety of the property of the deceased <rs type="person" ref="#amp_person_1">poet</rs>.<lb/>
+                  concerning <subst><del rend="overtyped"><unclear>r</unclear></del><add place="superimposed">t</add></subst>he safety of the property of the deceased <rs type="person" ref="#amp_person_1">poet</rs>.<lb/>
                   We all know of cases, he said, where after someone has died objects<lb/>
                   of greater or less value mysteriously disappear from their usual<lb/>
-                  place and no o<del>b</del>ne is able to suggest where they got to? <space quantity="1" unit="char"/>Quite so,<lb/>
+                  place and no o<subst><del rend="overtyped">b</del><add place="superimposed">n</add></subst>e is able to suggest where they got to? <space quantity="1" unit="char"/>Quite so,<lb/>
                   I agreed, particularly in a case like this where it would be hard<lb/>
                   to say where anything had its usual place. <space quantity="1" unit="char"/>The <rs type="person" ref="#amp_person_22">mayor</rs> asked me<lb/>
-                  <del>at anyrate</del> to make sure that at least the upstairs room where <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
-                  worked was locked to protect the manuscripts.. <space quantity="1" unit="char"/>It was in fact locked and sealed by a notary<lb/>
+                  <del rend="overtyped">at anyrate</del> to make sure that at least the upstairs room where <rs type="person" ref="#amp_person_1">Auden</rs><lb/>
+                  worked was locked <add place="above">to protect the manuscripts.</add>. <space quantity="1" unit="char"/>It was in fact locked and sealed by a notary<lb/>
                   public, but subsequently <rs type="person" ref="#amp_person_22"><foreign xml:lang="de">Herr</foreign> Enzinger</rs>'s forebodings were justified.<lb/>
                   A Cheshire cat-like process of gradual disappearance of half-<lb/>
                   remembered objects began which has continued, if sporadically, ever<lb/>
-                  since. <space quantity="1" unit="char"/>Books, supplied from time to time <del>so as</del> to replenish the<lb/>
+                  since. <space quantity="1" unit="char"/>Books, supplied from time to time <del rend="overstrike">so as</del> to replenish the<lb/>
                   depleted stock in the <quote source="#lit_work_id_37">"cave of making"</quote>, have vanished.
                </p>
                <p>
@@ -1139,8 +1139,8 @@ for any purpose, even commercially.</p>
                   brass band as irreducible token of civic (self)-respect; <space quantity="1" unit="char"/>hearse<lb/>
                   to back up to the garden gate. <space quantity="1" unit="char"/>Not one of us, however, thought of<lb/>
                   asking who was to pay for the band, and this omission was to bring<lb/>
-                  trouble in its train. <space quantity="1" unit="char"/>In due course the local council sent a b<del>a</del>i<del>i</del>ll<del>l</del><lb/>
-                  to <rs type="person" ref="#amp_person_4">Chester</rs>, who was <del>fusri</del> furious. <space quantity="1" unit="char"/>His view was that the brass<lb/>
+                  trouble in its train. <space quantity="1" unit="char"/>In due course the local council sent a b<subst><del rend="whiteout">a</del><add place="superimposed">i</add></subst><subst><del rend="overtyped">i</del><add place="superimposed">l</add></subst>l<del rend="whiteout">l</del><lb/>
+                  to <rs type="person" ref="#amp_person_4">Chester</rs>, who was <del rend="overtyped">fusri</del> furious. <space quantity="1" unit="char"/>His view was that the brass<lb/>
                   band had been forced upon him, consequently he could not be
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0508/" type="sheet" ed="15v"/>
