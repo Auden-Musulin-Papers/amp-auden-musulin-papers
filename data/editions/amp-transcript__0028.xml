@@ -1101,7 +1101,7 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_97"><foreign xml:lang="de">Frau</foreign> Seitz</rs> drove the <rs type="person" ref="#amp_person_22">mayor</rs> and <rs type="person" ref="#amp_person_2">myself</rs> to her house at the<lb/>
                   other end of <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, and we settled down to talk things over.<lb/> 
-                  I remember that I brought up<del rend="whiteout">p</del>the subject of <rs type="person" ref="#amp_person_4">Chester Kallman</rs>'s<lb/>
+                  I remember that I brought up<subst><del rend="whiteout">p</del><add place="superimposed"><space quantity="1" unit="char"/></add></subst>the subject of <rs type="person" ref="#amp_person_4">Chester Kallman</rs>'s<lb/>
                   phobia about hearses. <space quantity="1" unit="char"/>He would have preferred the hearse not to<lb/>
                   reverse up the lane to the <rs type="place" ref="#amp_place_id_2">garden gate</rs>, but that <subst><del rend="overtyped">h</del><add place="superimposed">t</add></subst>he coffin be<lb/>
                   carried down to the road, and he would have liked it still better<lb/>
