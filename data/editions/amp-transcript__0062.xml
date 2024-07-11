@@ -574,7 +574,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0351/" type="sheet" ed="1r"/>
             <div type="prose">
                <head>
-                  <space quantity="17" unit="char"/><rs type="lit_work" ref="#lit_work_id_47" ana="acdh:amp-transcript__0031.xml#ana_030"><hi rend="underline">The Years in Au</hi>s<hi rend="underline">&#x333;tria.</hi></rs>
+                  <space quantity="17" unit="char"/><rs type="lit_work" ref="#lit_work_id_47" ana="acdh:amp-transcript__0031.xml#ana_030"><hi rend="underline">The Years in Au</hi>s<hi rend="underline">&#x333;tria.</hi></rs> <!-- to discuss -->
                </head>
                <p>
                   <space quantity="5" unit="char"/>Half an hour from the outskirts of <rs type="place" ref="#amp_place_id_1">Vienna</rs> an invisible<lb/>
