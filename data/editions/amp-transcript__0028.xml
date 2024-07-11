@@ -1001,7 +1001,7 @@ for any purpose, even commercially.</p>
                </fw>
                <p prev="true">
                   released by the authorities. <space quantity="1" unit="char"/>In all cases where the cause of death<lb/>
-                  is not wholly clear certain<del rend="whiteout">k</del>formalities are obligatory, and even<lb/><!-- to discuss -->
+                  is not wholly clear certain<subst><del rend="whiteout">k</del><add place="superimposed"><space quantity="1" unit="char"/></add></subst>formalities are obligatory, and even<lb/><!-- to discuss -->
                   intervention at a high level would not work miracles. <space quantity="1" unit="char"/>Everything<lb/>
                   takes time. <space quantity="1" unit="char"/>And how could anyone expect it of him, the <rs type="person" ref="#amp_person_22"><foreign xml:lang="de">Bürgermeister</foreign></rs>,<lb/>
                   that he should refrain from notifying the <rs type="org" ref="#amp_organization_43">Ministry</rs> and the Cultural<lb/>
