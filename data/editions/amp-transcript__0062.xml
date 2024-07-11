@@ -1296,9 +1296,13 @@ for any purpose, even commercially.</p>
                         to become uppish."
                      </quote>
                   </seg>
-                <add hand="#handwritten" place="inline">X INSERT 14a.</add>
                </p>
             </div>
+            <div>
+               <ab hand="#handwritten">
+                  <add place="inline">X INSERT 14a.</add>
+               </ab>
+            </div>   
             <div type="prose">
                <p>
                   <space quantity="5" unit="char"/>Characteristic t<subst><del rend="overtyped">o</del><add place="superimposed">h</add></subst>ough it is, one might not feel justified<lb/>
@@ -1752,8 +1756,15 @@ for any purpose, even commercially.</p>
                   there. <space quantity="1" unit="char"/>He seldom failed to mention the subje<subst><del rend="overtyped">f</del><add place="superimposed">c</add></subst>t when he <del rend="overtyped">had</del><lb/>
                   c<subst><del rend="overtyped">o</del><add place="superimposed">a</add></subst>me back to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>, and was particularly angry about the<lb/>
                   advertisements on the <rs type="org" ref="#amp_organization_54">London Underground</rs>, which he said beat anything<lb/>
-                  to be found any<del rend="overstrike">t</del>where.<add hand= "#handwritten" place="inline">+ + +</add> <!-- to check -->
-               </p>
+                  to be found any<del rend="overstrike">t</del>where.
+                </p>
+            </div>
+               <div>
+                 <ab hand="#handwritten">
+                  <add place="inline">+ + +</add>
+                 </ab>     
+             </div>   
+            <div type="prose">
                <p>
                   <space quantity="5" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> liked to be amused. <space quantity="1" unit="char"/>As I mentioned earlier, he was<lb/>
                   <add place="above">i</add>interested, as a human phenomenon, in <rs type="person" ref="#amp_person_93">my mother-in-law</rs> who<lb/>
@@ -2307,7 +2318,7 @@ for any purpose, even commercially.</p>
                              one political function. <space quantity="1" unit="char"/>Since language is his medium, it is his<lb/>
                              duty, by hi<subst><del rend="overwritten">w</del><add place="superimposed">s</add></subst> own example, to defend his mother-tongue against<lb/>
                              corruption by demagogues, journalists, the mass-media etc. <space quantity="1" unit="char"/>As<lb/>
-                             <rs type="person" ref="#amp_person_81">Karl Kraus</rs> said: <space quantity="1" unit="char"/><quote source="#lit_work_id_173">"<foreign xml:lang="de"><del><gap quantity="1" unit="char" reason="deleted"/></del><hi rend="underline"><unclear><del rend="overwritten"><subst><del rend="overtyped">E</del><add place="superimposed">D</add></subst></del></unclear><add place="superimposed">D</add>ie Sprache ist die Mutter, nicht das Magd</hi>,<lb/><!-- to discuss/ to check -->
+                             <rs type="person" ref="#amp_person_81">Karl Kraus</rs> said: <space quantity="1" unit="char"/><quote source="#lit_work_id_173">"<foreign xml:lang="de"><hi rend="underline"><subst><del rend="overwritten"><unclear>E</unclear></del><add place="superimposed">D</add></subst>ie Sprache ist die Mutter, nicht das Magd</hi>,<lb/>
                              des Gedankens</foreign><del rend="overtyped">.</del>"</quote>, and when language loses its meaning, <del rend="overtyped">social<space quantity="1" unit="char"/></del><lb/>
                              its place is taken by violence. <space quantity="1" unit="char"/>Of course, the poet may use<lb/>
                              political and social events as subject-matter for poems - they<lb/>
@@ -2324,7 +2335,7 @@ for any purpose, even commercially.</p>
                              are powerless.
                           </p>
                           <p>
-                             <space quantity="4" unit="char"/>The second confusion, of which <rs type="person" ref="#amp_person_30">Plato</rs> is the mo<add place="inline">s</add>t famous examp<subst><del rend="overtyped">o</del><add place="superimposed">l</add></subst>e,<lb/><!-- how to tag 'most' -->
+                             <space quantity="4" unit="char"/>The second confusion, of which <rs type="person" ref="#amp_person_30">Plato</rs> is the mo<add place="inline">s</add>t famous examp<subst><del rend="overtyped">o</del><add place="superimposed">l</add></subst>e,<lb/>
                              is to take artistic fabrication as the model f<subst><del rend="overtyped">r</del><add place="superimposed">o</add></subst>r a good society.
                           </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0416/" type="sheet" ed="31v"/>
@@ -2366,7 +2377,7 @@ for any purpose, even commercially.</p>
                            <p>
                               <space quantity="4" unit="char"/>At this point, a little digression on the subject of 'free'<lb/>
                               verse, which seems now to be almost universal among young poets.<lb/>
-                              Though excellent examples, the poems of <rs type="person" ref="#amp_person_31">D.H<subst><del rend="overtyped">-</del><add place="superimposed">.</add></subst> Lawrence</rs>, for example,<lb/><!-- to discuss -->
+                              Though excellent examples, the poems of <rs type="person" ref="#amp_person_31">D.H<subst><del rend="overtyped">-</del><add place="superimposed">.</add></subst> Lawrence</rs>, for example,<lb/>
                               exist, they are, in my opinion, the exception, not the rule.<lb/>
                               The great virtue of formal metrical rules is that they forbid<lb/>
                               automatic responses and, by forcing the poet to have second<lb/>
@@ -2427,7 +2438,7 @@ for any purpose, even commercially.</p>
                   I think, have been because of an innate lack of intelligence<lb/>
                   on their part but because the Austrian and the German academic<lb/>
                   mind tends towards compartmentalised thought more than is the<lb/>
-                  case among well educated Americans, <unclear>B</unclear><add place="superimposed">B</add>ritish and French people who<lb/><!-- we need to discuss if it is really a deletion or a verdoplung -->
+                  case among well educated Americans, <subst><del rend="overwritten"><gap quantity="1" unit="char" reason="illegible"/></del><add place="superimposed">B</add></subst>ritish and French people who<lb/>
                   may have acquired the ability to survey one discipline in terms<lb/>
                   of another. <space quantity="1" unit="char"/>This exceedingly demanding speech tells one something<lb/>
                   else about <rs type="person" ref="#amp_person_1">Auden</rs>: <space quantity="1" unit="char"/>he never talked down to people. <space quantity="1" unit="char"/>They would<lb/>
@@ -2467,7 +2478,7 @@ for any purpose, even commercially.</p>
                   happily read and reviewed <rs type="lit_work" ref="#lit_work_id_36">"The History of the British Nannie"</rs> and<lb/>
                   he was addicted to English detective novels - his collection is now<lb/>
                   at <rs type="place" ref="#amp_place_id_7">Fridau</rs>. <space quantity="1" unit="char"/>I dropped <rs type="place" ref="#amp_place_id_2">in</rs> one early afternoon on my way to <rs type="place" ref="#amp_place_id_1">Vienna</rs>,<lb/>
-                  just to leave something for him, <unclear>I</unclear><add place="superimposed">I</add> forg<unclear><subst><del rend="overtyped">e</del><add place="superimposed">o</add></subst></unclear>t what. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> came pounding<lb/><!-- what about 'I' -->
+                  just to leave something for him, <subst><del rend="overwritten"><gap quantity="1" unit="char" reason="illegible"/></del><add place="superimposed">I</add></subst> forg<unclear><subst><del rend="overtyped">e</del><add place="superimposed">o</add></subst></unclear>t what. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> came pounding<lb/>
                   down the rickety outside staircase, greeted me with his usual warmth,<lb/>
                   urged me to come in, to stay ... No no, I said, we're both busy,<lb/>
                   I must get on. <space quantity="1" unit="char"/>"Oh!" he exclaimed, and it was as though he were<lb/>
