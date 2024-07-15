@@ -152,7 +152,7 @@ for any purpose, even commercially.</p>
                            </address>
                         </placeName>
                         <seg rend="#block">
-                           <space quantity="45" unit="char"/><date>21 Novembe<del>er</del>r <space quantity="1" unit="char"/>1981</date>
+                           <space quantity="45" unit="char"/><date>21 Novembe<subst><del rend="whiteout">er</del><add place="superimposed">r<space quantity="1" unit="char"/></add></subst> 1981</date>
                         </seg>
                      </dateline>
                      <salute>
@@ -161,28 +161,28 @@ for any purpose, even commercially.</p>
                   </opener>
                   <p>
                      Delighted you got that <rs type="lit_work" ref="#lit_work_id_49">EARLY AUDEN</rs>, and even more delighted you find<lb/>
-                     it worth looking into. <space quantity="1" unit="char"/><del>As I suppose you've experienced yourself,</del>Is it a universal experience among authors to<lb/>
+                     it worth looking into. <space quantity="1" unit="char"/><subst><del rend="whiteout">As I suppose you've experienced yourself,</del><add place="superimposed">Is it a universal experience among author</add></subst>s to<lb/>
                      be surprised that someone actually reads one's book?  I'm so familiar<lb/>
                      with <rs type="lit_work" ref="#lit_work_id_49">the thing</rs> by now, and so aware of its deficiencies, that I wish<lb/>
-                     I could recall the edition and rewrite <rs type="lit_work" ref="#lit_work_id_49">the whole <del>thing from</del>book</rs> from the start.<lb/>
-                     Luckily, t<del>h</del>eaching, reviewing and miscellaneous annoyances keep the<lb/>
-                     mind elsewhere. <space quantity="1" unit="char"/>One of those miscellaneous annoy<del><gap reason="deleted"/></del>ances was a move<lb/>
-                     from <rs type="place" ref="#amp_place_id_171">my o<del>d</del>ld flat</rs> to <rs type="place" ref="#amp_place_id_248">an<del>t</del>other one</rs> on the same floor in the same building.<lb/>
+                     I could recall the edition and rewrite the whole <subst><del rend="whiteout">thing from</del><add place="superimposed"><rs type="lit_work" ref="#lit_work_id_49">book</rs> from </add></subst>the start.<lb/>
+                     Luckily, t<subst><del rend="whiteout">h</del><add place="superimposed">e</add></subst>aching, reviewing and miscellaneous annoyances keep the<lb/>
+                     mind elsewhere. <space quantity="1" unit="char"/>One of those miscellaneous annoy<subst><del rend="whiteout"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed">a</add></subst>nces was a move<lb/>
+                     from <rs type="place" ref="#amp_place_id_171">my o<subst><del rend="whiteout">d</del><add place="superimposed">l</add></subst>d flat</rs> to <rs type="place" ref="#amp_place_id_248">an<del>t</del>other one</rs> on the same floor in the same building.<lb/>
                      The <rs type="place" ref="#amp_place_id_248">new address</rs> is up above, and the only change is in the apartment<lb/>
                      number. <space quantity="1" unit="char"/>Phone number still 212 222-0679.
                   </p>
                   <p>
-                     Yes, I saw the you<del>g</del>ng man who was doing advance work f<del>ro</del>or <rs type="person" ref="#amp_person_158">Robert Robinson</rs>,<lb/>
-                     but haven't heard from him since July. <space quantity="1" unit="char"/>I gather <rs type="lit_work" ref="#lit_work_id_118"><del>wor</del>that work</rs> progresses,<lb/>
+                     Yes, I saw the you<subst><del rend="whiteout">g</del><add place="superimposed">n</add></subst>g man who was doing advance work f<subst><del rend="whiteout">ro</del><add place="superimposed">or</add></subst> <rs type="person" ref="#amp_person_158">Robert Robinson</rs>,<lb/>
+                     but haven't heard from him since July. <space quantity="1" unit="char"/>I gather <rs type="lit_work" ref="#lit_work_id_118"><subst><del rend="whiteout">wor</del><add place="superimposed">tha</add></subst>t work</rs> progresses,<lb/>
                      though. <space quantity="1" unit="char"/>There was <rs type="lit_work" ref="#lit_work_id_119">an hour on <rs type="person" ref="#amp_person_1">Wystan</rs></rs> on <rs type="org" ref="#amp_organization_28">BBC <hi rend="underline">Radio</hi></rs> the other week--a<lb/>
                      "dramatization" with an actor reading the poems and lots of ominous<lb/>
-                     <space quantity="1" unit="char"/>noises off. <space quantity="1" unit="char"/>I'm told it was fairly dreadful, but perh<del><gap reason="deleted"/></del>aps <rs type="lit_work" ref="#lit_work_id_118">the TV film</rs><lb/>
+                     <space quantity="1" unit="char"/>noises off. <space quantity="1" unit="char"/>I'm told it was fairly dreadful, but perh<subst><del rend="whiteout"><gap reason="illegible" unit="char" quantity="2"/></del><add place="superimposed">ap</add></subst>s <rs type="lit_work" ref="#lit_work_id_118">the TV film</rs><lb/>
                      will be better. <space quantity="1" unit="char"/>I saw quite a good one from the <rs type="org" ref="#amp_organization_22">BBC</rs> on <rs type="person" ref="#amp_person_136">Benjamin Britten</rs>.<lb/>
-                     Its only fault--and I'm not sure <del><gap reason="deleted"/></del>this was a fault, given the usual tone<lb/>
+                     Its only fault--and I'm not sure <subst><del rend="whiteout"><gap reason="illegible" unit="char" quantity="4"/><unclear>w</unclear></del><add place="superimposed">this </add></subst>was a fault, given the usual tone<lb/>
                      of TV journalism--was an awed tone of worship.
                   </p>
                   <p>
-                     <del>A</del>Easy answers to important questions. <space quantity="1" unit="char"/>Those <rs type="lit_work" ref="#lit_work_id_185" ana="#ana_033">two volumes <del><gap reason="deleted"/>f</del>by and about<lb/>
+                     <subst><del rend="whiteout">A</del><add place="superimposed">E</add></subst>asy answers to important questions. <space quantity="1" unit="char"/>Those <rs type="lit_work" ref="#lit_work_id_185" ana="#ana_033">two volumes <subst><del rend="whiteout"><gap reason="illegible" unit="char" quantity="1"/>f</del><add place="superimposed">by</add></subst> and about<lb/>
                      <rs type="person" ref="#amp_person_1">Auden</rs></rs> sound very attractive. <space quantity="1" unit="char"/>(Which publisher is interested?) <space quantity="1" unit="char"/>The<lb/>
                      place to write for permissions is to the agents, specifically, to
                      <seg>
@@ -196,7 +196,7 @@ for any purpose, even commercially.</p>
                      anyway.
                   </p>
                   <p>
-                     Now let me beg you for an easy answer. <space quantity="1" unit="char"/>I've heard from at<del>t<gap reason="deleted"/></del> least two<lb/>
+                     Now let me beg you for an easy answer. <space quantity="1" unit="char"/>I've heard from at<subst><del rend="whiteout">t<gap reason="illegible" quantity="1" unit="char"/></del><add place="superimposed"><space quantity="1" unit="char"/>l</add></subst>east two<lb/>
                      different people that they had seen (or knew someone else who had seen)<lb/>
                      a <rs type="lit_work" ref="#lit_work_id_115">German text of your Wystan memoir</rs> in print. <space quantity="1" unit="char"/>Are they right, or are<lb/>
                      they confusing this with an occasion when you read it aloud (and it was<lb/>
@@ -205,7 +205,7 @@ for any purpose, even commercially.</p>
                      it. <space quantity="1" unit="char"/>Please, <hi rend="underline">please</hi> tell me if you printed <rs type="lit_work" ref="#lit_work_id_115">it</rs>, and if so, where. <space quantity="1" unit="char"/>No need<lb/>
                      for a long letter: just a "No, calm down, I never printed it" or a "Yes,<lb/>
                      it appeared in such-in-such a journal" would be more than enough. <space quantity="1" unit="char"/>This is<lb/>
-                     the one min<del><gap reason="deleted"/></del>or mystery of writings-about-<rs type="person" ref="#amp_person_1">Wystan</rs> I haven't been able to solve,<lb/>
+                     the one min<subst><del rend="whiteout"><gap quantity="1" unit="char" reason="illegible"/></del><add place="superimposed">o</add></subst>r mystery of writings-about-<rs type="person" ref="#amp_person_1">Wystan</rs> I haven't been able to solve,<lb/>
                      so please do help.
                   </p>
                   <p>
