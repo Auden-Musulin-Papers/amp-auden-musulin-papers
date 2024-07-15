@@ -209,12 +209,12 @@ for any purpose, even commercially.</p>
                      so please do help.
                   </p>
                   <p>
-                     Have I told you <del><gap reason="deleted"/>ny</del>any of my news? <space quantity="1" unit="char"/>I'm now at <rs type="org" ref="#amp_organization_30">Columbia University</rs> permanently,<lb/>
+                     Have I told you <subst><del rend="whiteout"><gap atLeast="2" atMost="3" unit="char" reason="illegible"/>ny</del><add place="superimposed">any </add></subst> of my news? <space quantity="1" unit="char"/>I'm now at <rs type="org" ref="#amp_organization_30">Columbia University</rs> permanently,<lb/>
                      if I want to be. <space quantity="1" unit="char"/>I have a <rs type="place" ref="#amp_place_id_248">flat</rs> with a small guest room and bath--so please<lb/>
-                     take note if you're in <rs type="place" ref="#amp_place_id_15">th<del>e</del>is country</rs> for any reason. <space quantity="1" unit="char"/>I have a lady friend,<lb/>
+                     take note if you're in <rs type="place" ref="#amp_place_id_15">th<subst><del rend="whiteout">e</del><add place="superimposed">i</add></subst>s country</rs> for any reason. <space quantity="1" unit="char"/>I have a lady friend,<lb/>
                      the first whom I expect to be with for a very long time, and we are quite<lb/>
                      happy about things in general. <space quantity="1" unit="char"/>Next June we'll be in <rs type="place" ref="#amp_place_id_30">Europe</rs>, certainly in<lb/>
-                     <rs type="place" ref="#amp_place_id_84">Paris</rs>, possibly father <del><gap reason="deleted"/></del>south, <del>t</del>although we may put off the southern trip<lb/>
+                     <rs type="place" ref="#amp_place_id_84">Paris</rs>, possibly father <subst><del rend="whiteout"><gap reason="illegible" quantity="1" unit="char"/></del><add place="superimposed">s</add></subst>outh, <subst><del rend="whiteout">t</del><add place="superimposed">a</add></subst>lthough we may put off the southern trip<lb/>
                      for another year or so. <space quantity="1" unit="char"/>I haven't been across the Atlantic this year; too<lb/>
                   </p>
                   </div>
@@ -237,7 +237,7 @@ for any purpose, even commercially.</p>
                         <space quantity="36" unit="char"/><rs type="person" ref="#amp_person_2">Frau Baronin<lb/>
                         <space quantity="36" unit="char"/>Stella Musulin</rs><lb/>
                         <address xml:lang="en">
-                           <space quantity="36" unit="char"/><rs type="place" ref="#amp_place_id_172">Sch<del><gap reason="deleted"/></del>l<del>t</del>össelgasse 8/17<lb/>
+                           <space quantity="36" unit="char"/><rs type="place" ref="#amp_place_id_172">Sch<subst><del rend="whiteout"><gap reason="illegible" quantity="1" unit="char"/></del><add place="superimposed">l</add></subst><subst><del rend="whiteout">t</del><add place="superimposed">ö</add></subst>sselgasse 8/17<lb/>
                            <space quantity="36" unit="char"/>A-1080 Vienna<lb/>
                            <space quantity="36" unit="char"/>Austria</rs>
                         </address>
@@ -246,7 +246,7 @@ for any purpose, even commercially.</p>
                   <div type="letter_message">
                      <p prev="true">
                         preoccupied, too broke, too much to do in <rs type="place" ref="#amp_place_id_28">New York</rs> to feel much of an<lb/>
-                        i<del><unclear>p</unclear></del>mpulse to get away. <space quantity="1" unit="char"/>My years in <rs type="org" ref="#amp_organization_18">New Haven</rs> always left me panting to<lb/>
+                        i<subst><del rend="whiteout"><unclear>p</unclear></del><add place="superimposed">m</add></subst>pulse to get away. <space quantity="1" unit="char"/>My years in <rs type="org" ref="#amp_organization_18">New Haven</rs> always left me panting to<lb/>
                         get overseas, but now I feel at home again.
                      </p>
                      <p>

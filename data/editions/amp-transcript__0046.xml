@@ -101,7 +101,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0141/" type="sheet" ed="1r"/>
             <div type="prose">
                <ab>
-                  1. In dem <hi rend="underline">man</hi><unclear>✓</unclear> dich — begrub ·
+                  1. In dem <hi rend="underline">man</hi><add place="inline"><unclear>✓</unclear></add> dich — begrub ·
                </ab>
                <ab>
                   2. Kategorisiert<unclear>.</unclear><lb/>
@@ -110,50 +110,50 @@ for any purpose, even commercially.</p>
                </ab>
                <ab>
                   <unclear>3</unclear>. Grosses Unheil stifteten und Böses planten .<lb/>
-                  <foreign xml:lang="en"><del>Mem</del> men of great damage and malengine .<lb/>
+                  <foreign xml:lang="en"><del rend="overstrike">Mem</del> men of great damage and malengine .<lb/>
                   <hi rend="underline"><unclear>1</unclear></hi> the act<unclear>io</unclear>n<lb/>
                   <hi rend="underline">2</hi> the intent</foreign>.<lb/>
                   Übelwollens?<lb/>
-                  Männer<unclear>✓</unclear> grossen Unheils und Übelwol<unclear>l</unclear>ens<unclear>.</unclear> ?
+                  Männer<add place="inline"><unclear>✓</unclear></add> grossen Unheils und Übelwol<unclear>l</unclear>ens<unclear>.</unclear> ?
                </ab>
                <ab>
-                  <unclear>5</unclear>. Alpdruck.(vom nicht vor)<lb/>
+                  <unclear>5</unclear>. Alpdruck.<add place="inline">(vom nicht vor)</add><lb/>
                   Stümper .
                </ab>
                <ab>
-                  <unclear>6.</unclear> <del><unclear>I</unclear>n str</del> Bei✓ strömendem Regen<lb/>
+                  <unclear>6.</unclear> <del rend="overstrike"><unclear>I</unclear>n str</del> Bei<add place="inline">✓</add> strömendem Regen<lb/>
                </ab>
                <ab>
                   <unclear>7.</unclear> <foreign xml:lang="en">Hope ever<unclear>y</unclear>one won't think</foreign> <unclear>"</unclear>die Reiche<unclear>"</unclear><lb/>
-                  <foreign xml:lang="en">is a missprint for</foreign> <unclear>"</unclear>die Reichen<unclear>".</unclear>prosais<unclear>c</unclear>h<hi rend="underline">e</hi><lb/>
-                  <unclear>&amp;</unclear> privat<hi rend="underline">e</hi> Art
+                  <foreign xml:lang="en">is a missprint for</foreign> <unclear>"</unclear>die Reichen<unclear>".</unclear><add place="inline">prosais<unclear>c</unclear>h<hi rend="underline">e</hi><lb/>
+                  <unclear>&amp;</unclear> privat<hi rend="underline">e</hi> Art</add>
                </ab>
                <ab>
                   8. L<hi rend="underline">äch</hi>eln wir bei Hochzei<unclear>t</unclear>en , <hi rend="underline">auf</hi> denen ?<lb/>
-                  <foreign xml:lang="en">Next sentence ungramm<unclear>a</unclear>t<unclear>ica</unclear>l <unclear>.</unclear> Verb <del>lacking</del>missing..<lb/>
+                  <foreign xml:lang="en">Next sentence ungramm<unclear>a</unclear>t<unclear>ica</unclear>l <unclear>.</unclear> Verb <subst><del rend="overstrike">lacking</del><add place="above">missing</add></subst>..<lb/>
                   And perhaps</foreign><unclear>:</unclear> <unclear>"</unclear>Noch nie war die Erde ohne<lb/>
                   ihr<hi rend="underline">e</hi> faule<del>n</del> Stelle<del>n</del> (singular as in original),<lb/>
                   ein Uno<unclear>r</unclear>t mit <hi rend="underline">Posten</hi> fü<unclear>r</unclear> Folterer
                </ab>
                <ab>
-                  <unclear>9.</unclear> Frieden oder Friede✓ ?
+                  <unclear>9.</unclear> Frieden oder Friede<add place="inline">✓</add> ?
                </ab>
                <ab>
                   10. An das Regime? Wie <unclear>w</unclear>u einst<unclear>✓</unclear> <unclear>·</unclear> W<hi rend="underline">ann</hi> bei jedem<lb/>
                   <hi rend="underline">Wenn</hi> .
                </ab>
                <ab>
-                  11. Bedeu<unclear>te</unclear>nd<hi rend="underline">ere</hi><hi rend="underline"><del><unclear>r</unclear></del>n </hi>Nachbarn<lb/> 
-                  Warum <hi rend="underline">des</hi> n<hi rend="underline">oblen</hi> <unclear>Fl</unclear>usses <unclear>?</unclear> <rs type="place" ref="#amp_place_id_251">die Perschling</rs>
+                  11. Bedeu<unclear>te</unclear>nd<hi rend="underline">ere</hi><hi rend="underline"><subst><del rend="overstrike"><unclear>r</unclear></del><add place="superimposed">n</add></subst> </hi>Nachbarn<lb/> 
+                  Warum <hi rend="underline">des</hi> n<hi rend="underline">oblen</hi> <unclear>Fl</unclear>usses <unclear>?</unclear> <add place="above"><rs type="place" ref="#amp_place_id_251">die Perschling</rs></add>
                </ab>
                <ab>
                   12. W<hi rend="underline">as</hi> ist der Abgrund?<lb/>
-                  statt Bratschen Violas oder Geigen
+                  <add place="below">statt Bratschen Violas oder Geigen</add>
                </ab>
             </div>
             <div>
                <ab>
-                  ⁒
+                  <add place="margin">⁒</add>
                </ab>
             </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0142/" type="sheet" ed="1v"/>
