@@ -253,6 +253,7 @@
                 <valList type="closed" mode="replace">
                   <valItem ident="underline"/>
                   <valItem ident="italic"/>
+                  <valItem ident="superscript"/>
                 </valList>
               </attDef>
             </attList>
@@ -528,6 +529,8 @@
                   <valItem ident="overwritten"/>
                   <valItem ident="whiteout"/>
                   <valItem ident="metamark"/>
+                  <valItem ident="overlaid"/>
+                  <valItem ident="edited"/>
                 </valList>
               </attDef>
             </attList>
