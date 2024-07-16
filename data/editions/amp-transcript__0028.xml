@@ -128,6 +128,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-05-10">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-22">entities collated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2024-06-11">entities reviewed, interpGrp added, prose container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-07-16">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -507,7 +508,7 @@ for any purpose, even commercially.</p>
                   <space quantity="4" unit="char"/>On his own ground, operatic libretti, <rs type="person" ref="#amp_person_4">Chester Kallman</rs> was<lb/>
                   still in good running order, and <rs type="event" ref="#amp_event_id_113">when the <rs type="lit_work" ref="#lit_work_id_3">Rake´s Progress</rs> was put<lb/>
                   on</rs> in <rs type="place" ref="#amp_place_id_1">Vienna</rs> he wrote a <rs type="lit_work" ref="#lit_work_id_207">letter</rs> to <hi rend="underline"><rs type="org" ref="#amp_organization_39">Die Presse</rs></hi> protesting sharply<lb/><!-- added underline in die Presse -->
-                  <subst><del rend="whiteout"><subst><del rend="overtyped">over</del><add place="left">AGAINST </add></subst></del><add place="superimposed"> against</add></subst> the cuts <del rend="overtyped">which had been</del> made by the <rs type="person" ref="#amp_person_250">producer</rs>. <space quantity="1" unit="char"/>But of that<lb/><!-- to discuss but I think I have it correct -->
+                  <subst><del rend="whiteout"><subst><del rend="overtyped">over</del><add place="left">AGAINST </add></subst></del><add place="superimposed"> against</add></subst> the cuts <del rend="overtyped">which had been</del> made by the <rs type="person" ref="#amp_person_250">producer</rs>. <space quantity="1" unit="char"/>But of that<lb/>
                   conversational brilliance which old friends have described there<lb/>
                   was little sign. <space quantity="1" unit="char"/>A scene comes to mind: <rs type="person" ref="#amp_person_1">Auden</rs> was away, and <rs type="person" ref="#amp_person_4">Chester</rs><lb/>
                   asked me to meet him for lunch at a restaurant off the <rs type="place" ref="#amp_place_id_235">Kärntner-<lb/>
@@ -1240,7 +1241,7 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="5" unit="char"/>Reaching for my <rs type="lit_work" ref="#lit_work_id_82">Authorised Version</rs>, for surely no one would<lb/>
                   have dared to use any other, on second thoughts I also took out the<lb/>
-                  <rs type="lit_work" ref="#lit_work_id_12">New Testament</rs> as translated into German by <rs type="person" ref="#amp_person_102">Martin Luther</rs>. <space quantity="1" unit="char"/>After<lb/><!-- is it an S after German? -->
+                  <rs type="lit_work" ref="#lit_work_id_12">New Testament</rs> as translated into German by <rs type="person" ref="#amp_person_102">Martin Luther</rs>. <space quantity="1" unit="char"/>After<lb/>
                   reading the English text through ve<subst><del rend="whiteout">d</del><add place="superimposed">r</add></subst>y slowly, and then a second<lb/>
                   time, I did the same with the <rs type="lit_work" ref="#lit_work_id_109">Luther<subst><del rend="overtyped">n</del><add place="superimposed">a</add></subst>n Bible</rs> and lost in thought<lb/>
                   compared the two, verse by verse.
@@ -1255,7 +1256,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="5" unit="char"/>"What a mercy you´ve told me" I said, relieved. <space quantity="1" unit="char"/>"I should have<lb/>
-                  <add place="left">had </add>to <del rend="overstrike">have</del> d<subst><del rend="overwritten">u</del><add place="superimposed">i</add></subst>g up such frightful words in the <rs type="org" ref="#amp_organization_16">British Council</rs> library.<lb/> <!-- left or in line? -->
+                  <add place="inline">had </add>to <del rend="overstrike">have</del> d<subst><del rend="overwritten">u</del><add place="superimposed">i</add></subst>g up such frightful words in the <rs type="org" ref="#amp_organization_16">British Council</rs> library.<lb/>
                   But do you think people will understand all that about the primary<lb/>
                   and secondary worlds, or will they get muddled?"
                </p>
@@ -1301,7 +1302,7 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="5" unit="char"/>"Funny you should ask that" I said. <space quantity="1" unit="char"/>"It´s one of the things<lb/>
                   I forgot to talk to you about. <space quantity="1" unit="char"/><quote source="#lit_work_id_82 #lit_work_id_14">`Be not deceived: <space quantity="1" unit="char"/>evil<subst><del rend="whiteout">,</del><add place="superimposed"><space quantity="1" unit="char"/></add></subst>comm<subst><del rend="whiteout">k</del><add place="superimposed">u</add></subst><subst><del rend="overtyped"><unclear>u</unclear></del><add place="superimposed">n</add></subst>ica-<lb/>
-                  tions corrupt good manners.´</quote> He renders that as <quote source="#lit_work_id_109 #lit_work_id_14">`<foreign xml:lang="de">Lasset euch nicht<lb/><!-- to discuss SK: what about a supplied space?-->
+                  tions corrupt good manners.´</quote> He renders that as <quote source="#lit_work_id_109 #lit_work_id_14"><add place="superimposed">`</add><foreign xml:lang="de">Lasset euch nicht<lb/>
                   verführen! <space quantity="1" unit="char"/>Böse Geschwätze verderben gute Sitten</foreign>.´</quote>"
                </p>
                <p>
