@@ -140,21 +140,21 @@ for any purpose, even commercially.</p>
                   auch war.
                </p>
                <p>
-                  <space quantity="6" unit="char"/>Ich habe natürlich<unclear><del><gap reason="deleted"/></del></unclear>ein 'persönliches' Interesse an <rs type="place" ref="#amp_place_id_10">Öster-<lb/>
+                  <space quantity="6" unit="char"/>Ich habe natürlich<unclear><subst><del rend="whiteout"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed"><space quantity="1" unit="char"/></add></subst></unclear>ein 'persönliches' Interesse an <rs type="place" ref="#amp_place_id_10">Öster-<lb/>
                   reich</rs>, sonst käme ich nicht hierher. Mir gefällt die Landschaft<lb/>
                   und ich finde die Österreicher, die ich kennen lerne, freundlich<lb/>
                   und charmant.
                </p>
                <p>
                   <space quantity="7" unit="char"/>Sie sagen wahrheitsgemäss, dass ich einmal einen <rs type="event" ref="#amp_event_id_46">öster-<lb/>
-                  reichischen Literaturpreis</rs> erhalten  habe. Das war e<del><gap reason="deleted"/></del>ine grosse<lb/>
-                  Ehre, a<del>z</del>uf die ich sehr stolz bin. Aber Sie können doch nicht<lb/>
+                  reichischen Literaturpreis</rs> erhalten  habe. Das war e<subst><del rend="overtyped"><gap reason="deleted" quantity="1" unit="char"/></del><add place="superimposed">i</add></subst>ne grosse<lb/>
+                  Ehre, a<subst><del rend="overtyped">z</del><add place="superimposed">u</add></subst>f die ich sehr stolz bin. Aber Sie können doch nicht<lb/>
                   ernstlich glauben, meine Herren, dass ich mir ausgerechnet habe:<lb/>
-                  '<del>Q</del>Wenn ich  weiter nach <rs type="place" ref="#amp_place_id_10">Österreich</rs> gehe, wird mir vielleicht ein<lb/>
+                  '<subst><del rend="overtyped">Q</del><add place="superimposed">W</add></subst>enn ich  weiter nach <rs type="place" ref="#amp_place_id_10">Österreich</rs> gehe, wird mir vielleicht ein<lb/>
                   Preis verliehen werden'? Bevor er mir zuerkannt wurde, hatte<lb/>
                   ich noch nie von diesem Preis gehört. Es ist auch klar, dass ich<lb/>
                   ihn kein zweites Mal erhalten kann. Dann sagen Sie auch, dass<lb/>
-                  man in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> eine Strasse nach m<del><unclear>n</unclear></del>ir <rs type="place" ref="#amp_place_id_255" ana="acdh:amp-transcript__0062.xml#ana_034">Audenstrasse</rs> genannt<lb/>
+                  man in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> eine Strasse nach m<subst><del rend="overtyped"><unclear>n</unclear></del><add place="superimposed">i</add></subst>r <rs type="place" ref="#amp_place_id_255" ana="acdh:amp-transcript__0062.xml#ana_034">Audenstrasse</rs> genannt<lb/>
                   hat. Das war eine sehr liebenswürdige Geste von Seiten der
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0172/" type="sheet" ed="1v"/>
@@ -172,12 +172,12 @@ for any purpose, even commercially.</p>
                   ich drei Feststellungen machen :<lb/>
                   <seg>
                      <space quantity="5" unit="char"/>1. Ich habe in <rs type="place" ref="#amp_place_id_10">Österreich</rs> niemals auch nur einen Penny<lb/>
-                     <space quantity="8" unit="char"/>für meine Gedichte erhalten. Ein paar v<del><unclear>i</unclear></del>on ihnen wurden<lb/>
+                     <space quantity="8" unit="char"/>für meine Gedichte erhalten. Ein paar v<subst><del rend="overtyped"><unclear>i</unclear></del><add place="superimposed">o</add></subst>n ihnen wurden<lb/>
                      <space quantity="8" unit="char"/>ins Deutsche übersetzt, aber in diesem Fall bekamen die<lb/>
                      <space quantity="8" unit="char"/>Übers<del>t</del>etzer das Geld, nicht ich.<lb/>
                   </seg>
                   <seg>
-                     <space quantity="5" unit="char"/>2. <seg><del><gap reason="deleted"/></del>Ich glaube, Sie sind sich nicht im K<del>k</del>laren darüber, wie<lb/>
+                     <space quantity="5" unit="char"/>2. <seg><subst><del rend="overtyped"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed">I</add></subst>ch glaube, Sie sind sich nicht im K<subst><del rend="overtyped">k</del><add place="superimposed">l</add></subst>aren darüber, wie<lb/>
                      <space quantity="8" unit="char"/>Gedichte entstehen. Was gewöhnlich für das Thema gehalten<lb/>
                      <space quantity="8" unit="char"/>wird, ist nur ein Blickwinkel, ein Anlass, um gewissen<lb/>
                      <space quantity="8" unit="char"/>Gedanken über die Natur, über Gott, die Geschichte, die<lb/>
@@ -193,10 +193,10 @@ for any purpose, even commercially.</p>
                      <space quantity="8" unit="char"/>auch <rs type="place" ref="#amp_place_id_20">Deutschland</rs> und <rs type="place" ref="#amp_place_id_159">Italien</rs>.</seg><lb/>
                      <space quantity="8" unit="char"/><seg>1964 wiederum habe ich ein Gedicht mit dem Titel<lb/>
                      <space quantity="8" unit="char"/><rs type="lit_work" ref="#lit_work_id_79">'Pfingstsonntag in Kirchstetten'</rs> geschrieben, weil ich<lb/>
-                     <space quantity="8" unit="char"/>mich zuf<del>ü</del>ällig <rs type="place" ref="#amp_place_id_5">dort</rs> aufhielt. Aber der Ort ist unwichtig.<lb/>
+                     <space quantity="8" unit="char"/>mich zuf<subst><del rend="overtyped">ü</del><add place="superimposed">ä</add></subst>llig <rs type="place" ref="#amp_place_id_5">dort</rs> aufhielt. Aber der Ort ist unwichtig.<lb/>
                      <space quantity="8" unit="char"/>In Wahrheit geht es in <rs type="lit_work" ref="#lit_work_id_79">diesem Gedicht</rs> um die Frage :<lb/>
                      <space quantity="8" unit="char"/>Worin besteht für einen Christen die Bedeutung des <foreign xml:lang="en">Pente-<lb/>
-                     <space quantity="8" unit="char"/><del><gap reason="deleted"/></del>cost</foreign>-Festes'. Und dies gilt für alle Länder auf gle<del><unclear>u</unclear></del>iche Art.</seg>
+                        <space quantity="8" unit="char"/><subst><del rend="overtyped"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed">c</add></subst>ost</foreign>-Festes'. Und dies gilt für alle Länder auf gle<subst><del rend="overtyped"><unclear>u</unclear></del><add place="superimposed">i</add></subst>che Art.</seg>
                   </seg>
                </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0174/" type="sheet" ed="2v"/>
@@ -206,19 +206,19 @@ for any purpose, even commercially.</p>
                </fw>
                <p>
                   <seg>
-                     <space quantity="8" unit="char"/>3. <del><gap reason="deleted"/></del>Ich glaube, Sie sind sich nicht i<del><gap reason="deleted"/></del>m Klaren über die<lb/>
+                     <space quantity="8" unit="char"/>3. <subst><del rend="overtyped"><gap reason="illegible" atLeast="2" atMost="3" unit="char"/></del><add place="superimposed">Ich</add></subst> glaube, Sie sind sich nicht i<subst><del rend="overtyped"><gap reason="deleted" quantity="1" unit="char"/></del><add place="superimposed">m</add></subst> Klaren über die<lb/>
                      <space quantity="11" unit="char"/>finanzielle Situation eines Dichters. Ein Romanschrift-<lb/>
                      <space quantity="11" unit="char"/>steller kann, wenn er erfolgreich ist, mit seinen Büchern<lb/>
                      <space quantity="11" unit="char"/>eine Menge Geld verdienen. Ein Lyriker kann das nicht,<lb/>
                      <space quantity="11" unit="char"/>selbst wenn er sehr bekannt ist, denn Gedichte werden<lb/>
                      <space quantity="11" unit="char"/>nur von einer Minderzahl gelesen. So stammt der weitaus<lb/>
-                     <space quantity="11" unit="char"/>grösste Tei<del><gap reason="deleted"/></del>l meines Einkommens nicht aus dem Verkauf<lb/>
+                     <space quantity="11" unit="char"/>grösste Tei<subst><del rend="overtyped"><gap reason="illegible" quantity="1" unit="char"/></del><add place="superimposed">l</add></subst> meines Einkommens nicht aus dem Verkauf<lb/>
                      <space quantity="11" unit="char"/>meiner Gedichtbände, sondern aus Buchrezensionen,<lb/>
-                     <space quantity="11" unit="char"/>Übersetzungen, Vorträgen, usw., Tätigk<del>w</del>eiten, die mit<lb/>
-                     <space quantity="11" unit="char"/><rs type="place" ref="#amp_place_id_10">Österreich</rs> nichts zu<unclear><del><gap reason="deleted"/></del></unclear> tun haben. Und wenn schon vom<lb/>
+                     <space quantity="11" unit="char"/>Übersetzungen, Vorträgen, usw., Tätigk<subst><del rend="overtyped">w</del><add place="superimposed">e</add></subst>iten, die mit<lb/>
+                     <space quantity="11" unit="char"/><rs type="place" ref="#amp_place_id_10">Österreich</rs> nichts zu<unclear><del rend="whiteout"><gap reason="illegible" quantity="1" unit="char"/></del></unclear> tun haben. Und wenn schon vom<lb/>
                      <space quantity="11" unit="char"/>Übersetzen die Rede ist : Sie sagen wahrheitsgemäss,<lb/>
                      <space quantity="11" unit="char"/>dass ich ein grosses Interesse an deutscher und öster-<lb/>
-                     <space quantity="11" unit="char"/>reichischer Literatur habe - ich darf hinzufü<del><unclear>f</unclear></del>gen, auch<lb/>
+                     <space quantity="11" unit="char"/>reichischer Literatur habe - ich darf hinzufü<subst><del rend="overtyped"><unclear>f</unclear></del><add place="superimposed">g</add></subst>en, auch<lb/>
                      <space quantity="11" unit="char"/>an der Musik - , aber ich muss nicht nach <rs type="place" ref="#amp_place_id_10">Österreich</rs><lb/>
                      <space quantity="11" unit="char"/>kommen, um sie zu lesen oder zu hör<unclear>o</unclear>n.<lb/>
                   </seg>
@@ -244,22 +244,22 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0176/" type="sheet" ed="3v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0177/" type="sheet" ed="4r"/>
                <p>
-                  <space quantity="5" unit="char"/>Sie fragen, weshalb ich <del>die</del>me<unclear>i</unclear>ne Hälfte <del>meines</del><rs type="place" ref="#amp_place_id_6"><unclear>uns</unclear>ere<unclear>s</unclear> Besitzes</rs><lb/>
+                  <space quantity="5" unit="char"/>Sie fragen, weshalb ich <subst><del rend="overstrike">die</del><add place="above">me<unclear>i</unclear>ne</add></subst> Hälfte <rs type="place" ref="#amp_place_id_6"><subst><del rend="overstrike">meines</del><add place="above"><unclear>uns</unclear>ere<unclear>s</unclear></add></subst> Besitzes</rs><lb/>
                   in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> an <rs type="person" ref="#amp_person_4">Mr Chester Kallmann</rs> überschrieben habe,<lb/>
                   der ja nicht mit mir verwandt ist. <rs type="person" ref="#amp_person_4">Mr Kallmann</rs> ist mein<lb/>
                   Erbe. Ich habe keine Kinder und er ist seit Jahren mein<lb/>
                   literarischer Mitarbeiter. Wir haben gemeinsam fünf<lb/>
                   neue Opernlibretti verfasst, <rs type="lit_work" ref="#lit_work_id_16">'The Rake's Progress'</rs>, <rs type="lit_work" ref="#lit_work_id_17">'Elegy<lb/>
-                  for Young Lovers'</rs>, <rs type="lit_work" ref="#lit_work_id_18">'The Bassarids'</rs> und <rs type="lit_work" ref="#lit_work_id_20">'Love's Labours <unclear>L</unclear><del>i</del>ost'</rs>.<lb/>
+                  for Young Lovers'</rs>, <rs type="lit_work" ref="#lit_work_id_18">'The Bassarids'</rs> und <rs type="lit_work" ref="#lit_work_id_20">'Love's Labours <unclear>L</unclear><subst><del rend="overtyped">i</del><add place="superimposed">o</add></subst>st'</rs>.<lb/>
                   (<rs type="lit_work" ref="#lit_work_id_16">'Weg eines Wüstlings'</rs>, <rs type="lit_work" ref="#lit_work_id_17">'Elegie für junge Liebende'</rs>, <rs type="lit_work" ref="#lit_work_id_18">'Die<lb/>
-                  Bassariden'</rs> und <rs type="lit_work" ref="#lit_work_id_20">'Verlorene Liebesm<del>a</del>üh'</rs>) . Und wir haben ge-<lb/>
+                  Bassariden'</rs> und <rs type="lit_work" ref="#lit_work_id_20">'Verlorene Liebesm<subst><del rend="overtyped">a</del><add place="superimposed">ü</add></subst>h'</rs>) . Und wir haben ge-<lb/>
                   meinsam <rs type="lit_work" ref="#lit_work_id_21">'Die Zauberflöte'</rs>, <rs type="lit_work" ref="#lit_work_id_22">'Don Giovanni'</rs>, <rs type="lit_work" ref="#lit_work_id_23">'Die sieben Tod-<lb/>
                   sünden'</rs>,<rs type="lit_work" ref="#lit_work_id_24">'Mahagonny'</rs> und <rs type="lit_work" ref="#lit_work_id_25">'Archifanfaro'</rs> neu <rs type="lit_work" ref="#lit_work_id_16 #lit_work_id_17 #lit_work_id_18 #lit_work_id_20 #lit_work_id_148 #lit_work_id_149 #lit_work_id_150 #lit_work_id_151 #lit_work_id_152">ins Englische<lb/>
                   übersetzt</rs>. Ich bin<damage><gap reason="illegible"/></damage> jetzt fünfundsechzig Jahre alt und muss<lb/>
                   mit jeder Möglichkeit rechnen, etwa mit einem Herzanfall.<lb/>
-                  Wie Sie selbst besser wissen als ich, e<del>e</del>rgeben sich im Falle<lb/>
+                  Wie Sie selbst besser wissen als ich, e<subst><del rend="overtyped">e</del><add place="superimposed">r</add></subst>geben sich im Falle<lb/>
                   eines plötzlichen Ablebens grosse Schwierigkeiten für den<lb/>
-                  Erben von Grundbesitz, besonders in ei<unclear><del><gap reason="deleted"/></del></unclear>nem fremden Lande.
+                  Erben von Grundbesitz, besonders in ei<unclear><subst><del rend="overtyped"><gap reason="illegible" quantity="1" unit="char"/></del><add place="superimposed">n</add></subst></unclear>em fremden Lande.
                </p>
             </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0178/" type="sheet" ed="4v"/>
