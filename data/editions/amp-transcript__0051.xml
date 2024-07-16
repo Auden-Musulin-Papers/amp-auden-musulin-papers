@@ -115,10 +115,10 @@ for any purpose, even commercially.</p>
                      Einschub 1 ,<lb/>
                   </seg>
                   <seg>
-                     <space quantity="7" unit="char"/><del><gap reason="deleted"/></del>Als <rs type="person" ref="#amp_person_1">ich</rs> zwischen sechs und zwölf Jahre alt war verbrachte ich<lb/>
+                     <space quantity="7" unit="char"/><subst><del rend="overtyped"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed">A</add></subst>ls <rs type="person" ref="#amp_person_1">ich</rs> zwischen sechs und zwölf Jahre alt war verbrachte ich<lb/>
                      viele meiner wachen Stunden damit mir eine heilsame zweite Welt zu<lb/>
-                     schaffen . Ihre <del>Grundelemente</del> Bausteine waren erstens eine<lb/>
-                     Karlksteinlandschaft , die hauptsächlich .<del>.....</del>von der <rs type="place" ref="#amp_place_id_41">Pennine Heide</rs><lb/>
+                     schaffen . Ihre <del rend="overtyped">Grundelemente</del> Bausteine waren erstens eine<lb/>
+                     Karlksteinlandschaft , die hauptsächlich .<subst><del rend="overtyped">.....</del><add place="superimposed">von d</add></subst>er <rs type="place" ref="#amp_place_id_41">Pennine Heide</rs><lb/>
                      herrührte und zweitens ein Werk - die Bleigruben .
                   </seg>
                </ab>
@@ -128,8 +128,8 @@ for any purpose, even commercially.</p>
                   </seg>
                   <seg>
                      <space quantity="7" unit="char"/>Zweitens , während ich meine höchst-eigene Welt aufbaute ,<lb/>
-                     musste ich feststellen , dass hier nicht ohne Regeln <del>gespielt</del>vorgegangen werden konnte<lb/>
-                     <del>werden konnte</del> - obwohl, oder gerade weil es hier um ein Spiel<lb/>
+                     musste ich feststellen , dass hier nicht ohne Regeln <subst><del rend="overtyped">gespielt</del><add place="above">vorgegangen werden konnte</add></subst><lb/>
+                     <del rend="overtyped">werden konnte</del> - obwohl, oder gerade weil es hier um ein Spiel<lb/>
                      ging , nicht eine Notwendigkeit wie essen oder schlafen , um etwas, das<lb/>
                      mir frei stand , das ich tun oder lassen konnte, wie es mir<lb/>
                      passte
@@ -140,17 +140,17 @@ for any purpose, even commercially.</p>
                      Eimschub 3<lb/>
                   </seg>
                   <seg>
-                     <space quantity="5" unit="char"/>Während ich meine <del>Pläne</del>Vorstellungen für einen <del>zentral-Meiler</del>Anreicherungs-Meiler entwarf, stiess<lb/>
+                     <space quantity="5" unit="char"/>Während ich meine <subst><del rend="overtyped">Pläne</del><add place="above">Vorstellungen</add></subst> für einen <subst><del rend="overtyped">zentral-Meiler</del><add place="above">Anreicherungs-Meiler</add></subst> entwarf, stiess<lb/>
                      ich auf Schwierigkeiten: Ich musste zwischen zwei Arten von<lb/>
-                     Maschienen wählen , die d<del>ie</del>er Absonderung des Schlamms d<del>urchführen</del><lb/>
+                     Maschienen wählen , die d<subst><del rend="overtyped">ie</del><add place="superimposed">er</add></subst> Absonderung des Schlamms d<del rend="overtyped">urchführen</del><lb/>
                      dienen , sie werden ' buddle ' genannt , Der eine Typ kam mir<lb/>
                      ' heilsamer ' , schöner vor aber der andere, das wusste ich bereits aus<lb/>
                      meiner <unclear>L</unclear>ekture funktionierte besser <space quantity="2" unit="char"/>....................<lb/>
                   </seg>
                   <seg>
-                     <space quantity="6" unit="char"/>Als ich später <space quantity="3" unit="char"/>Gedichte zu schreiben begann stellte ich fest ,<lb/>
+                     <space quantity="6" unit="char"/>Als ich später <space quantity="3" unit="char"/><add place="above">G</add>edichte zu schreiben begann stellte ich fest ,<lb/><!-- to discuss -->
                      dass für mich genau die gleiche Verpflichtung gültig war . Das<lb/>
-                     heisst, ich ich kann die Do<del><unclear>j</unclear></del>ktrin nicht akzeptieren derzufolge man<lb/>
+                     heisst, ich ich kann die Do<subst><del rend="overtyped"><unclear>j</unclear></del><add place="superimposed">k</add></subst>trin nicht akzeptieren derzufolge man<lb/>
                      in der Poesie <del>vom Zwang der Glaubwürdigkeit</del> vorübergehend vom Zwang<lb/>
                      zur Glaubwürdigkeit entbunden werden kann <space quantity="1" unit="char"/>.
                   </seg>
@@ -160,7 +160,7 @@ for any purpose, even commercially.</p>
                      Einschub 4<lb/>
                   </seg>
                   <seg>
-                     <space quantity="7" unit="char"/>Eine eigene Phantasiewelt für sich <del>selbst aufbauen</del> allein                     
+                     <space quantity="7" unit="char"/>Eine eigene Phantasiewelt für sich <del rend="overtyped">selbst aufbauen</del> allein                     
                   </seg>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0166/" type="sheet" ed="1v"/>
@@ -200,7 +200,7 @@ for any purpose, even commercially.</p>
                   </seg>
                   <seg>
                      <space quantity="9" unit="char"/>In meinen jungen Jahren hatte sie gar keinen , sie befand sich im<lb/>
-                     <space quantity="5" unit="char"/>Zustand kategorischen Gegensatzes , häufig in wirk<del><unclear>o</unclear></del>licher<lb/>
+                     <space quantity="5" unit="char"/>Zustand kategorischen Gegensatzes , häufig in wirk<subst><del rend="overtyped"><unclear>o</unclear></del><add place="superimposed">l</add></subst>icher<lb/>
                      <space quantity="5" unit="char"/>Feindschaft
                   </seg>
                </ab>
@@ -221,7 +221,7 @@ for any purpose, even commercially.</p>
                   </seg>
                   <seg>
                      <space quantity="10" unit="char"/>heisst auf verantwortliche Weise am richtigen Funktionieren<lb/>
-                     <space quantity="5" unit="char"/>der Gesellschaft, der er angehört, wie an ihrer Verbesserung ,<lb/>
+                     <space quantity="5" unit="char"/>der Gesellschaft, der er angehört, wie an ihrer Verbesserung ,<lb/> <!-- what about the G? is it addition? -->
                      <space quantity="5" unit="char"/>mitzuwirken . "
                   </seg>
                </ab>
@@ -235,7 +235,7 @@ for any purpose, even commercially.</p>
                      <space quantity="1" unit="char"/>Einschub 1o<lb/>
                   </seg>
                   <seg>
-                     <space quantity="12" unit="char"/>Politisches <del><unclear>h</unclear></del>Handel<del>t</del>n kommt aus Notwendigkeit , das<lb/>
+                     <space quantity="12" unit="char"/>Politisches <subst><del rend="overtyped"><unclear>h</unclear></del><add place="superimposed">H</add></subst>andel<subst><del rend="overtyped">t</del><add place="superimposed">n</add></subst> kommt aus Notwendigkeit , das<lb/>
                      <space quantity="4" unit="char"/>heisst : In jedem Augenblick muss etwas getan werden , für den<lb/>
                      <space quantity="4" unit="char"/>Augenblick - der Aktion des Augenblickes folgt die des nächsten<lb/>
                      <space quantity="4" unit="char"/>Augenblicks .
@@ -243,12 +243,12 @@ for any purpose, even commercially.</p>
                </ab>
                <ab>
                   <seg>
-                     E<del>u</del>inschub 11<lb/>
+                     E<subst><del rend="overtyped">u</del><add place="superimposed">i</add></subst>nschub 11<lb/>
                   </seg>
                   <seg>
                      <space quantity="7" unit="char"/>Noch eine weitere Erfahrung, dieich gemacht habe : Im Gegensatz<lb/>
                      <space quantity="4" unit="char"/>zu dem, was man erwarten würde,klingen die freien Verse viel<lb/>
-                     <space quantity="4" unit="char"/>ähnlicher als <del>jene</del> die Verse von Dichtern , die in vorgegebenen<lb/>
+                     <space quantity="4" unit="char"/>ähnlicher als <del rend="overtyped">jene</del> die Verse von Dichtern , die in vorgegebenen<lb/>
                      <space quantity="4" unit="char"/>Formen schreiben "
                   </seg>
                </ab>
