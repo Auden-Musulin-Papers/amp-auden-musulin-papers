@@ -507,7 +507,7 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="4" unit="char"/>On his own ground, operatic libretti, <rs type="person" ref="#amp_person_4">Chester Kallman</rs> was<lb/>
                   still in good running order, and <rs type="event" ref="#amp_event_id_113">when the <rs type="lit_work" ref="#lit_work_id_3">Rake´s Progress</rs> was put<lb/>
-                  on</rs> in <rs type="place" ref="#amp_place_id_1">Vienna</rs> he wrote a <rs type="lit_work" ref="#lit_work_id_207">letter</rs> to <hi rend="underline"><rs type="org" ref="#amp_organization_39">Die Presse</rs></hi> protesting sharply<lb/><!-- added underline in die Presse -->
+                     on</rs> in <rs type="place" ref="#amp_place_id_1">Vienna</rs> he wrote a <rs type="lit_work" ref="#lit_work_id_207">letter</rs> to <subst><del rend="edited"><rs type="org" ref="#amp_organization_39">Die Presse</rs></del><add place="superimposed"><hi rend="underline"><rs type="org" ref="#amp_organization_39">Die Presse</rs></hi></add></subst> protesting sharply<lb/>
                   <subst><del rend="whiteout"><subst><del rend="overtyped">over</del><add place="left">AGAINST </add></subst></del><add place="superimposed"> against</add></subst> the cuts <del rend="overtyped">which had been</del> made by the <rs type="person" ref="#amp_person_250">producer</rs>. <space quantity="1" unit="char"/>But of that<lb/>
                   conversational brilliance which old friends have described there<lb/>
                   was little sign. <space quantity="1" unit="char"/>A scene comes to mind: <rs type="person" ref="#amp_person_1">Auden</rs> was away, and <rs type="person" ref="#amp_person_4">Chester</rs><lb/>
@@ -1035,7 +1035,7 @@ for any purpose, even commercially.</p>
                   trimmings - one can almost hear his Olympian laughter - followed<lb/>
                   by a hearty meal at the <rs type="place" ref="#amp_place_id_355">inn where he had so often <subst><del rend="whiteout">ate</del><add place="superimposed">had</add></subst> his l<subst><del rend="overtyped"><unclear>i</unclear></del><add place="superimposed">u</add></subst>nch</rs>.<lb/>
                   As it turned out, <rs type="person" ref="#amp_person_4">Chester</rs> got no marks in local opinion for this<lb/>
-                  finale either, as the meal consisted of <hi rend="underline"><foreign xml:lang="de">Leberkäs</foreign></hi> with vegetables:<lb/><!-- she added an underline -->
+                  finale either, as the meal consisted of <subst><del rend="edited"><foreign xml:lang="de">Leberkäs</foreign></del><add place="superimposed"><hi rend="underline"><foreign xml:lang="de">Leberkäs</foreign></hi></add></subst> with vegetables:<lb/>
                   <subst><del rend="overlaid">fried slices of<subst><del rend="overstrike">f</del><add place="superimposed"><space quantity="1" unit="char"/></add></subst>a loaf of a flabby substance<add place="below"> which is neither liver nor cheese.</add> related to the<lb/>
                   Frankfurter sausage<add place="inline">.</add> <space quantity="1" unit="char"/>It is a</del><!-- handwriting -->
                   <add place="superimposed"><lb/>this consisted of fried slices off a loaf made of a flabby substance<lb/>

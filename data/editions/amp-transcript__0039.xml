@@ -314,7 +314,7 @@ for any purpose, even commercially.</p>
                         2
                      </seg>
                      <seg>
-                        <lb/><space quantity="7" unit="char"/>Vor zwanzig Jahren kat<hi rend="underline">erg</hi>orisierte&#x1F5F4; Feinde,jezt nah benachbart,w<unclear>ä</unclear>ren wir<lb/>
+                        <lb/><space quantity="7" unit="char"/>Vor zwanzig Jahren kat<subst><del rend="edited">erg</del><add place="superimposed"><hi xml:id="x_01" rend="underline">erg</hi></add></subst>orisierte<add place="above" corresp="#x_01">&#x1F5F4;</add> Feinde,jezt nah benachbart,w<unclear>ä</unclear>ren wir<lb/>
                         vielleicht gute Freunde geworden,die eine gemeinsame <hi rend="underline">Umwelt</hi> und Liebe f<unclear>ü</unclear>r das Wort<lb/>
                         teilten,und h<unclear>ä</unclear>tten bei einem goldhellen Kremser <hi rend="underline">l<unclear>ä</unclear>nge</hi> Gespr<unclear>ä</unclear>che uber Syntax,Kommas<lb/>
                         und Verskunst gef<unclear>ü</unclear>hrt.
@@ -355,7 +355,7 @@ for any purpose, even commercially.</p>
                      <seg>
                         <lb/><space quantity="5" unit="char"/>dass du unvorbereitet auf einen Tag sein solltest,der kommen mu<subst><del rend="overtyped">u</del><add place="superimposed">s</add></subst>ste,eine Zeit,<lb/>
                         voller Schrecken,Tr<unclear>ä</unclear>nen und Aufl<unclear>ö</unclear>sung,in <subst><del rend="overtyped">s</del><add place="superimposed">d</add></subst>em du,vor Al<subst><del rend="overwritten">p</del><add place="superimposed">b</add></subst>d<hi rend="underline">r<unclear>ü</unclear>c</hi>k erstarrt,dich selbst<lb/>
-                        vernichtetest? Vergeltung ging immer wie ein S<hi rend="underline">tu<add place="inline">&#xA8;</add>mp</hi>er vor. "Dies alles ist furchtbar,<lb/>
+                        vernichtetest? Vergeltung ging immer wie ein S<subst><del rend="edited">t<subst><del rend="edited">u</del><add place="superimposed">ü</add></subst>mp</del><add place="superimposed"><hi rend="underline">t<subst><del rend="edited">u</del><add place="superimposed">ü</add></subst>mp</hi></add></subst>er vor. "Dies alles ist furchtbar,<lb/>
                         hier nur Schweigen gem<unclear>ä</unclear>ss."
                      </seg>
                   </p>
