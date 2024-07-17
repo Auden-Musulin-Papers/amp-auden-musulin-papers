@@ -66,6 +66,11 @@ for any purpose, even commercially.</p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
+         <charDecl>
+            <glyph xml:id="uml_o_uc_tt">
+               <desc>lower-case German Ö rendered by superimposing typed double-quotation-mark character (") on typed upper-case O</desc>
+            </glyph>
+         </charDecl>
          <listPrefixDef>
             <prefixDef ident="acdh" matchPattern="(.+)" replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
                <p>Edition Documents Prefix</p>
@@ -192,7 +197,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0090/" type="sheet" ed="2v"/>
                <div type="poem" hand="#typed">   
                   <head>
-                     <space quantity="26" unit="char"/><rs type="lit_work" ref="#lit_work_id_43"><hi rend="underline"><foreign xml:lang="de">STARK BEWO<add place="inline">&#xA8;</add>LKT</foreign></hi></rs><lb/>
+                     <space quantity="26" unit="char"/><rs type="lit_work" ref="#lit_work_id_43"><hi rend="underline"><foreign xml:lang="de">STARK BEW<subst><del rend="edited">O</del><add place="superimposed"><g ref="#uml_o_uc_tt">Ö</g></add></subst>LKT</foreign></hi></rs><lb/>
                      <space quantity="22" unit="char"/>(<hi rend="underline">for <rs type="person" ref="#amp_person_2">Stella Musulin</rs></hi>)
                   </head>
                <cb n="1"/>
