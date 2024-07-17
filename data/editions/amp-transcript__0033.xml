@@ -127,6 +127,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou" when="2022-10-06">transcriptions updated v0.1</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-27">entities and correspDesc collated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2024-03-22">container structure updated, entities updated, interpGrp added</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-07-17">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -209,13 +210,13 @@ for any purpose, even commercially.</p>
                      so please do help.
                   </p>
                   <p>
-                     Have I told you <subst><del rend="whiteout"><gap atLeast="2" atMost="3" unit="char" reason="illegible"/>ny</del><add place="superimposed">any </add></subst> of my news? <space quantity="1" unit="char"/>I'm now at <rs type="org" ref="#amp_organization_30">Columbia University</rs> permanently,<lb/>
-                     if I want to be. <space quantity="1" unit="char"/>I have a <rs type="place" ref="#amp_place_id_248">flat</rs> with a small guest room and bath--so please<lb/>
+                     Have I told you <subst><del rend="whiteout"><gap quantity="2" unit="char" reason="illegible"/>ny</del><add place="superimposed">any </add></subst>of my news? <space quantity="1" unit="char"/>I'm now at <rs type="org" ref="#amp_organization_30">Columbia University</rs> permanently,<lb/>
+                     if I<subst><del rend="whiteout">wa</del><add place="superimposed"> w</add></subst>ant to be. <space quantity="1" unit="char"/>I have a <rs type="place" ref="#amp_place_id_248">flat</rs> with a small guest room and bath--so please<lb/>
                      take note if you're in <rs type="place" ref="#amp_place_id_15">th<subst><del rend="whiteout">e</del><add place="superimposed">i</add></subst>s country</rs> for any reason. <space quantity="1" unit="char"/>I have a lady friend,<lb/>
                      the first whom I expect to be with for a very long time, and we are quite<lb/>
                      happy about things in general. <space quantity="1" unit="char"/>Next June we'll be in <rs type="place" ref="#amp_place_id_30">Europe</rs>, certainly in<lb/>
                      <rs type="place" ref="#amp_place_id_84">Paris</rs>, possibly father <subst><del rend="whiteout"><gap reason="illegible" quantity="1" unit="char"/></del><add place="superimposed">s</add></subst>outh, <subst><del rend="whiteout">t</del><add place="superimposed">a</add></subst>lthough we may put off the southern trip<lb/>
-                     for another year or so. <space quantity="1" unit="char"/>I haven't been across the Atlantic this year; too<lb/>
+                     for another year or so. <space quantity="1" unit="char"/>I haven't been across the Atlantic this year<unclear>;</unclear> too<lb/>
                   </p>
                   </div>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0230/" type="sheet" ed="1v"/>
@@ -227,17 +228,23 @@ for any purpose, even commercially.</p>
                            New York NY <space quantity="1" unit="char"/>10027</rs>
                         </address>
                      </ab>
+                  </div>
+                  <div>
                      <ab hand="#handwritten" xml:lang="de">
-                        Red<unclear>aktion</unclear> 11-12.<lb/>
-                        <rs type="org" ref="#amp_organization_67">Kr<unclear>on</unclear>e<unclear>nz</unclear>ei<unclear>tung</unclear></rs><unclear>.</unclear>½ 2-<unclear>5</unclear><lb/>
-                        <rs type="org" ref="#amp_organization_68">M<unclear>or</unclear>gen  197<unclear>7.</unclear></rs> ·<lb/>
-                        1.Nu<unclear>mer.</unclear> <unclear>Heft</unclear><unclear>.</unclear>
+                        <add place="margin">
+                           Red<unclear>aktion</unclear> 11-12.<lb/>
+                           <rs type="org" ref="#amp_organization_67">Kr<unclear>on</unclear>e<unclear>nz</unclear>ei<unclear>tung</unclear></rs><unclear>.</unclear>½ 2-<unclear>5</unclear><lb/>
+                           <rs type="org" ref="#amp_organization_68">M<unclear>or</unclear>gen  197<unclear>7.</unclear></rs> ·<lb/>
+                           1.Nu<unclear>mer.</unclear> <unclear>Heft</unclear><unclear>.</unclear>
+                        </add>
                      </ab>
+                  </div>
+                  <div>
                      <ab xml:lang="de">
                         <space quantity="36" unit="char"/><rs type="person" ref="#amp_person_2">Frau Baronin<lb/>
-                        <space quantity="36" unit="char"/>Stella Musulin</rs><lb/>
+                        <space quantity="36" unit="char"/>Stella M<subst><del rend="whiteout"><unclear>a</unclear></del><add place="superimposed">u</add></subst>sulin</rs><lb/>
                         <address xml:lang="en">
-                           <space quantity="36" unit="char"/><rs type="place" ref="#amp_place_id_172">Sch<subst><del rend="whiteout"><gap reason="illegible" quantity="1" unit="char"/></del><add place="superimposed">l</add></subst><subst><del rend="whiteout">t</del><add place="superimposed">ö</add></subst>sselgasse 8/17<lb/>
+                           <space quantity="36" unit="char"/><rs type="place" ref="#amp_place_id_172">Sch<subst><del rend="whiteout"><gap reason="illegible" quantity="1" unit="char"/></del><add place="superimposed">l</add></subst><subst><del rend="edited"><subst><del rend="whiteout">t</del><add place="superimposed">o</add></subst></del><add place="superimposed">ö</add></subst>sselgasse 8/17<lb/>
                            <space quantity="36" unit="char"/>A-1080 Vienna<lb/>
                            <space quantity="36" unit="char"/>Austria</rs>
                         </address>
@@ -251,7 +258,7 @@ for any purpose, even commercially.</p>
                      </p>
                      <p>
                         Did you see <rs type="person" ref="#amp_person_100">Humphrey Carpenter</rs>'s <rs type="lit_work" ref="#lit_work_id_39">book on <rs type="person" ref="#amp_person_1">Wystan</rs></rs>?  Not bad, as biographies<lb/>
-                        <unclear>g</unclear>o, but not very deep either. <space quantity="1" unit="char"/>It seems to have most of the facts right,<lb/>
+                        go, but not very deep either. <space quantity="1" unit="char"/>It seems to have most of the facts right,<lb/>
                         which is something. <space quantity="1" unit="char"/>Now <rs type="lit_work" ref="#lit_work_id_48">a life of <rs type="person" ref="#amp_person_4">Chester</rs></rs> is being written, by the <rs type="person" ref="#amp_person_150">woman</rs><lb/>
                         who recently married <rs type="person" ref="#amp_person_160">Chester's father</rs>, and who knew <rs type="person" ref="#amp_person_4">Chester</rs> since 1942.<lb/>
                         Full of surprises and purple passages; <rs type="person" ref="#amp_person_4">Chester</rs> would be pleased, I think,<lb/>

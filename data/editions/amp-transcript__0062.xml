@@ -574,7 +574,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0351/" type="sheet" ed="1r"/>
             <div type="prose">
                <head>
-                  <space quantity="17" unit="char"/><rs type="lit_work" ref="#lit_work_id_47" ana="acdh:amp-transcript__0031.xml#ana_030"><hi rend="underline">The Years in Au</hi>s<hi rend="underline">&#x333;tria.</hi></rs> <!-- to discuss -->
+                  <space quantity="17" unit="char"/><rs type="lit_work" ref="#lit_work_id_47" ana="acdh:amp-transcript__0031.xml#ana_030"><hi rend="underline">The Years in Au</hi>s<hi rend="underline">&#x333;tria.</hi></rs>
                </head>
                <p>
                   <space quantity="5" unit="char"/>Half an hour from the outskirts of <rs type="place" ref="#amp_place_id_1">Vienna</rs> an invisible<lb/>
@@ -968,7 +968,7 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="5" unit="char"/><quote source="acdh:amp-transcript__0053.xml"><seg>"<rs type="person" ref="#amp_person_2">I</rs> still can't put <rs type="event" ref="#amp_event_id_22" ana="acdh:amp-transcript__0053.xml#ana_024">yesterday's expedition</rs> to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs><lb/>
                   ou<subst><del rend="overtyped">r</del><add place="superimposed">t</add></subst> of my mind. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_54">Fritz Heer</rs> and I drove out to lunch. <space quantity="1" unit="char"/>This manic-<lb/>
-                  depressive genius <rs type="person" ref="#amp_person_54">Friedrich Heer</rs>, <hi rend="underline"><foreign xml:lang="de">dieser verschreckter Lausbub</foreign>,</hi><lb/>
+                  depressive genius <rs type="person" ref="#amp_person_54">Friedrich Heer</rs>, <subst><del rend="edited"><foreign xml:lang="de">dieser verschreckter Lausbub</foreign>,</del><add place="superimposed"><hi rend="underline"><foreign xml:lang="de">dieser verschreckter Lausbub</foreign>,</hi></add></subst><lb/>
                   and the great English p<del rend="metamark"><space quantity="1" unit="char"/></del>oet <rs type="person" ref="#amp_person_1">Auden</rs> - to say nothing of <rs type="person" ref="#amp_person_4">Kallman</rs> -<lb/>
                   how would it go off? <space quantity="1" unit="char"/>It went like a bomb. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_54">Fritz</rs> was like a man<lb/>
                   let out of prison. <space quantity="1" unit="char"/>For months at a time he never escapes from the<lb/>
@@ -1261,7 +1261,7 @@ for any purpose, even commercially.</p>
                   <space quantity="5" unit="char"/>In October 1964 he went to a <rs type="event" ref="#amp_event_id_26"><rs type="org" ref="#amp_organization_51">PEN</rs> conference</rs> in <rs type="place" ref="#amp_place_id_86">Budapest</rs>,<lb/>
                   and came back saying that he had heard an unbelievable amount<lb/>
                   of hot air. <space quantity="1" unit="char"/>The French delegat<subst><del rend="overtyped">4</del><add place="superimposed">e</add></subst>s had got on his nerves with<lb/>
-                  much talk about "<foreign xml:lang="fr">mon âm<del rend="overstrike">&#x300;</del>e</foreign>." <space quantity="1" unit="char"/>He may have been unjust<unclear>;</unclear> <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs><lb/>
+                  much talk about "<foreign xml:lang="fr">mon â<subst><del rend="edited">m&#x300;</del><add place="superimposed">m</add></subst>e</foreign>." <space quantity="1" unit="char"/>He may have been unjust<unclear>;</unclear> <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs><lb/>
                   was not a lover of the French language, <subst><del rend="overstrike">saying</del><add place="above">and said</add></subst> that <del rend="overtyped">to maintain</del><lb/>
                   it is quite wrong to call it the most precise<add place="above"> and logical</add> of languages;<lb/>
                   in no other can a person deliver himself of so much intellectual<lb/>
@@ -1288,7 +1288,7 @@ for any purpose, even commercially.</p>
                   <seg>
                      <quote source="acdh:amp-transcript__0002.xml">
                         It <hi rend="underline">was</hi> sweet of you to think of me at Christmas, especially<lb/>
-                        since it's a little <hi rend="underline"><foreign xml:lang="de">einsam</foreign></hi><add place="inline">&#xB9;</add> here. <space quantity="1" unit="char"/>Am beginning to know some<lb/>
+                        since it's a little <subst><del rend="edited"><foreign xml:lang="de">einsam</foreign></del><add place="superimposed"><hi rend="underline"><foreign xml:lang="de">einsam</foreign><add place="inline">&#xB9;</add></hi></add></subst> here. <space quantity="1" unit="char"/>Am beginning to know some<lb/>
                         local inhabitants. <space quantity="1" unit="char"/>Oddly enough, the ones I can talk to most<lb/>
                         easily are from <rs type="place" ref="#amp_place_id_21"><foreign xml:lang="de">Ost-Berlin</foreign></rs>. <space quantity="1" unit="char"/>The most awful thing about the<lb/>
                         <foreign xml:lang="de">Bifkes</foreign><add place="inline">&#xB2;</add> (sic)§ is that they are so much nicer under a little<lb/>
@@ -1602,7 +1602,7 @@ for any purpose, even commercially.</p>
                   chorus of assent.
                </p>
                <p>
-                  <space quantity="5" unit="char"/>In August 1966 <rs type="lit_work" ref="#lit_work_id_5">The Bassarids</rs><add place="above">§</add> had had its premie<add place="above">&#x300;</add>re at the<lb/>
+                  <space quantity="5" unit="char"/>In August 1966 <rs type="lit_work" ref="#lit_work_id_5">The Bassarids</rs><add place="above">§</add> had had its premi<subst><del rend="edited">e</del><add place="superimposed">è</add></subst>re at the<lb/>
                   <rs type="event" ref="#amp_event_id_56">Salzburg Festival</rs>. <space quantity="1" unit="char"/>Now, in the following year, <rs type="person" ref="#amp_person_1">Auden</rs> was invited
                </p>
                <ab>
