@@ -85,6 +85,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-05-10">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-28">entities collated</change>
          <change who="dgrigoriou tfruehwirth" when="2024-05-23">entities reviewed, prose container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-07-18">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -101,7 +102,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0141/" type="sheet" ed="1r"/>
             <div type="prose">
                <ab>
-                  1. In dem <hi rend="underline">man</hi><add place="inline"><unclear>✓</unclear></add> dich — begrub ·
+                  1. In dem <hi rend="underline">man</hi><add place="above"><unclear>✓</unclear></add> dich — begrub ·
                </ab>
                <ab>
                   2. Kategorisiert<unclear>.</unclear><lb/>
@@ -114,41 +115,41 @@ for any purpose, even commercially.</p>
                   <hi rend="underline"><unclear>1</unclear></hi> the act<unclear>io</unclear>n<lb/>
                   <hi rend="underline">2</hi> the intent</foreign>.<lb/>
                   Übelwollens?<lb/>
-                  Männer<add place="inline"><unclear>✓</unclear></add> grossen Unheils und Übelwol<unclear>l</unclear>ens<unclear>.</unclear> ?
+                  Männer<add place="above"><unclear>✓</unclear></add> grossen Unheils und Übelwol<unclear>l</unclear>ens<unclear>.</unclear> ?
                </ab>
-               <ab>
-                  <unclear>5</unclear>. Alpdruck.<add place="inline">(vom nicht vor)</add><lb/>
+               <ab xml:id="ab_0046_01">
+                  <unclear>5</unclear>. Alpdruck.<add place="right" corresp="#ab_0046_01">(vom nicht vor)</add><lb/>
                   Stümper .
                </ab>
                <ab>
-                  <unclear>6.</unclear> <del rend="overstrike"><unclear>I</unclear>n str</del> Bei<add place="inline">✓</add> strömendem Regen<lb/>
+                  <unclear>6.</unclear> <del rend="overstrike"><unclear>I</unclear>n str</del> Bei<add place="above">✓</add> strömendem Regen<lb/>
                </ab>
-               <ab>
+               <ab xml:id="ab_0046_02">
                   <unclear>7.</unclear> <foreign xml:lang="en">Hope ever<unclear>y</unclear>one won't think</foreign> <unclear>"</unclear>die Reiche<unclear>"</unclear><lb/>
-                  <foreign xml:lang="en">is a missprint for</foreign> <unclear>"</unclear>die Reichen<unclear>".</unclear><add place="inline">prosais<unclear>c</unclear>h<hi rend="underline">e</hi><lb/>
+                  <foreign xml:lang="en">is a missprint for</foreign> <unclear>"</unclear>die Reichen<unclear>".</unclear><add place="right" corresp="#ab_0046_02">prosais<unclear>c</unclear>h<hi rend="underline">e</hi><lb/>
                   <unclear>&amp;</unclear> privat<hi rend="underline">e</hi> Art</add>
                </ab>
                <ab>
                   8. L<hi rend="underline">äch</hi>eln wir bei Hochzei<unclear>t</unclear>en , <hi rend="underline">auf</hi> denen ?<lb/>
-                  <foreign xml:lang="en">Next sentence ungramm<unclear>a</unclear>t<unclear>ica</unclear>l <unclear>.</unclear> Verb <subst><del rend="overstrike">lacking</del><add place="above">missing</add></subst>..<lb/>
+                  <foreign xml:lang="en">Next sentence ungramm<unclear>a</unclear>t<unclear>ica</unclear>l <unclear>.</unclear> Verb <subst><del rend="overstrike">lacking</del><add place="above">missing.</add></subst>.<lb/>
                   And perhaps</foreign><unclear>:</unclear> <unclear>"</unclear>Noch nie war die Erde ohne<lb/>
-                  ihr<hi rend="underline">e</hi> faule<del>n</del> Stelle<del>n</del> (singular as in original),<lb/>
+                  ihr<hi rend="underline">e</hi> faule<del rend="overstrike">n</del> Stelle<del rend="overstrike">n</del> (<foreign xml:lang="en">singular as in original</foreign>),<lb/>
                   ein Uno<unclear>r</unclear>t mit <hi rend="underline">Posten</hi> fü<unclear>r</unclear> Folterer
                </ab>
                <ab>
-                  <unclear>9.</unclear> Frieden oder Friede<add place="inline">✓</add> ?
+                  <unclear>9.</unclear> Frieden oder Friede<add place="above">✓</add> ?
                </ab>
                <ab>
-                  10. An das Regime? Wie <unclear>w</unclear>u einst<unclear>✓</unclear> <unclear>·</unclear> W<hi rend="underline">ann</hi> bei jedem<lb/>
+                  10. An das Regime?<add place="above"> Wie <unclear>w</unclear>u einst<add place="above"><unclear>✓</unclear></add></add> <unclear>·</unclear> W<hi rend="underline">ann</hi> bei jedem<lb/>
                   <hi rend="underline">Wenn</hi> .
                </ab>
-               <ab>
-                  11. Bedeu<unclear>te</unclear>nd<hi rend="underline">ere</hi><hi rend="underline"><subst><del rend="overstrike"><unclear>r</unclear></del><add place="superimposed">n</add></subst> </hi>Nachbarn<lb/> 
-                  Warum <hi rend="underline">des</hi> n<hi rend="underline">oblen</hi> <unclear>Fl</unclear>usses <unclear>?</unclear> <add place="above"><rs type="place" ref="#amp_place_id_251">die Perschling</rs></add>
+               <ab xml:id="ab_0046_03">
+                  11. Bedeu<unclear>te</unclear>nd<hi rend="underline">ere<subst><del rend="overstrike"><unclear>r</unclear></del><add place="superimposed">n</add></subst> </hi>Nachbarn<lb/> 
+                  Warum <hi rend="underline">des</hi> n<hi rend="underline">oblen</hi> <unclear>Fl</unclear>usses <unclear>?</unclear> <add place="right" corresp="#ab_0046_03"><rs type="place" ref="#amp_place_id_251">die Perschling</rs></add>
                </ab>
-               <ab>
+               <ab xml:id="ab_0046_04">
                   12. W<hi rend="underline">as</hi> ist der Abgrund?<lb/>
-                  <add place="below">statt Bratschen Violas oder Geigen</add>
+                  <add place="below" corresp="#ab_0046_04">statt Bratschen Violas oder Geigen</add>
                </ab>
             </div>
             <div>
@@ -162,7 +163,7 @@ for any purpose, even commercially.</p>
                   Heute lächeln wir bei Hochzeiten ,<lb/>
                   bei <unclear>d</unclear>enen Braut u. Bräutigam schon<lb/>
                   auf der Welt waren als sich der Schatten<lb/>
-                  gehoben <unclear>oder</unclear> (vielmehr)✓ weiter<unclear>✓</unclear>gerückt war<unclear>.</unclear>
+                  gehoben <unclear>oder</unclear> (vielmehr)<add place="above">✓</add> weiter<add place="above"><unclear>✓</unclear></add>gerückt war<unclear>.</unclear>
                </ab>
                <ab>
                   1<unclear>2·</unclear><lb/>

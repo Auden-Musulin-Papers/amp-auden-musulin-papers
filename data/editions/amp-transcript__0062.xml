@@ -276,6 +276,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-07-22">transcriptions collated</change>
          <change who="smayer tfruehwirth" when="2022-09-27">facsimile urls updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2024-05-15">entities reviewed, interpGrp added, prose container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-07-18">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
