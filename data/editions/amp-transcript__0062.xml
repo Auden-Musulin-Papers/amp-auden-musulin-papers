@@ -1435,7 +1435,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   It strikes me suddenly as odd that he should have said that:<lb/>
-                  in the mythology of <rs type="place" ref="#amp_place_id_10">Austria</rs> this <subst><del rend="overtyped">area</del><add place="above"><del rend="overtyped"> part of the country</del></add><add place="below">area</add></subst> is not, I believe, <del rend="overtyped">a</del><lb/>
+                  in the mythology of <rs type="place" ref="#amp_place_id_10">Austria</rs> this <subst><del rend="overtyped"><subst><del rend="overtyped">area</del><add place="above">part of the country</add></subst></del><add place="below">area</add></subst> is not, I believe, <del rend="overtyped">a</del><lb/>
                   dragon country.
                </p>
                <p>
@@ -1493,8 +1493,8 @@ for any purpose, even commercially.</p>
                   </seg>
                </p>
                <p>
-                  <space quantity="5" unit="char"/>On May 24th 1965,<rs type="person" ref="#amp_person_1"><del rend="overtyped">Auden</del></rs> under the auspices of the <rs type="org" ref="#amp_organization_16"><subst><del rend="overstrike">British</del><add place="above"><rs type="org" ref="#amp_organization_35">Austro-</rs></add></subst><lb/>
-                  Council</rs><add place="above"> and <rs type="org" ref="#amp_organization_9">the Society for Literat<unclear>u</unclear>re</rs></add>, <rs type="person" ref="#amp_person_1">Auden</rs> gave a <rs type="event" ref="#amp_event_id_29">talk on <rs type="person" ref="#amp_person_27">T.S. Eliot</rs></rs> in the lecture hall of<lb/>
+                  <space quantity="5" unit="char"/>On May 24th 1965,<rs type="person" ref="#amp_person_1"><del rend="overtyped">Auden</del></rs> under the auspices of the <subst><del rend="edited"><del rend="overstrike"><rs type="org" ref="#amp_organization_16">British</rs></del></del><add place="superimposed">British</add><add place="above"><rs type="org" ref="#amp_organization_35">Austro-</rs></add></subst><lb/>
+                  <rs type="org" ref="#amp_organization_16">Council</rs><add place="above"> and <rs type="org" ref="#amp_organization_9">the Society for Literat<unclear>u</unclear>re</rs></add>, <rs type="person" ref="#amp_person_1">Auden</rs> gave a <rs type="event" ref="#amp_event_id_29">talk on <rs type="person" ref="#amp_person_27">T.S. Eliot</rs></rs> in the lecture hall of<lb/>
                   <rs type="org" ref="#amp_organization_61">the <del rend="overtyped">Museum of</del> Natural History Museum</rs> on the <rs type="place" ref="#amp_place_id_348">Ring</rs>. <space quantity="2" unit="char"/><unclear>I</unclear>t was very<lb/>
                   well attended, largely by crowds of note-taking students of<lb/>
                   Eng. Lit, and I have never been quite sure whether, at one moment,<lb/>
@@ -3008,7 +3008,7 @@ for any purpose, even commercially.</p>
                   were never quite clear. <space quantity="2" unit="char"/>It was not, it occurred to us, only a<lb/>
                   question of when and how much, but: <space quantity="1" unit="char"/>what kind of a funeral service<lb/>
                   should it be? <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">Auden</rs> was a practising member of the <rs type="org" ref="#amp_organization_4">Church of<lb/>
-                  England</rs>§- or of the <rs type="org" ref="#amp_organization_45">Episcopalian Church in the States</rs> - but he<lb/>
+                  England</rs><hi rend="superscript">§</hi>- or of the <rs type="org" ref="#amp_organization_45">Episcopalian Church in the States</rs> - but he<lb/>
                   had regularly attended Mass in the <rs type="place" ref="#amp_place_id_332">Catholic Church of Kirchstetten</rs><lb/>
                   and had wished to be buried there. <space quantity="1" unit="char"/>Should not <rs type="person" ref="#amp_person_156">the Anglican<lb/>
                   chaplain</rs> in <rs type="place" ref="#amp_place_id_1">Vienna</rs> be asked to participate? <space quantity="2" unit="char"/><gap quantity="1" unit="char" reason="illegible"/>No one seemed to<lb/>
