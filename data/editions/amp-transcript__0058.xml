@@ -136,9 +136,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0108/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#handwritten">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0058" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0058" xml:lang="en" hand="#handwritten">
             <div type="letter"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0107/" type="sheet" ed="1r"/>
                <div> 

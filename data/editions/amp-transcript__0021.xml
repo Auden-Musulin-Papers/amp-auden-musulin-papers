@@ -121,9 +121,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0116/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0021" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0021" xml:lang="en" hand="#typed">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0113/" type="envelope" ed="1r"/>
                <ab hand="#handwritten" xml:lang="de">
@@ -177,7 +177,11 @@ for any purpose, even commercially.</p>
                   </p>
                   <closer>
                      <space quantity="11" unit="char"/><salute>longing to see you</salute>
-                     <signed hand="#handwritten"><rs type="person" ref="#amp_person_1">Wystan</rs></signed>
+                     <signed>
+                        <seg hand="#handwritten">
+                           <rs type="person" ref="#amp_person_1">Wystan</rs>
+                        </seg>
+                     </signed>
                   </closer>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0116/" type="sheet" ed="2v"/>
