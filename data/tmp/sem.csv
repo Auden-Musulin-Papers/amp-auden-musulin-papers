@@ -1,18 +1,18 @@
 document_id,edition_title,hand,entities_to_check,internal_evidence,interp_nanopub_comment,translation,Wikipedia,revision_desc,consistent_solutions,page_number,intertext,schema,prefix,"`@rend=""italic""`",bibl,app-issues,rev
 0070,edition_title,TODO:ODD,"TODO: clarify ""fracty""",amp_event_id_61,"DONE: ""the wrong Kirchstetten"" (amp_place_id_314, ana_001, ph_001); interp re fracty (ana_050, ph_050)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
-0045,edition_title,TODO:ODD,"DONE: amp_event_id_62, amp_event_id_63",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,none,done
-0058,edition_title,TODO:ODD,"DONE: amp_event_id_64","DONE: ""yourPlace"" (amp_place_id_315, ana_003, ph_003); origDate (ana_002, ph_002)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done,done
+0045,edition_title,TODO:ODD,,"DONE: amp_event_id_62, amp_event_id_63",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,none,done
+0058,edition_title,TODO:ODD,,"DONE: amp_event_id_64","DONE: ""yourPlace"" (amp_place_id_315, ana_003, ph_003); origDate (ana_002, ph_002)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done,done
 0057,edition_title,TODO:ODD,,"DONE: origDate (ana_004, ph_004)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,done,done
-0022,edition_title,TODO:ODD,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
-0021,edition_title,,"DONE: amp_event_id_65",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
-0071,edition_title,,,"DONE: origDate (ana_005, ph_005); @ana=ana_003 for origPlace","DONE: xml:lang",,revision_desc,done,done,no_intertext,`italic`,done,done,done,done,none
-0059,edition_title,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
-0063,edition_title,"TODO: ""heute Abend"" reading of Christine Busta","DONE: amp_event_id_67","DONE: @ana=ana_003 for origPlace","DONE: xml:lang",,revision_desc,done,done,no_intertext,`italic`,done,done,done,done,done
-0023,edition_title,,"DONE: amp_event_id_16",,"DONE: xml:lang","DONE: link to Auden in Zimmer Wikidata, include Auden in de Wikipedia",revision_desc,done,done,no_intertext,done,done,none,none,none,done
-0024,edition_title,,"DONE: amp_event_id_68",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
-0025,edition_title,,"DONE: amp_event_id_17",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,none
-0001,edition_title,,"DONE: amp_event_id_71, amp_event_id_84","DONE: ""be in Vienna this coming week ..."" (ana_006, ph_006)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done,done
-0002,edition_title,,amp_event_id_70,"DONE: reference to previous letter by Musulin (ana_007, ph_007); intertext 0002/0038 (ana_023, ph_023); identification Elsa Musulin's handwriting (ana_027, ph_027)","DONE: xml:lang",,revision_desc,done,done,done,done,done,none,done,done,done
+0022,edition_title,TODO:ODD,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0021,edition_title,TODO:ODD+signed,,"DONE: amp_event_id_65",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0071,edition_title,TODO:ODD,,,"DONE: origDate (ana_005, ph_005); @ana=ana_003 for origPlace","DONE: xml:lang",,revision_desc,done,done,no_intertext,`italic`,done,done,done,done,none
+0059,edition_title,TODO:ODD,,,,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0063,edition_title,TODO:ODD,"TODO: ""heute Abend"" reading of Christine Busta","DONE: amp_event_id_67","DONE: @ana=ana_003 for origPlace","DONE: xml:lang",,revision_desc,done,done,no_intertext,`italic`,done,done,done,done,done
+0023,edition_title,TODO:ODD,,"DONE: amp_event_id_16",,"DONE: xml:lang","DONE: link to Auden in Zimmer Wikidata, include Auden in de Wikipedia",revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0024,edition_title,TODO:ODD,,"DONE: amp_event_id_68",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
+0025,edition_title,TODO:ODD,,"DONE: amp_event_id_17",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,none
+0001,edition_title,TODO:ODD,,"DONE: amp_event_id_71, amp_event_id_84","DONE: ""be in Vienna this coming week ..."" (ana_006, ph_006)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done,done
+0002,edition_title,TODO:ODD,,amp_event_id_70,"DONE: reference to previous letter by Musulin (ana_007, ph_007); intertext 0002/0038 (ana_023, ph_023); identification Elsa Musulin's handwriting (ana_027, ph_027)","DONE: xml:lang",,revision_desc,done,done,done,done,done,none,done,done,done
 0038,edition_title,,amp_event_id_85,"DONE: comment on Gemeindepflicht (ana_008, ph_008); intertext 0002/0038 link to ana_023","DONE: xml:lang",,revision_desc,done,done,done,`rs@type=note`,done,none,done,done,done
 0039,edition_title,,"amp_event_id_72, amp_event_id_73, amp_event_id_104","DONE: TEI formalization of interp re ""German friend""(ana_009, ph_009) and interp re Epithalamium dedication (ana_022, ph_022); inter re Musulin's reworking of translation (ana_046, ph_046)","DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,done,done,done
 0003,edition_title,"TODO: research Amerikahaus event","DONE: amp_event_id_74, amp_event_id_75",,"DONE: xml:lang",,revision_desc,done,done,no_intertext,done,done,none,none,none,done
