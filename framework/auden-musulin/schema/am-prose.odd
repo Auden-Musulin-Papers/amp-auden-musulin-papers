@@ -381,13 +381,6 @@
           
           <elementSpec ident="text" module="textstructure" mode="change">
             <attList>
-              <attDef ident="hand" mode="change" usage="req">
-                <valList type="closed" mode="replace">
-                  <valItem ident="#handwritten"/>
-                  <valItem ident="#typed"/>
-                  <valItem ident="#printed"/>
-                </valList>
-              </attDef>
               <attDef ident="type" mode="change" usage="req">
                 <valList type="closed" mode="replace">
                   <valItem ident="prose"/>
@@ -554,6 +547,13 @@
                   <valItem ident="inline"/>
                   <valItem ident="inspace"/>
                   <valItem ident="superimposed"/>
+                </valList>
+              </attDef>
+              <attDef ident="hand" mode="change" usage="opt">
+                <valList type="closed" mode="replace">
+                  <valItem ident="#handwritten"/>
+                  <valItem ident="#typed"/>
+                  <valItem ident="#printed"/>
                 </valList>
               </attDef>
             </attList>
