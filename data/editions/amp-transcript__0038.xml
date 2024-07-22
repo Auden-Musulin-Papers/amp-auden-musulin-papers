@@ -5,6 +5,7 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-03-15</title>
             <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
+            <author ref="https://id.acdh.oeaw.ac.at/emusulin">Musulin, Elsa Gerda Maria Louise Pauline von</author>
             <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
@@ -161,9 +162,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0138/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0038" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0038" xml:lang="en" hand="#typed">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0011/" type="envelope" ed="1r"/>
                <ab hand="#handwritten" xml:lang="de">
