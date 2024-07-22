@@ -128,7 +128,9 @@ for any purpose, even commercially.</p>
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0129/" type="envelope" ed="1r"/>
                <ab>
-                  <rs type="event" ref="#amp_event_id_17">Dines wi<unclear>th</unclear> <rs type="person" ref="#amp_person_109"><foreign xml:lang="de">Pfa<unclear>rr</unclear>er</foreign></rs></rs>.
+                  <add place="margin">
+                     <rs type="event" ref="#amp_event_id_17">Dines wi<unclear>th</unclear> <rs type="person" ref="#amp_person_109"><foreign xml:lang="de">Pfa<unclear>rr</unclear>er</foreign></rs></rs>.
+                  </add>
                </ab>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>

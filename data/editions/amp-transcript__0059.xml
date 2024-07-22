@@ -128,7 +128,9 @@ for any purpose, even commercially.</p>
             <div type="envelope"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0031/" type="envelope" ed="1r"/>
                <ab>
-                  <gap reason="illegible" unit="char" atLeast="8" atMost="11"/> <gap reason="illegible" unit="char" atLeast="4" atMost="5"/>
+                  <add place="margin">
+                     <gap reason="illegible" unit="char" atLeast="8" atMost="11"/> <gap reason="illegible" unit="char" atLeast="4" atMost="5"/>
+                  </add>
                </ab>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baro<unclear>n</unclear>in Stell<unclear>a</unclear> Mus<gap reason="illegible" unit="char" quantity="1"/><unclear>o</unclear>lin</rs><lb/>

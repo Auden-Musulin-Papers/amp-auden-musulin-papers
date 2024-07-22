@@ -142,13 +142,17 @@ for any purpose, even commercially.</p>
          <div type="transcription" xml:id="transcription_amp_0058" xml:lang="en" hand="#handwritten">
             <div type="letter"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0107/" type="sheet" ed="1r"/>
-               <div> 
-                  <ab xml:lang="de">
-                     K<unclear>ö</unclear>nnen Sie Mittwoch<lb/>
-                     <add place="below"><unclear>a</unclear>ns<unclear>t</unclear>att Donnerstag</add> zum Abend<unclear>e</unclear>ssen kommen<lb/>
-                  </ab>
+               <div>
                   <ab>
-                     <rs type="person" ref="#amp_person_1">Auden</rs>
+                     <add place="left">
+                        <seg xml:lang="de">
+                           K<unclear>ö</unclear>nnen Sie Mittwoch<lb/>
+                           <add place="below"><unclear>a</unclear>ns<unclear>t</unclear>att Donnerstag</add> zum Abend<unclear>e</unclear>ssen kommen<lb/>
+                        </seg>
+                        <seg>
+                           <rs type="person" ref="#amp_person_1">Auden</rs>
+                        </seg>
+                     </add>
                   </ab>
                </div>
                <div type="letter_message">

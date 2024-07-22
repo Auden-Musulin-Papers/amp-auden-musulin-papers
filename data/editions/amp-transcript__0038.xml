@@ -373,8 +373,10 @@ for any purpose, even commercially.</p>
                   </p>
                   <closer>
                      <space quantity="17" unit="char"/><salute>love</salute>
-                     <signed hand="#handwritten">
-                        <rs type="person" ref="#amp_person_1">Wystan</rs>.
+                     <signed>
+                        <seg hand="#handwritten">
+                           <rs type="person" ref="#amp_person_1">Wystan</rs>.
+                        </seg>
                      </signed>
                   </closer>
                   <postscript hand="#handwritten">

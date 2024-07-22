@@ -5,6 +5,7 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Stark bewölkt" 1971-10-19</title>
             <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
+            <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella Mary Bellairs</author>
             <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
@@ -67,8 +68,8 @@ for any purpose, even commercially.</p>
       </fileDesc>
       <encodingDesc>
          <charDecl>
-            <glyph xml:id="uml_o_uc_tt">
-               <desc>lower-case German Ö rendered by superimposing typed double-quotation-mark character (") on typed upper-case O</desc>
+            <glyph xml:id="uml_o_uc_th">
+               <desc>upper-case German Ö rendered by superimposing handwritten trema (&#xA8;) on typed upper-case O</desc>
             </glyph>
          </charDecl>
          <listPrefixDef>
@@ -129,16 +130,18 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0090/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#handwritten">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0018" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0018" xml:lang="en" hand="#handwritten">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0087/" type="envelope" ed="1r"/>
                <ab>
                   Air<unclear>_</unclear>Mail
                </ab>
                <ab>
-                  <rs type="lit_work" ref="#lit_work_id_165">Poem</rs> dedicated to <rs type="person" ref="#amp_person_2">S<unclear>_</unclear>M<unclear>_</unclear></rs>
+                  <add place="margin">
+                     <rs type="lit_work" ref="#lit_work_id_165">Poem</rs> dedicated to <rs type="person" ref="#amp_person_2">S<unclear>_</unclear>M<unclear>_</unclear></rs>
+                  </add>
                </ab>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baro<unclear>n</unclear>in<lb/>
@@ -197,7 +200,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0090/" type="sheet" ed="2v"/>
                <div type="poem" hand="#typed">   
                   <head>
-                     <space quantity="26" unit="char"/><rs type="lit_work" ref="#lit_work_id_43"><hi rend="underline"><foreign xml:lang="de">STARK BEW<subst><del rend="edited">O</del><add place="superimposed"><g ref="#uml_o_uc_tt">Ö</g></add></subst>LKT</foreign></hi></rs><lb/>
+                     <space quantity="26" unit="char"/><rs type="lit_work" ref="#lit_work_id_43"><hi rend="underline"><foreign xml:lang="de">STARK BEW<subst><del rend="edited">O</del><add place="superimposed"><g ref="#uml_o_uc_th">Ö</g></add></subst>LKT</foreign></hi></rs><lb/>
                      <space quantity="22" unit="char"/>(<hi rend="underline">for <rs type="person" ref="#amp_person_2">Stella Musulin</rs></hi>)
                   </head>
                <cb n="1"/>

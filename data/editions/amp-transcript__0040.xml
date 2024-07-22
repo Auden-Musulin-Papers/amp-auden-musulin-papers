@@ -134,9 +134,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0462/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#handwritten">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0040" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0040" xml:lang="en" hand="#handwritten">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0067/" type="envelope" ed="1r"/>
                <ab>
@@ -187,12 +187,12 @@ for any purpose, even commercially.</p>
                   </closer>
                </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0461/" type="cv_sheet" ed="2r-cv"/>
-               <div>
-                  <ab>
+               <div hand="#typed">
+                  <fw type="pageNum">
                      <space extent="undefined quantity of characters plus minimum" min="37" unit="char"/>(2
-                  </ab>
+                  </fw>
                </div>
-               <div type="poem" hand="#typed"><!-- consider different container structure including both pages of poem within one div -->
+               <div type="poem" hand="#typed">
                   <lg>
                      <lb/><space extent="undefined quantity of characters"/><l>issue proper ins<unclear>t</unclear>ru<unclear>c</unclear>tions?<gap quantity="1" unit="char" reason="illegible"/><unclear>N</unclear>ot,certainly,</l>
                      <lb/><space extent="undefined quantity of characters"/><l>our global archons <gap quantity="1" unit="char" reason="illegible"/><unclear>h</unclear>ose toplofty<gap quantity="1" unit="char" reason="illegible"/>slogans</l>
@@ -340,7 +340,7 @@ for any purpose, even commercially.</p>
                      <lb/><space extent="undefined quantity of characters plus minimum" min="3" unit="char"/><l>ri<gap quantity="1" unit="char" reason="illegible"/>ely is <unclear>n</unclear>ot pr<gap quantity="1" unit="char" reason="illegible"/>mptly done. Y<unclear>e</unclear>t who can</l>
                   </lg>
                </div>
-               <div>
+               <div hand="#typed">
                   <ab>
                      <space extent="undefined quantity of characters plus minimum" min="31" unit="char"/>P.T.O.
                   </ab>

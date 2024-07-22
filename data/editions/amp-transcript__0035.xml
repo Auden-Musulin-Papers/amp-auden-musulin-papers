@@ -123,9 +123,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0234/"/>
       </surface>
    </facsimile>
-   <text type="telegram" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0035" xml:lang="de">
+         <div type="transcription" xml:id="transcription_amp_0035" xml:lang="de" hand="#typed">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0233/" type="sheet" ed="1r"/>
                <p>
                   <rs type="person" ref="#amp_person_2">MUSULIN</rs> <rs type="place" ref="#amp_place_id_11">NEULINGGASSE <space quantity="1" unit="char"/>26/14 <space quantity="1" unit="char"/>1030/WIEN</rs>

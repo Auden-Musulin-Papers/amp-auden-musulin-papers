@@ -224,17 +224,19 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0220/"/>
         </surface>
     </facsimile>
-    <text type="letter" hand="#typed">
+    <text>
         <body>
-            <div type="transcription" xml:id="transcription_amp_0053" xml:lang="de">
+            <div type="transcription" xml:id="transcription_amp_0053" xml:lang="de" hand="#typed">
                 <div type="letter">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0219/" type="sheet" ed="1r"/>
                    <div type="letter_message">
                       <opener>
                          <dateline>
-                            <seg rend="#block">
-                                <space quantity="35" unit="char"/><date>29.Mai.</date>
-                            </seg>
+                             <date>
+                                <seg rend="#block">
+                                   <space quantity="35" unit="char"/><date>29.Mai.</date>
+                                </seg>
+                             </date>
                          </dateline>
                          <salute><del rend="whiteout"><rs type="person" ref="#amp_person_237" ana="#ana_014">Liebling</rs>,</del></salute>
                       </opener>
@@ -244,7 +246,7 @@
                          Stimme zu hören, leider hattest Du nicht viel davon.
                       </p>
                       <p>    
-                          <space quantity="5" unit="char"/><rs type="note" ana="#ana_037">Heute stehe ich immer noch unter dem Eindruck des <rs type="event" ref="#amp_event_id_22" ana="#ana_024">gest<subst><del rend="overtyped">ir</del><add place="superimposed">ri</add></subst>gen<lb/>
+                         <space quantity="5" unit="char"/><rs type="note" ana="#ana_037"><add place="inline" hand="#handwritten">&#x231C;</add>Heute stehe ich immer noch unter dem Eindruck des <rs type="event" ref="#amp_event_id_22" ana="#ana_024">gest<subst><del rend="overtyped">ir</del><add place="superimposed">ri</add></subst>gen<lb/>
                          Ausflugs</rs> nach <rs type="place" ref="#amp_place_id_2">Kirchstetten</rs></rs> wohin ich <rs type="person" ref="#amp_person_54">Fritz Heer</rs> verabredeter-<lb/>
                          maßen zum Essen mitnahm. <space quantity="1" unit="char"/>Diese manisch-depressive Genie,<del rend="overtyped">und</del><lb/>
                          dieser innerlich verschreckte Lausbub <rs type="person" ref="#amp_person_54">Friedrich Heer</rs>, und der<lb/>
@@ -323,12 +325,12 @@
                          der zerrissenen, ungleichmäßig ausgereiften Persönlichkeit,<lb/>
                          kennt <rs type="person" ref="#amp_person_54">er</rs> selbst, oder wenigstens zum Teil. <space quantity="1" unit="char"/>Es liegt i<subst><del rend="overtyped">n</del><add place="superimposed">m</add></subst><lb/>
                          Entsetzen des 4-jährigen Kindes und in den seelischen<lb/>
-                         Entbehrungen, die die Scheidung seiner Eltern verursachte.
+                         Entbehrungen, die die Scheidung seiner Eltern verursachte.<add place="inline" hand="#handwritten">&#x231F;</add>
                       </p>
                       <p>      
                          <space quantity="5" unit="char"/>Ärgerst <rs type="person" ref="#amp_person_237">Du</rs> Dich schon darüber, daß ich so viel über <rs type="person" ref="#amp_person_54">Fritz<lb/>
                          Heer</rs> schreibe und wahrscheinlich deshalb weniger über andere<lb/>
-                         Dinge weil die Zeit fehlen wird? <space quantity="1" unit="char"/>Ich tue es teils weil <del rend="overtyped">e</del> ich<lb/>
+                         Dinge weil die Zeit fehlen wird? <space quantity="1" unit="char"/><add place="inline" hand="#handwritten">&#x231C;</add>Ich tue es teils weil <del rend="overtyped">e</del> ich<lb/>
                          Dir darüber erzählen möchte, teils als eine Art von self-<lb/>
                          expression, weil mich <rs type="person" ref="#amp_person_54">der Mann</rs> seit 20 Jahren interessiert, seit<lb/>
                          ich seine Stimme zum ersten Mal 1948 in der <rs type="org" ref="#amp_organization_25">"Furche"</rs> hörte.<lb/>
@@ -343,7 +345,7 @@
                          freute <rs type="person" ref="#amp_person_54">ihn</rs> das enorm, und gleich <del rend="overtyped"><unclear>k</unclear>rie</del> kreisten seine Gedanken<lb/>
                          <del>u</del>in weiß Gott was für Konvolutionen. <space quantity="1" unit="char"/>Ach ja, jetzt weiß ich<lb/>
                          warum, er hat in <rs type="place" ref="#amp_place_id_176">Riga</rs> studiert und kannte wahrscheinlich jüdische<lb/>
-                         Menschen dort.
+                         Menschen dort.<add place="inline" hand="#handwritten">&#x231F;</add>
                       </p>
                       <p>     
                          <space quantity="5" unit="char"/>Also Schluß. <space quantity="1" unit="char"/>Pfingsten: <space quantity="1" unit="char"/>fast durchwegs herrliches Wetter,<lb/>

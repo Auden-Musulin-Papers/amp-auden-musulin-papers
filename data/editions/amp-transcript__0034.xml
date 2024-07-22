@@ -107,9 +107,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0232/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0034" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0034" xml:lang="en" hand="#typed">
             <div type="letter"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0231/" type="sheet" ed="1r"/>
                <div type="letter_message"> 
@@ -175,7 +175,7 @@ for any purpose, even commercially.</p>
                   <p>
                      <space quantity="21" unit="char"/>I was terribly disappointed not to have seen you when I was<lb/>
                      in <rs type="place" ref="#amp_place_id_1">Vienna</rs> in March but alas I was at the mercy of my friends who have cars and,<lb/>
-                     as luck would have it,they were all so busy at various things I was <add place="above">left </add>stranded in<lb/>
+                     as luck would have it,they were all so busy at various things I was <add place="above" hand="#handwritten">left </add>stranded in<lb/>
                      <rs type="place" ref="#amp_place_id_1">Vienna</rs> throughout my brief visit.  However I shall be spending September, October<lb/>
                      and November in <rs type="place" ref="#amp_place_id_10">Austria</rs> and I very much look forward to seeing you then.
                   </p>

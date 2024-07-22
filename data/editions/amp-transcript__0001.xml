@@ -143,7 +143,11 @@ for any purpose, even commercially.</p>
          <div type="transcription" xml:id="transcription_amp_0001" xml:lang="en" hand="#handwritten">
             <div type="envelope">
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0001/" type="envelope" ed="1r"/>
-               <ab><rs type="person" ref="#amp_person_4"><unclear>Ch</unclear>ester</rs> in <rs type="place" ref="#amp_place_id_14">Florence</rs><unclear>.</unclear></ab>
+               <ab>
+                  <add place="margin">
+                     <rs type="person" ref="#amp_person_4"><unclear>Ch</unclear>ester</rs> in <rs type="place" ref="#amp_place_id_14">Florence</rs><unclear>.</unclear>
+                  </add>
+               </ab>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Ba<unclear>ron</unclear>in<lb/>
                   Stella M<gap reason="illegible" unit="char" atLeast="1" atMost="2"/>s<gap reason="illegible" unit="char" quantity="2"/>lin</rs><lb/>

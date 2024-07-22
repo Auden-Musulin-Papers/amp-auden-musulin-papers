@@ -5,6 +5,7 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-02-06</title>
             <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
+            <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella Mary Bellairs</author>
             <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
@@ -133,9 +134,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0030/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#handwritten">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0006" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0006" xml:lang="en" hand="#handwritten">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0027/" type="envelope" ed="1r"/>
                <ab>
@@ -160,17 +161,21 @@ for any purpose, even commercially.</p>
                   </address>
                </ab>
                <ab>
-                  Re arrival <rs type="event" ref="#amp_event_id_10">interview<lb/>
-                  <rs type="person" ref="#amp_person_32 #amp_person_176">Strobl</rs></rs>.
+                  <add place="left">
+                     Re arrival <rs type="event" ref="#amp_event_id_10">interview<lb/>
+                     <rs type="person" ref="#amp_person_32 #amp_person_176">Strobl</rs></rs>.
+                  </add>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0028/" type="envelope" ed="1v"/>
                <ab>
-                  <seg>52 6320<lb/></seg>
-                  <seg>
-                     <rs type="place" ref="#amp_place_id_320" ana="#ana_011">Wa<unclear>n</unclear>dl</rs><unclear>;</unclear><lb/>
-                     <rs type="person" ref="#amp_person_177">Elizabeth</rs> <unclear>.</unclear><lb/>
-                     <rs type="place" ref="#amp_place_id_10">Austria</rs> <unclear>.</unclear>
-                  </seg>
+                  <add place="margin">
+                     <seg>52 6320<lb/></seg>
+                     <seg>
+                        <rs type="place" ref="#amp_place_id_320" ana="#ana_011">Wa<unclear>n</unclear>dl</rs><unclear>;</unclear><lb/>
+                        <rs type="person" ref="#amp_person_177">Elizabeth</rs> <unclear>.</unclear><lb/>
+                        <rs type="place" ref="#amp_place_id_10">Austria</rs> <unclear>.</unclear>
+                     </seg>
+                  </add>
                </ab>
             </div>
             <div type="letter">

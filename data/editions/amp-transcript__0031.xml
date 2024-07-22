@@ -210,9 +210,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0226/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0031" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0031" xml:lang="en" hand="#typed">
             <div type="letter"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0223/" type="sheet" ed="1r"/>
                <div type="letter_message">

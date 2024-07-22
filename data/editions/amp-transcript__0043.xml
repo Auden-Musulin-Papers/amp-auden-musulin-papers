@@ -168,9 +168,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0154/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0043" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0043" xml:lang="en" hand="#typed">
             <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0099/" type="sheet" ed="1r"/>
                <div type="prose">
@@ -233,7 +233,7 @@ for any purpose, even commercially.</p>
                      </add>
                   </fw>
                   <ab xml:lang="de">
-                     <space quantity="17" unit="char"/>Sehr vee<subst><del rend="metamark">rh</del><add place="inline">hr</add></subst>ter <rs type="person" ref="#amp_person_112">Herr Landeshauptman<add place="inline"><unclear>n</unclear></add></rs>,meine Damen und Herren:
+                     <space quantity="17" unit="char"/>Sehr vee<subst><del rend="metamark">rh</del><add place="inline">hr</add></subst>ter <rs type="person" ref="#amp_person_112">Herr Landeshauptman<add place="inline" hand="#handwritten"><unclear>n</unclear></add></rs>,meine Damen und Herren:
                   </ab>
                   <p>
                      <space quantity="10" unit="char"/>I hope you will pardon me if I speak somewhat personally. I do so,<lb/>
@@ -244,7 +244,7 @@ for any purpose, even commercially.</p>
                   </p>
                   <p>
                      <space quantity="3" unit="char"/>Most of what I <subst><del rend="overtyped"><unclear>o</unclear></del><add place="superimposed">k</add></subst>now about the writing of poetry,or at least about the kind I<lb/>
-                     am interested in writing,I discovered long before I took an<add place="inline">y</add> interest in poetry<lb/>
+                     am interested in writing,I discovered long before I took an<add place="inline" hand="#handwritten">y</add> interest in poetry<lb/>
                      itself.
                   </p>
                   <p>
@@ -294,7 +294,7 @@ for any purpose, even commercially.</p>
                      </seg>
                   </p>
                   <p>
-                     <space quantity="3" unit="char"/>As regards my particu<subst><del rend="overtyped">al</del><add place="superimposed">l<unclear>a</unclear></add></subst>r lead-mining world,I decided,or rather,without conscious<lb/>
+                     <space quantity="3" unit="char"/>As regards my particu<subst><del rend="overwritten">al</del><add place="superimposed" hand="#handwritten">l<unclear>a</unclear></add></subst>r lead-mining world,I decided,or rather,without conscious<lb/>
                      decision I instinctively felt,that I must impose two restrictions upon my freedom<lb/>
                      of fantasy. In choosing what objects were to be included,I was free to select this<lb/>
                      and reject that,on condition that both were real objects in the Primary World,to<lb/>
@@ -306,7 +306,7 @@ for any purpose, even commercially.</p>
                      <space quantity="1" unit="char"/>I mean that I felt,in some obscure way,that they were morally forbidden. Then there<lb/>
                      <space quantity="1" unit="char"/>came a day when the moral issue became quite conscious. As I was planning my<lb/>
                      <space quantity="1" unit="char"/>Platonic Idea of a concentrating-mill,I ran into difficulties. I had to choose<lb/>
-                     <space quantity="1" unit="char"/>between two types of a cer<subst><del rend="overwritten">at</del><add place="superimposed">ta</add></subst>in machine for separating the sli<unclear>m</unclear>es,called a buddle.<lb/>
+                     <space quantity="1" unit="char"/>between two types of a cer<subst><del rend="overwritten">at</del><add place="superimposed" hand="#handwritten">ta</add></subst>in machine for separating the sli<unclear>m</unclear>es,called a buddle.<lb/>
                      <space quantity="1" unit="char"/>One type I found more sacred or '<del rend="overtyped">beat<subst><del rend="overtyped">i</del><add place="superimposed">u</add></subst>ful</del> beautiful',but the other type was,I<lb/>
                      <space quantity="1" unit="char"/>knew from my reading,the more efficient. At this point I realised that it was my<lb/>
                      <space quantity="1" unit="char"/>moral duty to sacrifice my <del rend="overtyped">aethetic</del> aesthetic preference to reality or truth.
@@ -322,10 +322,10 @@ for any purpose, even commercially.</p>
                      <space quantity="4" unit="char"/>When,later,I began to write poetry’I found that,for me,at least,the same<lb/>
                      obligation was binding. That is to say,I cannot accept the do<del rend="overtyped"><unclear>s</unclear></del>ctrine that,in<lb/>
                      poetry,there is a 'suspension of belief<del rend="overtyped"><unclear>e</unclear></del>'. A poet must never make a statement<lb/>
-                     simply because it sounds poetically exciting: he must also bel<subst><del rend="overwritten">ei</del><add place="superimposed">ie</add></subst>ve it to be<lb/>
+                     simply because it sounds poetically exciting: he must also bel<subst><del rend="overwritten">ei</del><add place="superimposed" hand="#handwritten">ie</add></subst>ve it to be<lb/>
                      true. This does not mean,of course,that one can only appreciate a poet whose<lb/>
-                     beliefs happen to co-incide with one's own. I<add place="inline">t</add> does mean,however,that one must<lb/>
-                     <subst><del rend="overtyped">n</del><add place="superimposed">b</add></subst>e convinced that the poet really believ<subst><del rend="overwritten"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed">e</add></subst>s what he says,however odd <del rend="overtyped">that</del> the<lb/>
+                     beliefs happen to co-incide with one's own. I<add place="inline" hand="#handwritten">t</add> does mean,however,that one must<lb/>
+                     <subst><del rend="overtyped">n</del><add place="superimposed">b</add></subst>e convinced that the poet really believ<subst><del rend="overwritten"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed" hand="#handwritten">e</add></subst>s what he says,however odd <del rend="overtyped">that</del> the<lb/>
                      belief may seem to oneself.
                   </p>
                   <p>
@@ -336,7 +336,7 @@ for any purpose, even commercially.</p>
                      of others is to become conscious of historical time<del rend="overtyped">.</del> in various ways. The<lb/>
                      contents of a poem are necessarily past <del rend="overtyped">expereinces</del> experiences,and the goal of<lb/>
                      a poem is <del rend="overtyped">necessaily</del> necessarily in the future,since it cannot be read until<lb/>
-                     it has been written. Again<add place="inline"><unclear>,</unclear></add>to write a poem is to engage in an<add place="inline"> </add>activity which<lb/>
+                     it has been written. Again<add place="inline" hand="#handwritten"><unclear>,</unclear></add>to write a poem is to engage in an<add place="inline" hand="#handwritten"> </add>activity which<lb/>
                      human beings have practised for centuries. If one asks why human beings<lb/>
                      make poems or paint pictures or compose music,I can see two possible answers.<lb/>
                      Firstly all the artistic media are forms of an activity pecul<del rend="overstrike"><gap reason="illegible" unit="char" quantity="1"/></del>iar to human<lb/>
@@ -347,12 +347,12 @@ for any purpose, even commercially.</p>
                      a code may be exceedingly comple<subst><del rend="overtyped">s</del><add place="superimposed">x</add></subst>. We,too,of course,often use words in the same<lb/>
                      way,as when I ask a stranger the way to the railroad station. But when we<lb/>
                      truly speak,we do something quite different. We <del rend="overtyped">spak</del> speak as person to person<lb/>
-                     in order to disclose ourselves to others and share our exper<subst><del rend="overwritten">ei</del><add place="superimposed"><unclear>i</unclear>e</add></subst>nces with<lb/>
+                     in order to disclose ourselves to others and share our exper<subst><del rend="overwritten">ei</del><add place="superimposed" hand="#handwritten"><unclear>i</unclear>e</add></subst>nces with<lb/>
                      them,not because we must,but becuase we enjoy doing so. This activity is<lb/>
                      sometimes quite erroneously called 'self-expression'. If I write a poem<lb/>
-                     about <del rend="overtyped">ceratin</del> experiences I have had,I do so<del rend="overtyped">,not bec</del> bec<subst><del rend="overwritten">ua</del><add place="superimposed"><unclear>a</unclear>u</add></subst>se I think it<lb/>
-                     <subst><del rend="overstrike">may</del><add place="left">should</add></subst> be of interest and value to others<del rend="overtyped">,not</del>: the fact that it has till now<lb/>
-                     only been m<add place="inline">&#x332;</add>y<add place="inline">&#x332;</add> exper<subst><del rend="overwritten">ei</del><add place="superimposed">ie</add></subst>nce is accidental. What the poet or any artist has to convey<lb/><!-- we need to add 'span' from to and the correspondent word that the line is below  -->
+                     about <del rend="overtyped">ceratin</del> experiences I have had,I do so<del rend="overtyped">,not bec</del> bec<subst><del rend="overwritten">ua</del><add place="superimposed" hand="#handwritten"><unclear>a</unclear>u</add></subst>se I think it<lb/>
+                     <subst><del rend="overstrike">may</del><add place="left" hand="#handwritten">should</add></subst> be of interest and value to others<del rend="overtyped">,not</del>: the fact that it has till now<lb/>
+                     only been <subst><del rend="edited">my</del><add place="superimposed"><hi rend="underline" hand="#handwritten">my</hi></add></subst> exper<subst><del rend="overwritten">ei</del><add place="superimposed" hand="#handwritten">ie</add></subst>nce is accidental. What the poet or any artist has to convey<lb/><!-- we need to add 'span' from to and the correspondent word that the line is below  -->
                      is a perception of a reality common to all,but seen from a unique perpsective,<lb/>
                      which it is his duty as well as his pleasure to share with others. To small<lb/>
                      truths as well as great,<rs type="person" ref="#amp_person_111">St Augustine</rs>'s words apply.<lb/>
@@ -385,9 +385,9 @@ for any purpose, even commercially.</p>
                      to what scientists are doing at this moment. Past works of art,on the<lb/>
                      other hand,are of the utmost importance to the contemporary <del rend="overtyped">praticioner<unclear>.</unclear></del><lb/>
                      practic<subst><del rend="overtyped">o</del><add place="superimposed">i</add></subst><subst><del rend="overtyped">o</del><add place="above">oner</add></subst>ner. Every artist tries to produce something new,but in the hope<lb/>
-                     that,in time,it will take its <subst><del rend="overwritten"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed">p</add></subst>roper place in the tradition of his art.<lb/>
+                     that,in time,it will take its <subst><del rend="overwritten"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed" hand="#handwritten">p</add></subst>roper place in the tradition of his art.<lb/>
                      And he cannot produce anything significantly original unless he knows<lb/>
-                     well what has <del>been</del> already been done<unclear>;</unclear>w<del>ithout</del>,that is to say ,<del>even in</del> he cannot<lb/>
+                     well what has <del rend="overstrike">been</del> already <add place="above" hand="#handwritten">been </add>done<unclear>;</unclear>w<del rend="overstrike">ithout</del>,that is to say ,<del rend="overtyped">even in</del> he cannot<lb/>
                      'rebel' against the past without having a profound reverence for it.
                   </p>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0148/" type="sheet" ed="3v"/>
@@ -402,8 +402,8 @@ for any purpose, even commercially.</p>
                      <space quantity="1" unit="char"/>each generation building on the achievements of the previous generation.<lb/>
                      There are other periods when radical breaks seem to be necessary. However,<lb/>
                      <subst><del rend="overtyped">t</del><add place="superimposed">w</add></subst>hen they are,one will generally find that the 'radical' artist does not<lb/>
-                     <del rend="overtyped">diswon</del> disown the past,but finds in works of a much earlier period or <add place="inline">in</add><lb/>
-                     those<add place="inline"> </add>of <del rend="overtyped">anotehr</del> culture than his own,the clue <add place="above">as</add> to what he should do now.<lb/>
+                     <del rend="overtyped">diswon</del> disown the past,but finds in works of a much earlier period or <add place="inline" hand="#handwritten">in</add><lb/>
+                     those<add place="inline" hand="#handwritten"> </add>of <del rend="overtyped">anotehr</del> culture than his own,the clue <add place="above" hand="#handwritten">as</add> to what he should do now.<lb/>
                      In my own case,for example,I know how much I owe to Anglo-Saxon and<lb/>
                      Medie<subst><del rend="overtyped">av</del><add place="superimposed">va</add></subst>l Poetry.
                   </p>
@@ -458,13 +458,13 @@ for any purpose, even commercially.</p>
                      are thr<subst><del rend="overtyped">r</del><add place="superimposed">e</add></subst>e.
                   </p>
                   <p>
-                     <space quantity="2" unit="char"/>Firstly,one may come to think of artistic fabrication as <subst><del rend="overtyped">s</del><add place="superimposed"><unclear>a</unclear></add></subst> f<subst><del rend="overstrike">rom</del><add place="above">orm</add></subst> of politic<unclear>a</unclear>l<lb/>
-                     action. Every citizen,<subst><del rend="overtyped">artists</del><add place="above">poets</add></subst> includ<subst><del rend="overtyped">i</del><add place="superimposed">e</add></subst>d,has a duty to be politically 'engage<add place="inline">&#x301;</add>',<lb/>
+                     <space quantity="2" unit="char"/>Firstly,one may come to think of artistic fabrication as <subst><del rend="overtyped">s</del><add place="superimposed"><unclear>a</unclear></add></subst> f<subst><del rend="overstrike">rom</del><add place="above" hand="#handwritten">orm</add></subst> of politic<unclear>a</unclear>l<lb/>
+                     action. Every citizen,<subst><del rend="overtyped">artists</del><add place="above">poets</add></subst> includ<subst><del rend="overtyped">i</del><add place="superimposed">e</add></subst>d,has a duty to be politically 'engage<add place="inline" hand="#handwritten">&#x301;</add>',<lb/>
                      that is,to <del rend="overtyped">feel</del> play a responsible part in seeing that the society of which<lb/>
                      he is a member shall function properly and improve. But the poet,qua poet,<lb/>
                      has only one political function. Since lang<subst><del rend="overtyped">i</del><add place="superimposed">u</add></subst>age is his medium,it is his duty,<lb/>
                      by his own example,to defend his <subst><del rend="overtyped">mot<del rend="overtyped">eh</del><add place="superimposed">he</add>r</del><add place="superimposed">mother</add><add place="above">mother</add></subst>-tongue against corruption by demagogues,<lb/>
-                     journalists,the mass-media etc. As <rs type="person" ref="#amp_person_81">Karl Kraus</rs><del rend="overtyped">s</del> said:<quote source="#lit_work_id_173">"<foreign xml:lang="de">D<hi rend="underline">ie Sprache ist die</hi> <del rend="overtyped">Muuet</del><lb/>
+                     journalists,the mass-media etc. As <rs type="person" ref="#amp_person_81">Karl Kraus</rs><del rend="overtyped">s</del> said:<quote source="#lit_work_id_173">"<foreign xml:lang="de">D<subst><del rend="edited">ie Sprache ist die</del><add place="superimposed"><hi rend="underline" hand="#handwritten">ie Sprache ist die</hi></add></subst> <del rend="overtyped">Muuet</del><lb/>
                      <space quantity="1" unit="char"/><hi rend="underline">Mutter,nicht das Magd,des <del rend="overtyped">d</del> <subst><del rend="overtyped">g</del><add place="superimposed">G</add></subst>edankens"</hi></foreign></quote>,and when language loses its meaning,<lb/>
                      its <del rend="overtyped">palce</del> place is taken by violence. Of course,the poet may use political and<lb/>
                      social events as subject-matter for poems - they are as much a part of human<lb/>
@@ -497,7 +497,7 @@ for any purpose, even commercially.</p>
                      actual men,such a society could <add place="above">only</add> come into being through selective breeding,<lb/>
                      ex<subst><del rend="overtyped">y</del><add place="superimposed">t</add></subst>ermination <space quantity="1" unit="char"/>of the physically and mentally unfit,absolute obedience to<lb/>
                      its <subst><del rend="overtyped">D</del><add place="superimposed">d</add></subst>irector,a alrge slave cla<subst><del rend="overtyped">a</del><add place="superimposed">s</add></subst>s kept out of sight in <subst><del rend="overtyped">f</del><add place="superimposed">c</add></subst>ellars and the<lb/>
-                     strictest censur<add place="above">e</add><subst><del rend="overwritten">e</del><add place="superimposed">s</add></subst>hip of the Arts,forbidding anything to be said which <del rend="overtyped">was</del> is<lb/>
+                     strictest censur<add place="above">e</add><subst><del rend="overwritten">e</del><add place="superimposed" hand="#handwritten">s</add></subst>hip of the Arts,forbidding anything to be said which <del rend="overtyped">was</del> is<lb/>
                      <del rend="overtyped">not</del> out of keeping with the official 'line.'
                   </p>
                   <p>
@@ -527,7 +527,7 @@ for any purpose, even commercially.</p>
                   <p>
                      <space quantity="3" unit="char"/>What then,can the Arts do for us? In my opi<subst><del rend="overtyped">o</del><add place="superimposed">n</add></subst>ion,they can do two things.<lb/>
                      They can,as <rs type="person" ref="#amp_person_33">Dr Johns<subst><del rend="overtyped">t</del><add place="superimposed">o</add></subst>n</rs> said,<quote source="#lit_work_id_174">'enable us a little better to enjoy life or a<lb/>
-                     little better to <subst><del rend="overstrike">enjo</del><add place="above">endure</add></subst>y it"</quote>. And,<del rend="overtyped">bec<unclear>aas</unclear>e</del> because they are objects <del rend="overtyped">permant</del><lb/>
+                     little better to <subst><del rend="overstrike">enjo</del><add place="above" hand="#handwritten">endure</add></subst>y it"</quote>. And,<del rend="overtyped">bec<unclear>aas</unclear>e</del> because they are objects <del rend="overtyped">permant</del><lb/>
                      permanently on hand in the world,they are the chief means by which the <del rend="overtyped">lvi</del><lb/>
                      living are able to break bread with the dead,and,without a communication<lb/>
                      with the dead,I do not believe that a fully human civilised life is possible.
@@ -567,7 +567,7 @@ for any purpose, even commercially.</p>
                      <space quantity="1" unit="char"/>examples,the poems of <rs type="person" ref="#amp_person_31">D.H.Lawrence</rs>,for example,exist,i<del rend="overstrike">n my opinion </del>they are<add place="inline">,<unclear>in</unclear> my opinio<unclear>n</unclear></add><lb/>
                      the exception,not the rule. The great virtue of formal metrical rules is<lb/>
                      that they forbid automatic <del rend="overtyped">reposnse</del> resp<subst><del rend="overtyped">i</del><add place="superimposed">o</add></subst>nses and,by forcing the <del rend="overtyped">piet</del> poet<lb/>
-                     to have second thoughts,free <subst><del rend="overwritten">f</del><add place="superimposed">h</add></subst>im f<subst><del rend="overwritten">or</del><add place="superimposed">ro</add></subst>m the fetters of self. All too often,the<lb/>
+                     to have second thoughts,free <subst><del rend="overwritten">f</del><add place="superimposed" hand="#handwritten">h</add></subst>im f<subst><del rend="overwritten">or</del><add place="superimposed" hand="#handwritten">ro</add></subst>m the fetters of self. All too often,the<lb/>
                      result of not having a fixed form to be true to,is a self-indulgence which in<lb/>
                      the detached reader can only cause boredom. Further,in my exper<subst><del rend="overtyped">ei</del><add place="superimposed">ie</add></subst>nce ,contrary<lb/>
                      to what one might exp<subst><del rend="overtyped">s</del><add place="superimposed">e</add></subst>ct,the <del rend="overtyped">writers o</del> free-verse poets sound much more<lb/>

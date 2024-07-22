@@ -108,9 +108,9 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0252/"/>
         </surface>
     </facsimile>
-    <text type="letter" hand="#typed">
+    <text>
         <body>
-            <div type="transcription" xml:id="transcription_amp_0061" xml:lang="de">
+            <div type="transcription" xml:id="transcription_amp_0061" xml:lang="de" hand="#typed">
                <div type="letter">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0251/" type="sheet" ed="1r"/>
                 <div type="letter_message">
@@ -161,7 +161,11 @@
                     </p>
                     <closer>
                         <space quantity="15" unit="char"/><salute>Mit herzlichen Grüßen,</salute>
-                        <signed hand="#handwritten"><rs type="person" ref="#amp_person_2">Stella Musulin</rs> <unclear>´</unclear></signed>
+                        <signed>
+                            <seg hand="#handwritten">
+                                <rs type="person" ref="#amp_person_2">Stella Musulin</rs> <unclear>´</unclear>
+                            </seg>
+                        </signed>
                         <space quantity="15" unit="char"/><signed><rs type="person" ref="#amp_person_2">Stella Musulin</rs>.</signed>
                     </closer>
                 </div>      
