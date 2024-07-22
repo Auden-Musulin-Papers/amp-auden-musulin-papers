@@ -157,9 +157,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0022/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0004" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0004" xml:lang="en" hand="#typed">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0019/" type="envelope" ed="1r"/>
                <ab>
@@ -200,7 +200,7 @@ for any purpose, even commercially.</p>
                      </placeName>
                      <seg rend="#block">
                         <date>
-                           Feb 3rd,I96<subst><del rend="overwritten">5</del><add place="superimposed">6</add></subst>
+                           Feb 3rd,I96<subst><del rend="overwritten">5</del><add place="superimposed" hand="#handwritten">6</add></subst>
                         </date>
                      </seg>
                   </dateline>
@@ -210,31 +210,31 @@ for any purpose, even commercially.</p>
                </opener>
                <p>
                   <space quantity="7" unit="char"/>Many thanks for <rs type="event" ref="#amp_event_id_76">your nice long letter</rs>. <rs type="person" ref="#amp_person_8">Stephen</rs> has a genius for<lb/>
-                  <space quantity="4" unit="char"/>s<subst><del> </del><add place="below"></add></subst>ubtle misrepresentation. <quote source="#lit_work_id_157">"Serious insistence on unseriousness'</quote><lb/>
-                  <space quantity="4" unit="char"/>telescopes two <subst><del rend="overtyped">cnvictuons</del><add place="above">dis<subst><del> </del><add place="below"></add></subst>tinct</add></subst> convictions of mine,falsifying both.
+                  <space quantity="4" unit="char"/>s<del rend="metamark"> </del>ubtle misrepresentation. <quote source="#lit_work_id_157">"Serious insistence on unseriousness'</quote><lb/>
+                  <space quantity="4" unit="char"/>telescopes two <subst><del rend="overtyped">cnvictuons</del><add place="above">dis<del rend="metamark"> </del>tinct</add></subst> convictions of mine,falsifying both.
                </p>
                <p>
                   <seg>
                      <space quantity="5" unit="char"/>I) I believe it to be a serious moral error when an artist overestimates<lb/>
                      <space quantity="8" unit="char"/>the importance of art and,by implication,of himself. One must admit<lb/>
-                     <space quantity="8" unit="char"/>that the <del rend="overtyped">plotical</del> political history of <rs type="place" ref="#amp_place_id_30">Eur<subst><del rend="overtyped">i</del><add place="superimposed">o</add></subst>pe</rs>,with <subst><del rend="overstrike">all its</del><add place="above">the same</add></subst> horrors,<lb/>
+                     <space quantity="8" unit="char"/>that the <del rend="overtyped">plotical</del> political history of <rs type="place" ref="#amp_place_id_30">Eur<subst><del rend="overtyped">i</del><add place="superimposed">o</add></subst>pe</rs>,with <subst><del rend="overstrike">all its</del><add place="above" hand="#handwritten">the same</add></subst> horrors,<lb/>
                      <space quantity="8" unit="char"/>would be what it has been,if <rs type="person" ref="#amp_person_9">Dante</rs>,<rs type="person" ref="#amp_person_10">Shakespeare</rs>,<rs type="person" ref="#amp_person_11">Goethe</rs>,<rs type="person" ref="#amp_person_12">Titian</rs>,<lb/>
                      <space quantity="8" unit="char"/><rs type="person" ref="#amp_person_13">Mo<subst><del rend="overtyped">x</del><add place="superimposed">z</add></subst>art</rs>,et al,had never existed.
                   </seg>
                   <seg>
                      <seg>
                         <lb/><space quantity="4" unit="char"/>2) I believe that the only way in which,to-day at any rate,one can<lb/>
-                        <space quantity="7" unit="char"/>s<subst><del> </del><add place="below"></add></subst>peak <del rend="overtyped">seroiu</del> <del rend="overtyped">s eriously</del> <hi rend="underline">seriously</hi> about serious matters(the alternati<subst><del rend="overtyped">c</del><add place="superimposed">v</add></subst>e<lb/>
+                        <space quantity="7" unit="char"/>s<del rend="metamark"> </del>peak <del rend="overtyped">seroiu</del> <del rend="overtyped">s eriously</del> <hi rend="underline">seriously</hi> about serious matters(the alternati<subst><del rend="overtyped">c</del><add place="superimposed">v</add></subst>e<lb/>
                         <space quantity="7" unit="char"/>is silence) is comically. I am surprised to hear from you that<lb/>
                         <space quantity="7" unit="char"/>Jews find this hard to accept. I have enormously admired - and been<lb/>
                         <space quantity="6" unit="char"/>influenced by - the tradition of Jewish humor. More than any other<lb/>
                         <space quantity="6" unit="char"/>people,surely,they have seen in serious matters,that is to say,human<lb/>
-                        <space quantity="6" unit="char"/>s<subst><del> </del><add place="below"></add></subst>uffering,<del rend="overtyped">and</del> the<add place="inline"> </add>contradictions of human existence,and the relation<lb/>
-                        <space quantity="6" unit="char"/>betw<subst><del> </del><add place="below"></add></subst>een man and God,occasions for humorous expression.
+                        <space quantity="6" unit="char"/>s<del rend="metamark"> </del>uffering,<del rend="overtyped">and</del> the<add place="inline" hand="#handwritten"><space quantity="1" unit="char"/></add>contradictions of human existence,and the relation<lb/>
+                        <space quantity="6" unit="char"/>betw<del rend="metamark"> </del>een man and God,occasions for humorous expression.
                      </seg>
                      <seg>
                         <lb/><space quantity="7" unit="char"/>e.g,: "If the rich could hire other people to die for them,the poor<lb/>
-                        <space quantity="5" unit="char"/>cou<subst><del rend="overtyped">o</del><add place="superimposed">l</add></subst>d make a w<subst><del> </del><add place="below"></add></subst>onderful living", or "Truth rests with God alone,and<lb/>
+                        <space quantity="5" unit="char"/>cou<subst><del rend="overtyped">o</del><add place="superimposed">l</add></subst>d make a w<del rend="metamark"> </del>onderful living", or "Truth rests with God alone,and<lb/>
                         <space quantity="5" unit="char"/>a little bit with me",or "God will provide - ah,if only He wou<subst><del rend="overtyped">o</del><add place="superimposed">l</add></subst>d till<lb/>
                         <space quantity="5" unit="char"/>He does so."
                      </seg>
@@ -242,15 +242,15 @@ for any purpose, even commercially.</p>
                </p>   
                <p>   
                   <space quantity="2" unit="char"/>So! you encountered the <rs type="person" ref="#amp_person_175">one-whose-name-we-never-mention</rs>. Why <rs type="person" ref="#amp_person_4">Chest<subst><del rend="overtyped">r</del><add place="superimposed">e</add></subst>r</rs> should<lb/>
-                  <space quantity="1" unit="char"/>have been s<subst><del> </del><add place="below"></add></subst>o foolis<subst><del> </del><add place="below"></add></subst>h as <space quantity="1" unit="char"/>to invite him to a <rs type="event" ref="#amp_event_id_38">p<subst><del rend="overtyped">e</del><add place="superimposed">a</add></subst>rty</rs>,I cannot imagine. If he<lb/>
+                  <space quantity="1" unit="char"/>have been s<del rend="metamark"> </del>o foolis<del rend="metamark"> </del>h as <space quantity="1" unit="char"/>to invite him to a <rs type="event" ref="#amp_event_id_38">p<subst><del rend="overtyped">e</del><add place="superimposed">a</add></subst>rty</rs>,I cannot imagine. If he<lb/>
                   is to be seen at all,he <subst><del rend="overtyped">jy</del><add place="superimposed">mu</add></subst>st be seen alone. Incidentally,next time you see<lb/>
                   <rs type="person" ref="#amp_person_4">Chester</rs>,scold him a) for not writing to me b) for not answering <rs type="event" ref="#amp_event_id_77"><rs type="person" ref="#amp_person_108" ana="#ana_010">Harrison</rs>'s<lb/>
                   cable</rs>.
                </p>
                <p>   
                   <space quantity="1" unit="char"/>All well here.except for a leaking kit<subst><del rend="overtyped">v</del><add place="superimposed">c</add></subst>hen roof. No doubt you read about<lb/>
-                  our <rs type="event" ref="#amp_event_id_4">Black-Out</rs> and <rs type="event" ref="#amp_event_id_5">Trans<subst><del> </del><add place="below"></add></subst>it Strike</rs>.(My typewriter is on the blink,hence the<lb/>
-                  hiatuses.) <space quantity="1" unit="char"/>A <del rend="overtyped">firen</del> <rs type="person" ref="#amp_person_174">friend of mine who teaches sc<add place="above"><unclear>h</unclear></add>yzophrenics</rs>,has <rs type="person" ref="#amp_person_233">a seventeen<lb/>
+                  our <rs type="event" ref="#amp_event_id_4">Black-Out</rs> and <rs type="event" ref="#amp_event_id_5">Trans<del rend="metamark"> </del>it Strike</rs>.(My typewriter is on the blink,hence the<lb/>
+                  hiatuses.) <space quantity="1" unit="char"/>A <del rend="overtyped">firen</del> <rs type="person" ref="#amp_person_174">friend of mine who teaches sc<add place="above" hand="#handwritten"><unclear>h</unclear></add>yzophrenics</rs>,has <rs type="person" ref="#amp_person_233">a seventeen<lb/>
                   year old girl</rs> who is interested in poetry. Asked what poets she liked,she<lb/>
                   mentioned me. "<subst><del rend="overtyped">i</del><add place="superimposed">I</add></subst> happen to know him quite well",said <rs type="person" ref="#amp_person_174">my friend</rs>. To which the<lb/>
                   girl in astonishment:"You mean to say,he's still <hi rend="underline">alive</hi>!".
@@ -259,7 +259,7 @@ for any purpose, even commercially.</p>
                   <space quantity="2" unit="char"/><rs type="event" ref="#amp_event_id_86">Expect to get back to <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> about April 20th</rs>.
                </p>
                <closer>
-                  <space quantity="21" unit="char"/><salute>much love <add place="inline"><handShift new="#handwritten"/>and <unclear>g</unclear>reetings to <rs type="person" ref="#amp_person_94">son</rs> and <rs type="person" ref="#amp_person_93">mum-in-law</rs></add></salute>
+                  <space quantity="21" unit="char"/><salute>much love <add place="inline" hand="#handwritten">and <unclear>g</unclear>reetings to <rs type="person" ref="#amp_person_94">son</rs> and <rs type="person" ref="#amp_person_93">mum-in-law</rs></add></salute>
                   <signed hand="#handwritten">
                      <rs type="person" ref="#amp_person_1">Wystan</rs>.
                   </signed>

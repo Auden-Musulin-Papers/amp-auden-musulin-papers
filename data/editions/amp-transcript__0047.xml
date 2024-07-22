@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
-            <title level="a">Typescript Stella Musulin Translation W. H. Auden "Joseph Weinheber" 1965-04-28--1965-12-31</title>
+            <title level="a">Copy Typescript Stella Musulin Translation W. H. Auden "Joseph Weinheber" 1965-04-28--1965-12-31</title>
             <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella Mary Bellairs</author>
             <author ref="https://id.acdh.oeaw.ac.at/emusulin">Musulin, Elsa Gerda Maria Louise Pauline von</author>
             <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
@@ -21,7 +21,7 @@
          </titleStmt>
          <editionStmt>
             <edition>
-               <title>Typescript Stella Musulin Translation W. H. Auden "Joseph Weinheber" 1965-04-28--1965-12-31</title>
+               <title>Copy Typescript Stella Musulin Translation W. H. Auden "Joseph Weinheber" 1965-04-28--1965-12-31</title>
             </edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
          <respStmt><resp>TEI Schema, ODD/RNG</resp><name ref="https://orcid.org/0000-0002-9575-9372" xml:id="pandorfer">Andorfer, Peter</name><name ref="https://orcid.org/0000-0002-0636-4476" xml:id="delsner">Elsner, Daniel</name></respStmt></editionStmt>
@@ -84,6 +84,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-05-10">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-28">entities collated</change>
          <change who="dgrigoriou tfruehwirth" when="2024-05-23">entities reviewed, prose container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-07-18">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -127,14 +128,14 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="5" unit="char"/>Was wohl würde dir, dem Österreicher, dem Dichter, dein Herz<lb/>
                   gesagt haben, hättest du je von <rs type="person" ref="#amp_person_7">Franz Jägerstätter</rs>, dem <rs type="place" ref="#amp_place_id_22">Sankt<lb/>
-                     Radegund</rs>er Bauern, gehört, der sein einsames Nein zu dem Ariersta<subst><del rend="overtyped">t</del><add place="superimposed">a</add></subst>t<lb/>
+                  Radegund</rs>er Bauern, gehört, der sein einsames Nein zu dem Ariersta<subst><del rend="overtyped">t</del><add place="superimposed">a</add></subst>t<lb/>
                   sagte und geköpft wurde? <space quantity="1" unit="char"/>Natürlich sorgte man dafür, daß nichts<lb/>
                   davon zu Ohren kam,
                </p>
                <p>
                   <space quantity="5" unit="char"/>dass du unvorbereitet auf einen Tag sein solltest, der kommen<lb/>
                   musste, eine Zeit, voller Schrecken, Tränen und Auflösung, in dem<lb/>
-                  du, der vom Albdruck erstarrt, dich selbst vernichtet<unclear>e</unclear>st?<lb/><!-- is there maybe a deletion? -->
+                  du, der vom Albdruck erstarrt, dich selbst vernichtet<subst><del rend="overtyped">4</del><add place="superimposed">e</add></subst>st?<lb/>
                   Vergeltung ging immer wie ein Stümper vor. <space quantity="1" unit="char"/>"Dies alles ist<lb/>
                   furchtbar, hier nur Schweigen gemäss."
                </p>
@@ -146,7 +147,7 @@ for any purpose, even commercially.</p>
                   dem <hi rend="underline"><foreign xml:lang="la">annus mirabilis</foreign></hi> als die Parität gestürzt wurde.
                </p>
                <p>
-                  <!-- to discuss --><del rend="whiteout">Schon</del><space quantity="5" unit="char"/>Schon waren die Reiche, die verloren ha<subst><del rend="overtyped">b</del><add place="above">tt</add></subst>en, genügend warm und<lb/>
+                  <unclear>Schon</unclear>Schon waren die Reiche, die verloren ha<subst><del rend="overtyped">b</del><add place="above">tt</add></subst>en, genügend warm und<lb/>
                   sattgegessen, ihre Verbrechen waren auf prosaische und private Art,<lb/>
                   jene Ärgernisse, Tote und Schutt, längst weggeschafft: <space quantity="1" unit="char"/>für ihre<lb/>
                   Geschändeten verblasste der Schock, ihre gewaltsam entführten<lb/>
@@ -157,7 +158,7 @@ for any purpose, even commercially.</p>
                   schon auf der Welt waren als sich der Schatten gehoben hatte oder<lb/>
                   vielmehr weitergerückt war. <space quantity="1" unit="char"/><subst><del rend="overtyped"><unclear>B</unclear></del><add place="superimposed">N</add></subst>och nie war die Erde ohne ihre faule<lb/>
                   Stelle, einen Unort mit Posten für Folterer, (In welchen Bars sind<lb/>
-                  sie willkommen? <space quantity="1" unit="char"/>Welch<subst><del rend="overtyped">e</del><add place="inline"><space quantity="1" unit="char"/></add></subst>Mädchen heiraten sie?)
+                  sie willkommen? <space quantity="1" unit="char"/>Welch<unclear>e<add place="inline"><space quantity="1" unit="char"/></add></unclear>Mädchen heiraten sie?)
                </p>
                <p>
                   <space quantity="5" unit="char"/>noch nie war überall Friede auf ihrer nährenden Oberfläche:<lb/>
@@ -193,9 +194,9 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0144/" type="sheet" ed="1v"/>
             <div type="prose">
                <p prev="true">
-                  denn selbst<subst><del rend="whiteout">v</del><add place="inline"><space quantity="1" unit="char"/></add></subst>mein englisches Ohr erfasst in deinem Deutsch die<lb/><!-- do I see stuff? -->
+                  denn selbst mein englisches Ohr erfasst in deinem Deutsch die<lb/>
                   Meisterschaft und den Tonfall einen dem es vergönnt war, auf dem<lb/>
-                  gepfählten Anger<subst><del rend="whiteout">a</del><add place="inline"><space quantity="1" unit="char"/></add></subst>die Violas zu hören, die ihn nachher dazu<lb/><!-- do I see stuff? -->
+                  gepfählten Anger<unclear>a</unclear>die Violas zu hören, die ihn nachher dazu<lb/>
                   verpflichteten, sie "den Abgrund zu nennen".
                </p>
             </div>

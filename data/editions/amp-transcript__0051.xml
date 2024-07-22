@@ -83,6 +83,7 @@ for any purpose, even commercially.</p>
          <change who="smayer tfruehwirth" when="2022-05-30">transcription reviewed, `space` element and `hand` attributes added, date format in `origDate` and `correspAction`/`date` modified</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated</change>
          <change who="dgrigoriou tfruehwirth" when="2024-05-23">entities reviewed, prose container structure updated</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-07-18">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -148,10 +149,10 @@ for any purpose, even commercially.</p>
                      meiner <unclear>L</unclear>ekture funktionierte besser <space quantity="2" unit="char"/>....................<lb/>
                   </seg>
                   <seg>
-                     <space quantity="6" unit="char"/>Als ich später <space quantity="3" unit="char"/><add place="above">G</add>edichte zu schreiben begann stellte ich fest ,<lb/><!-- to discuss -->
+                     <space quantity="6" unit="char"/>Als ich später <space quantity="3" unit="char"/><add place="above">G</add>edichte zu schreiben begann stellte ich fest ,<lb/>
                      dass für mich genau die gleiche Verpflichtung gültig war . Das<lb/>
                      heisst, ich ich kann die Do<subst><del rend="overtyped"><unclear>j</unclear></del><add place="superimposed">k</add></subst>trin nicht akzeptieren derzufolge man<lb/>
-                     in der Poesie <del>vom Zwang der Glaubwürdigkeit</del> vorübergehend vom Zwang<lb/>
+                     in der Poesie <del rend="overtyped">vom Zwang der Glaubwürdigkeit</del> vorübergehend vom Zwang<lb/>
                      zur Glaubwürdigkeit entbunden werden kann <space quantity="1" unit="char"/>.
                   </seg>
                </ab>
@@ -221,7 +222,7 @@ for any purpose, even commercially.</p>
                   </seg>
                   <seg>
                      <space quantity="10" unit="char"/>heisst auf verantwortliche Weise am richtigen Funktionieren<lb/>
-                     <space quantity="5" unit="char"/>der Gesellschaft, der er angehört, wie an ihrer Verbesserung ,<lb/> <!-- what about the G? is it addition? -->
+                     <space quantity="5" unit="char"/>der Gesellschaft, der er angehört, wie an ihrer Verbesserung ,<lb/>
                      <space quantity="5" unit="char"/>mitzuwirken . "
                   </seg>
                </ab>
