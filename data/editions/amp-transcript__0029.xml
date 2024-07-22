@@ -98,9 +98,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0218/"/>
       </surface>
    </facsimile>
-   <text type="prose" hand="#handwritten">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0029" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0029" xml:lang="en" hand="#handwritten">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0215/" type="sheet" ed="1r"/>
             <div type="prose">
                <head>
@@ -108,7 +108,7 @@ for any purpose, even commercially.</p>
                   13th' Feb.19<unclear>6</unclear>8 .
                </head>
                <ab>
-                  &#x2015;
+                  &#x2015; <!-- line doesn't fully show -->
                </ab>
                <p>
                   <unclear>T</unclear>alk of awful impasse in <rs type="event" ref="#amp_event_id_47">Vietnam<lb/>

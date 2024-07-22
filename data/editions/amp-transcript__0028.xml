@@ -247,9 +247,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0514/"/>
       </surface>
    </facsimile>
-   <text type="prose" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0028" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0028" xml:lang="en" hand="#typed">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0477/" type="sheet" ed="1r"/>
             <div>
                <ab>
@@ -337,7 +337,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="5" unit="char"/>What would <rs type="person" ref="#amp_person_1">Wystan Auden</rs> say if he could read <rs type="lit_work" ref="#lit_work_id_48">"Auden in Love"</rs><lb/>
-                  by <rs type="person" ref="#amp_person_4">Chester</rs>´s old coll<subst><del rend="overwritten">a</del><add place="superimposed">e</add></subst>ge friend and last-minute stepmother <rs type="person" ref="#amp_person_150">Dorothy<lb/>
+                  by <rs type="person" ref="#amp_person_4">Chester</rs>´s old coll<subst><del rend="overwritten">a</del><add place="superimposed" hand="#handwritten">e</add></subst>ge friend and last-minute stepmother <rs type="person" ref="#amp_person_150">Dorothy<lb/>
                   J. Farnon</rs>?<hi rend="superscript">2</hi> <space quantity="1" unit="char"/>In July 1985 the <rs type="org" ref="#amp_organization_20">Sunday Times</rs> published a <rs type="lit_work" ref="#lit_work_id_204">list of<lb/>
                   recommended holiday <del rend="overtyped">books</del> reading</rs>. <space quantity="1" unit="char"/>The assessment of <rs type="lit_work" ref="#lit_work_id_48">"Auden in<lb/>
                   Love"</rs> was a model of compression: <space quantity="1" unit="char"/><quote source="#lit_work_id_204">"emetic but compulsive"</quote>.<lb/>
@@ -406,13 +406,13 @@ for any purpose, even commercially.</p>
                   "friends" went off with what cash he could put his hands on, was,<lb/>
                   I realised much later <del rend="overstrike">on</del>, no isolated occasi<subst><del rend="whiteout">n</del><add place="superimposed">o</add></subst>n but routine, as it<lb/>
                   were a calculated hazard.</add></subst> When,<lb/>
-                  ultimately, he took with him to <rs type="place" ref="#amp_place_id_13">Athens</rs> 80,000 sch. in <subst><del rend="overwritten">cash</del><add place="inline">notes</add></subst><lb/>
+                  ultimately, he took with him to <rs type="place" ref="#amp_place_id_13">Athens</rs> 80,000 sch. in <subst><del rend="overwritten">cash</del><add place="inline" hand="#handwritten">notes</add></subst><lb/>
                   (proceeds of the sale of a building plot) and lost it all on the<lb/>
                   way, this mishap was almost a foregone conclusion.
                </p>
                <p>
                   <space quantity="4" unit="char"/>That the sexual relationship between <rs type="person" ref="#amp_person_1">Auden</rs> and <rs type="person" ref="#amp_person_4">Kallman</rs><lb/>
-                  ceased as far back as 19<subst><del rend="overwritten">5</del><add place="superimposed margin">4</add></subst>1 is well known: <space quantity="1" unit="char"/>from that time on -<lb/>
+                  ceased as far back as 19<subst><del rend="overwritten">5</del><add place="superimposed margin" hand="#handwritten">4</add></subst>1 is well known: <space quantity="1" unit="char"/>from that time on -<lb/>
                   there is evidence in the poetry - sex and love became, for <rs type="person" ref="#amp_person_1">Auden</rs>,<lb/>
                   t<subst><del rend="whiteout">o</del><add place="superimposed">w</add></subst>o separate matters. <space quantity="1" unit="char"/>He felt married to <rs type="person" ref="#amp_person_4">Chester</rs> (when he was<lb/>
                   not Mother) for the rest of his life, and he wrote that <rs type="person" ref="#amp_person_4">Chester</rs><lb/>
@@ -507,7 +507,7 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="4" unit="char"/>On his own ground, operatic libretti, <rs type="person" ref="#amp_person_4">Chester Kallman</rs> was<lb/>
                   still in good running order, and <rs type="event" ref="#amp_event_id_113">when the <rs type="lit_work" ref="#lit_work_id_3">Rake´s Progress</rs> was put<lb/>
-                     on</rs> in <rs type="place" ref="#amp_place_id_1">Vienna</rs> he wrote a <rs type="lit_work" ref="#lit_work_id_207">letter</rs> to <subst><del rend="edited"><rs type="org" ref="#amp_organization_39">Die Presse</rs></del><add place="superimposed"><hi rend="underline"><rs type="org" ref="#amp_organization_39">Die Presse</rs></hi></add></subst> protesting sharply<lb/>
+                     on</rs> in <rs type="place" ref="#amp_place_id_1">Vienna</rs> he wrote a <rs type="lit_work" ref="#lit_work_id_207">letter</rs> to <subst><del rend="edited"><rs type="org" ref="#amp_organization_39">Die Presse</rs></del><add place="superimposed"><hi rend="underline" hand="#handwritten"><rs type="org" ref="#amp_organization_39">Die Presse</rs></hi></add></subst> protesting sharply<lb/>
                   <subst><del rend="whiteout"><subst><del rend="overtyped">over</del><add place="left">AGAINST </add></subst></del><add place="superimposed"> against</add></subst> the cuts <del rend="overtyped">which had been</del> made by the <rs type="person" ref="#amp_person_250">producer</rs>. <space quantity="1" unit="char"/>But of that<lb/>
                   conversational brilliance which old friends have described there<lb/>
                   was little sign. <space quantity="1" unit="char"/>A scene comes to mind: <rs type="person" ref="#amp_person_1">Auden</rs> was away, and <rs type="person" ref="#amp_person_4">Chester</rs><lb/>
@@ -573,8 +573,8 @@ for any purpose, even commercially.</p>
                </p>
             </div>
             <div>
-               <ab hand="#handwritten">
-                  <add place="below">&#x2192;</add>
+               <ab>
+                  <add place="below" hand="#handwritten">&#x2192;</add>
                </ab>
             </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0488/" type="sheet" ed="5av"/>
@@ -683,7 +683,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="4" unit="char"/>When fitted kitchens first came in the Austrians calle<subst><del rend="whiteout">sd</del><add place="superimposed">d</add></subst><lb/>
-                  them "American" - the term is now as ex<subst><del rend="overwritten">d</del><add place="superimposed">t</add></subst>inct as "Russian" tea<lb/>
+                  them "American" - the term is now as ex<subst><del rend="overwritten">d</del><add place="superimposed" hand="#handwritten">t</add></subst>inct as "Russian" tea<lb/>
                   but m<subst><del rend="overtyped">k</del><add place="superimposed">u</add></subst>st still have been common parlance in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>.
                </p>
                <p>
@@ -720,22 +720,22 @@ for any purpose, even commercially.</p>
                   to the enormous fat content of some of the dishes. <space quantity="1" unit="char"/>I remember<lb/>
                   my horror as I watched a sauce being prepared in the mixer before<lb/>
                   it was re-heated to accompany the roast duck. <space quantity="1" unit="char"/>It consisted of<lb/>
-                  equal parts of rendered down duck <subst><del rend="whiteout">v</del><add place="superimposed">f</add></subst>at<unclear><add place="inline">,</add></unclear> and cream, and would have<lb/>
+                  equal parts of rendered down duck <subst><del rend="whiteout">v</del><add place="superimposed">f</add></subst>at<unclear><add place="inline" hand="#handwritten">,</add></unclear> and cream, and would have<lb/><!-- to discuss if it is handwritten -->
                   sustained a miner at the <del rend="overtyped">cola</del> coal face for an indefinite period<lb/>
                   of time. <space quantity="1" unit="char"/>If they could possibly help<subst><del rend="overstrike">i</del><add place="inline"><space quantity="1" unit="char"/></add></subst>it, of course, neither<lb/>
                   <rs type="person" ref="#amp_person_1">Wystan</rs> nor <rs type="person" ref="#amp_person_4">Chester</rs> ever walked a yard.
                </p>
             </div>
             <div>
-               <ab hand="#handwritten">
-                  <add place="inline">x x x x</add>
+               <ab>
+                  <add place="inline" hand="#handwritten">x x x x</add>
                </ab>
             </div>
             <div type="prose">
                <p>
                   <space quantity="5" unit="char"/>Whether or not - and <rs type="person" ref="#amp_person_4">Chester</rs> was convinced that this was so -<lb/>
                   the business about <rs type="event" ref="#amp_event_id_45" ana="acdh:amp-transcript__0062.xml#ana_044">alleged arrears of income tax</rs> shortened <rs type="person" ref="#amp_person_1">Auden</rs>´s<lb/>
-                  life<add place="inline">,</add> must be left open. <space quantity="1" unit="char"/>The <rs type="lit_work" ref="#lit_work_id_105" ana="acdh:amp-transcript__0031.xml#ana_031">"Declaration"</rs> to the tax authorities<lb/>
+                  life<add place="inline" hand="#handwritten">,</add> must be left open. <space quantity="1" unit="char"/>The <rs type="lit_work" ref="#lit_work_id_105" ana="acdh:amp-transcript__0031.xml#ana_031">"Declaration"</rs> to the tax authorities<lb/>
                   in which a great poet patiently explains how poetry comes to be<lb/>
                   written must be unique.<del rend="overtyped">and deserves a place in the history of <space quantity="1" unit="char"/></del><lb/>
                   <del rend="overtyped">literature. <space quantity="1" unit="char"/></del>
@@ -952,7 +952,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0501/" type="sheet" ed="12r"/>
             <div type="prose">
                <fw type="pageNum">
-                  <add place="margin"><unclear>-1</unclear>2-</add>
+                  <add place="margin" hand="#handwritten"><unclear>-1</unclear>2-</add>
                </fw>
                <p>
                   <space quantity="5" unit="char"/>The <rs type="place" ref="#amp_place_id_2">sittingroom</rs> seemed to be full of people. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4"><subst><del rend="overtyped">-</del><add place="superimposed">C</add></subst>hester</rs> was<lb/>
@@ -974,7 +974,7 @@ for any purpose, even commercially.</p>
                   language difficulties. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_22">Mayor Enzinger</rs> spoke not a word of<lb/>
                   <subst><del rend="overtyped"><unclear>G</unclear></del><add place="superimposed">E</add></subst>nglish and the <rs type="person" ref="#amp_person_96 #amp_person_95">Clarks</rs> no German, while the <rs type="person" ref="#amp_person_97">headmistress</rs> had a<lb/>
                   certain command of English but did not feel up to acting as<lb/>
-                  interpreter and adviser in one; <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs>´<subst><del rend="overwritten">a</del><add place="superimposed">s</add></subst> German was <subst><del rend="overtyped">o</del><add place="superimposed">p</add></subst>erfect<subst><del rend="whiteout">k</del><add place="superimposed">l</add></subst>y<lb/>
+                  interpreter and adviser in one; <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_4">Chester</rs>´<subst><del rend="overwritten">a</del><add place="superimposed" hand="#handwritten">s</add></subst> German was <subst><del rend="overtyped">o</del><add place="superimposed">p</add></subst>erfect<subst><del rend="whiteout">k</del><add place="superimposed">l</add></subst>y<lb/>
                   adequate.
                </p>
                <p>
@@ -984,11 +984,11 @@ for any purpose, even commercially.</p>
                   the bottom of his hearteverything in the way of <hi rend="underline"><foreign xml:lang="fr">pompes funèbres</foreign></hi>.<lb/>
                   He wanted to bury <rs type="person" ref="#amp_person_1">Aud<subst><del rend="overtyped">s</del><add place="superimposed">e</add></subst>n</rs>, he said, quietly and privately and, if<lb/>
                   it could possibly be managed, on Tuesday. <space quantity="1" unit="char"/>He had already informed<lb/>
-                  <rs type="person" ref="#amp_person_1">Wyst<del rend="overstrike">s</del>an</rs>´s brother <rs type="person" ref="#amp_person_88">Dr. John Auden</rs>, <rs type="person" ref="#amp_person_8">Stephen Spender</rs> and <del rend="overstrike">o</del><subst><del rend="whiteout">s</del><add place="superimposed">o</add></subst>thers<lb/>
+                  <rs type="person" ref="#amp_person_1">Wyst<del rend="overstrike">s</del>an</rs>´s brother <rs type="person" ref="#amp_person_88">Dr. John Auden</rs>, <rs type="person" ref="#amp_person_8">Stephen Spender</rs> and <del rend="overstrike">o</del><subst><del rend="whiteout">s</del><add place="superimposed" hand="#handwritten">o</add></subst>thers<lb/>
                   of the arran<subst><del rend="overtyped">t</del><add place="superimposed">g</add></subst>ements and asked them to arrive, if not tomorrow,<lb/>
                   then on Tuesday morning at the latest. <space quantity="1" unit="char"/>On the other hand the<lb/>
                   <rs type="person" ref="#amp_person_22">mayor of Kirchstetten</rs>, he went on, wanted to lay on a really big<lb/>
-                  show with brass bands and all the rest of it, and what was more<add place="inline">,</add><lb/>
+                  show with brass bands and all the rest of it, and what was more<add place="inline" hand="#handwritten">,</add><lb/>
                   on the Saturday to give as many people as possible the chance to<lb/>
                   come. <space quantity="1" unit="char"/><rs type="org" ref="#amp_organization_43">The Ministry of Education</rs> and the <rs type="org" ref="#amp_organization_44">provincial council of<lb/>
                   <rs type="place" ref="#amp_place_id_6">Lower Austria</rs></rs> were to be represented, and as the last straw the<lb/>
@@ -1002,7 +1002,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0502/" type="sheet" ed="12v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0503/" type="sheet" ed="13r"/>
                <fw type="pageNum">
-                  <add place="margin">-13-</add>
+                  <add place="margin" hand="#handwritten">-13-</add>
                </fw>
                <p prev="true">
                   released by the authorities. <space quantity="1" unit="char"/>In all cases where the cause of death<lb/>
@@ -1035,11 +1035,11 @@ for any purpose, even commercially.</p>
                   trimmings - one can almost hear his Olympian laughter - followed<lb/>
                   by a hearty meal at the <rs type="place" ref="#amp_place_id_355">inn where he had so often <subst><del rend="whiteout">ate</del><add place="superimposed">had</add></subst> his l<subst><del rend="overtyped"><unclear>i</unclear></del><add place="superimposed">u</add></subst>nch</rs>.<lb/>
                   As it turned out, <rs type="person" ref="#amp_person_4">Chester</rs> got no marks in local opinion for this<lb/>
-                  finale either, as the meal consisted of <subst><del rend="edited"><foreign xml:lang="de">Leberkäs</foreign></del><add place="superimposed"><hi rend="underline"><foreign xml:lang="de">Leberkäs</foreign></hi></add></subst> with vegetables:<lb/>
+                  finale either, as the meal consisted of <subst><del rend="edited"><foreign xml:lang="de">Leberkäs</foreign></del><add place="superimposed"><hi rend="underline" hand="#handwritten"><foreign xml:lang="de">Leberkäs</foreign></hi></add></subst> with vegetables:<lb/>
                   <subst><del rend="overlaid">fried slices of<subst><del rend="overstrike">f</del><add place="superimposed"><space quantity="1" unit="char"/></add></subst>a loaf of a flabby substance<add place="below"> which is neither liver nor cheese.</add> related to the<lb/>
-                  Frankfurter sausage<add place="inline">.</add> <space quantity="1" unit="char"/>It is a</del><!-- handwriting -->
+                  Frankfurter sausage<add place="inline" hand="#handwritten">.</add> <space quantity="1" unit="char"/>It is a</del><!-- handwriting -->
                   <add place="superimposed"><lb/>this consisted of fried slices off a loaf made of a flabby substance<lb/>
-                  which is neither liver nor cheese<add place="inline">,</add> <del rend="overstrike">but</del> vaguely related to the<lb/>
+                  which is neither liver nor cheese<add place="inline" hand="#handwritten">,</add> <del rend="overstrike">but</del> vaguely related to the<lb/>
                   Frankfurter sausage. <space quantity="1" unit="char"/>It is a<lb/></add></subst>
                   homely, juicy meal all too familiar to every Austrian; <space quantity="1" unit="char"/>a<subst><del rend="overtyped">b</del><add place="superimposed">n</add></subst>d it is<lb/>
                   cheap.<del rend="whiteout">n</del> There would be <del rend="overtyped">mkuc</del> much talk of this also after all was over<unclear>.</unclear><lb/>
@@ -1110,7 +1110,7 @@ for any purpose, even commercially.</p>
                   phobia about hearses. <space quantity="1" unit="char"/>He would have preferred the hearse not to<lb/>
                   reverse up the lane to the <rs type="place" ref="#amp_place_id_2">garden gate</rs>, but that <subst><del rend="overtyped">h</del><add place="superimposed">t</add></subst>he coffin be<lb/>
                   carried down to the road, and he would have liked it still better<lb/>
-                  if the undertaker's men could have carried it most of the wa<subst><del rend="overwritten">s</del><add place="superimposed">y</add></subst> to<lb/>
+                  if the undertaker's men could have carried it most of the wa<subst><del rend="overwritten">s</del><add place="superimposed" hand="#handwritten">y</add></subst> to<lb/>
                   the church. <space quantity="1" unit="char"/>But I flinched from the very thought of the heavy<lb/>
                   coffin being borne <del rend="overtyped">over</del> along a steep downhill lane over uneven,<lb/>
                   stony ground<unclear>;</unclear> <space quantity="1" unit="char"/>the hearse must be brought up the lane so that the<lb/>
@@ -1187,10 +1187,10 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="5" unit="char"/>The rich variety among the human contacts of <rs type="person" ref="#amp_person_1">Auden</rs> and <rs type="person" ref="#amp_person_4">Kallman</rs>,<lb/>
-                  public and private<add place="inline">, </add>was quite adequately reflected in the long<lb/>
+                  public and private<add place="inline" hand="#handwritten">, </add>was quite adequately reflected in the long<lb/>
                   defile now slowly winding its way through the village to the church.<lb/>
                   English and Austrian cultural institutions were represented,<lb/>
-                  but <rs type="place" ref="#amp_place_id_239">England</rs> would<add place="left"> only</add> turn up in force at the <rs type="place" ref="#amp_place_id_331">Poet's Corner in<lb/>
+                  but <rs type="place" ref="#amp_place_id_239">England</rs> would<add place="left" hand="#handwritten"> only</add> turn up in force at the <rs type="place" ref="#amp_place_id_331">Poet's Corner in<lb/>
                   Westminster Abbey</rs>. <space quantity="1" unit="char"/>Among the local population the sense of<lb/>
                   occasion may have been patchy. <space quantity="1" unit="char"/>A <rs type="person" ref="#amp_person_248" ana="#ana_048">nobleman</rs> who had often exchanged<lb/>
                   hospitality with the <rs type="person" ref="#amp_person_1 #amp_person_4">two poets</rs> asked me over lunch to fill in his<lb/>
@@ -1216,7 +1216,7 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="5" unit="char"/>At the lowest point in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> where the roads divide<lb/>
-                  th<subst><del rend="overwritten">r</del><add place="superimposed">e</add></subst> procession halted while the coffin was transferred from the<lb/>
+                  th<subst><del rend="overwritten">r</del><add place="superimposed" hand="#handwritten">e</add></subst> procession halted while the coffin was transferred from the<lb/>
                   hearse to a hand-drawn bier. <space quantity="1" unit="char"/>At this point the Church took charge<lb/>
                   and the procession resumed its steady pace; <space quantity="1" unit="char"/><rs type="note" ana="acdh:amp-transcript__0062.xml#ana_045">photographs</rs> exist<lb/>
                   which were taken during the brief interval.
@@ -1233,8 +1233,8 @@ for any purpose, even commercially.</p>
                </p>
             </div>
             <div>
-               <ab hand="#handwritten">
-                  <add place="inline">&#x2195; &#x2195;</add> 
+               <ab>
+                  <add place="inline" hand="#handwritten">&#x2195; &#x2195;</add> 
                </ab>
             </div>
             <div type="prose">
@@ -1251,12 +1251,12 @@ for any purpose, even commercially.</p>
                   white garden chairs with the red covers, "it´s a bit <hi rend="underline"><foreign xml:lang="de">einsam</foreign></hi> here.<lb/>
                   And I wanted to write and tell you that the technical word for<lb/>
                   <hi rend="underline">buddle</hi> is <hi rend="underline"><foreign xml:lang="de">Erzwaschtrog</foreign></hi>. <space quantity="1" unit="char"/>I hope there is an equivalent German<lb/>
-                  euphemism for `senior citizen´. <space quantity="1" unit="char"/>Oh and <hi rend="underline">adit</hi> is <hi rend="underline"><foreign xml:lang="de"><subst><del rend="overwritten">s</del><add place="superimposed">S</add></subst>tollen</foreign>,</hi> and although<lb/>
+                  euphemism for `senior citizen´. <space quantity="1" unit="char"/>Oh and <hi rend="underline">adit</hi> is <hi rend="underline"><foreign xml:lang="de"><subst><del rend="overwritten" hand="#handwritten">s</del><add place="superimposed">S</add></subst>tollen</foreign>,</hi> and although<lb/>
                   I may be wrong, I guess <hi rend="underline">concentrating mill</hi> is <hi rend="underline"><foreign xml:lang="de">Vereinigungsmühle</foreign>.</hi>"
                </p>
                <p>
                   <space quantity="5" unit="char"/>"What a mercy you´ve told me" I said, relieved. <space quantity="1" unit="char"/>"I should have<lb/>
-                  <add place="inline">had </add>to <del rend="overstrike">have</del> d<subst><del rend="overwritten">u</del><add place="superimposed">i</add></subst>g up such frightful words in the <rs type="org" ref="#amp_organization_16">British Council</rs> library.<lb/>
+                  <add place="inline" hand="#handwritten">had </add>to <del rend="overstrike">have</del> d<subst><del rend="overwritten">u</del><add place="superimposed" hand="#handwritten">i</add></subst>g up such frightful words in the <rs type="org" ref="#amp_organization_16">British Council</rs> library.<lb/>
                   But do you think people will understand all that about the primary<lb/>
                   and secondary worlds, or will they get muddled?"
                </p>
@@ -1311,14 +1311,14 @@ for any purpose, even commercially.</p>
                </p>
                <p>
                   <space quantity="6" unit="char"/>"The publishers" Isaid "have a rather heavy-handed way of<lb/>
-                  printing the more quotable bits in bold-face<subst><del rend="overwritten">.</del><add place="superimposed">d</add></subst><add place="left"> type</add> <space quantity="1" unit="char"/>But in the next<lb/>
+                  printing the more quotable bits in bold-face<subst><del rend="overwritten">.</del><add place="superimposed" hand="#handwritten">d</add></subst><add place="left" hand="#handwritten"> type</add> <space quantity="1" unit="char"/>But in the next<lb/>
                   verse <rs type="person" ref="#amp_person_102">Luther</rs> seems to flounder. <space quantity="1" unit="char"/><quote source="#lit_work_id_109 #lit_work_id_14">`<foreign xml:lang="de">Werdet doch einmal recht nüchtern<lb/>
                   und sündiget nicht</foreign>!<unclear><subst><del rend="overtyped">"</del><add place="superimposed">´</add></subst></unclear></quote> <quote source="#lit_work_id_109 #lit_work_id_14">Do be a bit sober for once</quote>, he pleads. <space quantity="1" unit="char"/><quote source="#lit_work_id_109 #lit_work_id_14">And<lb/>
                   sin not</quote>. <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_170">King James</rs>´s translators fancied that <rs type="person" ref="#amp_person_190">St Paul</rs> cried out<lb/>
                   <quote source="#lit_work_id_82 #lit_work_id_14"><subst><del rend="whiteout">S</del><add place="superimposed">`</add></subst>Awake to righteousness!</quote>"
                </p>
                <p>
-                  <space quantity="5" unit="char"/>"Who knows what he really said<subst><del rend="overwritten">.</del><add place="superimposed">?</add></subst>"
+                  <space quantity="5" unit="char"/>"Who knows what he really said<subst><del rend="overwritten">.</del><add place="superimposed" hand="#handwritten">?</add></subst>"
                </p>
                <p>
                   <space quantity="5" unit="char"/>"<rs type="person" ref="#amp_person_102">Luther</rs>´s language is very fine as he reaches the clim<subst><del rend="whiteout">x</del><add place="superimposed">a</add></subst>x:<lb/>

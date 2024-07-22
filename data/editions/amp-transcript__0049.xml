@@ -92,9 +92,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0244/"/>
       </surface>
    </facsimile>
-   <text type="prose" hand="#printed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0049" xml:lang="de">
+         <div type="transcription" xml:id="transcription_amp_0049" xml:lang="de" hand="#printed">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0243/" type="card" ed="1r"/>
             <div type="prose">
                <ab>

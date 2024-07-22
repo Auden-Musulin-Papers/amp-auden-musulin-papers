@@ -138,9 +138,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0230/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0033" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0033" xml:lang="en" hand="#typed">
             <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0229/" type="sheet" ed="1r"/>
                <div type="letter_message">
@@ -230,8 +230,8 @@ for any purpose, even commercially.</p>
                      </ab>
                   </div>
                   <div>
-                     <ab hand="#handwritten" xml:lang="de">
-                        <add place="margin">
+                     <ab>
+                        <add place="margin" hand="#handwritten" xml:lang="de">
                            Red<unclear>aktion</unclear> 11-12.<lb/>
                            <rs type="org" ref="#amp_organization_67">Kr<unclear>on</unclear>e<unclear>nz</unclear>ei<unclear>tung</unclear></rs><unclear>.</unclear>½ 2-<unclear>5</unclear><lb/>
                            <rs type="org" ref="#amp_organization_68">M<unclear>or</unclear>gen  197<unclear>7.</unclear></rs> ·<lb/>

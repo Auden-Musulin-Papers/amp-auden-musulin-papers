@@ -94,9 +94,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0250/"/>
       </surface>
    </facsimile>
-   <text type="prose" hand="#handwritten">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0026" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0026" xml:lang="en" hand="#handwritten">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0249/" type="sheet" ed="1r"/>
             <div type="prose">
                <ab>
@@ -106,9 +106,11 @@ for any purpose, even commercially.</p>
                   St John's Wood<lb/>
                   London. N.W. <unclear>8</unclear></rs>
                </ab>
-               <ab xml:lang="de">
-                  <rs type="place" ref="#amp_place_id_224">Johann-Strauß-Gasse 28 <unclear>.</unclear><lb/>
-                  1040 Wien .</rs>
+               <ab><!-- if we assume that she wrote the note later -->
+                  <add place="margin" xml:lang="de">
+                     <rs type="place" ref="#amp_place_id_224">Johann-Strauß-Gasse 28 <unclear>.</unclear><lb/>
+                     1040 Wien .</rs>
+                  </add>   
                </ab>
             </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0250/" type="sheet" ed="1v"/>

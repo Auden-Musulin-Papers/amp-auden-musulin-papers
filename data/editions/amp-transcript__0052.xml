@@ -4,7 +4,8 @@
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Copy Typescript Hilde Spiel Translation W. H. Auden Statement to Austrian Tax Authorities 1972-07-26--1972-08-25</title>
-            <author ref="https://d-nb.info/gnd/118751980">Spiel, Hilde</author>
+            <author ref="https://d-nb.info/gnd/118751980">Spiel, Hilde</author><!-- shall we add Auden as we have in baserow? -->
+            <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
             <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
@@ -112,9 +113,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0178/"/>
       </surface>
    </facsimile>
-   <text type="prose" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0052" xml:lang="de">
+         <div type="transcription" xml:id="transcription_amp_0052" xml:lang="de" hand="#typed">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0171/" type="sheet" ed="1r"/>
             <div type="prose">
                <head>

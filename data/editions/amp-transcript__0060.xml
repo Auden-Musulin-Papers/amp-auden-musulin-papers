@@ -96,9 +96,9 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0254/"/>
         </surface>
     </facsimile>
-    <text type="letter" hand="#typed">
+    <text >
         <body>
-            <div type="transcription" xml:id="transcription_amp_0060" xml:lang="de">
+            <div type="transcription" xml:id="transcription_amp_0060" xml:lang="de" hand="#typed">
                <div type="letter"> 
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0253/" type="sheet" ed="1r"/>
                   <div>

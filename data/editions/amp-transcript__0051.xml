@@ -106,9 +106,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0170/"/>
       </surface>
    </facsimile>
-   <text type="prose" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0051" xml:lang="de">
+         <div type="transcription" xml:id="transcription_amp_0051" xml:lang="de" hand="#typed">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0165/" type="sheet" ed="1r"/>
             <div type="prose">
                <ab>

@@ -5,7 +5,7 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Copy Typescript Stella Musulin Translation W. H. Auden "Joseph Weinheber" 1965-04-28--1965-12-31</title>
             <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella Mary Bellairs</author>
-            <author ref="https://id.acdh.oeaw.ac.at/emusulin">Musulin, Elsa Gerda Maria Louise Pauline von</author>
+            <author ref="https://id.acdh.oeaw.ac.at/emusulin">Musulin, Elsa Gerda Maria Louise Pauline von</author> <!-- shouls we reconsider if she is author of this document? I mean, we dont have any additions/indications of her hand -->
             <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
@@ -95,9 +95,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0144/"/>
       </surface>
    </facsimile>
-   <text type="prose" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0047" xml:lang="de">
+         <div type="transcription" xml:id="transcription_amp_0047" xml:lang="de" hand="#typed">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0143/" type="sheet" ed="1r"/>
             <div type="prose">
                <head>
