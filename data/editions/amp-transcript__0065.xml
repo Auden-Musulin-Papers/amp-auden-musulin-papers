@@ -92,10 +92,11 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0448/"/>
         </surface>
     </facsimile>
-    <text type="photograph">
+    <text>
         <body>
-            <div xml:id="transcription">
+            <div type="transcription">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0448/" type="photograph"/>
+                <div type="photo"/>
             </div>
         </body>
     </text>

@@ -210,8 +210,10 @@ for any purpose, even commercially.</p>
                   </p>
                   <closer>
                      <space quantity="45" unit="char"/><salute>Yours ever,</salute>
-                     <signed hand="#handwritten">
-                        <rs type="person" ref="#amp_person_98">Ed</rs>
+                     <signed>
+                        <seg hand="#handwritten">
+                           <gap reason="illegible" unit="char" atLeast="1" atMost="3"/><rs type="person" ref="#amp_person_98">Ed</rs>
+                        </seg>
                      </signed>
                   </closer>
                </div>

@@ -4,7 +4,7 @@
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Copy Typescript Hilde Spiel Translation W. H. Auden Statement to Austrian Tax Authorities 1972-07-26--1972-08-25</title>
-            <author ref="https://d-nb.info/gnd/118751980">Spiel, Hilde</author><!-- shall we add Auden as we have in baserow? -->
+            <author ref="https://d-nb.info/gnd/118751980">Spiel, Hilde</author>
             <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
             <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
@@ -246,7 +246,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0176/" type="sheet" ed="3v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0177/" type="sheet" ed="4r"/>
                <p>
-                  <space quantity="5" unit="char"/>Sie fragen, weshalb ich <subst><del rend="overstrike">die</del><add place="above">me<unclear>i</unclear>ne </add></subst>Hälfte <rs type="place" ref="#amp_place_id_6"><subst><del rend="overstrike">meines</del><add place="above"><unclear>uns</unclear>ere<unclear>s</unclear> </add></subst>Besitzes</rs><lb/>
+                  <space quantity="5" unit="char"/>Sie fragen, weshalb ich <subst><del rend="overstrike">die</del><add place="above" hand="#handwritten">me<unclear>i</unclear>ne </add></subst>Hälfte <rs type="place" ref="#amp_place_id_6"><subst><del rend="overstrike">meines</del><add place="above" hand="#handwritten"><unclear>uns</unclear>ere<unclear>s</unclear> </add></subst>Besitzes</rs><lb/>
                   in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> an <rs type="person" ref="#amp_person_4">Mr Chester Kallmann</rs> überschrieben habe,<lb/>
                   der ja nicht mit mir verwandt ist. <rs type="person" ref="#amp_person_4">Mr Kallmann</rs> ist mein<lb/>
                   Erbe. Ich habe keine Kinder und er ist seit Jahren mein<lb/>

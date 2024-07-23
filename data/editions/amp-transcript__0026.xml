@@ -106,11 +106,9 @@ for any purpose, even commercially.</p>
                   St John's Wood<lb/>
                   London. N.W. <unclear>8</unclear></rs>
                </ab>
-               <ab><!-- if we assume that she wrote the note later -->
-                  <add place="margin" xml:lang="de">
-                     <rs type="place" ref="#amp_place_id_224">Johann-Strauß-Gasse 28 <unclear>.</unclear><lb/>
-                     1040 Wien .</rs>
-                  </add>   
+               <ab xml:lang="de">
+                  <rs type="place" ref="#amp_place_id_224">Johann-Strauß-Gasse 28 <unclear>.</unclear><lb/>
+                  1040 Wien .</rs>
                </ab>
             </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0250/" type="sheet" ed="1v"/>
