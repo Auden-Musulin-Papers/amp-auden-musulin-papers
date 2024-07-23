@@ -252,7 +252,7 @@ for any purpose, even commercially.</p>
          <div type="transcription" xml:id="transcription_amp_0028" xml:lang="en" hand="#typed">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0477/" type="sheet" ed="1r"/>
             <div>
-               <ab>
+               <ab hand="#printed">
                   <stamp>
                      <rs type="person" ref="#amp_person_2">STELLA MUSULIN</rs>
                      <lb/><rs type="place" ref="#amp_place_id_7">FRIDAU

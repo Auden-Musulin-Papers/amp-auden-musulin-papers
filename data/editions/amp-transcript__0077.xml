@@ -92,6 +92,7 @@
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="dgrigoriou tfruehwirth" when="2024-01-16">file created, metadata inserted</change>
          <change who="dgrigoriou tfruehwirth" when="2024-04-04">metadata updated, entities checked</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-07-23">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -99,10 +100,11 @@
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0453/"/>
       </surface>
    </facsimile>
-   <text type="photograph">
+   <text>
       <body>
          <div type="transcription" xml:id="transcription_amp_0077">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0453/" type="photograph"/>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0453/" type="photograph" ed="1r"/>
+            <div type="photo"/>
          </div>
       </body>
    </text>

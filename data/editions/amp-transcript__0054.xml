@@ -19,7 +19,7 @@
             </funder>
          </titleStmt>
          <editionStmt>
-            <edition>AMP</edition>
+            <edition><title>Photographs [Stella Musulin] of W. H. Auden, Chester Kallman, and Elsa Musulin 1960-07-21--1960-11-02</title></edition>
             <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
          <respStmt><resp>TEI Schema, ODD/RNG</resp><name ref="https://orcid.org/0000-0002-9575-9372" xml:id="pandorfer">Andorfer, Peter</name><name ref="https://orcid.org/0000-0002-0636-4476" xml:id="delsner">Elsner, Daniel</name></respStmt></editionStmt>
          <publicationStmt>
@@ -130,6 +130,7 @@ for any purpose, even commercially.</p>
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer tfruehwirth" when="2022-01-07">texts transcribed and captions created</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated, caption removed, renamed, date added</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-07-23">container structure updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -140,23 +141,25 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/"/>
       </surface>
    </facsimile>
-   <text type="photograph">
+   <text>
       <body>
-         <div xml:id="transcription">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/" type="photograph"/>
-               <p>
-                  Baroque Pietà ,<rs type="place" ref="#amp_place_id_254">Loreto</rs>.<lb/>
-               </p>
-               <p>
+         <div type="transcription" xml:id="transcription_amp_0054" hand="#handwritten" xml:lang="de">
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/" type="photograph" ed="1r"/>
+            <div type="photo">
+               <ab>
+                  <foreign xml:lang="en">Baroque</foreign> Pietà ,<rs type="place" ref="#amp_place_id_254">Loreto</rs>.<lb/>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_1">Wystan Auden</rs>
-               </p>
-               <p>
+               </ab>
+               <ab>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear>A.</rs> <rs type="person" ref="#amp_person_162">Mama</rs>, <rs type="person" ref="#amp_person_4">Chester Kalmann</rs>.
-               </p>
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/" type="photograph"/>
-               <p>
+               </ab>
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0239/" type="photograph" ed="1v"/>
+               <ab>
                   Allerheiligen 1960 .
-               </p>
+               </ab>
+            </div>
          </div>
       </body>
    </text>
