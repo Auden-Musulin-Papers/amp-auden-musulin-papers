@@ -253,9 +253,11 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0477/" type="sheet" ed="1r"/>
             <div>
                <ab>
-                  <rs type="person" ref="#amp_person_2">STELLA MUSULIN</rs>
-                  <lb/><rs type="place" ref="#amp_place_id_7">FRIDAU
-                  <lb/>A<unclear>-</unclear>3200 OB<unclear>E</unclear>RGRA<unclear>FE</unclear>N<unclear>D</unclear>OR<unclear>F</unclear></rs>
+                  <stamp>
+                     <rs type="person" ref="#amp_person_2">STELLA MUSULIN</rs>
+                     <lb/><rs type="place" ref="#amp_place_id_7">FRIDAU
+                     <lb/>A<unclear>-</unclear>3200 OB<unclear>E</unclear>RGRA<unclear>FE</unclear>N<unclear>D</unclear>OR<unclear>F</unclear></rs>
+                  </stamp>
                </ab>
             </div>
             <div type="prose">
@@ -312,7 +314,7 @@ for any purpose, even commercially.</p>
             </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0478/" type="sheet" ed="1v"/>
                <div>
-                  <ab xml:lang="de">
+                  <ab xml:lang="de" hand="#printed">
                      <rs type="place" ref="#amp_place_id_11">NEULINGGASSE 26/14
                      <lb/>1030 WIEN</rs>
                      <lb/>TEL. 73 94 015
@@ -431,7 +433,7 @@ for any purpose, even commercially.</p>
             </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0482/" type="sheet" ed="3v"/>
                <div>
-                  <ab xml:lang="de">
+                  <ab xml:lang="de" hand="#printed">
                      <rs type="place" ref="#amp_place_id_11">NEULINGGASSE 26/14
                      <lb/>1030 WIEN</rs>
                      <lb/>TEL. 73 94 015
@@ -490,7 +492,7 @@ for any purpose, even commercially.</p>
             </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0484/" type="sheet" ed="4v"/>
                <div>
-                  <ab xml:lang="de">
+                  <ab xml:lang="de" hand="#printed">
                      <rs type="place" ref="#amp_place_id_11">NEULINGGASSE 26/14
                      <lb/>1030 WIEN</rs>
                      <lb/>TEL. 73 94 015
@@ -507,7 +509,7 @@ for any purpose, even commercially.</p>
                <p>
                   <space quantity="4" unit="char"/>On his own ground, operatic libretti, <rs type="person" ref="#amp_person_4">Chester Kallman</rs> was<lb/>
                   still in good running order, and <rs type="event" ref="#amp_event_id_113">when the <rs type="lit_work" ref="#lit_work_id_3">Rake´s Progress</rs> was put<lb/>
-                     on</rs> in <rs type="place" ref="#amp_place_id_1">Vienna</rs> he wrote a <rs type="lit_work" ref="#lit_work_id_207">letter</rs> to <subst><del rend="edited"><rs type="org" ref="#amp_organization_39">Die Presse</rs></del><add place="superimposed"><hi rend="underline" hand="#handwritten"><rs type="org" ref="#amp_organization_39">Die Presse</rs></hi></add></subst> protesting sharply<lb/>
+                  on</rs> in <rs type="place" ref="#amp_place_id_1">Vienna</rs> he wrote a <rs type="lit_work" ref="#lit_work_id_207">letter</rs> to <subst><del rend="edited"><rs type="org" ref="#amp_organization_39">Die Presse</rs></del><add place="superimposed"><hi rend="underline" hand="#handwritten"><rs type="org" ref="#amp_organization_39">Die Presse</rs></hi></add></subst> protesting sharply<lb/>
                   <subst><del rend="whiteout"><subst><del rend="overtyped">over</del><add place="left">AGAINST </add></subst></del><add place="superimposed"> against</add></subst> the cuts <del rend="overtyped">which had been</del> made by the <rs type="person" ref="#amp_person_250">producer</rs>. <space quantity="1" unit="char"/>But of that<lb/>
                   conversational brilliance which old friends have described there<lb/>
                   was little sign. <space quantity="1" unit="char"/>A scene comes to mind: <rs type="person" ref="#amp_person_1">Auden</rs> was away, and <rs type="person" ref="#amp_person_4">Chester</rs><lb/>
@@ -551,7 +553,7 @@ for any purpose, even commercially.</p>
             </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0486/" type="sheet" ed="5v"/>
                <div>
-                  <ab xml:lang="de">
+                  <ab xml:lang="de" hand="#printed">
                      <rs type="place" ref="#amp_place_id_11">NEULINGGASSE 26/14
                      <lb/>1030 WIEN</rs>
                      <lb/>TEL. 73 94 015
@@ -579,7 +581,7 @@ for any purpose, even commercially.</p>
             </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0488/" type="sheet" ed="5av"/>
                <div>
-                  <ab xml:lang="de">
+                  <ab xml:lang="de" hand="#printed">
                      <del rend="overstrike"><rs type="place" ref="#amp_place_id_11">NEULINGGASSE 26/14
                      <lb/>1030 WIEN</rs>
                      <lb/>TEL. 73 94 015</del>
@@ -720,7 +722,7 @@ for any purpose, even commercially.</p>
                   to the enormous fat content of some of the dishes. <space quantity="1" unit="char"/>I remember<lb/>
                   my horror as I watched a sauce being prepared in the mixer before<lb/>
                   it was re-heated to accompany the roast duck. <space quantity="1" unit="char"/>It consisted of<lb/>
-                  equal parts of rendered down duck <subst><del rend="whiteout">v</del><add place="superimposed">f</add></subst>at<unclear><add place="inline" hand="#handwritten">,</add></unclear> and cream, and would have<lb/><!-- to discuss if it is handwritten -->
+                  equal parts of rendered down duck <subst><del rend="whiteout">v</del><add place="superimposed">f</add></subst>at<unclear><add place="inline" hand="#handwritten">,</add></unclear> and cream, and would have<lb/>
                   sustained a miner at the <del rend="overtyped">cola</del> coal face for an indefinite period<lb/>
                   of time. <space quantity="1" unit="char"/>If they could possibly help<subst><del rend="overstrike">i</del><add place="inline"><space quantity="1" unit="char"/></add></subst>it, of course, neither<lb/>
                   <rs type="person" ref="#amp_person_1">Wystan</rs> nor <rs type="person" ref="#amp_person_4">Chester</rs> ever walked a yard.
@@ -1037,7 +1039,7 @@ for any purpose, even commercially.</p>
                   As it turned out, <rs type="person" ref="#amp_person_4">Chester</rs> got no marks in local opinion for this<lb/>
                   finale either, as the meal consisted of <subst><del rend="edited"><foreign xml:lang="de">Leberkäs</foreign></del><add place="superimposed"><hi rend="underline" hand="#handwritten"><foreign xml:lang="de">Leberkäs</foreign></hi></add></subst> with vegetables:<lb/>
                   <subst><del rend="overlaid">fried slices of<subst><del rend="overstrike">f</del><add place="superimposed"><space quantity="1" unit="char"/></add></subst>a loaf of a flabby substance<add place="below"> which is neither liver nor cheese.</add> related to the<lb/>
-                  Frankfurter sausage<add place="inline" hand="#handwritten">.</add> <space quantity="1" unit="char"/>It is a</del><!-- handwriting -->
+                  Frankfurter sausage<add place="inline" hand="#handwritten">.</add> <space quantity="1" unit="char"/>It is a</del>
                   <add place="superimposed"><lb/>this consisted of fried slices off a loaf made of a flabby substance<lb/>
                   which is neither liver nor cheese<add place="inline" hand="#handwritten">,</add> <del rend="overstrike">but</del> vaguely related to the<lb/>
                   Frankfurter sausage. <space quantity="1" unit="char"/>It is a<lb/></add></subst>
@@ -1251,7 +1253,7 @@ for any purpose, even commercially.</p>
                   white garden chairs with the red covers, "it´s a bit <hi rend="underline"><foreign xml:lang="de">einsam</foreign></hi> here.<lb/>
                   And I wanted to write and tell you that the technical word for<lb/>
                   <hi rend="underline">buddle</hi> is <hi rend="underline"><foreign xml:lang="de">Erzwaschtrog</foreign></hi>. <space quantity="1" unit="char"/>I hope there is an equivalent German<lb/>
-                  euphemism for `senior citizen´. <space quantity="1" unit="char"/>Oh and <hi rend="underline">adit</hi> is <hi rend="underline"><foreign xml:lang="de"><subst><del rend="overwritten" hand="#handwritten">s</del><add place="superimposed">S</add></subst>tollen</foreign>,</hi> and although<lb/>
+                  euphemism for `senior citizen´. <space quantity="1" unit="char"/>Oh and <hi rend="underline">adit</hi> is <hi rend="underline"><foreign xml:lang="de"><subst><del rend="overwritten">s</del><add place="superimposed" hand="#handwritten">S</add></subst>tollen</foreign>,</hi> and although<lb/>
                   I may be wrong, I guess <hi rend="underline">concentrating mill</hi> is <hi rend="underline"><foreign xml:lang="de">Vereinigungsmühle</foreign>.</hi>"
                </p>
                <p>
