@@ -14,7 +14,7 @@
         </xsl:copy>
     </xsl:template>
     
-    <!--<xsl:template match="tei:editionStmt">
+    <xsl:template match="tei:editionStmt">
         <xsl:copy>
             <xsl:apply-templates select="node()|@*"/>
             <respStmt xmlns="http://www.tei-c.org/ns/1.0">
@@ -25,21 +25,21 @@
                     xml:id="delsner">Elsner, Daniel</name>
             </respStmt>
         </xsl:copy>
-    </xsl:template>-->  
+    </xsl:template>  
     
-    <!--<xsl:template match="tei:titleStmt/tei:editor">
+    <xsl:template match="tei:titleStmt/tei:editor">
         <xsl:copy>
             <name xmlns="http://www.tei-c.org/ns/1.0" xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name>
             <name xmlns="http://www.tei-c.org/ns/1.0" xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name>
             <name xmlns="http://www.tei-c.org/ns/1.0" xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name>
         </xsl:copy>
-    </xsl:template>-->
+    </xsl:template>
     
     <xsl:template match="tei:titleStmt/tei:editor/tei:name[@xml:id='tfruewirth']">
         <name xmlns="http://www.tei-c.org/ns/1.0" xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name>
     </xsl:template>
     
-    <!--<xsl:template match="tei:editionStmt/tei:respStmt">
+    <xsl:template match="tei:editionStmt/tei:respStmt">
         <xsl:copy>
             <xsl:choose>
                 <xsl:when test="./tei:resp/text() = 'Transcription and commentary'">
@@ -54,9 +54,9 @@
                 </xsl:when>
             </xsl:choose>
         </xsl:copy>
-    </xsl:template>-->
+    </xsl:template>
     
-    <!--<xsl:template match="tei:titleStmt/tei:author">
+    <xsl:template match="tei:titleStmt/tei:author">
         <xsl:choose>
             <xsl:when test="contains(./text(),'Auden')">
                 <author xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/118650963"><xsl:value-of select="./text()"/></author>
@@ -91,12 +91,12 @@
             <xsl:when test="contains(./text(), 'Mendelson')">
                 <author xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/14000761X"><xsl:value-of select="./text()"/></author>
             </xsl:when>
-            <xsl:when test="contains(./text(), 'Elizabeth')"><!-\- added; already in arche Baserow -\->
+            <xsl:when test="contains(./text(), 'Elizabeth')"><!-- added; already in arche Baserow -->
                 <author xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/117542784"><xsl:value-of select="./text()"/></author>
             </xsl:when>
-            <xsl:when test="contains(./text(), 'Busta')"><!-\- added; added also to arche Baserow -\->
+            <xsl:when test="contains(./text(), 'Busta')"><!-- added; added also to arche Baserow -->
                 <author xmlns="http://www.tei-c.org/ns/1.0" ref="https://d-nb.info/gnd/119022354"><xsl:value-of select="./text()"/></author>
             </xsl:when>
         </xsl:choose>
-    </xsl:template>-->
+    </xsl:template>
 </xsl:stylesheet>
