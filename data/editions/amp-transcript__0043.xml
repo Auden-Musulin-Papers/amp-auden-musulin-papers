@@ -119,7 +119,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2022-01-25">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2022-01-26">text transcribed</change>
          <change who="tfruehwirth" when="2022-01-26">text transcribed using Transkribus</change>
@@ -564,7 +564,7 @@ for any purpose, even commercially.</p>
                   <p>
                      <space quantity="7" unit="char"/>At this p<subst><del rend="overtyped">in</del><add place="superimposed">oi</add></subst>nt,a little digression on the subject of 'free' verse,which<lb/>
                      <space quantity="2" unit="char"/>seems now to be almost universal among young poets. Though excellent<lb/>
-                     <space quantity="1" unit="char"/>examples,the poems of <rs type="person" ref="#amp_person_31">D.H.Lawrence</rs>,for example,exist,i<del rend="overstrike">n my opinion </del>they are<add place="inline">,<unclear>in</unclear> my opinio<unclear>n</unclear></add><lb/>
+                     <space quantity="1" unit="char"/>examples,the poems of <rs type="person" ref="#amp_person_31">D.H.Lawrence</rs>,for example,exist,i<del rend="overstrike">n my opinion </del>they are<add place="inline" hand="#handwritten">,<unclear>in</unclear> my opinio<unclear>n</unclear></add><lb/>
                      the exception,not the rule. The great virtue of formal metrical rules is<lb/>
                      that they forbid automatic <del rend="overtyped">reposnse</del> resp<subst><del rend="overtyped">i</del><add place="superimposed">o</add></subst>nses and,by forcing the <del rend="overtyped">piet</del> poet<lb/>
                      to have second thoughts,free <subst><del rend="overwritten">f</del><add place="superimposed" hand="#handwritten">h</add></subst>im f<subst><del rend="overwritten">or</del><add place="superimposed" hand="#handwritten">ro</add></subst>m the fetters of self. All too often,the<lb/>

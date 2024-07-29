@@ -124,7 +124,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2021-12-20">text transcribed</change>
          <change who="tfruehwirth" when="2021-12-20">text transcribed using Transkribus</change>
@@ -364,11 +364,11 @@ for any purpose, even commercially.</p>
                </div>
                <div type="letter_message">
                   <opener>
-                     <space quantity="9" unit="char"/><salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
+                     <salute><space quantity="9" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
                      <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> is intending to have a <rs type="event" ref="#amp_event_id_49">cer<subst><del rend="overtyped">o</del><add place="superimposed">e</add></subst>mony in memory of the twentieth<lb/>
-                        <space quantity="1" unit="char"/>anniversary of <rs type="person" ref="#amp_person_5">Weinheber</rs>'<subst><del rend="overtyped">w</del><add place="superimposed">s</add></subst> <space quantity="1" unit="char"/>death</rs>. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
+                     <space quantity="1" unit="char"/>anniversary of <rs type="person" ref="#amp_person_5">Weinheber</rs>'<subst><del rend="overtyped">w</del><add place="superimposed">s</add></subst> <space quantity="1" unit="char"/>death</rs>. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
                      <space quantity="1" unit="char"/><hi rend="underline"><rs type="note" ana="#ana_008"><foreign xml:lang="de">Gemeindepflicht</foreign></rs>.</hi>
                   </p>
                   <closer>

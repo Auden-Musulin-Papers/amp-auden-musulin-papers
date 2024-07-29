@@ -105,7 +105,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2022-01-05">text transcribed</change>
          <change who="tfruehwirth" when="2022-01-05">text transcribed</change>
@@ -126,14 +126,18 @@ for any purpose, even commercially.</p>
    <text>
       <body>
          <div type="transcription" xml:id="transcription_amp_0035" xml:lang="de" hand="#typed">
+            <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0233/" type="sheet" ed="1r"/>
-               <p>
+               <div type="letter_message">
+               <ab>
                   <rs type="person" ref="#amp_person_2">MUSULIN</rs> <rs type="place" ref="#amp_place_id_11">NEULINGGASSE <space quantity="1" unit="char"/>26/14 <space quantity="1" unit="char"/>1030/WIEN</rs>
-               </p>
-               <p>
+               </ab>
+               <ab>
                   = <space quantity="1" unit="char"/><rs type="event" ref="#amp_event_id_100" ana="acdh:amp-transcript__0058.xml#ana_003">KOMMEN SAMSTAG</rs> = <space quantity="1" unit="char"/><foreign xml:lang="en">LOVE</foreign> <space quantity="1" unit="char"/><rs type="person" ref="#amp_person_1">WYSTAN</rs>
-               </p>
+               </ab>
+               </div>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0234/" type="sheet" ed="1v"/>
+            </div>
          </div>
       </body>
    </text>
