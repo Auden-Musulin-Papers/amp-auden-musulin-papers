@@ -95,7 +95,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="tfruehwirth" when="2021-10-22">text transcribed</change>
          <change who="smayer" when="2021-10-22">text transcribed</change>
