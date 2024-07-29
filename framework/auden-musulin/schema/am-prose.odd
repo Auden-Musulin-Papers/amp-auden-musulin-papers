@@ -379,15 +379,7 @@
             </attList>
           </elementSpec>
           
-          <elementSpec ident="text" module="textstructure" mode="change">
-            <attList>
-              <attDef ident="type" mode="change" usage="req">
-                <valList type="closed" mode="replace">
-                  <valItem ident="prose"/>
-                </valList>
-              </attDef>
-            </attList>
-          </elementSpec>
+          <elementSpec ident="text" module="textstructure" mode="change"/>
           
           <elementSpec ident="body" module="textstructure" mode="change">
             <content>
