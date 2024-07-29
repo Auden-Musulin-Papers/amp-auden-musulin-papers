@@ -120,7 +120,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2021-10-06">text transcribed</change>
          <change who="tfruehwirth" when="2021-10-06">text transcribed</change>
@@ -146,9 +146,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0058/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#handwritten">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0012" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0012" xml:lang="en" hand="#handwritten">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0055/" type="envelope" ed="1r"/>
                <ab hand="#typed">
@@ -167,13 +167,13 @@ for any purpose, even commercially.</p>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">Wien <subst><del rend="overwritten">IV</del><add place="superimposed">III</add></subst><lb/>
+                     <rs type="place" ref="#amp_place_id_11">Wien <subst><del rend="overwritten">IV</del><add place="superimposed" hand="#handwritten">III</add></subst><lb/>
                      Neulinggasse 26/I4<lb/>
                      <foreign xml:lang="en">Austria</foreign></rs>
                   </address>
                </ab>
                <ab>
-                  <add place="margin" hand="#handwritten">
+                  <add place="margin">
                      <gap reason="illegible" unit="char" atLeast="4" atMost="5"/> <unclear>-</unclear><rs type="person" ref="#amp_person_23">B<unclear>ora</unclear>s</rs>
                   </add>
                </ab>
