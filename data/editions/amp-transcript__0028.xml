@@ -251,6 +251,9 @@ for any purpose, even commercially.</p>
       <body>
          <div type="transcription" xml:id="transcription_amp_0028" xml:lang="en" hand="#typed">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0477/" type="sheet" ed="1r"/>
+            <div type="prose">
+               <ab/>
+            </div>
             <div>
                <ab hand="#printed">
                   <stamp>
