@@ -123,7 +123,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2021-12-06">text transcribed</change>
          <change who="tfruehwirth" when="2021-12-06">text transcribed using Transkribus</change>
@@ -212,7 +212,7 @@ for any purpose, even commercially.</p>
                      <space quantity="45" unit="char"/><salute>Yours ever,</salute>
                      <signed>
                         <seg hand="#handwritten">
-                           <gap reason="illegible" unit="char" atLeast="1" atMost="3"/><rs type="person" ref="#amp_person_98">Ed</rs>
+                           <gap reason="illegible" unit="char" atLeast="1" atMost="3"/> <rs type="person" ref="#amp_person_98">Ed</rs>
                         </seg>
                      </signed>
                   </closer>

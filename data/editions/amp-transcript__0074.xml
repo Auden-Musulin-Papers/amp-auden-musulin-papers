@@ -106,7 +106,7 @@
                 </setting>
             </settingDesc>
         </profileDesc>
-        <revisionDesc status="draft">
+        <revisionDesc status="published">
             <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
             <change who="dgrigoriou tfruehwirth" when="2023-05-22">file created, metadata inserted</change>
             <change who="dgrigoriou smayer tfruehwirth" when="2024-07-23">container structure updated</change>
@@ -120,8 +120,8 @@
     <text>
         <body>
             <div type="transcription" xml:id="transcription_amp_0074" hand="#handwritten" xml:lang="en">
-                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0457/" type="photograph" ed="1r"/>
                 <div type="photo">
+                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0457/" type="photograph" ed="1r"/>
                     <ab>
                         <rs type="person" ref="#amp_person_96">Tekl<unclear>a</unclear> Clark</rs> <rs type="person" ref="#amp_person_135">Frau Bronold</rs>, <rs type="person" ref="#amp_person_54">Fritz Heer</rs><lb/>
                         +<rs type="person" ref="#amp_person_169">dau</rs> . <rs type="person" ref="#amp_person_137">W. Kraus</rs>

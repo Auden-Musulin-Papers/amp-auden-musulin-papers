@@ -47,7 +47,7 @@
                         <msDesc>
                             <msIdentifier>
                                 <country>A</country>
-                                <settlement>Vienna</settlement><!-- add repository? -->
+                                <settlement>Vienna</settlement>
                                 <collection>Musulin private collection</collection>
                             </msIdentifier>
                             <history>
@@ -79,7 +79,7 @@
                 </setting>
             </settingDesc>
         </profileDesc>
-        <revisionDesc status="draft">
+        <revisionDesc status="published">
             <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
             <change who="dgrigoriou tfruehwirth" when="2023-05-22">file created, metadata inserted</change>
             <change who="dgrigoriou smayer tfruehwirth" when="2024-07-23">container structure updated</change>
@@ -93,8 +93,9 @@
     <text>
         <body>
             <div type="transcription" xml:id="transcription_amp_0075">
+                <div type="photo">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0458/" type="photograph" ed="1r"/>
-                <div type="photo"/>
+                </div>
             </div>
         </body>
     </text>

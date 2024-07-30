@@ -100,7 +100,7 @@
                 </setting>
             </settingDesc>
         </profileDesc>
-        <revisionDesc status="draft">
+        <revisionDesc status="published">
             <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
             <change who="dgrigoriou tfruehwirth" when="2023-05-22">file created, metadata inserted</change>
             <change who="dgrigoriou smayer tfruehwirth" when="2024-07-23">container structure updated</change>
@@ -114,8 +114,8 @@
     <text>
         <body>
             <div type="transcription" xml:id="transcription_amp_0073" hand="#handwritten" xml:lang="en">
-                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0456/" type="photograph" ed="1r"/>
                 <div type="photo">
+                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0456/" type="photograph" ed="1r"/>
                     <ab>
                         <rs type="person" ref="#amp_person_4">Chester</rs> <rs type="person" ref="#amp_person_88">John A .</rs> <rs type="person" ref="#amp_person_120">Charles Monteith</rs><lb/>
                         <rs type="event" ref="#amp_event_id_19">Funeral Auden</rs> . <rs type="person" ref="#amp_person_8">Stephen Spender</rs> 

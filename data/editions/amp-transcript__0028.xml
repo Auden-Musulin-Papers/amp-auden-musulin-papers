@@ -120,7 +120,7 @@ for any purpose, even commercially.</p>
             <language ident="de">German</language>
          </langUsage>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2022-01-12">text transcribed</change>
          <change who="tfruehwirth" when="2022-01-13">text transcribed using Transkribus</change>
@@ -252,7 +252,7 @@ for any purpose, even commercially.</p>
          <div type="transcription" xml:id="transcription_amp_0028" xml:lang="en" hand="#typed">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0477/" type="sheet" ed="1r"/>
             <div type="prose">
-               <ab/>
+               <p/>
             </div>
             <div>
                <ab hand="#printed">

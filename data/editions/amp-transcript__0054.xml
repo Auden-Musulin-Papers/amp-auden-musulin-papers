@@ -126,7 +126,7 @@ for any purpose, even commercially.</p>
             </setting>
          </settingDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer tfruehwirth" when="2022-01-07">texts transcribed and captions created</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated, caption removed, renamed, date added</change>
@@ -144,8 +144,8 @@ for any purpose, even commercially.</p>
    <text>
       <body>
          <div type="transcription" xml:id="transcription_amp_0054" hand="#handwritten" xml:lang="de">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/" type="photograph" ed="1r"/>
             <div type="photo">
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0240/" type="photograph" ed="1r"/>
                <ab>
                   <foreign xml:lang="en">Baroque</foreign> Pietà ,<rs type="place" ref="#amp_place_id_254">Loreto</rs>.<lb/>
                </ab>

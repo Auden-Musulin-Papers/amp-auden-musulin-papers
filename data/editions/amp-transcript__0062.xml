@@ -269,7 +269,7 @@ for any purpose, even commercially.</p>
             <language ident="de">German</language>
          </langUsage>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2022-08-30">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2022-03-30">text transcribed</change>
          <change who="tfruehwirth" when="2022-07-13">text transcribed</change>
@@ -1851,7 +1851,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0398/" type="sheet" ed="22v"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0399/" type="sheet" ed="23r"/>
                <fw type="pageNum">
-                  <space quantity="26" unit="char"/><subst><del rend="overwritten" hand="#handwritten">19.</del><add place="above">23</add></subst>
+                  <space quantity="26" unit="char"/><subst><del rend="overwritten">19.</del><add place="above" hand="#handwritten">23</add></subst>
                </fw>
                <p>
                   his right arm and shoulder in plaster. <space quantity="2" unit="char"/>He was a little<lb/>

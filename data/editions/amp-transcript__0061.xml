@@ -89,7 +89,7 @@
                 </correspContext>
             </correspDesc>
         </profileDesc>
-        <revisionDesc status="draft">
+        <revisionDesc status="published">
             <change who="pandorfer" when="2022-01-25">template populated with script "create_templates.py"</change>
             <change who="smayer" when="2022-01-27">text transcribed</change>
             <change who="tfruehwirth" when="2022-01-28">text transcribed</change>
