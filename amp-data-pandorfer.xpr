@@ -1457,11 +1457,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../amp-app/data/indices/amp-index-works.xml</String>
+                                    <String>data/editions/amp-transcript__0001.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>amp-index</String>
+                                        <String>schema - correspondence</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -1477,27 +1477,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../amp-app/data/indices/amp-index-places.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>amp-index</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>Validation_scenario</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>../amp-app/data/indices/amp-index-persons.xml</String>
+                                    <String>../amp-app/data/indices/amp-index-events.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -1537,7 +1517,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../amp-app/data/indices/amp-index-events.xml</String>
+                                    <String>../amp-app/data/indices/amp-index-works.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -1557,11 +1537,31 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/editions/amp-transcript__0001.xml</String>
+                                    <String>../amp-app/data/indices/amp-index-persons.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>schema - correspondence</String>
+                                        <String>amp-index</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>Validation_scenario</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../amp-app/data/indices/amp-index-places.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>amp-index</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
