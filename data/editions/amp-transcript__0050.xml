@@ -90,7 +90,7 @@ for any purpose, even commercially.</p>
             </setting>
          </settingDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer tfruehwirth" when="2022-01-07">text transcribed and caption created</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-03-01">entities collated, caption removed, renamed, date added</change>
@@ -108,8 +108,8 @@ for any purpose, even commercially.</p>
    <text>
       <body>
          <div type="transcription" xml:id="transcription_amp_0050" hand="#handwritten" xml:lang="de">
-            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0247/" type="photograph" ed="1r"/>
             <div type="photo">
+            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0247/" type="photograph" ed="1r"/>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0248/" type="photograph" ed="1v"/>
                <ab hand="#handwritten">
                   <unclear>Wien</unclear>, IV.67

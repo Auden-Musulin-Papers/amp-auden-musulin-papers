@@ -81,7 +81,7 @@
                 </setting>
             </settingDesc>
         </profileDesc>
-        <revisionDesc status="draft">
+        <revisionDesc status="published">
             <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
             <change who="dgrigoriou tfruehwirth" when="2023-05-22">file created, metadata inserted</change>
             <change who="dgrigoriou smayer tfruehwirth" when="2024-07-23">container structure updated</change>
@@ -94,14 +94,14 @@
     </facsimile>
     <text>
         <body>
-            <div type="transcription" xml:id="transcription_amp_0072" hand="#handwritten">
-                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0455/" type="photograph" ed="1r"/>
-                <div type="photo">
+           <div type="transcription" xml:id="transcription_amp_0072" hand="#handwritten">
+              <div type="photo">
+                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0455/" type="photograph" ed="1r"/>
                     <ab>
-                        <rs type="person" ref="#amp_person_226">Colloredo</rs>, <rs type="person" ref="#amp_person_4">Chester</rs><unclear>,</unclear> <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear>A</rs> .
+                       <rs type="person" ref="#amp_person_226">Colloredo</rs>, <rs type="person" ref="#amp_person_4">Chester</rs><unclear>,</unclear> <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H<unclear>.</unclear>A</rs> .
                     </ab>
-                </div>
-            </div>
+              </div>
+           </div>
         </body>
     </text>
 </TEI>
