@@ -55,15 +55,15 @@
         <head>TEI-Modifikation for AMP-DATA Correspondence</head>
         
         <schemaSpec ident="amp" start="TEI" xml:lang="en" prefix="tei_">
-          <moduleRef key="header" include="seriesStmt listPrefixDef prefixDef creation langUsage language teiHeader fileDesc titleStmt editionStmt extent publicationStmt sourceDesc profileDesc encodingDesc revisionDesc change notesStmt edition funder availability licence idno"/>
-          <moduleRef key="core" include="label desc author editor title p respStmt resp noteGrp note biblStruct listBibl bibl series date pubPlace publisher ref address street postCode name"/>
-          <moduleRef key="msdescription" include="stamp institution msDesc msIdentifier repository collection history origin origDate origPlace"/>
-          <moduleRef key="namesdates" include="country settlement listEvent event eventName listOrg org listPerson person birth death listPlace place forename surname geo location orgName persName placeName"/>
-          <moduleRef key="tei"/>
-          <moduleRef key="textstructure" include="TEI text body div"/>
-          <moduleRef key="dictionaries" include="lang"/>
-          
+          <moduleRef source="tei:4.8.0" key="header" include="seriesStmt listPrefixDef prefixDef creation langUsage language teiHeader fileDesc titleStmt editionStmt extent publicationStmt sourceDesc profileDesc encodingDesc revisionDesc change notesStmt edition funder availability licence idno"/>
+          <moduleRef source="tei:4.8.0" key="core" include="label desc author editor title p respStmt resp noteGrp note biblStruct listBibl bibl series date pubPlace publisher ref address street postCode name"/>
+          <moduleRef source="tei:4.8.0" key="msdescription" include="stamp institution msDesc msIdentifier repository collection history origin origDate origPlace"/>
+          <moduleRef source="tei:4.8.0" key="namesdates" include="country settlement listEvent event eventName listOrg org listPerson person birth death listPlace place forename surname geo location orgName persName placeName"/>
+          <moduleRef source="tei:4.8.0" key="tei"/>
+          <moduleRef source="tei:4.8.0" key="textstructure" include="TEI text body div"/>
+          <moduleRef source="tei:4.8.0" key="dictionaries" include="lang"/>         
         </schemaSpec>
+        
       </div>
         
     </body>
