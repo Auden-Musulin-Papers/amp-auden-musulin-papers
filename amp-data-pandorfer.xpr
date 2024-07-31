@@ -1457,26 +1457,6 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>data/editions/amp-transcript__0001.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>schema - correspondence</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>Validation_scenario</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>../amp-app/data/indices/amp-index-events.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -1537,7 +1517,27 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../amp-app/data/indices/amp-index-persons.xml</String>
+                                    <String>data/editions/amp-transcript__0001.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>schema - correspondence</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>Validation_scenario</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../amp-app/data/indices/amp-index-places.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -1557,7 +1557,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../amp-app/data/indices/amp-index-places.xml</String>
+                                    <String>../amp-app/data/indices/amp-index-persons.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -2662,7 +2662,7 @@
                                                         <Integer>6</Integer>
                                                     </field>
                                                     <field name="uri">
-                                                        <String>${pdu}/framework/auden-musulin/schema/out/am-index.rng</String>
+                                                        <String>${pdu}/framework/auden-musulin/schema/out/schema-indexes.rng</String>
                                                     </field>
                                                 </validationUnitSchema>
                                             </field>
@@ -2718,7 +2718,7 @@
                                                         <Integer>6</Integer>
                                                     </field>
                                                     <field name="uri">
-                                                        <String>${pdu}/framework/auden-musulin/schema/out/am-corresp.rng</String>
+                                                        <String>${pdu}/framework/auden-musulin/schema/out/schema.rng</String>
                                                     </field>
                                                 </validationUnitSchema>
                                             </field>
@@ -2774,7 +2774,7 @@
                                                         <Integer>6</Integer>
                                                     </field>
                                                     <field name="uri">
-                                                        <String>${pdu}/framework/auden-musulin/schema/out/am-prose.rng</String>
+                                                        <String>${pdu}/framework/auden-musulin/schema/out/schema-prose.rng</String>
                                                     </field>
                                                 </validationUnitSchema>
                                             </field>

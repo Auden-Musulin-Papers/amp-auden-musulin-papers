@@ -15,19 +15,19 @@
       <publicationStmt>
         <publisher>
           <name>Austrian Centre for Digital Humanities and Cultural Heritage,
-            Österreichische Akademie der Wissenschaften</name>
+            Austrian Academy of Sciences</name>
           <ref target="https://acdh.oeaw.ac.at">https://acdh.oeaw.ac.at</ref>
         </publisher>
-        <pubPlace>Wien, Österreich</pubPlace>
-        <date>2022</date>
+        <pubPlace>Vienna, Austria</pubPlace>
+        <date when="2024">2024</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
             Creative Commons Namensnennung 4.0 International Lizenz
           </licence>
         </availability>
         <ref type="URL"
-          target="https://github.com/Auden-Musulin-Papers/amp-data/framework/auden-musulin/schema/am.odd"
-          >https://github.com/Auden-Musulin-Papers/amp-data/framework/auden-musulin/schema/am.odd</ref>
+          target="https://github.com/Auden-Musulin-Papers/amp-data/framework/auden-musulin/schema/am-prose.odd"
+          >https://github.com/Auden-Musulin-Papers/amp-data/framework/auden-musulin/schema/am-prose.odd</ref>
       </publicationStmt>
       <sourceDesc>
         <p>Born digital.</p>
