@@ -55,7 +55,7 @@ Facets for full-text search are now available through dropdown menus.
 ### 2.6 Feature Updates Summary
 
 * event organizations linked #244
-* place detail pages show a small leaflet map
+* place detail pages show a small leaflet map #245
 * persons linked with PMB URIs #181
 * underlines and spaces displayed by default #216
 * analytics page with new network graph and updated correspondence data finalized #222 #238
