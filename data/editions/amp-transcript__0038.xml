@@ -5,7 +5,8 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Typed Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" 1965-03-15</title>
             <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
-            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+            <author ref="https://id.acdh.oeaw.ac.at/emusulin">Musulin, Elsa Gerda Maria Louise Pauline von</author>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
                <address>
@@ -41,7 +42,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
+            <date when="2024">2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -80,6 +81,11 @@ for any purpose, even commercially.</p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
+         <charDecl>
+            <glyph xml:id="uml_a_lc_tt">
+               <desc>lower-case German ä rendered by superimposing typed double-quotation-mark character (") on typed lower-case a</desc>
+            </glyph>
+         </charDecl>
          <listPrefixDef>
             <prefixDef ident="acdh" matchPattern="(.+)" replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
                <p>Edition Documents Prefix</p>
@@ -118,7 +124,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2021-12-20">text transcribed</change>
          <change who="tfruehwirth" when="2021-12-20">text transcribed using Transkribus</change>
@@ -127,6 +133,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-27">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-07">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-11-21">entities updated, interpGrp added</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-06-13">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -155,19 +162,19 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0138/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0038" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0038" xml:lang="en" hand="#typed">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0011/" type="envelope" ed="1r"/>
                <ab hand="#handwritten" xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   S<unclear>t</unclear>ella Musulin</rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_7"><del>Fridau</del><lb/>
-                     <del>Obergrabe<unclear>m</unclear>d<unclear>o</unclear>r<unclear>f</unclear></del><lb/>
-                     <del>b<unclear>e</unclear>i S. Pölten</del><lb/>
-                     <del>N.Ö</del></rs><lb/>
+                     <rs type="place" ref="#amp_place_id_7"><del rend="overstrike">Fridau</del><lb/>
+                     <del rend="overstrike">Obergrabe<unclear>m</unclear>d<unclear>o</unclear>r<unclear>f</unclear></del><lb/>
+                     <del rend="overstrike">b<unclear>e</unclear>i S. Pölten</del><lb/>
+                     <del rend="overstrike">N.Ö</del></rs><lb/>
                      <rs type="place" ref="#amp_place_id_10">Osterreich</rs>
                   </address>
                </ab>
@@ -195,7 +202,7 @@ for any purpose, even commercially.</p>
                      <space extent="undefined quantity of characters plus minimum" min="8" unit="char"/>(<hi rend="underline">I892-I945)</hi></rs>
                   </head>
                   <lg>
-                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Reachi<del>j</del>ng my gate a narrow</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Reachi<subst><del rend="overtyped">j</del><add place="superimposed">n</add></subst>g my gate a narrow</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Lane from the village</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Passes on into a wood:</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>When I walk that way</l>
@@ -232,7 +239,7 @@ for any purpose, even commercially.</p>
                   </lg>   
                   <lg>   
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>What,had you ever heard of</l>
-                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l><rs type="person" ref="#amp_person_7">Franz J<unclear>ä</unclear>gerst<unclear>ä</unclear>tter</rs>,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l><rs type="person" ref="#amp_person_7">Franz J<g ref="#uml_a_lc_tt">ä</g>gerst<g ref="#uml_a_lc_tt">ä</g>tter</rs>,</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The <rs type="place" ref="#amp_place_id_22">St.Radegund</rs> peasant</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Who said his lonely</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l><hi rend="underline"><foreign xml:lang="de">Nein</foreign></hi> to the Aryan State</l>
@@ -252,13 +259,13 @@ for any purpose, even commercially.</p>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Retribution was ever</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>A bungler at it:</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l><hi rend="underline"><foreign xml:lang="de">Dies alles ist furchtbar,hier</foreign></hi></l>
-                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l><hi rend="underline"><foreign xml:lang="de">Nur Schweigen gem<unclear>ä</unclear>ss</foreign></hi>.(I)</l> 
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l><hi rend="underline"><foreign xml:lang="de">Nur Schweigen gem<g ref="#uml_a_lc_tt">ä</g>ss</foreign></hi>.(I)</l> 
                   </lg>  
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0134/" type="sheet" ed="2v"/>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0135/" type="sheet" ed="3r"/>
-                  <ab>
+                  <fw type="pageNum">
                      <space extent="undefined quantity of characters plus minimum" min="40" unit="char"/>(2
-                  </ab>
+                  </fw>
                   <lg>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Unmarked by me,unmourned for,</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The hour of your death,</l>
@@ -278,7 +285,7 @@ for any purpose, even commercially.</p>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The pedestrian</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Private sort,those nuisances,</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Corpses and rubble,</l>
-                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Lon<del>f</del>g carted away: for their raped</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Lon<subst><del rend="overtyped">f</del><add place="superimposed">g</add></subst> carted away: for their raped</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The shock was fading,</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>Their kidnapped physicists felt</l>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>No longer homesick.</l>
@@ -321,11 +328,11 @@ for any purpose, even commercially.</p>
                   </lg>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0136/" type="sheet" ed="3v"/>
                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0137/" type="sheet" ed="4r"/>
-                  <ab>
+                  <fw type="pageNum">
                      <space quantity="53" unit="char"/>(3
-                  </ab>
+                  </fw>
                   <lg>
-                     <lb/><space quantity="15" unit="char"/><l>Looking across <del>u</del>our valley</l>
+                     <lb/><space quantity="15" unit="char"/><l>Looking across <subst><del rend="overtyped">u</del><add place="superimposed">o</add></subst>ur valley</l>
                      <lb/><space quantity="15" unit="char"/><l>Where,hidden from view,</l>
                      <lb/><space quantity="15" unit="char"/><l><rs type="place" ref="#amp_place_id_252">Sichelbach</rs> tottles westward</l>
                      <lb/><space quantity="15" unit="char"/><l>To join the <rs type="place" ref="#amp_place_id_251">Perschling</rs>,</l>
@@ -350,24 +357,26 @@ for any purpose, even commercially.</p>
                   </lg>
                   <ab>
                      <space quantity="23" unit="char"/>___<lb/>
-                     <del>N</del> <space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_5">W<del>8</del></rs><unclear>'</unclear>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.<lb/>
+                     <del rend="overtyped">N</del> <space quantity="1" unit="char"/>I) Quotation from <rs type="person" ref="#amp_person_5">W</rs><subst><del rend="overtyped">8</del><add place="superimposed"><unclear>'</unclear></add></subst>s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_40">Auf das Unabwendbare</rs></hi>.<lb/>
                      <space quantity="3" unit="char"/>2) Quotation from <rs type="person" ref="#amp_person_5">W</rs>'s poem <hi rend="underline"><rs type="lit_work" ref="#lit_work_id_41">Kammermusik</rs></hi>.<lb/>
                      <space quantity="24" unit="char"/>__
                   </ab>
                </div>
                <div type="letter_message">
                   <opener>
-                     <space quantity="9" unit="char"/><salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
+                     <salute><space quantity="9" unit="char"/>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
                   <p>
-                     <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> is intending to have a <rs type="event" ref="#amp_event_id_49">cer<del>o</del>emony in memory of the twentieth<lb/>
-                     <space quantity="1" unit="char"/>anniversary of <rs type="person" ref="#amp_person_5">Weinheber</rs>'<del>w</del>s <space quantity="1" unit="char"/>death</rs>. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
+                     <space quantity="1" unit="char"/><rs type="place" ref="#amp_place_id_5">Kirchstetten</rs> is intending to have a <rs type="event" ref="#amp_event_id_49">cer<subst><del rend="overtyped">o</del><add place="superimposed">e</add></subst>mony in memory of the twentieth<lb/>
+                     <space quantity="1" unit="char"/>anniversary of <rs type="person" ref="#amp_person_5">Weinheber</rs>'<subst><del rend="overtyped">w</del><add place="superimposed">s</add></subst> <space quantity="1" unit="char"/>death</rs>. <space quantity="1" unit="char"/>Herewith my effort to do my<lb/>
                      <space quantity="1" unit="char"/><hi rend="underline"><rs type="note" ana="#ana_008"><foreign xml:lang="de">Gemeindepflicht</foreign></rs>.</hi>
                   </p>
                   <closer>
                      <space quantity="17" unit="char"/><salute>love</salute>
-                     <signed hand="#handwritten">
-                        <rs type="person" ref="#amp_person_1">Wystan</rs>.
+                     <signed>
+                        <seg hand="#handwritten">
+                           <rs type="person" ref="#amp_person_1">Wystan</rs>.
+                        </seg>
                      </signed>
                   </closer>
                   <postscript hand="#handwritten">

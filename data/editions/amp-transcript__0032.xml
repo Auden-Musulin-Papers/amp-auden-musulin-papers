@@ -5,7 +5,7 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Aerogram Signed Edward Mendelson to Stella Musulin 1980-12-01</title>
             <author ref="https://d-nb.info/gnd/14000761X">Mendelson, Edward</author>
-            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
                <address>
@@ -59,7 +59,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
+            <date when="2024">2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -96,8 +96,7 @@ for any purpose, even commercially.</p>
       </fileDesc>
       <encodingDesc>
          <listPrefixDef>
-            <prefixDef ident="acdh" matchPattern="(.+)"
-               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+            <prefixDef ident="acdh" matchPattern="(.+)" replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
                <p>Edition Documents Prefix</p>
             </prefixDef>
          </listPrefixDef>
@@ -124,7 +123,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2021-12-06">text transcribed</change>
          <change who="tfruehwirth" when="2021-12-06">text transcribed using Transkribus</change>
@@ -142,9 +141,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0228/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0032" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0032" xml:lang="en" hand="#typed">
             <div type="letter">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0227/" type="sheet" ed="1r"/>
                <div type="letter_message">
@@ -157,7 +156,9 @@ for any purpose, even commercially.</p>
                               <space quantity="41" unit="char"/>USA</rs>
                            </address>
                         </placeName>
-                        <space quantity="41" unit="char"/><date rend="#block">1 December 1980</date>
+                        <seg rend="#block">
+                           <space quantity="41" unit="char"/><date>1 December 1980</date>
+                        </seg>
                      </dateline>
                      <salute>
                         Dear <rs type="person" ref="#amp_person_2">Stella</rs>,
@@ -209,8 +210,10 @@ for any purpose, even commercially.</p>
                   </p>
                   <closer>
                      <space quantity="45" unit="char"/><salute>Yours ever,</salute>
-                     <signed hand="#handwritten">
-                        <rs type="person" ref="#amp_person_98">Ed</rs>
+                     <signed>
+                        <seg hand="#handwritten">
+                           <gap reason="illegible" unit="char" atLeast="1" atMost="3"/> <rs type="person" ref="#amp_person_98">Ed</rs>
+                        </seg>
                      </signed>
                   </closer>
                </div>

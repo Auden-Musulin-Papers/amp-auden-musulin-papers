@@ -61,17 +61,17 @@
             <p></p>
             <div>
                <head>Presentation of the Material</head>
-                  <p>By default, the edited documents are presented in the form of a reading version with minor editing. Optionally, original text features (such as deletions) can be displayed, and users can modify presentation preferences (including enabling/disabling display of entities, comments, and intertextuality information)..</p>                   
+                  <p>The Auden Musulin Papers project follows the approach of digital documentary edition (as outlined by Pierazzo 2014).</p>
+                  <p>By default, the edited documents are presented in the form of a reading version with minor editing. Optionally, original text features (such as revisions) can be displayed, and users can modify presentation preferences (including enabling/disabling display of entities, comments, and intertextuality information).</p>                   
                      <list rend="bulleted">
                         <item>
                            The default view offers the following features:
                            <list rend="bulleted">
                               <item>one view per page recto and verso (with the exception of photographs glued onto pages of photo albums)</item>
-                              <item>vertical arrangements of texts that partially represent the original layout</item>
-                              <item>different fonts to represent handwriting (Times New Roman), typewriting (Courier New), and print (Arial)</item>
-                              <item>reading versions of texts that do not contain deletions, underlines, additional typographic whitespace, or indications of unclear characters</item>
-                              <item>italics to represent originally underlined text</item>
-                              <item>indications of undecipherable characters (if not deleted)</item>
+                              <item>vertical arrangements of texts that approximate the original layout</item>
+                              <item>different fonts to represent handwriting (serif font), typewriting (monospaced slab-serif font), as well as print and stamps (sans-serif font)</item>
+                              <item>reading versions of texts that do not contain deletions or indications of unclear characters</item>
+                              <item>indications of undecipherable (illegible) characters (if not deleted)</item>
                            </list>
                         </item>                          
                      </list>
@@ -79,11 +79,11 @@
                         <item>
                            The following display options are available:
                            <list rend="bulleted">
-                              <item>original text features: deletions, underlines, additional typographic whitespace</item>
+                              <item>revisions (deletions and additions)</item>
                               <item>indications of unclear characters which cannot be transcribed with certainty</item>
                               <item>labeling of entities (persons, places, institutions, works, events)</item>
-                              <item>editorial commentary, including information about responsibility and uncertainty (in development)</item>
-                              <item>intertextuality information (in development)</item>
+                              <item>editorial commentary, including information about responsibility and uncertainty</item>
+                              <item>intertextuality information (on quotations from other sources)</item>
                               <item>choice of fonts and font sizes</item>
                               <item>facsimiles displayed through a plugin viewer</item>
                               <item>full-screen view</item>
@@ -95,13 +95,13 @@
                </div>
                <div>
                   <head>Image Digitization</head>
-                  <p>The documents have been reproduced at 600 dpi and 24 bit/RGB through an Image Access WideTEK®25 color flatbed scanner and saved in an uncompressed TIFF format. Selected materials (images 5 and 7 in https://amp.acdh.oeaw.ac.at/amp-transcript__0039.html, images 3 and 5 in https://amp.acdh.oeaw.ac.at/amp-transcript__0040.html, as well as all photographs) have been digitized at 603.1 dpi and 24 bit by means of a Phase One XF IQ3 100MP medium-format camera with a Schneider Kreuznach 80mm f/2.8 leaf shutter lens. The high-resolution digital reproductions can be accessed via https://id.acdh.oeaw.ac.at/auden-musulin-papers/facs. On the website, images are provided through IIIF.</p>
-                  <p>The images of Autograph Letter Signed Stella Musulin to Christine Busta 1962-05-23 have been created by the Literary Archive of the Austrian National Library.</p>
-                  <p>In collaboration with the Computer Vision Lab of TU Wien, the surface of selected source documents (images 6 and 8 in https://amp.acdh.oeaw.ac.at/amp-transcript__0039.html, images 4 and 6 in https://amp.acdh.oeaw.ac.at/amp-transcript__0040.html) has been visualized by means of Photometric Stereo, using a PhaseOne IQ260 Achromatic with an 8,964 × 6,716 pixel medium-format sensor and a Schneider-Kreuznach 120 mm LS Macro lens (see https://amp.acdh.oeaw.ac.at/cv.html).</p>
+                  <p>The documents have been reproduced at 600 dpi and 24 bit/RGB through an Image Access WideTEK®25 color flatbed scanner and saved in an uncompressed TIFF format. Selected materials (images 3r and 3v in <ref target="https://amp.acdh.oeaw.ac.at/amp-transcript__0039.html">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" and with Typescript W. H. Auden Translation "Joseph Weinheber" 1965-04-28</ref>, images 2r and 2v in <ref target="https://amp.acdh.oeaw.ac.at/amp-transcript__0040.html">Autograph Letter Signed W. H. Auden to Stella Musulin 1969-06-10</ref>, as well as all photographs) have been digitized at 603.1 dpi and 24 bit by means of a Phase One XF IQ3 100MP medium-format camera with a Schneider Kreuznach 80mm f/2.8 leaf shutter lens. The high-resolution digital reproductions can be accessed via <ref target="https://hdl.handle.net/21.11115/0000-000F-3256-8">https://hdl.handle.net/21.11115/0000-000F-3256-8</ref>. On the website, images are provided through IIIF.</p>
+                  <p>The images of <ref target="https://amp.acdh.oeaw.ac.at/amp-transcript__0063.html">Autograph Letter Signed Stella Musulin to Christine Busta 1962-05-23</ref> have been created by the Literary Archive of the Austrian National Library.</p>
+                  <p>In collaboration with the Computer Vision Lab of TU Wien, the surface of selected source documents (images 3r-cv and 3v-cv in <ref target="https://amp.acdh.oeaw.ac.at/amp-transcript__0039.html">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescript W. H. Auden "Joseph Weinheber" and with Typescript W. H. Auden Translation "Joseph Weinheber" 1965-04-28</ref>, images 2r-cv and 2v-cv in <ref target="https://amp.acdh.oeaw.ac.at/amp-transcript__0040.html">Autograph Letter Signed W. H. Auden to Stella Musulin 1969-06-10</ref>) has been visualized by means of Photometric Stereo, using a PhaseOne IQ260 Achromatic with an 8,964 × 6,716 pixel medium-format sensor and a Schneider-Kreuznach 120 mm LS Macro lens (see <ref target="https://amp.acdh.oeaw.ac.at/cv.html">Auden Musulin Papers through Computer Vision</ref>).</p>
                </div>
                <div>
-               <head>Transcription and Markup Guidelines amp-data v0.9.0</head>
-                  <p>Source transcriptions as encoded in TEI/XML represent the spelling, punctuation, and, partly, revisions as they appear, aiming for minimal editorial intervention or interpretation.</p>                   
+               <head>Transcription and Markup Guidelines amp-data v1.0</head>
+                  <p>Source transcriptions as encoded in TEI/XML represent the spelling, punctuation, and revisions as they appear, aiming for minimal editorial intervention or interpretation.</p>                   
                      <list rend="numbered">
                         <item n="1">
                            Spelling
@@ -111,7 +111,7 @@
                               <item n="1.3">Handwritten characters are not marked up as <![CDATA[<]]>unclear<![CDATA[>]]> in XML when they can be identified as a consistent and typical feature of the respective author's handwriting.</item><!-- (example: "address", Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-15, page 3, line 25) -->
                               <item n="1.4">Signatures are never marked up as <![CDATA[<]]>unclear<![CDATA[>]]>.</item>
                               <item n="1.5">Characters that cannot be transcribed are marked up as <![CDATA[<]]>gap<![CDATA[>]]> in XML and represented by means of square brackets on the web page.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12, page 3, line 7) -->
-                              <item n="1.6">Superscripts in the original documents have not yet been marked up and are represented in standard script on the web page.</item>
+                              <item n="1.6">Superscripts in handwritten documents have not been marked up and are represented in standard script on the web page.</item>
                            </list>
                         </item>                          
                      </list>
@@ -127,48 +127,48 @@
                         <item n="3">Punctuation and Spaces
                            <list rend="numbered">
                               <item n="3.1">The original punctuation is retained, even if irregular.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12, page 3, line 4) -->
-                              <item n="3.2">Punctuation signs that cannot be transcribed with certainty are rendered by UTF-8/Unicode symbols that represent a graphical approximation, marked up as <![CDATA[<]]>unclear<![CDATA[>]]> in XML.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1965-09-29, page 3, line 16) -->
-                              <item n="3.3">For manuscripts, when spaces before or after punctuation marks are significantly smaller than the spaces separating words in the surrounding text, no spaces are transcribed.</item><!-- (example: Letter W. H. Auden to Stella Musulin 1962-09-11, page 3, line 12)-->
-                              <item n="3.4">For manuscripts, the length of spaces between words is regularized and represented as either single space or no space.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12, page 3, line 6) -->
-                              <item n="3.5">For typescripts, the exact number of spaces before and within sentences is preserved and marked up as <![CDATA[<]]>space<![CDATA[>]]> in TEI/XML. For spaces in two-column layout pages, most likely generated by means of the tab function or by resetting the typewriter's margin stop, approximative values of spaces have been indicated.</item>
+                              <item n="3.2">Punctuation signs that cannot be transcribed with certainty are rendered by UTF-8/Unicode symbols that represent a graphical approximation, and are marked up as <![CDATA[<]]>unclear<![CDATA[>]]> in XML.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1965-09-29, page 3, line 16) -->
+                              <item n="3.3">For handwritten documents, when spaces before or after punctuation marks are significantly smaller than the spaces separating words in the surrounding text, no spaces are transcribed.</item><!-- (example: Letter W. H. Auden to Stella Musulin 1962-09-11, page 3, line 12)-->
+                              <item n="3.4">For handwritten documents, the length of spaces between words is regularized and represented as either single space or no space.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-12, page 3, line 6) -->
+                              <item n="3.5">For typescripts, the exact number of spaces before and within sentences is preserved and marked up via the whitespace character as well as (especially in the case of multiple spaces) through <![CDATA[<]]>space<![CDATA[>]]> in TEI/XML.</item>
                               <item n="3.6">Indentations of typed lines (of poetry) without reference value in relation to the left-hand margin are marked up as <![CDATA[<]]>space extent="undefined quantity of characters" min="1" unit="char"<![CDATA[>]]>.</item><!-- example: doc 0038 -->
                               <item n="3.7">Changes in the left-hand margins of typescripts are not marked up as indentations (by means of <![CDATA[<]]>space<![CDATA[>]]>) if they appear to result from reinsertions of the sheets of paper or resets of margins on the typewriter that do not appear meaningful.</item><!-- doc 18, p 17; docs 27, 43, p 3 -->
-                              <item n="3.8">Spaces that precede printed text have so far been disregarded.</item><!-- (example: transcript_0001, page 2, line 3) -->
-                              <item n="3.9">Blank lines between lines of writing are disregarded.</item>
+                              <item n="3.8">Spaces that precede printed text have been disregarded.</item><!-- (example: transcript_0001, page 2, line 3) -->
+                              <item n="3.9">Blank lines between lines of writing are disregarded in the markup. However, structural units of text have been marked up (see 4.1), and, in the web-application display, these textual components (such as paragraphs) are represented as distinct blocks of writing.</item>
                            </list>
                         </item>
                      </list>
                      <list rend="numbered">
                         <item n="4">Page Layout
                            <list rend="numbered">
-                              <item n="4.1">Original line breaks are retained by means of <![CDATA[<]]>lb<![CDATA[>]]> within structural elements of text, but not in between block-level elements (such as in between <![CDATA[<]]>p<![CDATA[>]]>, <![CDATA[<]]>salute<![CDATA[>]]>, or <![CDATA[<]]>signed<![CDATA[>]]> elements). Within structural elements, the TEI <![CDATA[<]]>lb<![CDATA[>]]> element represents standard line spacing (most likely produced by operating the typewriter's carriage-return lever); in between elements, spacing (possibly produced by means of operating the typewriter's variable line spacing knob) can vary, which is not represented in the markup. When prose paragraphs (<![CDATA[<]]>p<![CDATA[>]]>) are interrupted by page beginnings (<![CDATA[<]]>pb<![CDATA[>]]>), the continuing paragraph on the new page is marked up as <![CDATA[<]]>p prev="true"<![CDATA[>]]>.</item>
-                              <item n="4.2">For non-correspondence documents as well as for telegrams, aerograms, and postcards, a non-specific container structure is currently used: the transcription of each document is contained within a TEI <![CDATA[<]]>div<![CDATA[>]]> element; each transcription is subdivided by means of <![CDATA[<]]>pb<![CDATA[>]]>, <![CDATA[<]]>p<![CDATA[>]]>, and <![CDATA[<]]>lg<![CDATA[>]]> elements.</item>
-                              <item n="4.3">For correspondence documents, excluding telegrams, aerograms, and postcards, a specific and semantically expressive TEI-conformant container structure is used. The most important structural elements are the following: <![CDATA[<]]>div type="transcription"<![CDATA[>]]> can contain <![CDATA[<]]>div type="envelope"<![CDATA[>]]> and <![CDATA[<]]>div type="letter"<![CDATA[>]]>; <![CDATA[<]]>div type="letter"<![CDATA[>]]> can include <![CDATA[<]]>div type="letter_message"<![CDATA[>]]> and <![CDATA[<]]>div type="poem"<![CDATA[>]]>; <![CDATA[<]]>div type="letter_message"<![CDATA[>]]> can contain <![CDATA[<]]>opener<![CDATA[>]]> and <![CDATA[<]]>closer<![CDATA[>]]> containers (in addition to <![CDATA[<]]>p<![CDATA[>]]>, which can be subdivided by means of <![CDATA[<]]>seg<![CDATA[>]]>); <![CDATA[<]]>opener<![CDATA[>]]> groups together dateline and salutation information from the start of the correspondence item; <![CDATA[<]]>closer<![CDATA[>]]> groups together salutation and signature information from the end of the correspondence item; <![CDATA[<]]>div type="poem"<![CDATA[>]]> can be further structured through the <![CDATA[<]]>cb<![CDATA[>]]> milestone element and can contain <![CDATA[<]]>head<![CDATA[>]]> and <![CDATA[<]]>lg<![CDATA[>]]> elements; <![CDATA[<]]>lg<![CDATA[>]]> nodes include <![CDATA[<]]>space<![CDATA[>]]> and <![CDATA[<]]>l<![CDATA[>]]> elements.</item>
-                              <item n="4.4">The vertical succession of text elements is represented; their horizontal arrangement has so far been disregarded.</item>
+                              <item n="4.1">Original line breaks are retained by means of <![CDATA[<]]>/lb<![CDATA[>]]> within structural elements of text, but not in between block-level elements (such as in between <![CDATA[<]]>p<![CDATA[>]]>, <![CDATA[<]]>salute<![CDATA[>]]>, or <![CDATA[<]]>signed<![CDATA[>]]> elements). Within structural elements, the TEI <![CDATA[<]]>lb<![CDATA[>]]> element represents standard line spacing (most likely produced by operating the typewriter's carriage-return lever); in between elements, spacing (possibly produced by means of operating the typewriter's variable-line-spacing knob) can vary, which is not represented in the markup. When prose paragraphs (<![CDATA[<]]>p<![CDATA[>]]>) are interrupted by page beginnings (<![CDATA[<]]>pb<![CDATA[>]]>), the continuing paragraph on the new page is marked up as <![CDATA[<]]>p prev="true"<![CDATA[>]]>.</item>
+                              <item n="4.2">For prose documents (notably, Stella Musulin's memoirs of W. H. Auden), a TEI-conformant container structure is used. The key structural elements are the following: the <![CDATA[<]]>div type="transcription"<![CDATA[>]]> node contains a <![CDATA[<]]>div type="prose"<![CDATA[>]]>, in which <![CDATA[<]]>head<![CDATA[>]]>, <![CDATA[<]]>p<![CDATA[>]]>, and <![CDATA[<]]>fw type="pageNum"<![CDATA[>]]> are nested; writing that does not form part of the prose text proper is contained in separate <![CDATA[<]]>div<![CDATA[>]]> nodes, which can include <![CDATA[<]]>ab<![CDATA[>]]> elements.</item>
+                              <item n="4.3">For correspondence documents, a specific and semantically expressive TEI-conformant container structure is used. The most important structural elements are the following: <![CDATA[<]]>div type="transcription"<![CDATA[>]]> can contain <![CDATA[<]]>div type="envelope"<![CDATA[>]]> and <![CDATA[<]]>div type="letter"<![CDATA[>]]>; <![CDATA[<]]>div type="letter"<![CDATA[>]]> can include <![CDATA[<]]>div type="letter_message"<![CDATA[>]]> and <![CDATA[<]]>div type="poem"<![CDATA[>]]>; <![CDATA[<]]>div type="letter_message"<![CDATA[>]]> can contain <![CDATA[<]]>opener<![CDATA[>]]> and <![CDATA[<]]>closer<![CDATA[>]]> containers (in addition to <![CDATA[<]]>p<![CDATA[>]]>, which can be subdivided by means of <![CDATA[<]]>seg<![CDATA[>]]>); <![CDATA[<]]>opener<![CDATA[>]]> groups together dateline and salutation information from the start of the correspondence item; <![CDATA[<]]>closer<![CDATA[>]]> groups together salutation and signature information from the end of the correspondence item; <![CDATA[<]]>div type="poem"<![CDATA[>]]> can be further structured through the <![CDATA[<]]>cb<![CDATA[>]]> milestone element and can contain <![CDATA[<]]>head<![CDATA[>]]> and <![CDATA[<]]>lg<![CDATA[>]]> elements; <![CDATA[<]]>lg<![CDATA[>]]> nodes include <![CDATA[<]]>space<![CDATA[>]]> and <![CDATA[<]]>l<![CDATA[>]]> elements.</item>
+                              <item n="4.4">The vertical succession of text elements is represented; their horizontal arrangement has been disregarded.</item>
                            </list>
                         </item>   
                      </list>
                      <list rend="numbered">
                         <item n="5">Underline
                            <list rend="numbered">
-                              <item n="5.1">Underlines are marked up as <![CDATA[<]]>hi rend="underline"<![CDATA[>]]> and can optionally be graphically represented on the web page (highlighted in lilac). By default, they are represented in italics on the web page.</item>
+                              <item n="5.1">Underlines are marked up as <![CDATA[<]]>hi rend="underline"<![CDATA[>]]> and are graphically represented on the web page.</item>
                               <item n="5.2">Underlines are not represented if they form part of signatures.</item>
-                              <item n="5.3">Underlines in typescripts are rendered precisely and include, for instance, empty spaces before or after words if they are underlined in the source document; transcriptions of underlines in manuscripts ignore underlined spaces before or after words.</item>
+                              <item n="5.3">Underlines in typescripts are rendered precisely and include, for instance, empty spaces before or after words if they are underlined in the source document.</item>
                            </list>
                         </item>                          
                      </list>
                      <list rend="numbered">
                         <item n="6">Revisions
                            <list rend="numbered">
-                              <item n="6.1">Deletions of text are marked up as <![CDATA[<]]>del<![CDATA[>]]> in XML and can be represented on the web page (highlighted in peach).</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23, page 3, line 26) -->
-                              <item n="6.2">For revisions in manuscripts and typescripts, we have accepted the orthographically or grammatically accurate versions as corrections, even if the actual sequences of textual layers cannot be reconstructed.</item><!--  (example: Typescript Stella Musulin "In Retrospect" [?], page 1, line 27) -->
+                              <item n="6.1">Deletions of text are marked up as <![CDATA[<]]>del<![CDATA[>]]> in XML, and can be represented on the web page (highlighted in light red).</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23, page 3, line 26) -->
+                              <item n="6.2">For revisions in handwriting and typewriting, we have accepted the orthographically or grammatically accurate, or otherwise plausible, versions as corrections, even if the actual sequences of textual layers cannot be reconstructed.</item><!--  (example: Typescript Stella Musulin "In Retrospect" [?], page 1, line 27) -->
                               <item n="6.3">For transcriptions of typescripts - in addition to handwritten deletions - we accept the use of the typed signs 'x', 'm', 's', 'z', 'y', '-', and '/' as indicating deletions where such deletion seems plausible.</item>
-                              <item n="6.4">Additions have not yet been marked up and are not represented as additions on the website, but are treated as part of the original documents.</item>
+                              <item n="6.4">Additions have been marked up through <![CDATA[<]]>add<![CDATA[>]]>. They are always represented on the website, but can be highlighted (in light green).</item>
                               <item n="6.5">When additions are inserted into manuscripts or typescripts, surrounding spaces are included in ways that are coherent with the general use of spaces in the respective texts.</item><!-- examples!  (that especially concerns spaces after punctuation in typescripts) -->
-                              <item n="6.6">When additions replace deleted words in typescripts, they are inserted directly after the deletions without additional spaces in between.</item>
-                              <item n="6.7">When it is uncertain whether characters have been deleted, the passage in question is marked up as '<![CDATA[<]]>unclear<![CDATA[>]]><![CDATA[<]]>del<![CDATA[>]]>[...]<![CDATA[<]]>del/<![CDATA[>]]><![CDATA[<]]>unclear/<![CDATA[>]]>'.</item>
-                              <item n="6.8">For typescripts by Stella Musulin, we accept handwritten underlines of deleted passages as cancelled deletions.</item>
-                              <item n="6.9">Multiple overwritings in the same place of a typescript (for instance, when character 'x' is overwritten by character 'y', which, in turn, is overwritten by 'z') are represented as nested deletions: '<![CDATA[<]]>del<![CDATA[>]]><![CDATA[<]]>del<![CDATA[>]]>x<![CDATA[</]]>del<![CDATA[>]]>y<![CDATA[</]]>del<![CDATA[>]]>z'</item>
+                              <item n="6.6">Revision processes that involve (single or multiple) deletions and additions have been nested within a <![CDATA[<]]>subst<![CDATA[>]]> element.</item>
+                              <item n="6.7">When additions replace deleted words in typescripts, they are inserted directly after the deletions without additional spaces in between.</item>
+                              <item n="6.8">When it is uncertain whether characters have been deleted, the passage in question is marked up as '<![CDATA[<]]>unclear<![CDATA[>]]><![CDATA[<]]>del<![CDATA[>]]>[...]<![CDATA[<]]>del/<![CDATA[>]]><![CDATA[<]]>unclear/<![CDATA[>]]>'.</item>
+                              <item n="6.9">For typescripts by Stella Musulin, we accept handwritten underlines of deleted passages as cancelled deletions.</item>
                            </list>
                         </item>                             
                      </list>
@@ -176,39 +176,40 @@
                         <item n="7">Pre-printed Components and Postal Additions
                            <list rend="numbered">
                               <item n="7.1">Pre-printed letter heads and sender addresses are transcribed.</item><!-- (example: Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-06, page 2, lines 1-3) -->
-                              <item n="7.2">Image captions and company information in postcards are transcribed.</item><!--  (example: Autograph Note Signed Michael O'Sullivan to Stella Musulin [?], page 1, lines 1-2, 12-15) -->
-                              <item n="7.3">Postmarks and stamps are not transcribed in the <![CDATA[<]]>text<![CDATA[>]]> part. Organization (e.g., post office), place, date, and time (captured in terms of @notBefore-iso and @notAfter-iso) information has been extracted and included in the <![CDATA[<]]>correspDesc<![CDATA[>]]> section of the <![CDATA[<]]>teiHeader<![CDATA[>]]>. In accordance with the TEI P5 Guidelines, the individual stages in the correspondence process are marked up as <![CDATA[<]]>correspAction<![CDATA[>]]>. The following values of the @type attribute are used: "sent" for information that refers to the first processing of the correspondence item by the outgoing post office as retrieved from the postmark on the front of the envelope; "transmitted" for information on the further processing of the correspondence item by the incoming post office(s) as retrieved from the backstamp(s); "redirected" for information on the place (as well as, if applicable, on the person or organization) related to redirecting the unopened correspondence item to another destination; "received" for information on the person (and, if applicable, place) related to the last indicated destination on the front of the envelope. Information on the place and date of writing is encoded within the <![CDATA[<]]>fileDesc<![CDATA[>]]> node of the <![CDATA[<]]>teiHeader<![CDATA[>]]>. Where no envelope has been preserved, only the <![CDATA[<]]>correspAction<![CDATA[>]]> of @type "received" is documented. Copies of correspondence items are not treated as correspondence items and no <![CDATA[<]]>correspDesc<![CDATA[>]]> has been recorded.</item>
-                              <item n="7.4">Pre-printed postal texts and images in telegrams and aerograms are currently not rendered in the transcriptions.</item><!--  (example: Telegram W. H. Auden to Stella Musulin 1971-05-13) -->
-                              <item n="7.5">Watermarks have not yet been transcribed.</item>
+                              <item n="7.2">Postmarks and stamps are not transcribed in the <![CDATA[<]]>text<![CDATA[>]]> part. Organization (e.g., post office), place, date, and time (captured in terms of @notBefore-iso and @notAfter-iso) information has been extracted and included in the <![CDATA[<]]>correspDesc<![CDATA[>]]> section of the <![CDATA[<]]>teiHeader<![CDATA[>]]>. In accordance with the TEI P5 Guidelines, the individual stages in the correspondence process are marked up as <![CDATA[<]]>correspAction<![CDATA[>]]>. The following values of the @type attribute are used: "sent" for information that refers to the first processing of the correspondence item by the outgoing post office as retrieved from the postmark on the front of the envelope; "transmitted" for information on the further processing of the correspondence item by intermediate post office(s) as retrieved from the backstamp(s); "redirected" for information on the place (as well as, if applicable, on the person or organization) related to redirecting the unopened correspondence item to another destination; "received" for information on the person (and, if applicable, place) related to the last indicated destination on the front of the envelope. Information on the place and date of writing is encoded within the <![CDATA[<]]>fileDesc<![CDATA[>]]> node of the <![CDATA[<]]>teiHeader<![CDATA[>]]>. Where no envelope has been preserved, only the <![CDATA[<]]>correspAction<![CDATA[>]]> of @type "received" is documented. Copies of correspondence items are not treated as correspondence items and no <![CDATA[<]]>correspDesc<![CDATA[>]]> has been recorded.</item>
+                              <item n="7.3">Pre-printed postal texts and images in telegrams and aerograms are not rendered in the transcriptions.</item><!--  (example: Telegram W. H. Auden to Stella Musulin 1971-05-13) -->
+                              <item n="7.4">Watermarks have not been transcribed.</item>
                            </list>
                         </item>                           
                      </list>
                      <list rend="numbered">
                         <item n="8">Writing technologies
                            <list rend="numbered">
-                              <item n="8.1">Writing technologies (handwriting, typewriting, print) are marked up by means of the @hand attribute in XML and are represented through different fonts on the web page.</item>
-                              <item n="8.2">The <![CDATA[<]]>handShift<![CDATA[>]]> element indicates an immediate change of writing technologies within a segment of transcription.</item>
+                              <item n="8.1">Writing technologies (handwriting, typewriting, print) are marked up by means of the @hand attribute in XML and are represented through different fonts on the web page. Inked stamp marks (apart from postmarkes) are marked up by means of the <![CDATA[<]]>stamp<![CDATA[>]]> element and are represented on the website in the font as printed writing.</item>
+                              <item n="8.2">When parts of writing have been attributed to specific authors, such identification has not been encoded via @hand. However, different authors are documented via the <![CDATA[<]]>author<![CDATA[>]]> element in the <![CDATA[<]]>titleStmt<![CDATA[>]]> of the <![CDATA[<]]>fileDesc<![CDATA[>]]> node in the TEI header.</item>
                            </list>
                         </item>
                      </list>
                      <list rend="numbered">       
                         <item n="9">Photographs  
                            <list rend="numbered">
-                              <item n="9.1">All texts pertaining to the photograph documents are transcribed.</item>
-                              <item n="9.2">Persons depicted in the photographs or referred to in the accompanying texts are recorded in the <![CDATA[<]]>particDesc<![CDATA[>]]> section of the <![CDATA[<]]>teiHeader<![CDATA[>]]>. Photographers are recorded in the TEI <![CDATA[<]]>author<![CDATA[>]]> element.</item>
+                              <item n="9.1">All texts pertaining to the photograph documents are transcribed within <![CDATA[<]]>div type="photo"<![CDATA[>]]> (inside <![CDATA[<]]>div type="transcription"<![CDATA[>]]>).</item>
+                              <item n="9.2">Persons depicted in the photographs or referred to in the accompanying texts are recorded in the <![CDATA[<]]>particDesc<![CDATA[>]]> section of the <![CDATA[<]]>teiHeader<![CDATA[>]]>. Photographers are recorded both in <![CDATA[<]]>particDesc<![CDATA[>]]> and through the TEI <![CDATA[<]]>author<![CDATA[>]]> element.</item>
                            </list>
                         </item>
                      </list>
                      <list rend="numbered">
                         <item n="10">Markup of contents
                            <list rend="numbered">
-                              <item n="10.1">Extra-textual entities (persons, places, organizations, works, and events) are marked up in XML by means of <![CDATA[<]]>rs<![CDATA[>]]> and can optionally be displayed on the website, where that display is enriched with additional information and authority-file identifiers.</item>
-                              <item n="10.2">Editorial comments are marked up in XML within the <![CDATA[<]]>interpGrp<![CDATA[>]]> element of the <![CDATA[<]]>teiHeader<![CDATA[>]]>. The respective elements within the textual data or metadata to which the editorial interpretations refer are linked to these via the @ana attribute. The <![CDATA[<]]>desc<![CDATA[>]]> element within each <![CDATA[<]]>interp<![CDATA[>]]> node contains a human-readable comment; furthermore, TEI elements have been used to formalize that comment in a machine-readable format (in development).</item>
+                              <item n="10.1">Extra-textual entities (persons, places, institutions, works, and events) are marked up in XML by means of <![CDATA[<]]>rs<![CDATA[>]]> and can optionally be displayed on the website, where that display is enriched with additional information and authority-file identifiers.</item>
+                              <item n="10.2">Editorial comments are marked up in XML within the <![CDATA[<]]>interpGrp<![CDATA[>]]> element of the <![CDATA[<]]>teiHeader<![CDATA[>]]>. The respective elements within the textual data or metadata to which the editorial interpretations refer are linked to these via the @ana attribute. The <![CDATA[<]]>desc<![CDATA[>]]> element within each <![CDATA[<]]>interp<![CDATA[>]]> node contains a human-readable comment; furthermore, TEI elements have been used to formalize that comment in a machine-readable format (such as bibliographic references).</item>
+                              <item n="10.3">Editorial interpretation has been rendered transparent in machine-readable format using the <![CDATA[<]]>respons<![CDATA[>]]> and <![CDATA[<]]>certainty<![CDATA[>]]> elements. Within <![CDATA[<]]>certainty<![CDATA[>]]>, the @cert attribute has the following values: "high" (interpretation based on concordant information from multiple external sources or on information supplied by one or more reliable external sources), "medium" (some indication based on external sources, but inconclusive or disputable), and "low" (interpretation based on contradictory external information or on no external evidence).</item>
+                              <item n="10.4">Information retrieved from the correspondence items (such as related to other correspondence, telephone calls, meetings, and Auden's professional activities) has been marked up via <![CDATA[<]]>event<![CDATA[>]]>.</item>
                            </list>
                         </item>
                      </list>
                      <list rend="numbered">
-                        <item n="11">Language information is encoded in XML by means of the TEI <![CDATA[<]]>foreign<![CDATA[>]]> element and the @xml:lang attribute (in development).</item>
+                        <item n="11">Language information is encoded in XML by means of the TEI <![CDATA[<]]>foreign<![CDATA[>]]> element and the @xml:lang attribute.</item>
                      </list>
                      <list rend="numbered">
                         <item n="12">In the <![CDATA[<]]>teiHeader<![CDATA[>]]> section, metadata related to the source material are encoded within the <![CDATA[<]]>sourceDesc<![CDATA[>]]> node; edition metadata are represented in the <![CDATA[<]]>publicationStmt<![CDATA[>]]>, <![CDATA[<]]>editionStmt<![CDATA[>]]>, and <![CDATA[<]]>titleStmt<![CDATA[>]]> nodes.</item>

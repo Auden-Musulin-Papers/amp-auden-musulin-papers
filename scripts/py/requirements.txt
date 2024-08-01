@@ -1,2 +1,0 @@
-acdh-tei-pyutils>=0.31
-lxml

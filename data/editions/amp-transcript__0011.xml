@@ -5,7 +5,8 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-12-13</title>
             <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
-            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+            <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella Mary Bellairs</author>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
                <address>
@@ -27,7 +28,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
+            <date when="2024">2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -104,7 +105,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="tfruehwirth" when="2021-10-01">text transcribed</change>
          <change who="smayer" when="2021-10-05">text transcribed</change>
@@ -113,6 +114,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-08">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2024-01-08">entities updated, events created</change>
+         <change who="smayer tfruehwirth" when="2024-06-21">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -129,9 +131,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0054/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#handwritten">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0011" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0011" xml:lang="en" hand="#handwritten">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0051/" type="envelope" ed="1r"/>
                <ab>
@@ -147,13 +149,15 @@ for any purpose, even commercially.</p>
                   <hi rend="underline">Air-Mail</hi>
                </ab>
                <ab>
-                  <rs type="event" ref="#amp_event_id_2">Death <rs type="person" ref="#amp_person_23">Jean Boras</rs></rs>
+                  <add place="margin">
+                     <rs type="event" ref="#amp_event_id_2">Death <rs type="person" ref="#amp_person_23">Jean Boras</rs></rs>
+                  </add>
                </ab>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">Wien <del>IV .</del><lb/>
+                     <rs type="place" ref="#amp_place_id_11">Wien <del rend="overstrike">IV .</del><lb/>
                      Neulin<unclear>g</unclear>gasse 26/14<lb/>
                      <foreign xml:lang="en">Austria</foreign></rs>
                   </address>
@@ -178,7 +182,7 @@ for any purpose, even commercially.</p>
                               <rs type="place" ref="#amp_place_id_29">7 St Mark's Place<lb/>
                               New York City<lb/>
                               N.Y. 10003<lb/>
-                              <del><gap reason="deleted"/></del></rs>
+                              <del rend="overstrike"><gap reason="illegible" unit="char" quantity="1"/></del></rs>
                            </address>
                         </placeName>
                      </dateline>
@@ -195,7 +199,7 @@ for any purpose, even commercially.</p>
                   </p>
                   <p>
                      <rs type="person" ref="#amp_person_4">Chester</rs> is going to <rs type="place" ref="#amp_place_id_1">Vienna</rs>,but he was too<lb/>
-                     upset for <del><gap reason="deleted"/></del><unclear>m</unclear>e to find out where he would<lb/>
+                     upset for <subst><del rend="overwritten"><gap reason="illegible" unit="char" atLeast="1" atMost="2"/></del><add place="superimposed"><unclear>m</unclear></add></subst>e to find out where he would<lb/>
                      stay. I presume in <rs type="place" ref="#amp_place_id_5">Kirchstetten</rs>.
                   </p>
                   <p>

@@ -5,7 +5,8 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1961-10-01--1965-08-15</title>
             <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
-            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+            <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella Mary Bellairs</author>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
                <address>
@@ -42,7 +43,7 @@
                            <place sameAs="acdh:amp-index-places.xml#amp_place_id_11"/>
                         </listPlace>
                      </desc>
-                     <respons locus="value" resp="#tfruehwirth #dgrigoriou #smayer"/>
+                     <respons locus="value" resp="dgrigoriou smayer tfruehwirth"/>
                      <certainty locus="value" cert="high"/>
                   </interp>
                </interpGrp>
@@ -52,7 +53,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
+            <date when="2024">2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -116,7 +117,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2021-11-09">text transcribed</change>
          <change who="tfruehwirth" when="2021-11-11">text transcribed</change>
@@ -125,6 +126,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-03-02">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-11-15">entities updated, internal events created, interpGrp added</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-06-12">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -135,18 +137,22 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0108/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#handwritten">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0058" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0058" xml:lang="en" hand="#handwritten">
             <div type="letter"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0107/" type="sheet" ed="1r"/>
-               <div> 
-                  <ab xml:lang="de">
-                     K<unclear>ö</unclear>nnen Sie Mittwoch<lb/>
-                     <unclear>a</unclear>ns<unclear>t</unclear>att Donnerstag zum Abend<unclear>e</unclear>ssen kommen<lb/>
-                  </ab>
+               <div>
                   <ab>
-                     <rs type="person" ref="#amp_person_1">Auden</rs>
+                     <add place="left">
+                        <seg xml:lang="de">
+                           K<unclear>ö</unclear>nnen Sie Mittwoch<lb/>
+                           <add place="below"><unclear>a</unclear>ns<unclear>t</unclear>att Donnerstag</add> zum Abend<unclear>e</unclear>ssen kommen<lb/>
+                        </seg>
+                        <seg>
+                           <rs type="person" ref="#amp_person_1">Auden</rs>
+                        </seg>
+                     </add>
                   </ab>
                </div>
                <div type="letter_message">

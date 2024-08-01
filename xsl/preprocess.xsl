@@ -35,6 +35,10 @@
         </xsl:copy>
     </xsl:template>
     
+    <xsl:template match="tei:titleStmt/tei:editor/tei:name[@xml:id='tfruewirth']">
+        <name xmlns="http://www.tei-c.org/ns/1.0" xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name>
+    </xsl:template>
+    
     <xsl:template match="tei:editionStmt/tei:respStmt">
         <xsl:copy>
             <xsl:choose>

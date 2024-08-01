@@ -4,8 +4,8 @@
             <titleStmt>
                 <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
                 <title level="a">Photograph [Stella Musulin] of Edward Mendelson, Sonia Orwell, Charles Osborne, Michael Yates, Lisa Clark, Thekla Clark, Marny Yates, Hella Bronold, Wolfgang Kraus, and Friedrich Heer at W. H. Auden's Funeral 1973-10-04</title>
-                <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella</author>
-                <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+                <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella Mary Bellairs</author>
+                <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
                 <funder>
                     <name>Austrian Science Fund (FWF)</name>
                     <address>
@@ -19,13 +19,13 @@
                 </funder>
             </titleStmt>
             <editionStmt>
-                <edition>AMP</edition>
+                <edition><title>Photograph [Stella Musulin] of Edward Mendelson, Sonia Orwell, Charles Osborne, Michael Yates, Lisa Clark, Thekla Clark, Marny Yates, Hella Bronold, Wolfgang Kraus, and Friedrich Heer at W. H. Auden's Funeral 1973-10-04</title></edition>
                 <respStmt><resp>Transcription and commentary</resp><name sameAs="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name sameAs="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name sameAs="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></respStmt>
             <respStmt><resp>TEI Schema, ODD/RNG</resp><name ref="https://orcid.org/0000-0002-9575-9372" xml:id="pandorfer">Andorfer, Peter</name><name ref="https://orcid.org/0000-0002-0636-4476" xml:id="delsner">Elsner, Daniel</name></respStmt></editionStmt>
             <publicationStmt>
                 <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
                 <pubPlace>Vienna</pubPlace>
-                <date when="2021">2021</date>
+                <date when="2024">2024</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                         <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -106,9 +106,10 @@
                 </setting>
             </settingDesc>
         </profileDesc>
-        <revisionDesc status="draft">
+        <revisionDesc status="published">
             <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
             <change who="dgrigoriou tfruehwirth" when="2023-05-22">file created, metadata inserted</change>
+            <change who="dgrigoriou smayer tfruehwirth" when="2024-07-23">container structure updated</change>
         </revisionDesc>
     </teiHeader>
     <facsimile>
@@ -116,14 +117,16 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0457/"/>
         </surface>
     </facsimile>
-    <text type="photograph">
+    <text>
         <body>
-            <div xml:id="transcription">
-                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0457/" type="photograph"/>
-                <p hand="#handwritten">
-                    <rs type="person" ref="#amp_person_96">Tekl<unclear>a</unclear> Clark</rs> <rs type="person" ref="#amp_person_135">Frau Bronold</rs>, <rs type="person" ref="#amp_person_54">Fritz Heer</rs><lb/>
-                    +<rs type="person" ref="#amp_person_169">dau</rs> . <rs type="person" ref="#amp_person_137">W. Kraus</rs>
-                </p>
+            <div type="transcription" xml:id="transcription_amp_0074" hand="#handwritten" xml:lang="en">
+                <div type="photo">
+                <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0457/" type="photograph" ed="1r"/>
+                    <ab>
+                        <rs type="person" ref="#amp_person_96">Tekl<unclear>a</unclear> Clark</rs> <rs type="person" ref="#amp_person_135">Frau Bronold</rs>, <rs type="person" ref="#amp_person_54">Fritz Heer</rs><lb/>
+                        +<rs type="person" ref="#amp_person_169">dau</rs> . <rs type="person" ref="#amp_person_137">W. Kraus</rs>
+                    </ab>
+                </div>
             </div>
         </body>
     </text>

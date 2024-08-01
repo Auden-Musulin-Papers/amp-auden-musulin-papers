@@ -5,8 +5,9 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1964-12-23</title>
             <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
-            <author ref="https://id.acdh.oeaw.ac.at/emusulin">Musulin, Elsa von</author>
-            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+            <author ref="https://id.acdh.oeaw.ac.at/emusulin">Musulin, Elsa Gerda Maria Louise Pauline von</author>
+            <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella Mary Bellairs</author>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
                <address>
@@ -53,9 +54,9 @@
                   </interp>
                   <interp source="ph_023" xml:id="ana_023">
                      <desc>
-                        In her memoir <ref target="acdh:amp-transcript__0062.xml">"The Years in Austria"</ref> (14-15), <rs type="person" ref="#amp_person_2">Stella Musulin</rs> relates the lines <quote source="acdh:amp-transcript__0038.xml">"(In what bars are they welcome? / What girls marry them?)"</quote> in the version of <rs type="person" ref="#amp_person_1">W. H. Auden</rs>'s poem <rs type="lit_work" ref="#lit_work_id_61">"Joseph Weinheber"</rs> from 15 March 1965 to a passage (<quote source="acdh:amp-transcript__0002.xml">"Where do the torturers come from? What class? Whom do they marry? <del>Have you ever met one<unclear>?</unclear></del> To what pubs do they go?"</quote>) in the poet's <ref target="acdh:amp-transcript__0002.xml">letter to her from 23 December 1964</ref>: "When I told <rs type="person" ref="#amp_person_4">Chester</rs> about how Auden's letter to me had made its own infinitesimal contribution to English literature, Chester snapped: 'Wystan never wastes anything!'"
+                        In her memoir <ref target="acdh:amp-transcript__0062.xml">"The Years in Austria"</ref> (14r-15r), <rs type="person" ref="#amp_person_2">Stella Musulin</rs> relates the lines <quote source="acdh:amp-transcript__0038.xml">"(In what bars are they welcome? / What girls marry them?)"</quote> in the <rs type="lit_work" ref="#lit_work_id_61">version from 15 March 1965</rs> of <rs type="person" ref="#amp_person_1">W. H. Auden</rs>'s poem <rs type="lit_work" ref="#lit_work_id_60">"Joseph Weinheber"</rs> to a passage (<quote source="acdh:amp-transcript__0002.xml">"Where do the torturers come from? What class? Whom do they marry? <del>Have you ever met one<unclear>?</unclear></del> To what pubs do they go?"</quote>) in the poet's <ref target="acdh:amp-transcript__0002.xml">letter to her from 23 December 1964</ref>: "When I told <rs type="person" ref="#amp_person_4">Chester</rs> about how Auden's letter to me had made its own infinitesimal contribution to English literature, Chester snapped: 'Wystan never wastes anything!'"
                         <bibl sameAs="acdh:amp-transcript__0062.xml">
-                           <citedRange unit="page" from="14" to="15"/>
+                           <citedRange unit="page" from="14r" to="15r"/>
                         </bibl>
                      </desc>
                      <respons resp="dgrigoriou smayer tfruehwrith" locus="value"/>
@@ -75,7 +76,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
+            <date when="2024">2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -152,7 +153,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-17">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2021-09-21">text transcribed</change>
          <change who="tfruehwirth" when="2021-09-20">text transcribed</change>
@@ -161,6 +162,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-02">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-11-20">entities updated, event created, interpGrp added</change>
+         <change who="dgrigoriou smayer tfruehwirth" when="2024-06-13">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -177,25 +179,27 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0006/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#handwritten">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0002" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0002" xml:lang="en" hand="#handwritten">
             <div type="envelope" xml:lang="de">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0007/" type="envelope" ed="1r"/>
                <ab>
                   <hi rend="underline">mit Luft Post</hi>
                </ab>
                <ab>
-                  <rs type="lit_work" ref="#lit_work_id_60">Weinheber-Gedicht</rs>
+                  <add place="margin">
+                     <rs type="lit_work" ref="#lit_work_id_60">Weinheber-Gedicht</rs>
+                  </add>
                </ab>
                <ab>
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_7"><del>Fridau</del><lb/>
-                     <del>Obergrafendorf</del><lb/>
-                     <del>bei<unclear>.</unclear> S. Pölten</del><lb/>
-                     <del>NÖ</del></rs><lb/>
+                     <rs type="place" ref="#amp_place_id_7"><del rend="overstrike">Fridau</del><lb/>
+                     <del rend="overstrike">Obergrafendorf</del><lb/>
+                     <del rend="overstrike">bei<unclear>.</unclear> S. Pölten</del><lb/>
+                     <del rend="overstrike">NÖ</del></rs><lb/>
                      <rs type="place" ref="#amp_place_id_10">Osterreich</rs>
                   </address>
                </ab>
@@ -211,7 +215,7 @@ for any purpose, even commercially.</p>
                   <address>
                      <rs type="place" ref="#amp_place_id_19">Berlin<unclear>-</unclear>Dahlem<lb/>
                      Hubertusbaderstrasse 43<lb/>
-                     Deut<unclear>s</unclear>c<unclear>h</unclear>land<unclear>·</unclear></rs>
+                     Deut<unclear>s</unclear>c<gap reason="illegible" unit="char" quantity="1"/>land<unclear>·</unclear></rs>
                   </address>
                </ab>
             </div>
@@ -235,7 +239,7 @@ for any purpose, even commercially.</p>
                      Christmas</rs> ,especially since it's a little <foreign xml:lang="de">einsam</foreign> here.<lb/>
                      Am beginning to know some local inhabitants. Oddly enough,<lb/>
                      the ones I can talk to most easily ar from <rs type="place" ref="#amp_place_id_21"><foreign xml:lang="de"><unclear>O</unclear>st-Berlin</foreign></rs><unclear>,</unclear><lb/>
-                     The most awful thi<unclear>ng</unclear> about the <foreign xml:lang="de">Bifk<unclear>e</unclear>s</foreign> is that<lb/>
+                     The most awful thi<unclear>ng</unclear> about the <foreign xml:lang="de">Bifk<subst><del rend="overwritten">i</del><add place="superimposed">e</add></subst>s</foreign> is that<lb/>
                      they are so much nicer under a little <hi rend="underline"><foreign xml:lang="de">Druck</foreign></hi>.<lb/>
                      When they feel their oats they are so apt to become<lb/>
                      uppish.
@@ -251,10 +255,10 @@ for any purpose, even commercially.</p>
                   <p>
                      Torture is the iniquity which utterly bewilders me.<lb/>
                      I know something about the evil in my own heart and<lb/>
-                     <del><gap reason="deleted"/></del><unclear>i</unclear>n the <unclear>s</unclear>o<unclear>r</unclear>t of people I <del>know</del>meet, but I cannot conceive of myself<lb/>
+                     <subst><del rend="overstrike"><gap reason="illegible" unit="char" atLeast="2" atMost="3"/></del><add place="above"><unclear>i</unclear>n</add></subst> the <add place="above"><unclear>s</unclear>o<unclear>r</unclear>t of</add> people I <subst><del rend="overstrike">know</del><add place="above">meet</add></subst>, but I cannot conceive of myself<lb/>
                      or them torturing anybody. <rs type="note" ana="#ana_023">Where do the torturers<lb/>
                      come from? What class? Whom do they marry?<lb/>
-                     <del>Have you ever met one<unclear>?</unclear></del> To what pubs do they go?</rs>
+                     <del rend="overstrike">Have you ever met one<unclear>?</unclear></del> To what pubs do they go?</rs>
                   </p>
                   <closer>
                      <salute>much love and best wishes for 1<unclear>9</unclear>65</salute>

@@ -5,7 +5,8 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1968-10-15</title>
             <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
-            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+            <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella Mary Bellairs</author>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
                <address>
@@ -56,7 +57,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
+            <date when="2024">2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -127,7 +128,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="tfruehwirth" when="2021-09-30">text transcribed</change>
          <change who="smayer" when="2021-10-01">text transcribed</change>
@@ -136,6 +137,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-20">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-04">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2024-01-05">entities updated, events created, interpGrp added</change>
+         <change who="smayer tfruehwirth" when="2024-06-21">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -152,9 +154,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0046/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#handwritten">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0009" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0009" xml:lang="en" hand="#handwritten">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0043/" type="envelope" ed="1r"/>
                <ab>
@@ -167,19 +169,21 @@ for any purpose, even commercially.</p>
                   </address>
                </ab>
                <ab>
-                  <del><gap reason="deleted"/></del>A<hi rend="underline">ir-M<unclear>ail</unclear></hi>
+                  <subst><del rend="overwritten"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed">A</add></subst><hi rend="underline">ir-M<unclear>ail</unclear></hi>
                </ab>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella Musulin</rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">Wien <del>IV</del>III<lb/>
+                     <rs type="place" ref="#amp_place_id_11">Wien <subst><del rend="overwritten">IV</del><add place="superimposed">III</add></subst><lb/>
                      Neulinggasse 26<lb/>
                      <foreign xml:lang="en">A<hi rend="underline">ustria </hi></foreign>.</rs>
                   </address>
                </ab>
                <ab>
-                  Re <rs type="person" ref="#amp_person_155 #amp_person_171">Czech refugees</rs> .
+                  <add place="margin">
+                     Re <rs type="person" ref="#amp_person_155 #amp_person_171">Czech refugees</rs> .
+                  </add>
                </ab>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0044/" type="envelope" ed="1v"/>
             </div>
@@ -189,9 +193,13 @@ for any purpose, even commercially.</p>
                   <opener>
                      <dateline>
                         <placeName>
+                           <seg>
+                              <address>
+                                 <addrLine>℅ <rs type="person" ref="#amp_person_19">Heyworth</rs></addrLine><lb/>
+                              </address>
+                           </seg>
                            <seg hand="#printed">
                               <address>
-                                 <addrLine>℅ <rs type="person" ref="#amp_person_19">Heyworth</rs></addrLine>
                                  <rs type="place" ref="#amp_place_id_45">32 BRYANSTON SQUARE <space quantity="1" unit="char"/>LONDON W1 · AMBASSADOR 8906</rs>
                               </address>
                            </seg>
@@ -218,9 +226,9 @@ for any purpose, even commercially.</p>
                      <seg>
                         <seg>
                            <lb/>2). How much money will they need to keep going ?<lb/>
-                           And how shall I make the arrangements for payment.
+                           <add place="inline">And how shall I make the arrangements for payment.</add>
                         </seg>
-                        <seg>
+                        <add place="left">
                            <lb/>Here, I suggest<lb/>
                            you cont<unclear>a</unclear>ct<lb/>
                            <rs type="person" ref="#amp_person_21">Otto Hoffmann</rs>.<lb/>
@@ -230,7 +238,7 @@ for any purpose, even commercially.</p>
                               4/21
                            </rs><lb/>
                            Tel. 93/88/155.
-                        </seg>
+                        </add>
                      </seg>
                      <seg>
                         <lb/>3) Will they be able to find work or emigrate before<lb/>
@@ -246,11 +254,11 @@ for any purpose, even commercially.</p>
                      <seg>
                         <lb/>5). <unclear>If</unclear> and when they come, I must know in advance<lb/>
                         so that I can write a note to the<lb/>
-                        <rs type="person" ref="#amp_person_22"><foreign xml:lang="de"><choice><orig>Burgomeister</orig><reg>Bürgermeister</reg></choice></foreign></rs>.
+                        <rs type="person" ref="#amp_person_22"><foreign xml:lang="de">Burgomeister</foreign></rs>.
                      </seg>
                   </p>
                   <p>
-                     Shall be here <unclear>in</unclear> my address until Oc<unclear>t</unclear> 31.st <rs type="event" ref="#amp_event_id_89">After that<lb/>
+                     Shall be here <unclear>in</unclear> my address until Oc<unclear>t</unclear> 31.st <rs type="event" ref="#amp_event_id_89">A<unclear>f</unclear>ter that<lb/>
                      <rs type="place" ref="#amp_place_id_29">77 St Mark's Place .N.Y.C. N.Y 10003</rs></rs> .
                   </p>
                   <closer>

@@ -5,7 +5,7 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Typed Letter Signed Michael O'Sullivan to Stella Musulin 1984-05-31</title>
             <author ref="https://d-nb.info/gnd/1173017283">O'Sullivan, Michael</author>
-            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
                <address>
@@ -27,7 +27,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
+            <date when="2024">2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -67,8 +67,7 @@ for any purpose, even commercially.</p>
       </fileDesc>
       <encodingDesc>
          <listPrefixDef>
-            <prefixDef ident="acdh" matchPattern="(.+)"
-               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+            <prefixDef ident="acdh" matchPattern="(.+)" replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
                <p>Edition Documents Prefix</p>
             </prefixDef>
          </listPrefixDef>
@@ -88,7 +87,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2021-12-15">text transcribed</change>
          <change who="tfruehwirth" when="2021-12-16">text transcribed using Transkribus</change>
@@ -97,6 +96,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-27">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-18">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2024-03-13">entities updated</change>
+         <change who="dgrigoriou tfruehwirth" when="2024-07-15">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -107,9 +107,9 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0232/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0034" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0034" xml:lang="en" hand="#typed">
             <div type="letter"> 
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0231/" type="sheet" ed="1r"/>
                <div type="letter_message"> 
@@ -159,9 +159,9 @@ for any purpose, even commercially.</p>
                      put togther a complete collection of <rs type="person" ref="#amp_person_1">Auden</rs>'s first editions, selections from<lb/>
                      his contributions to periodicals, representative anthologies, <rs type="lit_work" ref="#lit_work_id_121 #lit_work_id_122">his films for<lb/>
                      the <rs type="org" ref="#amp_organization_19">G.P.O Film Unit</rs></rs>, many items connected with his work for the <rs type="org" ref="#amp_organization_33">Group Theatre</rs>,<lb/>
-                     <rs type="lit_work" ref="#lit_work_id_16 #lit_work_id_17 #lit_work_id_18 #lit_work_id_20 #lit_work_id_148 #lit_work_id_149 #lit_work_id_150 #lit_work_id_151 #lit_work_id_152 #lit_work_id_179 #lit_work_id_180 #lit_work_id_181">all the opera libretti</rs>, <del>his</del><rs type="lit_work" ref="#lit_work_id_182 #lit_work_id_183 #lit_work_id_184 #lit_work_id_186 #lit_work_id_187 #lit_work_id_188 #lit_work_id_189"><rs type="person" ref="#amp_person_136">Britten</rs>'s arrangements of his poems</rs> and many other items.<lb/>
+                     <rs type="lit_work" ref="#lit_work_id_16 #lit_work_id_17 #lit_work_id_18 #lit_work_id_20 #lit_work_id_148 #lit_work_id_149 #lit_work_id_150 #lit_work_id_151 #lit_work_id_152 #lit_work_id_179 #lit_work_id_180 #lit_work_id_181">all the opera libretti</rs>, <del>his</del><rs type="lit_work" ref="#lit_work_id_182 #lit_work_id_183 #lit_work_id_184 #lit_work_id_186 #lit_work_id_187 #lit_work_id_188 #lit_work_id_189"><rs type="person" ref="#amp_person_136"><subst><del rend="whiteout">his</del><add place="superimposed">Bri</add></subst>tten</rs>'s arrangements of his poems</rs> and many other items.<lb/>
                      I have also arranged for various portraits of <rs type="person" ref="#amp_person_1">Auden</rs> to be sent to <rs type="place" ref="#amp_place_id_1">Vienna</rs> ; they<lb/>
-                     include <rs type="person" ref="#amp_person_123">Sir William Coldstream</rs><unclear>'</unclear>s 1937 portrait, a portrait by <rs type="person" ref="#amp_person_124">Mervyn Peake</rs> painted<lb/>
+                     include <rs type="person" ref="#amp_person_123">Sir William Coldstream</rs><add place="inline">'</add>s 1937 portrait, a portrait by <rs type="person" ref="#amp_person_124">Mervyn Peake</rs> painted<lb/>
                      in the same year, two drawings by <rs type="person" ref="#amp_person_125">Maurice Field</rs> and a portrait by <rs type="person" ref="#amp_person_126">Don Bachardy</rs>.<lb/>
                      I have also managed to get 26 lithographs by <rs type="person" ref="#amp_person_82">Henry Moore</rs> which he did in 1973 to<lb/>
                      illustrate <rs type="lit_work" ref="#lit_work_id_123">a selection of <rs type="person" ref="#amp_person_1">Auden</rs>'s poems</rs>.
@@ -175,14 +175,14 @@ for any purpose, even commercially.</p>
                   <p>
                      <space quantity="21" unit="char"/>I was terribly disappointed not to have seen you when I was<lb/>
                      in <rs type="place" ref="#amp_place_id_1">Vienna</rs> in March but alas I was at the mercy of my friends who have cars and,<lb/>
-                     as luck would have it,they were all so busy at various things I was left stranded in<lb/>
+                     as luck would have it,they were all so busy at various things I was <add place="above" hand="#handwritten">left </add>stranded in<lb/>
                      <rs type="place" ref="#amp_place_id_1">Vienna</rs> throughout my brief visit.  However I shall be spending September, October<lb/>
                      and November in <rs type="place" ref="#amp_place_id_10">Austria</rs> and I very much look forward to seeing you then.
                   </p>
                   <p>
                      <space quantity="21" unit="char"/>I had a letter from <rs type="person" ref="#amp_person_98">Edward Mendelson</rs> yesterday and he asked<lb/>
                      me to send you his very best wishes which I do along with my own.  I hope this<lb/>
-                     finds you in good spirits and that Summer is <del>being</del> better behaved in <rs type="place" ref="#amp_place_id_10">Austria</rs> <del><gap reason="deleted"/></del>than<lb/>
+                     finds you in good spirits and that Summer is <del rend="whiteout">being</del> better behaved in <rs type="place" ref="#amp_place_id_10">Austria</rs> <subst><del rend="whiteout"><gap reason="illegible" unit="char" quantity="4"/></del><add place="superimposed">than</add></subst><lb/>
                      it is here in <rs type="place" ref="#amp_place_id_249">Ireland</rs>.
                   </p>
                   <closer>

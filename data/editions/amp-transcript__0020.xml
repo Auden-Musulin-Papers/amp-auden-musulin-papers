@@ -5,7 +5,8 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1973-09-24</title>
             <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
-            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+            <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella Mary Bellairs</author>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
                <address>
@@ -27,7 +28,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
+            <date when="2024">2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -95,7 +96,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="tfruehwirth" when="2021-10-18">text transcribed</change>
          <change who="smayer" when="2021-10-19">text transcribed</change>
@@ -104,6 +105,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2024-01-17">entities updated</change>
+         <change who="dgrigoriou tfruehwirth" when="2024-07-15">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -120,13 +122,15 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0098/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#handwritten">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0020" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0020" xml:lang="en" hand="#handwritten">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0095/" type="envelope" ed="1r"/>
                <ab>
-                  L<hi rend="underline">ast letter</hi> .
+                  <add place="margin">
+                     L<hi rend="underline">ast letter</hi> .
+                  </add>
                </ab>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die B<unclear>a</unclear>ronin<lb/>
@@ -164,7 +168,7 @@ for any purpose, even commercially.</p>
                               </address>
                            </seg>
                         </placeName>
-                        <date rend="#block"><del>Dear</del> <del><unclear>O</unclear></del>Sept 24th</date>
+                        <date rend="#block"><del rend="overstrike">Dear</del> <subst><del rend="overwritten"><unclear>O</unclear></del><add place="superimposed">S</add></subst>ept 24th</date>
                      </dateline>
                      <salute>Dear <rs type="person" ref="#amp_person_2">Stella</rs>:</salute>
                   </opener>
@@ -177,7 +181,7 @@ for any purpose, even commercially.</p>
                   <p>
                      Many tha<unclear>n</unclear>ks for the invitation to stay<lb/>
                      the nig<unclear>h</unclear>t <rs type="place" ref="#amp_place_id_11"><unclear>with</unclear> y<unclear>ou</unclear></rs>, but I have already<lb/>
-                     booked a roo<unclear>m</unclear> <unclear>a</unclear>t t<unclear>h</unclear>e <rs type="place" ref="#amp_place_id_225"><unclear>H</unclear>otel <del>Altburg<gap reason="deleted"/></del>hof<lb/>
+                     booked a roo<unclear>m</unclear> <unclear>a</unclear>t t<unclear>h</unclear>e <rs type="place" ref="#amp_place_id_225"><unclear>H</unclear>otel <del rend="overstrike">Altburg<gap reason="illegible" unit="char" atLeast="2" atMost="3"/></del>hof<lb/>
                      Altburgenhof</rs><unclear>,</unclear>
                   </p>
                   <closer>

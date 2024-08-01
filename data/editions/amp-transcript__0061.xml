@@ -4,8 +4,8 @@
             <titleStmt>
                 <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
                 <title level="a">Typed Letter Signed Stella Musulin to Wolfgang Kraus 1977-04-05</title>
-                <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella</author>
-                <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+                <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella Mary Bellairs</author>
+                <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
                 <funder>
                     <name>Austrian Science Fund (FWF)</name>
                     <address>
@@ -27,7 +27,7 @@
             <publicationStmt>
                 <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
                 <pubPlace>Vienna</pubPlace>
-                <date when="2021">2021</date>
+                <date when="2024">2024</date>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                         <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -89,7 +89,7 @@
                 </correspContext>
             </correspDesc>
         </profileDesc>
-        <revisionDesc status="draft">
+        <revisionDesc status="published">
             <change who="pandorfer" when="2022-01-25">template populated with script "create_templates.py"</change>
             <change who="smayer" when="2022-01-27">text transcribed</change>
             <change who="tfruehwirth" when="2022-01-28">text transcribed</change>
@@ -108,9 +108,9 @@
             <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0252/"/>
         </surface>
     </facsimile>
-    <text type="letter" hand="#typed">
+    <text>
         <body>
-            <div type="transcription" xml:id="transcription_amp_0061" xml:lang="de">
+            <div type="transcription" xml:id="transcription_amp_0061" xml:lang="de" hand="#typed">
                <div type="letter">
                 <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0251/" type="sheet" ed="1r"/>
                 <div type="letter_message">
@@ -125,7 +125,9 @@
                                      </address>
                                  </seg>
                              </placeName>
-                             <space quantity="44" unit="char"/><date rend="#block">5. April 1977</date>
+                             <seg rend="#block">
+                                <space quantity="44" unit="char"/><date>5. April 1977</date>
+                             </seg>
                          </dateline>
                      </opener>
                 </div>
@@ -159,7 +161,11 @@
                     </p>
                     <closer>
                         <space quantity="15" unit="char"/><salute>Mit herzlichen Grüßen,</salute>
-                        <signed hand="#handwritten"><rs type="person" ref="#amp_person_2">Stella Musulin</rs> <unclear>´</unclear></signed>
+                        <signed>
+                            <seg hand="#handwritten">
+                                <rs type="person" ref="#amp_person_2">Stella Musulin</rs> <unclear>´</unclear>
+                            </seg>
+                        </signed>
                         <space quantity="15" unit="char"/><signed><rs type="person" ref="#amp_person_2">Stella Musulin</rs>.</signed>
                     </closer>
                 </div>      

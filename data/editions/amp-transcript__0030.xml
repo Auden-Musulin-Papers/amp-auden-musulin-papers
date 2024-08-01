@@ -4,8 +4,8 @@
          <titleStmt>
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Copy Typed Letter Stella Musulin to Bruce Duncan 1985-11-29</title>
-            <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella</author>
-            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+            <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella Mary Bellairs</author>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
                <address>
@@ -36,7 +36,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
+            <date when="2024">2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material for any purpose, even commercially.</p>
@@ -75,8 +75,7 @@
       </fileDesc>
       <encodingDesc>
          <listPrefixDef>
-            <prefixDef ident="acdh" matchPattern="(.+)"
-               replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
+            <prefixDef ident="acdh" matchPattern="(.+)" replacementPattern="https://id.acdh.oeaw.ac.at/auden-musulin-papers/$1">
                <p>Edition Documents Prefix</p>
             </prefixDef>
          </listPrefixDef>
@@ -86,7 +85,7 @@
             <language ident="en">English</language>
          </langUsage>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2022-01-03">text transcribed</change>
          <change who="tfruehwirth" when="2022-01-03">text transcribed using Transkribus</change>
@@ -95,6 +94,7 @@
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-23">entities and correspDesc collated</change>
          <change who="dgrigoriou" when="2023-08-17">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2024-03-14">entities updated, interpGrp added</change>
+         <change who="dgrigoriou tfruehwirth" when="2024-07-15">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -105,16 +105,18 @@
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0222/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0030" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0030" xml:lang="en" hand="#typed">
            <div type="letter">
            <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0221/" type="sheet" ed="1r"/>
                <div type="letter_message">
                   <opener>
                      <dateline>
-                        <space quantity="40" unit="char"/><date rend="#block">29th November 1985.</date>
-                        <persName><rs type="person" ref="#amp_person_156">The Revd. Br<del><unclear>i</unclear></del>uce Duncan,</rs></persName><lb/>
+                        <seg rend="#block">
+                           <space quantity="40" unit="char"/><date>29th November 1985.</date>
+                        </seg><lb/>
+                        <persName><rs type="person" ref="#amp_person_156">The Revd. Br<subst><del rend="overtyped"><unclear>i</unclear></del><add place="superimposed">u</add></subst>ce Duncan,</rs></persName>
                         <placeName>
                            <address>
                               <rs type="place" ref="#amp_place_id_170">The Vicarage,<lb/>
@@ -130,7 +132,7 @@
                      and am working on <rs type="lit_work" ref="#lit_work_id_46">a memoir of <rs type="person" ref="#amp_person_1">W.H. Auden</rs>´s years in Austria</rs><lb/>
                      when I got to know him very well. <space quantity="2" unit="char"/>As he and <rs type="person" ref="#amp_person_4">Chester Kallman</rs><lb/>
                      were used to involving me in domestic catastrophes of various<lb/>
-                     kinds, <del>C</del><del>t</del><unclear>T</unclear>hester asked me to bring order into the chaos which so<lb/>
+                     kinds, <subst><del rend="overtyped"><unclear>T</unclear></del><add place="superimposed">C</add></subst>hester asked me to bring order into the chaos which so<lb/>
                      often follows upon a deathöand in <rs type="event" ref="#amp_event_id_18">this case</rs> was acute because<lb/>
                      of the total lack of comprehension between the anglo-american<lb/>
                      side and the local Austrian authorities. <space quantity="1" unit="char"/>Hence my approach<lb/>
@@ -140,23 +142,23 @@
                   </p>
                   <p>
                      <space quantity="4" unit="char"/>Would you be so kind as to confirm that you took the<lb/>
-                     <rs type="event" ref="#amp_event_id_19" ana="#ana_028">ecumenical service</rs> - shall I<del>S</del>scall it that? in the <rs type="place" ref="#amp_place_id_332">church at<lb/>
+                     <rs type="event" ref="#amp_event_id_19" ana="#ana_028">ecumenical service</rs> - shall I<unclear><subst><del rend="overtyped">S</del><add place="superimposed">s</add></subst></unclear>call it that? in the <rs type="place" ref="#amp_place_id_332">church at<lb/>
                      Kirchstetten</rs> in October 1973, jointly with the <rs type="person" ref="#amp_person_230">parish priest</rs>?
                   </p>
                   <p>    
                      <space quantity="5" unit="char"/>Do you recall the form of service used, and did <rs type="person" ref="#amp_person_88">John Auden</rs><lb/>
-                     consult you about it? <space quantity="1" unit="char"/>I simply cannot remember, and al<del><gap reason="deleted"/></del>s<del>h</del>though<lb/>
+                     consult you about it? <space quantity="1" unit="char"/>I simply cannot remember, and al<subst><del rend="overtyped"><unclear><subst><del rend="overtyped"><gap reason="illegible" unit="char" quantity="1"/></del><add place="superimposed">s</add></subst></unclear>t</del><add place="superimposed">th</add></subst>ough<lb/>
                      there was a long and magnificent passage from the <rs type="lit_work" ref="#lit_work_id_113">NT</rs> which I<lb/>
-                     could have sworn was from  <rs type="lit_work" ref="#lit_work_id_14 #lit_work_id_110">Corinthians</rs>, reading throu<del>t</del>gh <rs type="lit_work" ref="#lit_work_id_14">Cor.I</rs> &amp; <rs type="lit_work" ref="#lit_work_id_110">II</rs><lb/>
+                     could have sworn was from  <rs type="lit_work" ref="#lit_work_id_14 #lit_work_id_110">Corinthians</rs>, reading throu<subst><del rend="overtyped">t</del><add place="superimposed">g</add></subst>h <rs type="lit_work" ref="#lit_work_id_14">Cor.I</rs> &amp; <rs type="lit_work" ref="#lit_work_id_110">II</rs><lb/>
                      nothing seems to ring the right bell. <space quantity="1" unit="char"/>Then there was the burial<lb/>
                      service.  I am told that the whole occasion aroused a great deal<lb/>
-                     of interest here and was m<del>u</del>k<del>u</del>ch discussed:  so normal to the<lb/>
+                     of interest here and was m<subst><del rend="overtyped">ku</del><add place="superimposed">uc</add></subst>h discussed:  so normal to the<lb/>
                      British, in <rs type="place" ref="#amp_place_id_6">Lower Austria</rs> it was a sensation. <space quantity="1" unit="char"/>I should be<lb/>
                      extremely grateful if you could find time to tell me anything<lb/>
                      that you remember, and give me permission to quote you. <space quantity="1" unit="char"/>Not<lb/>
                      everything about <rs type="person" ref="#amp_person_1">Wystan Auden</rs> was very appetising, his private<lb/>
                      life was a mess. <space quantity="1" unit="char"/>But he was kind, generous and totally<lb/>
-                     unpreten<del>s</del>tious, and personally I was devoted to him. <space quantity="1" unit="char"/>It is
+                     unpreten<subst><del rend="overwritten">s</del><add place="superimposed">t</add></subst>ious, and personally I was devoted to him. <space quantity="1" unit="char"/>It is
                   </p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0222/" type="sheet" ed="1v"/>
                   <p prev="true">

@@ -5,7 +5,8 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin 1969-01-04</title>
             <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
-            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+            <author ref="https://d-nb.info/gnd/127246711">Musulin, Stella Mary Bellairs</author>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
                <address>
@@ -27,7 +28,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
+            <date when="2024">2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -104,7 +105,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="tfruehwirth" when="2021-10-06">text transcribed</change>
          <change who="smayer" when="2021-10-07">text transcribed</change>
@@ -113,6 +114,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-21">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-08">container structure updated</change>
          <change who="dgrigoriou smayer tfruehwirth" when="2024-01-08">entities updated, events created</change>
+         <change who="smayer tfruehwirth" when="2024-06-21">revision markup updated</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -129,13 +131,13 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0062/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#handwritten">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0013" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0013" xml:lang="en" hand="#handwritten">
             <div type="envelope">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0059/" type="envelope" ed="1r"/>    
                <ab>
-                  <hi rend="underline">Air<unclear>∼</unclear>Mail</hi>
+                  <hi rend="underline"><unclear>A</unclear>ir<unclear>∼</unclear>Mail</hi>
                </ab>
                <ab>
                   <rs type="person" ref="#amp_person_1">W<unclear>.</unclear>H.Auden</rs><lb/>
@@ -143,17 +145,19 @@ for any purpose, even commercially.</p>
                      <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                      New York City<lb/>
                      New Yo<unclear>r</unclear>k 10003<lb/>
-                     U.S<unclear>,</unclear>A.</rs>
+                     U.S.A<unclear>.</unclear></rs>
                   </address>
                </ab>
                <ab>
-                  <rs type="person" ref="#amp_person_23">Boras</rs>
+                  <add place="margin">
+                     <rs type="person" ref="#amp_person_23">Boras</rs>
+                  </add>
                </ab>
                <ab xml:lang="de">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
                   Stella M<unclear>u</unclear>sulin</rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11">Wien <del>IV</del><lb/>
+                     <rs type="place" ref="#amp_place_id_11">Wien <del rend="overstrike">IV</del><lb/>
                      Neulinggasse 2<unclear>6</unclear>/14<lb/>
                      <foreign xml:lang="en">Austria</foreign><unclear>,</unclear></rs>
                   </address>
@@ -172,10 +176,10 @@ for any purpose, even commercially.</p>
                      <dateline>
                         <placeName>
                            <address>
-                              <rs type="place" ref="#amp_place_id_29"><unclear>7</unclear>7 St Mark's Place<lb/>
+                              <rs type="place" ref="#amp_place_id_29">77 St Mark's Place<lb/>
                               New York City<lb/>
-                              New Y<unclear>or</unclear>k 10003<lb/>
-                              U.S.A.</rs>
+                              New Yo<gap reason="illegible" unit="char" quantity="1"/>k 10003<lb/>
+                              U.S<unclear>,</unclear>A.</rs>
                            </address>
                         </placeName>
                         <date rend="#block">
@@ -203,7 +207,7 @@ for any purpose, even commercially.</p>
                      4/21</rs>. Tel. 93/88/155.
                   </p>
                   <p>
-                     I hear that my <rs type="person" ref="#amp_person_14">old lawyer</rs> <del><gap reason="deleted"/></del> is supervising<lb/>
+                     I hear that my <rs type="person" ref="#amp_person_14">old lawyer</rs> <del rend="overstrike"><gap reason="illegible" unit="char" quantity="1"/></del> is supervising<lb/>
                      <rs type="event" ref="#amp_event_id_13">the case</rs> but have till now heard nothing from<lb/>
                      him. Again coul<unclear>d</unclear> you call hi<unclear>m</unclear> for me.
                   </p>
@@ -214,7 +218,7 @@ for any purpose, even commercially.</p>
                   <p>
                      Terribly sorry to be such a nuis<unclear>a</unclear>nce, <unclear>b</unclear>ut<lb/>
                      I don't k<unclear>now</unclear> what to do. I can't get intouch<lb/>
-                     <gap reason="illegible"/> the Insurance till I know more
+                     <gap reason="illegible" unit="char" atLeast="1" atMost="2"/><unclear>th</unclear> the Insurance till I know more
                   </p>
                   <closer>
                      <salute>

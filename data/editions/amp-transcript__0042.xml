@@ -5,7 +5,7 @@
             <title level="s">Auden Musulin Papers: A Digital Edition of W. H. Auden´s Letters to Stella Musulin (FWF P 33754)</title>
             <title level="a">Autograph Letter Signed W. H. Auden to Stella Musulin with Typescripts W. H. Auden "August 1968" and "Elegy" 1968-10-04</title>
             <author ref="https://d-nb.info/gnd/118650963">Auden, W. H.</author>
-            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruewirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
+            <editor><name xml:id="smayer" ref="https://orcid.org/0000-0002-2915-5888">Mayer, Sandra</name><name xml:id="tfruehwirth" ref="https://orcid.org/0000-0002-3997-5193">Frühwirth, Timo</name><name xml:id="dgrigoriou" ref="https://orcid.org/0000-0002-0914-9245">Grigoriou, Dimitra</name></editor>
             <funder>
                <name>Austrian Science Fund (FWF)</name>
                <address>
@@ -27,7 +27,7 @@
          <publicationStmt>
             <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
             <pubPlace>Vienna</pubPlace>
-            <date when="2021">2021</date>
+            <date when="2024">2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/deed.en">
                   <p>You are free to: Share — copy and redistribute the material in any medium or format; adapt — remix, transform, and build upon the material
@@ -104,7 +104,7 @@ for any purpose, even commercially.</p>
             </correspContext>
          </correspDesc>
       </profileDesc>
-      <revisionDesc status="draft">
+      <revisionDesc status="published">
          <change who="pandorfer" when="2021-09-21">template populated with script "create_templates.py"</change>
          <change who="smayer" when="2021-10-29">text transcribed</change>
          <change who="tfruehwirth" when="2021-11-04">text transcribed using Transkribus</change>
@@ -113,6 +113,7 @@ for any purpose, even commercially.</p>
          <change who="dgrigoriou smayer tfruehwirth" when="2023-02-28">entities and correspDesc collated</change>
          <change who="smayer tfruehwirth" when="2023-08-08">container structure updated</change>
          <change who="smayer tfruehwirth" when="2024-01-02">entities updated, event created</change>
+         <change who="smayer tfruehwirth" when="2024-06-18">revision markup updated, change space quantity for 2nd column</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -129,16 +130,16 @@ for any purpose, even commercially.</p>
          <graphic url="https://iiif.acdh.oeaw.ac.at/amp/amp_0104/"/>
       </surface>
    </facsimile>
-   <text type="letter" hand="#typed">
+   <text>
       <body>
-         <div type="transcription" xml:id="transcription_amp_0042" xml:lang="en">
+         <div type="transcription" xml:id="transcription_amp_0042" xml:lang="en" hand="#typed">
             <div type="envelope" xml:lang="de">
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0033/" type="envelope" ed="1r"/>
                <ab hand="#handwritten">
                   <rs type="person" ref="#amp_person_2">Die Baronin<lb/>
-                  S<del><unclear>e</unclear></del>tella Musulin</rs><lb/>
+                  S<subst><del rend="overwritten"><unclear>e</unclear></del><add place="superimposed">t</add></subst>ella Musulin</rs><lb/>
                   <address>
-                     <rs type="place" ref="#amp_place_id_11"><del>1040</del> Wien <del>IV</del><lb/>
+                     <rs type="place" ref="#amp_place_id_11"><del rend="overstrike">1040</del> Wien <del rend="overstrike">IV</del><lb/>
                      Neulingasse 26</rs>
                   </address>
                </ab>
@@ -155,7 +156,7 @@ for any purpose, even commercially.</p>
             <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0103/" type="sheet" ed="2r"/>
                <div type="poem">
                   <head>
-                     <space extent="undefined quantity of characters plus minimum" min="8" unit="char"/><rs type="lit_work" ref="#lit_work_id_88"><hi rend="underline">AUGUST I<del>(</del>968</hi></rs>
+                     <space extent="undefined quantity of characters plus minimum" min="8" unit="char"/><rs type="lit_work" ref="#lit_work_id_88"><hi rend="underline">AUGUST I<subst><del rend="overtyped">(</del><add place="superimposed">9</add></subst>68</hi></rs>
                   </head>
                   <lg>
                      <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>The ogre does what ogres can,</l>
@@ -200,7 +201,7 @@ for any purpose, even commercially.</p>
                <div type="poem">
                   <head>
                      <space quantity="4" unit="char"/><rs type="lit_work" ref="#lit_work_id_58"><hi rend="underline">ELEGY</hi><lb/>
-                     (<hi rend="underline">In Memoriam <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></hi>. <del>ob</del><lb/>
+                     (<hi rend="underline">In Memoriam <rs type="person" ref="#amp_person_16">Emma Eiermann</rs></hi>. <del rend="overtyped">ob</del><lb/>
                      <space quantity="1" unit="char"/><hi rend="underline">ob.Nov 4th,I967)</hi></rs>
                   </head>
                   <cb n="1"/>
@@ -227,7 +228,7 @@ for any purpose, even commercially.</p>
                   </lg>
                   <lg>   
                      <lb/><space quantity="2" unit="char"/><l>Good witch that you were,</l>
-                     <lb/><space quantity="2" unit="char"/><l><del>S</del>surely you should have foreseen</l>
+                     <lb/><space quantity="2" unit="char"/><l><subst><del rend="overtyped">S</del><add place="superimposed">s</add></subst>urely you should have foreseen</l>
                      <lb/><space quantity="2" unit="char"/><l>the doom that <rs type="event" ref="#amp_event_id_1">your death</rs></l>
                      <lb/><space quantity="2" unit="char"/><l>would spell for your cats and ours:</l>
                      <lb/><space quantity="2" unit="char"/><l>all had to be put away.</l>
@@ -235,7 +236,7 @@ for any purpose, even commercially.</p>
                   <lg>
                      <lb/><space quantity="2" unit="char"/><l>You came with the house,</l>
                      <lb/><space quantity="2" unit="char"/><l>you and your brother <rs type="person" ref="#amp_person_17">Josef</rs>,</l>
-                     <lb/><space quantity="1" unit="char"/><l><del> Sudeten deutsche,</del> <hi rend="underline">Sudetendeutsche</hi>,</l>
+                     <lb/><space quantity="1" unit="char"/><l><del rend="overtyped"> Sudeten deutsche,</del> <hi rend="underline">Sudetendeutsche</hi>,</l>
                      <lb/><space quantity="2" unit="char"/><l>made homeless paupers when <rs type="event" ref="#amp_event_id_52">Czechs</rs></l>
                      <lb/><space quantity="2" unit="char"/><l><rs type="event" ref="#amp_event_id_52">got their turn to be brutal</rs>:</l>
                   </lg>
@@ -269,39 +270,39 @@ for any purpose, even commercially.</p>
                   </lg>
                   <lg>
                      <lb/><space quantity="2" unit="char"/><l>Nor were you ever</l>
-                     <lb/><space quantity="2" unit="char"/><l>one <del>y</del>to behave your temper:</l>
+                     <lb/><space quantity="2" unit="char"/><l>one <subst><del rend="overtyped">y</del><add place="superimposed">t</add></subst>o behave your temper:</l>
                      <lb/><space quantity="2" unit="char"/><l>let Youth pick a fruit</l>
                      <lb/><space quantity="2" unit="char"/><l>or flower,out you would storm,</l>
                      <lb/><space quantity="2" unit="char"/><l>arms whirling,screaming abuse</l>
                   </lg>
                   <cb n="2"/>
                   <lg>
-                     <lb/><space quantity="42" unit="char"/><l>in peasant German</l>
-                     <lb/><space quantity="42" unit="char"/><l>at startled Americans</l>
-                     <lb/><space quantity="42" unit="char"/><l>who had meant no harm,</l>
-                     <lb/><space quantity="42" unit="char"/><l>and,after they'd gone,for days</l>
-                     <lb/><space quantity="42" unit="char"/><l>you would treat us to the sulks.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>in peasant German</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>at startled Americans</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>who had meant no harm,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>and,after they'd gone,for days</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>you would treat us to the sulks.</l>
                   </lg>
                   <lg>
-                     <lb/><space quantity="42" unit="char"/><l>But when in good form,</l>
-                     <lb/><space quantity="42" unit="char"/><l>how enchanting your shy grin,</l>
-                     <lb/><space quantity="42" unit="char"/><l>your soft cat-language:</l>
-                     <lb/><space quantity="42" unit="char"/><l>no,no,<rs type="person" ref="#amp_person_16">Frau E</rs>,dear oddling,</l>
-                     <lb/><space quantity="42" unit="char"/><l>we shall always be grateful.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>But when in good form,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>how enchanting your shy grin,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>your soft cat-language:</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>no,no,<rs type="person" ref="#amp_person_16">Frau E</rs>,dear oddling,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>we shall always be grateful.</l>
                   </lg>
                   <lg>
-                     <lb/><space quantity="42" unit="char"/><l><rs type="event" ref="#amp_event_id_51">After <rs type="person" ref="#amp_person_17">Josef</rs> died</rs></l>
-                     <lb/><space quantity="42" unit="char"/><l>(siblings can live in a bond</l>
-                     <lb/><space quantity="42" unit="char"/><l>as close as wedlock),</l>
-                     <lb/><space quantity="42" unit="char"/><l>you were all amort,your one</l>
-                     <lb/><space quantity="42" unit="char"/><l>wish to rejoin him quickly.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l><rs type="event" ref="#amp_event_id_51">After <rs type="person" ref="#amp_person_17">Josef</rs> died</rs></l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>(siblings can live in a bond</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>as close as wedlock),</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>you were all amort,your one</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>wish to rejoin him quickly.</l>
                   </lg>
                   <lg>
-                     <lb/><space quantity="42" unit="char"/><l>You have,and we're left</l>
-                     <lb/><space quantity="42" unit="char"/><l>with ten years to consider,</l>
-                     <lb/><space quantity="42" unit="char"/><l>astonished at how</l>
-                     <lb/><space quantity="42" unit="char"/><l>vivid they are to recall:</l>
-                     <lb/><space quantity="42" unit="char"/><l><hi rend="underline">Du Gute,schlaf in Ruhe</hi>.</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>You have,and we're left</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>with ten years to consider,</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>astonished at how</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l>vivid they are to recall:</l>
+                     <lb/><space extent="undefined quantity of characters" min="1" unit="char"/><l><hi rend="underline">Du Gute,schlaf in Ruhe</hi>.</l>
                   </lg>
                   <ab>
                      <space quantity="50" unit="char"/>___
