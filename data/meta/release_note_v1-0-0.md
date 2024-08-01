@@ -14,6 +14,8 @@ The ODD is available through the [amp-data GitHub repository](https://github.com
 
 For all correspondence and prose documents, including poetry that forms part of Auden's letters, deletions and additions have been marked up. As before, deleted writing is represented in the transcription via `<del>`; additions are now marked up through the TEI `<add>` element, carrying @place and @hand attributes to indicate the position of the added writing and the writing technology involved. Processes of substitution that involve single or multiple instance of both deletion and addition, are nested within `<subst>`.
 
+***floatingText*** ????
+
 ### 1.3 Project Information
 
 The updated editorial documentation is available through the web application's [documentation page](https://amp.acdh.oeaw.ac.at/editorial-declaration.html) as well as through [GitHub](https://github.com/Auden-Musulin-Papers/amp-data/blob/main/data/meta/editorial-declaration.xml).
@@ -35,3 +37,14 @@ The `Analytics` page features visualizations of AMP data. A line graph illustrat
 The detailed document view now includes options for enabling/disabling the display of `Revision` (deletions and additions) and `Glyph` characters (non-standard composite symbols employed by Auden in his (type-)writing, such as umlaut vowels composed by means of superimposing double quotation marks over vowel characters). In the XML files, these characters are marked up through the `<g>` element, which is linked via @ref to a `<glyph>` description in the TEI header.
 
 Underlines and typographic spaces are now displayed by default; their display does not need to be enabled.
+
+### 2.4 Feature Updates Summary
+
+* Linked Event Organizations #244
+* Persons linked with PMB URI #181
+* Underlines and editorial whitespaces displayed by default #216
+* Finalized Analytics page with new network graph and updated correspondence data #222 #238
+* Biographies revised and changed to a Timeline with events mentioned and linked to the AMPapers #229
+* Team Page rework with new images of core team membes #230
+* New Glyphs representation #224
+* General document structure rework to match new ODD schemas for correspondence and prose documents
