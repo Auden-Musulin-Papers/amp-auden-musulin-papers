@@ -435,8 +435,8 @@ for any purpose, even commercially.</p>
                      <space quantity="25" unit="char"/>______
                   </ab>
                </div>
-               <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0459/" type="cv_sheet" ed="3r-cv"/>
                <div type="poem">
+                  <pb facs="https://iiif.acdh.oeaw.ac.at/amp/amp_0459/" type="cv_sheet" ed="3r-cv"/>
                   <lg>
                      <lb/><space quantity="1" unit="char"/><l><rs type="lit_work" ref="#lit_work_id_168" ana="#ana_022"><unclear>A</unclear>ll folk-t<unclear>a</unclear>les mean that end with</rs></l>
                      <lb/><space quantity="4" unit="char"/><l>A palace wed<unclear>d</unclear>ing,</l>
